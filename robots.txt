@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /*?*
+
+User-agent: Yandex
+Clean-param: utm
+Clean-param: utm_ya_campaign&yabizcmpgn&utm_candidate&yadclid&yadordid&utm_referer&etext
+
+Sitemap: https://kaznaexpert.ru/sitemap.xml

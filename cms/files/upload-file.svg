@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 64 64"
+   aria-labelledby="title"
+   aria-describedby="desc"
+   role="img"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="upload-file.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="6.0625"
+     inkscape:cx="34.721649"
+     inkscape:cy="51.381443"
+     inkscape:window-width="1280"
+     inkscape:window-height="961"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <title
+     id="title2">Upload</title>
+  <desc
+     id="desc4">A line styled icon from Orion Icon Library.</desc>
+  <g
+     id="g833"
+     style="stroke:#353745;stroke-opacity:1;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none">
+    <path
+       d="M 31,44.724627 V 6.2753735 M 19.440322,20.800647 31,6.2753735 42.559678,19.946219"
+       stroke-width="1.62291"
+       stroke-miterlimit="10"
+       stroke-linecap="round"
+       stroke="#202020"
+       fill="none"
+       data-name="layer2"
+       stroke-linejoin="round"
+       id="path6"
+       style="stroke:#353745;stroke-opacity:1;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       d="m 10.382589,38.320733 v 14.533791 h 41.78465 V 38.320733"
+       stroke-width="1.81672"
+       stroke-miterlimit="10"
+       stroke-linecap="round"
+       stroke="#202020"
+       fill="none"
+       data-name="layer1"
+       stroke-linejoin="round"
+       id="path8"
+       style="stroke:#353745;stroke-opacity:1;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+  <metadata
+     id="metadata835">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Upload</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
