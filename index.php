@@ -1,8 +1,8 @@
 <?php
     session_start();
     $connect = mysqli_connect('localhost', 'y98451_dbuser', 'LirXu3Qd&Tifir:8', 'y98451_db');
-    
-    //Admin 
+
+    //Admin
     $user_id = 517727567;
     $sql = mysqli_query($connect, "SELECT * FROM `Users` WHERE `unique_id` = '{$user_id}'");
     if(mysqli_num_rows($sql) > 0){
@@ -10,7 +10,7 @@
     }else{
         echo '<script>alert("Data failed to download")</script>';
     }
-    
+
     //User
     $ran_id = rand(time(), 100000000); //random id for user
     $sql2 = mysqli_query($connect, "INSERT INTO `Users`(`unique_id`, `email`, `password`, `name`, `img`, `status`, `adminvalue`) VALUES ('{$ran_id}', '', '', '{$ran_id}', 'user.png', 'online', '')");
@@ -25,7 +25,7 @@
     }else{
       echo '<script>alert("INSERT User")</script>';
     }
-   
+
 ?>
 
 <!DOCTYPE html>
@@ -33,75 +33,284 @@
 
   <head>
     <meta charset="utf-8">
-    <meta name="description" content="Подача документов в Федеральное Казначейство. Платежи по казначейскому сопровождению, подключение к ГИИС Электронный бюджет, открытие/закрытие лицевого счёта, утверждение сведений об операцияx с целевыми средствами, раздельный учёт"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="preload" href="../fonts/Comfortaa-VariableFont_wght.woff2" as="font" type="font/woff2" crossorigin>
-    <link rel="icon" href="img/icon.png" type="image/x-icon">
-    <link rel="shortcut icon" href="img/icon.png" type="image/x-icon">
-    <link rel="stylesheet" href="css/style.css" type="text/css">
-    <link rel="canonical" href="https://kaznaexpert.ru/"> 
-    <title>Казначейское Сопровождение</title>
-    
+
+    <!-- ============================================================ -->
+    <!-- SEO META                                                      -->
+    <!-- ============================================================ -->
+    <title>Казначейское сопровождение госконтрактов под ключ в СПб и по РФ | КазнаЭксперт</title>
+    <meta name="description" content="Полный аутсорсинг казначейского сопровождения по 44-ФЗ и 223-ФЗ: подключение к ГИИС «Электронный бюджет», открытие лицевого счёта, санкционирование платежей, раздельный учёт. 24 часа от заявки до договора. 15+ лет опыта в Казначействе."/>
+    <meta name="keywords" content="казначейское сопровождение, ГИИС Электронный бюджет, открытие лицевого счёта в казначействе, раздельный учёт по госконтракту, 44-ФЗ, 223-ФЗ"/>
+    <meta name="author" content="КазнаЭксперт">
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+
+    <link rel="canonical" href="https://kaznaexpert.ru/">
+
+    <!-- ============================================================ -->
+    <!-- ICONS                                                         -->
+    <!-- ============================================================ -->
+    <link rel="icon" href="/img/icon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="/img/icon.png" type="image/x-icon">
+    <link rel="apple-touch-icon" href="/img/icon.png">
+
+    <!-- ============================================================ -->
+    <!-- PERFORMANCE: preload / preconnect                             -->
+    <!-- ============================================================ -->
+    <link rel="preload" href="/fonts/Comfortaa-VariableFont_wght.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preconnect" href="https://mc.yandex.ru" crossorigin>
+    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+    <link rel="dns-prefetch" href="https://t.me">
+    <link rel="dns-prefetch" href="https://wa.me">
+
+    <!-- ============================================================ -->
+    <!-- STYLES                                                        -->
+    <!-- ============================================================ -->
+    <link rel="stylesheet" href="/css/style.css" type="text/css">
+
+    <!-- ============================================================ -->
+    <!-- OPEN GRAPH (Facebook, LinkedIn, Telegram, VK)                 -->
+    <!-- ============================================================ -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://kaznaexpert.ru/">
+    <meta property="og:title" content="Казначейское сопровождение госконтрактов под ключ | КазнаЭксперт">
+    <meta property="og:description" content="Полный аутсорсинг казначейского сопровождения по 44-ФЗ и 223-ФЗ. 24 часа от заявки до договора. 15+ лет опыта в Казначействе.">
+    <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="КазнаЭксперт — казначейское сопровождение госконтрактов">
+    <meta property="og:locale" content="ru_RU">
+    <meta property="og:site_name" content="КазнаЭксперт">
+
+    <!-- ============================================================ -->
+    <!-- TWITTER CARD                                                  -->
+    <!-- ============================================================ -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://kaznaexpert.ru/">
+    <meta name="twitter:title" content="Казначейское сопровождение госконтрактов под ключ | КазнаЭксперт">
+    <meta name="twitter:description" content="Полный аутсорсинг казначейского сопровождения по 44-ФЗ и 223-ФЗ. 24 часа от заявки до договора.">
+    <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+    <meta name="twitter:image:alt" content="КазнаЭксперт — казначейское сопровождение">
+
+    <!-- ============================================================ -->
+    <!-- VERIFICATIONS                                                 -->
+    <!-- Google: old code (T-VolneI...) — оставлен от прежнего         -->
+    <!-- разработчика; новая верификация Yaro прошла через DNS         -->
+    <!-- Yandex: подтверждён                                           -->
+    <!-- ============================================================ -->
+    <meta name="google-site-verification" content="T-VolneI_RUJEvudBW_1poT9Z-nu2VUGmO38zWn5GDs" />
+    <meta name="yandex-verification" content="9f594e4b8ecee914" />
+
+    <!-- ============================================================ -->
+    <!-- SCHEMA.ORG: Organization                                      -->
+    <!-- ============================================================ -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "Organization",
+      "@id": "https://kaznaexpert.ru/#organization",
+      "name": "КазнаЭксперт",
+      "alternateName": "Kaznaexpert",
       "url": "https://kaznaexpert.ru/",
-      "logo": "https://kaznaexpert.ru/img/icon.png"
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://kaznaexpert.ru/img/icon.png",
+        "width": 512,
+        "height": 512
+      },
+      "image": "https://kaznaexpert.ru/img/og-image.png",
+      "description": "Полный аутсорсинг казначейского сопровождения государственных контрактов по 44-ФЗ и 223-ФЗ.",
+      "telephone": "+7-981-833-10-10",
+      "email": "kaznaexpert@gmail.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Средний пр. В.О., 88, литера А, оф. 330",
+        "addressLocality": "Санкт-Петербург",
+        "postalCode": "199106",
+        "addressCountry": "RU"
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "Российская Федерация"
+      },
+      "founder": {
+        "@type": "Person",
+        "name": "Михайлов Ярослав",
+        "jobTitle": "Эксперт по казначейскому сопровождению"
+      },
+      "foundingDate": "2021",
+      "sameAs": [
+        "https://t.me/Kaznaexpert",
+        "https://wa.me/+79818331010"
+      ],
+      "contactPoint": [{
+        "@type": "ContactPoint",
+        "telephone": "+7-981-833-10-10",
+        "contactType": "customer service",
+        "email": "kaznaexpert@gmail.com",
+        "areaServed": "RU",
+        "availableLanguage": ["ru"]
+      }]
     }
     </script>
-    
-    <meta name="google-site-verification" content="T-VolneI_RUJEvudBW_1poT9Z-nu2VUGmO38zWn5GDs" />
-    <meta name="yandex-verification" content="9f594e4b8ecee914" />
-    
-     <!--Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-223579262-1">
-        </script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-        
-          gtag('config', 'UA-223579262-1');
-        </script>
-     <!--Global site tag (gtag.js) - Google Analytics -->
-    
-    <!-- Yandex.Metrika counter -->
-    <script type="text/javascript" >
+
+    <!-- ============================================================ -->
+    <!-- SCHEMA.ORG: ProfessionalService (LocalBusiness)               -->
+    <!-- ============================================================ -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ProfessionalService",
+      "@id": "https://kaznaexpert.ru/#localbusiness",
+      "name": "КазнаЭксперт",
+      "image": "https://kaznaexpert.ru/img/og-image.png",
+      "url": "https://kaznaexpert.ru/",
+      "telephone": "+7-981-833-10-10",
+      "email": "kaznaexpert@gmail.com",
+      "priceRange": "$$",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Средний пр. В.О., 88, литера А, оф. 330",
+        "addressLocality": "Санкт-Петербург",
+        "postalCode": "199106",
+        "addressCountry": "RU"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "59.945923",
+        "longitude": "30.282489"
+      },
+      "openingHoursSpecification": [{
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      }],
+      "areaServed": [{
+        "@type": "AdministrativeArea",
+        "name": "Российская Федерация"
+      }],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Услуги казначейского сопровождения",
+        "itemListElement": [
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Подключение к ГИИС «Электронный бюджет»"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Открытие лицевого счёта в Казначействе"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Утверждение сведений об операциях с целевыми средствами"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Проведение платежей по казначейскому сопровождению"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Закрытие лицевого счёта"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Раздельный учёт по госконтракту"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Анализ контракта на казначейское сопровождение"}}
+        ]
+      }
+    }
+    </script>
+
+    <!-- ============================================================ -->
+    <!-- SCHEMA.ORG: WebSite                                           -->
+    <!-- ============================================================ -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "@id": "https://kaznaexpert.ru/#website",
+      "url": "https://kaznaexpert.ru/",
+      "name": "КазнаЭксперт",
+      "description": "Казначейское сопровождение государственных контрактов под ключ",
+      "publisher": {"@id": "https://kaznaexpert.ru/#organization"},
+      "inLanguage": "ru-RU"
+    }
+    </script>
+
+    <!-- ============================================================ -->
+    <!-- SCHEMA.ORG: FAQPage (для AI Overviews / rich snippets)        -->
+    <!-- ============================================================ -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "От какой суммы контракта обязательно казначейское сопровождение в 2026 году?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "По 44-ФЗ казначейское сопровождение обязательно для контрактов от 3 млн ₽ с авансом более 50%, от 100 млн ₽ независимо от аванса, а также для контрактов, финансируемых из бюджетной субсидии или средств национальных проектов."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сколько времени занимает подключение к ГИИС «Электронный бюджет»?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Стандартный срок подключения — 3-7 рабочих дней при условии готовности документов клиента."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Что будет, если не вести раздельный учёт по госконтракту?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Штраф на юридическое лицо составляет 5-10% цены договора, но не более 500 тыс. ₽. На ИП — 5-10%, но не более 250 тыс. ₽. На должностное лицо — 10-50 тыс. ₽."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "С какими регионами вы работаете?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Со всеми регионами Российской Федерации. Работаем удалённо через TeamViewer или AnyDesk. Базовый офис — Санкт-Петербург."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Подписываете ли вы соглашение о неразглашении?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да, NDA подписывается ещё до рассмотрения документов клиента. Это стандартная практика."
+          }
+        }
+      ]
+    }
+    </script>
+
+    <!-- ============================================================ -->
+    <!-- GOOGLE ANALYTICS 4 (gtag.js)                                  -->
+    <!-- Заменён старый UA-223579262-1 (Universal Analytics — EOL 2023)-->
+    <!-- ============================================================ -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-J5BH58Y623"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-J5BH58Y623', {
+        'anonymize_ip': true,
+        'cookie_flags': 'SameSite=None;Secure'
+      });
+    </script>
+
+    <!-- ============================================================ -->
+    <!-- YANDEX METRIKA                                                -->
+    <!-- ============================================================ -->
+    <script type="text/javascript">
        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
        m[i].l=1*new Date();
        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-    
+
        ym(94305898, "init", {
             clickmap:true,
             trackLinks:true,
             accurateTrackBounce:true,
-            webvisor:true
+            webvisor:true,
+            ecommerce:"dataLayer"
        });
     </script>
     <noscript><div><img src="https://mc.yandex.ru/watch/94305898" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-    <!-- /Yandex.Metrika counter -->
 
-    
-    <!-- Top.Mail.Ru counter -->
-    <script type="text/javascript">
-        var _tmr = window._tmr || (window._tmr = []);
-        _tmr.push({id: "3332003", type: "pageView", start: (new Date()).getTime()});
-        (function (d, w, id) {
-          if (d.getElementById(id)) return;
-          var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
-          ts.src = "https://top-fwz1.mail.ru/js/code.js";
-          var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
-          if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
-        })(document, window, "tmr-code");
-    </script>
-    <noscript><div><img src="https://top-fwz1.mail.ru/counter?id=3332003;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru" /></div></noscript>
-    <!-- /Top.Mail.Ru counter -->
-    
-    
+    <!-- Top.Mail.Ru счётчик удалён: не используется в VK Ads/MyTarget -->
+
   </head>
 
   <body>
@@ -130,7 +339,7 @@
           </div>
           <div class="header-body">
             <div class="promo">
-              <h1 class="promo-title">Казначейское<br>сопровождение</h1>
+              <h1 class="promo-title">Казначейское <br>сопровождение</h1>
               <p>От установки ГИИС "Электронный бюджет" <br> до полного сопровождения. </p>
               <div class="animatedbtn"><a href="#contacts" class="btn">Подать заявку</a></div>
             </div>
@@ -147,27 +356,27 @@
             <h2>Компания с богатым опытом </h2>
             <p>Важные факты</p>
             <p>По&shy;высь&shy;те эф&shy;фек&shy;тив&shy;ность и ско&shy;рость ва&shy;ших фи&shy;нан&shy;со&shy;вых опе&shy;ра&shy;ций с на&shy;ми. Ре&shy;ши&shy;те проб&shy;ле&shy;му по&shy;да&shy;чи до&shy;ку&shy;мен&shy;тов в ре&shy;гу&shy;ли&shy;рую&shy;щие фе&shy;де&shy;раль&shy;ные служ&shy;бы. <br>
-            Мы пред&shy;ла&shy;гаем быс&shy;трое и прос&shy;тое сот&shy;руд&shy;ни&shy;чест&shy;во. От Вас пот&shy;ре&shy;бует&shy;ся толь&shy;ко заяв&shy;ка и па&shy;кет до&shy;ку&shy;мен&shy;тов.  </p> 
+            Мы пред&shy;ла&shy;гаем быс&shy;трое и прос&shy;тое сот&shy;руд&shy;ни&shy;чест&shy;во. От Вас пот&shy;ре&shy;бует&shy;ся толь&shy;ко заяв&shy;ка и па&shy;кет до&shy;ку&shy;мен&shy;тов.  </p>
             <h3> Вы должны знать </h3>
             <p>В на&shy;шей ко&shy;ман&shy;де ра&shy;бо&shy;та&shy;ют про&shy;фес&shy;си&shy;она&shy;лы с мно&shy;го&shy;лет&shy;ним опы&shy;том в Каз&shy;на&shy;чейст&shy;ве.</p>
           </div>
         </div>
       </section>
-      
-      
+
+
       <section class="callus" >
         <div class="container">
           <div class="callus-intro">
             <h2>Перезвоните мне!</h2>
             <form id="callus-form" action="#">
               <input type="tel" id="callus-form-tel" class="_required_callus" data-tel-input placeholder="Телефон" pattern=".*.*.*.*\d{3}.*.*\d{3}.*\d{2}.*\d{2,}" title="Введите номер до конца" maxlength="18" required>
-              <label class="checkbox">Я даю со&shy;гла&shy;сие на об&shy;ра&shy;бот&shy;ку пер&shy;со&shy;наль&shy;ных дан&shy;ных в со&shy;от&shy;вет&shy;ст&shy;вии с <a href="privacy policy.pdf" target="_blank">по&shy;ли&shy;ти&shy;кой кон&shy;фи&shy;ден&shy;ци&shy;аль&shy;нос&shy;ти</a>
+              <label class="checkbox">Я даю со&shy;гла&shy;сие на об&shy;ра&shy;бот&shy;ку пер&shy;со&shy;наль&shy;ных дан&shy;ных в со&shy;от&shy;вет&shy;ст&shy;вии с <a href="/privacy/" target="_blank">по&shy;ли&shy;ти&shy;кой кон&shy;фи&shy;ден&shy;ци&shy;аль&shy;нос&shy;ти</a>
                 <input type="checkbox" class="_required_callus" required>
                 <span class="checkmark"></span>
               </label>
               <input type="submit" class="callus-btn _required_callus" value="Отправить" disabled>
             </form>
-          </div> 
+          </div>
         </div>
       </section>
 
@@ -179,7 +388,7 @@
               <button class="button-prev"></button>
               <button class="button-next"></button>
             </div>
-            
+
             <div class="service-body">
               <div class="column">
                 <div class="service-item">
@@ -200,7 +409,7 @@
               </div>
               <div class="column">
                 <div class="service-item">
-                  <h2 class="service-title">Утверждение сведений об операцияx с целевыми средствами</h2>
+                  <h2 class="service-title">Утверждение сведений об операциях с целевыми средствами</h2>
                   <p>Распределение суммы контракта по кодам расходов в соответствии с требованиями Казначейства</p>
                 </div>
               </div>
@@ -229,8 +438,8 @@
                 </div>
               </div>
             </div>
-            
-          </div>  
+
+          </div>
         </div>
       </section>
 
@@ -249,7 +458,7 @@
                 <span class="callout2">Это поле обязательно для заполнения</span>
                 <img src="img/tick.svg" class="callout-img2" alt="tick">
                 <textarea id="message" placeholder="Сообщение"></textarea>
-                <label class="checkbox">Я даю согласие на обработку персональных данных в соответствии с <a href="privacy_policy.pdf" target="_blank">политикой конфиденциальности</a>
+                <label class="checkbox">Я даю согласие на обработку персональных данных в соответствии с <a href="/privacy/" target="_blank">политикой конфиденциальности</a>
                   <input type="checkbox" class="_required" required>
                   <span class="checkmark"></span>
                 </label>
@@ -271,7 +480,7 @@
                   <a href="https://wa.me/+79818331010" class="social-btn"><svg><use href="#whatsup" xlink:href="#whatsup"></use></svg></a>
                  </div></p>
             </div>
-          </div>  
+          </div>
         </div>
       </section>
 
@@ -314,35 +523,35 @@
       <section>
         <div id="popup" class="popup">
           <div class="popup-content">
-            <a href="#footer" class="popup-close"><img src="img/close-button.svg" alt=""></a>
+            <a href="#footer" class="popup-close"><img src="img/close-button.svg" alt="Закрыть чат"></a>
             <div class="chat-area">
               <div class="header">
-                <img src="cms/files/<?php echo $row['img']; ?>" alt=""> 
+                <img src="cms/files/<?php echo $row['img']; ?>" alt="Аватар оператора чата">
                 <div class="details">
                   <span><?php echo $row['name']; ?></span>
                   <p><?php echo $row['status']; ?></p>
                 </div>
               </div>
               <div class="chat-box">
-               
+
               </div>
               <form action="#" class="typing-area" enctype="multipart/form-data">
                 <input type="text" id="outgoing_id" name="outgoing_id" value="<?php echo $_SESSION['unique_id']; ?>" hidden>
                 <input type="text" id="incoming_id" name="incoming_id" value="<?php echo $user_id; ?>" hidden>
-                <label><img src="cms/files/fileUpload.svg" alt="">
+                <label><img src="cms/files/fileUpload.svg" alt="Прикрепить файл">
                       <input type="file" accept="image/*,.pdf,.doc,.docx,.xml,.xls,.xlsx,.ppt,.pptx,.txt" class="file" name="file">
                       <span class="chat-callout">только "jpeg", "jpg", "png", "tiff", "gif", "svg", "webp","pdf", "doc", "docx", "xml", "xls", "xlsx", "ppt", "pptx", "txt"</span>
                 </label>
                 <input type="text" class="input-field" name="message" placeholder="Сообщение..." autocomplete="off">
-                <button><img src="cms/files/sendbutton.svg" alt=""></button>
+                <button aria-label="Отправить сообщение"><img src="cms/files/sendbutton.svg" alt="Отправить"></button>
               </form>
             </div>
-          </div> 
+          </div>
         </div>
         <a href="#popup" class="popup-link"><img src="img/chat.png" width="200px" alt="chat image"></a>
         <a href="#popup" class="popup-link-mobile"><img src="img/chat_mobile.png" width="80px" alt="chat image mobile"></a>
       </section>
-      
+
       <footer>
         <div class="container">
           <div class="main-footer">
@@ -356,15 +565,16 @@
                   <a href="https://t.me/Kaznaexpert" class="social-btn"><svg><use href="#telegram" xlink:href="#telegram"></use></svg></a>
                   <a href="https://wa.me/+79818331010" class="social-btn"><svg><use href="#whatsup" xlink:href="#whatsup"></use></svg></a>
                </div>
+              <p style="font-size:12px;margin-top:8px;"><a href="/privacy/" style="color:inherit;opacity:.7;">Политика конфиденциальности</a></p>
             </div>
           </div>
         </div>
       </footer>
 
     </div>
-    <script src="js/main.js"></script> 
+    <script src="js/main.js"></script>
   </body>
-  
+
   <div class="svgs">
   <svg>
     <symbol id="phone" viewBox="0 0 568.02 500">
@@ -390,14 +600,14 @@
         </g>
       </g>
     </symbol>
-  </svg> 
-  
+  </svg>
+
   <svg width="16" height="16" fill="currentColor">
     <symbol id="mail" viewBox="0 0 16 16">
       <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z"/>
     </symbol>
-  </svg>  
-  
+  </svg>
+
   <svg width="256px" height="256px">
     <symbol id="telegram" viewBox="0 0 256 256">
       <g>
@@ -408,7 +618,7 @@
       </g>
     </symbol>
   </svg>
-  
+
   <svg>
     <symbol id="whatsup" viewBox="0 0 58 58">
       <g>
@@ -417,15 +627,11 @@
         <path style="fill:#FFFFFF;" d="M47.683,37.985c-1.316-2.487-6.169-5.331-6.169-5.331c-1.098-0.626-2.423-0.696-3.049,0.42
           c0,0-1.577,1.891-1.978,2.163c-1.832,1.241-3.529,1.193-5.242-0.52l-3.981-3.981l-3.981-3.981c-1.713-1.713-1.761-3.41-0.52-5.242
           c0.272-0.401,2.163-1.978,2.163-1.978c1.116-0.627,1.046-1.951,0.42-3.049c0,0-2.844-4.853-5.331-6.169
-          c-1.058-0.56-2.357-0.364-3.203,0.482l-1.758,1.758c-5.577,5.577-2.831,11.873,2.746,17.45l5.097,5.097l5.097,5.097
+          c-1.058-0.56-2.357-0.364-3.203,0.482l-1.758,1.758c-5.577,5.577-2.761,11.873,2.746,17.45l5.097,5.097l5.097,5.097
           c5.577,5.577,11.873,8.323,17.45,2.746l1.758-1.758C48.048,40.341,48.243,39.042,47.683,37.985z"/>
       </g>
     </symbol>
   </svg>
-  
+
 </div>
 </html>
-
-
-
-<!-- (=^_^=) -->

@@ -1,8 +1,135 @@
+# robots.txt для kaznaexpert.ru
+# Дата обновления: 2026-05-28
+# Цель: разрешить классический поиск (Яндекс, Google) + явный allow для AI-краулеров
+
+# ============================================================
+# КЛАССИЧЕСКИЕ ПОИСКОВЫЕ СИСТЕМЫ
+# ============================================================
+
 User-agent: *
 Disallow: /*?*
+Disallow: /cms/
+Disallow: /tmp/
+Disallow: /backup/
+Allow: /
 
 User-agent: Yandex
-Clean-param: utm
+Disallow: /*?*
+Disallow: /cms/
+Disallow: /tmp/
+Disallow: /backup/
+Allow: /
+Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&yclid&_openstat
 Clean-param: utm_ya_campaign&yabizcmpgn&utm_candidate&yadclid&yadordid&utm_referer&etext
 
+User-agent: Googlebot
+Allow: /
+Disallow: /cms/
+Disallow: /tmp/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /cms/
+
+# ============================================================
+# AI-КРАУЛЕРЫ (LLM, GEO-оптимизация)
+# Явно разрешаем индексацию для попадания в ответы ИИ
+# ============================================================
+
+# OpenAI: ChatGPT, GPT-4, поиск в ChatGPT
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Anthropic: Claude
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# Google AI: Gemini, AI Overviews, Bard
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+# Яндекс GPT, Алиса, Нейро
+User-agent: YandexGPT
+Allow: /
+
+# Apple Intelligence
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Common Crawl (используется большинством LLM для обучения)
+User-agent: CCBot
+Allow: /
+
+# Microsoft Copilot
+User-agent: BingPreview
+Allow: /
+
+# Cohere
+User-agent: cohere-ai
+Allow: /
+
+# DeepSeek
+User-agent: DeepSeekBot
+Allow: /
+
+# Meta AI
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# Mistral
+User-agent: MistralAI-User
+Allow: /
+
+# You.com
+User-agent: YouBot
+Allow: /
+
+# Pinterest
+User-agent: Pinterestbot
+Allow: /
+
+# Diffbot (используется многими LLM для обогащения)
+User-agent: Diffbot
+Allow: /
+
+# ============================================================
+# СЛУЖЕБНОЕ
+# ============================================================
+
+# Запрет AdsBot, который часто шумит без пользы
+User-agent: AdsBot-Google
+Disallow: /
+
+# Sitemap
 Sitemap: https://kaznaexpert.ru/sitemap.xml
+
+# Host (исторически — для Яндекса; не вредит)
+Host: https://kaznaexpert.ru

@@ -1,0 +1,34 @@
+/* TEAM */
+
+Founder & Lead Expert: Михайлов Ярослав
+Specialty: Казначейское сопровождение госконтрактов
+Experience: 15+ лет работы в системе Федерального Казначейства
+Contact: kaznaexpert@gmail.com
+Telegram: @Kaznaexpert
+From: Санкт-Петербург, Россия
+
+
+/* SITE */
+
+Last update: 2026/05/28
+Standards: HTML5, CSS3, ES6+
+Language: Russian
+Doctype: HTML5
+Hosting: Fornex (RU)
+Cache strategy: Browser cache + immutable for static assets
+Security: HSTS, CSP, X-Content-Type-Options, Referrer-Policy
+
+/* AI */
+
+AI crawlers welcome. See:
+- /robots.txt for crawler permissions
+- /llms.txt for site index
+- /llms-full.txt for full content database
+
+We prepare structured content for AI Overviews, ChatGPT, Claude,
+Perplexity, Яндекс Нейро, Алиса, Google Gemini.
+
+/* THANKS */
+
+Open source community for the tools and standards that make
+the modern web possible.

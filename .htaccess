@@ -1,49 +1,233 @@
+# ============================================================
+# .htaccess для kaznaexpert.ru
+# Дата: 2026-05-28
+# Сборка: HTTP→HTTPS (было), 301 www→без-www (новое),
+#         блокировка /222/ (новое), кэширование (новое),
+#         security headers (новое), блокировка IP (было)
+# ============================================================
+
+# --- ВКЛЮЧЕНИЕ ДВИЖКА ПЕРЕЗАПИСИ ---
 RewriteEngine On
+RewriteBase /
+
+# --- 1. HTTPS-РЕДИРЕКТ (сохранено из старого .htaccess) ---
 RewriteCond %{SERVER_PORT} !^443$
 RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
 
+# --- 2. WWW → БЕЗ WWW (исправляет дубль) ---
+RewriteCond %{HTTP_HOST} ^www\.kaznaexpert\.ru$ [NC]
+RewriteRule ^(.*)$ https://kaznaexpert.ru/$1 [R=301,L]
 
+# --- 3. /222/ → 410 Gone (выпиливаем мусор из индекса) ---
+# Папка /222/ — тестовый шаблон, физически удаляется. Этот блок
+# гарантирует, что Яндекс/Google получат сигнал «страница навсегда удалена»
+# и выкинут её из выдачи. Действует даже если файлы остались.
+RewriteRule ^222(/.*)?$ - [G,L]
+
+# --- 4. Защитные паттерны: убираем index.php из URL ---
+# Когда пользователь вбивает kaznaexpert.ru/index.php — редирект на /
+RewriteCond %{THE_REQUEST} ^[A-Z]+\s/index\.php[?\s] [NC]
+RewriteRule ^index\.php$ / [R=301,L]
+
+# --- 5. Удаление множественных слешей ---
+RewriteCond %{THE_REQUEST} //
+RewriteCond %{REQUEST_URI} ^(.*?)//+(.*)$
+RewriteRule . %1/%2 [R=301,L]
+
+# ============================================================
+# КЭШИРОВАНИЕ (Cache-Control + Expires)
+# Заменяет no-store, no-cache из текущих заголовков
+# ============================================================
+
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresDefault                              "access plus 1 month"
+
+  # HTML — короткий кэш (5 минут)
+  ExpiresByType text/html                     "access plus 5 minutes"
+  ExpiresByType application/xhtml+xml         "access plus 5 minutes"
+
+  # XML и текстовые — короткий
+  ExpiresByType application/xml               "access plus 1 hour"
+  ExpiresByType text/xml                      "access plus 1 hour"
+  ExpiresByType application/json              "access plus 1 hour"
+
+  # CSS и JS — месяц (версионирование через ?v=... в HTML)
+  ExpiresByType text/css                      "access plus 1 month"
+  ExpiresByType application/javascript        "access plus 1 month"
+  ExpiresByType text/javascript               "access plus 1 month"
+
+  # Изображения — год
+  ExpiresByType image/jpeg                    "access plus 1 year"
+  ExpiresByType image/jpg                     "access plus 1 year"
+  ExpiresByType image/png                     "access plus 1 year"
+  ExpiresByType image/gif                     "access plus 1 year"
+  ExpiresByType image/webp                    "access plus 1 year"
+  ExpiresByType image/avif                    "access plus 1 year"
+  ExpiresByType image/svg+xml                 "access plus 1 year"
+  ExpiresByType image/x-icon                  "access plus 1 year"
+  ExpiresByType image/vnd.microsoft.icon      "access plus 1 year"
+
+  # Шрифты — год
+  ExpiresByType font/woff                     "access plus 1 year"
+  ExpiresByType font/woff2                    "access plus 1 year"
+  ExpiresByType application/font-woff         "access plus 1 year"
+  ExpiresByType application/font-woff2        "access plus 1 year"
+  ExpiresByType application/x-font-ttf        "access plus 1 year"
+  ExpiresByType application/vnd.ms-fontobject "access plus 1 year"
+
+  # PDF и документы
+  ExpiresByType application/pdf               "access plus 1 month"
+
+  # robots.txt и sitemap — день (чтобы поисковики получали свежее)
+  <FilesMatch "^(robots\.txt|sitemap\.xml|llms\.txt|llms-full\.txt|humans\.txt)$">
+    ExpiresDefault "access plus 1 day"
+  </FilesMatch>
+</IfModule>
+
+# Cache-Control более точный, чем Expires
+<IfModule mod_headers.c>
+  # HTML — короткий кэш
+  <FilesMatch "\.(html|htm|php)$">
+    Header set Cache-Control "public, max-age=300, must-revalidate"
+  </FilesMatch>
+
+  # CSS / JS — месяц с обязательной проверкой
+  <FilesMatch "\.(css|js)$">
+    Header set Cache-Control "public, max-age=2592000"
+  </FilesMatch>
+
+  # Картинки и шрифты — immutable на год
+  <FilesMatch "\.(jpg|jpeg|png|gif|webp|avif|svg|ico|woff|woff2|ttf|otf|eot)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+
+  # AI-файлы — день
+  <FilesMatch "^(robots\.txt|sitemap\.xml|llms\.txt|llms-full\.txt|humans\.txt)$">
+    Header set Cache-Control "public, max-age=86400"
+  </FilesMatch>
+</IfModule>
+
+# ============================================================
+# ЗАГОЛОВКИ БЕЗОПАСНОСТИ
+# ============================================================
+
+<IfModule mod_headers.c>
+  # HSTS — принудительный HTTPS на год + поддомены + preload
+  Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+
+  # Запрет MIME-sniffing
+  Header always set X-Content-Type-Options "nosniff"
+
+  # X-Frame-Options — защита от clickjacking
+  Header always set X-Frame-Options "SAMEORIGIN"
+
+  # Referrer-Policy — какие данные передавать в заголовке Referer
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+
+  # Permissions-Policy — отключение фичей браузера, которые не нужны
+  Header always set Permissions-Policy "geolocation=(), microphone=(), camera=(), payment=(), usb=(), accelerometer=()"
+
+  # X-XSS-Protection — устарел в современных браузерах, но для старых браузеров оставляем
+  Header always set X-XSS-Protection "1; mode=block"
+
+  # Content-Security-Policy — базовая. После проверки можно ужесточить.
+  # Сейчас разрешены: счётчики Я.Метрики, GA4, Top.Mail.Ru, шрифты Google
+  Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://mc.yandex.ru https://www.googletagmanager.com https://www.google-analytics.com https://top-fwz1.mail.ru https://api.telegram.org; style-src 'self' 'unsafe-inline'; img-src 'self' data: https: blob:; font-src 'self' data:; connect-src 'self' https://mc.yandex.ru https://www.google-analytics.com https://api.telegram.org; frame-src 'self' https://mc.yandex.ru; object-src 'none'; base-uri 'self'; form-action 'self';"
+
+  # Разрешение длинных сниппетов и больших превью для ИИ-поиска
+  Header always set X-Robots-Tag "max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+</IfModule>
+
+# ============================================================
+# СЖАТИЕ (gzip / brotli)
+# ============================================================
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript
+  AddOutputFilterByType DEFLATE application/javascript application/x-javascript
+  AddOutputFilterByType DEFLATE application/json application/xml
+  AddOutputFilterByType DEFLATE application/rss+xml application/atom+xml
+  AddOutputFilterByType DEFLATE image/svg+xml application/x-font-ttf font/opentype
+</IfModule>
+
+# ============================================================
+# КОДИРОВКА
+# ============================================================
+
+AddDefaultCharset UTF-8
+AddCharset UTF-8 .html .htm .css .js .json .xml .txt .md
+
+# ============================================================
+# СКРЫТИЕ ЧУВСТВИТЕЛЬНЫХ ФАЙЛОВ
+# ============================================================
+
+# Блокируем доступ к скрытым файлам и папкам (.git, .env, .htaccess сам, и т.д.)
+<FilesMatch "^\.">
+  Order allow,deny
+  Deny from all
+</FilesMatch>
+
+# Блокируем доступ к бэкап- и временным файлам
+<FilesMatch "\.(bak|backup|swp|old|sql|log|orig|tmp)$">
+  Order allow,deny
+  Deny from all
+</FilesMatch>
+
+# Блокируем доступ к ini-файлам PHP
+<FilesMatch "\.(ini)$">
+  Order allow,deny
+  Deny from all
+</FilesMatch>
+
+# Блокируем README, composer и прочие dev-файлы
+<FilesMatch "(README|CHANGELOG|composer\.json|composer\.lock|package\.json|package-lock\.json)$">
+  Order allow,deny
+  Deny from all
+</FilesMatch>
+
+# ============================================================
+# СЛУЖЕБНЫЕ ИСКЛЮЧЕНИЯ
+# ============================================================
+
+# Разрешаем 403.shtml (на случай кастомной страницы ошибки)
 <Files 403.shtml>
-order allow,deny
-allow from all
+  Order allow,deny
+  Allow from all
 </Files>
 
+# Разрешаем yandex_*.html и google*.html (верификация поисковиков)
+<FilesMatch "^(yandex_[a-f0-9]+\.html|google[a-f0-9]+\.html)$">
+  Order allow,deny
+  Allow from all
+</FilesMatch>
+
+# Разрешаем папку .well-known (для SSL-сертификатов и др.)
+<IfModule mod_alias.c>
+  RewriteRule ^\.well-known/ - [L]
+</IfModule>
+
+# ============================================================
+# БЛОКИРОВКА ВРЕДОНОСНЫХ IP (сохранено из старого .htaccess)
+# ============================================================
+
+Order allow,deny
 deny from 77.91.194.186
 deny from 217.66.154.129
+allow from all
 
-# BEGIN cPanel-generated php ini directives, do not edit
-# Manual editing of this file may result in unexpected behavior.
-# To make changes to this file, use the cPanel MultiPHP INI Editor (Home >> Software >> MultiPHP INI Editor)
-# For more information, read our documentation (https://go.cpanel.net/EA4ModifyINI)
-<IfModule php8_module>
-   php_flag display_errors Off
-   php_value max_execution_time 30
-   php_value max_input_time 60
-   php_value max_input_vars 10000
-   php_value memory_limit 128M
-   php_value post_max_size 128M
-   php_value session.gc_maxlifetime 1440
-   php_value session.save_path "/var/cpanel/php/sessions/ea-php82"
-   php_value upload_max_filesize 128M
-   php_flag zlib.output_compression Off
-</IfModule>
-<IfModule lsapi_module>
-   php_flag display_errors Off
-   php_value max_execution_time 30
-   php_value max_input_time 60
-   php_value max_input_vars 10000
-   php_value memory_limit 128M
-   php_value post_max_size 128M
-   php_value session.gc_maxlifetime 1440
-   php_value session.save_path "/var/cpanel/php/sessions/ea-php82"
-   php_value upload_max_filesize 128M
-   php_flag zlib.output_compression Off
-</IfModule>
-# END cPanel-generated php ini directives, do not edit
+# ============================================================
+# КАСТОМНЫЕ СТРАНИЦЫ ОШИБОК (опционально, на будущее)
+# ============================================================
 
-# php -- BEGIN cPanel-generated handler, do not edit
-# Set the “ea-php82” package as the default “PHP” programming language.
-<IfModule mime_module>
-  AddHandler application/x-httpd-ea-php82___lsphp .php .php8 .phtml
-</IfModule>
-# php -- END cPanel-generated handler, do not edit
+# ErrorDocument 404 /404.html
+# ErrorDocument 500 /500.html
+
+# ============================================================
+# КОНЕЦ .htaccess
+# Замечания:
+# - cPanel-сгенерированные блоки <IfModule php7_module> УБРАНЫ
+#   (PHP 7.3 больше не используется, обновлён до 8.2)
+# - PHP-настройки теперь живут в /home/y98451/public_html/kaznaexpert.ru/.user.ini
+# - При обновлении PHP до 8.3+ ничего трогать не нужно
+# ============================================================
