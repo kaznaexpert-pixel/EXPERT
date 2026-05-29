@@ -24,7 +24,9 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
 // === Конфиг ===
 $CONFIG = [
     'email_to'      => ['manager@kaznaexpert.ru', 'kaznaexpert@gmail.com'],
-    'email_from'    => 'noreply@kaznaexpert.ru',
+    // From / envelope-sender ДОЛЖЕН быть реальным ящиком на домене,
+    // иначе Exim (cPanel) отклоняет письмо и оно не доходит.
+    'email_from'    => 'manager@kaznaexpert.ru',
     'log_path'      => '/home/y98451/leads.log',
     'rate_limit_window' => 60,
 ];
@@ -83,11 +85,13 @@ $body .= "─────────────────────\n";
 $body .= "Перезвонить в течение 15 минут\n";
 
 $headers = "From: КазнаЭксперт <{$CONFIG['email_from']}>\r\n";
+$headers .= "Reply-To: {$CONFIG['email_from']}\r\n";
 $headers .= "Content-Type: text/plain; charset=UTF-8\r\n";
 $headers .= "X-Mailer: kaznaexpert-lead-api\r\n";
 
 $mail_to = is_array($CONFIG['email_to']) ? implode(', ', $CONFIG['email_to']) : $CONFIG['email_to'];
-$mail_sent = @mail($mail_to, $subject, $body, $headers);
+// 5-й параметр (-f) задаёт envelope-sender — нужно для приёма Exim и выравнивания SPF.
+$mail_sent = @mail($mail_to, $subject, $body, $headers, '-f' . $CONFIG['email_from']);
 
 // === Лог ===
 $log_line = sprintf(
