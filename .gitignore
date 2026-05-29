@@ -4,6 +4,3 @@
 222/
 cms/uploads/*
 !cms/uploads/.gitkeep
-
-# SMTP-секреты — только на сервере, никогда не коммитим
-php/lead.config.php
