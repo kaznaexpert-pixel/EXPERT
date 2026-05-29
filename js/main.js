@@ -139,3 +139,111 @@ if (contactsform) {
         });
     });
 }
+
+// ============================================================
+// Hero lead form: реальный API submit
+// ============================================================
+(function() {
+  var form = document.getElementById('hero-form');
+  if (!form) return;
+
+  var submit = form.querySelector('.v2-form-submit');
+  var tel = document.getElementById('hero-tel');
+  var consent = document.getElementById('hero-consent');
+  var card = form.closest('.v2-hero-action');
+
+  function showError(msg) {
+    var existing = form.querySelector('.v2-form-error');
+    if (existing) existing.remove();
+    var div = document.createElement('div');
+    div.className = 'v2-form-error';
+    div.textContent = msg;
+    form.insertBefore(div, form.firstChild);
+  }
+
+  function showThanks(phoneText) {
+    if (!card) return;
+    card.innerHTML =
+      '<div class="v2-thanks">' +
+        '<div class="v2-thanks-icon" aria-hidden="true">✓</div>' +
+        '<h2>Заявка принята</h2>' +
+        '<p>Перезвоним на <strong>' + phoneText + '</strong> в течение 15 минут в рабочее время. ' +
+        'Если срочно — напишите в один из мессенджеров ниже.</p>' +
+        '<div class="v2-thanks-links">' +
+          '<a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>' +
+          '<a href="https://wa.me/+79818331010" target="_blank" rel="noopener">WhatsApp</a>' +
+        '</div>' +
+      '</div>';
+  }
+
+  form.addEventListener('submit', async function(e) {
+    e.preventDefault();
+    var phone = tel.value.trim();
+    var phoneDigits = phone.replace(/\D/g, '');
+    if (phoneDigits.length < 10) {
+      showError('Укажите корректный номер телефона');
+      tel.focus();
+      return;
+    }
+    if (!consent.checked) {
+      showError('Поставьте галочку согласия на обработку данных');
+      return;
+    }
+
+    submit.disabled = true;
+    var originalText = submit.textContent;
+    submit.textContent = 'Отправляем…';
+
+    try {
+      var res = await fetch('/php/lead.php', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ phone: phone, source: 'hero' }),
+      });
+
+      if (res.ok) {
+        try { if (typeof gtag === 'function') gtag('event', 'generate_lead', { source: 'hero', value: 1 }); } catch (_) {}
+        try { if (typeof ym === 'function') ym(94305898, 'reachGoal', 'LEAD_HERO'); } catch (_) {}
+        showThanks(phone);
+      } else {
+        var data = await res.json().catch(function() { return {}; });
+        throw new Error(data.error || 'Server error ' + res.status);
+      }
+    } catch (err) {
+      submit.disabled = false;
+      submit.textContent = originalText;
+      showError('Не удалось отправить. Попробуйте ещё раз или напишите в Telegram / WhatsApp.');
+      console.error('Lead submit error:', err);
+    }
+  });
+})();
+
+// ============================================================
+// Sticky header: класс .is-scrolled при scroll > 12px
+// ============================================================
+(function() {
+  var header = document.querySelector('.v2-header');
+  if (!header) return;
+
+  var ticking = false;
+  var threshold = 12;
+
+  function update() {
+    if (window.scrollY > threshold) {
+      header.classList.add('is-scrolled');
+    } else {
+      header.classList.remove('is-scrolled');
+    }
+    ticking = false;
+  }
+
+  function onScroll() {
+    if (!ticking) {
+      window.requestAnimationFrame(update);
+      ticking = true;
+    }
+  }
+
+  window.addEventListener('scroll', onScroll, { passive: true });
+  update();
+})();

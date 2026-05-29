@@ -4,3 +4,6 @@
 222/
 cms/uploads/*
 !cms/uploads/.gitkeep
+
+# Secrets — server-side only, never committed
+php/lead.config.php

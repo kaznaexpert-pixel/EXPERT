@@ -142,15 +142,36 @@
 }
 
 /* ============================================================
- * HEADER — высокая специфичность + правильный фон + логотип-герб
+ * HEADER — sticky + backdrop blur (Apple/Stripe style)
  * ============================================================ */
 
 .v2 .v2-header {
-  background: var(--bg);
+  position: sticky;
+  top: 0;
+  z-index: 100;
   padding: 22px 0;
-  border-bottom: 1px solid var(--hair);
-  position: relative;
-  z-index: 10;
+  background: rgba(244, 241, 235, 0.78);
+  -webkit-backdrop-filter: saturate(140%) blur(14px);
+  backdrop-filter: saturate(140%) blur(14px);
+  border-bottom: 1px solid transparent;
+  transition: background .25s ease,
+              border-color .25s ease,
+              padding .25s ease,
+              box-shadow .25s ease;
+  will-change: background, padding;
+}
+
+.v2 .v2-header.is-scrolled {
+  background: rgba(244, 241, 235, 0.92);
+  border-bottom-color: var(--hair-strong);
+  box-shadow: 0 1px 0 rgba(26, 26, 26, 0.04);
+  padding: 16px 0;
+}
+
+@supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+  .v2 .v2-header {
+    background: rgba(244, 241, 235, 0.96);
+  }
 }
 
 .v2 .v2-header * {
@@ -326,40 +347,48 @@
   font-weight: 500;
 }
 
-/* Trust strip ВНУТРИ Hero — гарантированно на 1 экране */
+/* Trust strip ВНУТРИ Hero — editorial layout */
 .v2 .v2-hero-trust {
+  margin-top: 16px;
   padding-top: 28px;
   border-top: 1px solid var(--hair-strong);
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 24px;
+  column-gap: 32px;
 }
 
-.v2 .v2-trust-item .num {
+.v2 .v2-trust-item {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.v2 .v2-trust-num {
   font-family: var(--font-display);
   font-weight: 500;
-  font-size: clamp(26px, 2.4vw, 34px);
+  font-size: clamp(28px, 2.6vw, 36px);
   line-height: 1;
-  letter-spacing: -0.03em;
+  letter-spacing: -0.025em;
   color: var(--ink);
   display: flex;
   align-items: baseline;
-  gap: 5px;
+  gap: 6px;
+  white-space: nowrap;
 }
 
-.v2 .v2-trust-item .num .unit {
-  font-size: 14px;
+.v2 .v2-trust-num .v2-trust-suffix {
+  font-family: var(--font-body);
   font-weight: 400;
+  font-size: 13px;
   color: var(--ink-soft);
   letter-spacing: 0;
 }
 
-.v2 .v2-trust-item .label {
-  margin-top: 8px;
+.v2 .v2-trust-label {
   font-family: var(--font-body);
   font-size: 10.5px;
   font-weight: 500;
-  letter-spacing: 0.16em;
+  letter-spacing: 0.18em;
   text-transform: uppercase;
   color: var(--mute);
   line-height: 1.4;
@@ -569,17 +598,17 @@
     margin-top: 8px;
     padding-top: 20px;
     grid-template-columns: repeat(2, 1fr);
-    gap: 20px;
+    column-gap: 20px;
+    row-gap: 24px;
   }
-  .v2 .v2-trust-item .num {
-    font-size: 22px;
+  .v2 .v2-trust-num {
+    font-size: 24px;
   }
-  .v2 .v2-trust-item .num .unit {
+  .v2 .v2-trust-num .v2-trust-suffix {
     font-size: 12px;
   }
-  .v2 .v2-trust-item .label {
+  .v2 .v2-trust-label {
     font-size: 9.5px;
-    margin-top: 5px;
   }
   .v2 .v2-hero-action {
     padding: 28px 22px;
@@ -609,3 +638,83 @@
 
 /* В этой версии .v2 классы НЕ затрагивают остальной сайт.
    Старый style.css продолжает действовать на старых блоках. */
+
+/* ============================================================
+ * THANKS & ERROR (form states)
+ * ============================================================ */
+
+.v2 .v2-thanks {
+  background: var(--paper);
+  border: 1px solid var(--hair-strong);
+  padding: 40px 32px;
+  text-align: left;
+}
+
+.v2 .v2-thanks-icon {
+  width: 44px;
+  height: 44px;
+  border: 1px solid var(--accent);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 24px;
+  color: var(--accent);
+  font-family: var(--font-display);
+  font-size: 22px;
+}
+
+.v2 .v2-thanks h2 {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 1.15;
+  letter-spacing: -0.015em;
+  color: var(--ink);
+  margin: 0 0 12px;
+}
+
+.v2 .v2-thanks p {
+  font-family: var(--font-body);
+  font-size: 14px;
+  color: var(--ink-soft);
+  line-height: 1.55;
+  margin: 0 0 24px;
+}
+
+.v2 .v2-thanks p strong {
+  color: var(--ink);
+  font-weight: 500;
+}
+
+.v2 .v2-thanks-links {
+  display: flex;
+  gap: 24px;
+}
+
+.v2 .v2-thanks-links a {
+  font-family: var(--font-body);
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 1px solid var(--ink);
+  padding-bottom: 2px;
+}
+
+.v2 .v2-thanks-links a:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.v2 .v2-form-error {
+  background: #FFF5F0;
+  border-left: 2px solid #C04A2B;
+  color: #6B2014;
+  font-family: var(--font-body);
+  font-size: 13px;
+  padding: 12px 14px;
+  margin-bottom: 14px;
+  line-height: 1.5;
+}

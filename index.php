@@ -450,20 +450,20 @@ header("Cache-Control: public, max-age=300, must-revalidate");
 
                 <div class="v2-hero-trust">
                   <div class="v2-trust-item">
-                    <div class="num">15<span class="unit">+ лет</span></div>
-                    <div class="label">В Казначействе</div>
+                    <div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div>
+                    <div class="v2-trust-label">в Казначействе</div>
                   </div>
                   <div class="v2-trust-item">
-                    <div class="num">7000<span class="unit">+</span></div>
-                    <div class="label">Контрактов</div>
+                    <div class="v2-trust-num">7 000<span class="v2-trust-suffix">+</span></div>
+                    <div class="v2-trust-label">контрактов</div>
                   </div>
                   <div class="v2-trust-item">
-                    <div class="num">90 <span class="unit">млрд&nbsp;₽</span></div>
-                    <div class="label">Проведено</div>
+                    <div class="v2-trust-num">90<span class="v2-trust-suffix">млрд&nbsp;₽</span></div>
+                    <div class="v2-trust-label">проведено</div>
                   </div>
                   <div class="v2-trust-item">
-                    <div class="num">2 <span class="unit">дня</span></div>
-                    <div class="label">До открытия счёта</div>
+                    <div class="v2-trust-num">2<span class="v2-trust-suffix">рабочих&nbsp;дня</span></div>
+                    <div class="v2-trust-label">до открытия счёта</div>
                   </div>
                 </div>
 
