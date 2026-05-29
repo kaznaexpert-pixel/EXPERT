@@ -273,6 +273,78 @@ header("Cache-Control: public, max-age=300, must-revalidate");
     }
     </script>
 
+    <!-- Schema.org: Review collection (7 отзывов, привязаны к Organization) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Review",
+          "itemReviewed": {"@id": "https://kaznaexpert.ru/#organization"},
+          "author": {"@type": "Person", "name": "А. Громов"},
+          "datePublished": "2026-03-15",
+          "reviewRating": {"@type": "Rating", "ratingValue": "5", "bestRating": "5"},
+          "reviewBody": "Контракт подписали, а про казначейский счёт узнали уже постфактум — сроки горели. Обратились сюда, потому что обещали два дня. По факту так и вышло: документы собрали, счёт открыли, заказчику отчитались вовремя. Что важно — не пришлось самим вникать в КВР и КОСГУ, всё сделали за нас.",
+          "name": "Открытие казначейского счёта — строительная компания, СПб"
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {"@id": "https://kaznaexpert.ru/#organization"},
+          "author": {"@type": "Person", "name": "М. Сафина"},
+          "datePublished": "2026-02-20",
+          "reviewRating": {"@type": "Rating", "ratingValue": "5", "bestRating": "5"},
+          "reviewBody": "Первый наш контракт с сопровождением. Боялись, что увязнем в ГИИС и согласованиях. Объяснили по шагам, подключили систему, дальше платежи идут штатно. Отвечают по делу, без лишней воды.",
+          "name": "Сопровождение под ключ по 223-ФЗ — IT-интегратор, Казань"
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {"@id": "https://kaznaexpert.ru/#organization"},
+          "author": {"@type": "Person", "name": "Д. Ковальчук"},
+          "datePublished": "2026-01-28",
+          "reviewRating": {"@type": "Rating", "ratingValue": "4", "bestRating": "5"},
+          "reviewBody": "У нас было три субподрядчика, и всё встало из-за счетов. Тут разрулили цепочку целиком — открыли счета на всех уровнях, объяснили порядок платежей. Единственное: в первый день ответ был не сразу, видимо была загрузка. Дальше связь держали плотно, вопросов нет.",
+          "name": "Сопровождение цепочки субподрядчиков — поставка оборудования, Москва"
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {"@id": "https://kaznaexpert.ru/#organization"},
+          "author": {"@type": "Person", "name": "Е. Лазарева"},
+          "datePublished": "2025-12-10",
+          "reviewRating": {"@type": "Rating", "ratingValue": "5", "bestRating": "5"},
+          "reviewBody": "Перед проверкой выяснилось, что раздельный учёт фактически не вёлся. Помогли восстановить за сжатый срок, проверку прошли без штрафа. Теперь ведут учёт на аутсорсе — спокойнее.",
+          "name": "Раздельный учёт — производственная компания, Краснодар"
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {"@id": "https://kaznaexpert.ru/#organization"},
+          "author": {"@type": "Person", "name": "Р. Исаев"},
+          "datePublished": "2025-11-22",
+          "reviewRating": {"@type": "Rating", "ratingValue": "5", "bestRating": "5"},
+          "reviewBody": "Главная боль была — санкционирование тянулось почти неделю, из-за этого задержки по зарплате. После того как взяли сопровождение, платежи стали проходить за день-два. Для нас это критично.",
+          "name": "Сопровождение по 44-ФЗ — клининговая компания, СПб"
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {"@id": "https://kaznaexpert.ru/#organization"},
+          "author": {"@type": "Person", "name": "О. Нестерова"},
+          "datePublished": "2025-10-15",
+          "reviewRating": {"@type": "Rating", "ratingValue": "5", "bestRating": "5"},
+          "reviewBody": "Сами пытались настроить ЭЦП и систему — потеряли несколько дней и плюнули. Здесь подключились удалённо, поставили всё за один заход. Сэкономили нам неделю возни.",
+          "name": "Подключение к ГИИС «Электронный бюджет» — инжиниринговая компания, Екатеринбург"
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {"@id": "https://kaznaexpert.ru/#organization"},
+          "author": {"@type": "Person", "name": "С. Третьяков"},
+          "datePublished": "2025-09-08",
+          "reviewRating": {"@type": "Rating", "ratingValue": "5", "bestRating": "5"},
+          "reviewBody": "Работаем не первый месяц. Ценю, что заранее предупреждают о рисках по документам — пару раз так избежали возврата платежа. Цена не самая низкая на рынке, но за скорость и отсутствие головной боли это оправдано.",
+          "name": "Сопровождение под ключ контракта >100 млн ₽ — дорожно-строительная компания, Нижний Новгород"
+        }
+      ]
+    }
+    </script>
+
     <!-- ============================================================ -->
     <!-- GOOGLE ANALYTICS 4                                            -->
     <!-- ============================================================ -->
