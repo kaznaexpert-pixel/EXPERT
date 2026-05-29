@@ -23,7 +23,7 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
 
 // === Конфиг ===
 $CONFIG = [
-    'email_to'      => 'kaznaexpert@gmail.com',
+    'email_to'      => ['manager@kaznaexpert.ru', 'kaznaexpert@gmail.com'],
     'email_from'    => 'noreply@kaznaexpert.ru',
     'log_path'      => '/home/y98451/leads.log',
     'rate_limit_window' => 60,
@@ -86,7 +86,8 @@ $headers = "From: КазнаЭксперт <{$CONFIG['email_from']}>\r\n";
 $headers .= "Content-Type: text/plain; charset=UTF-8\r\n";
 $headers .= "X-Mailer: kaznaexpert-lead-api\r\n";
 
-$mail_sent = @mail($CONFIG['email_to'], $subject, $body, $headers);
+$mail_to = is_array($CONFIG['email_to']) ? implode(', ', $CONFIG['email_to']) : $CONFIG['email_to'];
+$mail_sent = @mail($mail_to, $subject, $body, $headers);
 
 // === Лог ===
 $log_line = sprintf(
