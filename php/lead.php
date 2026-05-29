@@ -26,7 +26,20 @@ $CONFIG = [
     'email_from'    => 'manager@kaznaexpert.ru',
     'log_path'      => '/home/y98451/leads.log',
     'rate_limit_window' => 60,
+    // Telegram через Cloudflare Worker (api.telegram.org заблокирован для RU-хостинга).
+    // Заполняется из lead.config.php на сервере. Пусто → Telegram просто не шлётся.
+    'tg_relay_url'    => '',
+    'tg_relay_secret' => '',
 ];
+
+// Server-only секреты (URL воркера + общий секрет). В .gitignore, не в репозитории.
+$secret_file = __DIR__ . '/lead.config.php';
+if (is_file($secret_file)) {
+    $override = include $secret_file;
+    if (is_array($override)) {
+        $CONFIG = array_merge($CONFIG, $override);
+    }
+}
 
 // === Получение и валидация ===
 $raw = file_get_contents('php://input');
@@ -88,14 +101,41 @@ $headers .= "X-Mailer: kaznaexpert-lead-api\r\n";
 // 5-й параметр (-f) задаёт envelope-sender — нужно для приёма Exim.
 $mail_sent = @mail($CONFIG['email_to'], $subject, $body, $headers, '-f' . $CONFIG['email_from']);
 
+// === Telegram через Cloudflare Worker (необязательный канал, fire-and-forget) ===
+$tg_sent = false;
+if ($CONFIG['tg_relay_url'] !== '') {
+    $payload = json_encode([
+        'phone'  => $phone_clean,
+        'name'   => $name,
+        'source' => $source,
+        'time'   => $time_msk,
+        'ip'     => $ip,
+    ], JSON_UNESCAPED_UNICODE);
+
+    $ctx = stream_context_create(['http' => [
+        'method'  => 'POST',
+        'header'  => "Content-Type: application/json\r\n" .
+                     "X-Relay-Secret: {$CONFIG['tg_relay_secret']}\r\n",
+        'content' => $payload,
+        'timeout' => 4,
+        'ignore_errors' => true,
+    ]]);
+    $resp = @file_get_contents($CONFIG['tg_relay_url'], false, $ctx);
+    if ($resp !== false) {
+        $decoded = json_decode($resp, true);
+        $tg_sent = is_array($decoded) && !empty($decoded['ok']);
+    }
+}
+
 // === Лог ===
 $log_line = sprintf(
-    "%s | %s | %s | %s | mail:%s\n",
+    "%s | %s | %s | %s | mail:%s tg:%s\n",
     $time_utc,
     $phone_clean,
     $source,
     $ip,
-    $mail_sent ? '1' : '0'
+    $mail_sent ? '1' : '0',
+    $tg_sent ? '1' : '0'
 );
 @file_put_contents($CONFIG['log_path'], $log_line, FILE_APPEND | LOCK_EX);
 
