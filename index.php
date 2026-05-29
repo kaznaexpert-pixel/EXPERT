@@ -30,9 +30,12 @@ header("Cache-Control: public, max-age=300, must-revalidate");
     <!-- ============================================================ -->
     <!-- PERFORMANCE: preload / preconnect                             -->
     <!-- ============================================================ -->
+    <!-- Quiet Luxury fonts: Newsreader (serif) + Inter (sans) -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap">
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,16..72,400;0,16..72,500;0,16..72,600;1,16..72,400;1,16..72,500&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,16..72,400;0,16..72,500;0,16..72,600;1,16..72,400;1,16..72,500&display=swap">
+    <link rel="stylesheet" href="/css/v2.css">
     <link rel="preconnect" href="https://mc.yandex.ru" crossorigin>
     <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
     <link rel="dns-prefetch" href="https://t.me">
@@ -384,83 +387,116 @@ header("Cache-Control: public, max-age=300, must-revalidate");
     <div class="wrapper">
 
       <!-- ============================================================ -->
-      <!-- 01 HERO                                                      -->
+      <!-- 01+02 HEADER + HERO + COUNTERS · Quiet Luxury v2            -->
       <!-- ============================================================ -->
-      <header id="hero">
-        <div class="container">
-          <div class="header-top">
-            <a href="#hero" class="logo-nav">
-              <img src="img/logogold.webp" alt="КазнаЭксперт" width="140" height="42" loading="eager">
+      <div class="v2">
+
+        <header class="v2-header">
+          <div class="v2-container v2-header-inner">
+            <a class="v2-brand" href="/">
+              <span class="v2-brand-mark">
+                <img src="/img/LogoWhite.png" alt="КазнаЭксперт — герб" loading="eager">
+              </span>
+              <span class="v2-brand-name">КазнаЭксперт</span>
             </a>
-            <div class="header-burger"><span></span></div>
-            <nav class="menu" aria-label="Основная навигация">
-              <ul>
-                <li><a href="#aboutus">О нас</a></li>
-                <li><a href="#services">Услуги</a></li>
-                <li><a href="#faq">FAQ</a></li>
-                <li><a href="#contacts">Контакты</a></li>
-                <li><a href="blog/index.html">Блог</a></li>
-              </ul>
+
+            <nav class="v2-nav" aria-label="Главная навигация">
+              <a href="#services">Услуги</a>
+              <a href="#tariffs">Тарифы</a>
+              <a href="#cases">Кейсы</a>
+              <a href="#expert">Эксперт</a>
+              <a href="#faq">FAQ</a>
+              <a href="#contacts">Связаться</a>
             </nav>
-            <div class="header-social">
-              <a href="tel:+79818331010" class="header-phone"><strong>+7-981-833-10-10</strong></a>
-              <a href="mailto:kaznaexpert@gmail.com" class="social-btn" aria-label="Написать на email"><svg aria-hidden="true"><use href="#mail" xlink:href="#mail"></use></svg></a>
-              <a href="https://t.me/Kaznaexpert" class="social-btn" aria-label="Telegram"><svg aria-hidden="true"><use href="#telegram" xlink:href="#telegram"></use></svg></a>
-              <a href="https://wa.me/+79818331010" class="social-btn" aria-label="WhatsApp"><svg aria-hidden="true"><use href="#whatsup" xlink:href="#whatsup"></use></svg></a>
+
+            <div class="v2-header-aside">
+              <span class="v2-phone-label">С 2009 · ВСЯ РФ</span>
+              <a class="v2-phone" href="tel:+79818331010">+7 981 833-10-10</a>
             </div>
           </div>
+        </header>
 
-          <div class="hero-body">
-            <div class="hero-text">
-              <h1 class="hero-h1">Откроем казначейский счёт за 2 рабочих дня</h1>
-              <p class="hero-sub">Казначейское сопровождение госконтрактов по 44-ФЗ, 223-ФЗ и ГОЗ (275-ФЗ) под ключ. От вас — документы, остальное берём на себя: ГИИС «Электронный бюджет», раздельный учёт, санкционирование платежей в УФК.</p>
-              <div class="hero-cta-wrap">
-                <a href="#contacts" class="btn btn-gold">Рассчитать стоимость</a>
-                <a href="#contacts" class="btn btn-outline cta--refused">Получил отказ УФК — нужна помощь</a>
+        <section class="v2-hero">
+          <div class="v2-container">
+
+            <div class="v2-hero-grid">
+
+              <div class="v2-hero-main">
+
+                <div class="v2-hero-eyebrow-row">
+                  <span class="v2-eyebrow">Казначейское сопровождение</span>
+                  <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
+                  <span class="v2-eyebrow" style="color: var(--mute); letter-spacing: 0.2em;">01 · Услуга</span>
+                </div>
+
+                <h1>
+                  Откроем казначейский счёт
+                  <br>
+                  <em>за два рабочих дня</em>
+                </h1>
+
+                <p class="v2-hero-lede">
+                  Полный аутсорс казначейского сопровождения по 44-ФЗ, 223-ФЗ и гособоронзаказу.
+                  От резерва счёта на тендер — до закрытия контракта. Работаем по всей России удалённо.
+                </p>
+
+                <div class="v2-hero-cta-row">
+                  <a href="#tariffs" class="v2-cta-primary">
+                    Рассчитать стоимость
+                    <span aria-hidden="true">→</span>
+                  </a>
+                  <a href="#contacts" class="v2-cta-secondary">
+                    Получил отказ УФК — нужна помощь
+                    <span aria-hidden="true">→</span>
+                  </a>
+                </div>
+
               </div>
-              <ul class="trust-bar" aria-label="Ключевые факты">
-                <li>7000+ контрактов</li>
-                <li>90 млрд ₽ проведено</li>
-                <li>15+ лет в Федеральном Казначействе</li>
-                <li>договор за 24 часа</li>
-                <li>NDA до анализа</li>
-                <li>вся РФ удалённо</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </header>
 
-      <!-- Sticky CTA: виден только на mobile -->
-      <div class="sticky-cta" aria-hidden="true">
-        <a href="#contacts" class="btn btn-gold btn-full">Рассчитать стоимость</a>
+              <aside class="v2-hero-aside" aria-labelledby="hero-expert-name">
+                <p class="v2-eyebrow">Эксперт · Основатель</p>
+
+                <h2 id="hero-expert-name">Михайлов Ярослав</h2>
+                <div class="v2-hero-aside-divider" aria-hidden="true"></div>
+
+                <p class="v2-hero-aside-quote">
+                  «Знаем требования УФК изнутри. Причины отказов, нюансы КОСГУ, раздельный учёт.
+                  За 15 лет в Федеральном Казначействе — без сюрпризов».
+                </p>
+
+                <ul class="v2-hero-aside-list">
+                  <li>Вся Россия · удалённо</li>
+                  <li>NDA до анализа документов</li>
+                  <li>44-ФЗ · 223-ФЗ · ГОЗ</li>
+                  <li>Договор за 24 часа</li>
+                </ul>
+              </aside>
+
+            </div>
+
+            <div class="v2-counters" id="counters">
+              <div>
+                <div class="v2-counter-num">7000<span class="unit">+</span></div>
+                <div class="v2-counter-label">Контрактов</div>
+              </div>
+              <div>
+                <div class="v2-counter-num">90 <span class="unit">млрд&nbsp;₽</span></div>
+                <div class="v2-counter-label">Проведено</div>
+              </div>
+              <div>
+                <div class="v2-counter-num">15<span class="unit">+ лет</span></div>
+                <div class="v2-counter-label">В Казначействе</div>
+              </div>
+              <div>
+                <div class="v2-counter-num">24 <span class="unit">часа</span></div>
+                <div class="v2-counter-label">До договора</div>
+              </div>
+            </div>
+
+          </div>
+        </section>
+
       </div>
-
-      <!-- ============================================================ -->
-      <!-- 02 СЧЁТЧИКИ                                                  -->
-      <!-- ============================================================ -->
-      <section class="counters" id="counters" aria-label="Ключевые показатели">
-        <div class="container">
-          <div class="counters-grid">
-            <div class="counter-item">
-              <span class="counter-num">7000+</span>
-              <span class="counter-label">контрактов сопровождено</span>
-            </div>
-            <div class="counter-item">
-              <span class="counter-num">90 млрд ₽</span>
-              <span class="counter-label">проведено через казначейские счета</span>
-            </div>
-            <div class="counter-item">
-              <span class="counter-num">15+</span>
-              <span class="counter-label">лет внутри системы Федерального Казначейства</span>
-            </div>
-            <div class="counter-item">
-              <span class="counter-num">Все регионы</span>
-              <span class="counter-label">РФ — работаем удалённо</span>
-            </div>
-          </div>
-        </div>
-      </section>
 
       <!-- ============================================================ -->
       <!-- 03 СЕГМЕНТЫ-БОЛИ                                            -->
