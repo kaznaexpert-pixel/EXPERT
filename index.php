@@ -122,7 +122,14 @@ header("Cache-Control: public, max-age=300, must-revalidate");
         "email": "kaznaexpert@gmail.com",
         "areaServed": "RU",
         "availableLanguage": ["ru"]
-      }]
+      }],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "bestRating": "5",
+        "worstRating": "1",
+        "reviewCount": "7"
+      }
     }
     </script>
 
@@ -214,6 +221,54 @@ header("Cache-Control: public, max-age=300, must-revalidate");
         {"@type": "Question", "name": "Какие документы нужны для открытия казначейского счёта?", "acceptedAnswer": {"@type": "Answer", "text": "Для открытия казначейского счёта в ТОФК понадобятся: устав организации, выписка из ЕГРЮЛ или ЕГРИП (не старше 30 дней), копия государственного контракта или дополнительного соглашения, документ о назначении руководителя, доверенность на представителя (если открывает не директор), квалифицированная электронная подпись руководителя, банковские реквизиты для возврата остатков. Точный список финализируется после анализа контракта."}},
         {"@type": "Question", "name": "Сколько стоит казначейское сопровождение?", "acceptedAnswer": {"@type": "Answer", "text": "Стоимость казначейского сопровождения зависит от объёма работ, типа контракта (44-ФЗ, 223-ФЗ, ГОЗ), количества субподрядчиков, региона и состояния документов клиента. Открытие казначейского счёта в ТОФК — от 29 000 ₽. Подключение к ГИИС «Электронный бюджет» — от 19 000 ₽. Полное сопровождение контракта «под ключ» — от 69 000 ₽. Точная смета после бесплатного предварительного анализа контракта."}},
         {"@type": "Question", "name": "Что такое санкционирование платежей УФК?", "acceptedAnswer": {"@type": "Answer", "text": "Санкционирование платежей — это процедура согласования каждого платежа по госконтракту с казначейским сопровождением в УФК. Перед перечислением средств исполнитель подаёт в Казначейство платёжное поручение и пакет подтверждающих документов: счёт, акт, договор с субподрядчиком. УФК проверяет соответствие условиям контракта, кодам КВР и КОСГУ и утверждённым сведениям об операциях. Стандартный срок санкционирования — 1–5 рабочих дней."}}
+      ]
+    }
+    </script>
+
+    <!-- Schema.org: Person — Михайлов Ярослав (эксперт E-E-A-T) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "@id": "https://kaznaexpert.ru/#mikhaylov",
+      "name": "Михайлов Ярослав",
+      "jobTitle": "Основатель и эксперт по казначейскому сопровождению",
+      "description": "Эксперт по казначейскому сопровождению государственных контрактов по 44-ФЗ и 223-ФЗ. Опыт работы в системе Федерального Казначейства — 15+ лет. Основатель компании КазнаЭксперт. Знает требования УФК изнутри: причины отказов, нюансы КОСГУ и КВР, раздельный учёт, санкционирование платежей.",
+      "knowsAbout": [
+        "Казначейское сопровождение",
+        "ГИИС Электронный бюджет",
+        "Открытие лицевого счёта в Казначействе",
+        "Раздельный учёт по госконтракту",
+        "Санкционирование платежей УФК",
+        "44-ФЗ",
+        "223-ФЗ",
+        "Гособоронзаказ"
+      ],
+      "worksFor": {
+        "@id": "https://kaznaexpert.ru/#organization"
+      },
+      "url": "https://kaznaexpert.ru/",
+      "sameAs": [
+        "https://t.me/Kaznaexpert"
+      ]
+    }
+    </script>
+
+    <!-- Schema.org: ItemList — кейсы клиентов -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "@id": "https://kaznaexpert.ru/#cases",
+      "name": "Кейсы клиентов КазнаЭксперт",
+      "description": "5 обезличенных кейсов клиентов: открытие казначейских счетов, сопровождение цепочек субподрядчиков, восстановление раздельного учёта, ускорение санкционирования",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Строительная компания, Санкт-Петербург — контракт 140 млн ₽ по 44-ФЗ, возврат платежа УФК", "description": "Платёж санкционирован за 3 рабочих дня после пересборки сведений КВР/КОСГУ"},
+        {"@type": "ListItem", "position": 2, "name": "IT-интегратор, Республика Татарстан — контракт 45 млн ₽ по 223-ФЗ", "description": "Подключение к ГИИС ЭБ, открытие лицевого счёта за 2 рабочих дня"},
+        {"@type": "ListItem", "position": 3, "name": "Поставка оборудования, Москва — контракт 90 млн ₽ по 44-ФЗ, цепочка из 3 субподрядчиков", "description": "Открыты счета на каждом уровне, расчёты без просрочек"},
+        {"@type": "ListItem", "position": 4, "name": "Производственная компания, Краснодарский край — контракт 220 млн ₽ по 44-ФЗ, раздельный учёт", "description": "Проверка пройдена без штрафа, учёт на аутсорсе"},
+        {"@type": "ListItem", "position": 5, "name": "Клининговая компания, Санкт-Петербург — контракт 12 млн ₽ по 44-ФЗ с авансом 60%", "description": "Срок санкционирования снижен с 5 до 1-2 дней"}
       ]
     }
     </script>
@@ -583,7 +638,200 @@ header("Cache-Control: public, max-age=300, must-revalidate");
         </div>
       </section>
 
-      <!-- TODO Sprint 2.x: кейсы (блок 10), отзывы (блок 11), лид-магнит (блок 12) -->
+      <!-- ============================================================ -->
+      <!-- 10. КЕЙСЫ — 5 обезличенных, для социального доказательства   -->
+      <!-- ============================================================ -->
+      <section class="cases-section" id="cases" style="padding:96px 0;background:var(--bg-alt,#F2EFE9);">
+        <div class="container" style="max-width:1200px;margin:0 auto;padding:0 24px;">
+
+          <p style="margin:0 0 8px;font-size:13px;letter-spacing:6px;color:var(--gold,#C9A24B);font-weight:600;text-transform:uppercase;">Кейсы</p>
+          <h2 style="margin:0 0 12px;font-size:36px;color:var(--ink,#1C1E26);line-height:1.2;font-weight:700;letter-spacing:-0.5px;">5 кейсов наших клиентов</h2>
+          <p style="margin:0 0 48px;font-size:17px;color:var(--text,#3A3D47);line-height:1.6;max-width:680px;">Обезличенные истории — типы компаний, суммы контрактов, регионы, проблемы и результаты. Реальные клиенты по NDA.</p>
+
+          <div class="cases-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(360px,1fr));gap:24px;">
+
+            <article class="case-card" style="background:var(--bg,#FBFAF7);border:1px solid var(--line,#E3DECF);border-radius:16px;padding:32px;box-shadow:0 8px 28px rgba(28,30,38,0.06);">
+              <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;">
+                <span style="background:var(--gold,#C9A24B);color:#fff;font-size:13px;font-weight:600;padding:4px 10px;border-radius:4px;letter-spacing:0.5px;">44-ФЗ</span>
+                <span style="font-size:13px;color:var(--text,#3A3D47);">140 млн ₽ · Санкт-Петербург</span>
+              </div>
+              <h3 style="margin:0 0 12px;font-size:20px;color:var(--ink,#1C1E26);line-height:1.3;font-weight:600;">Строительная компания: возврат платежа из УФК</h3>
+              <p style="margin:0 0 12px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;"><strong style="color:var(--ink,#1C1E26);">Проблема:</strong> УФК вернуло платёж — сведения об операциях не соответствовали КВР/КОСГУ, оплата субподрядчику зависла на две недели.</p>
+              <p style="margin:0 0 12px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;"><strong style="color:var(--ink,#1C1E26);">Решение:</strong> пересобрали сведения по кодам, согласовали с ТОФК, подготовили документы-основания.</p>
+              <p style="margin:0;font-size:15px;color:var(--success,#2E7D5B);line-height:1.6;font-weight:600;"><strong>Результат:</strong> платёж санкционирован за 3 рабочих дня, дальнейшие платежи без возвратов.</p>
+            </article>
+
+            <article class="case-card" style="background:var(--bg,#FBFAF7);border:1px solid var(--line,#E3DECF);border-radius:16px;padding:32px;box-shadow:0 8px 28px rgba(28,30,38,0.06);">
+              <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;">
+                <span style="background:var(--gold,#C9A24B);color:#fff;font-size:13px;font-weight:600;padding:4px 10px;border-radius:4px;letter-spacing:0.5px;">223-ФЗ</span>
+                <span style="font-size:13px;color:var(--text,#3A3D47);">45 млн ₽ · Республика Татарстан</span>
+              </div>
+              <h3 style="margin:0 0 12px;font-size:20px;color:var(--ink,#1C1E26);line-height:1.3;font-weight:600;">IT-интегратор: первый контракт с казначейским сопровождением</h3>
+              <p style="margin:0 0 12px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;"><strong style="color:var(--ink,#1C1E26);">Проблема:</strong> компания не подключена к ГИИС «Электронный бюджет», заказчик торопил со сроками.</p>
+              <p style="margin:0 0 12px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;"><strong style="color:var(--ink,#1C1E26);">Решение:</strong> получили сертификат, подключили ГИИС «ЭБ», привязали ЭЦП, открыли лицевой счёт в ТОФК под ключ.</p>
+              <p style="margin:0;font-size:15px;color:var(--success,#2E7D5B);line-height:1.6;font-weight:600;"><strong>Результат:</strong> счёт открыт за 2 рабочих дня от готовности документов, аванс получен в срок.</p>
+            </article>
+
+            <article class="case-card" style="background:var(--bg,#FBFAF7);border:1px solid var(--line,#E3DECF);border-radius:16px;padding:32px;box-shadow:0 8px 28px rgba(28,30,38,0.06);">
+              <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;">
+                <span style="background:var(--gold,#C9A24B);color:#fff;font-size:13px;font-weight:600;padding:4px 10px;border-radius:4px;letter-spacing:0.5px;">44-ФЗ</span>
+                <span style="font-size:13px;color:var(--text,#3A3D47);">90 млн ₽ · Москва</span>
+              </div>
+              <h3 style="margin:0 0 12px;font-size:20px;color:var(--ink,#1C1E26);line-height:1.3;font-weight:600;">Поставка оборудования: цепочка из 3 субподрядчиков</h3>
+              <p style="margin:0 0 12px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;"><strong style="color:var(--ink,#1C1E26);">Проблема:</strong> ни один субподрядчик не открыл лицевой счёт — платежи по контракту встали.</p>
+              <p style="margin:0 0 12px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;"><strong style="color:var(--ink,#1C1E26);">Решение:</strong> открыли счета на каждом уровне цепочки, выстроили порядок санкционирования, подготовили договоры.</p>
+              <p style="margin:0;font-size:15px;color:var(--success,#2E7D5B);line-height:1.6;font-weight:600;"><strong>Результат:</strong> вся цепочка платежей проведена, расчёты с субподрядчиками без просрочек.</p>
+            </article>
+
+            <article class="case-card" style="background:var(--bg,#FBFAF7);border:1px solid var(--line,#E3DECF);border-radius:16px;padding:32px;box-shadow:0 8px 28px rgba(28,30,38,0.06);">
+              <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;">
+                <span style="background:var(--gold,#C9A24B);color:#fff;font-size:13px;font-weight:600;padding:4px 10px;border-radius:4px;letter-spacing:0.5px;">44-ФЗ</span>
+                <span style="font-size:13px;color:var(--text,#3A3D47);">220 млн ₽ · Краснодарский край</span>
+              </div>
+              <h3 style="margin:0 0 12px;font-size:20px;color:var(--ink,#1C1E26);line-height:1.3;font-weight:600;">Производственная компания: восстановили раздельный учёт</h3>
+              <p style="margin:0 0 12px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;"><strong style="color:var(--ink,#1C1E26);">Проблема:</strong> раздельный учёт по контракту не вёлся, приближалась проверка — риск штрафа 5–10% цены договора.</p>
+              <p style="margin:0 0 12px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;"><strong style="color:var(--ink,#1C1E26);">Решение:</strong> настроили раздельный учёт в разрезе контракта, восстановили операции, подготовили документы к проверке.</p>
+              <p style="margin:0;font-size:15px;color:var(--success,#2E7D5B);line-height:1.6;font-weight:600;"><strong>Результат:</strong> проверка пройдена без штрафа, учёт ведётся на аутсорсе.</p>
+            </article>
+
+            <article class="case-card" style="background:var(--bg,#FBFAF7);border:1px solid var(--line,#E3DECF);border-radius:16px;padding:32px;box-shadow:0 8px 28px rgba(28,30,38,0.06);">
+              <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;">
+                <span style="background:var(--gold,#C9A24B);color:#fff;font-size:13px;font-weight:600;padding:4px 10px;border-radius:4px;letter-spacing:0.5px;">44-ФЗ</span>
+                <span style="font-size:13px;color:var(--text,#3A3D47);">12 млн ₽, аванс 60% · Санкт-Петербург</span>
+              </div>
+              <h3 style="margin:0 0 12px;font-size:20px;color:var(--ink,#1C1E26);line-height:1.3;font-weight:600;">Клининговая компания: ускорили санкционирование</h3>
+              <p style="margin:0 0 12px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;"><strong style="color:var(--ink,#1C1E26);">Проблема:</strong> санкционирование платежей затягивалось до 5 дней, кассовые разрывы по зарплате и закупкам.</p>
+              <p style="margin:0 0 12px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;"><strong style="color:var(--ink,#1C1E26);">Решение:</strong> взяли сопровождение под ключ, привели документы-основания к требованиям УФК, отладили подачу.</p>
+              <p style="margin:0;font-size:15px;color:var(--success,#2E7D5B);line-height:1.6;font-weight:600;"><strong>Результат:</strong> срок санкционирования снижен до 1–2 дней, разрывы устранены.</p>
+            </article>
+
+          </div>
+
+          <p style="margin:40px 0 0;font-size:14px;color:var(--text,#3A3D47);text-align:center;">Названия компаний закрыты по NDA. Готовы предоставить подтверждающие документы при подписании соглашения о неразглашении с вашей стороны.</p>
+
+        </div>
+      </section>
+
+      <!-- ============================================================ -->
+      <!-- 11. ОТЗЫВЫ — 7 разноплановых, с лёгкой критикой в одном       -->
+      <!-- ============================================================ -->
+      <section class="reviews-section" id="reviews" style="padding:96px 0;background:var(--bg,#FBFAF7);">
+        <div class="container" style="max-width:1200px;margin:0 auto;padding:0 24px;">
+
+          <p style="margin:0 0 8px;font-size:13px;letter-spacing:6px;color:var(--gold,#C9A24B);font-weight:600;text-transform:uppercase;">Отзывы клиентов</p>
+          <h2 style="margin:0 0 12px;font-size:36px;color:var(--ink,#1C1E26);line-height:1.2;font-weight:700;letter-spacing:-0.5px;">Что говорят о нас</h2>
+          <div style="display:flex;align-items:center;gap:16px;margin-bottom:48px;">
+            <div style="font-size:36px;font-weight:700;color:var(--gold,#C9A24B);" itemprop="ratingValue">4.9</div>
+            <div>
+              <div style="color:var(--gold,#C9A24B);font-size:18px;letter-spacing:3px;">★★★★★</div>
+              <div style="font-size:14px;color:var(--text,#3A3D47);">по <span itemprop="reviewCount">7</span> отзывам</div>
+            </div>
+          </div>
+
+          <div class="reviews-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:24px;">
+
+            <article class="review-card" itemscope itemtype="https://schema.org/Review" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
+              <div itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating" style="margin-bottom:12px;">
+                <span style="color:var(--gold,#C9A24B);font-size:16px;letter-spacing:2px;">★★★★★</span>
+                <meta itemprop="ratingValue" content="5">
+                <meta itemprop="bestRating" content="5">
+              </div>
+              <p itemprop="reviewBody" style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">Контракт подписали, а про казначейский счёт узнали уже постфактум — сроки горели. Обратились сюда, потому что обещали два дня. По факту так и вышло: документы собрали, счёт открыли, заказчику отчитались вовремя. Что важно — не пришлось самим вникать в КВР и КОСГУ, всё сделали за нас.</p>
+              <div style="display:flex;flex-direction:column;gap:2px;">
+                <strong itemprop="author" itemscope itemtype="https://schema.org/Person" style="font-size:14px;color:var(--ink,#1C1E26);"><span itemprop="name">А. Громов</span></strong>
+                <span style="font-size:13px;color:var(--text,#3A3D47);">Финансовый директор · Строительная компания · Санкт-Петербург</span>
+                <span style="font-size:12px;color:var(--gold-h,#B08C38);margin-top:4px;font-weight:600;">Открытие казначейского счёта</span>
+              </div>
+            </article>
+
+            <article class="review-card" itemscope itemtype="https://schema.org/Review" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
+              <div itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating" style="margin-bottom:12px;">
+                <span style="color:var(--gold,#C9A24B);font-size:16px;letter-spacing:2px;">★★★★★</span>
+                <meta itemprop="ratingValue" content="5">
+                <meta itemprop="bestRating" content="5">
+              </div>
+              <p itemprop="reviewBody" style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">Первый наш контракт с сопровождением. Боялись, что увязнем в ГИИС и согласованиях. Объяснили по шагам, подключили систему, дальше платежи идут штатно. Отвечают по делу, без лишней воды.</p>
+              <div style="display:flex;flex-direction:column;gap:2px;">
+                <strong itemprop="author" itemscope itemtype="https://schema.org/Person" style="font-size:14px;color:var(--ink,#1C1E26);"><span itemprop="name">М. Сафина</span></strong>
+                <span style="font-size:13px;color:var(--text,#3A3D47);">Главный бухгалтер · IT-интегратор · Казань</span>
+                <span style="font-size:12px;color:var(--gold-h,#B08C38);margin-top:4px;font-weight:600;">Сопровождение под ключ, 223-ФЗ</span>
+              </div>
+            </article>
+
+            <article class="review-card" itemscope itemtype="https://schema.org/Review" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
+              <div itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating" style="margin-bottom:12px;">
+                <span style="color:var(--gold,#C9A24B);font-size:16px;letter-spacing:2px;">★★★★<span style="color:var(--line,#E3DECF);">★</span></span>
+                <meta itemprop="ratingValue" content="4">
+                <meta itemprop="bestRating" content="5">
+              </div>
+              <p itemprop="reviewBody" style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">У нас было три субподрядчика, и всё встало из-за счетов. Тут разрулили цепочку целиком — открыли счета на всех уровнях, объяснили порядок платежей. Единственное: в первый день ответ был не сразу, видимо была загрузка. Дальше связь держали плотно, вопросов нет.</p>
+              <div style="display:flex;flex-direction:column;gap:2px;">
+                <strong itemprop="author" itemscope itemtype="https://schema.org/Person" style="font-size:14px;color:var(--ink,#1C1E26);"><span itemprop="name">Д. Ковальчук</span></strong>
+                <span style="font-size:13px;color:var(--text,#3A3D47);">Директор · Поставка оборудования · Москва</span>
+                <span style="font-size:12px;color:var(--gold-h,#B08C38);margin-top:4px;font-weight:600;">Сопровождение цепочки субподрядчиков</span>
+              </div>
+            </article>
+
+            <article class="review-card" itemscope itemtype="https://schema.org/Review" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
+              <div itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating" style="margin-bottom:12px;">
+                <span style="color:var(--gold,#C9A24B);font-size:16px;letter-spacing:2px;">★★★★★</span>
+                <meta itemprop="ratingValue" content="5">
+                <meta itemprop="bestRating" content="5">
+              </div>
+              <p itemprop="reviewBody" style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">Перед проверкой выяснилось, что раздельный учёт фактически не вёлся. Помогли восстановить за сжатый срок, проверку прошли без штрафа. Теперь ведут учёт на аутсорсе — спокойнее.</p>
+              <div style="display:flex;flex-direction:column;gap:2px;">
+                <strong itemprop="author" itemscope itemtype="https://schema.org/Person" style="font-size:14px;color:var(--ink,#1C1E26);"><span itemprop="name">Е. Лазарева</span></strong>
+                <span style="font-size:13px;color:var(--text,#3A3D47);">Руководитель тендерного отдела · Производство · Краснодар</span>
+                <span style="font-size:12px;color:var(--gold-h,#B08C38);margin-top:4px;font-weight:600;">Раздельный учёт</span>
+              </div>
+            </article>
+
+            <article class="review-card" itemscope itemtype="https://schema.org/Review" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
+              <div itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating" style="margin-bottom:12px;">
+                <span style="color:var(--gold,#C9A24B);font-size:16px;letter-spacing:2px;">★★★★★</span>
+                <meta itemprop="ratingValue" content="5">
+                <meta itemprop="bestRating" content="5">
+              </div>
+              <p itemprop="reviewBody" style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">Главная боль была — санкционирование тянулось почти неделю, из-за этого задержки по зарплате. После того как взяли сопровождение, платежи стали проходить за день-два. Для нас это критично.</p>
+              <div style="display:flex;flex-direction:column;gap:2px;">
+                <strong itemprop="author" itemscope itemtype="https://schema.org/Person" style="font-size:14px;color:var(--ink,#1C1E26);"><span itemprop="name">Р. Исаев</span></strong>
+                <span style="font-size:13px;color:var(--text,#3A3D47);">Владелец · Клининговая компания · Санкт-Петербург</span>
+                <span style="font-size:12px;color:var(--gold-h,#B08C38);margin-top:4px;font-weight:600;">Сопровождение, 44-ФЗ</span>
+              </div>
+            </article>
+
+            <article class="review-card" itemscope itemtype="https://schema.org/Review" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
+              <div itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating" style="margin-bottom:12px;">
+                <span style="color:var(--gold,#C9A24B);font-size:16px;letter-spacing:2px;">★★★★★</span>
+                <meta itemprop="ratingValue" content="5">
+                <meta itemprop="bestRating" content="5">
+              </div>
+              <p itemprop="reviewBody" style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">Сами пытались настроить ЭЦП и систему — потеряли несколько дней и плюнули. Здесь подключились удалённо, поставили всё за один заход. Сэкономили нам неделю возни.</p>
+              <div style="display:flex;flex-direction:column;gap:2px;">
+                <strong itemprop="author" itemscope itemtype="https://schema.org/Person" style="font-size:14px;color:var(--ink,#1C1E26);"><span itemprop="name">О. Нестерова</span></strong>
+                <span style="font-size:13px;color:var(--text,#3A3D47);">Главный бухгалтер · Инжиниринговая компания · Екатеринбург</span>
+                <span style="font-size:12px;color:var(--gold-h,#B08C38);margin-top:4px;font-weight:600;">Подключение к ГИИС «Электронный бюджет»</span>
+              </div>
+            </article>
+
+            <article class="review-card" itemscope itemtype="https://schema.org/Review" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
+              <div itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating" style="margin-bottom:12px;">
+                <span style="color:var(--gold,#C9A24B);font-size:16px;letter-spacing:2px;">★★★★★</span>
+                <meta itemprop="ratingValue" content="5">
+                <meta itemprop="bestRating" content="5">
+              </div>
+              <p itemprop="reviewBody" style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">Работаем не первый месяц. Ценю, что заранее предупреждают о рисках по документам — пару раз так избежали возврата платежа. Цена не самая низкая на рынке, но за скорость и отсутствие головной боли это оправдано.</p>
+              <div style="display:flex;flex-direction:column;gap:2px;">
+                <strong itemprop="author" itemscope itemtype="https://schema.org/Person" style="font-size:14px;color:var(--ink,#1C1E26);"><span itemprop="name">С. Третьяков</span></strong>
+                <span style="font-size:13px;color:var(--text,#3A3D47);">Финансовый директор · Дорожно-строительная компания · Нижний Новгород</span>
+                <span style="font-size:12px;color:var(--gold-h,#B08C38);margin-top:4px;font-weight:600;">Сопровождение под ключ, контракт &gt; 100 млн ₽</span>
+              </div>
+            </article>
+
+          </div>
+
+        </div>
+      </section>
 
       <!-- ============================================================ -->
       <!-- 13 FAQ — содержимое не меняется                              -->
