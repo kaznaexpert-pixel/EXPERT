@@ -862,4 +862,3 @@ header("Cache-Control: public, max-age=300, must-revalidate");
 
 </div>
 </html>
-<!-- test deploy пятница, 29 мая 2026 г. 14:22:25 (MSK) -->
