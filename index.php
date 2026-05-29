@@ -793,108 +793,94 @@ header("Cache-Control: public, max-age=300, must-revalidate");
           <p style="margin:0 0 8px;font-size:13px;letter-spacing:6px;color:var(--gold,#C9A24B);font-weight:600;text-transform:uppercase;">Отзывы клиентов</p>
           <h2 style="margin:0 0 12px;font-size:36px;color:var(--ink,#1C1E26);line-height:1.2;font-weight:700;letter-spacing:-0.5px;">Что говорят о нас</h2>
           <div style="display:flex;align-items:center;gap:16px;margin-bottom:48px;">
-            <div style="font-size:36px;font-weight:700;color:var(--gold,#C9A24B);" itemprop="ratingValue">4.9</div>
+            <div style="font-size:36px;font-weight:700;color:var(--gold,#C9A24B);">4.9</div>
             <div>
               <div style="color:var(--gold,#C9A24B);font-size:18px;letter-spacing:3px;">★★★★★</div>
-              <div style="font-size:14px;color:var(--text,#3A3D47);">по <span itemprop="reviewCount">7</span> отзывам</div>
+              <div style="font-size:14px;color:var(--text,#3A3D47);">по <span>7</span> отзывам</div>
             </div>
           </div>
 
           <div class="reviews-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:24px;">
 
-            <article class="review-card" itemscope itemtype="https://schema.org/Review" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
-              <div itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating" style="margin-bottom:12px;">
+            <article class="review-card" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
+              <div style="margin-bottom:12px;">
                 <span style="color:var(--gold,#C9A24B);font-size:16px;letter-spacing:2px;">★★★★★</span>
-                <meta itemprop="ratingValue" content="5">
-                <meta itemprop="bestRating" content="5">
               </div>
-              <p itemprop="reviewBody" style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">Контракт подписали, а про казначейский счёт узнали уже постфактум — сроки горели. Обратились сюда, потому что обещали два дня. По факту так и вышло: документы собрали, счёт открыли, заказчику отчитались вовремя. Что важно — не пришлось самим вникать в КВР и КОСГУ, всё сделали за нас.</p>
+              <p style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">Контракт подписали, а про казначейский счёт узнали уже постфактум — сроки горели. Обратились сюда, потому что обещали два дня. По факту так и вышло: документы собрали, счёт открыли, заказчику отчитались вовремя. Что важно — не пришлось самим вникать в КВР и КОСГУ, всё сделали за нас.</p>
               <div style="display:flex;flex-direction:column;gap:2px;">
-                <strong itemprop="author" itemscope itemtype="https://schema.org/Person" style="font-size:14px;color:var(--ink,#1C1E26);"><span itemprop="name">А. Громов</span></strong>
+                <strong style="font-size:14px;color:var(--ink,#1C1E26);"><span>А. Громов</span></strong>
                 <span style="font-size:13px;color:var(--text,#3A3D47);">Финансовый директор · Строительная компания · Санкт-Петербург</span>
                 <span style="font-size:12px;color:var(--gold-h,#B08C38);margin-top:4px;font-weight:600;">Открытие казначейского счёта</span>
               </div>
             </article>
 
-            <article class="review-card" itemscope itemtype="https://schema.org/Review" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
-              <div itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating" style="margin-bottom:12px;">
+            <article class="review-card" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
+              <div style="margin-bottom:12px;">
                 <span style="color:var(--gold,#C9A24B);font-size:16px;letter-spacing:2px;">★★★★★</span>
-                <meta itemprop="ratingValue" content="5">
-                <meta itemprop="bestRating" content="5">
               </div>
-              <p itemprop="reviewBody" style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">Первый наш контракт с сопровождением. Боялись, что увязнем в ГИИС и согласованиях. Объяснили по шагам, подключили систему, дальше платежи идут штатно. Отвечают по делу, без лишней воды.</p>
+              <p style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">Первый наш контракт с сопровождением. Боялись, что увязнем в ГИИС и согласованиях. Объяснили по шагам, подключили систему, дальше платежи идут штатно. Отвечают по делу, без лишней воды.</p>
               <div style="display:flex;flex-direction:column;gap:2px;">
-                <strong itemprop="author" itemscope itemtype="https://schema.org/Person" style="font-size:14px;color:var(--ink,#1C1E26);"><span itemprop="name">М. Сафина</span></strong>
+                <strong style="font-size:14px;color:var(--ink,#1C1E26);"><span>М. Сафина</span></strong>
                 <span style="font-size:13px;color:var(--text,#3A3D47);">Главный бухгалтер · IT-интегратор · Казань</span>
                 <span style="font-size:12px;color:var(--gold-h,#B08C38);margin-top:4px;font-weight:600;">Сопровождение под ключ, 223-ФЗ</span>
               </div>
             </article>
 
-            <article class="review-card" itemscope itemtype="https://schema.org/Review" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
-              <div itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating" style="margin-bottom:12px;">
+            <article class="review-card" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
+              <div style="margin-bottom:12px;">
                 <span style="color:var(--gold,#C9A24B);font-size:16px;letter-spacing:2px;">★★★★<span style="color:var(--line,#E3DECF);">★</span></span>
-                <meta itemprop="ratingValue" content="4">
-                <meta itemprop="bestRating" content="5">
               </div>
-              <p itemprop="reviewBody" style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">У нас было три субподрядчика, и всё встало из-за счетов. Тут разрулили цепочку целиком — открыли счета на всех уровнях, объяснили порядок платежей. Единственное: в первый день ответ был не сразу, видимо была загрузка. Дальше связь держали плотно, вопросов нет.</p>
+              <p style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">У нас было три субподрядчика, и всё встало из-за счетов. Тут разрулили цепочку целиком — открыли счета на всех уровнях, объяснили порядок платежей. Единственное: в первый день ответ был не сразу, видимо была загрузка. Дальше связь держали плотно, вопросов нет.</p>
               <div style="display:flex;flex-direction:column;gap:2px;">
-                <strong itemprop="author" itemscope itemtype="https://schema.org/Person" style="font-size:14px;color:var(--ink,#1C1E26);"><span itemprop="name">Д. Ковальчук</span></strong>
+                <strong style="font-size:14px;color:var(--ink,#1C1E26);"><span>Д. Ковальчук</span></strong>
                 <span style="font-size:13px;color:var(--text,#3A3D47);">Директор · Поставка оборудования · Москва</span>
                 <span style="font-size:12px;color:var(--gold-h,#B08C38);margin-top:4px;font-weight:600;">Сопровождение цепочки субподрядчиков</span>
               </div>
             </article>
 
-            <article class="review-card" itemscope itemtype="https://schema.org/Review" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
-              <div itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating" style="margin-bottom:12px;">
+            <article class="review-card" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
+              <div style="margin-bottom:12px;">
                 <span style="color:var(--gold,#C9A24B);font-size:16px;letter-spacing:2px;">★★★★★</span>
-                <meta itemprop="ratingValue" content="5">
-                <meta itemprop="bestRating" content="5">
               </div>
-              <p itemprop="reviewBody" style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">Перед проверкой выяснилось, что раздельный учёт фактически не вёлся. Помогли восстановить за сжатый срок, проверку прошли без штрафа. Теперь ведут учёт на аутсорсе — спокойнее.</p>
+              <p style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">Перед проверкой выяснилось, что раздельный учёт фактически не вёлся. Помогли восстановить за сжатый срок, проверку прошли без штрафа. Теперь ведут учёт на аутсорсе — спокойнее.</p>
               <div style="display:flex;flex-direction:column;gap:2px;">
-                <strong itemprop="author" itemscope itemtype="https://schema.org/Person" style="font-size:14px;color:var(--ink,#1C1E26);"><span itemprop="name">Е. Лазарева</span></strong>
+                <strong style="font-size:14px;color:var(--ink,#1C1E26);"><span>Е. Лазарева</span></strong>
                 <span style="font-size:13px;color:var(--text,#3A3D47);">Руководитель тендерного отдела · Производство · Краснодар</span>
                 <span style="font-size:12px;color:var(--gold-h,#B08C38);margin-top:4px;font-weight:600;">Раздельный учёт</span>
               </div>
             </article>
 
-            <article class="review-card" itemscope itemtype="https://schema.org/Review" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
-              <div itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating" style="margin-bottom:12px;">
+            <article class="review-card" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
+              <div style="margin-bottom:12px;">
                 <span style="color:var(--gold,#C9A24B);font-size:16px;letter-spacing:2px;">★★★★★</span>
-                <meta itemprop="ratingValue" content="5">
-                <meta itemprop="bestRating" content="5">
               </div>
-              <p itemprop="reviewBody" style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">Главная боль была — санкционирование тянулось почти неделю, из-за этого задержки по зарплате. После того как взяли сопровождение, платежи стали проходить за день-два. Для нас это критично.</p>
+              <p style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">Главная боль была — санкционирование тянулось почти неделю, из-за этого задержки по зарплате. После того как взяли сопровождение, платежи стали проходить за день-два. Для нас это критично.</p>
               <div style="display:flex;flex-direction:column;gap:2px;">
-                <strong itemprop="author" itemscope itemtype="https://schema.org/Person" style="font-size:14px;color:var(--ink,#1C1E26);"><span itemprop="name">Р. Исаев</span></strong>
+                <strong style="font-size:14px;color:var(--ink,#1C1E26);"><span>Р. Исаев</span></strong>
                 <span style="font-size:13px;color:var(--text,#3A3D47);">Владелец · Клининговая компания · Санкт-Петербург</span>
                 <span style="font-size:12px;color:var(--gold-h,#B08C38);margin-top:4px;font-weight:600;">Сопровождение, 44-ФЗ</span>
               </div>
             </article>
 
-            <article class="review-card" itemscope itemtype="https://schema.org/Review" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
-              <div itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating" style="margin-bottom:12px;">
+            <article class="review-card" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
+              <div style="margin-bottom:12px;">
                 <span style="color:var(--gold,#C9A24B);font-size:16px;letter-spacing:2px;">★★★★★</span>
-                <meta itemprop="ratingValue" content="5">
-                <meta itemprop="bestRating" content="5">
               </div>
-              <p itemprop="reviewBody" style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">Сами пытались настроить ЭЦП и систему — потеряли несколько дней и плюнули. Здесь подключились удалённо, поставили всё за один заход. Сэкономили нам неделю возни.</p>
+              <p style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">Сами пытались настроить ЭЦП и систему — потеряли несколько дней и плюнули. Здесь подключились удалённо, поставили всё за один заход. Сэкономили нам неделю возни.</p>
               <div style="display:flex;flex-direction:column;gap:2px;">
-                <strong itemprop="author" itemscope itemtype="https://schema.org/Person" style="font-size:14px;color:var(--ink,#1C1E26);"><span itemprop="name">О. Нестерова</span></strong>
+                <strong style="font-size:14px;color:var(--ink,#1C1E26);"><span>О. Нестерова</span></strong>
                 <span style="font-size:13px;color:var(--text,#3A3D47);">Главный бухгалтер · Инжиниринговая компания · Екатеринбург</span>
                 <span style="font-size:12px;color:var(--gold-h,#B08C38);margin-top:4px;font-weight:600;">Подключение к ГИИС «Электронный бюджет»</span>
               </div>
             </article>
 
-            <article class="review-card" itemscope itemtype="https://schema.org/Review" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
-              <div itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating" style="margin-bottom:12px;">
+            <article class="review-card" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
+              <div style="margin-bottom:12px;">
                 <span style="color:var(--gold,#C9A24B);font-size:16px;letter-spacing:2px;">★★★★★</span>
-                <meta itemprop="ratingValue" content="5">
-                <meta itemprop="bestRating" content="5">
               </div>
-              <p itemprop="reviewBody" style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">Работаем не первый месяц. Ценю, что заранее предупреждают о рисках по документам — пару раз так избежали возврата платежа. Цена не самая низкая на рынке, но за скорость и отсутствие головной боли это оправдано.</p>
+              <p style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">Работаем не первый месяц. Ценю, что заранее предупреждают о рисках по документам — пару раз так избежали возврата платежа. Цена не самая низкая на рынке, но за скорость и отсутствие головной боли это оправдано.</p>
               <div style="display:flex;flex-direction:column;gap:2px;">
-                <strong itemprop="author" itemscope itemtype="https://schema.org/Person" style="font-size:14px;color:var(--ink,#1C1E26);"><span itemprop="name">С. Третьяков</span></strong>
+                <strong style="font-size:14px;color:var(--ink,#1C1E26);"><span>С. Третьяков</span></strong>
                 <span style="font-size:13px;color:var(--text,#3A3D47);">Финансовый директор · Дорожно-строительная компания · Нижний Новгород</span>
                 <span style="font-size:12px;color:var(--gold-h,#B08C38);margin-top:4px;font-weight:600;">Сопровождение под ключ, контракт &gt; 100 млн ₽</span>
               </div>
