@@ -391,42 +391,49 @@ header("Cache-Control: public, max-age=300, must-revalidate");
       <!-- ============================================================ -->
       <div class="v2">
 
+        <!-- ============================================================ -->
+        <!-- HEADER — только герб, без отдельного текста бренда            -->
+        <!-- ============================================================ -->
         <header class="v2-header">
           <div class="v2-container v2-header-inner">
-            <a class="v2-brand" href="/">
+
+            <a class="v2-brand" href="/" aria-label="КазнаЭксперт — на главную">
               <span class="v2-brand-mark">
-                <img src="/img/LogoWhite.png" alt="КазнаЭксперт — герб" loading="eager">
+                <img src="/img/logogold.webp" alt="КазнаЭксперт" loading="eager" width="60" height="44">
               </span>
-              <span class="v2-brand-name">КазнаЭксперт</span>
             </a>
 
             <nav class="v2-nav" aria-label="Главная навигация">
-              <a href="#services">Услуги</a>
-              <a href="#tariffs">Тарифы</a>
+              <a href="#pricing">Тарифы</a>
+              <a href="#process">Как работаем</a>
               <a href="#cases">Кейсы</a>
-              <a href="#expert">Эксперт</a>
+              <a href="#aboutus">Эксперт</a>
               <a href="#faq">FAQ</a>
               <a href="#contacts">Связаться</a>
             </nav>
 
             <div class="v2-header-aside">
-              <span class="v2-phone-label">С 2009 · ВСЯ РФ</span>
+              <span class="v2-phone-label">С 2009 · Вся РФ</span>
               <a class="v2-phone" href="tel:+79818331010">+7 981 833-10-10</a>
             </div>
+
           </div>
         </header>
 
+        <!-- ============================================================ -->
+        <!-- HERO v2 — компактный, конверсионный                           -->
+        <!-- ============================================================ -->
         <section class="v2-hero">
           <div class="v2-container">
 
             <div class="v2-hero-grid">
 
+              <!-- LEFT: pitch + цифры -->
               <div class="v2-hero-main">
 
                 <div class="v2-hero-eyebrow-row">
-                  <span class="v2-eyebrow">Казначейское сопровождение</span>
+                  <span class="v2-eyebrow">44-ФЗ · 223-ФЗ · ГОЗ · Нацпроекты</span>
                   <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
-                  <span class="v2-eyebrow" style="color: var(--mute); letter-spacing: 0.2em;">01 · Услуга</span>
                 </div>
 
                 <h1>
@@ -436,61 +443,87 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                 </h1>
 
                 <p class="v2-hero-lede">
-                  Полный аутсорс казначейского сопровождения по 44-ФЗ, 223-ФЗ и гособоронзаказу.
-                  От резерва счёта на тендер — до закрытия контракта. Работаем по всей России удалённо.
+                  <strong>Полное казначейское сопровождение под ключ.</strong>
+                  Берём всю работу с УФК на себя — от резерва счёта на тендер до закрытия контракта.
+                  Без возвратов и срыва сроков.
                 </p>
 
-                <div class="v2-hero-cta-row">
-                  <a href="#tariffs" class="v2-cta-primary">
-                    Рассчитать стоимость
-                    <span aria-hidden="true">→</span>
-                  </a>
-                  <a href="#contacts" class="v2-cta-secondary">
-                    Получил отказ УФК — нужна помощь
-                    <span aria-hidden="true">→</span>
-                  </a>
+                <div class="v2-hero-trust">
+                  <div class="v2-trust-item">
+                    <div class="num">15<span class="unit">+ лет</span></div>
+                    <div class="label">В Казначействе</div>
+                  </div>
+                  <div class="v2-trust-item">
+                    <div class="num">7000<span class="unit">+</span></div>
+                    <div class="label">Контрактов</div>
+                  </div>
+                  <div class="v2-trust-item">
+                    <div class="num">90 <span class="unit">млрд&nbsp;₽</span></div>
+                    <div class="label">Проведено</div>
+                  </div>
+                  <div class="v2-trust-item">
+                    <div class="num">2 <span class="unit">дня</span></div>
+                    <div class="label">До открытия счёта</div>
+                  </div>
                 </div>
 
               </div>
 
-              <aside class="v2-hero-aside" aria-labelledby="hero-expert-name">
-                <p class="v2-eyebrow">Эксперт · Основатель</p>
+              <!-- RIGHT: action card -->
+              <aside class="v2-hero-action">
 
-                <h2 id="hero-expert-name">Михайлов Ярослав</h2>
-                <div class="v2-hero-aside-divider" aria-hidden="true"></div>
-
-                <p class="v2-hero-aside-quote">
-                  «Знаем требования УФК изнутри. Причины отказов, нюансы КОСГУ, раздельный учёт.
-                  За 15 лет в Федеральном Казначействе — без сюрпризов».
+                <div class="v2-hero-action-eyebrow">Связаться с экспертом</div>
+                <h2>Перезвоним за 15 минут</h2>
+                <p class="v2-hero-action-sub">
+                  Оставьте номер — обсудим ваш контракт и стоимость.
+                  NDA подписываем до анализа документов.
                 </p>
 
-                <ul class="v2-hero-aside-list">
-                  <li>Вся Россия · удалённо</li>
-                  <li>NDA до анализа документов</li>
-                  <li>44-ФЗ · 223-ФЗ · ГОЗ</li>
-                  <li>Договор за 24 часа</li>
-                </ul>
+                <form id="hero-form" method="post" action="#contacts">
+                  <div class="v2-form-field">
+                    <input
+                      type="tel"
+                      id="hero-tel"
+                      name="phone"
+                      data-tel-input
+                      placeholder="+7 (___) ___-__-__"
+                      autocomplete="tel"
+                      required
+                      pattern=".*\d{3}.*\d{3}.*\d{2}.*\d{2,}"
+                    >
+                  </div>
+
+                  <label class="v2-form-consent">
+                    <input type="checkbox" id="hero-consent" required>
+                    <span>
+                      Согласен на обработку персональных данных в соответствии с
+                      <a href="/privacy/" target="_blank" rel="noopener">политикой конфиденциальности</a>
+                    </span>
+                  </label>
+
+                  <button type="submit" class="v2-form-submit">
+                    Получить расчёт
+                  </button>
+                </form>
+
+                <div class="v2-hero-alt">
+                  Или напишите — ответим за 5 минут
+                  <div class="v2-hero-alt-links">
+                    <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
+                    <a href="https://wa.me/+79818331010" target="_blank" rel="noopener">WhatsApp</a>
+                  </div>
+                </div>
+
+                <div class="v2-hero-expert">
+                  <div class="v2-expert-name">Михайлов Ярослав</div>
+                  <div class="v2-expert-role">Эксперт · 15 лет в Казначействе</div>
+                  <p class="v2-expert-quote">
+                    «Знаем УФК изнутри: причины отказов, санкционирование платежей, раздельный учёт. За 15 лет — без сюрпризов».
+                  </p>
+                </div>
+
               </aside>
 
-            </div>
-
-            <div class="v2-counters" id="counters">
-              <div>
-                <div class="v2-counter-num">7000<span class="unit">+</span></div>
-                <div class="v2-counter-label">Контрактов</div>
-              </div>
-              <div>
-                <div class="v2-counter-num">90 <span class="unit">млрд&nbsp;₽</span></div>
-                <div class="v2-counter-label">Проведено</div>
-              </div>
-              <div>
-                <div class="v2-counter-num">15<span class="unit">+ лет</span></div>
-                <div class="v2-counter-label">В Казначействе</div>
-              </div>
-              <div>
-                <div class="v2-counter-num">24 <span class="unit">часа</span></div>
-                <div class="v2-counter-label">До договора</div>
-              </div>
             </div>
 
           </div>
