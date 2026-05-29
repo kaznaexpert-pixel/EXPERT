@@ -3,8 +3,11 @@
  * Lead form API endpoint — kaznaexpert.ru
  * POST JSON {phone, source, name?}
  * → Email на kaznaexpert@gmail.com
- * → Telegram через бота KaznaExpert Leads
  * → Лог в /home/y98451/leads.log
+ *
+ * Канал уведомлений — только email. Telegram Bot API заблокирован
+ * для российских хостингов (api.telegram.org недоступен с этого сервера),
+ * поэтому он не используется.
  */
 
 declare(strict_types=1);
@@ -19,25 +22,12 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
 }
 
 // === Конфиг ===
-// Секреты (tg_bot_token, tg_chat_id) НЕ хранятся в репозитории — он публичный.
-// Они загружаются из php/lead.config.php, который существует только на сервере
-// и добавлен в .gitignore. Если файла нет — Telegram отключается, остаётся email.
 $CONFIG = [
     'email_to'      => 'kaznaexpert@gmail.com',
     'email_from'    => 'noreply@kaznaexpert.ru',
-    'tg_bot_token'  => '',
-    'tg_chat_id'    => '',
     'log_path'      => '/home/y98451/leads.log',
     'rate_limit_window' => 60,
 ];
-
-$secret_file = __DIR__ . '/lead.config.php';
-if (is_file($secret_file)) {
-    $override = include $secret_file;
-    if (is_array($override)) {
-        $CONFIG = array_merge($CONFIG, $override);
-    }
-}
 
 // === Получение и валидация ===
 $raw = file_get_contents('php://input');
@@ -98,62 +88,24 @@ $headers .= "X-Mailer: kaznaexpert-lead-api\r\n";
 
 $mail_sent = @mail($CONFIG['email_to'], $subject, $body, $headers);
 
-// === Telegram ===
-$tg_sent = false;
-if (!empty($CONFIG['tg_bot_token']) && !empty($CONFIG['tg_chat_id'])) {
-    $tg_msg  = "🔔 Новая заявка с kaznaexpert.ru\n\n";
-    if ($name !== '') $tg_msg .= "👤 Имя: $name\n";
-    $tg_msg .= "📞 Телефон: $phone_clean\n";
-    $tg_msg .= "🌐 Источник: $source\n";
-    $tg_msg .= "🕐 Время: $time_msk МСК\n";
-    $tg_msg .= "🌍 IP: $ip\n\n";
-    $tg_msg .= "Перезвонить в течение 15 минут";
-
-    $tg_url = "https://api.telegram.org/bot{$CONFIG['tg_bot_token']}/sendMessage";
-    $tg_data = http_build_query([
-        'chat_id' => $CONFIG['tg_chat_id'],
-        'text'    => $tg_msg,
-    ]);
-
-    $ctx = stream_context_create([
-        'http' => [
-            'method'  => 'POST',
-            'header'  => "Content-Type: application/x-www-form-urlencoded\r\nUser-Agent: kaznaexpert-bot\r\n",
-            'content' => $tg_data,
-            'timeout' => 4,
-            'ignore_errors' => true,
-        ],
-    ]);
-
-    $tg_result = @file_get_contents($tg_url, false, $ctx);
-    if ($tg_result !== false) {
-        $tg_decoded = json_decode($tg_result, true);
-        $tg_sent = !empty($tg_decoded['ok']);
-    }
-}
-
 // === Лог ===
 $log_line = sprintf(
-    "%s | %s | %s | %s | mail:%s tg:%s\n",
+    "%s | %s | %s | %s | mail:%s\n",
     $time_utc,
     $phone_clean,
     $source,
     $ip,
-    $mail_sent ? '1' : '0',
-    $tg_sent ? '1' : '0'
+    $mail_sent ? '1' : '0'
 );
 @file_put_contents($CONFIG['log_path'], $log_line, FILE_APPEND | LOCK_EX);
 
 // === Ответ ===
-if ($mail_sent || $tg_sent) {
+if ($mail_sent) {
     echo json_encode([
         'ok' => true,
-        'channels' => [
-            'mail' => (bool)$mail_sent,
-            'telegram' => (bool)$tg_sent,
-        ],
+        'channels' => ['mail' => true],
     ]);
 } else {
     http_response_code(502);
-    echo json_encode(['error' => 'No notification channels delivered']);
+    echo json_encode(['error' => 'Mail delivery failed']);
 }
