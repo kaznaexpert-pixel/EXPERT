@@ -39,8 +39,8 @@
     <!-- ============================================================ -->
     <!-- SEO META                                                      -->
     <!-- ============================================================ -->
-    <title>Казначейское сопровождение госконтрактов под ключ в СПб и по РФ | КазнаЭксперт</title>
-    <meta name="description" content="Полный аутсорсинг казначейского сопровождения по 44-ФЗ и 223-ФЗ: подключение к ГИИС «Электронный бюджет», открытие лицевого счёта, санкционирование платежей, раздельный учёт. 24 часа от заявки до договора. 15+ лет опыта в Казначействе."/>
+    <title>Казначейское сопровождение госконтрактов под ключ | КазнаЭксперт</title>
+    <meta name="description" content="Казначейское сопровождение по 44-ФЗ и 223-ФЗ: ГИИС «Электронный бюджет», открытие лицевого счёта, раздельный учёт. 24 часа от заявки до договора."/>
     <meta name="keywords" content="казначейское сопровождение, ГИИС Электронный бюджет, открытие лицевого счёта в казначействе, раздельный учёт по госконтракту, 44-ФЗ, 223-ФЗ"/>
     <meta name="author" content="КазнаЭксперт">
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
@@ -74,7 +74,7 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://kaznaexpert.ru/">
     <meta property="og:title" content="Казначейское сопровождение госконтрактов под ключ | КазнаЭксперт">
-    <meta property="og:description" content="Полный аутсорсинг казначейского сопровождения по 44-ФЗ и 223-ФЗ. 24 часа от заявки до договора. 15+ лет опыта в Казначействе.">
+    <meta property="og:description" content="Аутсорсинг казначейского сопровождения по 44-ФЗ и 223-ФЗ. ГИИС «ЭБ», лицевой счёт, раздельный учёт. 24 часа от заявки до договора. 15+ лет в Казначействе.">
     <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
@@ -88,7 +88,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:url" content="https://kaznaexpert.ru/">
     <meta name="twitter:title" content="Казначейское сопровождение госконтрактов под ключ | КазнаЭксперт">
-    <meta name="twitter:description" content="Полный аутсорсинг казначейского сопровождения по 44-ФЗ и 223-ФЗ. 24 часа от заявки до договора.">
+    <meta name="twitter:description" content="Аутсорсинг казначейского сопровождения по 44-ФЗ и 223-ФЗ. ГИИС «ЭБ», лицевой счёт, раздельный учёт. 24 часа от заявки до договора.">
     <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
     <meta name="twitter:image:alt" content="КазнаЭксперт — казначейское сопровождение">
 
@@ -307,7 +307,7 @@
             ecommerce:"dataLayer"
        });
     </script>
-    <noscript><div><img src="https://mc.yandex.ru/watch/94305898" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <noscript><div><img src="https://mc.yandex.ru/watch/94305898" style="position:absolute; left:-9999px;" alt="Яндекс.Метрика" aria-hidden="true" /></div></noscript>
 
     <!-- Top.Mail.Ru счётчик удалён: не используется в VK Ads/MyTarget -->
 
@@ -453,10 +453,10 @@
                 <input type="text" id="fullname" placeholder="Имя">
                 <input type="email" id="email" class="_required" placeholder="email" pattern="[^@\s]+@[^@\s]+(\.[^@\s]+)+" title="user@example.ru">
                 <span class="callout">Формат: user@example.ru</span>
-                <img src="img/tick.svg" class="callout-img" alt="tick">
+                <img src="img/tick.svg" class="callout-img" alt="Поле заполнено корректно" aria-hidden="true">
                 <input type="tel" id="tel" data-tel-input class="_required" placeholder="Телефон*" pattern=".*.*.*.*\d{3}.*.*\d{3}.*\d{2}.*\d{2,}" title="Введите номер до конца" maxlength="18" required>
                 <span class="callout2">Это поле обязательно для заполнения</span>
-                <img src="img/tick.svg" class="callout-img2" alt="tick">
+                <img src="img/tick.svg" class="callout-img2" alt="Поле заполнено корректно" aria-hidden="true">
                 <textarea id="message" placeholder="Сообщение"></textarea>
                 <label class="checkbox">Я даю согласие на обработку персональных данных в соответствии с <a href="/privacy/" target="_blank">политикой конфиденциальности</a>
                   <input type="checkbox" class="_required" required>
@@ -548,8 +548,8 @@
             </div>
           </div>
         </div>
-        <a href="#popup" class="popup-link"><img src="img/chat.png" width="200px" alt="chat image"></a>
-        <a href="#popup" class="popup-link-mobile"><img src="img/chat_mobile.png" width="80px" alt="chat image mobile"></a>
+        <a href="#popup" class="popup-link" aria-label="Открыть чат с экспертом"><img src="img/chat.png" width="200" height="200" alt="Открыть чат с экспертом по казначейскому сопровождению"></a>
+        <a href="#popup" class="popup-link-mobile" aria-label="Открыть чат"><img src="img/chat_mobile.png" width="80" height="80" alt="Открыть чат"></a>
       </section>
 
       <footer>
