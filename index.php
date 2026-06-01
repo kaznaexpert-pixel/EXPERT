@@ -748,39 +748,39 @@ header("Cache-Control: public, max-age=300, must-revalidate");
         <section class="v2-section v2-screen" id="advantages">
           <div class="v2-container">
 
-            <div class="v2-section-head">
+            <div class="v2-section-head v2-reveal">
               <div class="v2-section-eyebrow">Почему мы</div>
               <h2 class="v2-section-title">Почему выбирают <em>КазнаЭксперт</em></h2>
               <p class="v2-section-lede">Шесть причин доверить нам работу с Казначейством.</p>
             </div>
 
             <div class="v2-adv-grid">
-              <article class="v2-adv">
+              <article class="v2-adv v2-reveal">
                 <div class="v2-adv-num">2 дня</div>
                 <h3>Открываем счёт</h3>
                 <p>От готовности документов до открытого лицевого счёта в ТОФК.</p>
               </article>
-              <article class="v2-adv">
+              <article class="v2-adv v2-reveal">
                 <div class="v2-adv-num">24 часа</div>
                 <h3>От заявки до договора</h3>
                 <p>Связь в Telegram, MAX или по телефону. Работаем в вашем ритме.</p>
               </article>
-              <article class="v2-adv">
+              <article class="v2-adv v2-reveal">
                 <div class="v2-adv-num">0</div>
                 <h3>Лишних действий от вас</h3>
                 <p>Только документы. Формы, поручения и сведения заполняем сами.</p>
               </article>
-              <article class="v2-adv">
+              <article class="v2-adv v2-reveal">
                 <div class="v2-adv-num">15+</div>
                 <h3>Лет внутри ФК</h3>
                 <p>Видим ошибку до того, как её увидит УФК. Знаем причины отказов.</p>
               </article>
-              <article class="v2-adv">
+              <article class="v2-adv v2-reveal">
                 <div class="v2-adv-num">NDA</div>
                 <h3>До анализа</h3>
                 <p>Подписываем NDA до того, как смотрим ваши документы.</p>
               </article>
-              <article class="v2-adv">
+              <article class="v2-adv v2-reveal">
                 <div class="v2-adv-num">Вся РФ</div>
                 <h3>Удалённо</h3>
                 <p>Работаем на вашем компьютере через TeamViewer или AnyDesk, в вашем часовом поясе.</p>
@@ -1252,6 +1252,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
 
     <script src="js/main.js"></script>
     <script src="js/cookie-consent.js"></script>
+    <script src="js/reveal.js"></script>
     <script>
       /* CTA-2 prefills "Получил отказ УФК" in task select */
       document.querySelectorAll('.cta--refused').forEach(function(el) {
