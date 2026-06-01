@@ -1716,3 +1716,179 @@
   .v2 .v2-adv-grid .v2-adv:nth-child(5) { transition-delay: .32s; }
   .v2 .v2-adv-grid .v2-adv:nth-child(6) { transition-delay: .40s; }
 }
+
+/* ============================================================
+ * 15. EXPERT — split (портрет + карточка)
+ * ============================================================ */
+.v2 .v2-expert-split {
+  display: grid;
+  grid-template-columns: 0.8fr 1.2fr;
+  gap: 56px;
+  align-items: center;
+}
+.v2 .v2-expert-portrait {
+  position: relative;
+  aspect-ratio: 4 / 5;
+  background: linear-gradient(160deg, var(--bg-alt), var(--paper));
+  border: 1px solid var(--hair-strong);
+}
+.v2 .v2-expert-portrait::after {
+  content: '';
+  position: absolute;
+  inset: 14px;
+  border: 1px solid var(--accent-soft);
+}
+.v2 .v2-expert-name {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 30px;
+  letter-spacing: -0.015em;
+  color: var(--ink);
+  margin-bottom: 6px;
+}
+.v2 .v2-expert-role {
+  font-family: var(--font-body);
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  color: var(--accent);
+  margin-bottom: 22px;
+}
+.v2 .v2-expert-bio {
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--ink-soft);
+  margin: 0 0 16px;
+  max-width: 580px;
+}
+.v2 .v2-expert-meta {
+  font-family: var(--font-body);
+  font-size: 12px;
+  color: var(--mute);
+  margin-top: 10px;
+}
+@media (max-width: 768px) {
+  .v2 .v2-expert-split { grid-template-columns: 1fr; gap: 28px; }
+  .v2 .v2-expert-portrait { max-width: 260px; }
+}
+
+/* ============================================================
+ * 16. CAROUSEL — кейсы и отзывы (CSS scroll-snap, без JS)
+ * ============================================================ */
+.v2 .v2-carousel {
+  display: flex;
+  gap: 24px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  padding: 4px 2px 20px;
+  margin: 0 -2px;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+  scrollbar-color: var(--hair-strong) transparent;
+}
+.v2 .v2-carousel::-webkit-scrollbar { height: 6px; }
+.v2 .v2-carousel::-webkit-scrollbar-thumb { background: var(--hair-strong); border-radius: 3px; }
+.v2 .v2-carousel > * { scroll-snap-align: start; flex: 0 0 min(420px, 84%); }
+.v2 .v2-carousel-hint {
+  font-family: var(--font-body);
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  color: var(--mute);
+  margin-top: 16px;
+}
+
+/* кейс */
+.v2 .v2-case {
+  background: var(--paper);
+  border: 1px solid var(--hair-strong);
+  padding: 30px 28px;
+  display: flex;
+  flex-direction: column;
+}
+.v2 .v2-case-top { display: flex; align-items: center; gap: 10px; margin-bottom: 16px; }
+.v2 .v2-case-tag {
+  font-family: var(--font-body);
+  font-size: 11px; font-weight: 600; letter-spacing: 0.08em;
+  background: var(--ink); color: var(--bg); padding: 3px 9px;
+}
+.v2 .v2-case-meta { font-family: var(--font-body); font-size: 12px; color: var(--mute); }
+.v2 .v2-case h3 {
+  font-family: var(--font-display); font-weight: 500;
+  font-size: 21px; line-height: 1.25; color: var(--ink); margin: 0 0 18px;
+}
+.v2 .v2-case dl { margin: 0; }
+.v2 .v2-case dt {
+  font-family: var(--font-body); font-size: 11px; font-weight: 600;
+  letter-spacing: 0.1em; text-transform: uppercase; color: var(--mute); margin-bottom: 3px;
+}
+.v2 .v2-case dd {
+  font-family: var(--font-body); font-size: 14px; line-height: 1.55;
+  color: var(--ink-soft); margin: 0 0 14px;
+}
+.v2 .v2-case dd.is-result { color: var(--success); font-weight: 500; margin-bottom: 0; }
+
+/* рейтинг + отзыв */
+.v2 .v2-rating { display: flex; align-items: center; gap: 14px; margin: -16px 0 36px; }
+.v2 .v2-rating-num { font-family: var(--font-display); font-weight: 500; font-size: 42px; line-height: 1; color: var(--accent); }
+.v2 .v2-rating-stars { color: var(--accent); letter-spacing: 3px; font-size: 16px; }
+.v2 .v2-rating-count { font-family: var(--font-body); font-size: 13px; color: var(--mute); }
+.v2 .v2-review {
+  background: var(--paper);
+  border: 1px solid var(--hair-strong);
+  border-top: 2px solid var(--accent);
+  padding: 28px 26px;
+  display: flex;
+  flex-direction: column;
+}
+.v2 .v2-review-stars { color: var(--accent); letter-spacing: 2px; font-size: 14px; margin-bottom: 14px; }
+.v2 .v2-review-stars .dim { color: var(--hair-strong); }
+.v2 .v2-review-quote {
+  font-family: var(--font-display); font-style: italic;
+  font-size: 16px; line-height: 1.55; color: var(--ink); margin: 0 0 18px;
+}
+.v2 .v2-review-author { margin-top: auto; }
+.v2 .v2-review-author strong { font-family: var(--font-body); font-weight: 600; font-size: 14px; color: var(--ink); display: block; }
+.v2 .v2-review-author span { font-family: var(--font-body); font-size: 12px; line-height: 1.45; color: var(--mute); display: block; }
+.v2 .v2-review-tag { font-family: var(--font-body); font-size: 11px; font-weight: 500; color: var(--accent); margin-top: 8px; }
+
+/* ============================================================
+ * 17. FAQ — accordion (native <details>), 2 колонки
+ * ============================================================ */
+.v2 .v2-faq { columns: 2; column-gap: 56px; }
+.v2 .v2-faq details { break-inside: avoid; border-bottom: 1px solid var(--hair); }
+.v2 .v2-faq summary {
+  list-style: none; cursor: pointer; position: relative;
+  padding: 17px 34px 17px 0;
+  font-family: var(--font-display); font-weight: 500; font-size: 16px;
+  line-height: 1.3; color: var(--ink);
+}
+.v2 .v2-faq summary::-webkit-details-marker { display: none; }
+.v2 .v2-faq summary::after {
+  content: '+'; position: absolute; right: 2px; top: 15px;
+  font-size: 20px; color: var(--accent); font-weight: 400;
+}
+.v2 .v2-faq details[open] summary::after { content: '\2212'; }
+.v2 .v2-faq details p {
+  font-family: var(--font-body); font-size: 14px; line-height: 1.6;
+  color: var(--ink-soft); margin: 0 0 18px; padding-right: 34px; text-align: left;
+}
+@media (max-width: 768px) { .v2 .v2-faq { columns: 1; } }
+
+/* ============================================================
+ * 18. CONTACTS — split (форма + панель)
+ * ============================================================ */
+.v2 .v2-contacts-split { display: grid; grid-template-columns: 1.05fr 0.95fr; gap: 56px; align-items: start; }
+.v2 .v2-contacts-panel { border-left: 1px solid var(--hair-strong); padding-left: 40px; }
+.v2 .v2-contacts-row { margin-bottom: 22px; }
+.v2 .v2-contacts-label { font-family: var(--font-body); font-size: 11px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--mute); margin-bottom: 6px; }
+.v2 .v2-contacts-val { font-family: var(--font-body); font-size: 16px; line-height: 1.5; color: var(--ink); }
+.v2 .v2-contacts-val a { color: var(--ink); border-bottom: 1px solid var(--hair-strong); }
+.v2 .v2-contacts-val a:hover { color: var(--accent); border-color: var(--accent); }
+.v2 .v2-contacts-msgr { display: flex; gap: 20px; margin-top: 4px; }
+.v2 .v2-contacts-msgr a { font-family: var(--font-body); font-size: 14px; font-weight: 500; color: var(--accent); border-bottom: 1px solid transparent; }
+.v2 .v2-contacts-msgr a:hover { border-color: var(--accent); }
+@media (max-width: 768px) {
+  .v2 .v2-contacts-split { grid-template-columns: 1fr; gap: 36px; }
+  .v2 .v2-contacts-panel { border-left: 0; padding-left: 0; border-top: 1px solid var(--hair-strong); padding-top: 32px; }
+}

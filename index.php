@@ -721,25 +721,30 @@ header("Cache-Control: public, max-age=300, must-revalidate");
       <!-- ============================================================ -->
       <!-- 08 ЭКСПЕРТ                                                   -->
       <!-- ============================================================ -->
-      <section class="expert" id="aboutus">
-        <div class="container">
-          <h2>Кто ведёт ваш контракт</h2>
-          <div class="expert-body">
-            <div class="expert-visual" aria-hidden="true">
-              <!-- TODO Sprint 2.x: фото основателя 1:1 + состав команды -->
-              <div class="expert-photo-placeholder"></div>
+      <div class="v2">
+        <section class="v2-section v2-screen" id="aboutus">
+          <div class="v2-container">
+
+            <div class="v2-section-head v2-reveal">
+              <div class="v2-section-eyebrow">Эксперт</div>
+              <h2 class="v2-section-title">Кто ведёт <em>ваш контракт</em></h2>
+              <p class="v2-section-lede">За каждым контрактом — человек из системы Казначейства, а не колл-центр.</p>
             </div>
-            <div class="expert-text" itemscope itemtype="https://schema.org/Person">
-              <h3 itemprop="name">Михайлов Ярослав</h3>
-              <p><span itemprop="jobTitle">Основатель «КазнаЭксперт»</span>, <span itemprop="description">15+ лет в системе Федерального Казначейства. Знаю требования УФК изнутри: причины отказов, нюансы КОСГУ/КВР, раздельный учёт по 44-ФЗ, 223-ФЗ и ГОЗ.</span></p>
-              <p>За проектами — 5 специалистов с опытом работы в органах Казначейства. Ведём несколько контрактов параллельно, отвечаем в тот же день и не зависим от одного человека.</p>
-              <!-- TODO Sprint 2.x: видео 60–90 сек «Кто попадает под казначейское сопровождение в 2026» -->
-              <div class="expert-video-placeholder" aria-hidden="true"></div>
-              <p class="expert-updated">Обновлено: июнь 2026</p>
+
+            <div class="v2-expert-split">
+              <div class="v2-expert-portrait v2-reveal" aria-hidden="true"></div>
+              <div class="v2-expert-card v2-reveal" itemscope itemtype="https://schema.org/Person">
+                <div class="v2-expert-name" itemprop="name">Михайлов Ярослав</div>
+                <div class="v2-expert-role" itemprop="jobTitle">Основатель «КазнаЭксперт»</div>
+                <p class="v2-expert-bio" itemprop="description">15+ лет в системе Федерального Казначейства. Знаю требования УФК изнутри: причины отказов, нюансы КОСГУ/КВР, раздельный учёт по 44-ФЗ, 223-ФЗ и ГОЗ.</p>
+                <p class="v2-expert-bio">За проектами — 5 специалистов с опытом работы в органах Казначейства. Ведём несколько контрактов параллельно, отвечаем в тот же день и не зависим от одного человека.</p>
+                <div class="v2-expert-meta">Обновлено: июнь 2026</div>
+              </div>
             </div>
+
           </div>
-        </div>
-      </section>
+        </section>
+      </div>
 
       <!-- ============================================================ -->
       <!-- 09 ПРЕИМУЩЕСТВА                                              -->
@@ -794,309 +799,313 @@ header("Cache-Control: public, max-age=300, must-revalidate");
       <!-- ============================================================ -->
       <!-- 10. КЕЙСЫ — 5 обезличенных, для социального доказательства   -->
       <!-- ============================================================ -->
-      <section class="cases-section" id="cases" style="padding:96px 0;background:var(--bg-alt,#F2EFE9);">
-        <div class="container" style="max-width:1200px;margin:0 auto;padding:0 24px;">
+      <div class="v2">
+        <section class="v2-section v2-screen" id="cases">
+          <div class="v2-container">
 
-          <p style="margin:0 0 8px;font-size:13px;letter-spacing:6px;color:var(--gold,#C9A24B);font-weight:600;text-transform:uppercase;">Кейсы</p>
-          <h2 style="margin:0 0 12px;font-size:36px;color:var(--ink,#1C1E26);line-height:1.2;font-weight:700;letter-spacing:-0.5px;">5 кейсов наших клиентов</h2>
-          <p style="margin:0 0 48px;font-size:17px;color:var(--text,#3A3D47);line-height:1.6;max-width:680px;">Обезличенные истории — типы компаний, суммы контрактов, регионы, проблемы и результаты. Реальные клиенты по NDA.</p>
+            <div class="v2-section-head v2-reveal">
+              <div class="v2-section-eyebrow">Кейсы</div>
+              <h2 class="v2-section-title">Пять историй <em>наших клиентов</em></h2>
+              <p class="v2-section-lede">Обезличенные кейсы по NDA: тип компании, сумма контракта, проблема и результат.</p>
+            </div>
 
-          <div class="cases-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(360px,1fr));gap:24px;">
+            <div class="v2-carousel v2-reveal">
 
-            <article class="case-card" style="background:var(--bg,#FBFAF7);border:1px solid var(--line,#E3DECF);border-radius:16px;padding:32px;box-shadow:0 8px 28px rgba(28,30,38,0.06);">
-              <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;">
-                <span style="background:var(--gold,#C9A24B);color:#fff;font-size:13px;font-weight:600;padding:4px 10px;border-radius:4px;letter-spacing:0.5px;">44-ФЗ</span>
-                <span style="font-size:13px;color:var(--text,#3A3D47);">140 млн ₽ · Санкт-Петербург</span>
-              </div>
-              <h3 style="margin:0 0 12px;font-size:20px;color:var(--ink,#1C1E26);line-height:1.3;font-weight:600;">Строительная компания: возврат платежа из УФК</h3>
-              <p style="margin:0 0 12px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;"><strong style="color:var(--ink,#1C1E26);">Проблема:</strong> УФК вернуло платёж — сведения об операциях не соответствовали КВР/КОСГУ, оплата субподрядчику зависла на две недели.</p>
-              <p style="margin:0 0 12px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;"><strong style="color:var(--ink,#1C1E26);">Решение:</strong> пересобрали сведения по кодам, согласовали с ТОФК, подготовили документы-основания.</p>
-              <p style="margin:0;font-size:15px;color:var(--success,#2E7D5B);line-height:1.6;font-weight:600;"><strong>Результат:</strong> платёж санкционирован за 3 рабочих дня, дальнейшие платежи без возвратов.</p>
-            </article>
+              <article class="v2-case">
+                <div class="v2-case-top"><span class="v2-case-tag">44-ФЗ</span><span class="v2-case-meta">140 млн ₽ · Санкт-Петербург</span></div>
+                <h3>Строительная компания: возврат платежа из УФК</h3>
+                <dl>
+                  <dt>Проблема</dt><dd>УФК вернуло платёж — сведения не соответствовали КВР/КОСГУ, оплата субподрядчику зависла на две недели.</dd>
+                  <dt>Решение</dt><dd>Пересобрали сведения по кодам, согласовали с ТОФК, подготовили документы-основания.</dd>
+                  <dt>Результат</dt><dd class="is-result">Платёж санкционирован за 3 рабочих дня, дальнейшие — без возвратов.</dd>
+                </dl>
+              </article>
 
-            <article class="case-card" style="background:var(--bg,#FBFAF7);border:1px solid var(--line,#E3DECF);border-radius:16px;padding:32px;box-shadow:0 8px 28px rgba(28,30,38,0.06);">
-              <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;">
-                <span style="background:var(--gold,#C9A24B);color:#fff;font-size:13px;font-weight:600;padding:4px 10px;border-radius:4px;letter-spacing:0.5px;">223-ФЗ</span>
-                <span style="font-size:13px;color:var(--text,#3A3D47);">45 млн ₽ · Республика Татарстан</span>
-              </div>
-              <h3 style="margin:0 0 12px;font-size:20px;color:var(--ink,#1C1E26);line-height:1.3;font-weight:600;">IT-интегратор: первый контракт с казначейским сопровождением</h3>
-              <p style="margin:0 0 12px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;"><strong style="color:var(--ink,#1C1E26);">Проблема:</strong> компания не подключена к ГИИС «Электронный бюджет», заказчик торопил со сроками.</p>
-              <p style="margin:0 0 12px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;"><strong style="color:var(--ink,#1C1E26);">Решение:</strong> получили сертификат, подключили ГИИС «ЭБ», привязали ЭЦП, открыли лицевой счёт в ТОФК под ключ.</p>
-              <p style="margin:0;font-size:15px;color:var(--success,#2E7D5B);line-height:1.6;font-weight:600;"><strong>Результат:</strong> счёт открыт за 2 рабочих дня от готовности документов, аванс получен в срок.</p>
-            </article>
+              <article class="v2-case">
+                <div class="v2-case-top"><span class="v2-case-tag">223-ФЗ</span><span class="v2-case-meta">45 млн ₽ · Татарстан</span></div>
+                <h3>IT-интегратор: первый контракт с сопровождением</h3>
+                <dl>
+                  <dt>Проблема</dt><dd>Компания не подключена к ГИИС «Электронный бюджет», заказчик торопил со сроками.</dd>
+                  <dt>Решение</dt><dd>Получили сертификат, подключили ГИИС «ЭБ», привязали ЭЦП, открыли счёт в ТОФК под ключ.</dd>
+                  <dt>Результат</dt><dd class="is-result">Счёт открыт за 2 рабочих дня от готовности документов, аванс получен в срок.</dd>
+                </dl>
+              </article>
 
-            <article class="case-card" style="background:var(--bg,#FBFAF7);border:1px solid var(--line,#E3DECF);border-radius:16px;padding:32px;box-shadow:0 8px 28px rgba(28,30,38,0.06);">
-              <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;">
-                <span style="background:var(--gold,#C9A24B);color:#fff;font-size:13px;font-weight:600;padding:4px 10px;border-radius:4px;letter-spacing:0.5px;">44-ФЗ</span>
-                <span style="font-size:13px;color:var(--text,#3A3D47);">90 млн ₽ · Москва</span>
-              </div>
-              <h3 style="margin:0 0 12px;font-size:20px;color:var(--ink,#1C1E26);line-height:1.3;font-weight:600;">Поставка оборудования: цепочка из 3 субподрядчиков</h3>
-              <p style="margin:0 0 12px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;"><strong style="color:var(--ink,#1C1E26);">Проблема:</strong> ни один субподрядчик не открыл лицевой счёт — платежи по контракту встали.</p>
-              <p style="margin:0 0 12px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;"><strong style="color:var(--ink,#1C1E26);">Решение:</strong> открыли счета на каждом уровне цепочки, выстроили порядок санкционирования, подготовили договоры.</p>
-              <p style="margin:0;font-size:15px;color:var(--success,#2E7D5B);line-height:1.6;font-weight:600;"><strong>Результат:</strong> вся цепочка платежей проведена, расчёты с субподрядчиками без просрочек.</p>
-            </article>
+              <article class="v2-case">
+                <div class="v2-case-top"><span class="v2-case-tag">44-ФЗ</span><span class="v2-case-meta">90 млн ₽ · Москва</span></div>
+                <h3>Поставка оборудования: цепочка из 3 субподрядчиков</h3>
+                <dl>
+                  <dt>Проблема</dt><dd>Ни один субподрядчик не открыл лицевой счёт — платежи по контракту встали.</dd>
+                  <dt>Решение</dt><dd>Открыли счета на каждом уровне цепочки, выстроили порядок санкционирования.</dd>
+                  <dt>Результат</dt><dd class="is-result">Вся цепочка платежей проведена, расчёты с субподрядчиками без просрочек.</dd>
+                </dl>
+              </article>
 
-            <article class="case-card" style="background:var(--bg,#FBFAF7);border:1px solid var(--line,#E3DECF);border-radius:16px;padding:32px;box-shadow:0 8px 28px rgba(28,30,38,0.06);">
-              <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;">
-                <span style="background:var(--gold,#C9A24B);color:#fff;font-size:13px;font-weight:600;padding:4px 10px;border-radius:4px;letter-spacing:0.5px;">44-ФЗ</span>
-                <span style="font-size:13px;color:var(--text,#3A3D47);">220 млн ₽ · Краснодарский край</span>
-              </div>
-              <h3 style="margin:0 0 12px;font-size:20px;color:var(--ink,#1C1E26);line-height:1.3;font-weight:600;">Производственная компания: восстановили раздельный учёт</h3>
-              <p style="margin:0 0 12px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;"><strong style="color:var(--ink,#1C1E26);">Проблема:</strong> раздельный учёт по контракту не вёлся, приближалась проверка — риск штрафа 5–10% цены договора.</p>
-              <p style="margin:0 0 12px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;"><strong style="color:var(--ink,#1C1E26);">Решение:</strong> настроили раздельный учёт в разрезе контракта, восстановили операции, подготовили документы к проверке.</p>
-              <p style="margin:0;font-size:15px;color:var(--success,#2E7D5B);line-height:1.6;font-weight:600;"><strong>Результат:</strong> проверка пройдена без штрафа, учёт ведётся на аутсорсе.</p>
-            </article>
+              <article class="v2-case">
+                <div class="v2-case-top"><span class="v2-case-tag">44-ФЗ</span><span class="v2-case-meta">220 млн ₽ · Краснодар</span></div>
+                <h3>Производство: восстановили раздельный учёт</h3>
+                <dl>
+                  <dt>Проблема</dt><dd>Раздельный учёт не вёлся, приближалась проверка — риск штрафа 5–10% цены договора.</dd>
+                  <dt>Решение</dt><dd>Настроили учёт в разрезе контракта, восстановили операции, подготовили документы.</dd>
+                  <dt>Результат</dt><dd class="is-result">Проверка пройдена без штрафа, учёт ведётся на аутсорсе.</dd>
+                </dl>
+              </article>
 
-            <article class="case-card" style="background:var(--bg,#FBFAF7);border:1px solid var(--line,#E3DECF);border-radius:16px;padding:32px;box-shadow:0 8px 28px rgba(28,30,38,0.06);">
-              <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;">
-                <span style="background:var(--gold,#C9A24B);color:#fff;font-size:13px;font-weight:600;padding:4px 10px;border-radius:4px;letter-spacing:0.5px;">44-ФЗ</span>
-                <span style="font-size:13px;color:var(--text,#3A3D47);">12 млн ₽, аванс 60% · Санкт-Петербург</span>
-              </div>
-              <h3 style="margin:0 0 12px;font-size:20px;color:var(--ink,#1C1E26);line-height:1.3;font-weight:600;">Клининговая компания: ускорили санкционирование</h3>
-              <p style="margin:0 0 12px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;"><strong style="color:var(--ink,#1C1E26);">Проблема:</strong> санкционирование платежей затягивалось до 5 дней, кассовые разрывы по зарплате и закупкам.</p>
-              <p style="margin:0 0 12px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;"><strong style="color:var(--ink,#1C1E26);">Решение:</strong> взяли сопровождение под ключ, привели документы-основания к требованиям УФК, отладили подачу.</p>
-              <p style="margin:0;font-size:15px;color:var(--success,#2E7D5B);line-height:1.6;font-weight:600;"><strong>Результат:</strong> срок санкционирования снижен до 1–2 дней, разрывы устранены.</p>
-            </article>
+              <article class="v2-case">
+                <div class="v2-case-top"><span class="v2-case-tag">44-ФЗ</span><span class="v2-case-meta">12 млн ₽, аванс 60% · СПб</span></div>
+                <h3>Клининговая компания: ускорили санкционирование</h3>
+                <dl>
+                  <dt>Проблема</dt><dd>Санкционирование затягивалось до 5 дней, кассовые разрывы по зарплате и закупкам.</dd>
+                  <dt>Решение</dt><dd>Взяли сопровождение под ключ, привели документы к требованиям УФК, отладили подачу.</dd>
+                  <dt>Результат</dt><dd class="is-result">Срок санкционирования снижен до 1–2 дней, разрывы устранены.</dd>
+                </dl>
+              </article>
+
+            </div>
+
+            <p class="v2-carousel-hint">← Листайте · названия компаний закрыты по NDA, документы предоставляем по запросу</p>
 
           </div>
-
-          <p style="margin:40px 0 0;font-size:14px;color:var(--text,#3A3D47);text-align:center;">Названия компаний закрыты по NDA. Готовы предоставить подтверждающие документы при подписании соглашения о неразглашении с вашей стороны.</p>
-
-        </div>
-      </section>
+        </section>
+      </div>
 
       <!-- ============================================================ -->
       <!-- 11. ОТЗЫВЫ — 7 разноплановых, с лёгкой критикой в одном       -->
       <!-- ============================================================ -->
-      <section class="reviews-section" id="reviews" style="padding:96px 0;background:var(--bg,#FBFAF7);">
-        <div class="container" style="max-width:1200px;margin:0 auto;padding:0 24px;">
+      <div class="v2">
+        <section class="v2-section v2-screen" id="reviews">
+          <div class="v2-container">
 
-          <p style="margin:0 0 8px;font-size:13px;letter-spacing:6px;color:var(--gold,#C9A24B);font-weight:600;text-transform:uppercase;">Отзывы клиентов</p>
-          <h2 style="margin:0 0 12px;font-size:36px;color:var(--ink,#1C1E26);line-height:1.2;font-weight:700;letter-spacing:-0.5px;">Что говорят о нас</h2>
-          <div style="display:flex;align-items:center;gap:16px;margin-bottom:48px;">
-            <div style="font-size:36px;font-weight:700;color:var(--gold,#C9A24B);">4.9</div>
-            <div>
-              <div style="color:var(--gold,#C9A24B);font-size:18px;letter-spacing:3px;">★★★★★</div>
-              <div style="font-size:14px;color:var(--text,#3A3D47);">по <span>7</span> отзывам</div>
+            <div class="v2-section-head v2-reveal">
+              <div class="v2-section-eyebrow">Отзывы клиентов</div>
+              <h2 class="v2-section-title">Что говорят <em>о нас</em></h2>
+              <div class="v2-rating">
+                <span class="v2-rating-num">4.9</span>
+                <span class="v2-rating-stars">★★★★★</span>
+                <span class="v2-rating-count">по 7 отзывам</span>
+              </div>
             </div>
-          </div>
 
-          <div class="reviews-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:24px;">
+            <div class="v2-carousel v2-reveal">
 
-            <article class="review-card" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
-              <div style="margin-bottom:12px;">
-                <span style="color:var(--gold,#C9A24B);font-size:16px;letter-spacing:2px;">★★★★★</span>
-              </div>
-              <p style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">Контракт подписали, а про казначейский счёт узнали уже постфактум — сроки горели. Обратились сюда, потому что обещали два дня. По факту так и вышло: документы собрали, счёт открыли, заказчику отчитались вовремя. Что важно — не пришлось самим вникать в КВР и КОСГУ, всё сделали за нас.</p>
-              <div style="display:flex;flex-direction:column;gap:2px;">
-                <strong style="font-size:14px;color:var(--ink,#1C1E26);"><span>А. Громов</span></strong>
-                <span style="font-size:13px;color:var(--text,#3A3D47);">Финансовый директор · Строительная компания · Санкт-Петербург</span>
-                <span style="font-size:12px;color:var(--gold-h,#B08C38);margin-top:4px;font-weight:600;">Открытие казначейского счёта</span>
-              </div>
-            </article>
+              <article class="v2-review">
+                <div class="v2-review-stars">★★★★★</div>
+                <p class="v2-review-quote">Контракт подписали, а про казначейский счёт узнали постфактум — сроки горели. Обещали два дня — так и вышло: собрали документы, открыли счёт, отчитались вовремя. Не пришлось самим вникать в КВР и КОСГУ.</p>
+                <div class="v2-review-author">
+                  <strong>А. Громов</strong>
+                  <span>Финансовый директор · Строительная компания · СПб</span>
+                  <div class="v2-review-tag">Открытие казначейского счёта</div>
+                </div>
+              </article>
 
-            <article class="review-card" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
-              <div style="margin-bottom:12px;">
-                <span style="color:var(--gold,#C9A24B);font-size:16px;letter-spacing:2px;">★★★★★</span>
-              </div>
-              <p style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">Первый наш контракт с сопровождением. Боялись, что увязнем в ГИИС и согласованиях. Объяснили по шагам, подключили систему, дальше платежи идут штатно. Отвечают по делу, без лишней воды.</p>
-              <div style="display:flex;flex-direction:column;gap:2px;">
-                <strong style="font-size:14px;color:var(--ink,#1C1E26);"><span>М. Сафина</span></strong>
-                <span style="font-size:13px;color:var(--text,#3A3D47);">Главный бухгалтер · IT-интегратор · Казань</span>
-                <span style="font-size:12px;color:var(--gold-h,#B08C38);margin-top:4px;font-weight:600;">Сопровождение под ключ, 223-ФЗ</span>
-              </div>
-            </article>
+              <article class="v2-review">
+                <div class="v2-review-stars">★★★★★</div>
+                <p class="v2-review-quote">Первый контракт с сопровождением. Боялись увязнуть в ГИИС и согласованиях. Объяснили по шагам, подключили систему — дальше платежи идут штатно. Отвечают по делу, без воды.</p>
+                <div class="v2-review-author">
+                  <strong>М. Сафина</strong>
+                  <span>Главный бухгалтер · IT-интегратор · Казань</span>
+                  <div class="v2-review-tag">Сопровождение под ключ, 223-ФЗ</div>
+                </div>
+              </article>
 
-            <article class="review-card" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
-              <div style="margin-bottom:12px;">
-                <span style="color:var(--gold,#C9A24B);font-size:16px;letter-spacing:2px;">★★★★<span style="color:var(--line,#E3DECF);">★</span></span>
-              </div>
-              <p style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">У нас было три субподрядчика, и всё встало из-за счетов. Тут разрулили цепочку целиком — открыли счета на всех уровнях, объяснили порядок платежей. Единственное: в первый день ответ был не сразу, видимо была загрузка. Дальше связь держали плотно, вопросов нет.</p>
-              <div style="display:flex;flex-direction:column;gap:2px;">
-                <strong style="font-size:14px;color:var(--ink,#1C1E26);"><span>Д. Ковальчук</span></strong>
-                <span style="font-size:13px;color:var(--text,#3A3D47);">Директор · Поставка оборудования · Москва</span>
-                <span style="font-size:12px;color:var(--gold-h,#B08C38);margin-top:4px;font-weight:600;">Сопровождение цепочки субподрядчиков</span>
-              </div>
-            </article>
+              <article class="v2-review">
+                <div class="v2-review-stars">★★★★<span class="dim">★</span></div>
+                <p class="v2-review-quote">Было три субподрядчика, всё встало из-за счетов. Разрулили цепочку целиком — открыли счета на всех уровнях. Единственное: в первый день ответ был не сразу. Дальше связь держали плотно.</p>
+                <div class="v2-review-author">
+                  <strong>Д. Ковальчук</strong>
+                  <span>Директор · Поставка оборудования · Москва</span>
+                  <div class="v2-review-tag">Сопровождение цепочки субподрядчиков</div>
+                </div>
+              </article>
 
-            <article class="review-card" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
-              <div style="margin-bottom:12px;">
-                <span style="color:var(--gold,#C9A24B);font-size:16px;letter-spacing:2px;">★★★★★</span>
-              </div>
-              <p style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">Перед проверкой выяснилось, что раздельный учёт фактически не вёлся. Помогли восстановить за сжатый срок, проверку прошли без штрафа. Теперь ведут учёт на аутсорсе — спокойнее.</p>
-              <div style="display:flex;flex-direction:column;gap:2px;">
-                <strong style="font-size:14px;color:var(--ink,#1C1E26);"><span>Е. Лазарева</span></strong>
-                <span style="font-size:13px;color:var(--text,#3A3D47);">Руководитель тендерного отдела · Производство · Краснодар</span>
-                <span style="font-size:12px;color:var(--gold-h,#B08C38);margin-top:4px;font-weight:600;">Раздельный учёт</span>
-              </div>
-            </article>
+              <article class="v2-review">
+                <div class="v2-review-stars">★★★★★</div>
+                <p class="v2-review-quote">Перед проверкой выяснилось, что раздельный учёт не вёлся. Помогли восстановить за сжатый срок, проверку прошли без штрафа. Теперь ведут учёт на аутсорсе — спокойнее.</p>
+                <div class="v2-review-author">
+                  <strong>Е. Лазарева</strong>
+                  <span>Руководитель тендерного отдела · Производство · Краснодар</span>
+                  <div class="v2-review-tag">Раздельный учёт</div>
+                </div>
+              </article>
 
-            <article class="review-card" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
-              <div style="margin-bottom:12px;">
-                <span style="color:var(--gold,#C9A24B);font-size:16px;letter-spacing:2px;">★★★★★</span>
-              </div>
-              <p style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">Главная боль была — санкционирование тянулось почти неделю, из-за этого задержки по зарплате. После того как взяли сопровождение, платежи стали проходить за день-два. Для нас это критично.</p>
-              <div style="display:flex;flex-direction:column;gap:2px;">
-                <strong style="font-size:14px;color:var(--ink,#1C1E26);"><span>Р. Исаев</span></strong>
-                <span style="font-size:13px;color:var(--text,#3A3D47);">Владелец · Клининговая компания · Санкт-Петербург</span>
-                <span style="font-size:12px;color:var(--gold-h,#B08C38);margin-top:4px;font-weight:600;">Сопровождение, 44-ФЗ</span>
-              </div>
-            </article>
+              <article class="v2-review">
+                <div class="v2-review-stars">★★★★★</div>
+                <p class="v2-review-quote">Главная боль — санкционирование тянулось почти неделю, отсюда задержки по зарплате. После сопровождения платежи проходят за день-два. Для нас это критично.</p>
+                <div class="v2-review-author">
+                  <strong>Р. Исаев</strong>
+                  <span>Владелец · Клининговая компания · СПб</span>
+                  <div class="v2-review-tag">Сопровождение, 44-ФЗ</div>
+                </div>
+              </article>
 
-            <article class="review-card" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
-              <div style="margin-bottom:12px;">
-                <span style="color:var(--gold,#C9A24B);font-size:16px;letter-spacing:2px;">★★★★★</span>
-              </div>
-              <p style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">Сами пытались настроить ЭЦП и систему — потеряли несколько дней и плюнули. Здесь подключились удалённо, поставили всё за один заход. Сэкономили нам неделю возни.</p>
-              <div style="display:flex;flex-direction:column;gap:2px;">
-                <strong style="font-size:14px;color:var(--ink,#1C1E26);"><span>О. Нестерова</span></strong>
-                <span style="font-size:13px;color:var(--text,#3A3D47);">Главный бухгалтер · Инжиниринговая компания · Екатеринбург</span>
-                <span style="font-size:12px;color:var(--gold-h,#B08C38);margin-top:4px;font-weight:600;">Подключение к ГИИС «Электронный бюджет»</span>
-              </div>
-            </article>
+              <article class="v2-review">
+                <div class="v2-review-stars">★★★★★</div>
+                <p class="v2-review-quote">Сами пытались настроить ЭЦП и систему — потеряли несколько дней и плюнули. Здесь подключились удалённо, поставили всё за один заход. Сэкономили неделю возни.</p>
+                <div class="v2-review-author">
+                  <strong>О. Нестерова</strong>
+                  <span>Главный бухгалтер · Инжиниринг · Екатеринбург</span>
+                  <div class="v2-review-tag">Подключение к ГИИС «ЭБ»</div>
+                </div>
+              </article>
 
-            <article class="review-card" style="background:var(--bg-alt,#F2EFE9);border-radius:16px;padding:28px;border-left:3px solid var(--gold,#C9A24B);">
-              <div style="margin-bottom:12px;">
-                <span style="color:var(--gold,#C9A24B);font-size:16px;letter-spacing:2px;">★★★★★</span>
-              </div>
-              <p style="margin:0 0 16px;font-size:15px;color:var(--text,#3A3D47);line-height:1.6;font-style:italic;">Работаем не первый месяц. Ценю, что заранее предупреждают о рисках по документам — пару раз так избежали возврата платежа. Цена не самая низкая на рынке, но за скорость и отсутствие головной боли это оправдано.</p>
-              <div style="display:flex;flex-direction:column;gap:2px;">
-                <strong style="font-size:14px;color:var(--ink,#1C1E26);"><span>С. Третьяков</span></strong>
-                <span style="font-size:13px;color:var(--text,#3A3D47);">Финансовый директор · Дорожно-строительная компания · Нижний Новгород</span>
-                <span style="font-size:12px;color:var(--gold-h,#B08C38);margin-top:4px;font-weight:600;">Сопровождение под ключ, контракт &gt; 100 млн ₽</span>
-              </div>
-            </article>
+              <article class="v2-review">
+                <div class="v2-review-stars">★★★★★</div>
+                <p class="v2-review-quote">Работаем не первый месяц. Ценю, что заранее предупреждают о рисках по документам — пару раз избежали возврата платежа. Цена не самая низкая, но за скорость и отсутствие головной боли оправдано.</p>
+                <div class="v2-review-author">
+                  <strong>С. Третьяков</strong>
+                  <span>Финансовый директор · Дорожно-строительная · Н. Новгород</span>
+                  <div class="v2-review-tag">Под ключ, контракт &gt; 100 млн ₽</div>
+                </div>
+              </article>
+
+            </div>
+
+            <p class="v2-carousel-hint">← Листайте отзывы</p>
 
           </div>
-
-        </div>
-      </section>
+        </section>
+      </div>
 
       <!-- ============================================================ -->
       <!-- 13 FAQ — содержимое не меняется                              -->
       <!-- ============================================================ -->
-      <section class="faq-section" id="faq" style="padding:60px 0;background:#F2EFE9;">
-        <div class="container" style="max-width:960px;margin:0 auto;padding:0 24px;">
+      <div class="v2">
+        <section class="v2-section v2-screen" id="faq">
+          <div class="v2-container">
 
-          <p style="margin:0 0 8px;font-size:13px;letter-spacing:6px;color:#B7935A;font-weight:600;">FAQ</p>
-          <h2 style="margin:0 0 36px;font-size:32px;color:#1C1E26;line-height:1.2;">Частые вопросы о казначейском счёте и сопровождении</h2>
+            <div class="v2-section-head v2-reveal">
+              <div class="v2-section-eyebrow">FAQ</div>
+              <h2 class="v2-section-title">Частые вопросы о <em>казначейском счёте</em></h2>
+              <p class="v2-section-lede">Коротко о счёте, сопровождении, сроках и стоимости.</p>
+            </div>
 
-          <div class="faq-item" itemscope itemtype="https://schema.org/Question" style="margin-bottom:24px;padding-bottom:24px;border-bottom:1px solid #E3DECF;">
-            <h3 itemprop="name" style="margin:0 0 10px;font-size:18px;color:#1C1E26;line-height:1.3;">Что такое казначейский счёт?</h3>
-            <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-              <p itemprop="text" style="margin:0;font-size:15px;line-height:1.6;color:#3A3D47;">Казначейский счёт — это лицевой счёт, открытый в территориальном органе Федерального Казначейства (ТОФК) для расчётов по государственному контракту с казначейским сопровождением. На счёт поступают средства от заказчика, а расходование возможно только после санкционирования УФК. Цель — контроль целевого использования бюджетных средств по 44-ФЗ и 223-ФЗ.</p>
+            <div class="v2-faq v2-reveal">
+
+          <details itemscope itemtype="https://schema.org/Question">
+                <summary itemprop="name">Что такое казначейский счёт?</summary>
+                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                  <p itemprop="text">Казначейский счёт — это лицевой счёт, открытый в территориальном органе Федерального Казначейства (ТОФК) для расчётов по государственному контракту с казначейским сопровождением. На счёт поступают средства от заказчика, а расходование возможно только после санкционирования УФК. Цель — контроль целевого использования бюджетных средств по 44-ФЗ и 223-ФЗ.</p>
+                </div>
+              </details>
+
+          <details itemscope itemtype="https://schema.org/Question">
+                <summary itemprop="name">Что такое казначейское сопровождение?</summary>
+                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                  <p itemprop="text">Казначейское сопровождение — режим финансового контроля по 44-ФЗ и 223-ФЗ, при котором расчёты по госконтракту проходят через лицевой счёт в УФК. Каждый платёж исполнителя проверяется Казначейством на соответствие условиям контракта и целевому назначению средств. Регулируется статьёй 242.23 Бюджетного кодекса РФ и Постановлением Правительства РФ № 1496 от 09.12.2017.</p>
+                </div>
+              </details>
+
+          <details itemscope itemtype="https://schema.org/Question">
+                <summary itemprop="name">Кто попадает под казначейское сопровождение в 2026 году?</summary>
+                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                  <p itemprop="text">Под казначейское сопровождение по 44-ФЗ в 2026 году попадают: исполнители контрактов от 3 млн ₽ при авансе более 50%, исполнители контрактов от 100 млн ₽ независимо от размера аванса, получатели бюджетных субсидий, исполнители контрактов в рамках национальных проектов, исполнители гособоронзаказа (ГОЗ). Также сопровождение распространяется на субподрядчиков всех уровней по этим контрактам.</p>
+                </div>
+              </details>
+
+          <details itemscope itemtype="https://schema.org/Question">
+                <summary itemprop="name">Кто такой неучастник бюджетного процесса?</summary>
+                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                  <p itemprop="text">Неучастник бюджетного процесса — это юридическое лицо, индивидуальный предприниматель или физическое лицо, которое не является получателем бюджетных средств, но участвует в исполнении госконтракта. Это коммерческие организации — поставщики, подрядчики, субподрядчики, у которых открывается лицевой счёт в ТОФК для расчётов по госконтракту. Большинство клиентов «КазнаЭксперт» — именно неучастники бюджетного процесса.</p>
+                </div>
+              </details>
+
+          <details itemscope itemtype="https://schema.org/Question">
+                <summary itemprop="name">Какой лимит казначейского сопровождения в 2026 году?</summary>
+                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                  <p itemprop="text">Лимиты обязательного казначейского сопровождения по 44-ФЗ в 2026 году: от 3 млн ₽ при авансе более 50% от цены контракта, от 100 млн ₽ независимо от размера аванса. Для контрактов с бюджетной субсидией или средствами национальных проектов казначейское сопровождение применяется независимо от суммы. Для гособоронзаказа действуют отдельные правила по Федеральному закону № 275-ФЗ.</p>
+                </div>
+              </details>
+
+          <details itemscope itemtype="https://schema.org/Question">
+                <summary itemprop="name">Как открыть казначейский счёт?</summary>
+                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                  <p itemprop="text">Чтобы открыть казначейский счёт самостоятельно, нужно: 1) Получить квалифицированную электронную подпись (КЭП). 2) Подключиться к ГИИС «Электронный бюджет» — 3–7 рабочих дней. 3) Подготовить пакет документов: устав, ЕГРЮЛ/ЕГРИП, контракт, доверенность. 4) Подать заявление и договор обслуживания в ТОФК. 5) Дождаться открытия — 2–5 рабочих дней. С «КазнаЭксперт» весь процесс — за 2 рабочих дня от готовности документов.</p>
+                </div>
+              </details>
+
+          <details itemscope itemtype="https://schema.org/Question">
+                <summary itemprop="name">Должен ли субподрядчик открывать казначейский счёт?</summary>
+                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                  <p itemprop="text">Да, субподрядчик по контракту с казначейским сопровождением обязан открыть отдельный лицевой счёт в ТОФК для получения оплаты от подрядчика. Каждое звено цепочки исполнителей — подрядчик → субподрядчик → субсубподрядчик — ведёт расчёты через свой казначейский счёт. Платежи на каждом уровне проходят санкционирование Казначейства. Исключение — поставка строительных материалов и оборудования с прямой оплатой на расчётный счёт.</p>
+                </div>
+              </details>
+
+          <details itemscope itemtype="https://schema.org/Question">
+                <summary itemprop="name">Что такое ТОФК?</summary>
+                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                  <p itemprop="text">ТОФК — Территориальный Орган Федерального Казначейства. Это региональное подразделение Казначейства России в субъекте Федерации: УФК по Санкт-Петербургу, УФК по г. Москве, УФК по Московской области и так далее. ТОФК открывает лицевые счета, санкционирует платежи, ведёт бюджетный учёт. Все операции по казначейскому сопровождению проходят через ТОФК по месту регистрации или фактического нахождения клиента.</p>
+                </div>
+              </details>
+
+          <details itemscope itemtype="https://schema.org/Question">
+                <summary itemprop="name">Что такое коды расходования средств (КВР и КОСГУ)?</summary>
+                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                  <p itemprop="text">КВР (код вида расходов) и КОСГУ (классификация операций сектора государственного управления) — это коды бюджетной классификации, определяющие целевое назначение каждого платежа по госконтракту. По 44-ФЗ исполнитель распределяет всю сумму контракта по этим кодам в форме «Сведения об операциях с целевыми средствами». Без утверждения сведений в УФК ни один платёж не пройдёт санкционирование. Регулируется приказом Минфина России № 209н.</p>
+                </div>
+              </details>
+
+          <details itemscope itemtype="https://schema.org/Question">
+                <summary itemprop="name">Что такое ГИИС «Электронный бюджет»?</summary>
+                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                  <p itemprop="text">ГИИС «Электронный бюджет» — государственная интегрированная информационная система управления общественными финансами, через которую проходит весь документооборот с Федеральным Казначейством по контрактам с казначейским сопровождением. Без подключения к ГИИС «ЭБ» работа невозможна. Подключение требует квалифицированной электронной подписи (КЭП) и установки корневых, промежуточных и личных сертификатов. Стандартный срок подключения — 3–7 рабочих дней.</p>
+                </div>
+              </details>
+
+          <details itemscope itemtype="https://schema.org/Question">
+                <summary itemprop="name">В чём разница между лицевым счётом и казначейским счётом?</summary>
+                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                  <p itemprop="text">Казначейский счёт — это единый банковский счёт Федерального Казначейства РФ в Банке России, на котором учитываются средства всех клиентов УФК. Лицевой счёт — это аналитический счёт учёта операций конкретного клиента, открытый в ТОФК. При казначейском сопровождении исполнителю открывается лицевой счёт (обычно типа 41, 71 или 14), который ведётся на казначейском счёте УФК. На практике эти термины часто используются как синонимы.</p>
+                </div>
+              </details>
+
+          <details itemscope itemtype="https://schema.org/Question">
+                <summary itemprop="name">Что такое раздельный учёт по госконтракту?</summary>
+                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                  <p itemprop="text">Раздельный учёт по госконтракту — это обязанность исполнителя по 44-ФЗ вести отдельный учёт результатов финансово-хозяйственной деятельности по каждому контракту с казначейским сопровождением. В учёте отражаются доходы, расходы, активы и обязательства в разрезе конкретного контракта. За нарушение — штраф 5–10% цены договора, но не более 500 тыс. ₽ для юрлиц, не более 250 тыс. ₽ для ИП, 10–50 тыс. ₽ для должностных лиц.</p>
+                </div>
+              </details>
+
+          <details itemscope itemtype="https://schema.org/Question">
+                <summary itemprop="name">Какие документы нужны для открытия казначейского счёта?</summary>
+                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                  <p itemprop="text">Для открытия казначейского счёта в ТОФК понадобятся: устав организации, выписка из ЕГРЮЛ или ЕГРИП (свежая, не старше 30 дней), копия государственного контракта или дополнительного соглашения, документ о назначении руководителя, доверенность на представителя (если открывает не директор), квалифицированная электронная подпись руководителя, банковские реквизиты для возврата остатков. Точный список финализируется после анализа конкретного контракта.</p>
+                </div>
+              </details>
+
+          <details itemscope itemtype="https://schema.org/Question">
+                <summary itemprop="name">Сколько стоит казначейское сопровождение?</summary>
+                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                  <p itemprop="text">Стоимость казначейского сопровождения зависит от объёма работ, типа контракта (44-ФЗ, 223-ФЗ, ГОЗ), количества субподрядчиков, региона и состояния документов клиента. Открытие казначейского счёта в ТОФК — от 39 000 ₽. Подключение к ГИИС «Электронный бюджет» — от 29 000 ₽. Полное сопровождение контракта «под ключ» — от 79 000 ₽. Точная смета после бесплатного предварительного анализа контракта.</p>
+                </div>
+              </details>
+
+          <details itemscope itemtype="https://schema.org/Question">
+                <summary itemprop="name">Что такое санкционирование платежей УФК?</summary>
+                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                  <p itemprop="text">Санкционирование платежей — это процедура согласования каждого платежа по госконтракту с казначейским сопровождением в УФК. Перед перечислением средств исполнитель подаёт в Казначейство платёжное поручение и пакет подтверждающих документов: счёт, акт, договор с субподрядчиком. УФК проверяет соответствие условиям контракта, кодам КВР и КОСГУ и утверждённым сведениям об операциях. Стандартный срок санкционирования — 1–5 рабочих дней.</p>
+                </div>
+              </details>
+
             </div>
           </div>
-
-          <div class="faq-item" itemscope itemtype="https://schema.org/Question" style="margin-bottom:24px;padding-bottom:24px;border-bottom:1px solid #E3DECF;">
-            <h3 itemprop="name" style="margin:0 0 10px;font-size:18px;color:#1C1E26;line-height:1.3;">Что такое казначейское сопровождение?</h3>
-            <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-              <p itemprop="text" style="margin:0;font-size:15px;line-height:1.6;color:#3A3D47;">Казначейское сопровождение — режим финансового контроля по 44-ФЗ и 223-ФЗ, при котором расчёты по госконтракту проходят через лицевой счёт в УФК. Каждый платёж исполнителя проверяется Казначейством на соответствие условиям контракта и целевому назначению средств. Регулируется статьёй 242.23 Бюджетного кодекса РФ и Постановлением Правительства РФ № 1496 от 09.12.2017.</p>
-            </div>
-          </div>
-
-          <div class="faq-item" itemscope itemtype="https://schema.org/Question" style="margin-bottom:24px;padding-bottom:24px;border-bottom:1px solid #E3DECF;">
-            <h3 itemprop="name" style="margin:0 0 10px;font-size:18px;color:#1C1E26;line-height:1.3;">Кто попадает под казначейское сопровождение в 2026 году?</h3>
-            <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-              <p itemprop="text" style="margin:0;font-size:15px;line-height:1.6;color:#3A3D47;">Под казначейское сопровождение по 44-ФЗ в 2026 году попадают: исполнители контрактов от 3 млн ₽ при авансе более 50%, исполнители контрактов от 100 млн ₽ независимо от размера аванса, получатели бюджетных субсидий, исполнители контрактов в рамках национальных проектов, исполнители гособоронзаказа (ГОЗ). Также сопровождение распространяется на субподрядчиков всех уровней по этим контрактам.</p>
-            </div>
-          </div>
-
-          <div class="faq-item" itemscope itemtype="https://schema.org/Question" style="margin-bottom:24px;padding-bottom:24px;border-bottom:1px solid #E3DECF;">
-            <h3 itemprop="name" style="margin:0 0 10px;font-size:18px;color:#1C1E26;line-height:1.3;">Кто такой неучастник бюджетного процесса?</h3>
-            <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-              <p itemprop="text" style="margin:0;font-size:15px;line-height:1.6;color:#3A3D47;">Неучастник бюджетного процесса — это юридическое лицо, индивидуальный предприниматель или физическое лицо, которое не является получателем бюджетных средств, но участвует в исполнении госконтракта. Это коммерческие организации — поставщики, подрядчики, субподрядчики, у которых открывается лицевой счёт в ТОФК для расчётов по госконтракту. Большинство клиентов «КазнаЭксперт» — именно неучастники бюджетного процесса.</p>
-            </div>
-          </div>
-
-          <div class="faq-item" itemscope itemtype="https://schema.org/Question" style="margin-bottom:24px;padding-bottom:24px;border-bottom:1px solid #E3DECF;">
-            <h3 itemprop="name" style="margin:0 0 10px;font-size:18px;color:#1C1E26;line-height:1.3;">Какой лимит казначейского сопровождения в 2026 году?</h3>
-            <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-              <p itemprop="text" style="margin:0;font-size:15px;line-height:1.6;color:#3A3D47;">Лимиты обязательного казначейского сопровождения по 44-ФЗ в 2026 году: от 3 млн ₽ при авансе более 50% от цены контракта, от 100 млн ₽ независимо от размера аванса. Для контрактов с бюджетной субсидией или средствами национальных проектов казначейское сопровождение применяется независимо от суммы. Для гособоронзаказа действуют отдельные правила по Федеральному закону № 275-ФЗ.</p>
-            </div>
-          </div>
-
-          <div class="faq-item" itemscope itemtype="https://schema.org/Question" style="margin-bottom:24px;padding-bottom:24px;border-bottom:1px solid #E3DECF;">
-            <h3 itemprop="name" style="margin:0 0 10px;font-size:18px;color:#1C1E26;line-height:1.3;">Как открыть казначейский счёт?</h3>
-            <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-              <p itemprop="text" style="margin:0;font-size:15px;line-height:1.6;color:#3A3D47;">Чтобы открыть казначейский счёт самостоятельно, нужно: 1) Получить квалифицированную электронную подпись (КЭП). 2) Подключиться к ГИИС «Электронный бюджет» — 3–7 рабочих дней. 3) Подготовить пакет документов: устав, ЕГРЮЛ/ЕГРИП, контракт, доверенность. 4) Подать заявление и договор обслуживания в ТОФК. 5) Дождаться открытия — 2–5 рабочих дней. С «КазнаЭксперт» весь процесс — за 2 рабочих дня от готовности документов.</p>
-            </div>
-          </div>
-
-          <div class="faq-item" itemscope itemtype="https://schema.org/Question" style="margin-bottom:24px;padding-bottom:24px;border-bottom:1px solid #E3DECF;">
-            <h3 itemprop="name" style="margin:0 0 10px;font-size:18px;color:#1C1E26;line-height:1.3;">Должен ли субподрядчик открывать казначейский счёт?</h3>
-            <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-              <p itemprop="text" style="margin:0;font-size:15px;line-height:1.6;color:#3A3D47;">Да, субподрядчик по контракту с казначейским сопровождением обязан открыть отдельный лицевой счёт в ТОФК для получения оплаты от подрядчика. Каждое звено цепочки исполнителей — подрядчик → субподрядчик → субсубподрядчик — ведёт расчёты через свой казначейский счёт. Платежи на каждом уровне проходят санкционирование Казначейства. Исключение — поставка строительных материалов и оборудования с прямой оплатой на расчётный счёт.</p>
-            </div>
-          </div>
-
-          <div class="faq-item" itemscope itemtype="https://schema.org/Question" style="margin-bottom:24px;padding-bottom:24px;border-bottom:1px solid #E3DECF;">
-            <h3 itemprop="name" style="margin:0 0 10px;font-size:18px;color:#1C1E26;line-height:1.3;">Что такое ТОФК?</h3>
-            <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-              <p itemprop="text" style="margin:0;font-size:15px;line-height:1.6;color:#3A3D47;">ТОФК — Территориальный Орган Федерального Казначейства. Это региональное подразделение Казначейства России в субъекте Федерации: УФК по Санкт-Петербургу, УФК по г. Москве, УФК по Московской области и так далее. ТОФК открывает лицевые счета, санкционирует платежи, ведёт бюджетный учёт. Все операции по казначейскому сопровождению проходят через ТОФК по месту регистрации или фактического нахождения клиента.</p>
-            </div>
-          </div>
-
-          <div class="faq-item" itemscope itemtype="https://schema.org/Question" style="margin-bottom:24px;padding-bottom:24px;border-bottom:1px solid #E3DECF;">
-            <h3 itemprop="name" style="margin:0 0 10px;font-size:18px;color:#1C1E26;line-height:1.3;">Что такое коды расходования средств (КВР и КОСГУ)?</h3>
-            <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-              <p itemprop="text" style="margin:0;font-size:15px;line-height:1.6;color:#3A3D47;">КВР (код вида расходов) и КОСГУ (классификация операций сектора государственного управления) — это коды бюджетной классификации, определяющие целевое назначение каждого платежа по госконтракту. По 44-ФЗ исполнитель распределяет всю сумму контракта по этим кодам в форме «Сведения об операциях с целевыми средствами». Без утверждения сведений в УФК ни один платёж не пройдёт санкционирование. Регулируется приказом Минфина России № 209н.</p>
-            </div>
-          </div>
-
-          <div class="faq-item" itemscope itemtype="https://schema.org/Question" style="margin-bottom:24px;padding-bottom:24px;border-bottom:1px solid #E3DECF;">
-            <h3 itemprop="name" style="margin:0 0 10px;font-size:18px;color:#1C1E26;line-height:1.3;">Что такое ГИИС «Электронный бюджет»?</h3>
-            <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-              <p itemprop="text" style="margin:0;font-size:15px;line-height:1.6;color:#3A3D47;">ГИИС «Электронный бюджет» — государственная интегрированная информационная система управления общественными финансами, через которую проходит весь документооборот с Федеральным Казначейством по контрактам с казначейским сопровождением. Без подключения к ГИИС «ЭБ» работа невозможна. Подключение требует квалифицированной электронной подписи (КЭП) и установки корневых, промежуточных и личных сертификатов. Стандартный срок подключения — 3–7 рабочих дней.</p>
-            </div>
-          </div>
-
-          <div class="faq-item" itemscope itemtype="https://schema.org/Question" style="margin-bottom:24px;padding-bottom:24px;border-bottom:1px solid #E3DECF;">
-            <h3 itemprop="name" style="margin:0 0 10px;font-size:18px;color:#1C1E26;line-height:1.3;">В чём разница между лицевым счётом и казначейским счётом?</h3>
-            <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-              <p itemprop="text" style="margin:0;font-size:15px;line-height:1.6;color:#3A3D47;">Казначейский счёт — это единый банковский счёт Федерального Казначейства РФ в Банке России, на котором учитываются средства всех клиентов УФК. Лицевой счёт — это аналитический счёт учёта операций конкретного клиента, открытый в ТОФК. При казначейском сопровождении исполнителю открывается лицевой счёт (обычно типа 41, 71 или 14), который ведётся на казначейском счёте УФК. На практике эти термины часто используются как синонимы.</p>
-            </div>
-          </div>
-
-          <div class="faq-item" itemscope itemtype="https://schema.org/Question" style="margin-bottom:24px;padding-bottom:24px;border-bottom:1px solid #E3DECF;">
-            <h3 itemprop="name" style="margin:0 0 10px;font-size:18px;color:#1C1E26;line-height:1.3;">Что такое раздельный учёт по госконтракту?</h3>
-            <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-              <p itemprop="text" style="margin:0;font-size:15px;line-height:1.6;color:#3A3D47;">Раздельный учёт по госконтракту — это обязанность исполнителя по 44-ФЗ вести отдельный учёт результатов финансово-хозяйственной деятельности по каждому контракту с казначейским сопровождением. В учёте отражаются доходы, расходы, активы и обязательства в разрезе конкретного контракта. За нарушение — штраф 5–10% цены договора, но не более 500 тыс. ₽ для юрлиц, не более 250 тыс. ₽ для ИП, 10–50 тыс. ₽ для должностных лиц.</p>
-            </div>
-          </div>
-
-          <div class="faq-item" itemscope itemtype="https://schema.org/Question" style="margin-bottom:24px;padding-bottom:24px;border-bottom:1px solid #E3DECF;">
-            <h3 itemprop="name" style="margin:0 0 10px;font-size:18px;color:#1C1E26;line-height:1.3;">Какие документы нужны для открытия казначейского счёта?</h3>
-            <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-              <p itemprop="text" style="margin:0;font-size:15px;line-height:1.6;color:#3A3D47;">Для открытия казначейского счёта в ТОФК понадобятся: устав организации, выписка из ЕГРЮЛ или ЕГРИП (свежая, не старше 30 дней), копия государственного контракта или дополнительного соглашения, документ о назначении руководителя, доверенность на представителя (если открывает не директор), квалифицированная электронная подпись руководителя, банковские реквизиты для возврата остатков. Точный список финализируется после анализа конкретного контракта.</p>
-            </div>
-          </div>
-
-          <div class="faq-item" itemscope itemtype="https://schema.org/Question" style="margin-bottom:24px;padding-bottom:24px;border-bottom:1px solid #E3DECF;">
-            <h3 itemprop="name" style="margin:0 0 10px;font-size:18px;color:#1C1E26;line-height:1.3;">Сколько стоит казначейское сопровождение?</h3>
-            <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-              <p itemprop="text" style="margin:0;font-size:15px;line-height:1.6;color:#3A3D47;">Стоимость казначейского сопровождения зависит от объёма работ, типа контракта (44-ФЗ, 223-ФЗ, ГОЗ), количества субподрядчиков, региона и состояния документов клиента. Открытие казначейского счёта в ТОФК — от 39 000 ₽. Подключение к ГИИС «Электронный бюджет» — от 29 000 ₽. Полное сопровождение контракта «под ключ» — от 79 000 ₽. Точная смета после бесплатного предварительного анализа контракта.</p>
-            </div>
-          </div>
-
-          <div class="faq-item" itemscope itemtype="https://schema.org/Question" style="margin-bottom:0;">
-            <h3 itemprop="name" style="margin:0 0 10px;font-size:18px;color:#1C1E26;line-height:1.3;">Что такое санкционирование платежей УФК?</h3>
-            <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-              <p itemprop="text" style="margin:0;font-size:15px;line-height:1.6;color:#3A3D47;">Санкционирование платежей — это процедура согласования каждого платежа по госконтракту с казначейским сопровождением в УФК. Перед перечислением средств исполнитель подаёт в Казначейство платёжное поручение и пакет подтверждающих документов: счёт, акт, договор с субподрядчиком. УФК проверяет соответствие условиям контракта, кодам КВР и КОСГУ и утверждённым сведениям об операциях. Стандартный срок санкционирования — 1–5 рабочих дней.</p>
-            </div>
-          </div>
-
-        </div>
-      </section>
+        </section>
+      </div>
 
       <!-- ============================================================ -->
       <!-- 14 ФОРМА + КОНТАКТЫ                                          -->
       <!-- ============================================================ -->
-      <section class="contacts" id="contacts">
-        <div class="container">
-          <div class="contacts-body">
-            <div class="contacts-intro">
-              <h2>Получите расчёт стоимости за 2 минуты</h2>
+      <div class="v2">
+        <section class="v2-section v2-screen" id="contacts">
+          <div class="v2-container">
+
+            <div class="v2-section-head v2-reveal">
+              <div class="v2-section-eyebrow">Заявка</div>
+              <h2 class="v2-section-title">Получите расчёт <em>за 2 минуты</em></h2>
+              <p class="v2-section-lede">Оставьте контакты — обсудим ваш контракт и стоимость. Ответим в течение рабочего дня.</p>
+            </div>
+
+            <div class="v2-contacts-split v2-reveal">
+              <div class="v2-contacts-form">
               <form class="contacts-form" id="contacts-form" action="#">
                 <select id="task" name="task" class="form-select">
                   <option value="" disabled selected>Тип задачи</option>
@@ -1124,23 +1133,34 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                 </label>
                 <input type="submit" id="submit" class="btn btn-gold" value="Получить расчёт" disabled>
               </form>
-            </div>
-            <div class="contacts-instruction" id="contacts-instruction">
-              <h2>Контакты</h2>
-              <p class="contacts-instruction-1">Адрес:</p>
-              <p>199106, Санкт-Петербург, Средний пр. В.О., 88, литера А, оф. 330</p>
-              <p class="contacts-instruction-1">E-mail:</p>
-              <p><a href="mailto:kaznaexpert@gmail.com">kaznaexpert@gmail.com</a></p>
-              <p class="contacts-instruction-1">Телефон:</p>
-              <p><a href="tel:+79818331010"><strong>+7-981-833-10-10</strong></a></p>
-              <div class="contacts-messengers">
-                <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
-                <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
               </div>
+
+              <div class="v2-contacts-panel">
+                <div class="v2-contacts-row">
+                  <div class="v2-contacts-label">Адрес</div>
+                  <div class="v2-contacts-val">199106, Санкт-Петербург,<br>Средний пр. В.О., 88, литера А, оф. 330</div>
+                </div>
+                <div class="v2-contacts-row">
+                  <div class="v2-contacts-label">E-mail</div>
+                  <div class="v2-contacts-val"><a href="mailto:kaznaexpert@gmail.com">kaznaexpert@gmail.com</a></div>
+                </div>
+                <div class="v2-contacts-row">
+                  <div class="v2-contacts-label">Телефон</div>
+                  <div class="v2-contacts-val"><a href="tel:+79818331010">+7 981 833-10-10</a></div>
+                </div>
+                <div class="v2-contacts-row">
+                  <div class="v2-contacts-label">Мессенджеры</div>
+                  <div class="v2-contacts-msgr">
+                    <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
+                    <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+                  </div>
+                </div>
+              </div>
+
             </div>
           </div>
-        </div>
-      </section>
+        </section>
+      </div>
 
       <!-- Плавающая кнопка мессенджеров (вместо чат-виджета) -->
       <div class="messenger-float" role="complementary" aria-label="Связаться через мессенджер">
