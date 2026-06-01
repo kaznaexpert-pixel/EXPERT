@@ -718,3 +718,484 @@
   margin-bottom: 14px;
   line-height: 1.5;
 }
+
+/* ============================================================
+ * SECTION COMMON
+ * ============================================================ */
+
+.v2 .v2-section {
+  padding: var(--section-y) 0;
+  border-top: 1px solid var(--hair);
+}
+
+.v2 .v2-section-head {
+  margin-bottom: 64px;
+  max-width: 720px;
+}
+
+.v2 .v2-section-eyebrow {
+  font-family: var(--font-body);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 18px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.v2 .v2-section-eyebrow::before {
+  content: '';
+  width: 36px;
+  height: 1px;
+  background: var(--accent);
+}
+
+.v2 .v2-section-title {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: clamp(32px, 3.6vw, 48px);
+  line-height: 1.08;
+  letter-spacing: -0.022em;
+  color: var(--ink);
+  margin: 0 0 20px;
+}
+
+.v2 .v2-section-title em {
+  font-style: italic;
+  color: var(--accent);
+  font-weight: 500;
+}
+
+.v2 .v2-section-lede {
+  font-family: var(--font-body);
+  font-size: 17px;
+  line-height: 1.55;
+  color: var(--ink-soft);
+  margin: 0;
+  max-width: 620px;
+}
+
+/* ============================================================
+ * 06. TARIFFS — 4 editorial cards
+ * ============================================================ */
+
+.v2 .v2-tariffs-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  column-gap: 24px;
+  margin-bottom: 40px;
+}
+
+.v2 .v2-tariff {
+  position: relative;
+  background: var(--paper);
+  border: 1px solid var(--hair-strong);
+  padding: 32px 28px 28px;
+  display: flex;
+  flex-direction: column;
+  min-height: 360px;
+  transition: border-color .25s ease, transform .25s ease;
+}
+
+.v2 .v2-tariff:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+}
+
+.v2 .v2-tariff.is-featured {
+  background: var(--bg-alt);
+  border-color: var(--ink);
+}
+
+.v2 .v2-tariff-no {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--mute);
+  letter-spacing: 0;
+  margin-bottom: 8px;
+}
+
+.v2 .v2-tariff-stage {
+  font-family: var(--font-body);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.v2 .v2-tariff-badge {
+  font-family: var(--font-body);
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  background: var(--ink);
+  color: var(--bg);
+  padding: 3px 8px;
+}
+
+.v2 .v2-tariff h3 {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1.2;
+  letter-spacing: -0.015em;
+  color: var(--ink);
+  margin: 0 0 12px;
+}
+
+.v2 .v2-tariff-desc {
+  font-family: var(--font-body);
+  font-size: 14px;
+  line-height: 1.55;
+  color: var(--ink-soft);
+  margin: 0 0 24px;
+  flex-grow: 1;
+}
+
+.v2 .v2-tariff-price {
+  border-top: 1px solid var(--hair);
+  padding-top: 20px;
+  margin-top: auto;
+}
+
+.v2 .v2-tariff-price-num {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 1;
+  letter-spacing: -0.025em;
+  color: var(--ink);
+  display: flex;
+  align-items: baseline;
+  gap: 5px;
+}
+
+.v2 .v2-tariff-price-unit {
+  font-family: var(--font-body);
+  font-size: 13px;
+  font-weight: 400;
+  color: var(--ink-soft);
+}
+
+.v2 .v2-tariff-price-note {
+  font-family: var(--font-body);
+  font-size: 12px;
+  color: var(--mute);
+  margin-top: 8px;
+  line-height: 1.4;
+}
+
+.v2 .v2-tariff-link {
+  margin-top: 16px;
+  font-family: var(--font-body);
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink);
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid var(--ink);
+  align-self: flex-start;
+  transition: gap .2s ease, color .2s ease;
+}
+
+.v2 .v2-tariff-link:hover {
+  gap: 14px;
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.v2 .v2-tariffs-footnote {
+  font-family: var(--font-body);
+  font-size: 13px;
+  color: var(--mute);
+  text-align: center;
+  margin-top: 16px;
+}
+
+@media (max-width: 1100px) {
+  .v2 .v2-tariffs-grid {
+    grid-template-columns: repeat(2, 1fr);
+    row-gap: 24px;
+  }
+}
+
+@media (max-width: 600px) {
+  .v2 .v2-tariffs-grid {
+    grid-template-columns: 1fr;
+  }
+  .v2 .v2-tariff {
+    min-height: 0;
+    padding: 28px 24px 24px;
+  }
+}
+
+/* ============================================================
+ * 07. COMPARISON TABLE — 6 параметров × 3 столбца
+ * ============================================================ */
+
+.v2 .v2-compare {
+  border: 1px solid var(--hair-strong);
+  overflow: hidden;
+  background: var(--paper);
+}
+
+.v2 .v2-compare-head {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr 1fr 1.1fr;
+  background: var(--bg-alt);
+  border-bottom: 1px solid var(--hair-strong);
+}
+
+.v2 .v2-compare-head-cell {
+  padding: 20px 24px;
+  font-family: var(--font-body);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--mute);
+  border-right: 1px solid var(--hair);
+}
+
+.v2 .v2-compare-head-cell:last-child {
+  border-right: 0;
+}
+
+.v2 .v2-compare-head-cell.is-us {
+  color: var(--accent);
+  background: var(--paper);
+}
+
+.v2 .v2-compare-row {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr 1fr 1.1fr;
+  border-bottom: 1px solid var(--hair);
+}
+
+.v2 .v2-compare-row:last-child {
+  border-bottom: 0;
+}
+
+.v2 .v2-compare-cell {
+  padding: 22px 24px;
+  font-family: var(--font-body);
+  font-size: 15px;
+  line-height: 1.5;
+  color: var(--ink-soft);
+  border-right: 1px solid var(--hair);
+}
+
+.v2 .v2-compare-cell:last-child {
+  border-right: 0;
+}
+
+.v2 .v2-compare-param {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: -0.005em;
+  color: var(--ink);
+}
+
+.v2 .v2-compare-cell.is-us {
+  color: var(--ink);
+  font-weight: 500;
+  background: var(--paper);
+  position: relative;
+}
+
+.v2 .v2-compare-cell.is-us strong {
+  font-weight: 500;
+  color: var(--accent);
+}
+
+.v2 .v2-compare-cta {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.v2 .v2-compare-cta a {
+  font-family: var(--font-body);
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink);
+  padding-bottom: 4px;
+  border-bottom: 1px solid var(--ink);
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  transition: gap .2s ease, color .2s ease;
+}
+
+.v2 .v2-compare-cta a:hover {
+  gap: 18px;
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+@media (max-width: 880px) {
+  .v2 .v2-compare {
+    border: 0;
+    background: transparent;
+  }
+  .v2 .v2-compare-head {
+    display: none;
+  }
+  .v2 .v2-compare-row {
+    display: block;
+    background: var(--paper);
+    border: 1px solid var(--hair-strong);
+    margin-bottom: 16px;
+    padding: 16px 20px;
+  }
+  .v2 .v2-compare-cell {
+    display: block;
+    padding: 10px 0;
+    border-right: 0;
+    border-bottom: 1px solid var(--hair);
+    font-size: 14px;
+  }
+  .v2 .v2-compare-cell:last-child {
+    border-bottom: 0;
+  }
+  .v2 .v2-compare-cell::before {
+    content: attr(data-label);
+    display: block;
+    font-family: var(--font-body);
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--mute);
+    margin-bottom: 4px;
+  }
+  .v2 .v2-compare-param {
+    font-size: 18px;
+    padding-top: 4px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid var(--hair);
+    margin-bottom: 8px;
+  }
+  .v2 .v2-compare-param::before {
+    display: none;
+  }
+}
+
+/* ============================================================
+ * 08. PROCESS — 4 шага editorial
+ * ============================================================ */
+
+.v2 .v2-process-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  column-gap: 32px;
+  position: relative;
+}
+
+.v2 .v2-process-step {
+  position: relative;
+  padding-top: 28px;
+  border-top: 1px solid var(--hair-strong);
+}
+
+.v2 .v2-process-step::before {
+  content: '';
+  position: absolute;
+  top: -1px;
+  left: 0;
+  width: 48px;
+  height: 1px;
+  background: var(--accent);
+}
+
+.v2 .v2-process-no {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--accent);
+  margin-bottom: 16px;
+  letter-spacing: 0.04em;
+}
+
+.v2 .v2-process-day {
+  font-family: var(--font-body);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--mute);
+  margin-bottom: 8px;
+}
+
+.v2 .v2-process-step h3 {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.2;
+  letter-spacing: -0.015em;
+  color: var(--ink);
+  margin: 0 0 16px;
+}
+
+.v2 .v2-process-desc {
+  font-family: var(--font-body);
+  font-size: 14px;
+  line-height: 1.55;
+  color: var(--ink-soft);
+  margin: 0 0 20px;
+}
+
+.v2 .v2-process-checks {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border-top: 1px solid var(--hair);
+  padding-top: 16px;
+}
+
+.v2 .v2-process-checks li {
+  font-family: var(--font-body);
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--ink-soft);
+  padding: 4px 0;
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+.v2 .v2-process-checks li::before {
+  content: '✓';
+  flex-shrink: 0;
+  color: var(--accent);
+  font-weight: 500;
+}
+
+@media (max-width: 920px) {
+  .v2 .v2-process-grid {
+    grid-template-columns: repeat(2, 1fr);
+    row-gap: 48px;
+  }
+}
+
+@media (max-width: 600px) {
+  .v2 .v2-process-grid {
+    grid-template-columns: 1fr;
+    row-gap: 40px;
+  }
+}

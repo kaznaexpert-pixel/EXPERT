@@ -529,6 +529,216 @@ header("Cache-Control: public, max-age=300, must-revalidate");
           </div>
         </section>
 
+        <!-- ============================================================ -->
+        <!-- 06. TARIFFS — 4 пакета по этапу контракта                     -->
+        <!-- ============================================================ -->
+        <section class="v2-section" id="tariffs">
+          <div class="v2-container">
+
+            <div class="v2-section-head">
+              <div class="v2-section-eyebrow">Тарифы</div>
+              <h2 class="v2-section-title">Тариф <em>под этап</em> вашего контракта</h2>
+              <p class="v2-section-lede">Платите только за нужный этап. Конкретный объём работ и фиксированная стоимость прописаны в договоре.</p>
+            </div>
+
+            <div class="v2-tariffs-grid">
+
+              <article class="v2-tariff">
+                <div class="v2-tariff-no">01</div>
+                <div class="v2-tariff-stage">Тендер</div>
+                <h3>Резерв счёта к дате тендера</h3>
+                <p class="v2-tariff-desc">Резервируем казначейский счёт заранее — реквизиты готовы к моменту победы. Если контракт не достанется, закрываем счёт без расходов.</p>
+                <div class="v2-tariff-price">
+                  <div class="v2-tariff-price-num">15 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div>
+                  <div class="v2-tariff-price-note">Разово · к дате тендера</div>
+                  <a href="#contacts" class="v2-tariff-link">Обсудить контракт <span aria-hidden="true">→</span></a>
+                </div>
+              </article>
+
+              <article class="v2-tariff">
+                <div class="v2-tariff-no">02</div>
+                <div class="v2-tariff-stage">Победа</div>
+                <h3>Открытие счёта за два дня</h3>
+                <p class="v2-tariff-desc">Готовим пакет документов, проводим включение в сводный реестр получателей средств и открываем счёт в УФК с первой подачи.</p>
+                <div class="v2-tariff-price">
+                  <div class="v2-tariff-price-num">29 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div>
+                  <div class="v2-tariff-price-note">Разово · 2 рабочих дня</div>
+                  <a href="#contacts" class="v2-tariff-link">Обсудить контракт <span aria-hidden="true">→</span></a>
+                </div>
+              </article>
+
+              <article class="v2-tariff">
+                <div class="v2-tariff-no">03</div>
+                <div class="v2-tariff-stage">Постоплата</div>
+                <h3>Контракт с постоплатой</h3>
+                <p class="v2-tariff-desc">Полный цикл: открытие счёта, утверждение сведений, проведение платежей по актам и УПД — до закрытия контракта.</p>
+                <div class="v2-tariff-price">
+                  <div class="v2-tariff-price-num">49 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div>
+                  <div class="v2-tariff-price-note">Разово · до закрытия контракта</div>
+                  <a href="#contacts" class="v2-tariff-link">Обсудить контракт <span aria-hidden="true">→</span></a>
+                </div>
+              </article>
+
+              <article class="v2-tariff is-featured">
+                <div class="v2-tariff-no">04</div>
+                <div class="v2-tariff-stage">
+                  Аванс
+                  <span class="v2-tariff-badge">Чаще выбирают</span>
+                </div>
+                <h3>Контракт с авансом — под ключ</h3>
+                <p class="v2-tariff-desc">Сопровождаем контракт от поступления аванса до исполнения обязательств. Без лимитов на операции и обращения.</p>
+                <div class="v2-tariff-price">
+                  <div class="v2-tariff-price-num">69 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div>
+                  <div class="v2-tariff-price-note">Без лимитов на операции</div>
+                  <a href="#contacts" class="v2-tariff-link">Обсудить контракт <span aria-hidden="true">→</span></a>
+                </div>
+              </article>
+
+            </div>
+
+            <p class="v2-tariffs-footnote">ГОЗ — надбавка +30 %. Точная смета — после бесплатного анализа контракта.</p>
+
+          </div>
+        </section>
+
+
+        <!-- ============================================================ -->
+        <!-- 07. COMPARISON — 6 параметров × 3 столбца                     -->
+        <!-- ============================================================ -->
+        <section class="v2-section" id="compare">
+          <div class="v2-container">
+
+            <div class="v2-section-head">
+              <div class="v2-section-eyebrow">Сравнение</div>
+              <h2 class="v2-section-title">Самостоятельно, штатный спец или <em>с нами</em></h2>
+              <p class="v2-section-lede">Шесть критериев, по которым клиенты выбирают подход к работе с УФК. Стоимость указана для тарифа «Контракт с авансом».</p>
+            </div>
+
+            <div class="v2-compare">
+
+              <div class="v2-compare-head">
+                <div class="v2-compare-head-cell">Параметр</div>
+                <div class="v2-compare-head-cell">Самостоятельно</div>
+                <div class="v2-compare-head-cell">Штатный спец</div>
+                <div class="v2-compare-head-cell is-us">С КазнаЭксперт</div>
+              </div>
+
+              <div class="v2-compare-row">
+                <div class="v2-compare-cell v2-compare-param" data-label="Параметр">Срок старта</div>
+                <div class="v2-compare-cell" data-label="Самостоятельно">2–4 недели на освоение матчасти</div>
+                <div class="v2-compare-cell" data-label="Штатный спец">1–2 месяца на подбор сотрудника</div>
+                <div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>2 рабочих дня</strong></div>
+              </div>
+
+              <div class="v2-compare-row">
+                <div class="v2-compare-cell v2-compare-param" data-label="Параметр">Стоимость в месяц</div>
+                <div class="v2-compare-cell" data-label="Самостоятельно">Ваше время + риск ошибок</div>
+                <div class="v2-compare-cell" data-label="Штатный спец">120–180 тыс ₽ + страховые взносы</div>
+                <div class="v2-compare-cell is-us" data-label="С КазнаЭксперт">15 000 ₽ разово или <strong>69 000 ₽/мес</strong></div>
+              </div>
+
+              <div class="v2-compare-row">
+                <div class="v2-compare-cell v2-compare-param" data-label="Параметр">Опыт работы с УФК</div>
+                <div class="v2-compare-cell" data-label="Самостоятельно">Осваиваете по ходу контракта</div>
+                <div class="v2-compare-cell" data-label="Штатный спец">Один сотрудник, его уровень</div>
+                <div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Команда 15+ лет</strong> в Казначействе</div>
+              </div>
+
+              <div class="v2-compare-row">
+                <div class="v2-compare-cell v2-compare-param" data-label="Параметр">Кадровые риски</div>
+                <div class="v2-compare-cell" data-label="Самостоятельно">Не применимо</div>
+                <div class="v2-compare-cell" data-label="Штатный спец">Подбор, отпуск, увольнение, замена</div>
+                <div class="v2-compare-cell is-us" data-label="С КазнаЭксперт">Закреплённый эксперт + резерв</div>
+              </div>
+
+              <div class="v2-compare-row">
+                <div class="v2-compare-cell v2-compare-param" data-label="Параметр">Гарантия в договоре</div>
+                <div class="v2-compare-cell" data-label="Самостоятельно">Нет</div>
+                <div class="v2-compare-cell" data-label="Штатный спец">Нет</div>
+                <div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Прописана в договоре</strong></div>
+              </div>
+
+              <div class="v2-compare-row">
+                <div class="v2-compare-cell v2-compare-param" data-label="Параметр">Поддержка при отказе УФК</div>
+                <div class="v2-compare-cell" data-label="Самостоятельно">Разбираетесь сами</div>
+                <div class="v2-compare-cell" data-label="Штатный спец">По компетенциям сотрудника</div>
+                <div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Берём на себя</strong> — до принятия</div>
+              </div>
+
+            </div>
+
+            <div class="v2-compare-cta">
+              <a href="#contacts">Обсудить ваш контракт <span aria-hidden="true">→</span></a>
+            </div>
+
+          </div>
+        </section>
+
+
+        <!-- ============================================================ -->
+        <!-- 08. PROCESS — 4 шага по дням                                  -->
+        <!-- ============================================================ -->
+        <section class="v2-section" id="process-flow">
+          <div class="v2-container">
+
+            <div class="v2-section-head">
+              <div class="v2-section-eyebrow">Процесс</div>
+              <h2 class="v2-section-title">От договора до счёта — <em>три рабочих дня</em></h2>
+              <p class="v2-section-lede">Каждый день — конкретное действие на нашей стороне. Прозрачно и без неожиданностей.</p>
+            </div>
+
+            <div class="v2-process-grid">
+
+              <article class="v2-process-step">
+                <div class="v2-process-no">01</div>
+                <div class="v2-process-day">День 1</div>
+                <h3>Старт работы</h3>
+                <p class="v2-process-desc">Связываемся в течение 15 минут после заявки, подписываем договор и начинаем подготовку пакета документов для УФК.</p>
+                <ul class="v2-process-checks">
+                  <li>Договор подписан</li>
+                  <li>Пакет документов собран</li>
+                </ul>
+              </article>
+
+              <article class="v2-process-step">
+                <div class="v2-process-no">02</div>
+                <div class="v2-process-day">День 2</div>
+                <h3>Сводный реестр</h3>
+                <p class="v2-process-desc">Подаём запрос в УФК и включаем компанию в сводный реестр получателей средств — без этого казначейские операции невозможны.</p>
+                <ul class="v2-process-checks">
+                  <li>Запрос подан в УФК</li>
+                  <li>Реестр подтверждён</li>
+                </ul>
+              </article>
+
+              <article class="v2-process-step">
+                <div class="v2-process-no">03</div>
+                <div class="v2-process-day">День 3</div>
+                <h3>Открытие счёта</h3>
+                <p class="v2-process-desc">Казначейский счёт активирован, реквизиты переданы клиенту. Готовы к первому платежу от заказчика.</p>
+                <ul class="v2-process-checks">
+                  <li>Счёт активен</li>
+                  <li>Реквизиты у клиента</li>
+                </ul>
+              </article>
+
+              <article class="v2-process-step">
+                <div class="v2-process-no">04</div>
+                <div class="v2-process-day">Далее</div>
+                <h3>Сопровождение</h3>
+                <p class="v2-process-desc">Ведём контракт по выбранному сценарию — до закрытия и вывода средств на ваш расчётный счёт.</p>
+                <ul class="v2-process-checks">
+                  <li>Платежи по актам и УПД</li>
+                  <li>Сдача отчётности</li>
+                  <li>Вывод прибыли</li>
+                </ul>
+              </article>
+
+            </div>
+
+          </div>
+        </section>
+
       </div>
 
       <!-- ============================================================ -->
