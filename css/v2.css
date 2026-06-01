@@ -2134,3 +2134,78 @@ html { overflow-x: clip; }
   border-color: var(--accent);
   box-shadow: 0 18px 40px rgba(26, 26, 26, 0.08);
 }
+
+/* ============================================================
+ * 23. EDITORIAL LUXURY — светлый, крупная типографика, воздух, зерно
+ *     (направление Lazard / Mercury — тихая роскошь)
+ * ============================================================ */
+
+/* тоньше и легче волосяные линии — больше «дороговизны» */
+:root {
+  --hair: rgba(26, 26, 26, 0.07);
+  --hair-strong: rgba(26, 26, 26, 0.13);
+}
+
+/* КРУПНАЯ уверенная типографика */
+.v2 .v2-hero h1 {
+  font-size: clamp(40px, 5.4vw, 76px);
+  line-height: 1.0;
+  letter-spacing: -0.03em;
+}
+.v2 .v2-section-title,
+.v2 .v2-section.v2-screen .v2-section-title {
+  font-size: clamp(34px, 4.2vw, 58px);
+  line-height: 1.04;
+  letter-spacing: -0.028em;
+  white-space: normal;        /* убираем хак nowrap */
+  text-wrap: balance;         /* элегантный перенос крупных заголовков */
+  max-width: 16ch;            /* заголовок в 1–2 строки, не растягивается */
+}
+.v2 .v2-section-lede {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+/* кикер-eyebrow — тоньше, благороднее */
+.v2 .v2-section-eyebrow {
+  letter-spacing: 0.28em;
+  gap: 16px;
+}
+.v2 .v2-section-eyebrow::before { width: 44px; }
+
+/* БОЛЬШЕ ВОЗДУХА */
+.v2 .v2-section.v2-screen {
+  padding-top: 140px;
+  padding-bottom: 104px;
+}
+.v2 .v2-section.v2-screen .v2-section-head {
+  margin-bottom: 64px;
+  max-width: 1100px;
+}
+
+/* числа преимуществ — крупнее, как редакционные кикеры */
+.v2 .v2-adv-num { font-size: 30px; }
+
+/* АТМОСФЕРА: тонкое плёночное зерно поверх всей страницы */
+.v2::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 3;
+  pointer-events: none;
+  opacity: 0.045;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* МОБАЙЛ: разумные размеры/отступы (без обрезки и переполнения) */
+@media (max-width: 900px) {
+  .v2 .v2-hero h1 { font-size: clamp(28px, 8.5vw, 44px); }
+  .v2 .v2-section-title,
+  .v2 .v2-section.v2-screen .v2-section-title {
+    font-size: clamp(27px, 7.6vw, 40px);
+    max-width: 100%;
+  }
+  .v2 .v2-section-lede { font-size: 16px; }
+  .v2 .v2-section.v2-screen { padding-top: 78px; padding-bottom: 60px; }
+  .v2 .v2-section.v2-screen .v2-section-head { margin-bottom: 34px; }
+}
