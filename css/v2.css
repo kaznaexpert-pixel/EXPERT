@@ -2209,3 +2209,28 @@ html { overflow-x: clip; }
   .v2 .v2-section.v2-screen { padding-top: 78px; padding-bottom: 60px; }
   .v2 .v2-section.v2-screen .v2-section-head { margin-bottom: 34px; }
 }
+
+/* ============================================================
+ * 24. ACCESSIBILITY — видимые focus-ring для клавиатуры (WCAG, High)
+ *     (ui-ux-pro-max: Focus States — High severity)
+ * ============================================================ */
+.v2 a:focus-visible,
+.v2 button:focus-visible,
+.v2 summary:focus-visible,
+.v2 input:focus-visible,
+.v2 select:focus-visible,
+.v2 [tabindex]:focus-visible,
+.cookie-btn:focus-visible,
+.cookie-toggle:focus-visible,
+.messenger-btn:focus-visible,
+[data-cookie-reset]:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 1px;
+}
+/* мышиный фокус не подсвечиваем (только клавиатура) */
+.v2 a:focus:not(:focus-visible),
+.v2 button:focus:not(:focus-visible),
+.v2 summary:focus:not(:focus-visible) {
+  outline: none;
+}
