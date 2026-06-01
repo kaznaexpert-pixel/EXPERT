@@ -1955,7 +1955,13 @@
   /* Hero — обычный поток, без 100vh и flex-центровки */
   .v2 .v2-hero { min-height: 0; display: block; padding: 84px 0 40px; }
   .v2 .v2-hero-grid { display: block; }
+  .v2 .v2-hero h1 { font-size: clamp(25px, 6.4vw, 34px); white-space: normal; }
+  .v2 .v2-hero-lede { margin-bottom: 0; }
   .v2 .v2-hero-action { margin-top: 32px; }
+
+  /* шапка: телефон помещается, без переполнения */
+  .v2 .v2-header-inner { column-gap: 14px; }
+  .v2 .v2-header-aside .v2-phone { font-size: 15px; white-space: nowrap; }
 
   /* экраны секций — нормальные отступы вместо 100vh-центровки */
   .v2 .v2-section.v2-screen { min-height: 0; padding-top: 72px; padding-bottom: 52px; }

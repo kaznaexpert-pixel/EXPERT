@@ -25,7 +25,15 @@
       });
     }, { threshold: 0.12, rootMargin: '0px 0px -8% 0px' });
 
-    els.forEach(function (el) { io.observe(el); });
+    els.forEach(function (el) {
+      // Hero — проигрываем вход сразу на загрузке (элементы ниже сгиба
+      // не должны оставаться невидимыми), остальное — по скроллу.
+      if (el.closest('.v2-hero')) {
+        el.classList.add('is-in');
+      } else {
+        io.observe(el);
+      }
+    });
   }
 
   if (document.readyState === 'loading') {
