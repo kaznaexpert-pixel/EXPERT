@@ -1981,3 +1981,134 @@ html { overflow-x: clip; }
   .v2 .v2-carousel { min-width: 0; max-width: 100%; }
   .v2 .v2-carousel > * { flex-basis: 86%; }
 }
+
+/* ============================================================
+ * 21. ФОРМА ЗАЯВКИ — премиум, читаемая на светлом фоне
+ * (старые стили style.css рассчитаны на тёмный фон → инпуты были невидимы)
+ * ============================================================ */
+
+.v2 .contacts-form .form-select,
+.v2 .contacts-form input[type="tel"],
+.v2 .contacts-form input[type="email"] {
+  color: var(--ink);
+  background-color: var(--paper);
+  border: 1px solid var(--hair-strong);
+  border-radius: 0;
+  font-family: var(--font-body);
+  font-size: 16px;
+  padding: 15px 18px;
+  margin-bottom: 14px;
+  caret-color: var(--accent);
+  transition: border-color .2s ease, box-shadow .2s ease;
+}
+.v2 .contacts-form ::placeholder { color: var(--mute); opacity: 1; }
+.v2 .contacts-form .form-select { color: var(--ink); }
+.v2 .contacts-form .form-select option { background: var(--bg); color: var(--ink); }
+.v2 .contacts-form input[type="tel"]:focus,
+.v2 .contacts-form input[type="email"]:focus,
+.v2 .contacts-form .form-select:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-soft);
+}
+
+/* старые плавающие подсказки ломали раскладку и наезжали — убираем,
+   валидация остаётся через required + включение кнопки в main.js */
+.v2 .contacts-form .callout,
+.v2 .contacts-form .callout2,
+.v2 .contacts-form .callout-img,
+.v2 .contacts-form .callout-img2 { display: none; }
+
+.v2 .contacts-form .form-assurance {
+  font-family: var(--font-body);
+  font-size: 13px;
+  color: var(--mute);
+  margin: 2px 0 18px;
+}
+
+/* submit — премиум, читаемая в т.ч. в disabled */
+.v2 .contacts-form .btn-gold {
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: 0.02em;
+  background: var(--ink);
+  color: var(--bg);
+  border: 1px solid var(--ink);
+  border-radius: 0;
+  padding: 16px 24px;
+  width: 100%;
+  cursor: pointer;
+  transition: background .2s ease, border-color .2s ease, color .2s ease;
+}
+.v2 .contacts-form .btn-gold:hover { background: var(--accent); border-color: var(--accent); color: #fff; }
+.v2 .contacts-form .btn-gold:disabled,
+.v2 .contacts-form .btn-gold:disabled:hover {
+  background: var(--bg-alt);
+  color: var(--mute);
+  border-color: var(--hair-strong);
+  cursor: not-allowed;
+}
+
+/* consent checkbox — читаемый */
+.v2 .contacts-form .checkbox {
+  display: block;
+  position: relative;
+  padding-left: 30px;
+  margin-bottom: 18px;
+  font-family: var(--font-body);
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--ink-soft);
+  cursor: pointer;
+}
+.v2 .contacts-form .checkbox a { color: var(--accent); }
+.v2 .contacts-form .checkbox .checkmark {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 18px;
+  height: 18px;
+  border: 1px solid var(--hair-strong);
+  background: var(--paper);
+}
+.v2 .contacts-form .checkbox input:checked + .checkmark {
+  background: var(--accent);
+  border-color: var(--accent);
+}
+.v2 .contacts-form .checkbox input:checked + .checkmark::after {
+  content: '';
+  position: absolute;
+  left: 5px;
+  top: 1px;
+  width: 5px;
+  height: 10px;
+  border: solid #fff;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+
+/* ============================================================
+ * 22. АНИМАЦИЯ — кинематографичный blur-in вместо плоского fade
+ * ============================================================ */
+@media (prefers-reduced-motion: no-preference) {
+  .v2-reveal {
+    transform: translateY(30px);
+    filter: blur(9px);
+    transition: opacity .9s cubic-bezier(0.16, 1, 0.3, 1),
+                transform .9s cubic-bezier(0.16, 1, 0.3, 1),
+                filter .9s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+  .v2-reveal.is-in { opacity: 1; transform: none; filter: none; }
+}
+
+/* hover-lift карточек — «дорогая» микро-механика */
+.v2 .v2-case,
+.v2 .v2-review {
+  transition: transform .3s cubic-bezier(0.16, 1, 0.3, 1), border-color .3s ease, box-shadow .3s ease;
+}
+.v2 .v2-case:hover,
+.v2 .v2-review:hover {
+  transform: translateY(-4px);
+  border-color: var(--accent);
+  box-shadow: 0 18px 40px rgba(26, 26, 26, 0.08);
+}
