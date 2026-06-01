@@ -198,7 +198,14 @@ if (contactsform) {
       var res = await fetch('/php/lead.php', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ phone: phone, source: 'hero' }),
+        body: JSON.stringify({
+          phone: phone,
+          source: 'hero',
+          consent_pd: true,
+          consent_pd_text: consent.closest('.v2-form-consent') ? consent.closest('.v2-form-consent').textContent.trim() : 'Согласен на обработку персональных данных согласно Политике',
+          consent_at: new Date().toISOString(),
+          page_url: location.href,
+        }),
       });
 
       if (res.ok) {
