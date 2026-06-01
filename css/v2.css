@@ -1648,3 +1648,39 @@
     padding: 26px 24px;
   }
 }
+
+/* ---- Screen-head: заголовок и лид в одну строку, читаемость ---- */
+.v2 .v2-section.v2-screen .v2-section-head {
+  max-width: 1040px;
+  margin-bottom: 52px;
+}
+
+.v2 .v2-section.v2-screen .v2-section-lede {
+  max-width: 920px;
+}
+
+@media (min-width: 900px) {
+  .v2 .v2-section.v2-screen .v2-section-title {
+    white-space: nowrap;
+  }
+}
+
+/* ---- Преимущества: баланс «метрика → выгода → описание» ---- */
+.v2 .v2-adv {
+  padding: 34px 32px;
+}
+
+.v2 .v2-adv-num {
+  font-size: 27px;
+  margin-bottom: 14px;
+}
+
+.v2 .v2-adv h3 {
+  font-size: 22px;
+  margin-bottom: 9px;
+}
+
+.v2 .v2-adv p {
+  font-size: 15px;
+  color: var(--mute);
+}

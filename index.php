@@ -751,7 +751,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
             <div class="v2-section-head">
               <div class="v2-section-eyebrow">Почему мы</div>
               <h2 class="v2-section-title">Почему выбирают <em>КазнаЭксперт</em></h2>
-              <p class="v2-section-lede">Шесть причин, по которым исполнители госконтрактов доверяют нам работу с Казначейством.</p>
+              <p class="v2-section-lede">Шесть причин доверить нам работу с Казначейством.</p>
             </div>
 
             <div class="v2-adv-grid">
