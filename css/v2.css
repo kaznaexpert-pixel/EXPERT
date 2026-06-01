@@ -1559,3 +1559,92 @@
     width: 100%;
   }
 }
+
+/* ============================================================
+ * 12. ONE-SCREEN SECTION HELPER — каждый блок = 1 экран
+ * ============================================================ */
+
+.v2 .v2-section.v2-screen {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 132px;   /* зазор под sticky-хедер */
+  padding-bottom: 88px;
+}
+
+.v2 .v2-section.v2-screen .v2-section-head {
+  margin-bottom: 48px;
+}
+
+@media (max-width: 900px) {
+  .v2 .v2-section.v2-screen {
+    min-height: 0;
+    padding-top: 96px;
+    padding-bottom: 72px;
+  }
+}
+
+/* ============================================================
+ * 13. ADVANTAGES — hairline grid 3×2
+ * ============================================================ */
+
+.v2 .v2-adv-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  border-top: 1px solid var(--hair-strong);
+  border-left: 1px solid var(--hair-strong);
+}
+
+.v2 .v2-adv {
+  border-right: 1px solid var(--hair-strong);
+  border-bottom: 1px solid var(--hair-strong);
+  padding: 36px 34px;
+  transition: background .25s ease;
+}
+
+.v2 .v2-adv:hover {
+  background: var(--paper);
+}
+
+.v2 .v2-adv-num {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 34px;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: var(--accent);
+  margin-bottom: 18px;
+}
+
+.v2 .v2-adv h3 {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 19px;
+  line-height: 1.2;
+  color: var(--ink);
+  margin: 0 0 10px;
+}
+
+.v2 .v2-adv p {
+  font-family: var(--font-body);
+  font-size: 14px;
+  line-height: 1.55;
+  color: var(--ink-soft);
+  margin: 0;
+}
+
+@media (max-width: 900px) {
+  .v2 .v2-adv-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 560px) {
+  .v2 .v2-adv-grid {
+    grid-template-columns: 1fr;
+  }
+  .v2 .v2-adv {
+    padding: 26px 24px;
+  }
+}
