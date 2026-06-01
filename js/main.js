@@ -171,7 +171,7 @@ if (contactsform) {
         'Если срочно — напишите в один из мессенджеров ниже.</p>' +
         '<div class="v2-thanks-links">' +
           '<a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>' +
-          '<a href="https://wa.me/+79818331010" target="_blank" rel="noopener">WhatsApp</a>' +
+          '<a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>' +
         '</div>' +
       '</div>';
   }
@@ -209,7 +209,6 @@ if (contactsform) {
       });
 
       if (res.ok) {
-        try { if (typeof gtag === 'function') gtag('event', 'generate_lead', { source: 'hero', value: 1 }); } catch (_) {}
         try { if (typeof ym === 'function') ym(94305898, 'reachGoal', 'LEAD_HERO'); } catch (_) {}
         showThanks(phone);
       } else {
@@ -219,7 +218,7 @@ if (contactsform) {
     } catch (err) {
       submit.disabled = false;
       submit.textContent = originalText;
-      showError('Не удалось отправить. Попробуйте ещё раз или напишите в Telegram / WhatsApp.');
+      showError('Не удалось отправить. Попробуйте ещё раз или напишите в Telegram / MAX.');
       console.error('Lead submit error:', err);
     }
   });

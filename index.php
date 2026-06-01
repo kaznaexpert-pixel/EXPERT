@@ -30,16 +30,15 @@ header("Cache-Control: public, max-age=300, must-revalidate");
     <!-- ============================================================ -->
     <!-- PERFORMANCE: preload / preconnect                             -->
     <!-- ============================================================ -->
-    <!-- Quiet Luxury fonts: Newsreader (serif) + Inter (sans) -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,16..72,400;0,16..72,500;0,16..72,600;1,16..72,400;1,16..72,500&display=swap">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,16..72,400;0,16..72,500;0,16..72,600;1,16..72,400;1,16..72,500&display=swap">
+    <!-- Quiet Luxury fonts: Playfair Display (serif) + Inter (sans) — self-hosted -->
+    <!-- (152-ФЗ: без трансграничной передачи в Google Fonts). -->
+    <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
+    <link rel="preload" as="font" type="font/woff2" href="/fonts/playfairdisplay-normal-500-cyrillic.woff2" crossorigin>
+    <link rel="stylesheet" href="/css/fonts.css">
     <link rel="stylesheet" href="/css/v2.css">
     <link rel="preconnect" href="https://mc.yandex.ru" crossorigin>
-    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
     <link rel="dns-prefetch" href="https://t.me">
-    <link rel="dns-prefetch" href="https://wa.me">
+    <link rel="dns-prefetch" href="https://max.ru">
 
     <!-- ============================================================ -->
     <!-- STYLES                                                        -->
@@ -115,8 +114,11 @@ header("Cache-Control: public, max-age=300, must-revalidate");
       },
       "foundingDate": "2021",
       "sameAs": [
-        "https://t.me/Kaznaexpert",
-        "https://wa.me/+79818331010"
+        "https://t.me/Kazna_Expert",
+        "https://dzen.ru/kazna_expert",
+        "https://tenchat.ru/Kazna-gov",
+        "https://www.klerk.ru/user/2692943/",
+        "https://www.rusprofile.ru/ip/321784700367672"
       ],
       "contactPoint": [{
         "@type": "ContactPoint",
@@ -349,37 +351,11 @@ header("Cache-Control: public, max-age=300, must-revalidate");
     </script>
 
     <!-- ============================================================ -->
-    <!-- GOOGLE ANALYTICS 4                                            -->
+    <!-- АНАЛИТИКА — только Яндекс.Метрика (РФ).                        -->
+    <!-- Google Analytics удалён полностью: исключаем трансграничную    -->
+    <!-- передачу ПДн (152-ФЗ). Метрика инициализируется ТОЛЬКО после   -->
+    <!-- согласия на cookie — см. /js/cookie-consent.js.               -->
     <!-- ============================================================ -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-J5BH58Y623"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-J5BH58Y623', {
-        'anonymize_ip': true,
-        'cookie_flags': 'SameSite=None;Secure'
-      });
-    </script>
-
-    <!-- ============================================================ -->
-    <!-- YANDEX METRIKA                                                -->
-    <!-- ============================================================ -->
-    <script type="text/javascript">
-       (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-       m[i].l=1*new Date();
-       for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
-       k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-       (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-       ym(94305898, "init", {
-            clickmap:true,
-            trackLinks:true,
-            accurateTrackBounce:true,
-            webvisor:true,
-            ecommerce:"dataLayer"
-       });
-    </script>
-    <noscript><div><img src="https://mc.yandex.ru/watch/94305898" style="position:absolute; left:-9999px;" alt="Яндекс.Метрика" width="1" height="1" aria-hidden="true" /></div></noscript>
 
   </head>
 
@@ -404,7 +380,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
             </a>
 
             <nav class="v2-nav" aria-label="Главная навигация">
-              <a href="#pricing">Тарифы</a>
+              <a href="#tariffs">Тарифы</a>
               <a href="#process">Как работаем</a>
               <a href="#cases">Кейсы</a>
               <a href="#aboutus">Эксперт</a>
@@ -458,11 +434,11 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                     <div class="v2-trust-label">контрактов</div>
                   </div>
                   <div class="v2-trust-item">
-                    <div class="v2-trust-num">90<span class="v2-trust-suffix">млрд&nbsp;₽</span></div>
+                    <div class="v2-trust-num">90<span class="v2-trust-suffix">&nbsp;млрд&nbsp;₽</span></div>
                     <div class="v2-trust-label">проведено</div>
                   </div>
                   <div class="v2-trust-item">
-                    <div class="v2-trust-num">2<span class="v2-trust-suffix">рабочих&nbsp;дня</span></div>
+                    <div class="v2-trust-num">2<span class="v2-trust-suffix">&nbsp;рабочих&nbsp;дня</span></div>
                     <div class="v2-trust-label">до открытия счёта</div>
                   </div>
                 </div>
@@ -510,7 +486,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                   Или напишите — ответим за 5 минут
                   <div class="v2-hero-alt-links">
                     <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
-                    <a href="https://wa.me/+79818331010" target="_blank" rel="noopener">WhatsApp</a>
+                    <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
                   </div>
                 </div>
 
@@ -678,7 +654,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
         <!-- ============================================================ -->
         <!-- 08. PROCESS — 4 шага по дням                                  -->
         <!-- ============================================================ -->
-        <section class="v2-section" id="process-flow">
+        <section class="v2-section" id="process">
           <div class="v2-container">
 
             <div class="v2-section-head">
@@ -741,109 +717,6 @@ header("Cache-Control: public, max-age=300, must-revalidate");
 
       </div>
 
-      <!-- ============================================================ -->
-      <!-- 03 СЕГМЕНТЫ-БОЛИ                                            -->
-      <!-- ============================================================ -->
-      <section class="segments" id="segments">
-        <div class="container">
-          <h2>С какой задачей вы пришли</h2>
-          <div class="segments-grid">
-            <article class="segment-card">
-              <h3>Получили отказ УФК</h3>
-              <p>Казначейство вернуло документы или не санкционирует платёж. Разберём причину, исправим сведения по КВР/КОСГУ, проведём платёж.</p>
-              <a href="#contacts" class="btn btn-gold btn-sm cta--refused">Решить срочно</a>
-            </article>
-            <article class="segment-card">
-              <h3>Первый контракт с сопровождением</h3>
-              <p>Подписали госконтракт и впервые столкнулись с казначейским счётом. Проведём с нуля: ГИИС «ЭБ», открытие лицевого счёта, раздельный учёт.</p>
-              <a href="#contacts" class="btn btn-gold btn-sm">Начать с нуля</a>
-            </article>
-            <article class="segment-card">
-              <h3>Нужен аутсорс</h3>
-              <p>Уже работаете с сопровождением, но не хотите тратить ресурс штата. Заберём весь документооборот с УФК на себя.</p>
-              <a href="#contacts" class="btn btn-gold btn-sm">Передать на аутсорс</a>
-            </article>
-          </div>
-        </div>
-      </section>
-
-      <!-- ============================================================ -->
-      <!-- 04 БЕЗ НАС vs С НАМИ                                        -->
-      <!-- ============================================================ -->
-      <section class="comparison" id="comparison">
-        <div class="container">
-          <h2>Самостоятельно или с «КазнаЭксперт»</h2>
-          <div class="table-scroll">
-            <table class="comparison-table">
-              <thead>
-                <tr>
-                  <th scope="col"></th>
-                  <th scope="col">Сами</th>
-                  <th scope="col">С «КазнаЭксперт»</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>Подключение к ГИИС «ЭБ»</td>
-                  <td>3–7 дней методом проб</td>
-                  <td class="td-good">настроим, ЭЦП привяжем</td>
-                </tr>
-                <tr>
-                  <td>Открытие лицевого счёта</td>
-                  <td>2–5 дней + риск отказа</td>
-                  <td class="td-good">2 рабочих дня</td>
-                </tr>
-                <tr>
-                  <td>Сведения по КВР/КОСГУ</td>
-                  <td>частая причина отказа</td>
-                  <td class="td-good">заполним по требованиям ТОФК</td>
-                </tr>
-                <tr>
-                  <td>Раздельный учёт</td>
-                  <td>штраф 5–10% (до 500 тыс ₽)</td>
-                  <td class="td-good">настроим и ведём</td>
-                </tr>
-                <tr>
-                  <td>Ваше время</td>
-                  <td>недели в кабинетах</td>
-                  <td class="td-good">только подача документов</td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-        </div>
-      </section>
-
-      <!-- ============================================================ -->
-      <!-- 05 КАК ИДЁТ РАБОТА                                          -->
-      <!-- ============================================================ -->
-      <section class="process" id="process">
-        <div class="container">
-          <h2>Как мы открываем казначейский счёт за 2 дня</h2>
-          <div class="process-steps">
-            <div class="process-step">
-              <span class="step-num" aria-hidden="true">1</span>
-              <h3>Анализ контракта</h3>
-              <p>Бесплатно изучаем контракт, определяем тип счёта и список документов. NDA до анализа.</p>
-            </div>
-            <div class="process-step">
-              <span class="step-num" aria-hidden="true">2</span>
-              <h3>Договор за 24 часа</h3>
-              <p>Фиксируем объём и стоимость. Подключаемся удалённо через TeamViewer или AnyDesk.</p>
-            </div>
-            <div class="process-step">
-              <span class="step-num" aria-hidden="true">3</span>
-              <h3>Подключение и открытие</h3>
-              <p>Настраиваем ГИИС «ЭБ», привязываем ЭЦП, открываем счёт в ТОФК. 2 рабочих дня от готовности документов.</p>
-            </div>
-            <div class="process-step">
-              <span class="step-num" aria-hidden="true">4</span>
-              <h3>Сопровождение</h3>
-              <p>Утверждаем сведения, проводим санкционирование, ведём раздельный учёт до закрытия контракта.</p>
-            </div>
-          </div>
-        </div>
-      </section>
 
       <!-- ============================================================ -->
       <!-- 06 УСЛУГИ                                                    -->
@@ -891,39 +764,6 @@ header("Cache-Control: public, max-age=300, must-revalidate");
         </div>
       </section>
 
-      <!-- ============================================================ -->
-      <!-- 07 ТАРИФЫ                                                    -->
-      <!-- ============================================================ -->
-      <section class="pricing" id="pricing">
-        <div class="container">
-          <h2>Стоимость</h2>
-          <div class="pricing-grid">
-            <div class="pricing-card">
-              <h3>Открыть счёт</h3>
-              <div class="pricing-price">от 29 000 ₽</div>
-              <p>Подключение к ГИИС «ЭБ» + открытие счёта в ТОФК. 2 рабочих дня.</p>
-              <p class="pricing-hint">Подходит, если дальше ведёте сами.</p>
-              <a href="#contacts" class="btn btn-outline">Рассчитать</a>
-            </div>
-            <div class="pricing-card pricing-card--popular">
-              <div class="pricing-badge">Популярный</div>
-              <h3>Под ключ</h3>
-              <div class="pricing-price">от 69 000 ₽</div>
-              <p>Открытие + сведения по КВР/КОСГУ + санкционирование всех платежей до закрытия.</p>
-              <p class="pricing-hint">Вы только подаёте документы.</p>
-              <a href="#contacts" class="btn btn-gold">Рассчитать</a>
-            </div>
-            <div class="pricing-card">
-              <h3>Раздельный учёт</h3>
-              <div class="pricing-price">от 12 000 ₽/мес</div>
-              <p>Ведение учёта по контракту, защита от штрафа.</p>
-              <p class="pricing-hint">&nbsp;</p>
-              <a href="#contacts" class="btn btn-outline">Рассчитать</a>
-            </div>
-          </div>
-          <p class="pricing-note">ГОЗ +30% · точная смета — после бесплатного анализа контракта.</p>
-        </div>
-      </section>
 
       <!-- ============================================================ -->
       <!-- 08 ЭКСПЕРТ                                                   -->
@@ -942,7 +782,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
               <p>За проектами — 5 специалистов с опытом работы в органах Казначейства. Ведём несколько контрактов параллельно, отвечаем в тот же день и не зависим от одного человека.</p>
               <!-- TODO Sprint 2.x: видео 60–90 сек «Кто попадает под казначейское сопровождение в 2026» -->
               <div class="expert-video-placeholder" aria-hidden="true"></div>
-              <p class="expert-updated">Обновлено: май 2026</p>
+              <p class="expert-updated">Обновлено: июнь 2026</p>
             </div>
           </div>
         </div>
@@ -963,7 +803,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
             <div class="advantage-card">
               <span class="adv-num">24 часа</span>
               <h3>От заявки до договора</h3>
-              <p>Связь в Telegram, WhatsApp или по телефону. Работаем в вашем ритме.</p>
+              <p>Связь в Telegram, MAX или по телефону. Работаем в вашем ритме.</p>
             </div>
             <div class="advantage-card">
               <span class="adv-num">0</span>
@@ -1331,9 +1171,9 @@ header("Cache-Control: public, max-age=300, must-revalidate");
               <p><a href="mailto:kaznaexpert@gmail.com">kaznaexpert@gmail.com</a></p>
               <p class="contacts-instruction-1">Телефон:</p>
               <p><a href="tel:+79818331010"><strong>+7-981-833-10-10</strong></a></p>
-              <div class="social">
-                <a href="https://t.me/Kaznaexpert" class="social-btn" aria-label="Telegram"><svg aria-hidden="true"><use href="#telegram" xlink:href="#telegram"></use></svg></a>
-                <a href="https://wa.me/+79818331010" class="social-btn" aria-label="WhatsApp"><svg aria-hidden="true"><use href="#whatsup" xlink:href="#whatsup"></use></svg></a>
+              <div class="contacts-messengers">
+                <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
+                <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
               </div>
             </div>
           </div>
@@ -1347,35 +1187,109 @@ header("Cache-Control: public, max-age=300, must-revalidate");
             <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.248-1.97 9.28c-.145.658-.537.818-1.084.508l-3-2.21-1.447 1.394c-.16.16-.295.295-.605.295l.213-3.053 5.56-5.023c.242-.213-.054-.333-.373-.12L7.88 14.19l-2.97-.927c-.645-.204-.658-.645.136-.953l11.57-4.461c.537-.194 1.006.131.946.399z" fill="white"/>
           </svg>
         </a>
-        <a href="https://wa.me/+79818331010" target="_blank" rel="noopener noreferrer" class="messenger-btn messenger-btn--wa" aria-label="Написать в WhatsApp">
-          <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" width="26" height="26">
-            <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.981.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z" fill="white"/>
-          </svg>
+        <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener noreferrer" class="messenger-btn messenger-btn--max" aria-label="Написать в MAX">
+          <span class="messenger-btn-text">MAX</span>
         </a>
       </div>
 
-      <footer>
-        <div class="container">
-          <div class="main-footer">
-            <div class="logo">
-              <a href="#hero"><img src="img/logogold.webp" alt="КазнаЭксперт — казначейское сопровождение" width="200" height="60" loading="lazy"></a>
+      <footer class="v2-footer" id="footer">
+        <div class="v2-container">
+
+          <div class="v2-footer-top">
+
+            <div class="v2-footer-brand">
+              <a href="#hero" class="v2-footer-logo" aria-label="КазнаЭксперт — на главную">
+                <img src="img/logogold.webp" alt="КазнаЭксперт" width="180" height="54" loading="lazy">
+              </a>
+              <p class="v2-footer-tagline">Полное казначейское сопровождение под ключ. Работа с УФК по всей России с 2009 года.</p>
             </div>
-            <div class="footer-contacts">
-              <p><a href="mailto:kaznaexpert@gmail.com">kaznaexpert@gmail.com</a></p>
-              <p><a href="tel:+79818331010"><strong>+7-981-833-10-10</strong></a></p>
-              <div class="social">
-                <a href="https://t.me/Kaznaexpert" class="social-btn" aria-label="Telegram"><svg aria-hidden="true"><use href="#telegram" xlink:href="#telegram"></use></svg></a>
-                <a href="https://wa.me/+79818331010" class="social-btn" aria-label="WhatsApp"><svg aria-hidden="true"><use href="#whatsup" xlink:href="#whatsup"></use></svg></a>
-              </div>
-              <p style="font-size:12px;margin-top:8px;"><a href="/privacy/" style="color:inherit;opacity:.7;">Политика конфиденциальности</a></p>
-            </div>
+
+            <nav class="v2-footer-col" aria-label="Связаться">
+              <h3 class="v2-footer-h">Связаться</h3>
+              <a href="tel:+79818331010">+7 981 833-10-10</a>
+              <a href="mailto:kaznaexpert@gmail.com">kaznaexpert@gmail.com</a>
+              <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
+              <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+            </nav>
+
+            <nav class="v2-footer-col" aria-label="Мы в сети">
+              <h3 class="v2-footer-h">Мы в сети</h3>
+              <a href="https://t.me/Kazna_Expert" target="_blank" rel="noopener">Telegram-канал</a>
+              <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener">Дзен</a>
+              <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener">Клерк</a>
+              <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener">TenChat</a>
+            </nav>
+
+            <nav class="v2-footer-col" aria-label="Проверка и реквизиты">
+              <h3 class="v2-footer-h">Проверка</h3>
+              <a href="https://www.rusprofile.ru/ip/321784700367672" target="_blank" rel="noopener nofollow">Rusprofile</a>
+              <a href="https://zachestnyibiznes.ru/company/ip/321784700367672_781428314589" target="_blank" rel="noopener nofollow">За честный бизнес</a>
+              <a href="https://www.audit-it.ru/contragent/fl/781428314589_mikhailov-iaroslav-alekseevich" target="_blank" rel="noopener nofollow">Audit-it</a>
+            </nav>
+
           </div>
+
+          <div class="v2-footer-bottom">
+            <p class="v2-footer-id">ИП Михайлов Ярослав Алексеевич · ИНН 781428314589 · ОГРНИП 321784700367672</p>
+            <nav class="v2-footer-legal" aria-label="Правовая информация">
+              <a href="/privacy/">Политика конфиденциальности</a>
+              <a href="/terms/">Пользовательское соглашение</a>
+              <a href="#" data-cookie-reset>Настройки cookie</a>
+            </nav>
+            <p class="v2-footer-copy">© 2026 КазнаЭксперт</p>
+          </div>
+
         </div>
       </footer>
 
     </div>
 
+    <!-- ============================================================ -->
+    <!-- COOKIE CONSENT (152-ФЗ) — баннер + модалка настроек            -->
+    <!-- ============================================================ -->
+    <div class="cookie-banner" id="cookie-banner" role="dialog" aria-label="Согласие на использование cookie" aria-live="polite" hidden>
+      <div class="cookie-banner-inner">
+        <div class="cookie-banner-text">
+          <strong>Мы используем файлы cookie</strong>
+          <p>Необходимые cookie обеспечивают работу сайта и формы заявки. Аналитика (Яндекс.Метрика, РФ — без трансграничной передачи данных) включается только с вашего согласия. Подробнее — в <a href="/privacy/">Политике конфиденциальности</a>.</p>
+        </div>
+        <div class="cookie-banner-actions">
+          <button type="button" class="cookie-btn cookie-btn--ghost" id="cookie-settings">Настройки</button>
+          <button type="button" class="cookie-btn cookie-btn--ghost" id="cookie-reject">Только необходимые</button>
+          <button type="button" class="cookie-btn cookie-btn--solid" id="cookie-accept-all">Принять все</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="cookie-modal" id="cookie-modal" role="dialog" aria-modal="true" aria-labelledby="cookie-modal-title" hidden>
+      <div class="cookie-modal-backdrop" id="cookie-modal-backdrop"></div>
+      <div class="cookie-modal-card">
+        <h2 class="cookie-modal-title" id="cookie-modal-title">Настройки cookie</h2>
+        <div class="cookie-cat">
+          <div class="cookie-cat-row">
+            <div class="cookie-cat-info">
+              <strong>Необходимые</strong>
+              <span>Работа сайта, формы заявки и хранение вашего выбора cookie. Отключить нельзя.</span>
+            </div>
+            <span class="cookie-cat-locked">Всегда вкл.</span>
+          </div>
+          <label class="cookie-cat-row">
+            <div class="cookie-cat-info">
+              <strong>Аналитика</strong>
+              <span>Яндекс.Метрика — анонимная статистика посещений. Данные хранятся в РФ, без трансграничной передачи.</span>
+            </div>
+            <input type="checkbox" id="cookie-cat-analytics" class="cookie-toggle" checked>
+          </label>
+        </div>
+        <div class="cookie-modal-actions">
+          <button type="button" class="cookie-btn cookie-btn--ghost" id="cookie-modal-close">Отмена</button>
+          <button type="button" class="cookie-btn cookie-btn--solid" id="cookie-modal-save">Сохранить выбор</button>
+        </div>
+      </div>
+    </div>
+
     <script src="js/main.js"></script>
+    <script src="js/cookie-consent.js"></script>
     <script>
       /* CTA-2 prefills "Получил отказ УФК" in task select */
       document.querySelectorAll('.cta--refused').forEach(function(el) {
