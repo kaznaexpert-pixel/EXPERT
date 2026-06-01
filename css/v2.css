@@ -1939,3 +1939,37 @@
   .v2 .v2-hero-trust.v2-reveal      { transition-delay: .32s; }
   .v2 .v2-hero-action.v2-reveal     { transition-delay: .18s; }
 }
+
+/* ============================================================
+ * 20. MOBILE FIX — адаптация без горизонтального скролла
+ * ============================================================ */
+
+/* ни одна секция не выпускает контент за пределы экрана */
+.v2 section { overflow-x: clip; }
+
+@media (max-width: 900px) {
+  .v2-container { max-width: 100%; min-width: 0; }
+  .v2 .v2-section,
+  .v2 .v2-section.v2-screen { min-width: 0; }
+
+  /* Hero — обычный поток, без 100vh и flex-центровки */
+  .v2 .v2-hero { min-height: 0; display: block; padding: 84px 0 40px; }
+  .v2 .v2-hero-grid { display: block; }
+  .v2 .v2-hero-action { margin-top: 32px; }
+
+  /* экраны секций — нормальные отступы вместо 100vh-центровки */
+  .v2 .v2-section.v2-screen { min-height: 0; padding-top: 72px; padding-bottom: 52px; }
+  .v2 .v2-section.v2-screen .v2-section-head,
+  .v2 .v2-section-head { margin-bottom: 28px; max-width: 100%; }
+  .v2 .v2-section-lede { max-width: 100%; }
+
+  /* split-секции → одна колонка */
+  .v2 .v2-expert-split,
+  .v2 .v2-contacts-split { grid-template-columns: 1fr; gap: 28px; }
+  .v2 .v2-expert-portrait { max-width: 240px; }
+  .v2 .v2-contacts-panel { border-left: 0; padding-left: 0; border-top: 1px solid var(--hair-strong); padding-top: 28px; }
+
+  /* карусели не растягивают страницу */
+  .v2 .v2-carousel { min-width: 0; max-width: 100%; }
+  .v2 .v2-carousel > * { flex-basis: 86%; }
+}
