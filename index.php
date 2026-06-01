@@ -407,24 +407,24 @@ header("Cache-Control: public, max-age=300, must-revalidate");
               <!-- LEFT: pitch + цифры -->
               <div class="v2-hero-main">
 
-                <div class="v2-hero-eyebrow-row">
+                <div class="v2-hero-eyebrow-row v2-reveal">
                   <span class="v2-eyebrow">44-ФЗ · 223-ФЗ · ГОЗ · Нацпроекты</span>
                   <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
                 </div>
 
-                <h1>
+                <h1 class="v2-reveal">
                   Откроем казначейский счёт
                   <br>
                   <em>за два рабочих дня</em>
                 </h1>
 
-                <p class="v2-hero-lede">
+                <p class="v2-hero-lede v2-reveal">
                   <strong>Полное казначейское сопровождение под ключ.</strong>
                   Берём всю работу с УФК на себя — от резерва счёта на тендер до закрытия контракта.
                   Без возвратов и срыва сроков.
                 </p>
 
-                <div class="v2-hero-trust">
+                <div class="v2-hero-trust v2-reveal">
                   <div class="v2-trust-item">
                     <div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div>
                     <div class="v2-trust-label">в Казначействе</div>
@@ -446,7 +446,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
               </div>
 
               <!-- RIGHT: action card -->
-              <aside class="v2-hero-action">
+              <aside class="v2-hero-action v2-reveal">
 
                 <div class="v2-hero-action-eyebrow">Связаться с экспертом</div>
                 <h2>Перезвоним за 15 минут</h2>
@@ -714,8 +714,6 @@ header("Cache-Control: public, max-age=300, must-revalidate");
 
           </div>
         </section>
-
-      </div>
 
 
       <!-- ============================================================ -->
@@ -1161,6 +1159,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
           </div>
         </section>
       </div>
+      </div><!-- /.v2 (единый wrapper всей страницы — sticky-хедер живёт здесь) -->
 
       <!-- Плавающая кнопка мессенджеров (вместо чат-виджета) -->
       <div class="messenger-float" role="complementary" aria-label="Связаться через мессенджер">
