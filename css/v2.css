@@ -2001,7 +2001,29 @@ html { overflow-x: clip; }
   caret-color: var(--accent);
   transition: border-color .2s ease, box-shadow .2s ease;
 }
-.v2 .contacts-form ::placeholder { color: var(--mute); opacity: 1; }
+.v2 .contacts-form ::placeholder { color: var(--mute-soft); opacity: 1; }
+
+/* видимые подписи полей (фикс placeholder-as-label) */
+.v2 .contacts-form .v2-field { margin-bottom: 16px; }
+.v2 .contacts-form .v2-field label {
+  display: block;
+  font-family: var(--font-body);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--mute);
+  margin-bottom: 7px;
+}
+.v2 .contacts-form .v2-field .req { color: var(--accent); }
+.v2 .contacts-form .v2-field .opt {
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--mute-soft);
+}
+.v2 .contacts-form .v2-field .form-select,
+.v2 .contacts-form .v2-field input { margin-bottom: 0; }
 .v2 .contacts-form .form-select { color: var(--ink); }
 .v2 .contacts-form .form-select option { background: var(--bg); color: var(--ink); }
 .v2 .contacts-form input[type="tel"]:focus,

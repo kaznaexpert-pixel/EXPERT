@@ -1105,25 +1105,33 @@ header("Cache-Control: public, max-age=300, must-revalidate");
             <div class="v2-contacts-split v2-reveal">
               <div class="v2-contacts-form">
               <form class="contacts-form" id="contacts-form" action="#">
-                <select id="task" name="task" class="form-select">
-                  <option value="" disabled selected>Тип задачи</option>
-                  <option value="open">Открыть казначейский счёт</option>
-                  <option value="full">Под ключ</option>
-                  <option value="accounting">Раздельный учёт</option>
-                  <option value="refused">Получил отказ УФК</option>
-                </select>
-                <select id="law" name="law" class="form-select">
-                  <option value="" disabled selected>44-ФЗ / 223-ФЗ / ГОЗ</option>
-                  <option value="44fz">44-ФЗ</option>
-                  <option value="223fz">223-ФЗ</option>
-                  <option value="goz">ГОЗ (275-ФЗ)</option>
-                </select>
-                <input type="tel" id="tel" data-tel-input class="_required" placeholder="Телефон или Telegram" pattern=".*.*.*.*\d{3}.*.*\d{3}.*\d{2}.*\d{2,}" title="Введите номер до конца" maxlength="18" required>
-                <span class="callout2">Это поле обязательно для заполнения</span>
-                <img src="img/tick.svg" class="callout-img2" alt="" width="16" height="16" aria-hidden="true">
-                <input type="email" id="email" placeholder="Email (необязательно)" pattern="[^@\s]+@[^@\s]+(\.[^@\s]+)+" title="user@example.ru">
-                <span class="callout">Формат: user@example.ru</span>
-                <img src="img/tick.svg" class="callout-img" alt="" width="16" height="16" aria-hidden="true">
+                <div class="v2-field">
+                  <label for="task">Тип задачи</label>
+                  <select id="task" name="task" class="form-select">
+                    <option value="" disabled selected>Выберите задачу</option>
+                    <option value="open">Открыть казначейский счёт</option>
+                    <option value="full">Под ключ</option>
+                    <option value="accounting">Раздельный учёт</option>
+                    <option value="refused">Получил отказ УФК</option>
+                  </select>
+                </div>
+                <div class="v2-field">
+                  <label for="law">Закон</label>
+                  <select id="law" name="law" class="form-select">
+                    <option value="" disabled selected>44-ФЗ / 223-ФЗ / ГОЗ</option>
+                    <option value="44fz">44-ФЗ</option>
+                    <option value="223fz">223-ФЗ</option>
+                    <option value="goz">ГОЗ (275-ФЗ)</option>
+                  </select>
+                </div>
+                <div class="v2-field">
+                  <label for="tel">Телефон или Telegram <span class="req">*</span></label>
+                  <input type="tel" id="tel" data-tel-input class="_required" placeholder="+7 (___) ___-__-__" pattern=".*.*.*.*\d{3}.*.*\d{3}.*\d{2}.*\d{2,}" title="Введите номер до конца" maxlength="18" required>
+                </div>
+                <div class="v2-field">
+                  <label for="email">Email <span class="opt">(необязательно)</span></label>
+                  <input type="email" id="email" placeholder="name@company.ru" pattern="[^@\s]+@[^@\s]+(\.[^@\s]+)+" title="user@example.ru">
+                </div>
                 <p class="form-assurance">Ответим в течение рабочего дня. NDA по запросу.</p>
                 <label class="checkbox">Я даю со­гла­сие на об­ра­бот­ку пер­со­наль­ных дан­ных в со­от­вет­ст­вии с <a href="/privacy/" target="_blank">по­ли­ти­кой кон­фи­ден­ци­аль­нос­ти</a>
                   <input type="checkbox" class="_required" required>
