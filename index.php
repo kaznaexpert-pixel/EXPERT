@@ -506,6 +506,26 @@ header("Cache-Control: public, max-age=300, must-revalidate");
         </section>
 
         <!-- ============================================================ -->
+        <!-- TRUST BAR — сигналы доверия (ui-ux-pro-max: Trust & Authority) -->
+        <!-- ============================================================ -->
+        <section class="v2-trust-bar" aria-label="Надёжность и проверка компании">
+          <div class="v2-container">
+            <div class="v2-trust-bar-inner v2-reveal">
+              <div class="v2-trust-bar-id">
+                <span class="v2-trust-bar-eyebrow">Открытая компания · работаем с 2009</span>
+                ИП Михайлов Ярослав Алексеевич · ИНН 781428314589 · ОГРНИП 321784700367672
+              </div>
+              <div class="v2-trust-bar-check">
+                <span>Проверьте нас:</span>
+                <a href="https://www.rusprofile.ru/ip/321784700367672" target="_blank" rel="noopener nofollow">Rusprofile</a>
+                <a href="https://zachestnyibiznes.ru/company/ip/321784700367672_781428314589" target="_blank" rel="noopener nofollow">За честный бизнес</a>
+                <a href="https://www.audit-it.ru/contragent/fl/781428314589_mikhailov-iaroslav-alekseevich" target="_blank" rel="noopener nofollow">Audit-it</a>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- ============================================================ -->
         <!-- 06. TARIFFS — 4 пакета по этапу контракта                     -->
         <!-- ============================================================ -->
         <section class="v2-section" id="tariffs">

@@ -2234,3 +2234,57 @@ html { overflow-x: clip; }
 .v2 summary:focus:not(:focus-visible) {
   outline: none;
 }
+
+/* ============================================================
+ * 25. TRUST BAR — сигналы доверия (ui-ux-pro-max: Trust & Authority)
+ * ============================================================ */
+.v2 .v2-trust-bar {
+  border-top: 1px solid var(--hair-strong);
+  border-bottom: 1px solid var(--hair-strong);
+  background: var(--paper);
+}
+.v2 .v2-trust-bar-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 28px;
+  flex-wrap: wrap;
+  padding: 18px 0;
+}
+.v2 .v2-trust-bar-id {
+  font-family: var(--font-body);
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--ink-soft);
+}
+.v2 .v2-trust-bar-eyebrow {
+  display: block;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 4px;
+}
+.v2 .v2-trust-bar-check {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  flex-wrap: wrap;
+  font-family: var(--font-body);
+  font-size: 13px;
+  color: var(--mute);
+}
+.v2 .v2-trust-bar-check a {
+  color: var(--ink);
+  border-bottom: 1px solid var(--hair-strong);
+  padding-bottom: 1px;
+  transition: color .2s ease, border-color .2s ease;
+}
+.v2 .v2-trust-bar-check a:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+@media (max-width: 700px) {
+  .v2 .v2-trust-bar-inner { flex-direction: column; align-items: flex-start; gap: 14px; }
+}
