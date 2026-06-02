@@ -3179,4 +3179,8 @@
     flex-direction: column;
     align-items: flex-start;
   }
+  /* на узких экранах заголовок переносится естественно */
+  .v2 .v2-rescue-br {
+    display: none;
+  }
 }
