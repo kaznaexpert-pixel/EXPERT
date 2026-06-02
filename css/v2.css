@@ -2693,3 +2693,39 @@
 @media (prefers-reduced-motion: reduce) {
   .kz-toast { transition: opacity .3s ease; transform: translate(-50%, 0); }
 }
+
+/* ============================================================
+ * 33. ТИХАЯ РОСКОШЬ КАРТОЧЕК НА МОБАЙЛЕ
+ * ============================================================ */
+@media (max-width: 600px) {
+  /* тарифы: воздух внутри + расстояние между карточками */
+  .v2 .v2-tariffs-grid { row-gap: 18px; }
+  .v2 .v2-tariff { padding: 30px 26px; }
+  /* преимущества: просторнее в одну колонку */
+  .v2 .v2-adv { padding: 28px 26px; }
+  /* карусели: карточка занимает почти весь экран */
+  .v2 .v2-carousel > * { flex-basis: 90%; }
+  .v2 .v2-case, .v2 .v2-review { padding: 28px 26px; }
+}
+
+/* карточки сравнения на мобайле — выделяем «наш» ответ золотом */
+@media (max-width: 880px) {
+  .v2 .v2-compare-row { padding: 22px; margin-bottom: 14px; }
+  .v2 .v2-compare-param {
+    padding-top: 0;
+    padding-bottom: 14px;
+    font-size: 19px;
+    border-bottom: 1px solid var(--hair);
+    margin-bottom: 6px;
+  }
+  .v2 .v2-compare-cell.is-us {
+    background: rgba(139, 111, 71, 0.07);
+    padding: 12px 14px;
+    border-bottom: 0;
+    margin-top: 6px;
+  }
+  .v2 .v2-compare-cell.is-us::before { color: var(--accent); }
+}
+
+/* буллиты процесса — золотые точки, ровно по центру строки (на всех ширинах) */
+.v2 .v2-process-checks li { align-items: center; gap: 10px; }
