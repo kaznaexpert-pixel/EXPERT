@@ -445,6 +445,12 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                   </div>
                 </div>
 
+                <div class="v2-hero-expert v2-reveal">
+                  <div class="v2-expert-name">Михайлов Ярослав</div>
+                  <div class="v2-expert-role">Эксперт · 15 лет в Казначействе</div>
+                  <p class="v2-expert-quote">«Знаем УФК изнутри: причины отказов, санкционирование платежей, раздельный учёт. За 15 лет — без сюрпризов».</p>
+                </div>
+
               </div>
 
               <!-- RIGHT: action card -->
@@ -490,14 +496,6 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                     <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
                     <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
                   </div>
-                </div>
-
-                <div class="v2-hero-expert">
-                  <div class="v2-expert-name">Михайлов Ярослав</div>
-                  <div class="v2-expert-role">Эксперт · 15 лет в Казначействе</div>
-                  <p class="v2-expert-quote">
-                    «Знаем УФК изнутри: причины отказов, санкционирование платежей, раздельный учёт. За 15 лет — без сюрпризов».
-                  </p>
                 </div>
 
               </aside>

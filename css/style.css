@@ -35,7 +35,6 @@ body {
   line-height: 1.6;
   color: var(--text);
   background-color: var(--bg);
-  overflow-x: hidden;
 }
 
 *, *::before, *::after {
@@ -49,7 +48,8 @@ img {
 
 .wrapper {
   min-height: 100%;
-  overflow: hidden;
+  /* overflow убран: ломал position:sticky у хедера (создавал scroll-контейнер).
+     Защита от горизонтального скролла — на уровне секций (.v2 section{overflow-x:clip}). */
   display: flex;
   flex-direction: column;
 }
