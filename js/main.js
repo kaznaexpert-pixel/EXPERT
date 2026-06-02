@@ -137,9 +137,12 @@ if (contactsform) {
                 contactsform.reset();
                 if (submitBtn) submitBtn.value = 'Получить расчёт';
                 syncSubmit();
+            } else if (response.status === 429) {
+                if (submitBtn) submitBtn.value = 'Получить расчёт';
+                alert('Мы уже получили вашу заявку — перезвоним в течение рабочего дня. Если срочно: +7-981-833-10-10');
             } else {
                 if (submitBtn) { submitBtn.disabled = false; submitBtn.value = 'Получить расчёт'; }
-                alert('Ошибка при отправке. Позвоните нам: +7-981-833-10-10');
+                alert('Не удалось отправить. Позвоните нам: +7-981-833-10-10 или напишите в Telegram.');
             }
         })
         .catch(function() {
@@ -219,6 +222,9 @@ if (contactsform) {
 
       if (res.ok) {
         try { if (typeof ym === 'function') ym(94305898, 'reachGoal', 'LEAD_HERO'); } catch (_) {}
+        showThanks(phone);
+      } else if (res.status === 429) {
+        // rate-limit: заявка уже принята недавно — показываем «спасибо», не ошибку
         showThanks(phone);
       } else {
         var data = await res.json().catch(function() { return {}; });
