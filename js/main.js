@@ -1,3 +1,24 @@
+// ── Премиум-тост вместо системного alert() ──────────────────
+function kzToast(title, text, type) {
+  var t = document.createElement('div');
+  t.className = 'kz-toast kz-toast--' + (type || 'success');
+  t.setAttribute('role', 'status');
+  t.innerHTML = '<span class="kz-toast-mark" aria-hidden="true"></span>' +
+                '<div class="kz-toast-body"><strong></strong><span></span></div>' +
+                '<button type="button" class="kz-toast-close" aria-label="Закрыть">×</button>';
+  t.querySelector('strong').textContent = title;
+  t.querySelector('.kz-toast-body span').textContent = text;
+  document.body.appendChild(t);
+  requestAnimationFrame(function () { t.classList.add('is-in'); });
+  var hide = function () {
+    t.classList.remove('is-in');
+    setTimeout(function () { if (t.parentNode) t.parentNode.removeChild(t); }, 500);
+  };
+  t.querySelector('.kz-toast-close').addEventListener('click', hide);
+  setTimeout(hide, 6500);
+  return t;
+}
+
 // Language redirect (bot filter)
 var nav = window.navigator.language;
 if (nav === 'uk') {
@@ -133,21 +154,21 @@ if (contactsform) {
         .then(function(response) {
             if (response.ok) {
                 try { if (typeof ym === 'function') ym(94305898, 'reachGoal', 'LEAD_CONTACTS'); } catch (_) {}
-                alert('Заявка отправлена. Перезвоним в течение рабочего дня.');
+                kzToast('Заявка принята', 'Перезвоним в течение рабочего дня.', 'success');
                 contactsform.reset();
                 if (submitBtn) submitBtn.value = 'Получить расчёт';
                 syncSubmit();
             } else if (response.status === 429) {
                 if (submitBtn) submitBtn.value = 'Получить расчёт';
-                alert('Мы уже получили вашу заявку — перезвоним в течение рабочего дня. Если срочно: +7-981-833-10-10');
+                kzToast('Заявка уже у нас', 'Перезвоним в течение рабочего дня. Срочно — +7 981 833-10-10.', 'success');
             } else {
                 if (submitBtn) { submitBtn.disabled = false; submitBtn.value = 'Получить расчёт'; }
-                alert('Не удалось отправить. Позвоните нам: +7-981-833-10-10 или напишите в Telegram.');
+                kzToast('Не удалось отправить', 'Позвоните: +7 981 833-10-10 или напишите в Telegram.', 'error');
             }
         })
         .catch(function() {
             if (submitBtn) { submitBtn.disabled = false; submitBtn.value = 'Получить расчёт'; }
-            alert('Ошибка соединения. Позвоните нам: +7-981-833-10-10');
+            kzToast('Ошибка соединения', 'Позвоните: +7 981 833-10-10 или напишите в Telegram.', 'error');
         });
     });
 }

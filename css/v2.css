@@ -2616,3 +2616,80 @@
   background: var(--accent);
   box-shadow: 0 0 0 0.5px rgba(139, 111, 71, 0.4);
 }
+
+/* ============================================================
+ * 32. PREMIUM TOAST — вместо системного alert()
+ * ============================================================ */
+.kz-toast {
+  position: fixed;
+  left: 50%;
+  bottom: 28px;
+  transform: translate(-50%, 150%);
+  z-index: 1200;
+  width: min(440px, calc(100% - 32px));
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  padding: 18px 18px 18px 20px;
+  background: var(--paper);
+  border: 1px solid var(--hair-strong);
+  border-left: 3px solid var(--accent);
+  box-shadow: 0 20px 54px rgba(26, 26, 26, 0.20);
+  font-family: var(--font-body);
+  opacity: 0;
+  transition: transform .5s cubic-bezier(0.16, 1, 0.3, 1), opacity .4s ease;
+}
+.kz-toast.is-in { transform: translate(-50%, 0); opacity: 1; }
+.kz-toast-mark {
+  flex-shrink: 0;
+  width: 22px; height: 22px;
+  margin-top: 2px;
+  border-radius: 50%;
+  background: var(--accent);
+  position: relative;
+}
+.kz-toast-mark::after {
+  content: '';
+  position: absolute;
+  left: 8px; top: 4px;
+  width: 5px; height: 10px;
+  border: solid #fff;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+.kz-toast--error .kz-toast-mark { background: #C04A2B; }
+.kz-toast--error .kz-toast-mark::after {
+  width: 2px; height: 11px; left: 10px; top: 5px;
+  border: 0; background: #fff; transform: none;
+}
+.kz-toast-body { flex: 1; }
+.kz-toast-body strong {
+  display: block;
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 1.2;
+  color: var(--ink);
+  margin-bottom: 3px;
+}
+.kz-toast-body span {
+  font-family: var(--font-body);
+  font-size: 13.5px;
+  line-height: 1.5;
+  color: var(--ink-soft);
+}
+.kz-toast-close {
+  margin-left: 6px;
+  background: none;
+  border: 0;
+  font-size: 22px;
+  line-height: 1;
+  color: var(--mute);
+  cursor: pointer;
+  padding: 0 2px;
+  transition: color .2s ease;
+}
+.kz-toast-close:hover { color: var(--ink); }
+@media (prefers-reduced-motion: reduce) {
+  .kz-toast { transition: opacity .3s ease; transform: translate(-50%, 0); }
+}
