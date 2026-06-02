@@ -1946,7 +1946,8 @@
 
 /* страница и секции не дают горизонтального скролла
    (clip, а не hidden — чтобы не сломать sticky-хедер) */
-html { overflow-x: clip; }
+/* overflow-x guard только на секциях — НЕ на html/body/.v2,
+   иначе ломается position:sticky у хедера в Safari */
 .v2 section { overflow-x: clip; }
 
 @media (max-width: 900px) {
@@ -2494,3 +2495,109 @@ html { overflow-x: clip; }
   .v2-footer-cta { flex-direction: column; align-items: flex-start; gap: 24px; padding: 44px 0; }
   .v2-footer-cta-actions { width: 100%; }
 }
+
+/* ============================================================
+ * 30. СРОЧНЫЕ ФИКСЫ 2 — Hero / форма / буллиты / cookie / прогресс / ховеры
+ * ============================================================ */
+
+/* --- HERO: колонки выровнены по верху, контент идёт от верха (без дыры сверху),
+       секция ровно 1 экран --- */
+.v2 .v2-hero-grid { align-items: start; width: 100%; }
+@media (min-width: 901px) {
+  .v2 .v2-hero {
+    display: block;
+    min-height: calc(100vh - 84px);
+    padding-top: 56px;
+    padding-bottom: 40px;
+  }
+}
+
+/* --- ФОРМА: поле «Имя» (type=text) — премиум-стиль как у остальных --- */
+.v2 .contacts-form input[type="text"] {
+  color: var(--ink);
+  background-color: var(--paper);
+  border: 1px solid var(--hair-strong);
+  border-radius: 0;
+  font-family: var(--font-body);
+  font-size: 16px;
+  padding: 15px 18px;
+  width: 100%;
+  margin-bottom: 0;
+  caret-color: var(--accent);
+  transition: border-color .2s ease, box-shadow .2s ease;
+}
+.v2 .contacts-form input[type="text"]:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-soft);
+  outline: none;
+}
+
+/* --- ПРОЦЕСС: премиальные маркеры — аккуратные золотые точки --- */
+.v2 .v2-process-checks { border-top: 1px solid var(--hair); padding-top: 16px; }
+.v2 .v2-process-checks li { align-items: center; gap: 10px; padding: 5px 0; }
+.v2 .v2-process-checks li::before {
+  content: '';
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--accent);
+  margin-top: 0;
+  flex-shrink: 0;
+}
+
+/* --- COOKIE: чище + «Принять все» приглашает нажать --- */
+.cookie-banner { padding: 18px 0; }
+.cookie-banner-text strong { font-size: 16px; }
+.cookie-banner-text p { font-size: 12.5px; }
+.cookie-btn { border-radius: 2px; }
+#cookie-accept-all {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+  padding: 12px 30px;
+  font-weight: 600;
+  box-shadow: 0 6px 18px rgba(139, 111, 71, 0.30);
+}
+#cookie-accept-all:hover { background: #9c7e52; border-color: #9c7e52; transform: translateY(-1px); }
+#cookie-reject { background: transparent; }
+#cookie-settings {
+  border-color: transparent;
+  padding-left: 6px;
+  padding-right: 6px;
+  color: var(--mute);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* --- SCROLL PROGRESS под шапкой + постоянный hairline-«мостик» --- */
+.v2 .v2-header { border-bottom: 1px solid var(--hair); }
+.v2-scroll-progress {
+  position: absolute;
+  left: 0;
+  bottom: -1px;
+  height: 2px;
+  width: 0;
+  background: var(--accent);
+  transition: width .12s linear;
+  z-index: 2;
+}
+
+/* --- ХОВЕРЫ: дорогой вау-эффект --- */
+.v2 .v2-nav a { position: relative; }
+.v2 .v2-nav a::after {
+  content: '';
+  position: absolute;
+  left: 0; right: 100%; bottom: -5px;
+  height: 1px;
+  background: var(--accent);
+  transition: right .3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.v2 .v2-nav a:hover::after { right: 0; }
+.v2 .v2-tariff { transition: border-color .3s ease, transform .3s cubic-bezier(0.16, 1, 0.3, 1), box-shadow .3s ease; }
+.v2 .v2-tariff:hover { transform: translateY(-5px); border-color: var(--accent); box-shadow: 0 20px 44px rgba(26, 26, 26, 0.09); }
+.v2 .v2-adv { transition: background .3s ease, transform .3s cubic-bezier(0.16, 1, 0.3, 1); }
+.v2 .v2-adv:hover { background: var(--paper); transform: translateY(-3px); }
+.v2 .v2-footer-col a { transition: color .2s ease, padding-left .25s ease; }
+.v2 .v2-footer-col a:hover { padding-left: 5px; }
+.v2 .v2-expert-portrait { transition: transform .4s cubic-bezier(0.16, 1, 0.3, 1); }
+.v2 .v2-expert-split:hover .v2-expert-portrait { transform: translateY(-4px); }

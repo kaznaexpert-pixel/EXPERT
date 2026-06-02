@@ -394,6 +394,8 @@ header("Cache-Control: public, max-age=300, must-revalidate");
             </div>
 
           </div>
+          <!-- линия-прогресс скролла под шапкой (поверх hairline-«мостика» для будущего суб-меню) -->
+          <div class="v2-scroll-progress" id="scrollProgress" aria-hidden="true"></div>
         </header>
 
         <!-- ============================================================ -->

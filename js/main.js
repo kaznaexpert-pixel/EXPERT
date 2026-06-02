@@ -240,6 +240,7 @@ if (contactsform) {
   var header = document.querySelector('.v2-header');
   if (!header) return;
 
+  var progress = document.getElementById('scrollProgress');
   var ticking = false;
   var threshold = 12;
 
@@ -248,6 +249,11 @@ if (contactsform) {
       header.classList.add('is-scrolled');
     } else {
       header.classList.remove('is-scrolled');
+    }
+    if (progress) {
+      var max = document.documentElement.scrollHeight - window.innerHeight;
+      var pct = max > 0 ? (window.scrollY / max) * 100 : 0;
+      progress.style.width = pct.toFixed(2) + '%';
     }
     ticking = false;
   }
