@@ -2958,8 +2958,8 @@
 .v2 .v2-rescue-grid {
   display: grid;
   grid-template-columns: 1.2fr 1fr;
-  gap: 80px;
-  align-items: start;
+  gap: 64px;
+  align-items: center;
 }
 
 .v2 .v2-rescue-eyebrow {
@@ -2969,7 +2969,7 @@
   letter-spacing: 0.24em;
   text-transform: uppercase;
   color: var(--accent);
-  margin-bottom: 18px;
+  margin-bottom: 14px;
   display: flex;
   align-items: center;
   gap: 14px;
@@ -2985,11 +2985,11 @@
 .v2 .v2-rescue-title {
   font-family: var(--font-display);
   font-weight: 500;
-  font-size: clamp(30px, 3.4vw, 44px);
+  font-size: clamp(28px, 3vw, 40px);
   line-height: 1.1;
   letter-spacing: -0.02em;
   color: var(--ink);
-  margin: 0 0 24px;
+  margin: 0 0 16px;
 }
 
 .v2 .v2-rescue-title em {
@@ -3000,10 +3000,10 @@
 
 .v2 .v2-rescue-lede {
   font-family: var(--font-body);
-  font-size: 17px;
-  line-height: 1.55;
+  font-size: 16px;
+  line-height: 1.5;
   color: var(--ink-soft);
-  margin: 0 0 32px;
+  margin: 0 0 22px;
   max-width: 540px;
 }
 
@@ -3016,10 +3016,10 @@
 
 .v2 .v2-rescue-scenarios li {
   font-family: var(--font-body);
-  font-size: 15px;
-  line-height: 1.5;
+  font-size: 14px;
+  line-height: 1.45;
   color: var(--ink-soft);
-  padding: 14px 0;
+  padding: 9px 0;
   border-bottom: 1px solid var(--hair);
   display: flex;
   align-items: flex-start;
@@ -3033,7 +3033,7 @@
   height: 6px;
   background: var(--accent);
   border-radius: 50%;
-  margin-top: 8px;
+  margin-top: 7px;
 }
 
 .v2 .v2-rescue-scenarios strong {
@@ -3045,13 +3045,13 @@
 .v2 .v2-rescue-steps {
   display: flex;
   flex-direction: column;
-  gap: 16px;
+  gap: 14px;
 }
 
 .v2 .v2-rescue-step {
   background: var(--paper);
   border: 1px solid var(--hair-strong);
-  padding: 28px;
+  padding: 22px 24px;
   position: relative;
   transition: border-color .25s ease;
 }
@@ -3065,17 +3065,17 @@
   font-weight: 400;
   font-size: 14px;
   color: var(--mute);
-  margin-bottom: 6px;
+  margin-bottom: 4px;
 }
 
 .v2 .v2-rescue-step h3 {
   font-family: var(--font-display);
   font-weight: 500;
-  font-size: 22px;
+  font-size: 20px;
   line-height: 1.2;
   letter-spacing: -0.015em;
   color: var(--ink);
-  margin: 0 0 8px;
+  margin: 0 0 6px;
 }
 
 .v2 .v2-rescue-step-time {
@@ -3085,25 +3085,25 @@
   letter-spacing: 0.18em;
   text-transform: uppercase;
   color: var(--accent);
-  margin-bottom: 14px;
+  margin-bottom: 10px;
 }
 
 .v2 .v2-rescue-step-desc {
   font-family: var(--font-body);
   font-size: 14px;
-  line-height: 1.55;
+  line-height: 1.5;
   color: var(--ink-soft);
-  margin: 0 0 18px;
+  margin: 0 0 14px;
 }
 
 .v2 .v2-rescue-step-price {
   font-family: var(--font-display);
   font-weight: 500;
-  font-size: 28px;
+  font-size: 26px;
   line-height: 1;
   letter-spacing: -0.025em;
   color: var(--ink);
-  padding-top: 16px;
+  padding-top: 14px;
   border-top: 1px solid var(--hair);
 }
 
@@ -3116,7 +3116,7 @@
 }
 
 .v2 .v2-rescue-cta {
-  margin-top: 24px;
+  margin-top: 18px;
   display: flex;
   align-items: center;
   gap: 24px;

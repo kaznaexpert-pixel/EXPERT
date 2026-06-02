@@ -616,7 +616,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
         <!-- ============================================================ -->
         <!-- 06.5 RESCUE — Особый случай: подрядчик по КС подвёл           -->
         <!-- ============================================================ -->
-        <section class="v2-section v2-rescue" id="rescue" aria-labelledby="rescue-title">
+        <section class="v2-section v2-screen v2-rescue" id="rescue" aria-labelledby="rescue-title">
           <div class="v2-container">
 
             <div class="v2-rescue-grid">
