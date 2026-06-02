@@ -34,8 +34,8 @@ header("Cache-Control: public, max-age=300, must-revalidate");
     <!-- (152-ФЗ: без трансграничной передачи в Google Fonts). -->
     <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
     <link rel="preload" as="font" type="font/woff2" href="/fonts/playfairdisplay-normal-500-cyrillic.woff2" crossorigin>
-    <link rel="stylesheet" href="/css/fonts.css">
-    <link rel="stylesheet" href="/css/v2.css">
+    <link rel="stylesheet" href="/css/fonts.css?v=<?= @filemtime(__DIR__ . '/css/fonts.css') ?>">
+    <link rel="stylesheet" href="/css/v2.css?v=<?= @filemtime(__DIR__ . '/css/v2.css') ?>">
     <link rel="preconnect" href="https://mc.yandex.ru" crossorigin>
     <link rel="dns-prefetch" href="https://t.me">
     <link rel="dns-prefetch" href="https://max.ru">
@@ -43,7 +43,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
     <!-- ============================================================ -->
     <!-- STYLES                                                        -->
     <!-- ============================================================ -->
-    <link rel="stylesheet" href="/css/style.css" type="text/css">
+    <link rel="stylesheet" href="/css/style.css?v=<?= @filemtime(__DIR__ . '/css/style.css') ?>" type="text/css">
 
     <!-- ============================================================ -->
     <!-- OPEN GRAPH                                                    -->
@@ -1297,9 +1297,9 @@ header("Cache-Control: public, max-age=300, must-revalidate");
       </div>
     </div>
 
-    <script src="js/main.js"></script>
-    <script src="js/cookie-consent.js"></script>
-    <script src="js/reveal.js"></script>
+    <script src="js/main.js?v=<?= @filemtime(__DIR__ . '/js/main.js') ?>"></script>
+    <script src="js/cookie-consent.js?v=<?= @filemtime(__DIR__ . '/js/cookie-consent.js') ?>"></script>
+    <script src="js/reveal.js?v=<?= @filemtime(__DIR__ . '/js/reveal.js') ?>"></script>
     <script>
       /* CTA-2 prefills "Получил отказ УФК" in task select */
       document.querySelectorAll('.cta--refused').forEach(function(el) {
