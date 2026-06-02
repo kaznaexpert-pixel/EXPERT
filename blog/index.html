@@ -11,51 +11,15 @@
     <link rel="stylesheet" href="../css/style.css" type="text/css">
     <link rel="canonical" href="https://kaznaexpert.ru/blog/"> 
     <title>Казначейское сопровождение - Блог</title>
-    
-         <!--Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-223579262-1">
-        </script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-        
-          gtag('config', 'UA-223579262-1');
-        </script>
-     <!--Global site tag (gtag.js) - Google Analytics -->
-    
-    <!-- Yandex.Metrika counter -->
-    <script type="text/javascript" >
-       (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-       m[i].l=1*new Date();
-       for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
-       k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-       (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-    
-       ym(94305898, "init", {
-            clickmap:true,
-            trackLinks:true,
-            accurateTrackBounce:true,
-            webvisor:true
-       });
-    </script>
-    <noscript><div><img src="https://mc.yandex.ru/watch/94305898" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-    <!-- /Yandex.Metrika counter -->
-    
-    <!-- Top.Mail.Ru counter -->
-    <script type="text/javascript">
-        var _tmr = window._tmr || (window._tmr = []);
-        _tmr.push({id: "3332003", type: "pageView", start: (new Date()).getTime()});
-        (function (d, w, id) {
-          if (d.getElementById(id)) return;
-          var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
-          ts.src = "https://top-fwz1.mail.ru/js/code.js";
-          var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
-          if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
-        })(document, window, "tmr-code");
-    </script>
-    <noscript><div><img src="https://top-fwz1.mail.ru/counter?id=3332003;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru" /></div></noscript>
-    <!-- /Top.Mail.Ru counter -->
+
+    <link rel="stylesheet" href="/css/cookie-consent.css">
+
+    <!-- ============================================================ -->
+    <!-- АНАЛИТИКА — только Яндекс.Метрика (РФ).                        -->
+    <!-- Google Analytics и сторонние счётчики удалены полностью (152-ФЗ).  -->
+    <!-- Метрика инициализируется ТОЛЬКО после согласия на cookie —    -->
+    <!-- см. /js/cookie-consent.js.                                    -->
+    <!-- ============================================================ -->
 
   </head>
 
@@ -77,7 +41,7 @@
             </nav>
             <div class="social">
               <a href="tel:+79818331010" class="social-btn"><svg><use href="#phone" xlink:href="#phone"></use></svg></a>
-              <a href="mailto:kaznaexpert@gmail.com" class="social-btn"><svg><use href="#mail" xlink:href="#mail"></use></svg></a>
+              <a href="mailto:manager@kaznaexpert.ru" class="social-btn"><svg><use href="#mail" xlink:href="#mail"></use></svg></a>
               <a href="https://t.me/Kaznaexpert" class="social-btn"><svg><use href="#telegram" xlink:href="#telegram"></use></svg></a>
               <a href="https://wa.me/+79818331010" class="social-btn"><svg><use href="#whatsup" xlink:href="#whatsup"></use></svg></a>
             </div>
@@ -188,6 +152,55 @@
         </symbol>
       </svg>
     </div>
+
+    <div style="padding:32px 16px; text-align:center; font-size:13px; opacity:.7; border-top:1px solid #eee;">
+      <a href="/privacy/" style="color:inherit; margin-right:16px;">Политика конфиденциальности</a>
+      <a href="/terms/" style="color:inherit;">Пользовательское соглашение</a>
+    </div>
+
+    <!-- COOKIE CONSENT (152-ФЗ) — баннер + модалка настроек -->
+    <div class="cookie-banner" id="cookie-banner" role="dialog" aria-label="Согласие на использование cookie" aria-live="polite" hidden>
+      <div class="cookie-banner-inner">
+        <div class="cookie-banner-text">
+          <strong>Мы используем файлы cookie</strong>
+          <p>Необходимые cookie обеспечивают работу сайта. Аналитика (Яндекс.Метрика, РФ — без трансграничной передачи данных) включается только с вашего согласия. Подробнее — в <a href="/privacy/">Политике конфиденциальности</a>.</p>
+        </div>
+        <div class="cookie-banner-actions">
+          <button type="button" class="cookie-btn cookie-btn--ghost" id="cookie-settings">Настройки</button>
+          <button type="button" class="cookie-btn cookie-btn--ghost" id="cookie-reject">Только необходимые</button>
+          <button type="button" class="cookie-btn cookie-btn--solid" id="cookie-accept-all">Принять все</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="cookie-modal" id="cookie-modal" role="dialog" aria-modal="true" aria-labelledby="cookie-modal-title" hidden>
+      <div class="cookie-modal-backdrop" id="cookie-modal-backdrop"></div>
+      <div class="cookie-modal-card">
+        <h2 class="cookie-modal-title" id="cookie-modal-title">Настройки cookie</h2>
+        <div class="cookie-cat">
+          <div class="cookie-cat-row">
+            <div class="cookie-cat-info">
+              <strong>Необходимые</strong>
+              <span>Работа сайта и хранение вашего выбора cookie. Отключить нельзя.</span>
+            </div>
+            <span class="cookie-cat-locked">Всегда вкл.</span>
+          </div>
+          <label class="cookie-cat-row">
+            <div class="cookie-cat-info">
+              <strong>Аналитика</strong>
+              <span>Яндекс.Метрика — анонимная статистика посещений. Данные хранятся в РФ, без трансграничной передачи.</span>
+            </div>
+            <input type="checkbox" id="cookie-cat-analytics" class="cookie-toggle" checked>
+          </label>
+        </div>
+        <div class="cookie-modal-actions">
+          <button type="button" class="cookie-btn cookie-btn--ghost" id="cookie-modal-close">Отмена</button>
+          <button type="button" class="cookie-btn cookie-btn--solid" id="cookie-modal-save">Сохранить выбор</button>
+        </div>
+      </div>
+    </div>
+
+    <script src="/js/cookie-consent.js" defer></script>
   </body>
 </html>
 
