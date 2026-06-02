@@ -2314,3 +2314,50 @@ html { overflow-x: clip; }
   .v2 .v2-section.v2-screen .v2-section-title,
   .v2 .v2-section-lede { max-width: 100%; }
 }
+
+/* ============================================================
+ * 27. FIT TO ONE SCREEN — вернуть блоки в 1 экран (вертикаль компактнее)
+ * ============================================================ */
+.v2 .v2-section.v2-screen {
+  min-height: 100vh;
+  padding-top: 92px;     /* было 140 — зазор под хедер сохранён */
+  padding-bottom: 52px;  /* было 104 */
+}
+.v2 .v2-section.v2-screen .v2-section-head {
+  margin-bottom: 34px;   /* было 64 */
+}
+.v2 .v2-section.v2-screen .v2-section-title {
+  font-size: clamp(30px, 3.4vw, 48px);  /* крупно, но влезает (Hero остаётся 76px) */
+}
+.v2 .v2-section.v2-screen .v2-section-lede { font-size: 17px; }
+
+/* плотнее контент тяжёлых секций */
+.v2 .v2-tariff { min-height: 0; padding: 26px 26px 24px; }
+.v2 .v2-tariff-desc { margin-bottom: 18px; }
+.v2 .v2-compare-cell { padding: 15px 22px; }
+.v2 .v2-compare-head-cell { padding: 14px 22px; }
+.v2 .v2-adv { padding: 26px 30px; }
+.v2 .v2-adv-num { margin-bottom: 10px; }
+.v2 .v2-process-step { padding-top: 22px; }
+
+/* тарифы — плотнее по вертикали */
+.v2 .v2-tariffs-grid { margin-bottom: 20px; }
+.v2 .v2-tariffs-footnote { margin-top: 10px; }
+.v2 .v2-tariff-price { padding-top: 16px; }
+.v2 .v2-tariff-link { margin-top: 12px; }
+
+/* сравнение — самая плотная секция: ужать ячейки и CTA */
+.v2 .v2-compare-cell { padding: 11px 20px; font-size: 14px; }
+.v2 .v2-compare-head-cell { padding: 12px 20px; }
+.v2 .v2-compare-cta { margin-top: 22px; }
+
+/* контакты — ужать форму, чтобы влезала в экран */
+.v2 .contacts-form .v2-field { margin-bottom: 12px; }
+.v2 .contacts-form .form-assurance { margin: 2px 0 12px; }
+.v2 .contacts-form .checkbox { margin-bottom: 14px; }
+.v2 .contacts-form .btn-gold { padding: 14px 24px; }
+
+/* на мобайле жёсткий 100vh не нужен — естественная высота */
+@media (max-width: 900px) {
+  .v2 .v2-section.v2-screen { min-height: 0; padding-top: 70px; padding-bottom: 50px; }
+}

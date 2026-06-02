@@ -528,7 +528,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
         <!-- ============================================================ -->
         <!-- 06. TARIFFS — 4 пакета по этапу контракта                     -->
         <!-- ============================================================ -->
-        <section class="v2-section" id="tariffs">
+        <section class="v2-section v2-screen" id="tariffs">
           <div class="v2-container">
 
             <div class="v2-section-head">
@@ -601,7 +601,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
         <!-- ============================================================ -->
         <!-- 07. COMPARISON — 6 параметров × 3 столбца                     -->
         <!-- ============================================================ -->
-        <section class="v2-section" id="compare">
+        <section class="v2-section v2-screen" id="compare">
           <div class="v2-container">
 
             <div class="v2-section-head">
@@ -674,7 +674,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
         <!-- ============================================================ -->
         <!-- 08. PROCESS — 4 шага по дням                                  -->
         <!-- ============================================================ -->
-        <section class="v2-section" id="process">
+        <section class="v2-section v2-screen" id="process">
           <div class="v2-container">
 
             <div class="v2-section-head">
