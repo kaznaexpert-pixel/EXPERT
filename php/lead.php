@@ -10,8 +10,8 @@
  * Доставка email (Sprint 2.4.1 FINAL — TG-канал убран):
  * - Основной канал: локальный ящик manager@kaznaexpert.ru (читается в Roundcube,
  *   доставка не зависит от SPF/DKIM). envelope-sender (-f) нужен для приёма Exim.
- * - Копия (best-effort): kaznaexpert@gmail.com. Может отклоняться SPF/DKIM —
- *   поэтому НЕ является критерием успеха; данные всё равно сохранены в JSON.
+ * - Копия на внешний адрес отключена (152-ФЗ: без трансграничной передачи ПДн).
+ *   Данные сохраняются в JSON на сервере РФ и дублируются в локальный ящик.
  */
 
 declare(strict_types=1);
@@ -28,8 +28,9 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
 $CONFIG = [
     // Надёжный локальный ящик на этом сервере (Roundcube). From = он же для приёма Exim.
     'email_local'   => 'manager@kaznaexpert.ru',
-    // Копия на внешний адрес — best-effort, может отклоняться SPF/DKIM.
-    'email_copy'    => 'kaznaexpert@gmail.com',
+    // Копия на внешний адрес отключена: пересылка ПДн на Gmail (США) = трансграничная
+    // передача, что противоречит Политике (п. 9.1). Все заявки идут в локальный ящик РФ.
+    'email_copy'    => '',
     'email_from'    => 'manager@kaznaexpert.ru',
     'log_path'      => '/home/y98451/leads.log',
     'data_dir'      => '/home/y98451/data/leads',
