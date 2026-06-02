@@ -754,7 +754,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
               <div class="v2-expert-card v2-reveal" itemscope itemtype="https://schema.org/Person">
                 <div class="v2-expert-name" itemprop="name">Михайлов Ярослав</div>
                 <div class="v2-expert-role" itemprop="jobTitle">Основатель «КазнаЭксперт»</div>
-                <p class="v2-expert-bio" itemprop="description">15+ лет в системе Федерального Казначейства. Знаю требования УФК изнутри: причины отказов, нюансы КОСГУ/КВР, раздельный учёт по 44-ФЗ, 223-ФЗ и ГОЗ.</p>
+                <p class="v2-expert-bio" itemprop="description">15+ лет в системе Федерального Казначейства. Знаю требования УФК изнутри: причины отказов, санкционирование платежей, раздельный учёт по 44-ФЗ, 223-ФЗ и ГОЗ.</p>
                 <p class="v2-expert-bio">За проектами — 5 специалистов с опытом работы в органах Казначейства. Ведём несколько контрактов параллельно, отвечаем в тот же день и не зависим от одного человека.</p>
                 <div class="v2-expert-meta">Обновлено: июнь 2026</div>
               </div>
@@ -1126,33 +1126,14 @@ header("Cache-Control: public, max-age=300, must-revalidate");
               <div class="v2-contacts-form">
               <form class="contacts-form" id="contacts-form" action="#">
                 <div class="v2-field">
-                  <label for="task">Тип задачи</label>
-                  <select id="task" name="task" class="form-select">
-                    <option value="" disabled selected>Выберите задачу</option>
-                    <option value="open">Открыть казначейский счёт</option>
-                    <option value="full">Под ключ</option>
-                    <option value="accounting">Раздельный учёт</option>
-                    <option value="refused">Получил отказ УФК</option>
-                  </select>
+                  <label for="name">Имя</label>
+                  <input type="text" id="name" name="name" autocomplete="name" placeholder="Как к вам обращаться">
                 </div>
                 <div class="v2-field">
-                  <label for="law">Закон</label>
-                  <select id="law" name="law" class="form-select">
-                    <option value="" disabled selected>44-ФЗ / 223-ФЗ / ГОЗ</option>
-                    <option value="44fz">44-ФЗ</option>
-                    <option value="223fz">223-ФЗ</option>
-                    <option value="goz">ГОЗ (275-ФЗ)</option>
-                  </select>
-                </div>
-                <div class="v2-field">
-                  <label for="tel">Телефон или Telegram <span class="req">*</span></label>
+                  <label for="tel">Телефон <span class="req">*</span></label>
                   <input type="tel" id="tel" data-tel-input class="_required" placeholder="+7 (___) ___-__-__" pattern=".*.*.*.*\d{3}.*.*\d{3}.*\d{2}.*\d{2,}" title="Введите номер до конца" maxlength="18" required>
                 </div>
-                <div class="v2-field">
-                  <label for="email">Email <span class="opt">(необязательно)</span></label>
-                  <input type="email" id="email" placeholder="name@company.ru" pattern="[^@\s]+@[^@\s]+(\.[^@\s]+)+" title="user@example.ru">
-                </div>
-                <p class="form-assurance">Ответим в течение рабочего дня. NDA по запросу.</p>
+                <p class="form-assurance">Перезвоним в течение рабочего дня. NDA по запросу.</p>
                 <label class="checkbox">Я даю со­гла­сие на об­ра­бот­ку пер­со­наль­ных дан­ных в со­от­вет­ст­вии с <a href="/privacy/" target="_blank">по­ли­ти­кой кон­фи­ден­ци­аль­нос­ти</a>
                   <input type="checkbox" class="_required" required>
                   <span class="checkmark"></span>
@@ -1203,6 +1184,17 @@ header("Cache-Control: public, max-age=300, must-revalidate");
 
       <footer class="v2-footer" id="footer">
         <div class="v2-container">
+
+          <div class="v2-footer-cta">
+            <div class="v2-footer-cta-lead">
+              <span class="v2-footer-cta-eyebrow">Готовы начать</span>
+              <p class="v2-footer-cta-title">Откроем казначейский счёт <em>за два рабочих дня</em></p>
+            </div>
+            <div class="v2-footer-cta-actions">
+              <a href="#contacts" class="v2-footer-cta-btn">Оставить заявку</a>
+              <a href="tel:+79818331010" class="v2-footer-cta-phone">+7 981 833-10-10</a>
+            </div>
+          </div>
 
           <div class="v2-footer-top">
 

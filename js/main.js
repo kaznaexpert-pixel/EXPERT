@@ -109,32 +109,41 @@ if (contactsform) {
     contactsform.addEventListener('submit', function(e) {
         e.preventDefault();
 
-        var taskEl  = document.getElementById('task');
-        var lawEl   = document.getElementById('law');
-        var telEl   = document.getElementById('tel');
-        var emailEl = document.getElementById('email');
+        var nameEl    = document.getElementById('name');
+        var telEl     = document.getElementById('tel');
+        var consentEl = contactsform.querySelector('.checkbox input[type="checkbox"]');
 
         var data = {
-            task  : taskEl  ? taskEl.value  : '',
-            law   : lawEl   ? lawEl.value   : '',
-            tel   : telEl   ? telEl.value   : '',
-            email : emailEl ? emailEl.value : ''
+            name            : nameEl ? nameEl.value.trim() : '',
+            phone           : telEl  ? telEl.value.trim()  : '',
+            source          : 'contacts',
+            consent_pd      : consentEl ? consentEl.checked : false,
+            consent_pd_text : 'Согласие на обработку ПДн (форма «Контакты»)',
+            consent_at      : new Date().toISOString(),
+            page_url        : location.href
         };
 
-        fetch('php/mail.php', {
+        if (submitBtn) { submitBtn.disabled = true; submitBtn.value = 'Отправляем…'; }
+
+        fetch('/php/lead.php', {
             method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(data)
         })
         .then(function(response) {
             if (response.ok) {
-                alert('Заявка отправлена');
+                try { if (typeof ym === 'function') ym(94305898, 'reachGoal', 'LEAD_CONTACTS'); } catch (_) {}
+                alert('Заявка отправлена. Перезвоним в течение рабочего дня.');
                 contactsform.reset();
+                if (submitBtn) submitBtn.value = 'Получить расчёт';
                 syncSubmit();
             } else {
+                if (submitBtn) { submitBtn.disabled = false; submitBtn.value = 'Получить расчёт'; }
                 alert('Ошибка при отправке. Позвоните нам: +7-981-833-10-10');
             }
         })
         .catch(function() {
+            if (submitBtn) { submitBtn.disabled = false; submitBtn.value = 'Получить расчёт'; }
             alert('Ошибка соединения. Позвоните нам: +7-981-833-10-10');
         });
     });

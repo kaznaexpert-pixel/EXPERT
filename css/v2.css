@@ -2361,3 +2361,136 @@ html { overflow-x: clip; }
 @media (max-width: 900px) {
   .v2 .v2-section.v2-screen { min-height: 0; padding-top: 70px; padding-bottom: 50px; }
 }
+
+/* ============================================================
+ * 28. СРОЧНЫЕ ФИКСЫ — Hero / Процесс / Сравнение
+ * ============================================================ */
+
+/* --- HERO: реально 1 экран (учёт sticky-хедера сверху) --- */
+.v2 .v2-hero {
+  min-height: calc(100vh - 84px);
+  padding: 64px 0 40px;
+}
+.v2 .v2-hero h1 {
+  font-size: clamp(34px, 4.2vw, 62px);   /* крупно, но влезает с формой */
+  margin: 0 0 16px;
+}
+.v2 .v2-hero-lede { margin-bottom: 0; }
+.v2 .v2-hero-trust { margin-top: 28px; }
+@media (max-width: 900px) {
+  .v2 .v2-hero { min-height: 0; }
+}
+
+/* --- ПРОЦЕСС: чек-листы выровнены по низу, аккуратные маркеры --- */
+.v2 .v2-process-step {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.v2 .v2-process-desc { flex-grow: 1; }
+.v2 .v2-process-checks { margin-top: auto; }
+.v2 .v2-process-checks li {
+  align-items: center;     /* маркер по центру строки, не «косо» */
+  gap: 12px;
+}
+.v2 .v2-process-checks li::before {
+  margin-top: 0;
+  width: 18px;
+}
+
+/* --- СРАВНЕНИЕ: премиально — убраны вертикальные линии,
+       выделен столбец «С КазнаЭксперт» мягким золотом --- */
+.v2 .v2-compare { border: 0; background: transparent; }
+.v2 .v2-compare-head {
+  background: transparent;
+  border-bottom: 1px solid var(--ink);
+}
+.v2 .v2-compare-head-cell {
+  border-right: 0;
+  color: var(--mute);
+  padding: 0 22px 16px;
+}
+.v2 .v2-compare-head-cell.is-us { background: transparent; color: var(--accent); }
+.v2 .v2-compare-row { border-bottom: 1px solid var(--hair); }
+.v2 .v2-compare-row:last-child { border-bottom: 0; }
+.v2 .v2-compare-cell {
+  border-right: 0;
+  padding: 11px 22px;
+  font-size: 14px;
+}
+.v2 .v2-compare-cell.is-us,
+.v2 .v2-compare-head-cell.is-us {
+  background: rgba(139, 111, 71, 0.07);   /* мягкое золото — «наш» столбец */
+}
+.v2 .v2-compare-param { color: var(--ink); }
+.v2 .v2-compare-cta { margin-top: 26px; }
+
+/* ============================================================
+ * 29. FOOTER — закрывающий CTA-блок, золотой акцент, солиднее
+ * ============================================================ */
+.v2-footer {
+  border-top: 2px solid var(--accent);   /* премиум-акцент сверху */
+  padding-top: 0;
+}
+.v2-footer-cta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+  flex-wrap: wrap;
+  padding: 60px 0;
+  border-bottom: 1px solid rgba(251, 249, 244, 0.14);
+}
+.v2-footer-cta-eyebrow {
+  display: block;
+  font-family: var(--font-body);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 12px;
+}
+.v2-footer-cta-title {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: clamp(26px, 3vw, 44px);
+  line-height: 1.08;
+  letter-spacing: -0.02em;
+  color: #FBF9F4;
+  margin: 0;
+  max-width: 18ch;
+}
+.v2-footer-cta-title em { font-style: italic; color: var(--accent); }
+.v2-footer-cta-actions {
+  display: flex;
+  align-items: center;
+  gap: 28px;
+  flex-wrap: wrap;
+}
+.v2-footer-cta-btn {
+  background: var(--accent);
+  color: #1A1A1A !important;
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+  padding: 16px 30px;
+  white-space: nowrap;
+  transition: background .2s ease, transform .2s ease;
+}
+.v2-footer-cta-btn:hover { background: #9c7e52; color: #1A1A1A !important; transform: translateY(-2px); }
+.v2-footer-cta-phone {
+  font-family: var(--font-display);
+  font-size: 24px;
+  color: #FBF9F4 !important;
+  white-space: nowrap;
+}
+.v2-footer-cta-phone:hover { color: var(--accent) !important; }
+
+.v2-footer-top { padding-top: 56px; }
+
+@media (max-width: 760px) {
+  .v2-footer-cta { flex-direction: column; align-items: flex-start; gap: 24px; padding: 44px 0; }
+  .v2-footer-cta-actions { width: 100%; }
+}
