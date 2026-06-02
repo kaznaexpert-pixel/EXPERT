@@ -261,6 +261,35 @@ if (contactsform) {
 })();
 
 // ============================================================
+// v2 мобильное бургер-меню
+// ============================================================
+(function() {
+  var burger = document.getElementById('v2Burger');
+  var menu   = document.getElementById('v2MobileMenu');
+  if (!burger || !menu) return;
+
+  function setOpen(open) {
+    burger.classList.toggle('is-open', open);
+    menu.classList.toggle('is-open', open);
+    burger.setAttribute('aria-expanded', open ? 'true' : 'false');
+  }
+
+  burger.addEventListener('click', function() {
+    setOpen(!burger.classList.contains('is-open'));
+  });
+
+  // закрываем по клику на пункт
+  menu.addEventListener('click', function(e) {
+    if (e.target.closest('a')) setOpen(false);
+  });
+
+  // закрываем по Esc
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') setOpen(false);
+  });
+})();
+
+// ============================================================
 // Sticky header: класс .is-scrolled при scroll > 12px
 // ============================================================
 (function() {

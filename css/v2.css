@@ -1225,19 +1225,8 @@
   border-color: var(--accent);
 }
 
-/* MAX — плавающая кнопка (текстовый знак вместо лого) */
-.messenger-btn--max {
-  background: #2A6DF4;
-}
-
-.messenger-btn--max .messenger-btn-text {
-  color: #fff;
-  font-family: var(--font-body);
-  font-weight: 700;
-  font-size: 13px;
-  letter-spacing: 0.02em;
-  line-height: 1;
-}
+/* Плавающие кнопки связи (звонок · Telegram · MAX) оформлены
+   единым премиум-стилем в style.css — см. блок «ПЛАВАЮЩИЕ КНОПКИ СВЯЗИ». */
 
 /* ============================================================
  * 10. PREMIUM FOOTER
@@ -2729,3 +2718,229 @@
 
 /* буллиты процесса — золотые точки, ровно по центру строки (на всех ширинах) */
 .v2 .v2-process-checks li { align-items: center; gap: 10px; }
+
+/* ============================================================
+ * §34. ЕДИНЫЙ ПРЕМИУМ-МАТЕРИАЛ КАРТОЧЕК + СБРОС ЛЕГАСИ
+ *      «Тихая роскошь»: убираем протекание старых .article-стилей
+ *      из style.css и приводим все карточки к одному виду —
+ *      тёплая бумага, волосяная рамка, мягкое скругление и
+ *      ЕЛЕ ЗАМЕТНАЯ многослойная тень. Карточки органично «лежат»
+ *      на странице, без технических углов и дешёвых теней.
+ * ============================================================ */
+
+/* 34.1 — Нейтрализуем блоговые <article>-стили (style.css), которые
+   ломали v2-карточки: whitesmoke-фон, padding-bottom:120px,
+   @media 500px радиусы 50px + чёрная тень, чужой золотой маркер
+   article li::before со сдвигом влево, justify в параграфах. */
+.v2 article {
+  background-color: transparent;
+  padding-bottom: 0;
+  border-radius: 0;
+  box-shadow: none;
+}
+.v2 article p {
+  text-align: left;
+  line-height: inherit;
+}
+.v2 article li {
+  width: auto;
+  display: list-item;
+  margin-top: 0;
+}
+.v2 article li::before {
+  content: none;
+}
+/* «родной» маркер чек-листа процесса остаётся внутри карточки */
+.v2 .v2-process-checks li {
+  display: flex;
+  width: auto;
+}
+.v2 .v2-process-checks li::before {
+  content: '✓';
+  margin: 0;
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  background: none;          /* убираем легаси-золотой кружок */
+  border-radius: 0;
+  color: var(--accent);
+  font-weight: 500;
+  align-self: center;
+}
+
+/* 34.2 — Единый премиум-материал отдельно стоящих карточек.
+   Тень настолько мягкая, что читается как глубина, а не как «коробка». */
+.v2 .v2-tariff,
+.v2 .v2-case,
+.v2 .v2-review {
+  border-radius: 5px;
+  box-shadow:
+    0 1px 2px rgba(26, 26, 26, 0.03),
+    0 14px 30px rgba(26, 26, 26, 0.045);
+}
+.v2 .v2-tariff:hover,
+.v2 .v2-case:hover,
+.v2 .v2-review:hover {
+  box-shadow:
+    0 2px 6px rgba(26, 26, 26, 0.05),
+    0 24px 50px rgba(26, 26, 26, 0.07);
+}
+
+/* Сетка преимуществ — один цельный контур-матрица: мягкие углы,
+   аккуратно подрезанные внутренние линии, eле заметная общая тень. */
+.v2 .v2-adv-grid {
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow:
+    0 1px 2px rgba(26, 26, 26, 0.03),
+    0 14px 32px rgba(26, 26, 26, 0.04);
+}
+
+/* 34.3 — Бургер-меню (мобайл) */
+.v2 .v2-burger {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  margin-left: 2px;
+}
+.v2 .v2-burger span {
+  display: block;
+  width: 24px;
+  height: 1.5px;
+  margin: 0 auto;
+  background: var(--ink);
+  transition: transform .35s cubic-bezier(0.16, 1, 0.3, 1), opacity .2s ease;
+}
+.v2 .v2-burger.is-open span:nth-child(1) { transform: translateY(6.5px) rotate(45deg); }
+.v2 .v2-burger.is-open span:nth-child(2) { opacity: 0; }
+.v2 .v2-burger.is-open span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
+
+/* Гасим легаси-правила style.css, протекающие на v2-шапку и v2-меню:
+   @media 500px header{overflow:hidden;border-radius:0 0 32px 32px}
+   и @media 700px nav{position:fixed;top:-150%;height:100%;background:ink}. */
+.v2 .v2-header {
+  overflow: visible;
+  border-radius: 0;
+}
+.v2 .v2-mobile-menu {
+  display: none;
+  position: static;
+  top: auto;
+  left: auto;
+  right: auto;
+  width: auto;
+  height: auto;
+  padding: 0;
+  background: transparent;
+  overflow: visible;
+  z-index: auto;
+  flex-direction: column;
+  margin-top: 14px;
+  border-top: 1px solid var(--hair);
+}
+.v2 .v2-mobile-menu.is-open { display: flex; }
+.v2 .v2-mobile-menu a {
+  font-family: var(--font-body);
+  font-size: 16px;
+  letter-spacing: -0.005em;
+  color: var(--ink);
+  text-decoration: none;
+  padding: 15px 4px;
+  border-bottom: 1px solid var(--hair);
+  transition: color .2s ease;
+}
+.v2 .v2-mobile-menu a:hover { color: var(--accent); }
+.v2 .v2-mobile-menu .v2-mobile-cta {
+  margin-top: 16px;
+  padding: 15px;
+  text-align: center;
+  background: var(--accent);
+  color: #fff;
+  border: 0;
+  border-radius: 4px;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+}
+.v2 .v2-mobile-menu .v2-mobile-cta:hover { color: #fff; opacity: 0.92; }
+
+@media (max-width: 920px) {
+  .v2 .v2-burger { display: flex; }
+}
+@media (min-width: 921px) {
+  .v2 .v2-mobile-menu { display: none !important; }
+}
+
+/* 34.4 — ПРОЦЕСС на мобиле: реальные премиум-карточки,
+   текст и буллиты строго внутри, фирменный золотой кант сверху. */
+@media (max-width: 600px) {
+  .v2 .v2-process-grid {
+    grid-template-columns: 1fr;
+    row-gap: 16px;
+    column-gap: 0;
+  }
+  .v2 .v2-process-step {
+    background: var(--paper);
+    border: 1px solid var(--hair-strong);
+    border-top: 2px solid var(--accent);
+    border-radius: 5px;
+    padding: 24px 22px;
+    box-shadow:
+      0 1px 2px rgba(26, 26, 26, 0.03),
+      0 14px 30px rgba(26, 26, 26, 0.045);
+  }
+  .v2 .v2-process-step::before { display: none; }
+}
+
+/* 34.5 — СРАВНЕНИЕ на мобиле: компактная «versus»-карточка.
+   Параметр-заголовок во всю ширину, две альтернативы рядом в 2 колонки,
+   ответ «С КазнаЭксперт» — крупным золотым блоком во всю ширину.
+   Это вдвое короче прежнего вертикального стека. */
+@media (max-width: 880px) {
+  .v2 .v2-compare-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 14px;
+    border-radius: 5px;
+    box-shadow:
+      0 1px 2px rgba(26, 26, 26, 0.03),
+      0 14px 30px rgba(26, 26, 26, 0.045);
+  }
+  .v2 .v2-compare-param {
+    grid-column: 1 / -1;
+    font-family: var(--font-display);
+    font-weight: 500;
+    font-size: 17px;
+    padding: 0 0 12px;
+    border-bottom: 1px solid var(--hair);
+    margin-bottom: 12px;
+  }
+  .v2 .v2-compare-cell {
+    padding: 0;
+    border-bottom: 0;
+    font-size: 13px;
+    line-height: 1.45;
+    color: var(--ink-soft);
+  }
+  .v2 .v2-compare-cell::before {
+    font-size: 9px;
+    margin-bottom: 3px;
+  }
+  .v2 .v2-compare-cell.is-us {
+    grid-column: 1 / -1;
+    margin-top: 14px;
+    padding: 13px 15px;
+    border-radius: 4px;
+    background: rgba(139, 111, 71, 0.09);
+    font-size: 15px;
+    color: var(--ink);
+  }
+  .v2 .v2-compare-cell.is-us::before { color: var(--accent); }
+  .v2 .v2-compare-cell.is-us strong { color: var(--ink); }
+}

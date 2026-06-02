@@ -391,9 +391,23 @@ header("Cache-Control: public, max-age=300, must-revalidate");
             <div class="v2-header-aside">
               <span class="v2-phone-label">С 2009 · Вся РФ</span>
               <a class="v2-phone" href="tel:+79818331010">+7 981 833-10-10</a>
+              <button class="v2-burger" id="v2Burger" type="button" aria-label="Открыть меню" aria-expanded="false" aria-controls="v2MobileMenu">
+                <span></span><span></span><span></span>
+              </button>
             </div>
 
           </div>
+
+          <!-- мобильное меню (раскрывается бургером) -->
+          <nav class="v2-mobile-menu" id="v2MobileMenu" aria-label="Мобильная навигация">
+            <a href="#tariffs">Тарифы</a>
+            <a href="#process">Как работаем</a>
+            <a href="#cases">Кейсы</a>
+            <a href="#aboutus">Эксперт</a>
+            <a href="#faq">FAQ</a>
+            <a class="v2-mobile-cta" href="#contacts">Получить расчёт</a>
+          </nav>
+
           <!-- линия-прогресс скролла под шапкой (поверх hairline-«мостика» для будущего суб-меню) -->
           <div class="v2-scroll-progress" id="scrollProgress" aria-hidden="true"></div>
         </header>
@@ -1170,15 +1184,27 @@ header("Cache-Control: public, max-age=300, must-revalidate");
       </div>
       </div><!-- /.v2 (единый wrapper всей страницы — sticky-хедер живёт здесь) -->
 
-      <!-- Плавающая кнопка мессенджеров (вместо чат-виджета) -->
-      <div class="messenger-float" role="complementary" aria-label="Связаться через мессенджер">
+      <!-- Плавающие кнопки связи — кастом под бренд (звонок · Telegram · MAX) -->
+      <div class="messenger-float" role="complementary" aria-label="Связаться">
         <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener noreferrer" class="messenger-btn messenger-btn--tg" aria-label="Написать в Telegram">
-          <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" width="26" height="26">
-            <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.248-1.97 9.28c-.145.658-.537.818-1.084.508l-3-2.21-1.447 1.394c-.16.16-.295.295-.605.295l.213-3.053 5.56-5.023c.242-.213-.054-.333-.373-.12L7.88 14.19l-2.97-.927c-.645-.204-.658-.645.136-.953l11.57-4.461c.537-.194 1.006.131.946.399z" fill="white"/>
-          </svg>
+          <span class="messenger-btn-label">Telegram</span>
+          <span class="messenger-btn-ico">
+            <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" width="24" height="24">
+              <path d="M9.78 18.65l.28-4.23 7.68-6.92c.34-.31-.07-.46-.52-.19L7.74 13.3 3.64 12c-.88-.25-.89-.86.2-1.3l15.97-6.16c.73-.27 1.43.18 1.15 1.3l-2.72 12.81c-.19.91-.74 1.13-1.5.71L12.6 16.3l-2 1.93c-.23.22-.42.42-.82.42z" fill="currentColor"/>
+            </svg>
+          </span>
         </a>
         <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener noreferrer" class="messenger-btn messenger-btn--max" aria-label="Написать в MAX">
-          <span class="messenger-btn-text">MAX</span>
+          <span class="messenger-btn-label">MAX</span>
+          <span class="messenger-btn-ico messenger-btn-text">MAX</span>
+        </a>
+        <a href="tel:+79818331010" class="messenger-btn messenger-btn--call" aria-label="Позвонить +7 981 833-10-10">
+          <span class="messenger-btn-label">Позвонить</span>
+          <span class="messenger-btn-ico">
+            <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" width="23" height="23">
+              <path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z" fill="currentColor"/>
+            </svg>
+          </span>
         </a>
       </div>
 
