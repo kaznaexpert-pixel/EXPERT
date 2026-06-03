@@ -75,9 +75,17 @@ $resp = @file_get_contents('https://api.dashamail.ru/?' . http_build_query([
     'merge_SOURCE' => $source,
 ]));
 
-if ($resp && strpos($resp, '"err_code":0') !== false) {
-    echo json_encode(['ok' => true]);
+// DashaMail err_code: 0 — добавлен, 7 — уже в базе (для пользователя это тоже
+// успех: он подписан). Остальные коды — реальная ошибка.
+$code = null;
+if ($resp) {
+    $decoded = json_decode($resp, true);
+    $code = $decoded['response']['msg']['err_code'] ?? null;
+}
+
+if ($code === 0 || $code === 7) {
+    echo json_encode(['ok' => true, 'already' => ($code === 7)]);
 } else {
     http_response_code(502);
-    echo json_encode(['error' => 'esp']);
+    echo json_encode(['error' => 'esp', 'code' => $code]);
 }
