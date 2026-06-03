@@ -24,7 +24,6 @@
 <!-- ╚════════════════════════════════════════════════════════════════════════════╝ -->
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"pillar", cluster:"goz"};</script>
-<link rel="preconnect" href="https://mc.yandex.ru" crossorigin>
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
 <link rel="preload" as="font" type="font/woff2" href="/fonts/playfairdisplay-normal-500-cyrillic.woff2" crossorigin>
 <style id="fonts-crit">/* критические @font-face (кириллица, выше первого экрана): H1 Playfair 500 + body Inter 400. Остальные начертания — из fonts.css (async). */
@@ -586,7 +585,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
   <article class="content" id="main">
     <div class="hero">
-      <img class="hero__crest hero__crest--light" src="/img/logogold.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" fetchpriority="high">
+      <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на 2026</span></div>
     <h1>Казначейское сопровождение ГОЗ в 2026 году: полный разбор по 275-ФЗ</h1>
