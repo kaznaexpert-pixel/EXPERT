@@ -239,6 +239,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
       "@id": "https://kaznaexpert.ru/#mikhaylov",
       "name": "Михайлов Ярослав",
       "jobTitle": "Основатель и эксперт по казначейскому сопровождению",
+      "image": "https://kaznaexpert.ru/img/mihailov-768.jpg",
       "description": "Эксперт по казначейскому сопровождению государственных контрактов по 44-ФЗ и 223-ФЗ. Опыт работы в системе Федерального Казначейства — 15+ лет. Основатель компании КазнаЭксперт. Знает требования УФК изнутри: причины отказов, нюансы КОСГУ и КВР, раздельный учёт, санкционирование платежей.",
       "knowsAbout": [
         "Казначейское сопровождение",
@@ -840,12 +841,25 @@ header("Cache-Control: public, max-age=300, must-revalidate");
             </div>
 
             <div class="v2-expert-split">
-              <div class="v2-expert-portrait v2-reveal" aria-hidden="true"></div>
+              <div class="v2-expert-portrait v2-expert-portrait--photo v2-reveal">
+                <picture>
+                  <source type="image/webp" srcset="/img/mihailov-480.webp 480w, /img/mihailov-768.webp 768w" sizes="(max-width:760px) 70vw, 360px">
+                  <img src="/img/mihailov-768.jpg" width="768" height="960" loading="lazy" decoding="async"
+                       alt="Ярослав Михайлов — главный эксперт КазнаЭксперт, казначейское сопровождение госконтрактов"
+                       style="width:100%;height:auto;border-radius:16px;display:block">
+                </picture>
+              </div>
               <div class="v2-expert-card v2-reveal" itemscope itemtype="https://schema.org/Person">
-                <div class="v2-expert-name" itemprop="name">Михайлов Ярослав</div>
-                <div class="v2-expert-role" itemprop="jobTitle">Основатель «КазнаЭксперт»</div>
+                <div class="v2-expert-name" itemprop="name">Ярослав Михайлов</div>
+                <div class="v2-expert-role" itemprop="jobTitle">Главный эксперт «КазнаЭксперт»</div>
                 <p class="v2-expert-bio" itemprop="description">15+ лет в системе Федерального Казначейства. Знаю требования УФК изнутри: причины отказов, санкционирование платежей, раздельный учёт по 44-ФЗ, 223-ФЗ и ГОЗ.</p>
                 <p class="v2-expert-bio">За проектами — 5 специалистов с опытом работы в органах Казначейства. Ведём несколько контрактов параллельно, отвечаем в тот же день и не зависим от одного человека.</p>
+                <div class="v2-expert-stats">
+                  <div class="v2-expert-stat"><b>7000+</b><span>контрактов сопровождено</span></div>
+                  <div class="v2-expert-stat"><b>90 млрд ₽</b><span>прошло через счета</span></div>
+                  <div class="v2-expert-stat"><b>15+ лет</b><span>внутри Казначейства</span></div>
+                </div>
+                <a href="#contacts" class="v2-expert-cta">Обсудить ваш контракт <span aria-hidden="true">→</span></a>
                 <div class="v2-expert-meta">Обновлено: июнь 2026</div>
               </div>
             </div>
