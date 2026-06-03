@@ -524,7 +524,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
             <a class="v2-brand" href="/" aria-label="КазнаЭксперт — на главную">
               <span class="v2-brand-mark">
-                <img src="/img/logogold.webp" alt="КазнаЭксперт" loading="eager" width="60" height="44">
+                <img src="/img/logo-header.webp" alt="КазнаЭксперт" loading="eager" width="60" height="44">
               </span>
             </a>
 
@@ -1029,7 +1029,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
             <div class="v2-footer-brand">
               <a href="/" class="v2-footer-logo" aria-label="КазнаЭксперт — на главную">
-                <img src="/img/logogold.webp" alt="КазнаЭксперт" width="180" height="54" loading="lazy">
+                <img src="/img/logo-footer.webp" alt="КазнаЭксперт" width="180" height="54" loading="lazy">
               </a>
               <p class="v2-footer-tagline">Полное казначейское сопровождение под ключ. Работа с УФК по всей России с 2009 года.</p>
             </div>
