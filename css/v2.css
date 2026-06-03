@@ -3314,70 +3314,85 @@
 /* ============================================================
  * §36. ВСТУПИТЕЛЬНОЕ СЛОВО — отдельный блок (личное обращение)
  * ============================================================ */
+/* Компактный блок-цитата: невысокий, с золотой кавычкой-акцентом слева */
 .v2 .v2-foreword {
   background: var(--bg-alt);
   border-top: 1px solid var(--hair);
   border-bottom: 1px solid var(--hair);
-  padding: clamp(56px, 7vw, 104px) 0;
+  padding: 40px 0;
 }
 .v2 .v2-foreword-inner {
   position: relative;
   max-width: 880px;
   margin: 0 auto;
-  text-align: center;
+  padding-left: 80px;
+  text-align: left;
 }
+/* большая кавычка вынесена из потока — не добавляет высоты блоку */
 .v2 .v2-foreword-mark {
-  display: block;
+  position: absolute;
+  left: 0;
+  top: -16px;
   font-family: var(--font-display);
-  font-size: 120px;
-  line-height: 0.7;
+  font-size: 94px;
+  line-height: 1;
   color: var(--accent);
-  opacity: 0.18;
-  margin-bottom: 8px;
+  opacity: 0.22;
+  pointer-events: none;
   user-select: none;
 }
 .v2 .v2-foreword-eyebrow {
   display: block;
   font-family: var(--font-body);
-  font-size: 11px;
+  font-size: 10.5px;
   font-weight: 500;
-  letter-spacing: 0.22em;
+  letter-spacing: 0.2em;
   text-transform: uppercase;
   color: var(--accent);
-  margin-bottom: 22px;
+  margin-bottom: 9px;
 }
 .v2 .v2-foreword-quote {
   font-family: var(--font-display);
   font-weight: 400;
   font-style: italic;
-  font-size: clamp(20px, 2.4vw, 28px);
+  font-size: clamp(16.5px, 1.5vw, 20px);
   line-height: 1.5;
-  letter-spacing: -0.01em;
+  letter-spacing: -0.005em;
   color: var(--ink);
-  margin: 0 0 32px;
+  margin: 0 0 13px;
 }
+/* подпись — в одну строку */
 .v2 .v2-foreword-sign {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 4px;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 11px;
 }
 .v2 .v2-foreword-name {
   font-family: var(--font-display);
   font-weight: 500;
-  font-size: 20px;
+  font-size: 16px;
   letter-spacing: -0.01em;
   color: var(--ink);
+}
+.v2 .v2-foreword-name::after {
+  content: "·";
+  margin-left: 11px;
+  color: var(--mute-soft);
 }
 .v2 .v2-foreword-role {
   font-family: var(--font-body);
   font-size: 11px;
   font-weight: 500;
-  letter-spacing: 0.16em;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--mute);
 }
 @media (max-width: 600px) {
-  .v2 .v2-foreword-mark { font-size: 88px; }
-  .v2 .v2-foreword-quote { font-size: 19px; }
+  .v2 .v2-foreword { padding: 28px 0; }
+  .v2 .v2-foreword-inner { padding-left: 54px; }
+  .v2 .v2-foreword-mark { font-size: 68px; top: -8px; }
+  .v2 .v2-foreword-quote { font-size: 16px; }
+  .v2 .v2-foreword-name::after { display: none; }
+  .v2 .v2-foreword-sign { gap: 2px 0; }
 }
