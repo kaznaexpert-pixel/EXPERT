@@ -28,13 +28,13 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
 $CONFIG = [
     // Надёжный локальный ящик на этом сервере (Roundcube). From = он же для приёма Exim.
     'email_local'   => 'manager@kaznaexpert.ru',
-    // Копия на внешний адрес отключена: пересылка ПДн на Gmail (США) = трансграничная
-    // передача, что противоречит Политике (п. 9.1). Все заявки идут в локальный ящик РФ.
-    'email_copy'    => '',
+    // Копия уведомления — на рабочий РФ-ящик оператора (домен .ru, без
+    // трансграничной передачи: 152-ФЗ соблюдён, в отличие от Gmail/США).
+    'email_copy'    => 'lead@kazna-gov.ru',
     'email_from'    => 'manager@kaznaexpert.ru',
     'log_path'      => '/home/y98451/leads.log',
     'data_dir'      => '/home/y98451/data/leads',
-    'rate_limit_window' => 60,
+    'rate_limit_window' => 15,
 ];
 
 // === Получение JSON ===
