@@ -1,3 +1,4 @@
+/* font-display: swap applied to all @font-face (perf, CLS). */
 /* Self-hosted fonts (152-ФЗ: без трансграничной передачи в Google).
    Источник — Google Fonts, локализовано.
    Inter (sans): latin/latin-ext/cyrillic/cyrillic-ext.
