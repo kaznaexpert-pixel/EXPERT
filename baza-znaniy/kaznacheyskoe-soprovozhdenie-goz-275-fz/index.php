@@ -1287,7 +1287,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 })();
 </script>
 
-<script src="/js/cookie-consent.js?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/js/cookie-consent.js') ?>"></script>
+<script defer src="/js/cookie-consent.js?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/js/cookie-consent.js') ?>"></script>
 <script>
 /* v2-header: бургер + sticky-shrink (без main.js, чтобы не дублировать цели Метрики) */
 (function(){
