@@ -505,6 +505,12 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                   </button>
                 </form>
 
+                <ul class="v2-hero-action-points">
+                  <li>Бесплатный анализ контракта перед стартом</li>
+                  <li>Стоимость фиксируем в договоре</li>
+                  <li>Сопровождаем дистанционно — по всей России</li>
+                </ul>
+
                 <div class="v2-hero-alt">
                   Или напишите — ответим за 5 минут
                   <div class="v2-hero-alt-links">
