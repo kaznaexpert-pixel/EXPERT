@@ -460,12 +460,6 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                   </div>
                 </div>
 
-                <div class="v2-hero-expert v2-reveal">
-                  <div class="v2-expert-name">Михайлов Ярослав</div>
-                  <div class="v2-expert-role">Эксперт · 15 лет в Казначействе</div>
-                  <p class="v2-expert-quote">«Знаем УФК изнутри: причины отказов, санкционирование платежей, раздельный учёт. За 15 лет — без сюрпризов».</p>
-                </div>
-
               </div>
 
               <!-- RIGHT: action card -->
@@ -505,11 +499,14 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                   </button>
                 </form>
 
-                <ul class="v2-hero-action-points">
-                  <li>Бесплатный анализ контракта перед стартом</li>
-                  <li>Стоимость фиксируем в договоре</li>
-                  <li>Сопровождаем дистанционно — по всей России</li>
-                </ul>
+                <div class="v2-hero-welcome">
+                  <span class="v2-hero-welcome-eyebrow">Приветственное слово</span>
+                  <p class="v2-hero-welcome-text">Здравствуйте! Я лично разберу ваш контракт и возьму работу с УФК на себя — от резерва счёта до закрытия. За 15 лет в Казначействе знаю причины отказов и санкционирование платежей изнутри. Без сюрпризов и срыва сроков.</p>
+                  <div class="v2-hero-welcome-sign">
+                    <span class="v2-hero-welcome-name">Михайлов Ярослав</span>
+                    <span class="v2-hero-welcome-role">Эксперт · 15 лет в Казначействе</span>
+                  </div>
+                </div>
 
                 <div class="v2-hero-alt">
                   Или напишите — ответим за 5 минут
