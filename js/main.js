@@ -153,7 +153,7 @@ if (contactsform) {
         })
         .then(function(response) {
             if (response.ok) {
-                try { if (typeof ym === 'function') ym(94305898, 'reachGoal', 'LEAD_CONTACTS'); } catch (_) {}
+                try { if (typeof ym === 'function') ym(94305898, 'reachGoal', 'lead', { source: 'contacts' }); } catch (_) {}
                 kzToast('Заявка принята', 'Перезвоним в течение рабочего дня.', 'success');
                 contactsform.reset();
                 if (submitBtn) submitBtn.value = 'Получить расчёт';
@@ -242,7 +242,7 @@ if (contactsform) {
       });
 
       if (res.ok) {
-        try { if (typeof ym === 'function') ym(94305898, 'reachGoal', 'LEAD_HERO'); } catch (_) {}
+        try { if (typeof ym === 'function') ym(94305898, 'reachGoal', 'lead', { source: 'hero' }); } catch (_) {}
         showThanks(phone);
       } else if (res.status === 429) {
         // rate-limit: заявка уже принята недавно — показываем «спасибо», не ошибку
@@ -323,4 +323,57 @@ if (contactsform) {
 
   window.addEventListener('scroll', onScroll, { passive: true });
   update();
+})();
+
+// ============================================================
+// Метрика: единые цели вовлечённости и конверсии (только Яндекс)
+// Уважает cookie-consent (при отказе ym отключён → вызовы no-op).
+// ============================================================
+(function() {
+  var YM = 94305898;
+  function g(name, params) {
+    try { if (typeof ym === 'function') ym(YM, 'reachGoal', name, params || undefined); } catch (_) {}
+  }
+  document.addEventListener('click', function(e) {
+    var a = e.target.closest && e.target.closest('a, button');
+    if (!a) return;
+    var h = a.getAttribute('href') || '';
+    if (h.indexOf('tel:') === 0) g('click_phone');
+    else if (/wa\.me\//.test(h)) g('click_whatsapp');
+    else if (/max\.ru\//.test(h)) g('click_max');
+    else if (/t\.me\//.test(h) && h.indexOf('/share') < 0) g('click_telegram');
+    else if (h.indexOf('mailto:') === 0) g('click_email');
+    else if (a.classList.contains('cta--refused')) g('cta_refused');
+    else if (a.classList.contains('v2-rescue-cta-btn')) g('rescue_cta');
+    else if (a.dataset && a.dataset.tariff) g('tariff_click', { tariff: a.dataset.tariff });
+  }, true);
+  ['hero-form', 'contacts-form'].forEach(function(id) {
+    var f = document.getElementById(id);
+    if (!f) return;
+    f.addEventListener('focusin', function() {
+      if (!f.__fs) { f.__fs = 1; g('form_start'); }
+    });
+  });
+  var fired = {}, maxPct = 0, active = 0, last = Date.now();
+  var depth = [[50, 'read_50'], [75, 'read_75'], [100, 'read_100']];
+  var times = [[60, 'time_60s'], [120, 'time_120s']];
+  function once(name) { if (fired[name]) return; fired[name] = 1; g(name); }
+  function onScrollDepth() {
+    var de = document.documentElement;
+    var max = de.scrollHeight - de.clientHeight;
+    var sc = de.scrollTop || document.body.scrollTop;
+    var pct = max > 0 ? Math.min(100, Math.round(sc / max * 100)) : 0;
+    if (pct > maxPct) maxPct = pct;
+    depth.forEach(function(d) { if (maxPct >= d[0]) once(d[1]); });
+  }
+  window.addEventListener('scroll', onScrollDepth, { passive: true });
+  onScrollDepth();
+  document.addEventListener('visibilitychange', function() {
+    if (document.hidden) active += Date.now() - last; else last = Date.now();
+  });
+  setInterval(function() {
+    if (!document.hidden) { active += Date.now() - last; last = Date.now(); }
+    var sec = Math.round(active / 1000);
+    times.forEach(function(t) { if (sec >= t[0]) once(t[1]); });
+  }, 5000);
 })();

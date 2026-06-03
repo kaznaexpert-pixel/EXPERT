@@ -562,7 +562,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                 <div class="v2-tariff-price">
                   <div class="v2-tariff-price-num">25 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div>
                   <div class="v2-tariff-price-note">Разово · к дате тендера</div>
-                  <a href="#contacts" class="v2-tariff-link">Обсудить контракт <span aria-hidden="true">→</span></a>
+                  <a href="#contacts" class="v2-tariff-link" data-tariff="rezerv">Обсудить контракт <span aria-hidden="true">→</span></a>
                 </div>
               </article>
 
@@ -574,7 +574,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                 <div class="v2-tariff-price">
                   <div class="v2-tariff-price-num">39 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div>
                   <div class="v2-tariff-price-note">Разово · 2 рабочих дня</div>
-                  <a href="#contacts" class="v2-tariff-link">Обсудить контракт <span aria-hidden="true">→</span></a>
+                  <a href="#contacts" class="v2-tariff-link" data-tariff="otkrytie">Обсудить контракт <span aria-hidden="true">→</span></a>
                 </div>
               </article>
 
@@ -586,7 +586,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                 <div class="v2-tariff-price">
                   <div class="v2-tariff-price-num">59 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div>
                   <div class="v2-tariff-price-note">Разово · до закрытия контракта</div>
-                  <a href="#contacts" class="v2-tariff-link">Обсудить контракт <span aria-hidden="true">→</span></a>
+                  <a href="#contacts" class="v2-tariff-link" data-tariff="postoplata">Обсудить контракт <span aria-hidden="true">→</span></a>
                 </div>
               </article>
 
@@ -601,7 +601,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                 <div class="v2-tariff-price">
                   <div class="v2-tariff-price-num">79 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div>
                   <div class="v2-tariff-price-note">Без лимитов на операции</div>
-                  <a href="#contacts" class="v2-tariff-link">Обсудить контракт <span aria-hidden="true">→</span></a>
+                  <a href="#contacts" class="v2-tariff-link" data-tariff="avans">Обсудить контракт <span aria-hidden="true">→</span></a>
                 </div>
               </article>
 
