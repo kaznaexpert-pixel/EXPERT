@@ -524,7 +524,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
             <a class="v2-brand" href="/" aria-label="КазнаЭксперт — на главную">
               <span class="v2-brand-mark">
-                <img src="/img/logo-header.webp" alt="КазнаЭксперт" loading="eager" width="60" height="44">
+                <img src="/img/logo-header.webp" srcset="/img/logo-header-1x.webp 1x, /img/logo-header.webp 2x" alt="КазнаЭксперт" loading="eager" width="60" height="44">
               </span>
             </a>
 
