@@ -3042,6 +3042,8 @@
   color: var(--ink);
   margin: 0 0 16px;
   text-wrap: balance;
+  overflow-wrap: break-word;
+  hyphens: auto;
 }
 
 .v2 .v2-rescue-title em {

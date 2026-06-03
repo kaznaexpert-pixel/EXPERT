@@ -646,7 +646,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
 
               <div class="v2-rescue-text">
                 <div class="v2-rescue-eyebrow">Особый случай</div>
-                <h2 class="v2-rescue-title" id="rescue-title">Подрядчик по казначейскому<br class="v2-rescue-br">сопровождению <em>подвёл?</em></h2>
+                <h2 class="v2-rescue-title" id="rescue-title">Подрядчик по казначейскому <br class="v2-rescue-br">сопровождению <em>подвёл?</em></h2>
                 <p class="v2-rescue-lede">Уже работаете с другим консультантом по казначейскому сопровождению, но казначейство возвращает платежи, документы в беспорядке, приближается проверка? Берёмся за исправление чужих ошибок и доводим контракт до закрытия.</p>
 
                 <ul class="v2-rescue-scenarios">
