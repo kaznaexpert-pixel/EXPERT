@@ -1,0 +1,1182 @@
+<?php header("Cache-Control: public, max-age=300, must-revalidate"); ?>
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Казначейское сопровождение ГОЗ в 2026 году: 275-ФЗ, счёт, раздельный учёт, штрафы | КазнаЭксперт</title>
+<meta name="description" content="Казначейское сопровождение ГОЗ в 2026: кто обязан, порог 3 млн ₽, лицевой счёт в ТОФК, раздельный учёт по 275-ФЗ, штрафы КоАП. Экспертный разбор со ссылками на НПА.">
+<meta name="author" content="Ярослав Михайлов">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#141310" media="(prefers-color-scheme: dark)">
+<!-- PROD: canonical и og:url ОБЯЗАТЕЛЬНО менять под URL каждой статьи -->
+<link rel="canonical" href="https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+
+<!-- ╔═ ЯНДЕКС.МЕТРИКА (счётчик 94305898) — в проде вставить В ОБЩИЙ HEAD САЙТА, один раз ═╗ -->
+<script>window.YM_ID = 94305898;</script>
+<!-- Метрика 94305898 грузится из /js/cookie-consent.js (по согласию, единый счётчик сайта) -->
+<!-- ╚════════════════════════════════════════════════════════════════════════════╝ -->
+<!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
+<script>window.YM_PARAMS = {page_type:"pillar", cluster:"goz"};</script>
+<link rel="preconnect" href="https://mc.yandex.ru" crossorigin>
+<link rel="stylesheet" href="/css/fonts.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/fonts.css') ?>">
+<link rel="stylesheet" href="/css/v2.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/v2.css') ?>">
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="ru_RU">
+<meta property="og:site_name" content="КазнаЭксперт">
+<meta property="og:title" content="Казначейское сопровождение ГОЗ в 2026 году: полный разбор по 275-ФЗ">
+<meta property="og:description" content="Кто обязан, порог 3 млн ₽, отдельный и лицевой счёт, раздельный учёт, штрафы КоАП, отличие от банковского сопровождения.">
+<meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
+<meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-06-03T09:00:00+03:00">
+<meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
+<meta property="article:section" content="База знаний">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Казначейское сопровождение ГОЗ в 2026 году: разбор по 275-ФЗ">
+<meta name="twitter:description" content="Кто обязан, порог 3 млн ₽, счёт, раздельный учёт, штрафы. Со ссылками на НПА.">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+
+<!-- Schema: Article -->
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org","@type":"Article",
+  "@id":"https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/#article",
+  "headline":"Казначейское сопровождение ГОЗ в 2026 году: порядок по 275-ФЗ",
+  "description":"Кто обязан, порог, отдельный и лицевой счёт, раздельный учёт, расширенное КС, штрафы, отличие от банковского сопровождения.",
+  "author":{"@type":"Person","@id":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person","name":"Михайлов Ярослав","jobTitle":"Главный эксперт по казначейскому сопровождению","worksFor":{"@id":"https://kaznaexpert.ru/#organization"}},
+  "publisher":{"@type":"ProfessionalService","@id":"https://kaznaexpert.ru/#organization","name":"КазнаЭксперт"},
+  "datePublished":"2026-06-03","dateModified":"2026-06-03",
+  "mainEntityOfPage":"https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/",
+  "about":["казначейское сопровождение ГОЗ","275-ФЗ","раздельный учёт гособоронзаказа","отдельный счёт ГОЗ","расширенное казначейское сопровождение"],
+  "citation":["ФЗ № 275-ФЗ от 29.12.2012","ФЗ № 426-ФЗ от 28.11.2025, ст. 5","БК РФ, ст. 242.23–242.27","ФЗ № 406-ФЗ от 04.11.2025","ст. 15.37.1, 15.49 КоАП РФ"],
+  "speakable":{"@type":"SpeakableSpecification","cssSelector":[".tldr",".answer",".keyfacts"]},"inLanguage":"ru-RU"
+}
+</script>
+<!-- Schema: HowTo -->
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org","@type":"HowTo",
+  "name":"Как начать работу по контракту ГОЗ с казначейским сопровождением",
+  "totalTime":"P3D",
+  "step":[
+    {"@type":"HowToStep","position":1,"name":"Проверка контракта","text":"Проверить наличие казначейской оговорки, корректность ИГК и условия об авансировании."},
+    {"@type":"HowToStep","position":2,"name":"Подключение к ГИИС «Электронный бюджет»","text":"Оформить квалифицированную электронную подпись, настроить рабочее место, подать заявку на подключение."},
+    {"@type":"HowToStep","position":3,"name":"Открытие лицевого счёта в ТОФК","text":"Подготовить пакет документов, включиться в сводный реестр, открыть лицевой счёт с кодом 71."},
+    {"@type":"HowToStep","position":4,"name":"Утверждение сведений об операциях","text":"Подать и согласовать сведения с кодами направлений расходования по контракту."},
+    {"@type":"HowToStep","position":5,"name":"Проведение платежей","text":"Направлять платёжные документы с подтверждающими основаниями и проходить санкционирование в ТОФК."}
+  ]
+}
+</script>
+<!-- Schema: FAQPage -->
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+  {"@type":"Question","name":"С какой суммы казначейское сопровождение ГОЗ обязательно в 2026 году?","acceptedAnswer":{"@type":"Answer","text":"Расчёты по госконтрактам ГОЗ и контрактам в их исполнение подлежат КС при сумме свыше 3 млн рублей (п. 8 ч. 2 ст. 5 ФЗ № 426-ФЗ на 2026 год)."}},
+  {"@type":"Question","name":"Чем казначейское сопровождение ГОЗ отличается от банковского?","acceptedAnswer":{"@type":"Answer","text":"При банковском сопровождении расчёты идут через отдельный счёт в уполномоченном банке, при казначейском — через лицевой счёт в ТОФК. Режим определяется условиями контракта и решением госзаказчика."}},
+  {"@type":"Question","name":"Что такое ИГК и где он используется?","acceptedAnswer":{"@type":"Answer","text":"ИГК — 25-значный идентификатор государственного контракта, присваивается заказчиком. Под каждый ИГК открывается отдельный счёт, код указывается во всех платёжных и распорядительных документах."}},
+  {"@type":"Question","name":"Какой штраф за нарушение раздельного учёта по ГОЗ в 2026 году?","acceptedAnswer":{"@type":"Answer","text":"По ст. 15.37.1 КоАП РФ с 01.01.2026: должностным лицам 10 000–50 000 ₽, ИП и юрлицам — 1–5% цены контракта, но не более 200 000 ₽ для ИП и 500 000 ₽ для юрлиц."}},
+  {"@type":"Question","name":"Кто обязан вести раздельный учёт по ГОЗ?","acceptedAnswer":{"@type":"Answer","text":"Раздельный учёт результатов финансово-хозяйственной деятельности по каждому контракту обязаны вести все исполнители и соисполнители ГОЗ, чьи расчёты подлежат казначейскому сопровождению."}},
+  {"@type":"Question","name":"Что такое расширенное казначейское сопровождение?","acceptedAnswer":{"@type":"Answer","text":"Это режим (ст. 242.24 БК РФ) для крупных контрактов, при котором казначейство дополнительно проверяет соответствие фактических затрат данным раздельного учёта и контролирует структуру цены контракта."}},
+  {"@type":"Question","name":"Нужно ли казначейское сопровождение субподрядчику по ГОЗ?","acceptedAnswer":{"@type":"Answer","text":"Да, если договор с соисполнителем в рамках сопровождаемого контракта заключён на сумму свыше 3 млн рублей — такие расчёты подлежат казначейскому сопровождению (п. 9 ч. 2 ст. 5 ФЗ № 426-ФЗ)."}},
+  {"@type":"Question","name":"Сколько открывается лицевой счёт в ТОФК?","acceptedAnswer":{"@type":"Answer","text":"Раздел на лицевом счёте по контракту территориальный орган казначейства открывает не позднее следующего рабочего дня после получения контракта; основное время занимает подготовка документов и подключение к ГИИС «Электронный бюджет»."}},
+  {"@type":"Question","name":"Что такое казначейская оговорка в контракте ГОЗ?","acceptedAnswer":{"@type":"Answer","text":"Условие контракта о том, что расчёты по нему проводятся через лицевой счёт в территориальном органе казначейства с применением казначейского сопровождения. Её наличие нужно проверять до подписания контракта."}},
+  {"@type":"Question","name":"Можно ли перевести деньги с казначейского счёта на расчётный?","acceptedAnswer":{"@type":"Answer","text":"Свободно распоряжаться средствами нельзя. Перечисление с лицевого счёта в ТОФК на расчётные счета в банках возможно только в установленных случаях и порядке (Постановление Правительства РФ № 1752) и после санкционирования операции."}},
+  {"@type":"Question","name":"Какие документы нужны для открытия лицевого счёта?","acceptedAnswer":{"@type":"Answer","text":"Контракт или выписка из него, заявление на открытие счёта, карточка образцов подписей, документы по электронной подписи и согласия на обработку данных. Подача — через ГИИС «Электронный бюджет»."}},
+  {"@type":"Question","name":"Нужна ли отдельная электронная подпись для казначейского сопровождения?","acceptedAnswer":{"@type":"Answer","text":"Да, для работы в ГИИС «Электронный бюджет» необходима действующая квалифицированная электронная подпись на уполномоченных сотрудников."}},
+  {"@type":"Question","name":"Что делать, если казначейство вернуло платёж по ГОЗ?","acceptedAnswer":{"@type":"Answer","text":"Установить причину отказа (чаще всего код направления расходования, отсутствие ИГК или неполный пакет документов), исправить её и повторно направить платёж. При систематических возвратах целесообразен аудит сопровождения и раздельного учёта."}}
+]}
+</script>
+<!-- Schema: BreadcrumbList -->
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+  {"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},
+  {"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},
+  {"@type":"ListItem","position":3,"name":"Казначейское сопровождение ГОЗ (275-ФЗ)","item":"https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/"}
+]}
+</script>
+<!-- Schema: DefinedTermSet (глоссарий — для entity-распознавания AI) -->
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org","@type":"DefinedTermSet","name":"Глоссарий: казначейское сопровождение ГОЗ",
+  "hasDefinedTerm":[
+    {"@type":"DefinedTerm","name":"ГОЗ","description":"Государственный оборонный заказ (Федеральный закон № 275-ФЗ)."},
+    {"@type":"DefinedTerm","name":"ТОФК","description":"Территориальный орган Федерального казначейства."},
+    {"@type":"DefinedTerm","name":"ИГК","description":"Идентификатор государственного контракта, 25 знаков, присваивается заказчиком."},
+    {"@type":"DefinedTerm","name":"ОБС","description":"Отдельный банковский счёт для расчётов по ГОЗ в уполномоченном банке."},
+    {"@type":"DefinedTerm","name":"Лицевой счёт 71","description":"Единый лицевой счёт в ТОФК для операций с казначейским сопровождением."},
+    {"@type":"DefinedTerm","name":"Расширенное казначейское сопровождение","description":"Режим с контролем структуры цены контракта по ст. 242.24 БК РФ."},
+    {"@type":"DefinedTerm","name":"Санкционирование","description":"Проверка казначейством операции на соответствие условиям контракта перед платежом."}
+  ]
+}
+</script>
+
+<style>
+:root{
+  --cream:#F4F1EB; --bg:#F4F1EB; --ink:#1A1A1A; --ink-soft:#56524b; --ink-mute:#8a8170;
+  --sepia:#8B6F47; --sepia-d:#6f5836; --line:#e4ddd0; --card:#fffdf8; --soft:#fbf8f1; --paper:#FAF7F0;
+  --header:rgba(244,241,235,.8); --th:#efe7d8; --note:#f6efe2; --dark:#1A1A1A; --dark-tx:#efe9dd;
+  --toc-w:230px; --rail-w:312px; --maxw:1240px;
+  --font-display:'Playfair Display',Georgia,serif; --font-body:'Inter',system-ui,-apple-system,sans-serif;
+}
+[data-theme="dark"]{
+  --bg:#141310; --ink:#ece7da; --ink-soft:#b4aea1; --ink-mute:#8a8579;
+  --sepia:#c8a574; --sepia-d:#b08e5c; --line:#2c2920; --card:#1c1a15; --soft:#1a1813; --paper:#1c1a15;
+  --header:rgba(20,19,16,.82); --th:#272318; --note:#211e16; --dark:#0f0e0b; --dark-tx:#ece7da;
+}
+/* grain texture overlay (тонкая, для тёмных блоков) */
+.grain{position:relative}
+.grain::after{content:"";position:absolute;inset:0;pointer-events:none;border-radius:inherit;opacity:.05;mix-blend-mode:overlay;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--ink);font-family:var(--font-body);line-height:1.66;font-size:clamp(16.5px,.35vw + 16px,18px);-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;transition:background .3s,color .3s}
+a{color:var(--sepia)}
+::selection{background:rgba(139,111,71,.22);color:var(--ink)}
+.skip{position:absolute;left:-9999px}
+.skip:focus{left:16px;top:16px;background:var(--ink);color:#fff;padding:10px 16px;border-radius:8px;z-index:200}
+
+/* reading progress */
+.progress{position:fixed;top:0;left:0;height:3px;width:0;background:linear-gradient(90deg,var(--sepia),#c8a06a);z-index:120;transition:width .1s linear}
+
+/* header */
+.hd{position:sticky;top:0;z-index:90;background:var(--header);backdrop-filter:blur(18px) saturate(150%);border-bottom:1px solid var(--line)}
+.hd__in{max-width:var(--maxw);margin:0 auto;display:flex;align-items:center;justify-content:space-between;padding:13px 24px;gap:20px}
+.hd__brand{display:flex;align-items:center;gap:12px;text-decoration:none;color:var(--ink)}
+.hd__crest{height:46px;width:auto;display:block}
+.hd__crest--dark{display:none}
+[data-theme="dark"] .hd__crest--light{display:none}
+[data-theme="dark"] .hd__crest--dark{display:block}
+.hd__wordmark{display:flex;flex-direction:column}
+.hd__name{font-family:var(--font-display);font-weight:600;font-size:22px;letter-spacing:-.005em;line-height:1.05}
+.hd__tag{font-size:10px;color:var(--sepia);letter-spacing:.07em;text-transform:uppercase;margin-top:1px}
+@media(max-width:560px){.hd__wordmark{display:none}}
+.hd__nav{display:flex;gap:26px;align-items:center}
+.hd__nav a{color:var(--ink);text-decoration:none;font-size:14.5px;position:relative}
+.hd__nav a::after{content:"";position:absolute;left:0;bottom:-4px;width:0;height:1.5px;background:var(--sepia);transition:width .25s}
+.hd__nav a:hover::after{width:100%}
+.hd__tools{display:flex;align-items:center;gap:16px}
+.theme-btn{display:flex;align-items:center;justify-content:center;width:38px;height:38px;border-radius:50%;border:1px solid var(--line);background:transparent;color:var(--ink);cursor:pointer;transition:border-color .18s,color .18s}
+.theme-btn:hover{color:var(--sepia);border-color:var(--sepia)}
+.theme-btn .ic-moon{display:none}
+[data-theme="dark"] .theme-btn .ic-sun{display:none}
+[data-theme="dark"] .theme-btn .ic-moon{display:block}
+.totop{position:fixed;right:24px;bottom:24px;width:48px;height:48px;border-radius:50%;background:var(--dark);color:#fff;border:none;display:flex;align-items:center;justify-content:center;cursor:pointer;opacity:0;transform:translateY(12px) scale(.9);pointer-events:none;transition:opacity .3s,transform .3s,background .2s;z-index:110;box-shadow:0 10px 28px -10px rgba(0,0,0,.5)}
+.totop.on{opacity:1;transform:none;pointer-events:auto}
+.totop:hover{background:var(--sepia)}
+.totop__ring{position:absolute;inset:0;transform:rotate(-90deg)}
+.totop__bg{fill:none;stroke:rgba(255,255,255,.16);stroke-width:2.5}
+.totop__fg{fill:none;stroke:var(--sepia);stroke-width:2.5;stroke-linecap:round;stroke-dasharray:131.95;stroke-dashoffset:131.95;transition:stroke-dashoffset .12s linear}
+.totop:hover .totop__fg{stroke:#fff}
+.totop__arrow{position:relative;z-index:1;transition:opacity .18s}
+.totop__pct{position:absolute;inset:0;display:none;align-items:center;justify-content:center;font-size:11px;font-weight:600;font-variant-numeric:tabular-nums;z-index:2}
+.totop:hover .totop__arrow{opacity:0}
+.totop:hover .totop__pct{display:flex}
+@media(max-width:640px){.totop{right:14px;bottom:80px}}
+.hd__phone{text-align:right;text-decoration:none;color:var(--ink)}
+.hd__phone b{display:block;font-size:15px}
+.hd__phone span{font-size:11px;color:var(--ink-mute)}
+@media(max-width:900px){.hd__nav{display:none}}
+
+/* layout */
+.layout{max-width:var(--maxw);margin:0 auto;padding:34px 24px 70px;display:grid;grid-template-columns:var(--toc-w) minmax(0,1fr) var(--rail-w);gap:46px;align-items:start}
+.crumbs{grid-column:1/-1;font-size:13px;color:var(--sepia);margin-bottom:4px}
+.crumbs a{color:var(--sepia);text-decoration:none}
+
+/* TOC */
+.toc{position:sticky;top:84px;font-size:13.5px;max-height:calc(100vh - 110px);overflow:auto;padding-right:6px}
+.toc__label{font-size:11px;text-transform:uppercase;letter-spacing:.09em;color:var(--sepia);font-weight:600;margin-bottom:14px}
+.toc__list{list-style:none;border-left:1px solid var(--line)}
+.toc__list a{display:block;padding:7px 0 7px 15px;margin-left:-1px;border-left:2px solid transparent;color:var(--ink-mute);text-decoration:none;line-height:1.35;transition:color .2s,border-color .2s}
+.toc__list a:hover{color:var(--ink)}
+.toc__list a.active{color:var(--sepia);border-left-color:var(--sepia);font-weight:500}
+
+/* content */
+.content{min-width:0}
+.eyebrow{font-size:12px;text-transform:uppercase;letter-spacing:.12em;color:var(--sepia);font-weight:600;margin-bottom:12px;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.fresh{font-size:10.5px;letter-spacing:.04em;color:var(--sepia);background:rgba(139,111,71,.10);border:1px solid rgba(139,111,71,.25);border-radius:20px;padding:3px 10px;text-transform:none;font-weight:500;display:inline-flex;align-items:center;gap:6px}
+.fresh::before{content:"";width:6px;height:6px;border-radius:50%;background:#3aa76d;box-shadow:0 0 0 3px rgba(58,167,109,.18)}
+h1{font-family:var(--font-display);font-weight:500;font-size:clamp(2rem,3.4vw + 1rem,2.95rem);line-height:1.08;letter-spacing:-.018em;margin-bottom:14px}
+.byline{display:flex;align-items:center;gap:11px;font-size:13.5px;color:var(--ink-mute);margin-bottom:28px;flex-wrap:wrap}
+.byline a{color:var(--sepia);text-decoration:none}
+.byline .av{width:34px;height:34px;border-radius:50%;background:linear-gradient(135deg,var(--sepia),var(--sepia-d));color:#fff;display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:600;letter-spacing:.02em}
+.byline .dot{color:var(--line)}
+.tldr{background:linear-gradient(180deg,var(--card),var(--paper));border:1px solid var(--line);border-left:3px solid var(--sepia);border-radius:12px;padding:22px 24px;margin:0 0 30px;font-size:18px;line-height:1.6}
+.tldr b{font-weight:600}
+.lead-p::first-letter{font-family:var(--font-display);font-weight:500;float:left;font-size:62px;line-height:.82;padding:6px 12px 0 0;color:var(--sepia)}
+
+/* key facts */
+.keyfacts{background:var(--dark);color:var(--dark-tx);border-radius:14px;padding:24px 26px;margin:0 0 36px}
+.keyfacts h2{font-family:var(--font-display);color:#fff;font-size:17px;font-weight:500;margin:0 0 14px;letter-spacing:.01em}
+.keyfacts__grid{display:grid;grid-template-columns:1fr 1fr;gap:14px 26px}
+.kf{display:flex;gap:12px;align-items:flex-start}
+.kf__n{font-family:var(--font-display);font-size:26px;color:#d8bd92;line-height:1;flex-shrink:0;min-width:96px}
+.kf__t{font-size:13px;color:#b9b3a7;line-height:1.4}
+.kf__t b{color:#fff;font-weight:500}
+@media(max-width:560px){.keyfacts__grid{grid-template-columns:1fr}}
+
+h2{font-family:var(--font-display);font-weight:500;font-size:clamp(1.55rem,1.6vw + 1rem,1.9rem);line-height:1.16;margin:50px 0 8px;letter-spacing:-.012em;scroll-margin-top:84px;position:relative}
+h2[id]:hover .anchor{opacity:1}
+.anchor{position:absolute;left:-26px;top:.18em;opacity:0;color:var(--sepia);text-decoration:none;font-size:.7em;transition:opacity .18s;cursor:pointer}
+@media(max-width:1080px){.anchor{display:none}}
+h3{font-weight:600;font-size:19.5px;margin:30px 0 8px}
+.answer{margin:10px 0 14px}
+p{margin:13px 0}
+/* выравнивание основного текста по ширине блока + переносы (против «рек» и дыр) */
+.content .answer,.content .answer p,.content p.answer,.content .lead-p,.tldr{text-align:justify;text-justify:inter-word;-webkit-hyphens:auto;hyphens:auto;hyphenate-limit-chars:6 3 2}
+@media(max-width:560px){.content .answer,.content .answer p,.content p.answer,.content .lead-p,.tldr{text-align:left}}
+ul,ol{margin:13px 0 13px 22px}
+li{margin:7px 0}
+strong,b{font-weight:600}
+
+/* tables — premium editorial */
+table{display:block;overflow-x:auto;width:100%;border-collapse:collapse;margin:26px 0;font-size:15.5px;border-top:2px solid var(--sepia);-webkit-overflow-scrolling:touch}
+caption{text-align:left;font-size:12px;letter-spacing:.02em;color:var(--ink-mute);margin-bottom:12px;font-style:italic}
+th,td{padding:15px 18px;text-align:left;vertical-align:top;min-width:130px}
+th{font-size:11px;text-transform:uppercase;letter-spacing:.09em;color:var(--sepia);font-weight:600;border-bottom:1px solid var(--line);white-space:nowrap}
+td{border-bottom:1px solid var(--line);color:var(--ink-soft)}
+td:first-child{font-weight:500;color:var(--ink)}
+tr:last-child td{border-bottom:none}
+tr{transition:background .15s}
+tr:hover td{background:var(--soft)}
+@media(max-width:640px){th,td{padding:12px 13px;font-size:14.5px}}
+
+.note{background:var(--note);border:1px solid var(--line);border-left:3px solid var(--sepia);border-radius:8px;padding:15px 18px;margin:20px 0;font-size:15.5px;color:var(--ink-soft)}
+.note b{color:var(--ink)}
+
+/* expert quote (speakable, premium) */
+.quote{position:relative;margin:46px 0 38px;padding:6px 0 6px 30px;border-left:2px solid var(--sepia);font-family:var(--font-display);font-size:clamp(1.2rem,1vw+1rem,1.45rem);line-height:1.42;font-style:italic;color:var(--ink)}
+.quote::before{content:"\201C";position:absolute;left:14px;top:-30px;font-family:var(--font-display);font-size:84px;line-height:1;color:var(--sepia);opacity:.22;pointer-events:none}
+.quote cite{display:block;margin-top:14px;font-family:var(--font-body);font-style:normal;font-size:13px;color:var(--ink-mute)}
+
+.related-inline{background:var(--soft);border:1px solid var(--line);border-radius:10px;padding:16px 20px;margin:28px 0}
+.related-inline b{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--sepia)}
+.related-inline a{display:block;margin:8px 0;color:var(--ink);text-decoration:none;transition:color .18s}
+.related-inline a:hover{color:var(--sepia)}
+
+/* takeaways */
+.takeaways{background:linear-gradient(180deg,var(--card),var(--paper));border:1px solid var(--line);border-radius:16px;padding:28px 30px;margin:42px 0}
+.takeaways h2{margin:0 0 18px;font-size:clamp(1.35rem,1.2vw+1rem,1.6rem)}
+.takeaways ol{list-style:none;margin:0;counter-reset:tk}
+.takeaways li{counter-increment:tk;position:relative;padding-left:44px;margin:15px 0;font-size:16px;line-height:1.55}
+.takeaways li::before{content:counter(tk,decimal-leading-zero);position:absolute;left:0;top:-2px;font-family:var(--font-display);font-size:20px;font-weight:500;color:var(--sepia);font-feature-settings:"tnum"}
+.takeaways li::after{content:"";position:absolute;left:1px;top:26px;bottom:-12px;width:1px;background:var(--line)}
+.takeaways li:last-child::after{display:none}
+
+/* FAQ accordion */
+.faq{margin-top:14px}
+.faq details{border-bottom:1px solid var(--line)}
+.faq summary{cursor:pointer;list-style:none;padding:16px 0;font-weight:600;font-size:17px;display:flex;justify-content:space-between;gap:16px;align-items:center}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary::after{content:"+";color:var(--sepia);font-size:22px;font-weight:400;transition:transform .2s}
+.faq details[open] summary::after{transform:rotate(45deg)}
+.faq details p{margin:0 0 18px;color:var(--ink-soft);font-size:15.5px}
+
+/* glossary */
+.gloss{display:grid;grid-template-columns:1fr 1fr;gap:12px 22px;margin:18px 0}
+.gloss div{font-size:14.5px}
+.gloss dt{font-weight:600;color:var(--sepia)}
+.gloss dd{color:var(--ink-soft);margin:2px 0 0}
+@media(max-width:560px){.gloss{grid-template-columns:1fr}}
+
+.author{display:flex;gap:20px;align-items:flex-start;background:linear-gradient(180deg,var(--card),var(--paper));border:1px solid var(--line);border-radius:18px;padding:26px 28px;margin:44px 0 8px}
+.author__av{width:64px;height:64px;border-radius:50%;background:linear-gradient(135deg,var(--sepia),var(--sepia-d));color:#fff;display:flex;align-items:center;justify-content:center;font-family:var(--font-display);font-size:23px;font-weight:500;flex-shrink:0;letter-spacing:.02em}
+.author__name{font-family:var(--font-display);font-size:21px;font-weight:500}
+.author__role{font-size:13px;color:var(--sepia);margin:2px 0 10px}
+.author__bio{font-size:14.5px;color:var(--ink-soft);line-height:1.58;margin:0}
+.author__meta{display:flex;gap:18px;flex-wrap:wrap;margin-top:13px;font-size:12.5px;color:var(--ink-mute)}
+.author__meta a{color:var(--sepia);text-decoration:none}
+.author__meta a:hover{text-decoration:underline}
+@media(max-width:560px){.author{flex-direction:column;gap:14px}}
+.src{font-size:13.5px;color:var(--ink-mute);border-top:1px solid var(--line);margin-top:36px;padding-top:18px;line-height:1.6}
+.refs{border-top:1px solid var(--line);margin-top:36px;padding-top:24px}
+.refs h2{font-size:clamp(1.15rem,1vw+1rem,1.35rem);margin:0 0 16px}
+.refs ol{counter-reset:rf;list-style:none;margin:0}
+.refs li{counter-increment:rf;position:relative;padding-left:38px;margin:11px 0;font-size:13.5px;color:var(--ink-soft);line-height:1.5}
+.refs li::before{content:counter(rf);position:absolute;left:0;top:1px;font-family:var(--font-display);font-size:12.5px;color:var(--sepia);font-weight:600;width:24px;height:24px;border:1px solid var(--line);border-radius:50%;display:flex;align-items:center;justify-content:center}
+.refs a{color:var(--sepia);text-decoration:none}
+.refs a:hover{text-decoration:underline}
+.refs__note{font-size:12.5px;color:var(--ink-mute);margin-top:16px;font-style:italic;line-height:1.55}
+
+/* rail form */
+.rail{position:sticky;top:84px}
+.railform{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:24px 22px 20px;box-shadow:0 22px 54px -28px rgba(26,26,26,.4),0 2px 6px rgba(0,0,0,.04)}
+.railform__badge{display:inline-block;font-size:11px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:var(--sepia);background:rgba(139,111,71,.10);border:1px solid rgba(139,111,71,.22);padding:5px 11px;border-radius:20px;margin-bottom:13px}
+.railform__title{font-family:var(--font-display);font-weight:500;font-size:22px;line-height:1.15;margin:0 0 6px}
+.railform__sub{font-size:13px;color:var(--ink-soft);margin:0 0 16px;line-height:1.45}
+.fld{width:100%;font:inherit;font-size:14.5px;padding:12px 14px;margin-bottom:9px;border:1px solid var(--line);border-radius:10px;background:#fff;color:var(--ink);transition:border-color .18s,box-shadow .18s}
+.fld:focus{outline:none;border-color:var(--sepia);box-shadow:0 0 0 3px rgba(139,111,71,.12)}
+.hp{position:absolute;left:-9999px;width:1px;height:1px;opacity:0}
+.policy{display:flex;gap:9px;align-items:flex-start;font-size:11.5px;color:var(--ink-soft);margin:3px 0 13px;line-height:1.45}
+.policy input{margin-top:2px;accent-color:var(--sepia)}
+.policy a{color:var(--sepia)}
+.submit{width:100%;background:var(--dark);color:#fff;border:none;font:inherit;font-weight:600;font-size:15px;padding:14px;border-radius:11px;cursor:pointer;min-height:50px;transition:background .18s,transform .1s}
+.submit:hover{background:var(--sepia)}
+.submit:active{transform:translateY(1px)}
+.formmsg{font-size:12.5px;color:#b3261e;margin-top:8px}
+.railform__trust{margin-top:15px;padding-top:14px;border-top:1px solid var(--line);display:flex;flex-direction:column;gap:6px;font-size:11.5px;color:var(--ink-mute);line-height:1.4}
+.railform__trust b{color:var(--ink)}
+.success{display:none;text-align:center;padding:6px 0}
+.success.on{display:block}
+.success__ic{width:54px;height:54px;border-radius:50%;background:rgba(139,111,71,.14);color:var(--sepia);display:flex;align-items:center;justify-content:center;margin:0 auto 12px}
+.success h3{margin:0 0 6px}
+.success p{font-size:13.5px;color:var(--ink-soft);margin:0 0 10px}
+.success a{color:var(--sepia)}
+
+/* related cards */
+.related{max-width:var(--maxw);margin:0 auto;padding:14px 24px 30px}
+.related__head{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:20px}
+.related__head h2{font-family:var(--font-display);font-weight:500;font-size:28px;margin:0}
+.related__head a{font-size:14px;color:var(--sepia);text-decoration:none}
+.related__grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.card{display:block;background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;text-decoration:none;color:var(--ink);transition:transform .25s cubic-bezier(.2,.8,.3,1),box-shadow .25s}
+.card:hover{transform:translateY(-5px);box-shadow:0 22px 44px -20px rgba(0,0,0,.26)}
+.card__cover{height:92px;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,var(--soft),var(--paper));border-bottom:1px solid var(--line);position:relative;overflow:hidden}
+.card__cover span{font-family:var(--font-display);font-style:italic;font-size:30px;color:var(--sepia);opacity:.92;letter-spacing:.01em}
+.card__cover::after{content:"";position:absolute;right:-30px;bottom:-30px;width:90px;height:90px;border:1px solid var(--line);border-radius:50%;opacity:.6}
+.card:hover .card__cover span{transform:scale(1.04);transition:transform .25s}
+.card__body{padding:18px 22px 20px}
+.card__cat{font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--sepia)}
+.card__title{font-family:var(--font-display);font-weight:500;font-size:18.5px;line-height:1.25;margin:9px 0 11px}
+.card__meta{font-size:12.5px;color:var(--ink-mute)}
+
+/* footer */
+.ft{background:#1A1A1A;color:#b9b3a7;margin-top:52px}
+.ft__in{max-width:var(--maxw);margin:0 auto;padding:52px 24px 30px;display:grid;grid-template-columns:1.5fr 1fr 1fr 1fr;gap:36px}
+.ft__crest{height:58px;width:auto;display:block;margin-bottom:12px;opacity:.92}
+.ft__name{font-family:var(--font-display);font-weight:600;font-size:25px;color:#fff;letter-spacing:-.01em}
+.ft__tag{font-size:13px;color:#9a9489;line-height:1.6;margin:12px 0 16px;max-width:330px}
+.ft__contacts{display:flex;flex-direction:column;gap:7px;font-size:13.5px}
+.ft__contacts a{color:#e6e0d4;text-decoration:none}
+.ft__contacts a:hover{color:var(--sepia)}
+.ft__contacts span{color:#8a857a;font-size:12.5px}
+.ft__h{font-size:11px;text-transform:uppercase;letter-spacing:.07em;color:var(--sepia);font-weight:600;margin-bottom:13px}
+.ft__col a{display:block;color:#cfc8ba;text-decoration:none;font-size:13.5px;margin:8px 0;transition:color .18s}
+.ft__col a:hover{color:#fff}
+.ft__bottom{border-top:1px solid #2c2a25;max-width:var(--maxw);margin:0 auto;padding:18px 24px 32px;display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap;font-size:12px;color:#7d786d}
+.ft__bottom a{color:#9a9489;text-decoration:none}
+.ft__bottom a:hover{color:#cfc8ba}
+@media(max-width:860px){.ft__in{grid-template-columns:1fr 1fr;gap:28px}.ft__bottom{flex-direction:column;gap:8px}}
+@media(max-width:520px){.ft__in{grid-template-columns:1fr}}
+
+/* hero band */
+.hero{position:relative;margin:0 0 22px;padding:30px 32px 26px;border-radius:20px;background:radial-gradient(130% 150% at 0% 0%,var(--card),var(--paper));border:1px solid var(--line);overflow:hidden}
+.hero>*{position:relative;z-index:1}
+.hero__crest{position:absolute;right:-26px;top:-22px;width:188px;height:auto;opacity:.07;pointer-events:none;z-index:0}
+.hero__crest--dark{display:none}
+[data-theme="dark"] .hero__crest--light{display:none}
+[data-theme="dark"] .hero__crest--dark{display:block;opacity:.05}
+.hero h1{margin-bottom:12px}
+.hero .byline{margin-bottom:0}
+@media(max-width:560px){.hero{padding:22px 20px}.hero__crest{width:130px;right:-14px}}
+/* marginalia / sidenotes */
+.sidenote{font-size:13.5px;color:var(--ink-soft);line-height:1.5;border-left:2px solid var(--sepia);padding:2px 0 2px 14px;margin:14px 0}
+.sidenote b{color:var(--ink);font-weight:600}
+/* настоящие поля только при достаточной ширине (иначе остаётся аккуратной врезкой) */
+@media(min-width:1440px){
+  .layout{--maxw-inner:1360px;max-width:1360px}
+  .content{padding-right:200px}
+  .sidenote{float:right;clear:right;width:176px;margin:4px -200px 18px 0;border-left:none;border-top:2px solid var(--sepia);padding:10px 0 0;font-size:12.5px;line-height:1.45;color:var(--ink-mute)}
+  .sidenote b{color:var(--ink)}
+}
+/* term tooltips */
+.term{border-bottom:1px dashed var(--sepia);cursor:help;position:relative;font-style:normal;outline:none}
+.term::after{content:attr(data-tip);position:absolute;left:0;bottom:150%;width:max-content;max-width:280px;background:var(--dark);color:var(--dark-tx);padding:10px 13px;border-radius:9px;font-family:var(--font-body);font-size:12.5px;font-weight:400;font-style:normal;line-height:1.45;letter-spacing:normal;box-shadow:0 12px 30px -10px rgba(0,0,0,.5);opacity:0;visibility:hidden;transform:translateY(5px);transition:opacity .18s,transform .18s;z-index:80;pointer-events:none;white-space:normal}
+.term::before{content:"";position:absolute;left:15px;bottom:150%;border:6px solid transparent;border-top-color:var(--dark);margin-bottom:-11px;opacity:0;visibility:hidden;transition:opacity .18s;z-index:80}
+.term:hover::after,.term:focus::after,.term:hover::before,.term:focus::before{opacity:1;visibility:visible;transform:none}
+@media(max-width:560px){.term::after{left:auto;right:0;max-width:220px}}
+/* section numbers before H2 */
+.content{counter-reset:sec}
+.content h2[id]{counter-increment:sec}
+.content h2[id]::after{content:counter(sec,decimal-leading-zero);position:absolute;right:100%;top:.34em;margin-right:18px;font-family:var(--font-body);font-size:12px;font-weight:600;letter-spacing:.1em;color:var(--sepia);opacity:.65}
+@media(max-width:1180px){.content h2[id]::after{position:static;display:inline-block;margin:0 0 4px;opacity:.8}}
+/* share + pdf */
+.share{display:flex;align-items:center;gap:9px;flex-wrap:wrap;margin:20px 0 2px}
+.share__label{font-size:12.5px;color:var(--ink-mute)}
+.share a,.share button{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--line);background:var(--bg);color:var(--ink-soft);border-radius:9px;padding:8px 13px;font:inherit;font-size:12.5px;cursor:pointer;text-decoration:none;transition:border-color .18s,color .18s}
+.share a:hover,.share button:hover{border-color:var(--sepia);color:var(--ink)}
+.share svg{color:var(--sepia)}
+/* tooltip terms */
+dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
+/* print / PDF */
+@media print{
+  .hd,.toc,.rail,.totop,.ck,.share,.mtoc,.theme-btn,.related,.trust,.flow__arrow,.anchor{display:none!important}
+  .layout{display:block;max-width:none;padding:0;gap:0}
+  body{background:#fff!important;color:#000!important;font-size:11.5pt}
+  a{color:#000!important;text-decoration:none}
+  .keyfacts,.calc{background:#fff!important;color:#000!important;border:1px solid #bbb}
+  .keyfacts h2,.calc h3,.kf__n{color:#000!important}
+  .ft{background:#fff!important;color:#000!important}
+  h1{font-size:22pt}h2{font-size:15pt}
+  .flow__node,.note,.takeaways,.author,.tldr{break-inside:avoid}
+}
+/* flow diagram */
+.flow{margin:32px 0;padding:24px 26px;background:linear-gradient(180deg,var(--card),var(--paper));border:1px solid var(--line);border-radius:16px}
+.flow__title{font-family:var(--font-display);font-size:18px;font-weight:500;margin:0 0 18px}
+.flow__row{display:flex;align-items:stretch;overflow-x:auto;-webkit-overflow-scrolling:touch}
+.flow__node{flex:1;min-width:150px;background:var(--bg);border:1px solid var(--line);border-radius:12px;padding:14px 15px;text-align:center}
+.flow__node b{display:block;font-family:var(--font-display);font-size:15px;color:var(--ink);margin-bottom:4px}
+.flow__node span{font-size:12px;color:var(--ink-soft);line-height:1.38}
+.flow__arrow{display:flex;align-items:center;justify-content:center;color:var(--sepia);padding:0 6px;flex-shrink:0}
+@media(max-width:680px){.flow__row{flex-direction:column}.flow__arrow{transform:rotate(90deg);padding:8px 0}}
+/* inline footnotes */
+.fn{font-size:.64em;vertical-align:super;line-height:0;margin-left:1px;color:var(--sepia);text-decoration:none;font-weight:600}
+.fn:hover{text-decoration:underline}
+.refs li{scroll-margin-top:90px}
+/* mini calculator */
+.calc{margin:30px 0;background:var(--dark);color:var(--dark-tx);border-radius:16px;padding:26px 28px}
+.calc h3{font-family:var(--font-display);color:#fff;font-weight:500;font-size:20px;margin:0 0 4px}
+.calc__sub{font-size:13px;color:#b3ada0;margin:0 0 18px;line-height:1.45}
+.calc__row{display:grid;grid-template-columns:1.3fr 1fr;gap:14px}
+.calc__label{display:block;font-size:12px;color:#cfc8ba;margin-bottom:6px}
+.calc select,.calc input{width:100%;font:inherit;font-size:14.5px;padding:11px 13px;border-radius:10px;border:1px solid #3a382f;background:#26241d;color:#fff;-webkit-appearance:none;appearance:none}
+.calc select:focus,.calc input:focus{outline:none;border-color:var(--sepia)}
+.calc__out{margin-top:18px;padding:16px 18px;border-radius:12px;border:1px solid #3a382f;background:#1f1d17}
+.calc__verdict{font-family:var(--font-display);font-size:18px;font-weight:500;margin:0 0 4px}
+.calc__verdict.yes{color:#7ee0a7}
+.calc__verdict.no{color:#e0c07e}
+.calc__desc{font-size:13.5px;color:#cfc8ba;line-height:1.5}
+.calc__law{font-size:11.5px;color:#9a9489;margin-top:8px}
+@media(max-width:560px){.calc__row{grid-template-columns:1fr}}
+/* trust registries */
+.trust{max-width:var(--maxw);margin:30px auto 0;padding:0 24px}
+.trust__box{background:linear-gradient(180deg,var(--card),var(--paper));border:1px solid var(--line);border-radius:16px;padding:22px 26px;display:flex;align-items:center;gap:22px;flex-wrap:wrap;justify-content:space-between}
+.trust__lead{font-size:13px;color:var(--ink-mute)}
+.trust__lead b{font-family:var(--font-display);color:var(--ink);font-weight:500;font-size:16px;display:block;margin-bottom:3px}
+.trust__badges{display:flex;gap:12px;flex-wrap:wrap}
+.badge{display:flex;align-items:center;gap:8px;border:1px solid var(--line);border-radius:10px;padding:9px 14px;font-size:12.5px;color:var(--ink-soft);text-decoration:none;transition:border-color .18s,color .18s;background:var(--bg)}
+.badge:hover{border-color:var(--sepia);color:var(--ink)}
+.badge svg{color:var(--sepia);flex-shrink:0}
+.badge b{color:var(--ink);font-weight:600}
+/* cookie */
+.ck{position:fixed;left:20px;right:20px;bottom:20px;z-index:130;max-width:720px;margin:0 auto;display:grid;grid-template-columns:auto 1fr auto;gap:16px;align-items:center;padding:14px 18px;background:rgba(26,26,26,.95);backdrop-filter:blur(20px) saturate(140%);color:#F4F1EB;border:1px solid rgba(255,255,255,.08);border-radius:14px;box-shadow:0 12px 40px -12px rgba(0,0,0,.5);transform:translateY(140%);opacity:0;transition:transform .45s cubic-bezier(.2,.8,.3,1.1),opacity .35s}
+.ck.on{transform:translateY(0);opacity:1}
+.ck.off{transform:translateY(140%);opacity:0}
+.ck__ic{width:34px;height:34px;border-radius:50%;background:rgba(139,111,71,.22);color:#d8bd92;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+.ck__t b{font-size:13.5px;font-weight:600;display:block}
+.ck__t span{font-size:12px;color:#b9b3a7;line-height:1.4}
+.ck__t a{color:#d8d2c6}
+.ck__act{display:flex;gap:8px;flex-shrink:0}
+.ck__b{font:inherit;font-size:13px;font-weight:600;padding:11px 16px;border-radius:9px;border:1px solid;cursor:pointer;min-height:44px;white-space:nowrap}
+.ck__b--s{background:transparent;color:#b9b3a7;border-color:#3a382f}
+.ck__b--s:hover{color:#fff;border-color:#6a6557}
+.ck__b--p{background:var(--sepia);color:#fff;border-color:var(--sepia)}
+.ck__b--p:hover{background:#9a7b50}
+@media(max-width:640px){.ck{grid-template-columns:1fr;gap:12px;left:12px;right:12px;bottom:12px}.ck__ic{display:none}.ck__act{width:100%}.ck__b{flex:1}}
+
+/* reveal animation */
+.reveal{opacity:0;transform:translateY(16px);transition:opacity .6s ease,transform .6s cubic-bezier(.2,.8,.3,1)}
+.reveal.in{opacity:1;transform:none}
+@media(prefers-reduced-motion:reduce){.reveal{opacity:1;transform:none;transition:none}.progress{display:none}}
+
+@media(max-width:1080px){.layout{grid-template-columns:minmax(0,1fr) var(--rail-w)}.toc{display:none}}
+@media(max-width:860px){.layout{grid-template-columns:1fr}.rail{position:static;margin-top:14px}.related__grid{grid-template-columns:1fr}h1{font-size:33px}body{font-size:16.5px}}
+
+/* mobile TOC */
+.mtoc{display:none}
+@media(max-width:1080px){.mtoc{display:block;margin:0 0 26px}.mtoc summary{cursor:pointer;font-size:13px;font-weight:600;color:var(--sepia);padding:13px 16px;background:var(--soft);border:1px solid var(--line);border-radius:10px;list-style:none}.mtoc ol{margin:12px 0 0 20px;font-size:14.5px}.mtoc a{color:var(--ink-soft);text-decoration:none}}
+</style>
+</head>
+<body>
+<a href="#main" class="skip">Перейти к содержанию</a>
+<div class="progress" id="progress" aria-hidden="true"></div>
+
+<div class="v2">
+<header class="v2-header">
+          <div class="v2-container v2-header-inner">
+
+            <a class="v2-brand" href="/" aria-label="КазнаЭксперт — на главную">
+              <span class="v2-brand-mark">
+                <img src="/img/logogold.webp" alt="КазнаЭксперт" loading="eager" width="60" height="44">
+              </span>
+            </a>
+
+            <nav class="v2-nav" aria-label="Главная навигация">
+              <a href="/#tariffs">Тарифы</a>
+              <a href="/#process">Как работаем</a>
+              <a href="/#cases">Кейсы</a>
+              <a href="/#aboutus">Эксперт</a>
+              <a href="/#faq">FAQ</a>
+              <a href="/#contacts">Связаться</a>
+            </nav>
+
+            <div class="v2-header-aside">
+              <span class="v2-phone-label">С 2009 · Вся РФ</span>
+              <a class="v2-phone" href="tel:+79818331010">+7 981 833-10-10</a>
+              <button class="v2-burger" id="v2Burger" type="button" aria-label="Открыть меню" aria-expanded="false" aria-controls="v2MobileMenu">
+                <span></span><span></span><span></span>
+              </button>
+            </div>
+
+          </div>
+
+          <!-- мобильное меню (раскрывается бургером) -->
+          <nav class="v2-mobile-menu" id="v2MobileMenu" aria-label="Мобильная навигация">
+            <a href="/#tariffs">Тарифы</a>
+            <a href="/#process">Как работаем</a>
+            <a href="/#cases">Кейсы</a>
+            <a href="/#aboutus">Эксперт</a>
+            <a href="/#faq">FAQ</a>
+            <a class="v2-mobile-cta" href="/#contacts">Получить расчёт</a>
+          </nav>
+        </header>
+</div>
+
+<div class="layout">
+  <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/baza-znaniy/">База знаний</a> › Казначейское сопровождение ГОЗ</nav>
+
+  <aside class="toc" aria-label="Содержание">
+    <div class="toc__label">Содержание</div>
+    <ul class="toc__list" id="tocList">
+      <li><a href="#chto-takoe">Что такое КС ГОЗ</a></li>
+      <li><a href="#kto-obyazan">Кто обязан применять</a></li>
+      <li><a href="#kogda">Порог и когда обязательно</a></li>
+      <li><a href="#izmeneniya">Что изменилось в 2026</a></li>
+      <li><a href="#bank-vs-kazna">Банковское или казначейское</a></li>
+      <li><a href="#schet">Отдельный и лицевой счёт</a></li>
+      <li><a href="#igk">ИГК</a></li>
+      <li><a href="#avans">Аванс и цепочка кооперации</a></li>
+      <li><a href="#razdelnyy-uchet">Раздельный учёт и штрафы</a></li>
+      <li><a href="#rasshirennoe">Расширенное КС</a></li>
+      <li><a href="#kak-otkryt">Порядок открытия счёта</a></li>
+      <li><a href="#oshibki">Ошибки и отказы</a></li>
+      <li><a href="#keys">Пример из практики</a></li>
+      <li><a href="#glossary">Глоссарий</a></li>
+      <li><a href="#faq">Частые вопросы</a></li>
+    </ul>
+  </aside>
+
+  <article class="content" id="main">
+    <div class="hero">
+      <img class="hero__crest hero__crest--light" src="/img/logogold.png" alt="" aria-hidden="true" width="188" height="137" decoding="async">
+      <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async">
+      <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на 2026</span></div>
+    <h1>Казначейское сопровождение ГОЗ в 2026 году: полный разбор по 275-ФЗ</h1>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>17 мин чтения</span><span class="dot">·</span><span>Обновлено 3 июня 2026</span></div>
+    </div>
+
+    <div class="share">
+      <span class="share__label">Поделиться:</span>
+      <a href="https://t.me/share/url?url=https%3A%2F%2Fkaznaexpert.ru%2Fbaza-znaniy%2Fkaznacheyskoe-soprovozhdenie-goz-275-fz%2F&amp;text=Казначейское%20сопровождение%20ГОЗ%20в%202026%20году" target="_blank" rel="noopener"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.56 8.25l-1.86 8.76c-.14.62-.5.77-1.02.48l-2.82-2.08-1.36 1.31c-.15.15-.28.28-.57.28l.2-2.89 5.27-4.76c.23-.2-.05-.32-.35-.12l-6.51 4.1-2.8-.88c-.61-.19-.62-.61.13-.9l10.95-4.22c.5-.18.95.12.79.85z"/></svg>Telegram</a>
+      <button type="button" id="copyLink"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.07 0l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.07 0l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg><span>Копировать ссылку</span></button>
+      <button type="button" id="printBtn"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9V2h12v7M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2M6 14h12v8H6z"/></svg>Скачать PDF</button>
+    </div>
+
+    <details class="mtoc"><summary>Содержание статьи</summary>
+      <ol>
+        <li><a href="#chto-takoe">Что такое КС ГОЗ</a></li><li><a href="#kto-obyazan">Кто обязан</a></li>
+        <li><a href="#kogda">Порог и когда обязательно</a></li><li><a href="#izmeneniya">Изменения 2026</a></li>
+        <li><a href="#bank-vs-kazna">Банковское или казначейское</a></li><li><a href="#schet">Счёт в ТОФК</a></li>
+        <li><a href="#igk">ИГК</a></li><li><a href="#avans">Аванс и кооперация</a></li>
+        <li><a href="#razdelnyy-uchet">Раздельный учёт и штрафы</a></li><li><a href="#rasshirennoe">Расширенное КС</a></li>
+        <li><a href="#kak-otkryt">Порядок открытия</a></li><li><a href="#oshibki">Ошибки и отказы</a></li>
+        <li><a href="#keys">Пример из практики</a></li><li><a href="#glossary">Глоссарий</a></li><li><a href="#faq">FAQ</a></li>
+      </ol>
+    </details>
+
+    <div class="tldr">Казначейское сопровождение гособоронзаказа — режим, при котором расчёты по контракту ГОЗ проходят через лицевой счёт в территориальном органе Федерального казначейства, и каждый платёж санкционируется. В 2026 году оно обязательно для расчётов по контрактам ГОЗ на сумму <b>свыше 3 млн ₽</b> (п. 8 ч. 2 ст. 5 ФЗ № 426-ФЗ)<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a>. Альтернатива — банковское сопровождение через отдельный счёт в уполномоченном банке; режим выбирает госзаказчик.</div>
+
+    <section class="keyfacts grain" aria-label="Ключевые факты">
+      <h2>Коротко о главном на 2026 год</h2>
+      <div class="keyfacts__grid">
+        <div class="kf"><div class="kf__n">&gt; 3 млн ₽</div><div class="kf__t"><b>Порог КС для расчётов по ГОЗ</b> — п. 8 ч. 2 ст. 5 № 426-ФЗ</div></div>
+        <div class="kf"><div class="kf__n">25 знаков</div><div class="kf__t"><b>ИГК</b> — идентификатор госконтракта, под каждый открывается счёт</div></div>
+        <div class="kf"><div class="kf__n">счёт «71»</div><div class="kf__t"><b>Лицевой счёт в ТОФК</b> для операций с КС, ведётся в «Электронном бюджете»</div></div>
+        <div class="kf"><div class="kf__n">до 500k ₽</div><div class="kf__t"><b>Штраф юрлицу</b> за раздельный учёт — ст. 15.37.1 КоАП с 01.01.2026</div></div>
+        <div class="kf"><div class="kf__n">31.12.2026</div><div class="kf__t"><b>Особый порядок расчётов по ГОЗ</b> продлён — ФЗ № 406-ФЗ</div></div>
+        <div class="kf"><div class="kf__n">ст. 242.24</div><div class="kf__t"><b>Расширенное КС</b> БК РФ — контроль структуры цены крупных контрактов</div></div>
+      </div>
+    </section>
+
+    <h2 id="chto-takoe">Что такое казначейское сопровождение ГОЗ</h2>
+    <div class="answer reveal">
+      <p class="lead-p">Казначейское сопровождение гособоронзаказа — это режим, при котором целевые средства по контракту ГОЗ зачисляются на лицевой счёт исполнителя в территориальном органе Федерального казначейства (<span class="term" tabindex="0" data-tip="Территориальный орган Федерального казначейства — подразделение, которое ведёт лицевой счёт исполнителя и санкционирует операции по контракту.">ТОФК</span>), а каждый платёж проходит <span class="term" tabindex="0" data-tip="Проверка казначейством операции на соответствие условиям контракта, целевому назначению и наличию документов перед списанием средств.">санкционирование</span>: казначейство проверяет его на соответствие условиям контракта, целевому назначению и наличию подтверждающих документов. Правовую основу образуют глава 24.4 Бюджетного кодекса РФ (ст. 242.23–242.27), Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе» и ежегодный закон о федеральном бюджете, который задаёт перечень случаев и пороги сопровождения на конкретный год.</p>
+      <p>Главная идея режима — обеспечить прозрачность движения бюджетных денег по всей кооперации исполнителей ГОЗ и не допустить их нецелевого использования. Средства на казначейском счёте «окрашены»: их нельзя вывести на расчётный счёт или направить на цели, не предусмотренные контрактом, без санкционирования ТОФК. Для исполнителя это означает новую дисциплину: каждый платёж сопровождается комплектом документов, коды бюджетной классификации должны быть выверены, а назначение платежа — строго соответствовать целям контракта.</p>
+      <p>Казначейское сопровождение не отменяет обычный бухгалтерский учёт и не заменяет банковское обслуживание текущей деятельности компании — оно действует только в отношении целевых средств конкретного госконтракта. Личные и общехозяйственные расходы компании по-прежнему идут через обычные расчётные счета; через казначейский счёт проходят только операции, прямо связанные с исполнением сопровождаемого контракта.</p>
+      <p>За 15+ лет команда КазнаЭксперт сопроводила более 7000 контрактов на общую сумму свыше 90 млрд ₽. По нашей практике большинство сложностей с ГОЗ возникает не из-за самого закона, а из-за ошибок в оформлении операций — неверных кодов, отсутствия документов или формального раздельного учёта. Именно поэтому разобраться в режиме лучше до первого платежа, а не после первого отказа казначейства.</p>
+    </div>
+    <blockquote class="quote">Казначейское сопровождение по ГОЗ — это не дополнительная отчётность, а отдельный режим работы с деньгами контракта. Ошибка в коде или отсутствие документа означает не замечание, а возврат платежа — и сорванный срок.<cite>Ярослав Михайлов, главный эксперт КазнаЭксперт, 15+ лет в Казначействе</cite></blockquote>
+
+    <figure class="flow" aria-label="Схема движения средств при казначейском сопровождении ГОЗ">
+      <figcaption class="flow__title">Как устроено казначейское сопровождение ГОЗ</figcaption>
+      <div class="flow__row">
+        <div class="flow__node"><b>Госзаказчик</b><span>Присваивает ИГК (25 знаков), доводит целевые средства</span></div>
+        <div class="flow__arrow"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
+        <div class="flow__node"><b>Лицевой счёт 71</b><span>Открывается в ТОФК, ведётся в «Электронном бюджете»</span></div>
+        <div class="flow__arrow"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
+        <div class="flow__node"><b>Санкционирование</b><span>Казначейство проверяет каждый платёж</span></div>
+        <div class="flow__arrow"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
+        <div class="flow__node"><b>Исполнитель</b><span>Раздельный учёт, платежи по контракту</span></div>
+        <div class="flow__arrow"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
+        <div class="flow__node"><b>Соисполнители</b><span>Свой счёт при расчётах свыше 3 млн ₽</span></div>
+      </div>
+    </figure>
+
+    <h2 id="kto-obyazan">Кто обязан применять казначейское сопровождение по ГОЗ</h2>
+    <div class="answer reveal">
+      <p>Казначейское сопровождение охватывает не только головного исполнителя, но и всю цепочку кооперации, если расчёты по соответствующим договорам превышают порог. На практике с режимом сталкиваются несколько категорий участников, и для каждой важно заранее понимать свою роль — особенно субподрядчикам, которые часто узнают о казначейском счёте только в момент получения проекта договора от головного исполнителя.</p>
+    </div>
+    <table>
+      <caption>Участники казначейского сопровождения ГОЗ и их роль</caption>
+      <tr><th>Участник</th><th>Роль в режиме КС</th></tr>
+      <tr><td>Государственный заказчик</td><td>Присваивает ИГК, доводит средства, контролирует исполнение</td></tr>
+      <tr><td>Головной исполнитель</td><td>Открывает лицевой счёт в ТОФК, ведёт раздельный учёт, проводит платежи по кооперации</td></tr>
+      <tr><td>Исполнители и соисполнители</td><td>Открывают свои счета при расчётах свыше 3 млн ₽, ведут раздельный учёт по своему договору</td></tr>
+      <tr><td>Субподрядчики в цепочке</td><td>Подпадают под КС, если их договор в рамках контракта превышает порог</td></tr>
+    </table>
+
+    <h2 id="kogda">Порог и когда казначейское сопровождение ГОЗ обязательно в 2026 году</h2>
+    <div class="answer reveal">
+      <p>В 2026 году расчёты по государственным контрактам гособоронзаказа и по контрактам, заключённым в их исполнение, подлежат казначейскому сопровождению при сумме <b>свыше 3 млн ₽</b> — это установлено пунктом 8 части 2 статьи 5 Федерального закона от 28.11.2025 № 426-ФЗ «О федеральном бюджете на 2026 год и на плановый период 2027 и 2028 годов»<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a>. Аналогичный порог в 3 млн ₽ действует для авансов исполнителей и соисполнителей в рамках исполнения сопровождаемых контрактов. Особый порядок расчётов по ГОЗ продлён до 31 декабря 2026 года Федеральным законом от 04.11.2025 № 406-ФЗ<a class="fn" href="#ref-6" aria-label="Источник 6">[6]</a>.</p>
+    </div>
+    <table>
+      <caption>Пороги казначейского сопровождения средств федерального бюджета на 2026 год (ст. 5 № 426-ФЗ)</caption>
+      <tr><th>Вид средств</th><th>Порог 2026</th><th>Норма</th></tr>
+      <tr><td>Расчёты по госконтрактам ГОЗ и контрактам в их исполнение</td><td>свыше 3 млн ₽</td><td>п. 8 ч. 2 ст. 5</td></tr>
+      <tr><td>Авансы исполнителей/соисполнителей в цепочке кооперации</td><td>свыше 3 млн ₽</td><td>п. 9 ч. 2 ст. 5</td></tr>
+      <tr><td>Расчёты по контрактам с единственным поставщиком</td><td>свыше 3 млн ₽</td><td>п. 7 ч. 2 ст. 5</td></tr>
+      <tr><td>Авансы по обычным госконтрактам (не ГОЗ)</td><td>от 100 млн ₽</td><td>п. 5 ч. 2 ст. 5</td></tr>
+    </table>
+    <div class="note"><b>Важно.</b> «Безпороговое» казначейское сопровождение ГОЗ — распространённое упрощение. Формально порог для расчётов по ГОЗ — свыше 3 млн ₽. Но конкретный режим всегда определяется текстом госконтракта и решением госзаказчика, поэтому до подписания контракт нужно проверить на наличие казначейской оговорки и условий о сопровождении.</div>
+
+    <div class="calc" id="calc">
+      <h3>Калькулятор: попадает ли контракт под КС в 2026?</h3>
+      <p class="calc__sub">Ориентировочная оценка по порогам ст. 5 ФЗ № 426-ФЗ. Точный режим определяется текстом контракта.</p>
+      <div class="calc__row">
+        <div>
+          <label class="calc__label" for="calcType">Тип средств / контракта</label>
+          <select id="calcType">
+            <option value="goz">Контракт ГОЗ — расчёты</option>
+            <option value="ed">Госконтракт с единственным поставщиком</option>
+            <option value="gos">Обычный госконтракт — аванс</option>
+            <option value="bu">Контракт БУ/АУ за счёт субсидии — аванс</option>
+            <option value="sub">Договор с соисполнителем / субподряд</option>
+            <option value="subs">Субсидия юрлицу · инвестиции (ст. 80 БК) · грант</option>
+          </select>
+        </div>
+        <div>
+          <label class="calc__label" for="calcSum">Сумма, млн ₽</label>
+          <input id="calcSum" type="number" min="0" step="0.1" inputmode="decimal" placeholder="например, 5">
+        </div>
+      </div>
+      <div class="calc__out" id="calcOut" aria-live="polite">
+        <div class="calc__verdict">Выберите тип и укажите сумму</div>
+        <div class="calc__desc">Покажем, попадает ли контракт под казначейское сопровождение и по какой норме.</div>
+      </div>
+    </div>
+
+    <h2 id="izmeneniya">Что изменилось в казначейском сопровождении ГОЗ в 2026 году</h2>
+    <div class="answer reveal">
+      <p>2026 год принёс сразу несколько изменений, которые напрямую затрагивают исполнителей ГОЗ. Главное — введена административная ответственность за нарушения и усилен контроль раздельного учёта. Ниже — ключевые перемены по сравнению с 2025 годом.</p>
+    </div>
+    <table>
+      <caption>Изменения 2025 → 2026 для исполнителей ГОЗ</caption>
+      <tr><th>Что</th><th>2025</th><th>2026</th></tr>
+      <tr><td>Штрафы за раздельный учёт</td><td>не выделены отдельно</td><td>ст. 15.37.1 КоАП — до 5% цены контракта (с 01.01.2026)</td></tr>
+      <tr><td>Контроль раздельного учёта</td><td>в рамках общей проверки</td><td>самостоятельный приоритетный объект (приказ Минфина № 12н)</td></tr>
+      <tr><td>Особый порядок расчётов ГОЗ</td><td>действовал</td><td>продлён до 31.12.2026 (ФЗ № 406-ФЗ)</td></tr>
+      <tr><td>Сведения об операциях</td><td>—</td><td>штраф за нарушение срока утверждения (ст. 15.49 КоАП)</td></tr>
+    </table>
+
+    <h2 id="bank-vs-kazna">Банковское или казначейское сопровождение: в чём разница</h2>
+    <div class="answer reveal">
+      <p>Средства гособоронзаказа сопровождаются в одном из двух режимов — банковском или казначейском. При банковском сопровождении расчёты идут через отдельный счёт (<span class="term" tabindex="0" data-tip="Отдельный банковский счёт для расчётов по ГОЗ в уполномоченном банке; режим использования и запрещённые операции регулируются гл. 3.1 (ст. 8.1–8.6) 275-ФЗ.">ОБС</span>), открытый в уполномоченном банке, режим которого регулируется главой 3.1 (ст. 8.1–8.6) Закона № 275-ФЗ. При казначейском сопровождении вместо отдельного счёта в банке открывается лицевой счёт в ТОФК, а контроль операций ведёт Федеральное казначейство. С 2021 года часть контрактов ГОЗ — преимущественно ремонт, услуги и НИОКР, не относящиеся к серийному производству вооружения — переведена с банковского на казначейское сопровождение.</p>
+    </div>
+    <table>
+      <caption>Сравнение режимов сопровождения средств ГОЗ</caption>
+      <tr><th>Параметр</th><th>Банковское</th><th>Казначейское</th></tr>
+      <tr><td>Где открывается счёт</td><td>Уполномоченный банк (ОБС)</td><td>ТОФК (лицевой счёт)</td></tr>
+      <tr><td>Кто контролирует операции</td><td>Уполномоченный банк</td><td>Федеральное казначейство</td></tr>
+      <tr><td>Регулирование режима счёта</td><td>гл. 3.1 (ст. 8.1–8.6) 275-ФЗ</td><td>гл. 24.4 БК РФ, Правила КС</td></tr>
+      <tr><td>Информационная система</td><td>Банковские каналы</td><td>ГИИС «Электронный бюджет»</td></tr>
+      <tr><td>Типичная сфера применения</td><td>Серийные поставки ВВТ</td><td>Ремонт, услуги, НИОКР</td></tr>
+    </table>
+    <h3>Уполномоченные банки ГОЗ</h3>
+    <p class="answer">Перечень уполномоченных банков устанавливается уполномоченными органами. Основной — Промсвязьбанк (ПСБ); в перечень также входят ВТБ, Сбербанк, Газпромбанк, Россельхозбанк, Новикомбанк, Совкомбанк и РНКБ.</p>
+
+    <h2 id="schet">Отдельный счёт и лицевой счёт в ТОФК</h2>
+    <div class="answer reveal">
+      <p>При казначейском режиме исполнитель ГОЗ работает через лицевой счёт в ТОФК — как правило, единый лицевой счёт с кодом «71», который открывается неучастнику бюджетного процесса для операций с казначейским сопровождением и казначейским обеспечением обязательств. Счёт открывается один раз, а под каждый отдельный контракт на нём заводится свой раздел. Всё взаимодействие с казначейством — открытие счёта, подача сведений об операциях, санкционирование платежей, отчётность — ведётся через государственную информационную систему «Электронный бюджет» с использованием квалифицированной электронной подписи.</p>
+      <p>Это принципиально отличает казначейский счёт от обычного банковского: на нём нельзя свободно распоряжаться средствами. Любое списание возможно только после проверки казначейством, поэтому к моменту платежа все документы-основания должны быть готовы и корректны. Для компании это означает, что финансовая дисциплина и порядок в первичке становятся не «хорошим тоном», а условием прохождения каждого платежа.</p>
+      <p class="sidenote"><b>На полях.</b> Счёт «71» открывается один раз, а под каждый новый контракт на нём заводится отдельный раздел — заново открывать счёт не нужно.</p>
+    </div>
+    <div class="related-inline"><b>По теме</b>
+      <a href="/baza-znaniy/licevoy-schet-71-kak-otkryt/">→ Как открыть лицевой счёт 71 в ТОФК</a>
+      <a href="/baza-znaniy/giis-elektronnyy-byudzhet/">→ ГИИС «Электронный бюджет»: подключение и настройка</a>
+      <a href="/baza-znaniy/otdelnyy-schet-goz/">→ Отдельный счёт ГОЗ: режим использования</a>
+    </div>
+
+    <h2 id="igk">ИГК: идентификатор государственного контракта</h2>
+    <div class="answer reveal">
+      <p><span class="term" tabindex="0" data-tip="Идентификатор государственного контракта — 25-значный код; под каждый ИГК открывается отдельный счёт, он указывается во всех платёжных документах.">ИГК</span> — идентификатор государственного контракта, 25-значный код, который присваивает государственный заказчик. Он связывает все операции, документы и счета по конкретному контракту ГОЗ в единую цепочку и обязательно указывается в платёжных и распорядительных документах, а также в договорах с соисполнителями. Под каждый ИГК открывается отдельный лицевой счёт (раздел), что позволяет казначейству отслеживать движение средств по каждому контракту изолированно. Отсутствие ИГК или ошибка в прикреплённых к платежу документах — одна из самых частых причин отказа казначейства в санкционировании.</p>
+    </div>
+
+    <h2 id="avans">Аванс по ГОЗ и цепочка кооперации</h2>
+    <div class="answer reveal">
+      <p>Авансирование по контрактам ГОЗ под казначейским сопровождением имеет свою специфику: авансовые средства так же зачисляются на казначейский счёт и расходуются только под санкционирование. Если головной исполнитель привлекает соисполнителей, и договор с ними превышает 3 млн ₽, эти расчёты также попадают под казначейское сопровождение — порог распространяется на всю цепочку кооперации. Это значит, что субподрядчик, получивший аванс по сопровождаемому контракту, обязан открыть свой лицевой счёт, вести раздельный учёт и проводить платежи через казначейство наравне с головным исполнителем.</p>
+      <p>На практике это создаёт типичную проблему: бухгалтер субподрядчика впервые сталкивается с понятиями «лицевой счёт в УФК», «ИГК» и «раздельный учёт» в момент, когда контракт уже подписан и сроки идут. Чтобы не терять время и не получать отказы, подготовку к сопровождению лучше начинать заранее — ещё на этапе согласования договора с головным исполнителем.</p>
+      <p class="sidenote"><b>На полях.</b> Порог 3 млн ₽ считается по сумме конкретного договора в цепочке, а не по всему контракту ГОЗ — поэтому под сопровождение может попасть даже небольшой субподряд.</p>
+    </div>
+
+    <h2 id="razdelnyy-uchet">Раздельный учёт по ГОЗ и штрафы 2026</h2>
+    <div class="answer reveal">
+      <p>Исполнитель ГОЗ обязан вести раздельный учёт результатов финансово-хозяйственной деятельности по каждому контракту — отдельно отражать прямые и накладные расходы, относимые на конкретный госконтракт. Цель — доказать, что цена контракта обоснованна, а средства израсходованы по назначению. Прямые расходы (материалы, комплектующие, оплата труда основных рабочих) относятся на контракт напрямую, а накладные и общехозяйственные распределяются по обоснованной методике, закреплённой в учётной политике.</p>
+      <p>С июля 2025 года порядок раздельного учёта изменён, а в 2026 году раздельный учёт стал самостоятельным и приоритетным объектом контроля (приказ Минфина № 12н). Типичные претензии при проверках — формальный учёт «для галочки», расхождение учётной политики с фактическими расчётами, слабая доказуемость прямых расходов и необъяснённые скачки накладных. Восстановить корректный раздельный учёт задним числом перед проверкой — задача трудоёмкая, поэтому методику лучше выстраивать с первого платежа.</p>
+      <p>С 1 января 2026 года введена административная ответственность. Статья 15.37.1 КоАП РФ за несоблюдение требования о раздельном учёте предусматривает штраф для должностных лиц 10 000–50 000 ₽, для ИП и юрлиц — от 1 до 5% цены контракта, но не более 200 000 ₽ для ИП и 500 000 ₽ для юрлиц<a class="fn" href="#ref-4" aria-label="Источник 4">[4]</a>. Статья 15.49 КоАП РФ наказывает за нарушение срока утверждения сведений об операциях с целевыми средствами.</p>
+    </div>
+    <div class="related-inline"><b>По теме</b>
+      <a href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/">→ Раздельный учёт по ГОЗ: методика и формы</a>
+      <a href="/baza-znaniy/shtrafy-za-razdelnyy-uchet-2026/">→ Штрафы за нарушение раздельного учёта в 2026 году</a>
+      <a href="/baza-znaniy/vosstanovlenie-razdelnogo-ucheta-pered-proverkoy/">→ Восстановление раздельного учёта перед проверкой</a>
+    </div>
+
+    <h2 id="rasshirennoe">Расширенное казначейское сопровождение</h2>
+    <div class="answer reveal">
+      <p>К крупным контрактам ГОЗ применяется расширенное казначейское сопровождение (ст. 242.24 БК РФ)<a class="fn" href="#ref-3" aria-label="Источник 3">[3]</a>. В этом режиме казначейство дополнительно проверяет соответствие фактических затрат данным раздельного учёта и контролирует структуру цены контракта — обоснованность включённых в неё затрат. Если обычное КС отвечает на вопрос «соответствует ли платёж контракту», то расширенное — «соответствует ли цена и затраты реальности». Это повышает требования к качеству первичных документов: каждый элемент цены должен быть подтверждён и сопоставим с фактическими расходами по контракту, иначе у казначейства возникнут вопросы к обоснованности средств.</p>
+    </div>
+
+    <h2 id="kak-otkryt">Как открыть счёт и начать работу: порядок</h2>
+    <div class="answer reveal">
+      <p>Подготовка к работе по контракту ГОЗ с казначейским сопровождением проходит в несколько шагов. Сроки сжатые: раздел на лицевом счёте по контракту ТОФК открывает не позднее следующего рабочего дня после получения контракта, но подготовка документов и подключение к «Электронному бюджету» требуют времени заранее. Ниже — типовой порядок действий.</p>
+      <ol>
+        <li><b>Проверка контракта.</b> Убедиться в наличии казначейской оговорки, корректности ИГК и условий об авансировании.</li>
+        <li><b>Подключение к ГИИС «Электронный бюджет».</b> Оформить квалифицированную электронную подпись, настроить рабочее место, подать заявку на подключение.</li>
+        <li><b>Открытие лицевого счёта в ТОФК.</b> Подготовить пакет документов, включиться в сводный реестр, открыть счёт с кодом «71».</li>
+        <li><b>Утверждение сведений об операциях.</b> Подать и согласовать сведения с кодами направлений расходования по контракту.</li>
+        <li><b>Проведение платежей.</b> Направлять платёжные документы с подтверждающими основаниями, проходить санкционирование.</li>
+      </ol>
+    </div>
+
+    <h2 id="oshibki">Частые ошибки и отказы казначейства</h2>
+    <div class="answer reveal">
+      <p>Большинство отказов казначейства в санкционировании платежей по ГОЗ связаны не с самим контрактом, а с оформлением операций. Каждый отказ — это потерянное время и риск срыва сроков, поэтому корректность кодов и документов критична. Наиболее частые причины собраны ниже.</p>
+      <ul>
+        <li>Отсутствие ИГК на прикреплённых документах (УПД, счёт, накладная).</li>
+        <li>Неверный или неполный код направления расходования в сведениях об операциях.</li>
+        <li>Неполный пакет подтверждающих документов под конкретный код.</li>
+        <li>Несоответствие назначения платежа целям контракта или выход за пределы целевого назначения.</li>
+        <li>Нарушение или формальное ведение раздельного учёта.</li>
+        <li>Расхождение реквизитов контрагента, ИГК или идентификатора соглашения.</li>
+      </ul>
+    </div>
+    <div class="related-inline"><b>По теме</b>
+      <a href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/">→ 10 причин отказа казначейства в санкционировании</a>
+      <a href="/uslugi/spasenie-kontrakta/">→ Подрядчик не справился? Аудит и спасение контракта</a>
+    </div>
+
+    <h2 id="keys">Пример из практики</h2>
+    <div class="answer reveal">
+      <p>Производственная компания получила контракт ГОЗ на ремонт техники с авансированием. Бухгалтерия впервые столкнулась с казначейским сопровождением: первые платежи возвращались из-за неверных кодов направления расходования и отсутствия части документов под код возмещения. Сроки по контракту шли, аванс «завис» на казначейском счёте. После подключения к работе нашей команды за два дня был открыт лицевой счёт, выверены коды и комплект документов, выстроена методика раздельного учёта — последующие платежи проходили санкционирование без замечаний, а контракт был доведён до закрытия в срок. <i>(Кейс обезличен по условиям NDA.)</i></p>
+    </div>
+
+    <div class="takeaways">
+      <h2>Что важно запомнить</h2>
+      <ol>
+        <li>В 2026 году КС обязательно для расчётов по ГОЗ свыше 3 млн ₽ (п. 8 ч. 2 ст. 5 № 426-ФЗ).</li>
+        <li>Под сопровождение попадает вся цепочка кооперации, включая субподрядчиков с договором свыше 3 млн ₽.</li>
+        <li>Работа ведётся через лицевой счёт «71» в ТОФК и ГИИС «Электронный бюджет» с ЭП.</li>
+        <li>Раздельный учёт — приоритетный объект контроля; с 01.01.2026 штраф до 5% цены контракта.</li>
+        <li>Большинство отказов — из-за кодов и документов, а не самого контракта; готовиться нужно заранее.</li>
+      </ol>
+    </div>
+
+    <h2 id="glossary">Глоссарий</h2>
+    <dl class="gloss">
+      <div><dt>ГОЗ</dt><dd>Государственный оборонный заказ (275-ФЗ).</dd></div>
+      <div><dt>ТОФК</dt><dd>Территориальный орган Федерального казначейства.</dd></div>
+      <div><dt>ИГК</dt><dd>Идентификатор государственного контракта, 25 знаков.</dd></div>
+      <div><dt>ОБС</dt><dd>Отдельный банковский счёт для расчётов по ГОЗ.</dd></div>
+      <div><dt>Счёт «71»</dt><dd>Единый лицевой счёт в ТОФК для операций с КС.</dd></div>
+      <div><dt>ГИИС «ЭБ»</dt><dd>Электронный бюджет — система взаимодействия с казначейством.</dd></div>
+      <div><dt>Расширенное КС</dt><dd>Режим с контролем структуры цены (ст. 242.24 БК РФ).</dd></div>
+      <div><dt>Санкционирование</dt><dd>Проверка казначейством операции перед платежом.</dd></div>
+    </dl>
+
+    <h2 id="faq">Частые вопросы</h2>
+    <div class="faq">
+      <details open><summary>С какой суммы казначейское сопровождение ГОЗ обязательно в 2026 году?</summary><p>Расчёты по контрактам ГОЗ и контрактам в их исполнение подлежат КС при сумме свыше 3 млн ₽ (п. 8 ч. 2 ст. 5 ФЗ № 426-ФЗ).</p></details>
+      <details><summary>Чем казначейское сопровождение ГОЗ отличается от банковского?</summary><p>При банковском режиме расчёты идут через отдельный счёт в уполномоченном банке, при казначейском — через лицевой счёт в ТОФК. Режим определяется условиями контракта и решением госзаказчика.</p></details>
+      <details><summary>Что такое ИГК и где он используется?</summary><p>ИГК — 25-значный идентификатор госконтракта, присваивается заказчиком. Под каждый ИГК открывается отдельный счёт, код указывается во всех платёжных и распорядительных документах.</p></details>
+      <details><summary>Нужно ли казначейское сопровождение субподрядчику по ГОЗ?</summary><p>Да, если договор с соисполнителем в рамках сопровождаемого контракта заключён на сумму свыше 3 млн ₽ — такие расчёты подлежат КС (п. 9 ч. 2 ст. 5 № 426-ФЗ).</p></details>
+      <details><summary>Какой штраф за нарушение раздельного учёта по ГОЗ в 2026 году?</summary><p>По ст. 15.37.1 КоАП РФ с 01.01.2026: должностным лицам 10 000–50 000 ₽, ИП и юрлицам — 1–5% цены контракта, но не более 200 000 ₽ (ИП) и 500 000 ₽ (юрлица).</p></details>
+      <details><summary>Что такое расширенное казначейское сопровождение?</summary><p>Режим (ст. 242.24 БК РФ) для крупных контрактов, при котором казначейство дополнительно проверяет соответствие фактических затрат данным раздельного учёта и контролирует структуру цены.</p></details>
+      <details><summary>Сколько по времени открывается лицевой счёт в ТОФК?</summary><p>Раздел на лицевом счёте по контракту ТОФК открывает не позднее следующего рабочего дня после получения контракта; основное время занимает подготовка документов и подключение к «Электронному бюджету».</p></details>
+      <details><summary>Что такое казначейская оговорка в контракте ГОЗ?</summary><p>Казначейская оговорка — условие контракта о том, что расчёты по нему проводятся через лицевой счёт в территориальном органе казначейства с применением казначейского сопровождения. Её наличие нужно проверять до подписания контракта.</p></details>
+      <details><summary>Можно ли перевести деньги с казначейского счёта на расчётный?</summary><p>Свободно распоряжаться средствами нельзя. Перечисление с лицевого счёта в ТОФК на расчётные счета в банках возможно только в установленных случаях и порядке (Постановление Правительства РФ № 1752), после санкционирования операции казначейством.</p></details>
+      <details><summary>Какие документы нужны для открытия лицевого счёта?</summary><p>Базовый пакет включает контракт (или выписку из него), заявление на открытие счёта, карточку образцов подписей, документы по электронной подписи и согласия на обработку данных. Подача — через ГИИС «Электронный бюджет».</p></details>
+      <details><summary>Нужна ли отдельная электронная подпись для казначейского сопровождения?</summary><p>Да. Для работы в ГИИС «Электронный бюджет» — открытия счёта, подачи сведений и проведения платежей — необходима действующая квалифицированная электронная подпись на уполномоченных сотрудников.</p></details>
+      <details><summary>Что делать, если казначейство вернуло платёж по ГОЗ?</summary><p>Нужно установить причину отказа (чаще всего это код направления расходования, отсутствие ИГК или неполный пакет документов), исправить её и повторно направить платёж. При систематических возвратах целесообразен аудит сопровождения и раздельного учёта.</p></details>
+      <details><summary>Сколько стоит казначейское сопровождение ГОЗ?</summary><p>Стоимость зависит от типа контракта, объёма операций и наличия раздельного учёта по ГОЗ. Точную цену мы называем после бесплатного анализа контракта — оставьте заявку, и эксперт рассчитает её под вашу ситуацию.</p></details>
+    </div>
+
+    <div class="author">
+      <div class="author__av">ЯМ</div>
+      <div class="author__body">
+        <div class="author__name">Ярослав Михайлов</div>
+        <div class="author__role">Основатель и главный эксперт КазнаЭксперт</div>
+        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Команда под руководством Ярослава сопроводила более 7000 контрактов на 90 млрд ₽ по 44-ФЗ, 223-ФЗ и ГОЗ. Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
+        <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
+      </div>
+    </div>
+
+    <div class="refs">
+      <h2>Источники и нормативная база</h2>
+      <ol>
+        <li id="ref-1">Федеральный закон от 28.11.2025 № 426-ФЗ «О федеральном бюджете на 2026 год и на плановый период 2027 и 2028 годов», ст. 5 — <a href="https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/" target="_blank" rel="noopener">consultant.ru</a></li>
+        <li id="ref-2">Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе» — <a href="https://normativ.kontur.ru/document?moduleId=1&amp;documentId=503399" target="_blank" rel="noopener">normativ.kontur.ru</a></li>
+        <li id="ref-3">Бюджетный кодекс РФ, глава 24.4 «Казначейское сопровождение» (ст. 242.23–242.27) — <a href="https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/" target="_blank" rel="noopener">base.garant.ru</a></li>
+        <li id="ref-4">КоАП РФ, ст. 15.37.1 и 15.49 — административная ответственность с 01.01.2026 — <a href="https://www.consultant.ru/document/cons_doc_LAW_518324/b48bd9242136e1f526456eeeccf977e42c79d9bb/" target="_blank" rel="noopener">consultant.ru</a></li>
+        <li id="ref-5">Постановление Правительства РФ от 11.12.2024 № 1752 (перечисление средств с лицевых счетов) — <a href="http://publication.pravo.gov.ru/document/0001202412120038" target="_blank" rel="noopener">pravo.gov.ru</a></li>
+        <li id="ref-6">Федеральный закон от 04.11.2025 № 406-ФЗ (продление особого порядка расчётов по ГОЗ до 31.12.2026); приказ Минфина России № 12н (раздельный учёт при КС).</li>
+      </ol>
+      <p class="refs__note">Материал носит справочный характер; точный режим сопровождения определяется условиями конкретного госконтракта. Проверено экспертом КазнаЭксперт. Дата актуализации — 3 июня 2026.</p>
+    </div>
+  </article>
+
+  <aside class="rail">
+    <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="goz-275fz">
+      <div class="railform__badge">Бесплатный анализ контракта</div>
+      <h3 class="railform__title">Проверим ваш контракт ГОЗ</h3>
+      <p class="railform__sub">Разберём режим сопровождения и риски. Точная цена — после анализа.</p>
+      <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
+      <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
+      <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
+      <button class="submit" type="submit">Получить расчёт →</button>
+      <div class="formmsg" id="formMsg" hidden></div>
+      <div class="railform__trust">
+        <span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span>
+        <span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span>
+      </div>
+      <div class="success" id="leadSuccess" role="status" aria-live="polite">
+        <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
+        <h3>Заявка принята</h3>
+        <p>Эксперт перезвонит <b>в течение 1 часа</b> (9:00–21:00 МСК) и разберёт ваш контракт.</p>
+        <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
+      </div>
+    </form>
+  </aside>
+</div>
+
+<section class="related" aria-labelledby="relTitle">
+  <div class="related__head"><h2 id="relTitle">Что почитать ещё</h2><a href="/baza-znaniy/">Вся база знаний →</a></div>
+  <div class="related__grid">
+    <a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/"><div class="card__cover"><span>Раздельный учёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по ГОЗ: методика, формы, штрафы</h3><div class="card__meta">Раздельный учёт · 12 мин</div></div></a>
+    <a class="card reveal" href="/baza-znaniy/licevoy-schet-71-kak-otkryt/"><div class="card__cover"><span>Счёт 71</span></div><div class="card__body"><span class="card__cat">Инструкция</span><h3 class="card__title">Как открыть лицевой счёт 71 в ТОФК</h3><div class="card__meta">Открытие счёта · 9 мин</div></div></a>
+    <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>10 причин</span></div><div class="card__body"><span class="card__cat">Чек-лист</span><h3 class="card__title">10 причин отказа казначейства в санкционировании</h3><div class="card__meta">Санкционирование · 11 мин</div></div></a>
+  </div>
+</section>
+
+<section class="trust" aria-label="Проверка в реестрах">
+  <div class="trust__box">
+    <div class="trust__lead"><b>Проверьте нас в открытых реестрах</b>ИП Михайлов Я.А. · ИНН 781428314589 · ОГРНИП 321784700367672</div>
+    <div class="trust__badges">
+      <a class="badge" href="https://www.rusprofile.ru/ip/321784700367672" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg><b>Rusprofile</b></a>
+      <a class="badge" href="https://zachestnyibiznes.ru/company/ip/321784700367672_781428314589" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg>За честный <b>бизнес</b></a>
+      <a class="badge" href="https://www.audit-it.ru/contragent/fl/781428314589_mikhailov-iaroslav-alekseevich" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg><b>Audit-it</b></a>
+    </div>
+  </div>
+</section>
+
+<div class="v2">
+<footer class="v2-footer" id="footer">
+        <div class="v2-container">
+
+          <div class="v2-footer-cta">
+            <div class="v2-footer-cta-lead">
+              <span class="v2-footer-cta-eyebrow">Готовы начать</span>
+              <p class="v2-footer-cta-title">Откроем казначейский счёт <em>за два рабочих дня</em></p>
+            </div>
+            <div class="v2-footer-cta-actions">
+              <a href="/#contacts" class="v2-footer-cta-btn">Оставить заявку</a>
+              <a href="tel:+79818331010" class="v2-footer-cta-phone">+7 981 833-10-10</a>
+            </div>
+          </div>
+
+          <div class="v2-footer-top">
+
+            <div class="v2-footer-brand">
+              <a href="/" class="v2-footer-logo" aria-label="КазнаЭксперт — на главную">
+                <img src="/img/logogold.webp" alt="КазнаЭксперт" width="180" height="54" loading="lazy">
+              </a>
+              <p class="v2-footer-tagline">Полное казначейское сопровождение под ключ. Работа с УФК по всей России с 2009 года.</p>
+            </div>
+
+            <nav class="v2-footer-col" aria-label="Связаться">
+              <h3 class="v2-footer-h">Связаться</h3>
+              <a href="tel:+79818331010">+7 981 833-10-10</a>
+              <a href="mailto:kaznaexpert@gmail.com">kaznaexpert@gmail.com</a>
+              <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
+              <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+            </nav>
+
+            <nav class="v2-footer-col" aria-label="Мы в сети">
+              <h3 class="v2-footer-h">Мы в сети</h3>
+              <a href="https://t.me/Kazna_Expert" target="_blank" rel="noopener">Telegram-канал</a>
+              <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener">Дзен</a>
+              <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener">Клерк</a>
+              <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener">TenChat</a>
+            </nav>
+
+            <nav class="v2-footer-col" aria-label="Проверка и реквизиты">
+              <h3 class="v2-footer-h">Проверка</h3>
+              <a href="https://www.rusprofile.ru/ip/321784700367672" target="_blank" rel="noopener nofollow">Rusprofile</a>
+              <a href="https://zachestnyibiznes.ru/company/ip/321784700367672_781428314589" target="_blank" rel="noopener nofollow">За честный бизнес</a>
+              <a href="https://www.audit-it.ru/contragent/fl/781428314589_mikhailov-iaroslav-alekseevich" target="_blank" rel="noopener nofollow">Audit-it</a>
+            </nav>
+
+          </div>
+
+          <div class="v2-footer-bottom">
+            <p class="v2-footer-id">ИП Михайлов Ярослав Алексеевич · ИНН 781428314589 · ОГРНИП 321784700367672</p>
+            <nav class="v2-footer-legal" aria-label="Правовая информация">
+              <a href="/privacy/">Политика конфиденциальности</a>
+              <a href="/terms/">Пользовательское соглашение</a>
+              <a href="#" data-cookie-reset>Настройки cookie</a>
+            </nav>
+            <p class="v2-footer-copy">© 2026 КазнаЭксперт</p>
+          </div>
+
+        </div>
+      </footer>
+</div>
+
+<button class="totop" id="toTop" type="button" aria-label="Наверх · прочитано" title="Наверх"><svg class="totop__ring" width="48" height="48" viewBox="0 0 48 48" aria-hidden="true"><circle class="totop__bg" cx="24" cy="24" r="21"/><circle class="totop__fg" id="totopRing" cx="24" cy="24" r="21"/></svg><svg class="totop__arrow" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg><span class="totop__pct" id="totopPct" aria-live="off">0%</span></button>
+
+<div class="cookie-banner" id="cookie-banner" role="dialog" aria-label="Согласие на использование cookie" aria-live="polite" hidden>
+      <div class="cookie-banner-inner">
+        <div class="cookie-banner-text">
+          <strong>Мы используем файлы cookie</strong>
+          <p>Необходимые cookie обеспечивают работу сайта и формы заявки. Аналитика (Яндекс.Метрика, РФ — без трансграничной передачи данных) включается только с вашего согласия. Подробнее — в <a href="/privacy/">Политике конфиденциальности</a>.</p>
+        </div>
+        <div class="cookie-banner-actions">
+          <button type="button" class="cookie-btn cookie-btn--ghost" id="cookie-settings">Настройки</button>
+          <button type="button" class="cookie-btn cookie-btn--ghost" id="cookie-reject">Только необходимые</button>
+          <button type="button" class="cookie-btn cookie-btn--solid" id="cookie-accept-all">Принять все</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="cookie-modal" id="cookie-modal" role="dialog" aria-modal="true" aria-labelledby="cookie-modal-title" hidden>
+      <div class="cookie-modal-backdrop" id="cookie-modal-backdrop"></div>
+      <div class="cookie-modal-card">
+        <h2 class="cookie-modal-title" id="cookie-modal-title">Настройки cookie</h2>
+        <div class="cookie-cat">
+          <div class="cookie-cat-row">
+            <div class="cookie-cat-info">
+              <strong>Необходимые</strong>
+              <span>Работа сайта, формы заявки и хранение вашего выбора cookie. Отключить нельзя.</span>
+            </div>
+            <span class="cookie-cat-locked">Всегда вкл.</span>
+          </div>
+          <label class="cookie-cat-row">
+            <div class="cookie-cat-info">
+              <strong>Аналитика</strong>
+              <span>Яндекс.Метрика — анонимная статистика посещений. Данные хранятся в РФ, без трансграничной передачи.</span>
+            </div>
+            <input type="checkbox" id="cookie-cat-analytics" class="cookie-toggle" checked>
+          </label>
+        </div>
+        <div class="cookie-modal-actions">
+          <button type="button" class="cookie-btn cookie-btn--ghost" id="cookie-modal-close">Отмена</button>
+          <button type="button" class="cookie-btn cookie-btn--solid" id="cookie-modal-save">Сохранить выбор</button>
+        </div>
+      </div>
+    </div>
+
+<script>
+/* reading analytics: прогресс-бар + кольцо «прочитано %» + события дочитывания/времени
+   Цели уходят ТОЛЬКО в Яндекс.Метрику (ym reachGoal) — без GA, нет трансграничной передачи данных.
+   Метрики: read_25/50/75/90/100 (глубина), time_15s/30s/60s/120s/300s (активное время), read_complete. */
+(function(){
+  var bar=document.getElementById('progress'),ring=document.getElementById('totopRing'),pctEl=document.getElementById('totopPct');
+  var C=2*Math.PI*21,fired={},maxPct=0,active=0,last=Date.now();
+  var depth=[25,50,75,90,100],times=[15,30,60,120,300];
+  function track(name){
+    if(fired[name])return;fired[name]=1;
+    // только Яндекс.Метрика — без GA (нет трансграничной передачи данных)
+    try{window.ym&&ym(window.YM_ID||0,'reachGoal',name);}catch(e){}
+  }
+  function upd(){
+    var h=document.documentElement,sc=h.scrollTop||document.body.scrollTop,max=h.scrollHeight-h.clientHeight;
+    var pct=max>0?Math.min(100,sc/max*100):0,r=Math.round(pct);
+    if(bar)bar.style.width=pct+'%';
+    if(ring)ring.style.strokeDashoffset=C*(1-pct/100);
+    if(pctEl)pctEl.textContent=r+'%';
+    if(r>maxPct)maxPct=r;
+    depth.forEach(function(m){if(maxPct>=m)track('read_'+m);});
+  }
+  addEventListener('scroll',upd,{passive:true});addEventListener('resize',upd);upd();
+  // параметры страницы для группировки в Метрике (задать per-page: window.YM_PARAMS={page_type:'pillar',cluster:'goz'})
+  try{window.ym&&window.YM_PARAMS&&ym(window.YM_ID||0,'params',window.YM_PARAMS);}catch(e){}
+  // активное время чтения (пауза, когда вкладка скрыта)
+  document.addEventListener('visibilitychange',function(){if(document.hidden){active+=Date.now()-last;}else{last=Date.now();}});
+  setInterval(function(){
+    if(!document.hidden){active+=Date.now()-last;last=Date.now();}
+    var sec=Math.round(active/1000);
+    times.forEach(function(m){if(sec>=m)track('time_'+m+'s');});
+    if(maxPct>=90&&sec>=60)track('read_complete');
+  },5000);
+  // финальная отправка глубины при уходе со страницы
+  addEventListener('beforeunload',function(){track('depth_'+(maxPct>=90?90:maxPct>=75?75:maxPct>=50?50:maxPct>=25?25:0));});
+})();
+/* scroll reveal */
+(function(){
+  var els=[].slice.call(document.querySelectorAll('.reveal'));
+  if(!els.length||!('IntersectionObserver'in window)){els.forEach(function(e){e.classList.add('in');});return;}
+  var o=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');o.unobserve(e.target);}});},{rootMargin:'0px 0px -8% 0px'});
+  els.forEach(function(e){o.observe(e);});
+})();
+/* TOC active */
+(function(){
+  var links=[].slice.call(document.querySelectorAll('#tocList a'));if(!links.length||!('IntersectionObserver'in window))return;
+  var map={};links.forEach(function(a){map[a.getAttribute('href').slice(1)]=a;});
+  var o=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){links.forEach(function(l){l.classList.remove('active');});var a=map[e.target.id];if(a)a.classList.add('active');}});},{rootMargin:'-78px 0px -70% 0px'});
+  document.querySelectorAll('.content h2[id]').forEach(function(h){o.observe(h);});
+})();
+/* lead form */
+(function(){
+  var form=document.getElementById('leadForm');if(!form)return;
+  var msg=document.getElementById('formMsg'),ok=document.getElementById('leadSuccess');
+  form.addEventListener('submit',function(e){
+    e.preventDefault();
+    if(form.company_extra.value)return;
+    if(!form.consent.checked){show('Подтвердите согласие на обработку данных');return;}
+    if(form.name.value.trim().length<2||form.phone.value.replace(/\D/g,'').length<10){show('Проверьте имя и телефон');return;}
+    var DEMO=false;
+    var btn=form.querySelector('.submit'),orig=btn.textContent;btn.disabled=true;btn.textContent='Отправляем…';
+    var data={phone:form.phone.value.trim(),source:'goz-275fz',consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (форма «КС ГОЗ 275-ФЗ»)',consent_at:new Date().toISOString(),page_url:location.href,name:form.name.value.trim()};
+    fetch(form.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)})
+      .then(function(r){if(!r.ok)throw 0;return r;}).then(succeed).catch(function(){if(DEMO){succeed();}else{fail();}});
+    function succeed(){[].forEach.call(form.children,function(el){if(el!==ok)el.style.display='none';});ok.classList.add('on');try{window.ym&&ym(94305898,'reachGoal','lead',{source:'goz-275fz'});}catch(e){}}
+    function fail(){btn.disabled=false;btn.textContent=orig;show('Не удалось отправить. Позвоните +7 981 833-10-10 или напишите в Telegram.');}
+  });
+  function show(t){msg.hidden=false;msg.textContent=t;}
+})();
+/* theme toggle убран: сайт светлый, тёмной темы у общего header/footer нет */
+/* heading anchor links */
+(function(){
+  document.querySelectorAll('.content h2[id]').forEach(function(h){
+    var a=document.createElement('a');a.href='#'+h.id;a.className='anchor';a.setAttribute('aria-label','Ссылка на раздел');a.textContent='#';
+    a.addEventListener('click',function(e){e.preventDefault();var u=location.href.split('#')[0]+'#'+h.id;history.replaceState(null,'',u);if(navigator.clipboard)navigator.clipboard.writeText(u);location.hash=h.id;});
+    h.insertBefore(a,h.firstChild);
+  });
+})();
+/* back to top */
+(function(){
+  var b=document.getElementById('toTop');if(!b)return;
+  addEventListener('scroll',function(){if((document.documentElement.scrollTop||document.body.scrollTop)>700)b.classList.add('on');else b.classList.remove('on');},{passive:true});
+  b.addEventListener('click',function(){scrollTo({top:0,behavior:'smooth'});});
+})();
+/* copy quote */
+(function(){
+  document.querySelectorAll('.quote').forEach(function(q){
+    q.style.cursor='copy';q.title='Нажмите, чтобы скопировать цитату';
+    q.addEventListener('click',function(){
+      var t=q.querySelector('cite'),txt=q.textContent.replace(t?t.textContent:'','').trim()+' — КазнаЭксперт';
+      if(navigator.clipboard)navigator.clipboard.writeText(txt);
+      var old=q.style.borderLeftColor;q.style.borderLeftColor='#3aa76d';setTimeout(function(){q.style.borderLeftColor=old;},700);
+    });
+  });
+})();
+/* share: copy link + print/PDF */
+(function(){
+  var c=document.getElementById('copyLink'),p=document.getElementById('printBtn');
+  if(c)c.addEventListener('click',function(){try{navigator.clipboard&&navigator.clipboard.writeText(location.href);}catch(e){}var s=c.querySelector('span');if(s){var o=s.textContent;s.textContent='Скопировано ✓';setTimeout(function(){s.textContent=o;},1500);}});
+  if(p)p.addEventListener('click',function(){window.print();});
+})();
+/* mini calculator: попадает ли контракт под КС 2026 */
+(function(){
+  var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');
+  if(!type||!sum||!out)return;
+  var RULES={
+    goz:{th:3,strict:true,law:'п. 8 ч. 2 ст. 5 ФЗ № 426-ФЗ',what:'расчётов по контракту ГОЗ'},
+    ed:{th:3,strict:true,law:'п. 7 ч. 2 ст. 5 ФЗ № 426-ФЗ',what:'расчётов с единственным поставщиком'},
+    sub:{th:3,strict:true,law:'п. 9 ч. 2 ст. 5 ФЗ № 426-ФЗ',what:'договора с соисполнителем'},
+    gos:{th:100,strict:false,law:'п. 5 ч. 2 ст. 5 ФЗ № 426-ФЗ',what:'аванса по обычному госконтракту'},
+    bu:{th:10,strict:false,law:'п. 6 ч. 2 ст. 5 ФЗ № 426-ФЗ',what:'аванса по контракту БУ/АУ'},
+    subs:{always:true,law:'пп. 1–4 ч. 2 ст. 5 ФЗ № 426-ФЗ',what:'субсидий и инвестиций'}
+  };
+  function fmt(n){try{return n.toLocaleString('ru-RU');}catch(e){return n;}}
+  function rmLaw(){var e=out.querySelector('.calc__law');if(e)e.remove();}
+  function render(cls,verd,desc,law){
+    out.querySelector('.calc__verdict').className='calc__verdict'+(cls?' '+cls:'');
+    out.querySelector('.calc__verdict').textContent=verd;
+    out.querySelector('.calc__desc').textContent=desc;rmLaw();
+    if(law){var p=document.createElement('div');p.className='calc__law';p.textContent='Основание: '+law+'. Точный режим определяется текстом контракта.';out.appendChild(p);}
+  }
+  function calc(){
+    var r=RULES[type.value],raw=(sum.value||'').replace(',','.'),v=parseFloat(raw);
+    if(r.always){render('yes','✓ Подлежит казначейскому сопровождению','Субсидии юрлицам, бюджетные инвестиции по ст. 80 БК РФ и гранты сопровождаются без суммового порога.',r.law);return;}
+    if(isNaN(v)){render('','Укажите сумму контракта','Порог для «'+type.options[type.selectedIndex].text+'»: '+(r.strict?'свыше ':'от ')+fmt(r.th)+' млн ₽.',null);return;}
+    var yes=r.strict?(v>r.th):(v>=r.th);
+    render(yes?'yes':'no',(yes?'✓ ':'— ')+(yes?'Подлежит казначейскому сопровождению':'Не подлежит казначейскому сопровождению'),
+      'Для '+r.what+' порог — '+(r.strict?'свыше ':'от ')+fmt(r.th)+' млн ₽. Указано: '+fmt(v)+' млн ₽.',r.law);
+  }
+  type.addEventListener('change',calc);sum.addEventListener('input',calc);
+})();
+/* доп. цели Метрики: контакты, форма, калькулятор, шеринг (только ym) */
+(function(){
+  function g(name){try{window.ym&&ym(window.YM_ID||0,'reachGoal',name);}catch(e){}}
+  document.addEventListener('click',function(e){
+    var a=e.target.closest?e.target.closest('a,button'):null;if(!a)return;
+    var href=(a.getAttribute&&a.getAttribute('href'))||'';
+    if(href.indexOf('tel:')===0)g('click_phone');
+    else if(/t\.me\//.test(href)&&href.indexOf('/share')<0)g('click_telegram');
+    else if(href.indexOf('mailto:')===0)g('click_email');
+    else if(a.classList&&a.classList.contains('badge'))g('click_registry');
+  },true);
+  var lf=document.getElementById('leadForm');
+  if(lf){var st=false;lf.addEventListener('focusin',function(){if(!st){st=true;g('form_start');}});}
+  var ct=document.getElementById('calcType'),cs=document.getElementById('calcSum'),cd=false;
+  function cu(){if(!cd){cd=true;g('calc_used');}}
+  ct&&ct.addEventListener('change',cu);cs&&cs.addEventListener('input',cu);
+  var cl=document.getElementById('copyLink'),pb=document.getElementById('printBtn');
+  cl&&cl.addEventListener('click',function(){g('copy_link');});
+  pb&&pb.addEventListener('click',function(){g('print_pdf');});
+  document.querySelectorAll('.share a[href*="t.me/share"]').forEach(function(a){a.addEventListener('click',function(){g('share_telegram');});});
+})();
+/* cookie consent */
+(function(){
+  var KEY='ke_cookie_consent',bar=document.getElementById('ckBar');if(!bar)return;
+  function read(){try{return localStorage.getItem(KEY);}catch(e){return null;}}
+  function write(v){try{localStorage.setItem(KEY,v);}catch(e){}}
+  function show(){bar.hidden=false;requestAnimationFrame(function(){bar.classList.add('on');bar.classList.remove('off');});}
+  function hide(){bar.classList.add('off');bar.classList.remove('on');setTimeout(function(){bar.hidden=true;},450);}
+  function disable(){try{window['yaDisableMetrika']=true;window.ym=function(){};}catch(e){}}
+  function publish(v){document.documentElement.setAttribute('data-cookie-consent',v);}
+  document.getElementById('ckAccept').addEventListener('click',function(){write('all');publish('all');hide();});
+  document.getElementById('ckDecline').addEventListener('click',function(){write('necessary');publish('necessary');disable();hide();});
+  var rs=document.getElementById('ckSettings');if(rs)rs.addEventListener('click',function(e){e.preventDefault();show();});
+  var s=read();
+  if(s==='necessary'){publish('necessary');disable();}
+  else if(s==='all'){publish('all');}
+  else{publish('pending');setTimeout(show,800);}
+})();
+</script>
+
+<script src="/js/cookie-consent.js?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/js/cookie-consent.js') ?>"></script>
+<script>
+/* v2-header: бургер + sticky-shrink (без main.js, чтобы не дублировать цели Метрики) */
+(function(){
+  var b=document.getElementById('v2Burger'),m=document.getElementById('v2MobileMenu');
+  if(b&&m){var o=function(s){b.classList.toggle('is-open',s);m.classList.toggle('is-open',s);b.setAttribute('aria-expanded',s?'true':'false');};
+    b.addEventListener('click',function(){o(!b.classList.contains('is-open'));});
+    m.addEventListener('click',function(e){if(e.target.closest('a'))o(false);});
+    document.addEventListener('keydown',function(e){if(e.key==='Escape')o(false);});}
+  var h=document.querySelector('.v2-header');
+  if(h){var u=function(){h.classList.toggle('is-scrolled',(window.scrollY||0)>12);};addEventListener('scroll',u,{passive:true});u();}
+})();
+</script>
+</body>
+</html>
