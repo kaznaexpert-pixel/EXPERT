@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Казначейское сопровождение ГОЗ в 2026 году: 275-ФЗ, счёт, раздельный учёт, штрафы | КазнаЭксперт</title>
+<title>Казначейское сопровождение ГОЗ 2026: 275-ФЗ, счёт, штрафы | КазнаЭксперт</title>
 <meta name="description" content="Казначейское сопровождение ГОЗ в 2026: кто обязан, порог 3 млн ₽, лицевой счёт в ТОФК, раздельный учёт по 275-ФЗ, штрафы КоАП. Экспертный разбор со ссылками на НПА.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -25,6 +25,8 @@
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"pillar", cluster:"goz"};</script>
 <link rel="preconnect" href="https://mc.yandex.ru" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="/fonts/playfairdisplay-normal-500-cyrillic.woff2" crossorigin>
 <link rel="stylesheet" href="/css/fonts.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/fonts.css') ?>">
 <link rel="stylesheet" href="/css/v2.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/v2.css') ?>">
 
@@ -370,15 +372,15 @@ tr:hover td{background:var(--soft)}
 @media(max-width:520px){.ft__in{grid-template-columns:1fr}}
 
 /* hero band */
-.hero{position:relative;margin:0 0 22px;padding:30px 32px 26px;border-radius:20px;background:radial-gradient(130% 150% at 0% 0%,var(--card),var(--paper));border:1px solid var(--line);overflow:hidden}
+.hero{position:relative;margin:0 0 22px;padding:30px 32px 26px;border-radius:20px;background:radial-gradient(130% 150% at 0% 0%,var(--card),var(--paper));border:1px solid var(--line);overflow:hidden;min-height:360px}
 .hero>*{position:relative;z-index:1}
-.hero__crest{position:absolute;right:-26px;top:-22px;width:188px;height:auto;opacity:.07;pointer-events:none;z-index:0}
+.hero__crest{position:absolute;right:-26px;top:-22px;width:188px;height:auto;opacity:.07;pointer-events:none;z-index:0;aspect-ratio:188/137}
 .hero__crest--dark{display:none}
 [data-theme="dark"] .hero__crest--light{display:none}
 [data-theme="dark"] .hero__crest--dark{display:block;opacity:.05}
 .hero h1{margin-bottom:12px}
 .hero .byline{margin-bottom:0}
-@media(max-width:560px){.hero{padding:22px 20px}.hero__crest{width:130px;right:-14px}}
+@media(max-width:560px){.hero{padding:22px 20px;min-height:440px}.hero__crest{width:130px;right:-14px}}
 /* marginalia / sidenotes */
 .sidenote{font-size:13.5px;color:var(--ink-soft);line-height:1.5;border-left:2px solid var(--sepia);padding:2px 0 2px 14px;margin:14px 0}
 .sidenote b{color:var(--ink);font-weight:600}
