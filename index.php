@@ -499,14 +499,11 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                   </button>
                 </form>
 
-                <div class="v2-hero-welcome">
-                  <span class="v2-hero-welcome-eyebrow">Приветственное слово</span>
-                  <p class="v2-hero-welcome-text">Здравствуйте! Я лично разберу ваш контракт и возьму работу с УФК на себя — от резерва счёта до закрытия. За 15 лет в Казначействе знаю причины отказов и санкционирование платежей изнутри. Без сюрпризов и срыва сроков.</p>
-                  <div class="v2-hero-welcome-sign">
-                    <span class="v2-hero-welcome-name">Михайлов Ярослав</span>
-                    <span class="v2-hero-welcome-role">Эксперт · 15 лет в Казначействе</span>
-                  </div>
-                </div>
+                <ul class="v2-hero-action-points">
+                  <li>Бесплатный анализ контракта перед стартом</li>
+                  <li>Стоимость фиксируем в договоре</li>
+                  <li>Сопровождаем дистанционно — по всей России</li>
+                </ul>
 
                 <div class="v2-hero-alt">
                   Или напишите — ответим за 5 минут
@@ -520,6 +517,28 @@ header("Cache-Control: public, max-age=300, must-revalidate");
 
             </div>
 
+          </div>
+        </section>
+
+        <!-- ============================================================ -->
+        <!-- ВСТУПИТЕЛЬНОЕ СЛОВО — личное обращение эксперта -->
+        <!-- ============================================================ -->
+        <section class="v2-foreword" id="foreword" aria-labelledby="foreword-name">
+          <div class="v2-container">
+            <div class="v2-foreword-inner v2-reveal">
+              <span class="v2-foreword-mark" aria-hidden="true">“</span>
+              <span class="v2-foreword-eyebrow">Вступительное слово</span>
+              <blockquote class="v2-foreword-quote">
+                Здравствуйте! Я лично разбираю каждый контракт и беру всю работу с Казначейством на себя —
+                от резерва счёта на тендер до закрытия. За 15 лет внутри УФК я знаю причины отказов
+                и санкционирование платежей изнутри. Вы получаете не подрядчика, а эксперта,
+                который доводит дело без сюрпризов и срыва сроков.
+              </blockquote>
+              <div class="v2-foreword-sign">
+                <span class="v2-foreword-name" id="foreword-name">Михайлов Ярослав</span>
+                <span class="v2-foreword-role">Эксперт · 15 лет в Казначействе</span>
+              </div>
+            </div>
           </div>
         </section>
 
