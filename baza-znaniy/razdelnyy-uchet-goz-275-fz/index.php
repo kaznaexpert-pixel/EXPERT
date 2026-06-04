@@ -574,12 +574,12 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <section class="keyfacts grain" aria-label="Ключевые факты">
       <h2>Коротко о главном на 2026 год</h2>
       <div class="keyfacts__grid">
-        <div class="kf"><div class="kf__n">по каждому контракту</div><div class="kf__t"><b>Принцип</b> — обособленный учёт доходов и затрат под каждый ИГК</div></div>
-        <div class="kf"><div class="kf__n">ст. 8 № 275-ФЗ</div><div class="kf__t"><b>Обязанность</b> головного исполнителя и всей кооперации</div></div>
-        <div class="kf"><div class="kf__n">ПП РФ № 47</div><div class="kf__t"><b>Правила</b> ведения раздельного учёта результатов ФХД</div></div>
-        <div class="kf"><div class="kf__n">приказ № 334</div><div class="kf__t"><b>Состав затрат</b> в цене продукции ГОЗ (Минпромторг)</div></div>
-        <div class="kf"><div class="kf__n">5–10% · до 500k ₽</div><div class="kf__t"><b>Штраф юрлицу</b> при КС — ст. 15.37.1 КоАП с 01.01.2026</div></div>
-        <div class="kf"><div class="kf__n">ст. 242.24 БК</div><div class="kf__t"><b>Расширенное КС</b> сверяет факт затрат с данными раздельного учёта</div></div>
+        <div class="kf"><div class="kf__n">по ИГК</div><div class="kf__t"><b>Принцип</b> — обособленный учёт доходов и затрат по каждому контракту</div></div>
+        <div class="kf"><div class="kf__n">275-ФЗ</div><div class="kf__t"><b>Обязанность</b> по ст. 8 — головной исполнитель и вся кооперация</div></div>
+        <div class="kf"><div class="kf__n">ПП № 47</div><div class="kf__t"><b>Правила</b> ведения раздельного учёта результатов ФХД</div></div>
+        <div class="kf"><div class="kf__n">№ 334</div><div class="kf__t"><b>Состав затрат</b> в цене продукции ГОЗ — приказ Минпромторга</div></div>
+        <div class="kf"><div class="kf__n">до 500k ₽</div><div class="kf__t"><b>Штраф юрлицу</b> 5–10% цены — ст. 15.37.1 КоАП с 01.01.2026</div></div>
+        <div class="kf"><div class="kf__n">ст. 242.24</div><div class="kf__t"><b>Расширенное КС</b> сверяет факт затрат с данными раздельного учёта</div></div>
       </div>
     </section>
 
