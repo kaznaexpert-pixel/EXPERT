@@ -1,0 +1,35 @@
+# Автодеплой на Fornex при push в main. Секреты задать в Settings → Secrets and variables → Actions:
+#   FORNEX_HOST   — хост/IP Fornex (напр. y98451.hostru07.fornex.host)
+#   FORNEX_USER   — ssh-пользователь (напр. y98451)
+#   FORNEX_SSH_KEY — приватный ssh-ключ (весь, включая BEGIN/END)
+#   FORNEX_DEPLOY_CMD — команда деплоя на сервере (напр.: ~/deploy-kaznaexpert.sh)
+# Примечание: SSH на Fornex слушает нестандартный порт 20022.
+
+name: Deploy to Fornex
+
+on:
+  push:
+    branches: [ main ]
+
+concurrency:
+  group: deploy-main
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup SSH
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.FORNEX_SSH_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -p 20022 -H "${{ secrets.FORNEX_HOST }}" >> ~/.ssh/known_hosts 2>/dev/null
+
+      - name: Deploy (git pull + hook on server)
+        run: |
+          ssh -i ~/.ssh/id_ed25519 -p 20022 "${{ secrets.FORNEX_USER }}@${{ secrets.FORNEX_HOST }}" \
+            "${{ secrets.FORNEX_DEPLOY_CMD }}"
