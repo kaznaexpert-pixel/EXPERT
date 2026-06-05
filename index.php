@@ -575,6 +575,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
               <p class="v2-section-lede">Платите только за нужный этап. Конкретный объём работ и фиксированная стоимость прописаны в договоре.</p>
             </div>
 
+<style>.v2 .v2-tariff-more{display:inline-block;margin-top:10px;font-size:13px;color:var(--accent,#8B6F47);font-weight:500;letter-spacing:.01em}.v2 .v2-tariff-more:hover{text-decoration:underline}</style>
             <div class="v2-tariffs-grid">
 
               <article class="v2-tariff">
@@ -586,6 +587,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                   <div class="v2-tariff-price-num">25 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div>
                   <div class="v2-tariff-price-note">Разово · к дате тендера</div>
                   <a href="#contacts" class="v2-tariff-link" data-tariff="rezerv">Обсудить контракт <span aria-hidden="true">→</span></a>
+                  <a href="/uslugi/rezervirovanie-scheta/" class="v2-tariff-more">Подробнее об услуге →</a>
                 </div>
               </article>
 
@@ -598,6 +600,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                   <div class="v2-tariff-price-num">39 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div>
                   <div class="v2-tariff-price-note">Разово · 2 рабочих дня</div>
                   <a href="#contacts" class="v2-tariff-link" data-tariff="otkrytie">Обсудить контракт <span aria-hidden="true">→</span></a>
+                  <a href="/uslugi/otkrytie-scheta/" class="v2-tariff-more">Подробнее об услуге →</a>
                 </div>
               </article>
 
@@ -610,6 +613,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                   <div class="v2-tariff-price-num">59 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div>
                   <div class="v2-tariff-price-note">Разово · до закрытия контракта</div>
                   <a href="#contacts" class="v2-tariff-link" data-tariff="postoplata">Обсудить контракт <span aria-hidden="true">→</span></a>
+                  <a href="/uslugi/soprovozhdenie-postoplata/" class="v2-tariff-more">Подробнее об услуге →</a>
                 </div>
               </article>
 
@@ -625,6 +629,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                   <div class="v2-tariff-price-num">79 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div>
                   <div class="v2-tariff-price-note">Без лимитов на операции</div>
                   <a href="#contacts" class="v2-tariff-link" data-tariff="avans">Обсудить контракт <span aria-hidden="true">→</span></a>
+                  <a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-more">Подробнее об услуге →</a>
                 </div>
               </article>
 
@@ -679,6 +684,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                 <div class="v2-rescue-cta">
                   <a href="#contacts-form" class="v2-rescue-cta-btn">Заказать экспресс-аудит <span aria-hidden="true">→</span></a>
                   <div class="v2-rescue-cta-tel">или позвоните <a href="tel:+79818331010">+7 981 833-10-10</a></div>
+                  <a href="/uslugi/spasenie-kontrakta/" class="v2-tariff-more" style="margin-top:8px">Подробнее об услуге «Спасение контракта» →</a>
                 </div>
 
               </div>
