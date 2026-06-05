@@ -380,4 +380,34 @@
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
+  <url>
+    <loc>https://kaznaexpert.ru/regiony/barnaul/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/regiony/irkutsk/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/regiony/habarovsk/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/regiony/vladivostok/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/regiony/kaliningrad/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/regiony/orenburg/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
 </urlset>
