@@ -129,3 +129,43 @@
     init();
   }
 })();
+
+/* ============================================================
+ * Маска телефона +7 (XXX) XXX-XX-XX — без зависимостей.
+ * Навешивается на все input[type=tel] / input[name=phone].
+ * ============================================================ */
+(function () {
+  'use strict';
+  function format(value) {
+    var d = (value || '').replace(/\D/g, '');
+    if (!d) return '';
+    if (d[0] === '8') d = '7' + d.slice(1);
+    else if (d[0] !== '7') d = '7' + d;           // RU по умолчанию
+    d = d.slice(0, 11);
+    var code = d.substring(1, 4), a = d.substring(4, 7), b = d.substring(7, 9), c = d.substring(9, 11);
+    var out = '+7';
+    if (code) out += ' (' + code;
+    if (d.length > 4) out += ') ' + a;
+    if (d.length > 7) out += '-' + b;
+    if (d.length > 9) out += '-' + c;
+    return out;
+  }
+  function attach(inp) {
+    if (inp.dataset.phoneMask) return;
+    inp.dataset.phoneMask = '1';
+    inp.addEventListener('input', function () {
+      var start = inp.selectionStart, len = inp.value.length;
+      inp.value = format(inp.value);
+      // курсор в конец при наборе с конца (достаточно для типового ввода)
+      if (start >= len) { try { inp.setSelectionRange(inp.value.length, inp.value.length); } catch (_) {} }
+    });
+    inp.addEventListener('focus', function () { if (!inp.value) inp.value = '+7 ('; });
+    inp.addEventListener('blur', function () { if (inp.value === '+7 (' || inp.value === '+7') inp.value = ''; });
+  }
+  function init() {
+    var nodes = document.querySelectorAll('input[type="tel"], input[name="phone"]');
+    for (var i = 0; i < nodes.length; i++) attach(nodes[i]);
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
+  else init();
+})();
