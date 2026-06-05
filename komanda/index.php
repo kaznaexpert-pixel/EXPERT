@@ -493,7 +493,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
 <div class="v2">
 <style>
-.v2 .v2-hero{min-height:0 !important;padding:44px 0 6px !important}.v2 .v2-section.v2-screen{min-height:0 !important;padding-top:64px !important;padding-bottom:56px !important;display:block !important}.v2 .v2-section{min-height:0 !important;padding-top:28px !important}.v2 .team-hero{max-width:720px}
+.v2 .v2-hero{min-height:0 !important;padding:44px 0 6px !important}.v2 .v2-section.v2-screen{min-height:0 !important;padding-top:64px !important;padding-bottom:56px !important;display:block !important}.v2 .v2-section{min-height:0 !important;padding-top:28px !important}.v2 .team-hero{max-width:820px}
 .v2 .team-wrap{max-width:1060px;margin:0 auto}
 .v2 .team-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
 @media(max-width:820px){.v2 .team-grid{grid-template-columns:1fr 1fr;gap:18px}}
@@ -514,13 +514,13 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 .v2 .team-card:hover .team-card__link{gap:10px}
 </style>
 <section class="v2-hero">
-  <div class="v2-container">
+  <div class="v2-container"><div class="team-wrap">
     <div class="v2-hero-eyebrow-row"><span class="v2-eyebrow">Команда</span><span class="v2-hero-eyebrow-dash" aria-hidden="true"></span></div>
     <div class="team-hero">
       <h1>Команда КазнаЭксперт</h1>
       <p class="v2-hero-lede">Главный эксперт и пять специалистов с опытом работы в органах Федерального казначейства. За каждым клиентом закрепляем профильного эксперта, а на подстраховке — вся команда: один в отпуске или на больничном — подхватит коллега из той же группы. Никаких пауз в работе с УФК.</p>
     </div>
-  </div>
+  </div></div>
 </section>
 
 <section class="v2-section">
