@@ -496,16 +496,55 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
           </nav>
         </header>
 
-<div class="v2">
-  <div class="v2-container" style="padding-top:52px;padding-bottom:8px">
-    <nav class="crumbs" aria-label="Хлебные крошки" style="font-size:13px;color:var(--mute)"><a href="/" style="color:inherit">Главная</a> &rsaquo; База знаний</nav>
-    <h1 style="font-family:var(--font-display);font-weight:500;font-size:clamp(2rem,3vw+1rem,3.2rem);line-height:1.1;letter-spacing:-.02em;margin:14px 0 12px;color:var(--ink)">База знаний</h1>
-    <p style="font-family:var(--font-body);font-size:18px;line-height:1.6;color:var(--ink-soft);max-width:760px;margin:0">Экспертные статьи и пошаговые инструкции по казначейскому сопровождению госконтрактов: ГОЗ и 275-ФЗ, раздельный учёт, лицевые счета, санкционирование операций. Материалы готовит команда с 15+ годами практики в Казначействе.</p>
-  </div>
-</div>
-
+<style>
+  .bz .v2-container{max-width:1120px}
+  .bz-head{padding-top:52px;padding-bottom:6px}
+  .bz-crumbs{font-size:13px;color:var(--mute)}.bz-crumbs a{color:inherit;text-decoration:none}
+  .bz-h1{font-family:var(--font-display);font-weight:500;font-size:clamp(2rem,3vw+1rem,3.2rem);line-height:1.08;letter-spacing:-.02em;margin:14px 0 12px;color:var(--ink)}
+  .bz-lede{font-family:var(--font-body);font-size:18px;line-height:1.6;color:var(--ink-soft);max-width:780px;margin:0}
+  .bz-stats{display:flex;flex-wrap:wrap;gap:10px 26px;margin-top:20px;font-size:14px;color:var(--mute)}
+  .bz-stats span{display:inline-flex;align-items:center;gap:8px}
+  .bz-stats b{color:var(--ink);font-weight:600;font-variant-numeric:tabular-nums}
+  .bz-sechead{display:flex;align-items:baseline;justify-content:space-between;gap:14px;flex-wrap:wrap;margin:46px 0 18px}
+  .bz-sechead h2{font-family:var(--font-display);font-weight:500;font-size:clamp(1.5rem,2vw+.6rem,2.05rem);letter-spacing:-.01em;color:var(--ink);margin:0}
+  .bz-sechead p{font-size:14.5px;color:var(--mute);margin:0}
+  .bz-grid{display:grid;grid-template-columns:1fr;gap:14px}
+  @media(min-width:600px){.bz-grid{grid-template-columns:1fr 1fr}}
+  @media(min-width:980px){.bz-grid{grid-template-columns:1fr 1fr 1fr}}
+  .bz-tool{position:relative;display:flex;flex-direction:column;gap:11px;padding:24px;background:#FFFDF9;border:1px solid var(--hair,rgba(26,26,26,.1));border-radius:18px;text-decoration:none;color:inherit;transition:transform .22s ease,box-shadow .22s ease,border-color .22s ease}
+  .bz-tool:hover{transform:translateY(-4px);box-shadow:0 24px 48px -28px rgba(26,26,26,.34);border-color:rgba(139,111,71,.45)}
+  .bz-tool__ic{width:44px;height:44px;border-radius:12px;display:flex;align-items:center;justify-content:center;background:rgba(139,111,71,.1);color:var(--sepia,#8B6F47)}
+  .bz-tool__t{font-family:var(--font-display);font-weight:500;font-size:19.5px;line-height:1.2;color:var(--ink)}
+  .bz-tool__d{font-size:14px;line-height:1.5;color:var(--ink-soft,#3A3A3A)}
+  .bz-tool__b{position:absolute;top:22px;right:22px;font-size:11.5px;font-weight:600;color:var(--sepia,#8B6F47);background:rgba(139,111,71,.1);padding:4px 11px;border-radius:20px;font-variant-numeric:tabular-nums}
+  .bz-tool__go{margin-top:auto;font-size:13.5px;font-weight:500;color:var(--sepia,#8B6F47)}
+  .bz-search{position:relative;margin:0 0 20px;max-width:440px}
+  .bz-search svg{position:absolute;left:16px;top:50%;transform:translateY(-50%);opacity:.5;color:var(--ink)}
+  .bz-search input{width:100%;box-sizing:border-box;padding:13px 16px 13px 46px;font-size:16px;font-family:inherit;border:1px solid var(--hair,rgba(26,26,26,.18));border-radius:13px;background:#FFFDF9;color:var(--ink)}
+  .bz-search input:focus{outline:none;border-color:rgba(139,111,71,.55);box-shadow:0 0 0 3px rgba(139,111,71,.12)}
+  .bz-art{display:flex;flex-direction:column;gap:9px;padding:22px 24px;background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.09));border-radius:16px;text-decoration:none;color:inherit;transition:transform .22s ease,box-shadow .22s ease,border-color .22s ease}
+  .bz-art:hover{transform:translateY(-3px);box-shadow:0 20px 40px -26px rgba(26,26,26,.3);border-color:rgba(139,111,71,.4)}
+  .bz-art__cat{font-size:11px;text-transform:uppercase;letter-spacing:.11em;font-weight:600;color:var(--sepia,#8B6F47)}
+  .bz-art__t{font-family:var(--font-display);font-weight:500;font-size:18px;line-height:1.3;color:var(--ink)}
+  .bz-art__m{margin-top:auto;padding-top:6px;font-size:13px;color:var(--mute);display:flex;align-items:center}
+  .bz-art__m::after{content:'\2192';margin-left:auto;color:var(--sepia,#8B6F47);opacity:0;transform:translateX(-4px);transition:opacity .2s,transform .2s}
+  .bz-art:hover .bz-art__m::after{opacity:1;transform:translateX(0)}
+  .bz-empty{display:none;padding:22px;color:var(--mute);font-size:14.5px}
+</style>
 <?php
-$cards=[];
+$TOOLS = [
+  'kody' => ['Коды направлений расходования','На что тратятся целевые средства: 21 укрупнённый код и правило первой цифры 6/8/9','21 код',
+    '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg>'],
+  'kody-postupleniy' => ['Коды источников поступлений','Откуда пришли средства: госконтракты, субсидии, инвестиции, ГОЗ','21 код',
+    '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="M7 10l5 5 5-5"/><path d="M4 20h16"/></svg>'],
+  'tofk' => ['Справочник ТОФК','Казначейство по регионам: код ТОФК, официальный сайт и адрес','88 регионов',
+    '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-5.2-7-11a7 7 0 0 1 14 0c0 5.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>'],
+  'normativnaya-baza' => ['Нормативная база','Законы, постановления, приказы и письма по КС + разборы простым языком','21 акт',
+    '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h9l4 4v14H6z"/><path d="M14 3v5h5"/><path d="M9 13h7"/><path d="M9 17h7"/></svg>'],
+  'glossary' => ['Глоссарий','Ключевые термины казначейского сопровождения простыми словами',null,
+    '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5a2 2 0 0 1 2-2h7v18H6a2 2 0 0 0-2 2z"/><path d="M13 3h5a2 2 0 0 1 2 2v16a2 2 0 0 0-2-2h-5"/></svg>'],
+];
+$all=[];
 foreach (glob(__DIR__.'/*', GLOB_ONLYDIR) as $d) {
   $f=$d.'/index.php'; if(!is_file($f)) continue;
   $h=file_get_contents($f);
@@ -513,26 +552,56 @@ foreach (glob(__DIR__.'/*', GLOB_ONLYDIR) as $d) {
   if (!preg_match('/<h1>(.*?)<\/h1>/su',$h,$m)) continue;
   $title=trim(html_entity_decode(strip_tags($m[1]),ENT_QUOTES,'UTF-8'));
   $cat=''; if (preg_match('/class="eyebrow">(.*?)<span/su',$h,$em)){ $e=trim(strip_tags($em[1])); $p=explode('·',$e); $cat=trim(end($p)); }
-  $read=''; if (preg_match('/(\d+)\s*мин чтения/u',$h,$rm)) $read=$rm[1].' мин';
-  $cards[]=['slug'=>basename($d),'title'=>$title,'cat'=>($cat?:'База знаний'),'read'=>$read,'mtime'=>filemtime($f)];
+  $read=''; if (preg_match('/(\d+)\s*мин чтения/u',$h,$rm)) $read=$rm[1].' мин чтения';
+  $all[basename($d)]=['slug'=>basename($d),'title'=>$title,'cat'=>($cat?:'База знаний'),'read'=>$read,'mtime'=>filemtime($f)];
 }
-usort($cards, function($a,$b){ return $b['mtime'] <=> $a['mtime']; });
+$articles=[]; foreach($all as $slug=>$c){ if(!isset($TOOLS[$slug])) $articles[]=$c; }
+usort($articles, function($a,$b){ return $b['mtime'] <=> $a['mtime']; });
+$tools_n=0; foreach($TOOLS as $sl=>$t){ if(isset($all[$sl])) $tools_n++; }
 ?>
-<section class="related" aria-label="Все статьи базы знаний">
-  <div class="related__head"><h2 id="relTitle">Все материалы</h2><span style="font-size:14px;color:var(--mute)"><?= count($cards) ?> статей</span></div>
-  <div class="related__grid">
-    <?php foreach ($cards as $c): ?>
-    <a class="card reveal" href="/baza-znaniy/<?= htmlspecialchars($c['slug']) ?>/">
-      <div class="card__cover"><span><?= htmlspecialchars($c['cat']) ?></span></div>
-      <div class="card__body">
-        <span class="card__cat"><?= htmlspecialchars($c['cat']) ?></span>
-        <h3 class="card__title"><?= htmlspecialchars($c['title']) ?></h3>
-        <div class="card__meta"><?= $c['read']?htmlspecialchars($c['read']):'Статья' ?></div>
-      </div>
-    </a>
-    <?php endforeach; ?>
+<div class="v2 bz">
+  <div class="v2-container bz-head">
+    <nav class="bz-crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> &rsaquo; База знаний</nav>
+    <h1 class="bz-h1">База знаний</h1>
+    <p class="bz-lede">Экспертные статьи, пошаговые инструкции и справочники по казначейскому сопровождению госконтрактов: ГОЗ и 275-ФЗ, лицевые счета, санкционирование, коды и нормативка. Материалы готовит команда с 15+ годами практики в Казначействе.</p>
+    <div class="bz-stats"><span><b><?= count($articles) ?></b> статей и инструкций</span><span><b><?= $tools_n ?></b> справочника</span><span>Обновляется регулярно</span></div>
   </div>
-</section>
+
+  <div class="v2-container">
+    <div class="bz-sechead"><h2>Справочники и инструменты</h2><p>Быстрый доступ к кодам, реквизитам и нормативке</p></div>
+    <div class="bz-grid">
+      <?php foreach ($TOOLS as $sl=>$t): if(!isset($all[$sl])) continue; ?>
+      <a class="bz-tool" href="/baza-znaniy/<?= htmlspecialchars($sl) ?>/">
+        <?php if($t[2]): ?><span class="bz-tool__b"><?= htmlspecialchars($t[2]) ?></span><?php endif; ?>
+        <span class="bz-tool__ic"><?= $t[3] ?></span>
+        <span class="bz-tool__t"><?= htmlspecialchars($t[0]) ?></span>
+        <span class="bz-tool__d"><?= htmlspecialchars($t[1]) ?></span>
+        <span class="bz-tool__go">Открыть &rarr;</span>
+      </a>
+      <?php endforeach; ?>
+    </div>
+
+    <div class="bz-sechead"><h2>Статьи и инструкции</h2><p><?= count($articles) ?> материалов</p></div>
+    <div class="bz-search">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+      <input id="bzSearch" type="search" placeholder="Поиск по статьям — например, ГОЗ, счёт или аванс" autocomplete="off" aria-label="Поиск по статьям">
+    </div>
+    <div class="bz-grid" id="bzArts">
+      <?php foreach ($articles as $c): ?>
+      <a class="bz-art" href="/baza-znaniy/<?= htmlspecialchars($c['slug']) ?>/" data-t="<?= htmlspecialchars(mb_strtolower($c['title'].' '.$c['cat'],'UTF-8')) ?>">
+        <span class="bz-art__cat"><?= htmlspecialchars($c['cat']) ?></span>
+        <span class="bz-art__t"><?= htmlspecialchars($c['title']) ?></span>
+        <span class="bz-art__m"><?= $c['read']?htmlspecialchars($c['read']):'Статья' ?></span>
+      </a>
+      <?php endforeach; ?>
+    </div>
+    <div class="bz-empty" id="bzEmpty">По запросу ничего не нашлось. Попробуйте другое слово или загляните в справочники выше.</div>
+  </div>
+</div>
+<script>
+(function(){var inp=document.getElementById('bzSearch'),grid=document.getElementById('bzArts'),emp=document.getElementById('bzEmpty');if(!inp||!grid)return;var cards=[].slice.call(grid.querySelectorAll('.bz-art'));function norm(s){return (s||'').toLowerCase().replace(/ё/g,'е').trim();}inp.addEventListener('input',function(){var q=norm(inp.value),n=0;cards.forEach(function(a){var ok=!q||norm(a.getAttribute('data-t')).indexOf(q)>-1;a.style.display=ok?'':'none';if(ok)n++;});emp.style.display=n?'none':'block';});})();
+</script>
+
 
 
 <footer class="v2-footer" id="footer">
