@@ -510,26 +510,26 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   <div class="v2-container">
     <div class="v2-hero-grid">
       <div class="v2-hero-main">
-        <div class="v2-hero-eyebrow-row reveal">
+        <div class="v2-hero-eyebrow-row">
           <span class="v2-eyebrow">Услуга · 44-ФЗ · 223-ФЗ · ГОЗ</span>
           <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
         </div>
-        <h1 class="reveal">Откроем казначейский счёт<br><em>за два рабочих дня</em></h1>
-        <p class="v2-hero-lede reveal"><strong>Берём всю работу с УФК на себя:</strong> анализ контракта, пакет документов, включение в сводный реестр, открытие счёта и настройку «Электронного бюджета». Без возвратов и срыва сроков. По всей России.</p>
-        <div class="v2-hero-trust reveal">
+        <h1>Откроем казначейский счёт<br><em>за два рабочих дня</em></h1>
+        <p class="v2-hero-lede"><strong>Берём всю работу с УФК на себя:</strong> анализ контракта, пакет документов, включение в сводный реестр, открытие счёта и настройку «Электронного бюджета». Без возвратов и срыва сроков. По всей России.</p>
+        <div class="v2-hero-trust">
           <div class="v2-trust-item"><div class="v2-trust-num">2<span class="v2-trust-suffix">&nbsp;рабочих&nbsp;дня</span></div><div class="v2-trust-label">до открытия счёта</div></div>
           <div class="v2-trust-item"><div class="v2-trust-num">7 000<span class="v2-trust-suffix">+</span></div><div class="v2-trust-label">контрактов</div></div>
           <div class="v2-trust-item"><div class="v2-trust-num">90<span class="v2-trust-suffix">&nbsp;млрд&nbsp;₽</span></div><div class="v2-trust-label">проведено</div></div>
           <div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div>
         </div>
-        <div class="v2-hero-expert reveal">
+        <div class="v2-hero-expert">
           <div class="v2-expert-name">Михайлов Ярослав</div>
           <div class="v2-expert-role">Эксперт · 15 лет в Казначействе</div>
           <p class="v2-expert-quote">«Открытие счёта — рутина, в которой легко потерять две недели на возвратах. Мы делаем это с первой подачи и под гарантию в договоре».</p>
         </div>
       </div>
 
-      <aside class="v2-hero-action reveal">
+      <aside class="v2-hero-action">
         <div class="v2-hero-action-eyebrow">Бесплатный анализ контракта</div>
         <h2>Откроем счёт за вас</h2>
         <p class="v2-hero-action-sub">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт ваш контракт и назовёт точную стоимость. NDA — до анализа документов.</p>
