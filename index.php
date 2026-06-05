@@ -849,8 +849,8 @@ header("Cache-Control: public, max-age=300, must-revalidate");
             <div class="v2-expert-split">
               <div class="v2-expert-portrait v2-expert-portrait--photo v2-reveal">
                 <picture>
-                  <source type="image/webp" srcset="/img/mihailov-480.webp 480w, /img/mihailov-768.webp 768w" sizes="(max-width:760px) 70vw, 360px">
-                  <img src="/img/mihailov-768.jpg" width="768" height="960" loading="lazy" decoding="async"
+                  <source type="image/webp" srcset="/img/team/mihailov-480.webp?b=2 480w, /img/team/mihailov-768.webp?b=2 768w" sizes="(max-width:760px) 70vw, 360px">
+                  <img src="/img/team/mihailov-768.jpg?b=2" width="768" height="960" loading="lazy" decoding="async"
                        alt="Ярослав Михайлов — главный эксперт КазнаЭксперт, казначейское сопровождение госконтрактов"
                        style="width:100%;height:auto;border-radius:16px;display:block">
                 </picture>
