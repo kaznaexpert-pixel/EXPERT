@@ -4,14 +4,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Казначейское сопровождение по регионам России | КазнаЭксперт</title>
-<meta name="description" content="Казначейское сопровождение госконтрактов по всем регионам РФ дистанционно: открытие счёта, ведение, санкционирование, спасение контрактов. Москва, СПб, Екатеринбург и другие.">
+<title>Казначейское сопровождение в Тюмени — под ключ | КазнаЭксперт</title>
+<meta name="description" content="Казначейское сопровождение госконтрактов в Тюмени: открытие счёта в УФК по Тюменской области, ведение платежей, санкционирование, спасение контрактов. Дистанционно, ">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#141310" media="(prefers-color-scheme: dark)">
 <!-- PROD: canonical и og:url ОБЯЗАТЕЛЬНО менять под URL каждой статьи -->
-<link rel="canonical" href="https://kaznaexpert.ru/regiony/">
+<link rel="canonical" href="https://kaznaexpert.ru/regiony/tyumen/">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
@@ -23,13 +23,16 @@
 <!-- Метрика 94305898 грузится из /js/cookie-consent.js (по согласию, единый счётчик сайта) -->
 <!-- ╚════════════════════════════════════════════════════════════════════════════╝ -->
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
-<script>window.YM_PARAMS = {page_type:"regions-hub", cluster:"regiony"};</script>
+<script>window.YM_PARAMS = {page_type:"region", cluster:"regiony"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "CollectionPage", "name": "Казначейское сопровождение по регионам России", "url": "https://kaznaexpert.ru/regiony/", "description": "Казначейское сопровождение госконтрактов по всем регионам РФ дистанционно: открытие счёта, ведение, санкционирование, спасение контрактов. Москва, СПб, Екатеринбург и другие.", "mainEntity": {"@type": "ItemList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Казначейское сопровождение в Волгограде", "item": "https://kaznaexpert.ru/regiony/volgograd/"}, {"@type": "ListItem", "position": 2, "name": "Казначейское сопровождение в Воронеже", "item": "https://kaznaexpert.ru/regiony/voronezh/"}, {"@type": "ListItem", "position": 3, "name": "Казначейское сопровождение в Екатеринбурге", "item": "https://kaznaexpert.ru/regiony/ekaterinburg/"}, {"@type": "ListItem", "position": 4, "name": "Казначейское сопровождение в Казани", "item": "https://kaznaexpert.ru/regiony/kazan/"}, {"@type": "ListItem", "position": 5, "name": "Казначейское сопровождение в Краснодаре", "item": "https://kaznaexpert.ru/regiony/krasnodar/"}, {"@type": "ListItem", "position": 6, "name": "Казначейское сопровождение в Красноярске", "item": "https://kaznaexpert.ru/regiony/krasnoyarsk/"}, {"@type": "ListItem", "position": 7, "name": "Казначейское сопровождение в Москве", "item": "https://kaznaexpert.ru/regiony/moskva/"}, {"@type": "ListItem", "position": 8, "name": "Казначейское сопровождение в Нижнем Новгороде", "item": "https://kaznaexpert.ru/regiony/nizhniy-novgorod/"}, {"@type": "ListItem", "position": 9, "name": "Казначейское сопровождение в Новосибирске", "item": "https://kaznaexpert.ru/regiony/novosibirsk/"}, {"@type": "ListItem", "position": 10, "name": "Казначейское сопровождение в Перми", "item": "https://kaznaexpert.ru/regiony/perm/"}, {"@type": "ListItem", "position": 11, "name": "Казначейское сопровождение в Ростове-на-Дону", "item": "https://kaznaexpert.ru/regiony/rostov-na-donu/"}, {"@type": "ListItem", "position": 12, "name": "Казначейское сопровождение в Самаре", "item": "https://kaznaexpert.ru/regiony/samara/"}, {"@type": "ListItem", "position": 13, "name": "Казначейское сопровождение в Санкт-Петербурге", "item": "https://kaznaexpert.ru/regiony/sankt-peterburg/"}, {"@type": "ListItem", "position": 14, "name": "Казначейское сопровождение в Саратове", "item": "https://kaznaexpert.ru/regiony/saratov/"}, {"@type": "ListItem", "position": 15, "name": "Казначейское сопровождение в Ставрополе", "item": "https://kaznaexpert.ru/regiony/stavropol/"}, {"@type": "ListItem", "position": 16, "name": "Казначейское сопровождение в Тюмени", "item": "https://kaznaexpert.ru/regiony/tyumen/"}, {"@type": "ListItem", "position": 17, "name": "Казначейское сопровождение в Уфе", "item": "https://kaznaexpert.ru/regiony/ufa/"}, {"@type": "ListItem", "position": 18, "name": "Казначейское сопровождение в Челябинске", "item": "https://kaznaexpert.ru/regiony/chelyabinsk/"}]}}
+{"@context": "https://schema.org", "@type": "Service", "name": "Казначейское сопровождение в Тюмени", "serviceType": "Казначейское сопровождение госконтрактов", "description": "Казначейское сопровождение госконтрактов в Тюмени: открытие лицевого счёта в УФК по Тюменской области, ведение платежей, санкционирование, спасение контрактов. Дистанционно по всему региону.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png"}, "areaServed": {"@type": "AdministrativeArea", "name": "Тюменская область"}, "url": "https://kaznaexpert.ru/regiony/tyumen/"}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Регионы"}]}
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Регионы", "item": "https://kaznaexpert.ru/regiony/"}, {"@type": "ListItem", "position": 3, "name": "Казначейское сопровождение в Тюмени"}]}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Вы работаете в Тюмени?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Ведём казначейское сопровождение для подрядчиков из Тюмень и всего региона дистанционно — открываем и ведём счёт в УФК по Тюменской области через «Электронный бюджет»."}}, {"@type": "Question", "name": "Нужно ли приезжать в казначейство?", "acceptedAnswer": {"@type": "Answer", "text": "Нет. Весь документооборот идёт электронно через «Электронный бюджет». Работаем со всеми регионами РФ удалённо."}}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -63,12 +66,12 @@
 <link rel="preload" href="/css/v2.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/v2.css') ?>" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/css/v2.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/v2.css') ?>"></noscript>
 
-<meta property="og:type" content="article">
+<meta property="og:type" content="website">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Казначейское сопровождение по регионам России">
-<meta property="og:description" content="Казначейское сопровождение госконтрактов по всем регионам РФ дистанционно: открытие счёта, ведение, санкционирование, спасение контрактов. Москва, СПб, Екатеринбург и другие.">
-<meta property="og:url" content="https://kaznaexpert.ru/regiony/">
+<meta property="og:title" content="Казначейское сопровождение в Тюмени">
+<meta property="og:description" content="Казначейское сопровождение госконтрактов в Тюмени: открытие счёта в УФК по Тюменской области, ведение платежей, санкционирование, спасение контрактов. Дистанционно, ">
+<meta property="og:url" content="https://kaznaexpert.ru/regiony/tyumen/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -78,8 +81,8 @@
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Казначейское сопровождение ГОЗ в 2026 году: разбор по 275-ФЗ">
-<meta name="twitter:description" content="Кто обязан, порог 3 млн ₽, счёт, раздельный учёт, штрафы. Со ссылками на НПА.">
+<meta name="twitter:title" content="Казначейское сопровождение в Тюмени">
+<meta name="twitter:description" content="Казначейское сопровождение госконтрактов в Тюмени: открытие счёта в УФК по Тюменской области, ведение платежей, санкционирование, спасение контрактов. Дистанционно, ">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <style>
@@ -494,17 +497,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
 <div class="v2">
 <style>
-.v2 .v2-hero{min-height:0 !important;padding:44px 0 8px !important}
-.v2 .v2-section.v2-screen{min-height:0 !important;padding-top:30px !important;padding-bottom:60px !important;display:block !important}
-.v2 .reg-wrap{max-width:1100px;margin:0 auto}
-.v2 .reg-grid{display:grid;grid-template-columns:1fr;gap:16px}
-@media(min-width:620px){.v2 .reg-grid{grid-template-columns:1fr 1fr}}
-@media(min-width:980px){.v2 .reg-grid{grid-template-columns:repeat(3,1fr)}}
-.v2 .reg-card{display:flex;flex-direction:column;background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.1));border-radius:14px;padding:22px 24px;text-decoration:none;color:inherit;transition:transform .2s,box-shadow .2s,border-color .2s}
-.v2 .reg-card:hover{transform:translateY(-3px);box-shadow:0 18px 36px -22px rgba(26,26,26,.28);border-color:rgba(139,111,71,.4)}
-.v2 .reg-card__city{font-family:var(--font-display,'Playfair Display',serif);font-weight:500;font-size:22px;line-height:1.1}
-.v2 .reg-card__ufk{font-size:13px;color:var(--mute,#6E6B66);margin-top:6px}
-.v2 .reg-card__link{margin-top:14px;font-size:13.5px;font-weight:500;color:var(--accent,#8B6F47)}
+@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}
 .v2 .v2-bc{border-bottom:1px solid var(--hair,rgba(26,26,26,.08))}
 .v2 .v2-bc ol{list-style:none;display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:0;padding:14px 0;font-size:13.5px}
 .v2 .v2-bc li{display:flex;align-items:center;gap:8px;color:var(--mute,#6E6B66)}
@@ -512,13 +505,191 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 .v2 .v2-bc a{color:var(--mute,#6E6B66);text-decoration:none}
 .v2 .v2-bc a:hover{color:var(--accent,#8B6F47)}
 .v2 .v2-bc [aria-current]{color:var(--ink,#1A1A1A);font-weight:500}
+.v2 .reg-split{display:grid;grid-template-columns:1fr;gap:26px}
+@media(min-width:901px){.v2 .reg-split{grid-template-columns:2fr 1fr;gap:40px;align-items:start}}
+.v2 .reg-copy{font-size:16.5px;line-height:1.7;color:var(--ink-soft,#3A3A3A)}
+.v2 .reg-copy p{margin:0 0 16px}
+.v2 .reg-copy h3{font-family:var(--font-display,'Playfair Display',serif);font-weight:500;font-size:20px;margin:24px 0 10px;color:var(--ink,#1A1A1A)}
+.v2 .reg-facts{background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.1));border-radius:16px;padding:24px}
+.v2 .reg-facts h3{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--mute,#6E6B66);margin:0 0 14px;font-weight:600}
+.v2 .reg-facts dl{margin:0;display:grid;gap:13px}
+.v2 .reg-facts dt{font-size:12.5px;color:var(--mute,#6E6B66)}
+.v2 .reg-facts dd{margin:3px 0 0;font-size:15px;color:var(--ink,#1A1A1A);font-weight:500;line-height:1.4}
+.v2 .cmp-wrap{overflow-x:auto}
+.v2 .cmp{width:100%;border-collapse:collapse;font-size:15px;background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.1));border-radius:14px;overflow:hidden}
+.v2 .cmp th,.v2 .cmp td{text-align:left;padding:14px 18px;border-bottom:1px solid var(--hair,rgba(26,26,26,.08));vertical-align:top;line-height:1.45}
+.v2 .cmp thead th{font-size:12.5px;text-transform:uppercase;letter-spacing:.05em;color:var(--mute,#6E6B66);font-weight:600}
+.v2 .cmp tbody tr:last-child td{border-bottom:none}
+.v2 .cmp .cmp-us{color:var(--ink,#1A1A1A);font-weight:500}
 </style>
-<nav class="v2-bc" aria-label="Хлебные крошки"><div class="v2-container"><ol><li><a href="/">Главная</a></li><li aria-current="page">Регионы</li></ol></div></nav>
-<section class="v2-hero"><div class="v2-container"><div class="reg-wrap"><div class="v2-hero-eyebrow-row"><span class="v2-eyebrow">Регионы</span><span class="v2-hero-eyebrow-dash" aria-hidden="true"></span></div><h1>Казначейское сопровождение <em>по регионам России</em></h1><p class="v2-hero-lede" style="max-width:none">Работаем со всеми территориальными органами Федерального казначейства дистанционно — через «Электронный бюджет», без привязки к личным визитам. Открытие счёта, ведение платежей, санкционирование и спасение контрактов по всей РФ. Выберите ваш регион:</p></div></div></section>
-<section class="v2-section"><div class="v2-container"><div class="reg-wrap"><div class="reg-grid"><a class="reg-card" href="/regiony/volgograd/"><span class="reg-card__city">Волгоград</span><span class="reg-card__ufk">УФК по Волгоградской области</span><span class="reg-card__link">Подробнее →</span></a><a class="reg-card" href="/regiony/voronezh/"><span class="reg-card__city">Воронеж</span><span class="reg-card__ufk">УФК по Воронежской области</span><span class="reg-card__link">Подробнее →</span></a><a class="reg-card" href="/regiony/ekaterinburg/"><span class="reg-card__city">Екатеринбург</span><span class="reg-card__ufk">УФК по Свердловской области</span><span class="reg-card__link">Подробнее →</span></a><a class="reg-card" href="/regiony/kazan/"><span class="reg-card__city">Казань</span><span class="reg-card__ufk">УФК по Республике Татарстан</span><span class="reg-card__link">Подробнее →</span></a><a class="reg-card" href="/regiony/krasnodar/"><span class="reg-card__city">Краснодар</span><span class="reg-card__ufk">УФК по Краснодарскому краю</span><span class="reg-card__link">Подробнее →</span></a><a class="reg-card" href="/regiony/krasnoyarsk/"><span class="reg-card__city">Красноярск</span><span class="reg-card__ufk">УФК по Красноярскому краю</span><span class="reg-card__link">Подробнее →</span></a><a class="reg-card" href="/regiony/moskva/"><span class="reg-card__city">Москва</span><span class="reg-card__ufk">УФК по г. Москве</span><span class="reg-card__link">Подробнее →</span></a><a class="reg-card" href="/regiony/nizhniy-novgorod/"><span class="reg-card__city">Нижний Новгород</span><span class="reg-card__ufk">УФК по Нижегородской области</span><span class="reg-card__link">Подробнее →</span></a><a class="reg-card" href="/regiony/novosibirsk/"><span class="reg-card__city">Новосибирск</span><span class="reg-card__ufk">УФК по Новосибирской области</span><span class="reg-card__link">Подробнее →</span></a><a class="reg-card" href="/regiony/perm/"><span class="reg-card__city">Пермь</span><span class="reg-card__ufk">УФК по Пермскому краю</span><span class="reg-card__link">Подробнее →</span></a><a class="reg-card" href="/regiony/rostov-na-donu/"><span class="reg-card__city">Ростов-на-Дону</span><span class="reg-card__ufk">УФК по Ростовской области</span><span class="reg-card__link">Подробнее →</span></a><a class="reg-card" href="/regiony/samara/"><span class="reg-card__city">Самара</span><span class="reg-card__ufk">УФК по Самарской области</span><span class="reg-card__link">Подробнее →</span></a><a class="reg-card" href="/regiony/sankt-peterburg/"><span class="reg-card__city">Санкт-Петербург</span><span class="reg-card__ufk">УФК по г. Санкт-Петербургу</span><span class="reg-card__link">Подробнее →</span></a><a class="reg-card" href="/regiony/saratov/"><span class="reg-card__city">Саратов</span><span class="reg-card__ufk">УФК по Саратовской области</span><span class="reg-card__link">Подробнее →</span></a><a class="reg-card" href="/regiony/stavropol/"><span class="reg-card__city">Ставрополь</span><span class="reg-card__ufk">УФК по Ставропольскому краю</span><span class="reg-card__link">Подробнее →</span></a><a class="reg-card" href="/regiony/tyumen/"><span class="reg-card__city">Тюмень</span><span class="reg-card__ufk">УФК по Тюменской области</span><span class="reg-card__link">Подробнее →</span></a><a class="reg-card" href="/regiony/ufa/"><span class="reg-card__city">Уфа</span><span class="reg-card__ufk">УФК по Республике Башкортостан</span><span class="reg-card__link">Подробнее →</span></a><a class="reg-card" href="/regiony/chelyabinsk/"><span class="reg-card__city">Челябинск</span><span class="reg-card__ufk">УФК по Челябинской области</span><span class="reg-card__link">Подробнее →</span></a></div><p style="margin-top:26px;font-size:14px;color:var(--mute,#6E6B66);max-width:820px">Вашего региона ещё нет в списке? Это не помеха — мы работаем со всеми субъектами РФ удалённо. Оставьте заявку, и эксперт разберёт ваш контракт независимо от региона.</p></div></div></section>
-<section class="v2-section v2-screen" id="zayavka"><div class="v2-container"><div class="v2-section-head"><div class="v2-section-eyebrow">Заявка</div><h2 class="v2-section-title">Разберём ваш контракт <em>в любом регионе</em></h2><p class="v2-section-lede">Оставьте контакты — перезвоним за 15 минут, разберём ситуацию и назовём точную стоимость.</p></div><div style="max-width:520px;margin:0 auto"><form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="regiony-cta"><input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name"><input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel"><input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true"><label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label><button class="submit" type="submit">Получить расчёт →</button><div class="formmsg" id="formMsgBottom" hidden></div><div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div><div class="success" id="leadSuccessBottom" role="status" aria-live="polite"><div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div><h3>Заявка принята</h3><p>Перезвоним <b>в течение 15 минут</b> (9:00–21:00 МСК).</p></div></form></div></div></section>
+<nav class="v2-bc" aria-label="Хлебные крошки"><div class="v2-container"><ol><li><a href="/">Главная</a></li><li><a href="/regiony/">Регионы</a></li><li aria-current="page">Тюмень</li></ol></div></nav>
+<section class="v2-hero">
+  <div class="v2-container">
+    <div class="v2-hero-grid">
+      <div class="v2-hero-main">
+        <div class="v2-hero-eyebrow-row"><span class="v2-eyebrow">Казначейское сопровождение · Тюмень</span><span class="v2-hero-eyebrow-dash" aria-hidden="true"></span></div>
+        <h1>Казначейское сопровождение<br><em>в Тюмени</em></h1>
+        <p class="v2-hero-lede"><strong>Берём казначейское сопровождение госконтракта в Тюмени на себя:</strong> открытие лицевого счёта в УФК по Тюменской области, ведение платежей и санкционирование, раздельный учёт и спасение проблемных контрактов. Дистанционно по всему региону, без возвратов и срыва сроков.</p>
+        <div class="v2-hero-trust">
+          <div class="v2-trust-item"><div class="v2-trust-num">2<span class="v2-trust-suffix">&nbsp;рабочих&nbsp;дня</span></div><div class="v2-trust-label">до открытия счёта</div></div>
+          <div class="v2-trust-item"><div class="v2-trust-num">7 000<span class="v2-trust-suffix">+</span></div><div class="v2-trust-label">контрактов</div></div>
+          <div class="v2-trust-item"><div class="v2-trust-num">90<span class="v2-trust-suffix">&nbsp;млрд&nbsp;₽</span></div><div class="v2-trust-label">проведено</div></div>
+          <div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div>
+        </div>
+        <div class="v2-hero-expert">
+          <div class="v2-expert-name">Михайлов Ярослав</div>
+          <div class="v2-expert-role">Главный эксперт · 15 лет в Казначействе</div>
+          <p class="v2-expert-quote">«Тюменская область ведём дистанционно: знаем требования УФК по Тюменской области и доводим платежи до санкционирования с первой подачи».</p>
+        </div>
+      </div>
+      <aside class="v2-hero-action">
+        <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
+        <h2>Разберём ваш контракт</h2>
+        <p class="v2-hero-action-sub">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт ваш контракт в Тюмени и назовёт точную стоимость. NDA — до анализа документов.</p>
+        <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="region-tyumen">
+          <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
+          <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
+          <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
+          <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
+          <button class="submit" type="submit">Получить расчёт →</button>
+          <div class="formmsg" id="formMsg" hidden></div>
+          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
+          <div class="success" id="leadSuccess" role="status" aria-live="polite">
+            <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
+            <h3>Заявка принята</h3><p>Эксперт перезвонит <b>в течение 15 минут</b> (9:00–21:00 МСК) и разберёт ваш контракт.</p>
+            <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
+          </div>
+        </form>
+        <div class="v2-hero-alt">Или напишите — ответим за 5 минут<div class="v2-hero-alt-links"><a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a><a href="tel:+79818331010">+7 981 833-10-10</a></div></div>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="region">
+  <div class="v2-container">
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Тюмень</div><h2 class="v2-section-title">Сопровождение в Тюмени — <em>дистанционно и под ключ</em></h2></div>
+    <div class="reg-split">
+      <div class="reg-copy">
+        <p>Тюменская область — нефтегазовый центр страны: добыча, нефтепереработка, нефтегазохимия и производство нефтесервисного оборудования формируют основной поток контрактов. Ведём расчёты через УФК по Тюменской области для подрядчиков из Тюмени и региона дистанционно.</p>
+        <p>Услуга оказывается по всей России: открываем и ведём лицевые счета в любом территориальном органе казначейства, в том числе в УФК по Тюменской области. Весь документооборот — через «Электронный бюджет», поэтому ваше местонахождение и загруженность регионального УФК не мешают работе.</p>
+        <h3>Когда нужно казначейское сопровождение</h3>
+        <p>Расчёты идут через лицевой счёт в казначействе, если вы выиграли госконтракт по 44-ФЗ или 223-ФЗ с условием казначейского сопровождения, получаете целевой аванс или бюджетную субсидию либо работаете по гособоронзаказу (275-ФЗ). Без открытого счёта и санкционирования оплата невозможна, а каждая ошибка в документах оборачивается возвратом и потерей срока.</p>
+        <p>Мы закрываем весь этот блок: открываем счёт в УФК по Тюменской области, ведём раздельный учёт, готовим распоряжения и проводим санкционирование, а при возвратах и блокировках — восстанавливаем контракт до исполнения.</p>
+      </div>
+      <aside class="reg-facts">
+        <h3>Коротко о регионе</h3>
+        <dl>
+          <div><dt>Субъект РФ</dt><dd>Тюменская область</dd></div>
+          <div><dt>Орган казначейства</dt><dd>УФК по Тюменской области</dd></div>
+          <div><dt>Формат работы</dt><dd>Дистанционно, по всей РФ</dd></div>
+          <div><dt>Открытие счёта</dt><dd>2 рабочих дня</dd></div>
+          <div><dt>Документооборот</dt><dd>«Электронный бюджет»</dd></div>
+        </dl>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="uslugi">
+  <div class="v2-container">
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Услуги</div><h2 class="v2-section-title">Что берём на себя в Тюмени</h2><p class="v2-section-lede">Полный цикл казначейского сопровождения — от открытия счёта до спасения контракта.</p></div>
+    <div class="v2-process-grid lp-3col">
+      <article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Открытие счёта</h3><p class="v2-process-desc">Пакет документов и открытие лицевого счёта в УФК по Тюменской области с первой подачи за два рабочих дня. <a href="/uslugi/otkrytie-scheta/">Подробнее →</a></p></article>
+      <article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Ведение и платежи</h3><p class="v2-process-desc">Сведения, распоряжения, санкционирование, постоплата и аванс — безлимит операций до закрытия контракта. <a href="/uslugi/soprovozhdenie-avans/">Подробнее →</a></p></article>
+      <article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Спасение контракта</h3><p class="v2-process-desc">Возвраты, блокировки, отказы казначейства — срочная диагностика и восстановление до исполнения. <a href="/uslugi/spasenie-kontrakta/">Подробнее →</a></p></article>
+    </div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="process">
+  <div class="v2-container">
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Процесс</div><h2 class="v2-section-title">Как начинаем работу в Тюмени</h2><p class="v2-section-lede">Каждый шаг — конкретное действие на нашей стороне. Прозрачно и дистанционно.</p></div>
+    <div class="v2-process-grid lp-3col">
+      <article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">Сегодня · 15 минут</div><h3>Заявка и старт</h3><p class="v2-process-desc">Перезваниваем за 15 минут, разбираем контракт, подписываем договор и NDA.</p><ul class="v2-process-checks"><li>Договор подписан</li></ul></article>
+      <article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">1–2 дня</div><h3>Документы и счёт</h3><p class="v2-process-desc">Готовим пакет, включаем в сводный реестр, открываем счёт в УФК по Тюменской области.</p><ul class="v2-process-checks"><li>Счёт открыт</li></ul></article>
+      <article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">До закрытия</div><h3>Ведём контракт</h3><p class="v2-process-desc">Платежи, сведения, санкционирование — до исполнения контракта без возвратов.</p><ul class="v2-process-checks"><li>Платежи проходят</li></ul></article>
+    </div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="sravnenie">
+  <div class="v2-container">
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Сравнение</div><h2 class="v2-section-title">Своими силами или <em>с экспертом</em></h2><p class="v2-section-lede">Казначейское сопровождение — это процедуры с жёсткими требованиями УФК по Тюменской области. Цена ошибки — возврат документов и сорванный срок исполнения.</p></div>
+    <div class="cmp-wrap">
+      <table class="cmp">
+        <thead><tr><th>Этап</th><th>Своими силами</th><th>С КазнаЭксперт</th></tr></thead>
+        <tbody>
+          <tr><td>Открытие лицевого счёта</td><td>1–3 недели, частые возвраты пакета</td><td class="cmp-us">2 рабочих дня, подача с первого раза</td></tr>
+          <tr><td>Санкционирование платежей</td><td>Отказы из-за оснований платежа и раздельного учёта</td><td class="cmp-us">Документы готовим под требования казначейства</td></tr>
+          <tr><td>Раздельный учёт и отчётность</td><td>Нужен отдельный обученный специалист</td><td class="cmp-us">Ведём за вас, без расширения штата</td></tr>
+          <tr><td>Возврат или блокировка</td><td>Контракт встаёт, сроки горят</td><td class="cmp-us">Срочная диагностика и восстановление</td></tr>
+          <tr><td>Цена ошибки</td><td>Штрафы, риск РНП, срыв исполнения</td><td class="cmp-us">Фиксированная цена и прогнозируемый результат</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="tarif">
+  <div class="v2-container">
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Стоимость</div><h2 class="v2-section-title">Фиксированные цены — <em>по всей России</em></h2><p class="v2-section-lede">Цена не зависит от региона. Конкретный объём и стоимость прописаны в договоре.</p></div>
+    <div class="v2-tariffs-grid lp-3col">
+      <article class="v2-tariff is-featured"><div class="v2-tariff-no">01</div><div class="v2-tariff-stage">Старт</div><h3>Открытие счёта за два дня</h3><p class="v2-tariff-desc">Полный пакет документов и открытие счёта в УФК по Тюменской области с первой подачи.</p><div class="v2-tariff-price"><div class="v2-tariff-price-num">39 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div></article>
+      <article class="v2-tariff"><div class="v2-tariff-no">02</div><div class="v2-tariff-stage">Ведение</div><h3>Сопровождение контракта</h3><p class="v2-tariff-desc">Постоплата и аванс: контроль целевого использования, санкционирование, безлимит операций.</p><div class="v2-tariff-price"><div class="v2-tariff-price-num">от 59 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу / 79 000 ₽/мес</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div></article>
+      <article class="v2-tariff"><div class="v2-tariff-no">03</div><div class="v2-tariff-stage">Срочно</div><h3>Спасение контракта</h3><p class="v2-tariff-desc">Возвраты, блокировки, отказы — срочная диагностика и восстановление.</p><div class="v2-tariff-price"><div class="v2-tariff-price-num">от 29 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Аудит · восстановление от 99 000 ₽</div><a href="/uslugi/spasenie-kontrakta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div></article>
+    </div>
+    <p class="v2-tariffs-footnote">Точная стоимость — после анализа вашего контракта.</p>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="faq">
+  <div class="v2-container">
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Вопросы</div><h2 class="v2-section-title">Отвечаем <em>прямо</em></h2></div>
+    <div class="faq">
+      <details open><summary>Вы работаете в Тюмени?</summary><p>Да. Ведём казначейское сопровождение для подрядчиков из Тюмень и всего региона дистанционно — открываем и ведём счёт в УФК по Тюменской области через «Электронный бюджет», личное присутствие не требуется.</p></details>
+      <details><summary>Нужно ли приезжать в казначейство?</summary><p>Нет. Весь документооборот идёт электронно через «Электронный бюджет». Мы работаем со всеми регионами РФ удалённо.</p></details>
+      <details><summary>За сколько откроете счёт?</summary><p>За два рабочих дня с момента получения документов при стандартных требованиях. Срок фиксируем в договоре.</p></details>
+      <details><summary>Сколько стоит сопровождение?</summary><p>Цены фиксированные и не зависят от региона: открытие счёта — 39 000 ₽, ведение — от 59 000 ₽, спасение контракта — от 29 000 ₽. Точная стоимость — после анализа.</p></details>
+      <details><summary>Что если казначейство вернёт документы?</summary><p>Устраняем замечания без доплат — это входит в услугу. Цель — пройти санкционирование с первой подачи.</p></details>
+      <details><summary>Поможете со спасением проблемного контракта?</summary><p>Да. Срочно подключаемся: находим причину возвратов и блокировок, восстанавливаем учёт и доводим контракт до исполнения.</p></details>
+    </div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="zayavka">
+  <div class="v2-container">
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Заявка</div><h2 class="v2-section-title">Казначейское сопровождение в Тюмени</h2><p class="v2-section-lede">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт ваш контракт и назовёт точную стоимость.</p></div>
+    <div style="max-width:520px;margin:0 auto">
+      <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="region-tyumen-cta">
+        <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
+        <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
+        <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
+        <button class="submit" type="submit">Получить расчёт →</button>
+        <div class="formmsg" id="formMsgBottom" hidden></div>
+        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
+        <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
+          <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
+          <h3>Заявка принята</h3><p>Эксперт перезвонит <b>в течение 15 минут</b> (9:00–21:00 МСК).</p>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>
 </div>
-<section class="trust" aria-label="Проверка в реестрах"><div class="trust__box"><div class="trust__lead"><b>Проверьте нас в открытых реестрах</b>ИП Михайлов Я.А. · ИНН 781428314589 · ОГРНИП 321784700367672</div><div class="trust__badges"><a class="badge" href="https://www.rusprofile.ru/ip/321784700367672" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg><b>Rusprofile</b></a><a class="badge" href="https://zachestnyibiznes.ru/company/ip/321784700367672_781428314589" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg>За честный <b>бизнес</b></a><a class="badge" href="https://www.audit-it.ru/contragent/fl/781428314589_mikhailov-iaroslav-alekseevich" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg><b>Audit-it</b></a></div></div></section>
+
+<section class="trust" aria-label="Проверка в реестрах">
+  <div class="trust__box">
+    <div class="trust__lead"><b>Проверьте нас в открытых реестрах</b>ИП Михайлов Я.А. · ИНН 781428314589 · ОГРНИП 321784700367672</div>
+    <div class="trust__badges">
+      <a class="badge" href="https://www.rusprofile.ru/ip/321784700367672" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg><b>Rusprofile</b></a>
+      <a class="badge" href="https://zachestnyibiznes.ru/company/ip/321784700367672_781428314589" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg>За честный <b>бизнес</b></a>
+      <a class="badge" href="https://www.audit-it.ru/contragent/fl/781428314589_mikhailov-iaroslav-alekseevich" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg><b>Audit-it</b></a>
+    </div>
+  </div>
+</section>
+
 <script>
 (function(){var f=document.getElementById('leadFormBottom'); if(!f) return;var msg=document.getElementById('formMsgBottom'), ok=document.getElementById('leadSuccessBottom');function show(t){ if(msg){msg.hidden=false;msg.textContent=t;} }f.addEventListener('submit',function(e){e.preventDefault();if(f.company_extra && f.company_extra.value) return;var name=(f.name.value||'').trim(), phone=(f.phone.value||'').trim();if(name.length<2){show('Введите имя');return;}if(!/\d[\s\d().-]*\d{3}/.test(phone)||phone.replace(/\D/g,'').length<10){show('Проверьте телефон');return;}if(!f.consent.checked){show('Подтвердите согласие');return;}var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})}).then(function(r){ if(!r.ok) throw 0; return r; }).then(function(){ [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; }); if(ok) ok.style.display='block'; try{ if(typeof ym==='function') ym(94305898,'reachGoal','lead',{source:f.dataset.source}); }catch(_){ } }).catch(function(){ btn.disabled=false; btn.textContent=orig; show('Не удалось отправить. Попробуйте ещё раз.'); });});})();
 </script>
