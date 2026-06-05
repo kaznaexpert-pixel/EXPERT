@@ -32,7 +32,7 @@
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Нормативная база", "item": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/"}, {"@type": "ListItem", "position": 4, "name": "ПП № 2479 (КОО)"}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что такое казначейское обеспечение обязательств простыми словами?", "acceptedAnswer": {"@type": "Answer", "text": "Это гарантия казначейства оплатить обязательство в пределах доведённой суммы — без предварительного перечисления аванса деньгами."}}, {"@type": "Question", "name": "Можно ли передать КОО соисполнителю?", "acceptedAnswer": {"@type": "Answer", "text": "Да, обеспечение переводится по цепочке кооперации в пределах сумм."}}, {"@type": "Question", "name": "Чем регулируется КОО?", "acceptedAnswer": {"@type": "Answer", "text": "Статьёй 242.22 БК и Постановлением Правительства № 2479."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что такое казначейское обеспечение обязательств простыми словами?", "acceptedAnswer": {"@type": "Answer", "text": "Это гарантия казначейства оплатить обязательство в пределах доведённой суммы — без предварительного перечисления аванса деньгами."}}, {"@type": "Question", "name": "Можно ли передать КОО соисполнителю?", "acceptedAnswer": {"@type": "Answer", "text": "Да, обеспечение переводится по цепочке кооперации в пределах сумм."}}, {"@type": "Question", "name": "Чем регулируется КОО?", "acceptedAnswer": {"@type": "Answer", "text": "Статьёй 242.22 БК и Постановлением Правительства № 2479."}}, {"@type": "Question", "name": "Чем КОО лучше денежного аванса?", "acceptedAnswer": {"@type": "Answer", "text": "Не отвлекает оборотные средства: гарантия оплаты подтверждается без перечисления денег вперёд."}}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -498,8 +498,10 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 <div class="layout">
   <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/baza-znaniy/">База знаний</a> › <a href="/baza-znaniy/normativnaya-baza/">Нормативная база</a> › ПП № 2479 (КОО)</nav>
   <aside class="toc" aria-label="Содержание"><div class="toc__label">На странице</div><ul class="toc__list" id="tocList">
-    <li><a href="#reg">Что регулирует</a></li><li><a href="#means">Что значит для исполнителя</a></li>
-    <li><a href="#norms">Ключевые нормы</a></li><li><a href="#changed">Актуальная редакция</a></li><li><a href="#faq">Вопросы</a></li>
+    <li><a href="#reg">Что регулирует</a></li><li><a href="#kak">Как это работает</a></li>
+    <li><a href="#means">Что значит для исполнителя</a></li><li><a href="#norms">Ключевые нормы</a></li>
+    <li><a href="#oshibki">На что обратить внимание</a></li><li><a href="#sistema">Место в системе</a></li>
+    <li><a href="#changed">Актуальная редакция</a></li><li><a href="#faq">Вопросы</a></li>
   </ul></aside>
   <article class="content" id="main">
     <style>
@@ -531,27 +533,36 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       @media(min-width:680px){.codechips{grid-template-columns:1fr 1fr}}
       .codechip{display:block;padding:11px 14px;border:1px solid var(--hair,rgba(26,26,26,.12));border-radius:10px;font-size:13.5px;text-decoration:none;color:inherit;transition:border-color .2s,background .2s}
       .codechip:hover{border-color:rgba(139,111,71,.5);background:var(--paper,#FBF9F4)}
+      .content ol.ol{margin:12px 0;padding-left:24px}
+      .content ol.ol li{margin:8px 0;line-height:1.6;padding-left:4px}
+      .content ol.ol li::marker{color:var(--accent,#8B6F47);font-weight:600}
     </style>
     <div class="hero"><img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy"><img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy"><div class="eyebrow">База знаний · Нормативная база <span class="fresh">Актуально на 2026</span></div><h1>Постановление № 2479 — казначейское обеспечение обязательств (КОО): зачем оно исполнителю</h1><div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>Обновлено 5 июня 2026</span></div></div>
     <div class="npa-meta"><div><span>Документ</span><b>Постановление Правительства РФ от 25.12.2021 № 2479 «Об утверждении Правил выдачи (перевода, отзыва) казначейского обеспечения обязательств…»</b></div><div class="npa-meta-row"><span>Дата: 25 декабря 2021</span><span>действует, ред. от 26.03.2022</span><a href="https://www.consultant.ru/document/cons_doc_LAW_405179/" target="_blank" rel="noopener nofollow">Первоисточник →</a></div></div>
-    <div class="tldr">Казначейское обеспечение обязательств — инструмент, который позволяет рассчитываться по контракту без отвлечения собственных оборотных средств. Порядок его выдачи задаёт Постановление № 2479.</div>
+    <div class="tldr">Казначейское обеспечение обязательств — инструмент, который позволяет рассчитываться по контракту без отвлечения собственных оборотных средств. По сути, это гарантия казначейства оплаты в пределах доведённых сумм. Порядок его выдачи задаёт Постановление № 2479.</div>
 
     <h2 id="reg">Что регулирует</h2>
-    <div class="answer reveal"><p>ПП № 2479 утверждает Правила выдачи, перевода и отзыва казначейского обеспечения обязательств (КОО) по ст. 242.22 БК и сроки операций Федерального казначейства с КОО.</p><p>КОО — это, по сути, гарантия казначейства оплаты обязательств в пределах сумм, доведённых при казначейском (в т.ч. расширенном) сопровождении.</p></div>
+    <div class="answer reveal"><p>ПП № 2479 утверждает Правила выдачи, перевода и отзыва казначейского обеспечения обязательств (КОО) по ст. 242.22 БК и сроки операций Федерального казначейства с КОО.</p><p>КОО применяется при казначейском, в том числе расширенном, сопровождении: вместо перечисления аванса «живыми» деньгами казначейство выдаёт обеспечение, которое подтверждает гарантию оплаты.</p></div>
+
+    <h2 id="kak">Как это работает на практике</h2><div class="answer reveal"><ol class="ol"><li>Казначейство выдаёт КОО в пределах сумм, доведённых по контракту под сопровождением.</li><li>Головной исполнитель переводит обеспечение соисполнителям по цепочке кооперации — тоже в пределах сумм.</li><li>Фактическая оплата происходит при наступлении оснований; при необходимости обеспечение отзывается.</li><li>Операции с КОО проводятся в сроки, установленные постановлением.</li></ol></div>
 
     <h2 id="means">Что это значит для исполнителя контракта</h2>
-    <div class="answer reveal"><ul class="ul"><li>КОО позволяет подтвердить контрагенту гарантию оплаты, не перечисляя аванс «живыми» деньгами заранее.</li><li>Обеспечение можно перевести по цепочке кооперации — соисполнителям — в пределах доведённых сумм.</li><li>Это снижает потребность в оборотных средствах на старте контракта.</li><li>Работа с КОО требует точного документооборота — ошибки приводят к задержкам перевода.</li></ul></div>
+    <div class="answer reveal"><ul class="ul"><li>КОО позволяет подтвердить контрагенту гарантию оплаты, не перечисляя аванс деньгами заранее.</li><li>Обеспечение переводится по цепочке кооперации — соисполнителям.</li><li>Это снижает потребность в оборотных средствах на старте контракта.</li><li>Работа с КОО требует точного документооборота — ошибки приводят к задержкам перевода.</li></ul></div>
 
     <h2 id="norms">Ключевые нормы</h2>
-    <div class="answer reveal"><table class="ctab"><thead><tr><th>Норма</th><th>Суть</th></tr></thead><tbody><tr><td class="cd">Выдача КОО</td><td>казначейство выдаёт обеспечение в пределах сумм, доведённых при КС.</td></tr><tr><td class="cd">Перевод и отзыв</td><td>обеспечение переводится соисполнителям и при необходимости отзывается.</td></tr><tr><td class="cd">Сроки</td><td>операции ФК с КОО проводятся в установленные постановлением сроки.</td></tr></tbody></table></div>
+    <div class="answer reveal"><table class="ctab"><thead><tr><th>Норма</th><th>Суть</th></tr></thead><tbody><tr><td class="cd">Выдача КОО</td><td>казначейство выдаёт обеспечение в пределах сумм, доведённых при КС.</td></tr><tr><td class="cd">Перевод</td><td>обеспечение переводится соисполнителям по цепочке кооперации.</td></tr><tr><td class="cd">Отзыв</td><td>обеспечение отзывается при наличии оснований.</td></tr><tr><td class="cd">Сроки</td><td>операции ФК с КОО проводятся в установленные постановлением сроки.</td></tr></tbody></table></div>
+
+    <h2 id="oshibki">На что обратить внимание</h2><div class="answer reveal"><ul class="ul"><li>Попытка перевести обеспечение сверх доведённых сумм.</li><li>Ошибки в документах на перевод КОО соисполнителю — задержка всей цепочки.</li><li>Смешение КОО с обычным авансом: это разные инструменты с разным порядком.</li></ul></div>
+
+    <h2 id="sistema">Место в системе регулирования</h2><div class="answer reveal"><p>КОО опирается на ст. 242.22 БК и применяется в связке с расширенным КС (ст. 242.24) и Правилами (ПП № 2024). Для исполнителя это альтернатива денежному авансу в режиме сопровождения, особенно по крупным и оборонным контрактам.</p></div>
 
     <h2 id="changed">Актуальная редакция и изменения</h2>
     <div class="answer reveal"><p>ПП № 2479 от 25.12.2021 действует в редакции от 26.03.2022. Применяется вместе со ст. 242.22 БК и Правилами КС (ПП № 2024).</p></div>
 
-    <div class="note">Смотрите также: <div class="codechips"><a class="codechip" href="/baza-znaniy/normativnaya-baza/bk-242-24-rasshirennoe/">Расширенное КС (ст. 242.24 БК)</a><a class="codechip" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/">КС ГОЗ</a></div></div>
+    <div class="note">Смотрите также: <div class="codechips"><a class="codechip" href="/baza-znaniy/normativnaya-baza/bk-242-24-rasshirennoe/">Расширенное КС (ст. 242.24 БК)</a><a class="codechip" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/">КС ГОЗ</a><a class="codechip" href="/baza-znaniy/normativnaya-baza/pp-2024-pravila-ks/">Правила КС (ПП № 2024)</a></div></div>
 
     <h2 id="faq">Частые вопросы</h2>
-    <div class="faq"><details><summary>Что такое казначейское обеспечение обязательств простыми словами?</summary><p>Это гарантия казначейства оплатить обязательство в пределах доведённой суммы — без предварительного перечисления аванса деньгами.</p></details><details><summary>Можно ли передать КОО соисполнителю?</summary><p>Да, обеспечение переводится по цепочке кооперации в пределах сумм.</p></details><details><summary>Чем регулируется КОО?</summary><p>Статьёй 242.22 БК и Постановлением Правительства № 2479.</p></details></div>
+    <div class="faq"><details><summary>Что такое казначейское обеспечение обязательств простыми словами?</summary><p>Это гарантия казначейства оплатить обязательство в пределах доведённой суммы — без предварительного перечисления аванса деньгами.</p></details><details><summary>Можно ли передать КОО соисполнителю?</summary><p>Да, обеспечение переводится по цепочке кооперации в пределах сумм.</p></details><details><summary>Чем регулируется КОО?</summary><p>Статьёй 242.22 БК и Постановлением Правительства № 2479.</p></details><details><summary>Чем КОО лучше денежного аванса?</summary><p>Не отвлекает оборотные средства: гарантия оплаты подтверждается без перечисления денег вперёд.</p></details></div>
 
     <section class="refs" aria-label="Источники"><h2>Источник</h2><ol>
       <li id="ref-1">Постановление Правительства РФ от 25.12.2021 № 2479 «Об утверждении Правил выдачи (перевода, отзыва) казначейского обеспечения обязательств…». <a href="https://www.consultant.ru/document/cons_doc_LAW_405179/" target="_blank" rel="noopener">Первоисточник</a></li>

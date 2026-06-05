@@ -32,7 +32,7 @@
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Нормативная база", "item": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/"}, {"@type": "ListItem", "position": 4, "name": "Приказ Казначейства № 44н (лицевые счета)"}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Какой документ регулирует открытие лицевого счёта в казначействе?", "acceptedAnswer": {"@type": "Answer", "text": "Приказ Федерального казначейства № 44н от 22.12.2021 в действующей редакции."}}, {"@type": "Question", "name": "Что такое счёт с кодом 71?", "acceptedAnswer": {"@type": "Answer", "text": "Единый лицевой счёт участника казначейского сопровождения в ТОФК, через который идут расчёты по контракту."}}, {"@type": "Question", "name": "Где взять код ТОФК для заявления?", "acceptedAnswer": {"@type": "Answer", "text": "В справочнике казначейств по регионам — это код вашего управления (КОФК)."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Какой документ регулирует открытие лицевого счёта в казначействе?", "acceptedAnswer": {"@type": "Answer", "text": "Приказ Федерального казначейства № 44н от 22.12.2021 в действующей редакции."}}, {"@type": "Question", "name": "Что такое счёт с кодом 71?", "acceptedAnswer": {"@type": "Answer", "text": "Единый лицевой счёт участника казначейского сопровождения в ТОФК, через который идут расчёты по контракту."}}, {"@type": "Question", "name": "Где взять код ТОФК для заявления?", "acceptedAnswer": {"@type": "Answer", "text": "В справочнике казначейств по регионам — это код вашего управления (КОФК)."}}, {"@type": "Question", "name": "Нужен ли отдельный счёт под каждый контракт?", "acceptedAnswer": {"@type": "Answer", "text": "Нет: счёт «71» единый, но по каждому контракту на нём ведётся отдельный раздел с ИГК."}}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -498,8 +498,10 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 <div class="layout">
   <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/baza-znaniy/">База знаний</a> › <a href="/baza-znaniy/normativnaya-baza/">Нормативная база</a> › Приказ Казначейства № 44н (лицевые счета)</nav>
   <aside class="toc" aria-label="Содержание"><div class="toc__label">На странице</div><ul class="toc__list" id="tocList">
-    <li><a href="#reg">Что регулирует</a></li><li><a href="#means">Что значит для исполнителя</a></li>
-    <li><a href="#norms">Ключевые нормы</a></li><li><a href="#changed">Актуальная редакция</a></li><li><a href="#faq">Вопросы</a></li>
+    <li><a href="#reg">Что регулирует</a></li><li><a href="#kak">Как это работает</a></li>
+    <li><a href="#means">Что значит для исполнителя</a></li><li><a href="#norms">Ключевые нормы</a></li>
+    <li><a href="#oshibki">На что обратить внимание</a></li><li><a href="#sistema">Место в системе</a></li>
+    <li><a href="#changed">Актуальная редакция</a></li><li><a href="#faq">Вопросы</a></li>
   </ul></aside>
   <article class="content" id="main">
     <style>
@@ -531,19 +533,28 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       @media(min-width:680px){.codechips{grid-template-columns:1fr 1fr}}
       .codechip{display:block;padding:11px 14px;border:1px solid var(--hair,rgba(26,26,26,.12));border-radius:10px;font-size:13.5px;text-decoration:none;color:inherit;transition:border-color .2s,background .2s}
       .codechip:hover{border-color:rgba(139,111,71,.5);background:var(--paper,#FBF9F4)}
+      .content ol.ol{margin:12px 0;padding-left:24px}
+      .content ol.ol li{margin:8px 0;line-height:1.6;padding-left:4px}
+      .content ol.ol li::marker{color:var(--accent,#8B6F47);font-weight:600}
     </style>
     <div class="hero"><img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy"><img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy"><div class="eyebrow">База знаний · Нормативная база <span class="fresh">Актуально на 2026</span></div><h1>Приказ Казначейства № 44н — открытие лицевых счетов участников КС в ТОФК</h1><div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>Обновлено 5 июня 2026</span></div></div>
     <div class="npa-meta"><div><span>Документ</span><b>Приказ Федерального казначейства от 22.12.2021 № 44н «Об утверждении Порядка открытия лицевых счетов территориальными органами Федерального казначейства участникам казначейского сопровождения»</b></div><div class="npa-meta-row"><span>Дата: 22 декабря 2021</span><span>действует, ред. от 30.09.2025</span><a href="https://www.consultant.ru/document/cons_doc_LAW_405524/" target="_blank" rel="noopener nofollow">Первоисточник →</a></div></div>
     <div class="tldr">Чтобы работать по контракту под казначейским сопровождением, нужно открыть лицевой счёт в ТОФК. Порядок открытия, переоформления и закрытия таких счетов задаёт приказ № 44н.</div>
 
     <h2 id="reg">Что регулирует</h2>
-    <div class="answer reveal"><p>44н утверждает Порядок открытия территориальными органами казначейства лицевых счетов участникам казначейского сопровождения — включая счёт с кодом «71».</p><p>Приказ определяет состав документов, формы заявлений и основания для открытия, переоформления и закрытия счёта.</p></div>
+    <div class="answer reveal"><p>44н утверждает Порядок открытия территориальными органами казначейства лицевых счетов участникам казначейского сопровождения — включая единый счёт с кодом «71».</p><p>Приказ определяет состав документов, формы заявлений, требования к их заполнению и основания для открытия, переоформления и закрытия счёта.</p></div>
+
+    <h2 id="kak">Как это работает на практике</h2><div class="answer reveal"><ol class="ol"><li>Участник готовит комплект документов и заявление на открытие лицевого счёта по форме приказа.</li><li>В заявлении указывается код ТОФК (КОФК) — четырёхзначный код управления по региону.</li><li>ТОФК проверяет документы и открывает единый лицевой счёт с кодом «71»; по каждому контракту на нём ведётся отдельный раздел с ИГК.</li><li>При изменении данных счёт переоформляется, при завершении контракта — закрывается по тому же порядку.</li></ol></div>
 
     <h2 id="means">Что это значит для исполнителя контракта</h2>
-    <div class="answer reveal"><ul class="ul"><li>По этому порядку вы открываете лицевой счёт «71», без которого расчёты по контракту невозможны.</li><li>В заявлении указывается код ТОФК — его берут из справочника казначейства.</li><li>Приказ задаёт и переоформление/закрытие счёта — это важно при завершении контракта.</li><li>Ошибки в комплекте документов на открытие — частая причина задержек старта работ.</li></ul></div>
+    <div class="answer reveal"><ul class="ul"><li>По этому порядку вы открываете лицевой счёт «71», без которого расчёты по контракту невозможны.</li><li>В заявлении указывается код ТОФК — его берут из справочника казначейства.</li><li>Один счёт «71» обслуживает несколько контрактов — операции обособляются по ИГК.</li><li>Приказ задаёт и переоформление/закрытие счёта — это важно при изменении данных и завершении контракта.</li></ul></div>
 
     <h2 id="norms">Ключевые нормы</h2>
-    <div class="answer reveal"><table class="ctab"><thead><tr><th>Норма</th><th>Суть</th></tr></thead><tbody><tr><td class="cd">Порядок открытия</td><td>основания и документы для открытия лицевого счёта участника КС.</td></tr><tr><td class="cd">Счёт «71»</td><td>единый лицевой счёт для расчётов по контрактам под сопровождением.</td></tr><tr><td class="cd">Переоформление и закрытие</td><td>процедуры при изменении данных и завершении контракта.</td></tr></tbody></table></div>
+    <div class="answer reveal"><table class="ctab"><thead><tr><th>Норма</th><th>Суть</th></tr></thead><tbody><tr><td class="cd">Порядок открытия</td><td>основания и документы для открытия лицевого счёта участника КС.</td></tr><tr><td class="cd">Счёт «71»</td><td>единый лицевой счёт для расчётов по контрактам под сопровождением.</td></tr><tr><td class="cd">Код ТОФК (КОФК)</td><td>указывается в заявлении; берётся из справочника органов казначейства.</td></tr><tr><td class="cd">Переоформление и закрытие</td><td>процедуры при изменении данных и завершении контракта.</td></tr></tbody></table></div>
+
+    <h2 id="oshibki">На что обратить внимание</h2><div class="answer reveal"><ul class="ul"><li>Неполный или неверно оформленный комплект документов — отказ в открытии и потеря времени.</li><li>Неверный код ТОФК в заявлении.</li><li>Несвоевременное переоформление при изменении реквизитов организации.</li><li>Затягивание открытия счёта при уже идущих сроках контракта.</li></ul></div>
+
+    <h2 id="sistema">Место в системе регулирования</h2><div class="answer reveal"><p>44н реализует требование ст. 242.23 БК об операциях на лицевых счетах в ТОФК. Открытый по нему счёт «71» — это «вход» в систему: дальше работают Правила (ПП № 2024) и санкционирование (приказ 214н). Код ТОФК для заявления — из справочника казначейств.</p></div>
 
     <h2 id="changed">Актуальная редакция и изменения</h2>
     <div class="answer reveal"><p>44н от 22.12.2021 действует в редакции от 30.09.2025. Формы и состав документов уточняются — используйте актуальные бланки ТОФК.</p></div>
@@ -551,7 +562,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <div class="note">Смотрите также: <div class="codechips"><a class="codechip" href="/baza-znaniy/licevoy-schet-71-kak-otkryt/">Как открыть лицевой счёт 71</a><a class="codechip" href="/baza-znaniy/tofk/">Справочник ТОФК: код, сайт, адрес</a><a class="codechip" href="/uslugi/otkrytie-scheta/">Открытие счёта под ключ</a></div></div>
 
     <h2 id="faq">Частые вопросы</h2>
-    <div class="faq"><details><summary>Какой документ регулирует открытие лицевого счёта в казначействе?</summary><p>Приказ Федерального казначейства № 44н от 22.12.2021 в действующей редакции.</p></details><details><summary>Что такое счёт с кодом 71?</summary><p>Единый лицевой счёт участника казначейского сопровождения в ТОФК, через который идут расчёты по контракту.</p></details><details><summary>Где взять код ТОФК для заявления?</summary><p>В справочнике казначейств по регионам — это код вашего управления (КОФК).</p></details></div>
+    <div class="faq"><details><summary>Какой документ регулирует открытие лицевого счёта в казначействе?</summary><p>Приказ Федерального казначейства № 44н от 22.12.2021 в действующей редакции.</p></details><details><summary>Что такое счёт с кодом 71?</summary><p>Единый лицевой счёт участника казначейского сопровождения в ТОФК, через который идут расчёты по контракту.</p></details><details><summary>Где взять код ТОФК для заявления?</summary><p>В справочнике казначейств по регионам — это код вашего управления (КОФК).</p></details><details><summary>Нужен ли отдельный счёт под каждый контракт?</summary><p>Нет: счёт «71» единый, но по каждому контракту на нём ведётся отдельный раздел с ИГК.</p></details></div>
 
     <section class="refs" aria-label="Источники"><h2>Источник</h2><ol>
       <li id="ref-1">Приказ Федерального казначейства от 22.12.2021 № 44н «Об утверждении Порядка открытия лицевых счетов территориальными органами Федерального казначейства участникам казначейского сопровождения». <a href="https://www.consultant.ru/document/cons_doc_LAW_405524/" target="_blank" rel="noopener">Первоисточник</a></li>
