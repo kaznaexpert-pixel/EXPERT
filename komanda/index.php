@@ -523,7 +523,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   </div>
 </section>
 
-<section class="v2-section v2-screen">
+<section class="v2-section">
   <div class="v2-container"><div class="team-wrap"><div class="team-grid"><a class="team-card is-lead" href="/komanda/mihailov-yaroslav/">
         <div class="team-card__photo"><span class="team-card__badge">Главный эксперт</span><picture><source type="image/webp" srcset="/img/team/mihailov-sq.webp"><img src="/img/team/mihailov-sq.jpg" loading="lazy" decoding="async" width="460" height="460" alt="Ярослав Михайлов — Главный эксперт · основатель, КазнаЭксперт"></picture></div>
         <div class="team-card__body">
