@@ -525,7 +525,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
 <section class="v2-section">
   <div class="v2-container"><div class="team-wrap"><div class="team-grid"><a class="team-card is-lead" href="/komanda/mihailov-yaroslav/">
-        <div class="team-card__photo"><span class="team-card__badge">Главный эксперт</span><picture><source type="image/webp" srcset="/img/team/mihailov-sq.webp"><img src="/img/team/mihailov-sq.jpg" loading="lazy" decoding="async" width="460" height="460" alt="Ярослав Михайлов — Главный эксперт · основатель, КазнаЭксперт"></picture></div>
+        <div class="team-card__photo"><span class="team-card__badge">Главный эксперт</span><picture><source type="image/webp" srcset="/img/team/mihailov-sq.webp?b=2"><img src="/img/team/mihailov-sq.jpg?b=2" loading="lazy" decoding="async" width="460" height="460" alt="Ярослав Михайлов — Главный эксперт · основатель, КазнаЭксперт"></picture></div>
         <div class="team-card__body">
           <div class="team-card__name">Ярослав Михайлов</div>
           <div class="team-card__role">Главный эксперт · основатель</div>
@@ -534,7 +534,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
           <span class="team-card__link">Подробнее <span aria-hidden="true">→</span></span>
         </div>
       </a><a class="team-card" href="/komanda/anton/">
-        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/anton-sq.webp"><img src="/img/team/anton-sq.jpg" loading="lazy" decoding="async" width="460" height="460" alt="Антон — Открытие казначейских счетов, КазнаЭксперт"></picture></div>
+        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/anton-sq.webp?b=2"><img src="/img/team/anton-sq.jpg?b=2" loading="lazy" decoding="async" width="460" height="460" alt="Антон — Открытие казначейских счетов, КазнаЭксперт"></picture></div>
         <div class="team-card__body">
           <div class="team-card__name">Антон</div>
           <div class="team-card__role">Открытие казначейских счетов</div>
@@ -543,7 +543,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
           <span class="team-card__link">Подробнее <span aria-hidden="true">→</span></span>
         </div>
       </a><a class="team-card" href="/komanda/stella/">
-        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/stella-sq.webp"><img src="/img/team/stella-sq.jpg" loading="lazy" decoding="async" width="460" height="460" alt="Стелла — Резервирование счетов, КазнаЭксперт"></picture></div>
+        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/stella-sq.webp?b=2"><img src="/img/team/stella-sq.jpg?b=2" loading="lazy" decoding="async" width="460" height="460" alt="Стелла — Резервирование счетов, КазнаЭксперт"></picture></div>
         <div class="team-card__body">
           <div class="team-card__name">Стелла</div>
           <div class="team-card__role">Резервирование счетов</div>
@@ -552,7 +552,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
           <span class="team-card__link">Подробнее <span aria-hidden="true">→</span></span>
         </div>
       </a><a class="team-card" href="/komanda/natalya/">
-        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/natalya-sq.webp"><img src="/img/team/natalya-sq.jpg" loading="lazy" decoding="async" width="460" height="460" alt="Наталья — Ведение · аванс и ГОЗ, КазнаЭксперт"></picture></div>
+        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/natalya-sq.webp?b=2"><img src="/img/team/natalya-sq.jpg?b=2" loading="lazy" decoding="async" width="460" height="460" alt="Наталья — Ведение · аванс и ГОЗ, КазнаЭксперт"></picture></div>
         <div class="team-card__body">
           <div class="team-card__name">Наталья</div>
           <div class="team-card__role">Ведение · аванс и ГОЗ</div>
@@ -561,7 +561,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
           <span class="team-card__link">Подробнее <span aria-hidden="true">→</span></span>
         </div>
       </a><a class="team-card" href="/komanda/yuliya/">
-        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/yuliya-sq.webp"><img src="/img/team/yuliya-sq.jpg" loading="lazy" decoding="async" width="460" height="460" alt="Юлия — Ведение · постоплата, КазнаЭксперт"></picture></div>
+        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/yuliya-sq.webp?b=2"><img src="/img/team/yuliya-sq.jpg?b=2" loading="lazy" decoding="async" width="460" height="460" alt="Юлия — Ведение · постоплата, КазнаЭксперт"></picture></div>
         <div class="team-card__body">
           <div class="team-card__name">Юлия</div>
           <div class="team-card__role">Ведение · постоплата</div>
@@ -570,7 +570,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
           <span class="team-card__link">Подробнее <span aria-hidden="true">→</span></span>
         </div>
       </a><a class="team-card" href="/komanda/elena/">
-        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/elena-sq.webp"><img src="/img/team/elena-sq.jpg" loading="lazy" decoding="async" width="460" height="460" alt="Елена — Ведение · ИТ и строительство, КазнаЭксперт"></picture></div>
+        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/elena-sq.webp?b=2"><img src="/img/team/elena-sq.jpg?b=2" loading="lazy" decoding="async" width="460" height="460" alt="Елена — Ведение · ИТ и строительство, КазнаЭксперт"></picture></div>
         <div class="team-card__body">
           <div class="team-card__name">Елена</div>
           <div class="team-card__role">Ведение · ИТ и строительство</div>

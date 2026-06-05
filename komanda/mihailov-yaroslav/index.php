@@ -524,8 +524,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         <div class="author-hero">
           <div class="author-hero__photo">
             <picture>
-              <source type="image/webp" srcset="/img/mihailov-480.webp 480w, /img/mihailov-768.webp 768w" sizes="190px">
-              <img src="/img/mihailov-768.jpg" width="768" height="960" decoding="async" alt="Ярослав Михайлов — главный эксперт КазнаЭксперт по казначейскому сопровождению госконтрактов">
+              <source type="image/webp" srcset="/img/team/mihailov-480.webp">
+              <img src="/img/team/mihailov-480.jpg" width="480" height="600" decoding="async" alt="Ярослав Михайлов — главный эксперт КазнаЭксперт по казначейскому сопровождению госконтрактов">
             </picture>
           </div>
           <div>
