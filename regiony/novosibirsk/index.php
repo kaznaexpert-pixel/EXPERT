@@ -496,7 +496,33 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         </header>
 
 <div class="v2">
-<style>@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}</style>
+<style>
+@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}
+.v2 .v2-bc{border-bottom:1px solid var(--hair,rgba(26,26,26,.08))}
+.v2 .v2-bc ol{list-style:none;display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:0;padding:14px 0;font-size:13.5px}
+.v2 .v2-bc li{display:flex;align-items:center;gap:8px;color:var(--mute,#6E6B66)}
+.v2 .v2-bc li+li::before{content:'/';color:var(--hair,rgba(26,26,26,.35))}
+.v2 .v2-bc a{color:var(--mute,#6E6B66);text-decoration:none}
+.v2 .v2-bc a:hover{color:var(--accent,#8B6F47)}
+.v2 .v2-bc [aria-current]{color:var(--ink,#1A1A1A);font-weight:500}
+.v2 .reg-split{display:grid;grid-template-columns:1fr;gap:26px}
+@media(min-width:901px){.v2 .reg-split{grid-template-columns:2fr 1fr;gap:40px;align-items:start}}
+.v2 .reg-copy{font-size:16.5px;line-height:1.7;color:var(--ink-soft,#3A3A3A)}
+.v2 .reg-copy p{margin:0 0 16px}
+.v2 .reg-copy h3{font-family:var(--font-display,'Playfair Display',serif);font-weight:500;font-size:20px;margin:24px 0 10px;color:var(--ink,#1A1A1A)}
+.v2 .reg-facts{background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.1));border-radius:16px;padding:24px}
+.v2 .reg-facts h3{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--mute,#6E6B66);margin:0 0 14px;font-weight:600}
+.v2 .reg-facts dl{margin:0;display:grid;gap:13px}
+.v2 .reg-facts dt{font-size:12.5px;color:var(--mute,#6E6B66)}
+.v2 .reg-facts dd{margin:3px 0 0;font-size:15px;color:var(--ink,#1A1A1A);font-weight:500;line-height:1.4}
+.v2 .cmp-wrap{overflow-x:auto}
+.v2 .cmp{width:100%;border-collapse:collapse;font-size:15px;background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.1));border-radius:14px;overflow:hidden}
+.v2 .cmp th,.v2 .cmp td{text-align:left;padding:14px 18px;border-bottom:1px solid var(--hair,rgba(26,26,26,.08));vertical-align:top;line-height:1.45}
+.v2 .cmp thead th{font-size:12.5px;text-transform:uppercase;letter-spacing:.05em;color:var(--mute,#6E6B66);font-weight:600}
+.v2 .cmp tbody tr:last-child td{border-bottom:none}
+.v2 .cmp .cmp-us{color:var(--ink,#1A1A1A);font-weight:500}
+</style>
+<nav class="v2-bc" aria-label="Хлебные крошки"><div class="v2-container"><ol><li><a href="/">Главная</a></li><li><a href="/regiony/">Регионы</a></li><li aria-current="page">Новосибирск</li></ol></div></nav>
 <section class="v2-hero">
   <div class="v2-container">
     <div class="v2-hero-grid">
@@ -543,9 +569,24 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 <section class="v2-section v2-screen" id="region">
   <div class="v2-container">
     <div class="v2-section-head"><div class="v2-section-eyebrow">Новосибирск</div><h2 class="v2-section-title">Сопровождение в Новосибирске — <em>дистанционно и под ключ</em></h2></div>
-    <div style="max-width:820px;font-size:16.5px;line-height:1.66;color:var(--ink-soft,#3A3A3A)">
-      <p>Новосибирск — деловой центр Сибири с активным госзаказом в строительстве, ИТ и научной сфере. Ведём казначейское сопровождение для компаний Новосибирской области дистанционно, без привязки к личным визитам в УФК.</p>
-      <p>Услуга оказывается по всей России: открываем и ведём лицевые счета в любом территориальном органе казначейства, в том числе в УФК по Новосибирской области. Весь документооборот — через «Электронный бюджет», поэтому ваше местонахождение и загруженность регионального УФК не мешают работе.</p>
+    <div class="reg-split">
+      <div class="reg-copy">
+        <p>Новосибирск — деловой центр Сибири с активным госзаказом в строительстве, ИТ и научной сфере. Ведём казначейское сопровождение для компаний Новосибирской области дистанционно, без привязки к личным визитам в УФК.</p>
+        <p>Услуга оказывается по всей России: открываем и ведём лицевые счета в любом территориальном органе казначейства, в том числе в УФК по Новосибирской области. Весь документооборот — через «Электронный бюджет», поэтому ваше местонахождение и загруженность регионального УФК не мешают работе.</p>
+        <h3>Когда нужно казначейское сопровождение</h3>
+        <p>Расчёты идут через лицевой счёт в казначействе, если вы выиграли госконтракт по 44-ФЗ или 223-ФЗ с условием казначейского сопровождения, получаете целевой аванс или бюджетную субсидию либо работаете по гособоронзаказу (275-ФЗ). Без открытого счёта и санкционирования оплата невозможна, а каждая ошибка в документах оборачивается возвратом и потерей срока.</p>
+        <p>Мы закрываем весь этот блок: открываем счёт в УФК по Новосибирской области, ведём раздельный учёт, готовим распоряжения и проводим санкционирование, а при возвратах и блокировках — восстанавливаем контракт до исполнения.</p>
+      </div>
+      <aside class="reg-facts">
+        <h3>Коротко о регионе</h3>
+        <dl>
+          <div><dt>Субъект РФ</dt><dd>Новосибирская область</dd></div>
+          <div><dt>Орган казначейства</dt><dd>УФК по Новосибирской области</dd></div>
+          <div><dt>Формат работы</dt><dd>Дистанционно, по всей РФ</dd></div>
+          <div><dt>Открытие счёта</dt><dd>2 рабочих дня</dd></div>
+          <div><dt>Документооборот</dt><dd>«Электронный бюджет»</dd></div>
+        </dl>
+      </aside>
     </div>
   </div>
 </section>
@@ -568,6 +609,24 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">Сегодня · 15 минут</div><h3>Заявка и старт</h3><p class="v2-process-desc">Перезваниваем за 15 минут, разбираем контракт, подписываем договор и NDA.</p><ul class="v2-process-checks"><li>Договор подписан</li></ul></article>
       <article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">1–2 дня</div><h3>Документы и счёт</h3><p class="v2-process-desc">Готовим пакет, включаем в сводный реестр, открываем счёт в УФК по Новосибирской области.</p><ul class="v2-process-checks"><li>Счёт открыт</li></ul></article>
       <article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">До закрытия</div><h3>Ведём контракт</h3><p class="v2-process-desc">Платежи, сведения, санкционирование — до исполнения контракта без возвратов.</p><ul class="v2-process-checks"><li>Платежи проходят</li></ul></article>
+    </div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="sravnenie">
+  <div class="v2-container">
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Сравнение</div><h2 class="v2-section-title">Своими силами или <em>с экспертом</em></h2><p class="v2-section-lede">Казначейское сопровождение — это процедуры с жёсткими требованиями УФК по Новосибирской области. Цена ошибки — возврат документов и сорванный срок исполнения.</p></div>
+    <div class="cmp-wrap">
+      <table class="cmp">
+        <thead><tr><th>Этап</th><th>Своими силами</th><th>С КазнаЭксперт</th></tr></thead>
+        <tbody>
+          <tr><td>Открытие лицевого счёта</td><td>1–3 недели, частые возвраты пакета</td><td class="cmp-us">2 рабочих дня, подача с первого раза</td></tr>
+          <tr><td>Санкционирование платежей</td><td>Отказы из-за оснований платежа и раздельного учёта</td><td class="cmp-us">Документы готовим под требования казначейства</td></tr>
+          <tr><td>Раздельный учёт и отчётность</td><td>Нужен отдельный обученный специалист</td><td class="cmp-us">Ведём за вас, без расширения штата</td></tr>
+          <tr><td>Возврат или блокировка</td><td>Контракт встаёт, сроки горят</td><td class="cmp-us">Срочная диагностика и восстановление</td></tr>
+          <tr><td>Цена ошибки</td><td>Штрафы, риск РНП, срыв исполнения</td><td class="cmp-us">Фиксированная цена и прогнозируемый результат</td></tr>
+        </tbody>
+      </table>
     </div>
   </div>
 </section>
