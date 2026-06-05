@@ -42,6 +42,12 @@
 {"@type":"Question","name":"Можно ли ускорить санкционирование?","acceptedAnswer":{"@type":"Answer","text":"Скорость зависит от качества документов. Корректные сведения, понятное назначение, верные коды и полный комплект оснований позволяют проходить санкционирование с первой подачи."}}
 ]}
 </script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "HowTo", "name": "Как проходит санкционирование расходов при казначейском сопровождении", "inLanguage": "ru-RU", "step": [{"@type": "HowToStep", "position": 1, "name": "Утвердить сведения об операциях", "text": "Сформировать и утвердить сведения об операциях с целевыми средствами — план расходов по контракту в разрезе кодов."}, {"@type": "HowToStep", "position": 2, "name": "Сформировать распоряжение", "text": "Подготовить распоряжение о совершении казначейского платежа с корректным назначением и кодами."}, {"@type": "HowToStep", "position": 3, "name": "Приложить документы-основания", "text": "Приложить договор, счёт, акт или УПД, подтверждающие расход, и указать идентификатор контракта, где требуется."}, {"@type": "HowToStep", "position": 4, "name": "Проверка казначейством", "text": "ТОФК проверяет целевое использование, соответствие сведениям, коды и назначение, документы и непревышение остатка целевых средств."}, {"@type": "HowToStep", "position": 5, "name": "Санкционирование и платёж", "text": "При отсутствии нарушений казначейство санкционирует операцию и платёж исполняется; при нарушении документ возвращается на доработку."}]}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
+</script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
 <link rel="preload" as="font" type="font/woff2" href="/fonts/playfairdisplay-normal-500-cyrillic.woff2" crossorigin>

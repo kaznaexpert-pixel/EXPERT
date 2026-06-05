@@ -53,6 +53,9 @@
 {"@type":"Question","name":"Просрочка с открытием казначейского счёта грозит пенями?","acceptedAnswer":{"@type":"Answer","text":"Косвенно — да. Пока счёт не открыт, расчёты по контракту невозможны, а срок исполнения идёт. Чтобы не терять дни, счёт открывают сразу после заключения контракта."}}
 ]}
 </script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
+</script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
 <link rel="preload" as="font" type="font/woff2" href="/fonts/playfairdisplay-normal-500-cyrillic.woff2" crossorigin>
