@@ -494,7 +494,6 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
             <a class="v2-mobile-cta" href="/#contacts">Получить расчёт</a>
           </nav>
         </header>
-</div>
 
 <div class="v2">
   <div class="v2-container" style="padding-top:52px;padding-bottom:8px">
@@ -535,7 +534,6 @@ usort($cards, function($a,$b){ return $b['mtime'] <=> $a['mtime']; });
 </section>
 
 
-<div class="v2">
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
 

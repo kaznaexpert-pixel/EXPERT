@@ -516,7 +516,6 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
             <a class="v2-mobile-cta" href="/#contacts">Получить расчёт</a>
           </nav>
         </header>
-</div>
 
 <div class="layout">
   <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/baza-znaniy/">База знаний</a> › Причины отказа казначейства</nav>
@@ -837,7 +836,6 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 </section>
 
 
-<div class="v2">
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
 
