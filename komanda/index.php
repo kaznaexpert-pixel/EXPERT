@@ -493,7 +493,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
 <div class="v2">
 <style>
-.v2 .team-hero{max-width:720px}
+.v2 .v2-hero{min-height:0 !important;padding:44px 0 6px !important}.v2 .v2-section.v2-screen{min-height:0 !important;padding-top:64px !important;padding-bottom:56px !important;display:block !important}.v2 .v2-section{min-height:0 !important}.v2 .team-hero{max-width:720px}
 .v2 .team-wrap{max-width:1060px;margin:0 auto}
 .v2 .team-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
 @media(max-width:820px){.v2 .team-grid{grid-template-columns:1fr 1fr;gap:18px}}
