@@ -517,7 +517,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         </div>
       </div>
       <aside class="v2-hero-action">
-        <div class="v2-hero-action-eyebrow">Бесплатный анализ контракта</div>
+        <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
         <h2>Зарезервируем счёт за вас</h2>
         <p class="v2-hero-action-sub">Передайте номер тендера или требования заказчика — эксперт перезвонит за 15 минут и зарезервирует счёт за один рабочий день.</p>
         <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="rezervirovanie-scheta">
@@ -642,7 +642,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         <p class="v2-tariff-desc">Ведём контракт после открытия счёта: платежи, сведения, отчётность — до закрытия.</p>
         <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 59 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу контракта</div><a href="/uslugi/soprovozhdenie-postoplata/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article></div>
-    <p class="v2-tariffs-footnote">Точная стоимость — после бесплатного анализа вашего контракта.</p>
+    <p class="v2-tariffs-footnote">Точная стоимость — после анализа вашего контракта.</p>
   </div>
 </section>
 

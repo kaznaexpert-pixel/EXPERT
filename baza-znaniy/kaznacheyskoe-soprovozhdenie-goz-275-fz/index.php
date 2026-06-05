@@ -858,7 +858,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Какие документы нужны для открытия лицевого счёта?</summary><p>Базовый пакет включает контракт (или выписку из него), заявление на открытие счёта, карточку образцов подписей, документы по электронной подписи и согласия на обработку данных. Подача — через ГИИС «Электронный бюджет».</p></details>
       <details><summary>Нужна ли отдельная электронная подпись для казначейского сопровождения?</summary><p>Да. Для работы в ГИИС «Электронный бюджет» — открытия счёта, подачи сведений и проведения платежей — необходима действующая квалифицированная электронная подпись на уполномоченных сотрудников.</p></details>
       <details><summary>Что делать, если казначейство вернуло платёж по ГОЗ?</summary><p>Нужно установить причину отказа (чаще всего это код направления расходования, отсутствие ИГК или неполный пакет документов), исправить её и повторно направить платёж. При систематических возвратах целесообразен аудит сопровождения и раздельного учёта.</p></details>
-      <details><summary>Сколько стоит казначейское сопровождение ГОЗ?</summary><p>Стоимость зависит от типа контракта, объёма операций и наличия раздельного учёта по ГОЗ. Точную цену мы называем после бесплатного анализа контракта — оставьте заявку, и эксперт рассчитает её под вашу ситуацию.</p></details>
+      <details><summary>Сколько стоит казначейское сопровождение ГОЗ?</summary><p>Стоимость зависит от типа контракта, объёма операций и наличия раздельного учёта по ГОЗ. Точную цену мы называем после анализа контракта — оставьте заявку, и эксперт рассчитает её под вашу ситуацию.</p></details>
     </div>
 
     <div class="author">
@@ -887,7 +887,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
   <aside class="rail">
     <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="goz-275fz">
-      <div class="railform__badge">Бесплатный анализ контракта</div>
+      <div class="railform__badge">Экспертный анализ контракта</div>
       <h3 class="railform__title">Проверим ваш контракт ГОЗ</h3>
       <p class="railform__sub">Разберём режим сопровождения и риски. Точная цена — после анализа.</p>
       <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
@@ -973,7 +973,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   <div class="kz-sub__box">
     <svg class="kz-sub__ic" width="190" height="190" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" aria-hidden="true"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M3 9h18M8 2v4M16 2v4M8 13h2M14 13h2M8 17h2M14 17h2"/></svg>
     <div class="kz-sub__left">
-      <span class="kz-sub__eyebrow">Бесплатно · PDF</span>
+      <span class="kz-sub__eyebrow">Гайд · PDF</span>
       <h2 class="kz-sub__title" id="kzSubTitle">Календарь дедлайнов по казначейскому сопровождению 2026</h2>
       <ul class="kz-sub__list">
         <li>Дедлайн принятия бюджетных обязательств и график операций конца года</li>

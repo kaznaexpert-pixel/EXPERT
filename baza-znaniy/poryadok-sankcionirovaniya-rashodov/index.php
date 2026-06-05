@@ -704,7 +704,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="sankcionirovanie">
       <div class="railform__badge">Платежи без возвратов</div>
       <h3 class="railform__title">Проведём санкционирование</h3>
-      <p class="railform__sub">Подготовим сведения и распоряжения так, чтобы платёж прошёл с первой подачи. Бесплатный разбор контракта.</p>
+      <p class="railform__sub">Подготовим сведения и распоряжения так, чтобы платёж прошёл с первой подачи. Разбор контракта.</p>
       <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
       <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
       <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">

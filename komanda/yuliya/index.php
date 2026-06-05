@@ -554,7 +554,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         <div class="v2-hero-trust" style="margin-top:28px"><div class="v2-trust-item"><div class="v2-trust-num">8<span class="v2-trust-suffix">&nbsp;лет</span></div><div class="v2-trust-label">в Казначействе</div></div><div class="v2-trust-item"><div class="v2-trust-num">с 2019<span class="v2-trust-suffix"></span></div><div class="v2-trust-label">в команде</div></div></div>
       </div>
       <aside class="v2-hero-action">
-        <div class="v2-hero-action-eyebrow">Бесплатный анализ контракта</div>
+        <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
         <h2>Спросить эксперта</h2>
         <p class="v2-hero-action-sub">Оставьте контакты — эксперт или его команда перезвонят за 15 минут, разберут ваш контракт и назовут точную стоимость. NDA — до анализа документов.</p>
         <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="expert-yuliya">

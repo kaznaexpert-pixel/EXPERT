@@ -532,7 +532,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       </div>
 
       <aside class="v2-hero-action">
-        <div class="v2-hero-action-eyebrow">Бесплатный анализ контракта</div>
+        <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
         <h2>Откроем счёт за вас</h2>
         <p class="v2-hero-action-sub">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт ваш контракт и назовёт точную стоимость. NDA — до анализа документов.</p>
         <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="otkrytie-scheta">
@@ -697,7 +697,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 59 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу контракта</div><a href="#zayavka" class="v2-tariff-link">Обсудить <span aria-hidden="true">→</span></a></div>
       </article>
     </div>
-    <p class="v2-tariffs-footnote">Точная стоимость — после бесплатного анализа вашего контракта.</p>
+    <p class="v2-tariffs-footnote">Точная стоимость — после анализа вашего контракта.</p>
   </div>
 </section>
 

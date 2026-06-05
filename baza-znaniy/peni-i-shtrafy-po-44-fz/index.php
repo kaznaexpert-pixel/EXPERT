@@ -799,9 +799,9 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
   <aside class="rail">
     <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="peni-44fz">
-      <div class="railform__badge">Бесплатный разбор</div>
+      <div class="railform__badge">Разбор эксперта</div>
       <h3 class="railform__title">Начислили неустойку?</h3>
-      <p class="railform__sub">Проверим расчёт и основания, подскажем, как снизить. Первая консультация — бесплатно.</p>
+      <p class="railform__sub">Проверим расчёт и основания, подскажем, как снизить. Первая консультация — без обязательств.</p>
       <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
       <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
       <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">

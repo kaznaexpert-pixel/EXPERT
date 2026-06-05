@@ -845,7 +845,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
   <aside class="rail">
     <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="chto-takoe-kaznacheyskoe-soprovozhdenie">
-      <div class="railform__badge">Бесплатный анализ контракта</div>
+      <div class="railform__badge">Экспертный анализ контракта</div>
       <h3 class="railform__title">Настроим сопровождение под ключ</h3>
       <p class="railform__sub">Откроем счёт, заведём сведения, проведём платежи. Цена — после анализа контракта.</p>
       <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
@@ -924,7 +924,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   <div class="kz-sub__box">
     <svg class="kz-sub__ic" width="190" height="190" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" aria-hidden="true"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M3 9h18M8 2v4M16 2v4M8 13h2M14 13h2M8 17h2M14 17h2"/></svg>
     <div class="kz-sub__left">
-      <span class="kz-sub__eyebrow">Бесплатно · PDF</span>
+      <span class="kz-sub__eyebrow">Гайд · PDF</span>
       <h2 class="kz-sub__title" id="kzSubTitle">Календарь дедлайнов по казначейскому сопровождению 2026</h2>
       <ul class="kz-sub__list">
         <li>Дедлайн принятия бюджетных обязательств и график операций конца года</li>

@@ -562,7 +562,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
   <aside class="rail">
     <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="code-0620">
-      <div class="railform__badge">Бесплатный разбор</div>
+      <div class="railform__badge">Разбор эксперта</div>
       <h3 class="railform__title">Разберём ваш платёж</h3>
       <p class="railform__sub">Подскажем правильный код направления расходования по вашему контракту и проведём платёж без возвратов.</p>
       <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">

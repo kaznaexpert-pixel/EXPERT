@@ -760,7 +760,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Можно ли вести раздельный учёт по ГОЗ в 1С?</summary><p>Да. В 1С раздельный учёт реализуется через субконто «Контракт» или «ИГК»: прямые затраты относятся на счёт 20 с этим субконто, накладные накапливаются и распределяются по закреплённой базе.</p></details>
       <details><summary>Что проверяет казначейство при расширенном сопровождении?</summary><p>Соответствие фактических затрат данным раздельного учёта и обоснованность структуры цены контракта. Расхождения вызывают вопросы и риск приостановки операций.</p></details>
       <details><summary>Как подготовиться к проверке раздельного учёта?</summary><p>Иметь оформленную учётную политику по ГОЗ, корректную аналитику по ИГК на всех счетах затрат, обоснованную базу распределения накладных и возможность быстро собрать карточку фактических затрат по контракту. Если учёт вёлся «котловым» методом, нужен аудит и восстановление методики.</p></details>
-      <details><summary>Сколько стоит постановка раздельного учёта по ГОЗ?</summary><p>Стоимость зависит от числа контрактов, состояния текущего учёта и режима сопровождения. Точную цену мы называем после бесплатного анализа — оставьте заявку, и эксперт оценит объём работ под вашу ситуацию.</p></details>
+      <details><summary>Сколько стоит постановка раздельного учёта по ГОЗ?</summary><p>Стоимость зависит от числа контрактов, состояния текущего учёта и режима сопровождения. Точную цену мы называем после анализа — оставьте заявку, и эксперт оценит объём работ под вашу ситуацию.</p></details>
     </div>
 
     <div class="author">
@@ -789,7 +789,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
   <aside class="rail">
     <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="razdelnyy-uchet-goz">
-      <div class="railform__badge">Бесплатный анализ контракта</div>
+      <div class="railform__badge">Экспертный анализ контракта</div>
       <h3 class="railform__title">Поставим раздельный учёт по ГОЗ</h3>
       <p class="railform__sub">Проверим методику и подготовим к проверке. Точная цена — после анализа.</p>
       <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
@@ -867,7 +867,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   <div class="kz-sub__box">
     <svg class="kz-sub__ic" width="190" height="190" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" aria-hidden="true"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M3 9h18M8 2v4M16 2v4M8 13h2M14 13h2M8 17h2M14 17h2"/></svg>
     <div class="kz-sub__left">
-      <span class="kz-sub__eyebrow">Бесплатно · PDF</span>
+      <span class="kz-sub__eyebrow">Гайд · PDF</span>
       <h2 class="kz-sub__title" id="kzSubTitle">Календарь дедлайнов по казначейскому сопровождению 2026</h2>
       <ul class="kz-sub__list">
         <li>Дедлайн принятия бюджетных обязательств и график операций конца года</li>

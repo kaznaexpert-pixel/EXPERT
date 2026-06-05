@@ -543,7 +543,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         </div>
       </div>
       <aside class="v2-hero-action">
-        <div class="v2-hero-action-eyebrow">Бесплатный анализ контракта</div>
+        <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
         <h2>Разберём ваш контракт</h2>
         <p class="v2-hero-action-sub">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт ваш контракт в Нижнем Новгороде и назовёт точную стоимость. NDA — до анализа документов.</p>
         <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="region-nizhniy-novgorod">
@@ -639,7 +639,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <article class="v2-tariff"><div class="v2-tariff-no">02</div><div class="v2-tariff-stage">Ведение</div><h3>Сопровождение контракта</h3><p class="v2-tariff-desc">Постоплата и аванс: контроль целевого использования, санкционирование, безлимит операций.</p><div class="v2-tariff-price"><div class="v2-tariff-price-num">от 59 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу / 79 000 ₽/мес</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div></article>
       <article class="v2-tariff"><div class="v2-tariff-no">03</div><div class="v2-tariff-stage">Срочно</div><h3>Спасение контракта</h3><p class="v2-tariff-desc">Возвраты, блокировки, отказы — срочная диагностика и восстановление.</p><div class="v2-tariff-price"><div class="v2-tariff-price-num">от 29 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Аудит · восстановление от 99 000 ₽</div><a href="/uslugi/spasenie-kontrakta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div></article>
     </div>
-    <p class="v2-tariffs-footnote">Точная стоимость — после бесплатного анализа вашего контракта.</p>
+    <p class="v2-tariffs-footnote">Точная стоимость — после анализа вашего контракта.</p>
   </div>
 </section>
 
@@ -650,7 +650,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details open><summary>Вы работаете в Нижнем Новгороде?</summary><p>Да. Ведём казначейское сопровождение для подрядчиков из Нижний Новгород и всего региона дистанционно — открываем и ведём счёт в УФК по Нижегородской области через «Электронный бюджет», личное присутствие не требуется.</p></details>
       <details><summary>Нужно ли приезжать в казначейство?</summary><p>Нет. Весь документооборот идёт электронно через «Электронный бюджет». Мы работаем со всеми регионами РФ удалённо.</p></details>
       <details><summary>За сколько откроете счёт?</summary><p>За два рабочих дня с момента получения документов при стандартных требованиях. Срок фиксируем в договоре.</p></details>
-      <details><summary>Сколько стоит сопровождение?</summary><p>Цены фиксированные и не зависят от региона: открытие счёта — 39 000 ₽, ведение — от 59 000 ₽, спасение контракта — от 29 000 ₽. Точная стоимость — после бесплатного анализа.</p></details>
+      <details><summary>Сколько стоит сопровождение?</summary><p>Цены фиксированные и не зависят от региона: открытие счёта — 39 000 ₽, ведение — от 59 000 ₽, спасение контракта — от 29 000 ₽. Точная стоимость — после анализа.</p></details>
       <details><summary>Что если казначейство вернёт документы?</summary><p>Устраняем замечания без доплат — это входит в услугу. Цель — пройти санкционирование с первой подачи.</p></details>
       <details><summary>Поможете со спасением проблемного контракта?</summary><p>Да. Срочно подключаемся: находим причину возвратов и блокировок, восстанавливаем учёт и доводим контракт до исполнения.</p></details>
     </div>

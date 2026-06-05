@@ -517,7 +517,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         </div>
       </div>
       <aside class="v2-hero-action">
-        <div class="v2-hero-action-eyebrow">Бесплатный анализ контракта</div>
+        <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
         <h2>Разберём вашу ситуацию срочно</h2>
         <p class="v2-hero-action-sub">Опишите проблему — эксперт перезвонит за 15 минут, оценит риск и предложит план спасения контракта. NDA — до разбора документов.</p>
         <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="spasenie-kontrakta">
@@ -642,7 +642,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         <p class="v2-tariff-desc">После спасения берём контракт на сопровождение — безлимит операций, контроль до закрытия.</p>
         <div class="v2-tariff-price"><div class="v2-tariff-price-num">79 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Чтобы не повторилось</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article></div>
-    <p class="v2-tariffs-footnote">Точная стоимость — после бесплатного анализа вашего контракта.</p>
+    <p class="v2-tariffs-footnote">Точная стоимость — после анализа вашего контракта.</p>
   </div>
 </section>
 
