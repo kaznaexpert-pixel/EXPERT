@@ -32,7 +32,7 @@
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Коды", "item": "https://kaznaexpert.ru/baza-znaniy/kody/"}, {"@type": "ListItem", "position": 4, "name": "Код 0620"}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что означает код 0620 в казначейском сопровождении?", "acceptedAnswer": {"@type": "Answer", "text": "Перечисление целевых средств обособленным или структурным подразделениям участника КС."}}, {"@type": "Question", "name": "Когда применяется код 0620?", "acceptedAnswer": {"@type": "Answer", "text": "Применяется при внутреннем распределении целевых средств между подразделениями одного юрлица."}}, {"@type": "Question", "name": "Какие документы нужны для платежа по коду 0620?", "acceptedAnswer": {"@type": "Answer", "text": "Как правило: положение о подразделении, внутренний приказ о распределении средств. Точный комплект зависит от условий контракта и требований ТОФК."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что означает код 0620 в казначейском сопровождении?", "acceptedAnswer": {"@type": "Answer", "text": "Перечисление целевых средств обособленным или структурным подразделениям участника КС."}}, {"@type": "Question", "name": "Когда применяется код 0620?", "acceptedAnswer": {"@type": "Answer", "text": "Применяется при внутреннем распределении целевых средств между подразделениями одного юрлица."}}, {"@type": "Question", "name": "Какие документы нужны для платежа по коду 0620?", "acceptedAnswer": {"@type": "Answer", "text": "Как правило: положение о подразделении, внутренний приказ о распределении средств. Точный комплект зависит от условий контракта и требований ТОФК."}}, {"@type": "Question", "name": "Как указать назначение платежа по коду 0620?", "acceptedAnswer": {"@type": "Answer", "text": "Назначение формулируют с привязкой к контракту и ИГК. Образец: «Перечисление целевых средств обособленному подразделению __ для исполнения контракта № __, ИГК __»."}}]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "DefinedTerm", "name": "Код 0620", "description": "Средства обособленным (структурным) подразделениям — направление расходования целевых средств (Приказ Минфина 214н, Прил.3).", "inDefinedTermSet": "https://kaznaexpert.ru/baza-znaniy/kody/"}
@@ -501,7 +501,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 <div class="layout">
   <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/baza-znaniy/">База знаний</a> › <a href="/baza-znaniy/kody/">Коды</a> › 0620</nav>
 
-  <aside class="toc" aria-label="Содержание"><div class="toc__label">На странице</div><ul class="toc__list" id="tocList"><li><a href="#chto">Что означает код</a></li><li><a href="#podkody">Детализированные подкоды</a></li><li><a href="#primery">Примеры из практики</a></li><li><a href="#oshibki">Ошибки санкционирования</a></li><li><a href="#dokumenty">Документы</a></li><li><a href="#faq">Вопросы</a></li></ul></aside>
+  <aside class="toc" aria-label="Содержание"><div class="toc__label">На странице</div><ul class="toc__list" id="tocList"><li><a href="#chto">Что означает код</a></li><li><a href="#podkody">Детализированные подкоды</a></li><li><a href="#naznachenie">Назначение платежа</a></li><li><a href="#proverka">Что проверяет казначейство</a></li><li><a href="#primery">Примеры из практики</a></li><li><a href="#nyuans">Экспертные нюансы</a></li><li><a href="#oshibki">Ошибки санкционирования</a></li><li><a href="#dokumenty">Документы</a></li><li><a href="#faq">Вопросы</a></li></ul></aside>
 
   <article class="content" id="main">
     <style>
@@ -513,6 +513,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       .codechips{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
       .codechip{display:inline-block;padding:7px 12px;border:1px solid var(--hair,rgba(26,26,26,.12));border-radius:9px;font-size:13.5px;text-decoration:none;color:inherit;transition:border-color .2s,background .2s}
       .codechip:hover{border-color:rgba(139,111,71,.5);background:var(--paper,#FBF9F4)}
+      .purpose{margin:12px 0;padding:14px 18px;border-left:3px solid var(--accent,#8B6F47);background:var(--paper,#FBF9F4);border-radius:0 10px 10px 0;font-size:15px;line-height:1.55;color:var(--ink,#1A1A1A)}
+      .kosgu{margin:14px 0 0;padding:12px 16px;background:rgba(139,111,71,.06);border-radius:10px;font-size:14px;line-height:1.55;color:var(--ink-soft,#3A3A3A)}
     </style>
     <div class="hero">
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
@@ -525,15 +527,21 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <div class="tldr">Код <b>0620</b> «Средства обособленным (структурным) подразделениям» — направление расходования целевых средств по Приложению 3 к Приказу Минфина № 214н. Перечисление целевых средств обособленным или структурным подразделениям участника КС.</div>
 
     <h2 id="chto">Что означает код 0620</h2>
-    <div class="answer reveal"><p>Перечисление целевых средств обособленным или структурным подразделениям участника КС.</p><p>Применяется при внутреннем распределении целевых средств между подразделениями одного юрлица.</p></div>
+    <div class="answer reveal"><p>Перечисление целевых средств обособленным или структурным подразделениям участника КС.</p><p>Применяется при внутреннем распределении целевых средств между подразделениями одного юрлица.</p><p class="kosgu"><b>Связь с бюджетной классификацией.</b> Ориентир КОСГУ: внутриведомственные/внутренние расчёты; статья зависит от назначения средств у подразделения. Соответствие справочное (Приказ 209н), не нормативное 1:1 — уточняйте у бухгалтера.</p></div>
 
     <h2 id="podkody">Детализированные подкоды 0620</h2>
     <div class="answer reveal"><p>В Сведениях об операциях и распоряжениях о казначейском платеже указывается детализированный код (семизначный) из группы 0620:</p><table class="ctab"><thead><tr><th>Подкод</th><th>Назначение выплаты</th></tr></thead><tbody><tr><td class="cd">0620 001</td><td>выплаты по перечислению средств обособленным (структурным) подразделениям</td></tr></tbody></table></div>
 
     
 
+    <h2 id="naznachenie">Назначение платежа по коду 0620</h2><div class="answer reveal"><p>В распоряжении о совершении казначейского платежа назначение формулируют с привязкой к контракту и ИГК. Образец для кода 0620:</p><blockquote class="purpose">«Перечисление целевых средств обособленному подразделению __ для исполнения контракта № __, ИГК __».</blockquote><p class="refs__note">Образец справочный — точную формулировку сверяйте с условиями контракта и требованиями вашего ТОФК.</p></div>
+
+    <h2 id="proverka">Что проверяет казначейство по коду 0620</h2><div class="answer reveal"><p>При санкционировании ТОФК проверяет по этому коду прежде всего:</p><ul class="ul"><li>получатель — действительно обособленное/структурное подразделение того же юрлица</li><li>ведётся раздельный учёт по подразделению</li><li>средства идут на исполнение контракта</li><li>внутренний документ о распределении средств</li></ul></div>
+
     <h2 id="primery">Примеры из практики</h2>
     <div class="answer reveal"><ul class="ul"><li>Головная организация перечисляет средства филиалу, который непосредственно выполняет часть работ по контракту, — код 0620 001.</li><li>Распределение целевых средств между производственными площадками внутри одного юрлица.</li></ul><p class="refs__note">Примеры обезличены и носят справочный характер; они не гарантируют конкретного результата по вашему контракту.</p></div>
+
+    <h2 id="nyuans">Экспертные нюансы кода 0620</h2><div class="answer reveal"><ul class="ul"><li>Перечисление сторонним юрлицам под видом подразделения недопустимо.</li><li>Это внутреннее движение целевых средств, а не расход — назначение должно быть ясным.</li></ul></div>
 
     <h2 id="oshibki">Типичные ошибки санкционирования по коду 0620</h2>
     <div class="answer reveal"><ul class="ul"><li>Перечисляют средства сторонним юрлицам под видом подразделений.</li><li>Не ведут раздельный учёт по подразделению-получателю.</li><li>Используют 0620 для расчётов, которые должны идти через 0200/0300.</li></ul></div>
@@ -544,7 +552,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <div class="note">Связанные коды: <div class="codechips"><a class="codechip" href="/baza-znaniy/kody/0100/">0100 · Выплаты персоналу</a><a class="codechip" href="/baza-znaniy/kody/0888/">0888 · Накладные расходы</a></div></div>
 
     <h2 id="faq">Частые вопросы по коду 0620</h2>
-    <div class="faq"><details><summary>Что означает код 0620 в казначейском сопровождении?</summary><p>Перечисление целевых средств обособленным или структурным подразделениям участника КС.</p></details><details><summary>Когда применяется код 0620?</summary><p>Применяется при внутреннем распределении целевых средств между подразделениями одного юрлица.</p></details><details><summary>Какие документы нужны для платежа по коду 0620?</summary><p>Как правило: положение о подразделении, внутренний приказ о распределении средств. Точный комплект зависит от условий контракта и требований ТОФК.</p></details></div>
+    <div class="faq"><details><summary>Что означает код 0620 в казначейском сопровождении?</summary><p>Перечисление целевых средств обособленным или структурным подразделениям участника КС.</p></details><details><summary>Когда применяется код 0620?</summary><p>Применяется при внутреннем распределении целевых средств между подразделениями одного юрлица.</p></details><details><summary>Какие документы нужны для платежа по коду 0620?</summary><p>Как правило: положение о подразделении, внутренний приказ о распределении средств. Точный комплект зависит от условий контракта и требований ТОФК.</p></details><details><summary>Как указать назначение платежа по коду 0620?</summary><p>Назначение формулируют с привязкой к контракту и ИГК. Образец: «Перечисление целевых средств обособленному подразделению __ для исполнения контракта № __, ИГК __».</p></details></div>
 
     <section class="refs" aria-label="Источники"><h2>Источники</h2><ol>
       <li id="ref-1">Приказ Минфина России от 17.12.2021 № 214н (ред. от 27.06.2025), Приложение 3 «Направления расходования целевых средств». <a href="https://www.consultant.ru/document/cons_doc_LAW_405138/de4649fe56038006ee16bce420115b7ba6a80da5/" target="_blank" rel="noopener">КонсультантПлюс</a></li>

@@ -32,7 +32,7 @@
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Коды", "item": "https://kaznaexpert.ru/baza-znaniy/kody/"}, {"@type": "ListItem", "position": 4, "name": "Код 0610"}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что означает код 0610 в казначейском сопровождении?", "acceptedAnswer": {"@type": "Answer", "text": "Перечисление авансов субподрядчикам и поставщикам по контрактам (договорам)."}}, {"@type": "Question", "name": "Когда применяется код 0610?", "acceptedAnswer": {"@type": "Answer", "text": "Применяется при авансировании привлечённых исполнителей. Аванс получает статус целевых средств, контрагент становится участником КС."}}, {"@type": "Question", "name": "Какие документы нужны для платежа по коду 0610?", "acceptedAnswer": {"@type": "Answer", "text": "Как правило: договор с авансированием, счёт на аванс, сведения об операциях контрагента. Точный комплект зависит от условий контракта и требований ТОФК."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что означает код 0610 в казначейском сопровождении?", "acceptedAnswer": {"@type": "Answer", "text": "Перечисление авансов субподрядчикам и поставщикам по контрактам (договорам)."}}, {"@type": "Question", "name": "Когда применяется код 0610?", "acceptedAnswer": {"@type": "Answer", "text": "Применяется при авансировании привлечённых исполнителей. Аванс получает статус целевых средств, контрагент становится участником КС."}}, {"@type": "Question", "name": "Какие документы нужны для платежа по коду 0610?", "acceptedAnswer": {"@type": "Answer", "text": "Как правило: договор с авансированием, счёт на аванс, сведения об операциях контрагента. Точный комплект зависит от условий контракта и требований ТОФК."}}, {"@type": "Question", "name": "Как указать назначение платежа по коду 0610?", "acceptedAnswer": {"@type": "Answer", "text": "Назначение формулируют с привязкой к контракту и ИГК. Образец: «Авансовый платёж __% по договору № __ от __ на <работы/услуги/материалы> по контракту № __, ИГК __. В т.ч. НДС __»."}}]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "DefinedTerm", "name": "Код 0610", "description": "Авансовые платежи по контрактам — направление расходования целевых средств (Приказ Минфина 214н, Прил.3).", "inDefinedTermSet": "https://kaznaexpert.ru/baza-znaniy/kody/"}
@@ -501,7 +501,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 <div class="layout">
   <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/baza-znaniy/">База знаний</a> › <a href="/baza-znaniy/kody/">Коды</a> › 0610</nav>
 
-  <aside class="toc" aria-label="Содержание"><div class="toc__label">На странице</div><ul class="toc__list" id="tocList"><li><a href="#chto">Что означает код</a></li><li><a href="#podkody">Детализированные подкоды</a></li><li><a href="#primery">Примеры из практики</a></li><li><a href="#oshibki">Ошибки санкционирования</a></li><li><a href="#dokumenty">Документы</a></li><li><a href="#faq">Вопросы</a></li></ul></aside>
+  <aside class="toc" aria-label="Содержание"><div class="toc__label">На странице</div><ul class="toc__list" id="tocList"><li><a href="#chto">Что означает код</a></li><li><a href="#podkody">Детализированные подкоды</a></li><li><a href="#naznachenie">Назначение платежа</a></li><li><a href="#proverka">Что проверяет казначейство</a></li><li><a href="#primery">Примеры из практики</a></li><li><a href="#nyuans">Экспертные нюансы</a></li><li><a href="#oshibki">Ошибки санкционирования</a></li><li><a href="#dokumenty">Документы</a></li><li><a href="#faq">Вопросы</a></li></ul></aside>
 
   <article class="content" id="main">
     <style>
@@ -513,6 +513,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       .codechips{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
       .codechip{display:inline-block;padding:7px 12px;border:1px solid var(--hair,rgba(26,26,26,.12));border-radius:9px;font-size:13.5px;text-decoration:none;color:inherit;transition:border-color .2s,background .2s}
       .codechip:hover{border-color:rgba(139,111,71,.5);background:var(--paper,#FBF9F4)}
+      .purpose{margin:12px 0;padding:14px 18px;border-left:3px solid var(--accent,#8B6F47);background:var(--paper,#FBF9F4);border-radius:0 10px 10px 0;font-size:15px;line-height:1.55;color:var(--ink,#1A1A1A)}
+      .kosgu{margin:14px 0 0;padding:12px 16px;background:rgba(139,111,71,.06);border-radius:10px;font-size:14px;line-height:1.55;color:var(--ink-soft,#3A3A3A)}
     </style>
     <div class="hero">
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
@@ -525,15 +527,21 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <div class="tldr">Код <b>0610</b> «Авансовые платежи по контрактам» — направление расходования целевых средств по Приложению 3 к Приказу Минфина № 214н. Перечисление авансов субподрядчикам и поставщикам по контрактам (договорам).</div>
 
     <h2 id="chto">Что означает код 0610</h2>
-    <div class="answer reveal"><p>Перечисление авансов субподрядчикам и поставщикам по контрактам (договорам).</p><p>Применяется при авансировании привлечённых исполнителей. Аванс получает статус целевых средств, контрагент становится участником КС.</p></div>
+    <div class="answer reveal"><p>Перечисление авансов субподрядчикам и поставщикам по контрактам (договорам).</p><p>Применяется при авансировании привлечённых исполнителей. Аванс получает статус целевых средств, контрагент становится участником КС.</p><p class="kosgu"><b>Связь с бюджетной классификацией.</b> Ориентир КОСГУ: по той же подстатье, что и предмет аванса (221–226/310/340), с признаком авансового платежа. Соответствие справочное (Приказ 209н), не нормативное 1:1 — уточняйте у бухгалтера.</p></div>
 
     <h2 id="podkody">Детализированные подкоды 0610</h2>
     <div class="answer reveal"><p>В Сведениях об операциях и распоряжениях о казначейском платеже указывается детализированный код (семизначный) из группы 0610:</p><table class="ctab"><thead><tr><th>Подкод</th><th>Назначение выплаты</th></tr></thead><tbody><tr><td class="cd">0610 001</td><td>авансы на оказание услуг</td></tr><tr><td class="cd">0610 002</td><td>авансы на выполнение работ</td></tr><tr><td class="cd">0610 003</td><td>авансы на материальные затраты (сырьё, материалы, оборудование, инвентарь)</td></tr></tbody></table></div>
 
     
 
+    <h2 id="naznachenie">Назначение платежа по коду 0610</h2><div class="answer reveal"><p>В распоряжении о совершении казначейского платежа назначение формулируют с привязкой к контракту и ИГК. Образец для кода 0610:</p><blockquote class="purpose">«Авансовый платёж __% по договору № __ от __ на <работы/услуги/материалы> по контракту № __, ИГК __. В т.ч. НДС __».</blockquote><p class="refs__note">Образец справочный — точную формулировку сверяйте с условиями контракта и требованиями вашего ТОФК.</p></div>
+
+    <h2 id="proverka">Что проверяет казначейство по коду 0610</h2><div class="answer reveal"><p>При санкционировании ТОФК проверяет по этому коду прежде всего:</p><ul class="ul"><li>размер аванса не превышает предельный по контракту/НПА</li><li>получатель аванса открыл лицевой счёт в ТОФК</li><li>аванс не маскирует оплату уже выполненных работ</li><li>связь авансируемого договора с контрактом</li></ul></div>
+
     <h2 id="primery">Примеры из практики</h2>
     <div class="answer reveal"><ul class="ul"><li>Генподрядчик перечисляет аванс субподрядчику на закупку материалов — код 0610 003; субподрядчику открывается лицевой счёт в казначействе.</li><li>Аванс проектной организации на выполнение изысканий — код 0610 002.</li></ul><p class="refs__note">Примеры обезличены и носят справочный характер; они не гарантируют конкретного результата по вашему контракту.</p></div>
+
+    <h2 id="nyuans">Экспертные нюансы кода 0610</h2><div class="answer reveal"><ul class="ul"><li>Аванс делает контрагента участником КС — целевые средства «прослеживаются» на его лицевом счёте.</li><li>Оплата по факту выполнения — это 0200/0300/0410, а не 0610.</li><li>Незакрытый авансом объём при завершении возвращается (1000/2000).</li></ul></div>
 
     <h2 id="oshibki">Типичные ошибки санкционирования по коду 0610</h2>
     <div class="answer reveal"><ul class="ul"><li>Авансируют контрагента, который не открыл лицевой счёт в ТОФК, — операция не пройдёт.</li><li>Превышают предельный размер аванса, установленный контрактом.</li><li>Проводят по 0610 оплату уже выполненных работ — это не аванс, нужен 0200/0410.</li></ul></div>
@@ -544,7 +552,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <div class="note">Связанные коды: <div class="codechips"><a class="codechip" href="/baza-znaniy/kody/0200/">0200 · Закупка работ и услуг</a><a class="codechip" href="/baza-znaniy/kody/0410/">0410 · Капитальные вложения</a><a class="codechip" href="/baza-znaniy/kody/0300/">0300 · Закупка активов, материальных запасов и основных средств</a></div></div>
 
     <h2 id="faq">Частые вопросы по коду 0610</h2>
-    <div class="faq"><details><summary>Что означает код 0610 в казначейском сопровождении?</summary><p>Перечисление авансов субподрядчикам и поставщикам по контрактам (договорам).</p></details><details><summary>Когда применяется код 0610?</summary><p>Применяется при авансировании привлечённых исполнителей. Аванс получает статус целевых средств, контрагент становится участником КС.</p></details><details><summary>Какие документы нужны для платежа по коду 0610?</summary><p>Как правило: договор с авансированием, счёт на аванс, сведения об операциях контрагента. Точный комплект зависит от условий контракта и требований ТОФК.</p></details></div>
+    <div class="faq"><details><summary>Что означает код 0610 в казначейском сопровождении?</summary><p>Перечисление авансов субподрядчикам и поставщикам по контрактам (договорам).</p></details><details><summary>Когда применяется код 0610?</summary><p>Применяется при авансировании привлечённых исполнителей. Аванс получает статус целевых средств, контрагент становится участником КС.</p></details><details><summary>Какие документы нужны для платежа по коду 0610?</summary><p>Как правило: договор с авансированием, счёт на аванс, сведения об операциях контрагента. Точный комплект зависит от условий контракта и требований ТОФК.</p></details><details><summary>Как указать назначение платежа по коду 0610?</summary><p>Назначение формулируют с привязкой к контракту и ИГК. Образец: «Авансовый платёж __% по договору № __ от __ на <работы/услуги/материалы> по контракту № __, ИГК __. В т.ч. НДС __».</p></details></div>
 
     <section class="refs" aria-label="Источники"><h2>Источники</h2><ol>
       <li id="ref-1">Приказ Минфина России от 17.12.2021 № 214н (ред. от 27.06.2025), Приложение 3 «Направления расходования целевых средств». <a href="https://www.consultant.ru/document/cons_doc_LAW_405138/de4649fe56038006ee16bce420115b7ba6a80da5/" target="_blank" rel="noopener">КонсультантПлюс</a></li>

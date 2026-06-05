@@ -32,7 +32,7 @@
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Коды", "item": "https://kaznaexpert.ru/baza-znaniy/kody/"}, {"@type": "ListItem", "position": 4, "name": "Код 0991"}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что означает код 0991 в казначейском сопровождении?", "acceptedAnswer": {"@type": "Answer", "text": "Окончательные расчёты (экономия) после полного исполнения обязательств по контракту."}}, {"@type": "Question", "name": "Когда применяется код 0991?", "acceptedAnswer": {"@type": "Answer", "text": "Применяется при выплате экономии, кроме стоимости фактически поставленного и прибыли."}}, {"@type": "Question", "name": "Какие документы нужны для платежа по коду 0991?", "acceptedAnswer": {"@type": "Answer", "text": "Как правило: акты исполнения всех этапов, расчёт экономии, условия контракта по окончательным расчётам. Точный комплект зависит от условий контракта и требований ТОФК."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что означает код 0991 в казначейском сопровождении?", "acceptedAnswer": {"@type": "Answer", "text": "Окончательные расчёты (экономия) после полного исполнения обязательств по контракту."}}, {"@type": "Question", "name": "Когда применяется код 0991?", "acceptedAnswer": {"@type": "Answer", "text": "Применяется при выплате экономии, кроме стоимости фактически поставленного и прибыли."}}, {"@type": "Question", "name": "Какие документы нужны для платежа по коду 0991?", "acceptedAnswer": {"@type": "Answer", "text": "Как правило: акты исполнения всех этапов, расчёт экономии, условия контракта по окончательным расчётам. Точный комплект зависит от условий контракта и требований ТОФК."}}, {"@type": "Question", "name": "Как указать назначение платежа по коду 0991?", "acceptedAnswer": {"@type": "Answer", "text": "Назначение формулируют с привязкой к контракту и ИГК. Образец: «Окончательный расчёт (экономия) по контракту № __ от __, ИГК __, после исполнения всех обязательств»."}}]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "DefinedTerm", "name": "Код 0991", "description": "Выплаты по окончательным расчётам — направление расходования целевых средств (Приказ Минфина 214н, Прил.3).", "inDefinedTermSet": "https://kaznaexpert.ru/baza-znaniy/kody/"}
@@ -501,7 +501,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 <div class="layout">
   <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/baza-znaniy/">База знаний</a> › <a href="/baza-znaniy/kody/">Коды</a> › 0991</nav>
 
-  <aside class="toc" aria-label="Содержание"><div class="toc__label">На странице</div><ul class="toc__list" id="tocList"><li><a href="#chto">Что означает код</a></li><li><a href="#podkody">Детализированные подкоды</a></li><li><a href="#varianty">Варианты 6 / 8 / 9</a></li><li><a href="#primery">Примеры из практики</a></li><li><a href="#oshibki">Ошибки санкционирования</a></li><li><a href="#dokumenty">Документы</a></li><li><a href="#faq">Вопросы</a></li></ul></aside>
+  <aside class="toc" aria-label="Содержание"><div class="toc__label">На странице</div><ul class="toc__list" id="tocList"><li><a href="#chto">Что означает код</a></li><li><a href="#podkody">Детализированные подкоды</a></li><li><a href="#varianty">Варианты 6 / 8 / 9</a></li><li><a href="#naznachenie">Назначение платежа</a></li><li><a href="#proverka">Что проверяет казначейство</a></li><li><a href="#primery">Примеры из практики</a></li><li><a href="#nyuans">Экспертные нюансы</a></li><li><a href="#oshibki">Ошибки санкционирования</a></li><li><a href="#dokumenty">Документы</a></li><li><a href="#faq">Вопросы</a></li></ul></aside>
 
   <article class="content" id="main">
     <style>
@@ -513,6 +513,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       .codechips{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
       .codechip{display:inline-block;padding:7px 12px;border:1px solid var(--hair,rgba(26,26,26,.12));border-radius:9px;font-size:13.5px;text-decoration:none;color:inherit;transition:border-color .2s,background .2s}
       .codechip:hover{border-color:rgba(139,111,71,.5);background:var(--paper,#FBF9F4)}
+      .purpose{margin:12px 0;padding:14px 18px;border-left:3px solid var(--accent,#8B6F47);background:var(--paper,#FBF9F4);border-radius:0 10px 10px 0;font-size:15px;line-height:1.55;color:var(--ink,#1A1A1A)}
+      .kosgu{margin:14px 0 0;padding:12px 16px;background:rgba(139,111,71,.06);border-radius:10px;font-size:14px;line-height:1.55;color:var(--ink-soft,#3A3A3A)}
     </style>
     <div class="hero">
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
@@ -525,15 +527,21 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <div class="tldr">Код <b>0991</b> «Выплаты по окончательным расчётам» — направление расходования целевых средств по Приложению 3 к Приказу Минфина № 214н. Окончательные расчёты (экономия) после полного исполнения обязательств по контракту.</div>
 
     <h2 id="chto">Что означает код 0991</h2>
-    <div class="answer reveal"><p>Окончательные расчёты (экономия) после полного исполнения обязательств по контракту.</p><p>Применяется при выплате экономии, кроме стоимости фактически поставленного и прибыли.</p></div>
+    <div class="answer reveal"><p>Окончательные расчёты (экономия) после полного исполнения обязательств по контракту.</p><p>Применяется при выплате экономии, кроме стоимости фактически поставленного и прибыли.</p><p class="kosgu"><b>Связь с бюджетной классификацией.</b> Ориентир КОСГУ: зависит от состава окончательного расчёта; определяется по характеру выплаты. Соответствие справочное (Приказ 209н), не нормативное 1:1 — уточняйте у бухгалтера.</p></div>
 
     <h2 id="podkody">Детализированные подкоды 0991</h2>
     <div class="answer reveal"><p>В Сведениях об операциях и распоряжениях о казначейском платеже указывается детализированный код (семизначный) из группы 0991:</p><table class="ctab"><thead><tr><th>Подкод</th><th>Назначение выплаты</th></tr></thead><tbody><tr><td class="cd">0991 001</td><td>выплаты по окончательным расчётам после исполнения всех обязательств по контракту</td></tr></tbody></table></div>
 
     <h2 id="varianty">Варианты кода: первая цифра 6 / 8 / 9</h2><div class="answer reveal"><p>Первая цифра кода направления показывает режим выплаты. Для кода <b>0991</b> на практике применяются варианты:</p><table class="ctab"><thead><tr><th>Код</th><th>Когда указывается</th></tr></thead><tbody><tr><td class="cd">6991</td><td>единовременная оплата по контракту с единственным поставщиком после полного исполнения</td></tr></tbody></table><p>Базовый код <b>0991</b> используется при оплате с лицевого счёта по утверждённым Сведениям; вариант с «9» — когда вы возмещаете уже понесённые за счёт собственных средств расходы.</p></div>
 
+    <h2 id="naznachenie">Назначение платежа по коду 0991</h2><div class="answer reveal"><p>В распоряжении о совершении казначейского платежа назначение формулируют с привязкой к контракту и ИГК. Образец для кода 0991:</p><blockquote class="purpose">«Окончательный расчёт (экономия) по контракту № __ от __, ИГК __, после исполнения всех обязательств».</blockquote><p class="refs__note">Образец справочный — точную формулировку сверяйте с условиями контракта и требованиями вашего ТОФК.</p></div>
+
+    <h2 id="proverka">Что проверяет казначейство по коду 0991</h2><div class="answer reveal"><p>При санкционировании ТОФК проверяет по этому коду прежде всего:</p><ul class="ul"><li>все обязательства по контракту исполнены и подтверждены документами</li><li>выплата не дублирует прибыль (0999)</li><li>право на экономию предусмотрено условиями контракта</li><li>акты исполнения этапов</li></ul></div>
+
     <h2 id="primery">Примеры из практики</h2>
     <div class="answer reveal"><ul class="ul"><li>После сдачи объекта и закрытия всех этапов подрядчик получает окончательный расчёт по контракту — код 0991 001.</li><li>Выплата экономии, образовавшейся при исполнении, в части, разрешённой условиями контракта.</li></ul><p class="refs__note">Примеры обезличены и носят справочный характер; они не гарантируют конкретного результата по вашему контракту.</p></div>
+
+    <h2 id="nyuans">Экспертные нюансы кода 0991</h2><div class="answer reveal"><ul class="ul"><li>0991 — это экономия (за вычетом стоимости фактически поставленного и прибыли), а 0999 — прибыль; их не смешивают.</li><li>Заявляется только после полного исполнения обязательств.</li></ul></div>
 
     <h2 id="oshibki">Типичные ошибки санкционирования по коду 0991</h2>
     <div class="answer reveal"><ul class="ul"><li>Заявляют окончательный расчёт до полного исполнения обязательств.</li><li>Смешивают окончательный расчёт (0991) и выплату прибыли (0999).</li><li>Не подтверждают исполнение документами-основаниями.</li></ul></div>
@@ -544,7 +552,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <div class="note">Связанные коды: <div class="codechips"><a class="codechip" href="/baza-znaniy/kody/0999/">0999 · Выплата прибыли</a></div></div>
 
     <h2 id="faq">Частые вопросы по коду 0991</h2>
-    <div class="faq"><details><summary>Что означает код 0991 в казначейском сопровождении?</summary><p>Окончательные расчёты (экономия) после полного исполнения обязательств по контракту.</p></details><details><summary>Когда применяется код 0991?</summary><p>Применяется при выплате экономии, кроме стоимости фактически поставленного и прибыли.</p></details><details><summary>Какие документы нужны для платежа по коду 0991?</summary><p>Как правило: акты исполнения всех этапов, расчёт экономии, условия контракта по окончательным расчётам. Точный комплект зависит от условий контракта и требований ТОФК.</p></details></div>
+    <div class="faq"><details><summary>Что означает код 0991 в казначейском сопровождении?</summary><p>Окончательные расчёты (экономия) после полного исполнения обязательств по контракту.</p></details><details><summary>Когда применяется код 0991?</summary><p>Применяется при выплате экономии, кроме стоимости фактически поставленного и прибыли.</p></details><details><summary>Какие документы нужны для платежа по коду 0991?</summary><p>Как правило: акты исполнения всех этапов, расчёт экономии, условия контракта по окончательным расчётам. Точный комплект зависит от условий контракта и требований ТОФК.</p></details><details><summary>Как указать назначение платежа по коду 0991?</summary><p>Назначение формулируют с привязкой к контракту и ИГК. Образец: «Окончательный расчёт (экономия) по контракту № __ от __, ИГК __, после исполнения всех обязательств».</p></details></div>
 
     <section class="refs" aria-label="Источники"><h2>Источники</h2><ol>
       <li id="ref-1">Приказ Минфина России от 17.12.2021 № 214н (ред. от 27.06.2025), Приложение 3 «Направления расходования целевых средств». <a href="https://www.consultant.ru/document/cons_doc_LAW_405138/de4649fe56038006ee16bce420115b7ba6a80da5/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
