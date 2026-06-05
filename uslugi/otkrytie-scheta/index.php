@@ -770,7 +770,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     if(!/\d[\s\d().-]*\d{3}/.test(phone)||phone.replace(/\D/g,'').length<10){show('Проверьте телефон');return;}
     if(!f.consent.checked){show('Подтвердите согласие');return;}
     var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';
-    fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent:true,source:f.dataset.source,page_url:location.href})})
+    fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})})
       .then(function(r){ if(!r.ok) throw 0; return r; })
       .then(function(){
         [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; });
