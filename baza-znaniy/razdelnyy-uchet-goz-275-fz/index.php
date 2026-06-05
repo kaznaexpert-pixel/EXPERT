@@ -1078,6 +1078,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 /* lead form */
 (function(){
   var form=document.getElementById('leadForm');if(!form)return;
+  var SRC=form.dataset.source||'goz-275fz';
   var msg=document.getElementById('formMsg'),ok=document.getElementById('leadSuccess');
   form.addEventListener('submit',function(e){
     e.preventDefault();
@@ -1086,10 +1087,10 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     if(form.name.value.trim().length<2||form.phone.value.replace(/\D/g,'').length<10){show('Проверьте имя и телефон');return;}
     var DEMO=false;
     var btn=form.querySelector('.submit'),orig=btn.textContent;btn.disabled=true;btn.textContent='Отправляем…';
-    var data={phone:form.phone.value.trim(),source:'goz-275fz',consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (форма «КС ГОЗ 275-ФЗ»)',consent_at:new Date().toISOString(),page_url:location.href,name:form.name.value.trim()};
+    var data={phone:form.phone.value.trim(),source:SRC,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+SRC+')',consent_at:new Date().toISOString(),page_url:location.href,name:form.name.value.trim()};
     fetch(form.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)})
       .then(function(r){if(!r.ok)throw 0;return r;}).then(succeed).catch(function(){if(DEMO){succeed();}else{fail();}});
-    function succeed(){[].forEach.call(form.children,function(el){if(el!==ok)el.style.display='none';});ok.classList.add('on');try{window.ym&&ym(94305898,'reachGoal','lead',{source:'goz-275fz'});}catch(e){}}
+    function succeed(){[].forEach.call(form.children,function(el){if(el!==ok)el.style.display='none';});ok.classList.add('on');try{window.ym&&ym(94305898,'reachGoal','lead',{source:SRC});}catch(e){}}
     function fail(){btn.disabled=false;btn.textContent=orig;show('Не удалось отправить. Позвоните +7 981 833-10-10 или напишите в Telegram.');}
   });
   function show(t){msg.hidden=false;msg.textContent=t;}
