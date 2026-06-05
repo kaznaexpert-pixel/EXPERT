@@ -384,7 +384,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
             <nav class="v2-nav" aria-label="Главная навигация">
               <a href="#tariffs">Тарифы</a>
               <a href="#process">Как работаем</a>
-              <a href="#cases">Кейсы</a>
+              <a href="/keysy/">Кейсы</a>
               <a href="/komanda/">Команда</a>
               <a href="#faq">FAQ</a>
               <a href="#contacts">Связаться</a>
@@ -404,7 +404,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
           <nav class="v2-mobile-menu" id="v2MobileMenu" aria-label="Мобильная навигация">
             <a href="#tariffs">Тарифы</a>
             <a href="#process">Как работаем</a>
-            <a href="#cases">Кейсы</a>
+            <a href="/keysy/">Кейсы</a>
             <a href="/komanda/">Команда</a>
             <a href="#faq">FAQ</a>
             <a class="v2-mobile-cta" href="#contacts">Получить расчёт</a>
@@ -992,6 +992,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
             </div>
 
             <p class="v2-carousel-hint">← Листайте · названия компаний закрыты по NDA, документы предоставляем по запросу</p>
+            <p style="text-align:center;margin-top:8px"><a href="/keysy/" style="color:var(--accent,#8B6F47);font-weight:500">Все кейсы по направлениям →</a></p>
 
           </div>
         </section>

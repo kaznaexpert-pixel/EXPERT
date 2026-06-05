@@ -531,7 +531,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
             <nav class="v2-nav" aria-label="Главная навигация">
               <a href="/#tariffs">Тарифы</a>
               <a href="/#process">Как работаем</a>
-              <a href="/#cases">Кейсы</a>
+              <a href="/keysy/">Кейсы</a>
               <a href="/komanda/">Команда</a>
               <a href="/#faq">FAQ</a>
               <a href="/#contacts">Связаться</a>
@@ -551,7 +551,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
           <nav class="v2-mobile-menu" id="v2MobileMenu" aria-label="Мобильная навигация">
             <a href="/#tariffs">Тарифы</a>
             <a href="/#process">Как работаем</a>
-            <a href="/#cases">Кейсы</a>
+            <a href="/keysy/">Кейсы</a>
             <a href="/komanda/">Команда</a>
             <a href="/#faq">FAQ</a>
             <a class="v2-mobile-cta" href="/#contacts">Получить расчёт</a>

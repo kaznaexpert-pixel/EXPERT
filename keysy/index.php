@@ -4,14 +4,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Постоплата по госконтракту без возвратов — от 59 000 ₽ | КазнаЭксперт</title>
-<meta name="description" content="Проведём постоплату по госконтракту без возвратов и в срок: проверка документов, работа с казначейством, контроль до зачисления. Повторная подача при замечаниях без доплат.">
+<title>Кейсы казначейского сопровождения — реальный опыт КазнаЭксперт</title>
+<meta name="description" content="12 обезличенных кейсов казначейского сопровождения: открытие счетов, спасение контрактов, аванс и ГОЗ. Проблема, решение и результат по контрактам 44-ФЗ, 223-ФЗ, 275-ФЗ.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#141310" media="(prefers-color-scheme: dark)">
 <!-- PROD: canonical и og:url ОБЯЗАТЕЛЬНО менять под URL каждой статьи -->
-<link rel="canonical" href="https://kaznaexpert.ru/uslugi/soprovozhdenie-postoplata/">
+<link rel="canonical" href="https://kaznaexpert.ru/keysy/">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
@@ -23,16 +23,13 @@
 <!-- Метрика 94305898 грузится из /js/cookie-consent.js (по согласию, единый счётчик сайта) -->
 <!-- ╚════════════════════════════════════════════════════════════════════════════╝ -->
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
-<script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
+<script>window.YM_PARAMS = {page_type:"cases", cluster:"keysy"};</script>
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Service","name":"Сопровождение постоплаты по госконтракту","serviceType":"Проведение постоплаты по 44-ФЗ через казначейство","description":"Проведение постоплаты по госконтракту без возвратов: проверка документов, платёжные поручения, работа с казначейством и контроль до зачисления средств. Повторная подача при замечаниях без доплат.","provider":{"@type":"Organization","name":"КазнаЭксперт","url":"https://kaznaexpert.ru","telephone":"+7-981-833-10-10","logo":"https://kaznaexpert.ru/img/logogold.png"},"areaServed":{"@type":"Country","name":"Россия"},"offers":{"@type":"Offer","price":"59000","priceCurrency":"RUB","description":"Сопровождение постоплаты по госконтракту, по этапу","url":"https://kaznaexpert.ru/uslugi/soprovozhdenie-postoplata/"},"url":"https://kaznaexpert.ru/uslugi/soprovozhdenie-postoplata/"}
+{"@context": "https://schema.org", "@type": "CollectionPage", "name": "Кейсы клиентов КазнаЭксперт", "url": "https://kaznaexpert.ru/keysy/", "description": "12 обезличенных кейсов казначейского сопровождения: открытие счетов, спасение контрактов, аванс и ГОЗ. Проблема, решение и результат по контрактам 44-ФЗ, 223-ФЗ, 275-ФЗ.", "isPartOf": {"@type": "WebSite", "url": "https://kaznaexpert.ru/"}}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"Услуги"},{"@type":"ListItem","position":3,"name":"Сопровождение: постоплата"}]}
-</script>
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type": "Question", "name": "Почему постоплата по госконтракту такая сложная?", "acceptedAnswer": {"@type": "Answer", "text": "Платёж проходит несколько уровней контроля: ваш банк → казначейство → банк заказчика. На каждом этапе документы проверяются на соответствие жёстким требованиям. Ошибка в коде операции, типе документа или реквизитах — и платёж возвращается."}},{"@type": "Question", "name": "Мы проводили постоплату сами — зачем платить?", "acceptedAnswer": {"@type": "Answer", "text": "Если всё проходит без проблем — платить не нужно. Но хотя бы один возврат в истории — сигнал, что процедура настроена неверно. Один возврат = простой и риск нарушить контракт; услуга окупается на первой же ошибке."}},{"@type": "Question", "name": "Что если казначейство вернёт платёж с замечаниями?", "acceptedAnswer": {"@type": "Answer", "text": "Устраняем замечания и подаём повторно без доплат — это часть услуги. Результат — зачисленные средства на ваш счёт. Документы проверяем до подачи, чтобы возврата не было."}},{"@type": "Question", "name": "За какой срок проведёте постоплату?", "acceptedAnswer": {"@type": "Answer", "text": "Зависит от готовности документов и графика казначейства. Срок оценим на бесплатной консультации и зафиксируем ориентир по вашему контракту."}},{"@type": "Question", "name": "Поможете, если из-за просрочки уже начислили пени?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Разберём расчёт и основания начисления, поможем оспорить или снизить неустойку. Как считаются пени — в нашей статье о неустойке по 44-ФЗ."}},{"@type": "Question", "name": "Работаете по всей России?", "acceptedAnswer": {"@type": "Answer", "text": "Да, дистанционно по всем регионам РФ. Документы передаются электронно, личное присутствие не требуется."}}]}
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Кейсы"}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -69,20 +66,20 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Постоплата по госконтракту — без возвратов и в срок">
-<meta property="og:description" content="Проверка документов, работа с казначейством, контроль до зачисления. Повторная подача без доплат.">
-<meta property="og:url" content="https://kaznaexpert.ru/uslugi/soprovozhdenie-postoplata/">
+<meta property="og:title" content="Кейсы клиентов КазнаЭксперт">
+<meta property="og:description" content="12 обезличенных кейсов казначейского сопровождения: открытие счетов, спасение контрактов, аванс и ГОЗ. Проблема, решение и результат по контрактам 44-ФЗ, 223-ФЗ, 275-ФЗ.">
+<meta property="og:url" content="https://kaznaexpert.ru/keysy/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Постоплата по госконтракту — без возвратов и в срок — КазнаЭксперт">
+<meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-06-03T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Постоплата по госконтракту — без возвратов и в срок">
-<meta name="twitter:description" content="Проверка документов, работа с казначейством, контроль до зачисления. Повторная подача без доплат.">
+<meta name="twitter:title" content="Кейсы клиентов КазнаЭксперт">
+<meta name="twitter:description" content="12 обезличенных кейсов казначейского сопровождения: открытие счетов, спасение контрактов, аванс и ГОЗ. Проблема, решение и результат по контрактам 44-ФЗ, 223-ФЗ, 275-ФЗ.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <style>
@@ -495,175 +492,166 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         </header>
 
 <div class="v2">
-
-<style>@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}</style>
-
+<style>
+.v2 .v2-hero{min-height:0 !important;padding:44px 0 6px !important}
+.v2 .v2-section.v2-screen{min-height:0 !important;padding-top:30px !important;padding-bottom:60px !important;display:block !important}
+.v2 .keysy-wrap{max-width:1180px;margin:0 auto}
+.v2 .keysy-group{margin-top:30px}
+.v2 .keysy-group__label{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent,#8B6F47);font-weight:600;margin:0 0 18px;display:flex;align-items:center;gap:14px}
+.v2 .keysy-group__label::after{content:"";flex:1;height:1px;background:var(--hair,rgba(26,26,26,.12))}
+.v2 .keysy-grid{display:grid;grid-template-columns:1fr;gap:20px}
+@media(min-width:680px){.v2 .keysy-grid{grid-template-columns:1fr 1fr}}
+@media(min-width:1040px){.v2 .keysy-grid{grid-template-columns:repeat(3,1fr)}}
+.v2 .keysy-case{display:flex;flex-direction:column;margin:0;flex:none;min-width:0}
+.v2 .keysy-case dl{flex:1}
+.v2 .keysy-case-link{margin-top:14px;font-size:13.5px;font-weight:500;color:var(--accent,#8B6F47);display:inline-flex;align-items:center;gap:6px;transition:gap .2s}
+.v2 .keysy-case:hover .keysy-case-link{gap:10px}
+.v2 .keysy-note{margin-top:34px;font-size:13.5px;line-height:1.6;color:var(--mute,#6E6B66);border-top:1px solid var(--hair,rgba(26,26,26,.12));padding-top:20px;max-width:900px}
+</style>
 <section class="v2-hero">
-  <div class="v2-container">
-    <div class="v2-hero-grid">
-      <div class="v2-hero-main">
-        <div class="v2-hero-eyebrow-row">
-          <span class="v2-eyebrow">Услуга · постоплата · 44-ФЗ · 223-ФЗ</span>
-          <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
-        </div>
-        <h1>Проведём постоплату по госконтракту<br><em>без возврата и в срок</em></h1>
-        <p class="v2-hero-lede"><strong>Постоплата — строго регламентированная процедура.</strong> Одна ошибка в документах или коде операции возвращает платёж. Готовим и проводим правильно с первого раза — через банк, казначейство и до зачисления средств.</p>
-        <div class="v2-hero-trust"><div class="v2-trust-item"><div class="v2-trust-num">в срок<span class="v2-trust-suffix"></span></div><div class="v2-trust-label">по контракту</div></div><div class="v2-trust-item"><div class="v2-trust-num">7 000<span class="v2-trust-suffix">+</span></div><div class="v2-trust-label">контрактов</div></div><div class="v2-trust-item"><div class="v2-trust-num">90<span class="v2-trust-suffix">&nbsp;млрд&nbsp;₽</span></div><div class="v2-trust-label">проведено</div></div><div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div></div>
-        <div class="v2-hero-expert">
-          <div class="v2-expert-name">Михайлов Ярослав</div>
-          <div class="v2-expert-role">Эксперт · 15 лет в Казначействе</div>
-          <p class="v2-expert-quote">«Возврат платежа — это не просто пара дней простоя, это риск нарушить срок контракта и попасть на неустойку. Мы проверяем документы до подачи, а не после возврата».</p>
-        </div>
-      </div>
-      <aside class="v2-hero-action">
-        <div class="v2-hero-action-eyebrow">Бесплатный анализ контракта</div>
-        <h2>Проведём постоплату за вас</h2>
-        <p class="v2-hero-action-sub">Расскажите про контракт — эксперт перезвонит за 15 минут, оценит риски и назовёт срок проведения постоплаты.</p>
-        <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="soprovozhdenie-postoplata">
-          <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
-          <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
-          <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
-          <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-          <button class="submit" type="submit">Получить расчёт →</button>
-          <div class="formmsg" id="formMsg" hidden></div>
-          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
-          <div class="success" id="leadSuccess" role="status" aria-live="polite">
-            <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
-            <h3>Заявка принята</h3>
-            <p>Эксперт перезвонит <b>в течение 15 минут</b> (9:00–21:00 МСК) и разберёт ваш контракт.</p>
-            <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
-          </div>
-        </form>
-        <div class="v2-hero-alt">Или напишите — ответим за 5 минут<div class="v2-hero-alt-links"><a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a><a href="tel:+79818331010">+7 981 833-10-10</a></div></div>
-      </aside>
-    </div>
-  </div>
+  <div class="v2-container"><div class="keysy-wrap">
+    <div class="v2-hero-eyebrow-row"><span class="v2-eyebrow">Кейсы</span><span class="v2-hero-eyebrow-dash" aria-hidden="true"></span></div>
+    <h1>Кейсы клиентов <em>КазнаЭксперт</em></h1>
+    <p class="v2-hero-lede" style="max-width:none">Обезличенные истории по NDA: тип компании, сумма контракта, проблема и результат. 12 кейсов по всем направлениям — от открытия счёта до спасения контракта и ГОЗ. Названия закрыты, документы предоставляем по запросу.</p>
+  </div></div>
 </section>
 
-<section class="v2-section v2-screen" id="komu">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Для кого</div>
-      <h2 class="v2-section-title">Когда нужна <em>наша помощь</em></h2>
-      <p class="v2-section-lede">Четыре ситуации, в которых ошибка в постоплате стоит дороже самой услуги.</p>
-    </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Первая постоплата</h3><p class="v2-process-desc">Никогда раньше не проводили постоплату по казначейской схеме. Сделаем всё правильно с первого раза.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Платёж уже возвращали</h3><p class="v2-process-desc">Постоплата возвращалась с замечанием. Определим причину и проведём корректно — без повтора ошибки.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Сжатые сроки</h3><p class="v2-process-desc">Дедлайн исполнения близко, а постоплата ещё не проведена. Действуем срочно и в срок.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Крупный контракт</h3><p class="v2-process-desc">Сумма значительная, любая задержка несёт потери. Ведём платёж под постоянным контролем.</p></article></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="pod-kluch">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Что входит</div>
-      <h2 class="v2-section-title">Полный цикл — <em>до зачисления средств</em></h2>
-      <p class="v2-section-lede">Делаем всё сами: от проверки документов до подтверждения зачисления.</p>
-    </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Проверка документов</h3><p class="v2-process-desc">Проверяем акты, счета, накладные и иные документы на соответствие требованиям казначейства.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Платёжные поручения</h3><p class="v2-process-desc">Формируем поручения с правильными кодами операций, реквизитами и параметрами контракта.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Работа с казначейством</h3><p class="v2-process-desc">Направляем документы в УФК, отвечаем на запросы, снимаем замечания без вашего участия.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Контроль платежа</h3><p class="v2-process-desc">Отслеживаем статус на каждом этапе: казначейство → банк → счёт. Реагируем на задержки сразу.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Разбор возвратов</h3><p class="v2-process-desc">Если платёж вернули — определяем причину, устраняем и проводим повторно без доплат.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Подтверждение зачисления</h3><p class="v2-process-desc">Работа завершена только после зачисления средств. Получаете подтверждение.</p></article></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="ot-vas">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Что от вас</div>
-      <h2 class="v2-section-title">Что потребуется <em>от вас</em></h2>
-      <p class="v2-section-lede">Передаёте документы — дальше работаем мы. Ваше участие минимально.</p>
-    </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Акты и счета</h3><p class="v2-process-desc">Закрывающие документы по этапу — для проверки соответствия.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Госконтракт</h3><p class="v2-process-desc">Текст и реквизиты — для корректных кодов операций.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Реквизиты счёта</h3><p class="v2-process-desc">Казначейский счёт, на который проводится платёж.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Контакт для связи</h3><p class="v2-process-desc">Телефон ответственного — держим в курсе статуса.</p></article></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="process">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Процесс</div>
-      <h2 class="v2-section-title">От документов до <em>зачисления средств</em></h2>
-      <p class="v2-section-lede">Каждый этап — конкретное действие на нашей стороне. Без неожиданностей.</p>
-    </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">День 1</div><h3>Передаёте документы</h3><p class="v2-process-desc">Акты, счета, договор — передаёте нам. Проверяем и выявляем возможные проблемы заранее.</p><ul class="v2-process-checks"><li>Документы проверены</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">День 1–2</div><h3>Готовим поручения</h3><p class="v2-process-desc">Формируем документацию для казначейства строго по требованиям вашего контракта.</p><ul class="v2-process-checks"><li>Коды выверены</li><li>Поручения готовы</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">День 2–3 → срок</div><h3>Подача и зачисление</h3><p class="v2-process-desc">Подаём в казначейство, снимаем замечания, контролируем до зачисления средств на счёт.</p><ul class="v2-process-checks"><li>Платёж проведён</li><li>Средства зачислены</li></ul></article></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="riski">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Цена ошибки</div>
-      <h2 class="v2-section-title">Цена ошибки <em>в постоплате</em></h2>
-      <p class="v2-section-lede">Самостоятельная постоплата без опыта — частые возвраты и риск нарушить контракт.</p>
-    </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Возврат платежа</h3><p class="v2-process-desc">Неверный код операции, ошибка в реквизитах или тип документа — казначейство вернёт платёж. Повтор занимает дни.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Нарушение срока контракта</h3><p class="v2-process-desc">Задержка постоплаты нарушает условия контракта — заказчик вправе взыскать неустойку или расторгнуть договор.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Блокировка операций</h3><p class="v2-process-desc">Систематические ошибки в документах ведут к приостановке операций банком или казначейством.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Проблемы с раздельным учётом</h3><p class="v2-process-desc">Неправильно проведённая постоплата нарушает раздельный учёт — это налоговые риски при проверке.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Потеря аванса</h3><p class="v2-process-desc">Ошибки в цепочке расчётов могут заблокировать движение средств и зависание аванса.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Потерянное время</h3><p class="v2-process-desc">Разбор возврата и повторная подача — часы и дни вместо работы по контракту.</p></article></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="compare">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Сравнение</div>
-      <h2 class="v2-section-title">Самостоятельно, штатный спец или <em>с нами</em></h2>
-      <p class="v2-section-lede">Шесть критериев, по которым клиенты доверяют постоплату эксперту.</p>
-    </div>
-    <div class="v2-compare">
-      <div class="v2-compare-head">
-        <div class="v2-compare-head-cell">Параметр</div>
-        <div class="v2-compare-head-cell">Самостоятельно</div>
-        <div class="v2-compare-head-cell">Штатный спец</div>
-        <div class="v2-compare-head-cell is-us">С КазнаЭксперт</div>
-      </div>
-      <div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Риск возврата платежа</div><div class="v2-compare-cell" data-label="Самостоятельно">Высокий без опыта</div><div class="v2-compare-cell" data-label="Штатный спец">Зависит от сотрудника</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Минимальный</strong> · проверка до подачи</div></div><div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Повторная подача</div><div class="v2-compare-cell" data-label="Самостоятельно">Ещё несколько дней</div><div class="v2-compare-cell" data-label="Штатный спец">За счёт компании</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Без доплат</strong></div></div><div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Соблюдение срока контракта</div><div class="v2-compare-cell" data-label="Самостоятельно">Под угрозой</div><div class="v2-compare-cell" data-label="Штатный спец">Зависит от загрузки</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>В срок</strong></div></div><div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Стоимость</div><div class="v2-compare-cell" data-label="Самостоятельно">Ваше время + риск неустойки</div><div class="v2-compare-cell" data-label="Штатный спец">120–180 тыс ₽/мес</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>от 59 000 ₽</strong></div></div><div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Раздельный учёт</div><div class="v2-compare-cell" data-label="Самостоятельно">Риск ошибок</div><div class="v2-compare-cell" data-label="Штатный спец">По компетенциям</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Учитываем</strong></div></div><div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Контроль до зачисления</div><div class="v2-compare-cell" data-label="Самостоятельно">Сами отслеживаете</div><div class="v2-compare-cell" data-label="Штатный спец">Частично</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Ведём до средств на счёте</strong></div></div>
-    </div>
-    <div class="v2-compare-cta"><a href="#zayavka">Обсудить ваш контракт <span aria-hidden="true">→</span></a></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="tarif">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Стоимость</div>
-      <h2 class="v2-section-title">Сопровождение постоплаты — <em>фиксированная цена</em></h2>
-      <p class="v2-section-lede">Объём работ и стоимость прописаны в договоре. Без скрытых доплат.</p>
-    </div>
-    <div class="v2-tariffs-grid lp-3col"><article class="v2-tariff is-featured">
-        <div class="v2-tariff-no">01</div>
-        <div class="v2-tariff-stage">Постоплата</div>
-        <h3>Постоплата под ключ</h3>
-        <p class="v2-tariff-desc">Проверка документов, платёжные поручения, работа с казначейством и контроль до зачисления средств. Повторная подача при замечаниях — без доплат.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 59 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу контракта · до зачисления</div><a href="#zayavka" class="v2-tariff-link">Провести постоплату <span aria-hidden="true">→</span></a></div>
-      </article><article class="v2-tariff">
-        <div class="v2-tariff-no">02</div>
-        <div class="v2-tariff-stage">С авансом</div>
-        <h3>Сопровождение с авансом</h3>
-        <p class="v2-tariff-desc">Контракт с авансированием: контроль целевого использования, цепочка кооперации, безлимит операций.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">79 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Чаще выбирают</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
-      </article><article class="v2-tariff">
-        <div class="v2-tariff-no">03</div>
-        <div class="v2-tariff-stage">Старт</div>
-        <h3>Открытие счёта за два дня</h3>
-        <p class="v2-tariff-desc">Если счёт ещё не открыт — полный пакет документов и открытие в УФК с первой подачи.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">39 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+<section class="v2-section">
+  <div class="v2-container"><div class="keysy-wrap">
+    <div class="keysy-group">
+      <div class="keysy-group__label">Открытие и резерв счетов</div>
+      <div class="keysy-grid"><article class="v2-case keysy-case">
+        <div class="v2-case-top"><span class="v2-case-tag">44-ФЗ</span><span class="v2-case-meta">45 млн ₽ · Татарстан</span></div>
+        <h3>IT-интегратор: ЭЦП казначейства и подключение к ГИИС</h3>
+        <dl>
+          <dt>Проблема</dt><dd>Не получалось оформить ЭЦП казначейства и подключиться к ГИИС «Электронный бюджет», а заказчик торопил со сроками.</dd>
+          <dt>Решение</dt><dd>Оформили сертификат ЭЦП через удостоверяющий центр Федерального казначейства, подключили «Электронный бюджет» и открыли счёт в ТОФК под ключ.</dd>
+          <dt>Результат</dt><dd class="is-result">Подпись и доступ к ЭБ получены, счёт открыт за 2 рабочих дня, аванс — в срок.</dd>
+        </dl>
+        <a class="keysy-case-link" href="/uslugi/otkrytie-scheta/">Услуга: Открытие счёта <span aria-hidden="true">→</span></a>
+      </article><article class="v2-case keysy-case">
+        <div class="v2-case-top"><span class="v2-case-tag">44-ФЗ</span><span class="v2-case-meta">26 млн ₽ · Москва</span></div>
+        <h3>Поставщик: срочное открытие лицевого счёта 71 в ТОФК</h3>
+        <dl>
+          <dt>Проблема</dt><dd>После победы нужно было срочно открыть лицевой счёт 71 в ТОФК — компания не знала порядок подачи документов онлайн.</dd>
+          <dt>Решение</dt><dd>Собрали пакет, включили в сводный реестр ТОФК, подали документы онлайн и провели открытие.</dd>
+          <dt>Результат</dt><dd class="is-result">Лицевой счёт 71 открыт за 2 рабочих дня, контракт стартовал без задержки.</dd>
+        </dl>
+        <a class="keysy-case-link" href="/uslugi/otkrytie-scheta/">Услуга: Открытие счёта <span aria-hidden="true">→</span></a>
+      </article><article class="v2-case keysy-case">
+        <div class="v2-case-top"><span class="v2-case-tag">44-ФЗ</span><span class="v2-case-meta">18 млн ₽ · Москва</span></div>
+        <h3>Поставщик: резерв счёта к дате тендера</h3>
+        <dl>
+          <dt>Проблема</dt><dd>Заказчик требовал подтверждение готовности счёта ещё до подписания контракта.</dd>
+          <dt>Решение</dt><dd>Зарезервировали счёт за один рабочий день и выдали документ для тендерной комиссии.</dd>
+          <dt>Результат</dt><dd class="is-result">Заявку приняли, после победы счёт открыли в день подписания — без очереди в УФК.</dd>
+        </dl>
+        <a class="keysy-case-link" href="/uslugi/rezervirovanie-scheta/">Услуга: Резервирование счёта <span aria-hidden="true">→</span></a>
       </article></div>
-    <p class="v2-tariffs-footnote">Точная стоимость — после бесплатного анализа вашего контракта.</p>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="faq">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Вопросы</div>
-      <h2 class="v2-section-title">Отвечаем <em>прямо</em></h2>
     </div>
-    <div class="faq"><details open><summary>Почему постоплата по госконтракту такая сложная?</summary><p>Платёж проходит несколько уровней контроля: ваш банк → казначейство → банк заказчика. На каждом этапе документы проверяются на соответствие жёстким требованиям. Ошибка в коде операции, типе документа или реквизитах — и платёж возвращается.</p></details><details><summary>Мы проводили постоплату сами — зачем платить?</summary><p>Если всё проходит без проблем — платить не нужно. Но хотя бы один возврат в истории — сигнал, что процедура настроена неверно. Один возврат = простой и риск нарушить контракт; услуга окупается на первой же ошибке.</p></details><details><summary>Что если казначейство вернёт платёж с замечаниями?</summary><p>Устраняем замечания и подаём повторно без доплат — это часть услуги. Результат — зачисленные средства на ваш счёт. Документы проверяем до подачи, чтобы возврата не было.</p></details><details><summary>За какой срок проведёте постоплату?</summary><p>Зависит от готовности документов и графика казначейства. Срок оценим на бесплатной консультации и зафиксируем ориентир по вашему контракту.</p></details><details><summary>Поможете, если из-за просрочки уже начислили пени?</summary><p>Да. Разберём расчёт и основания начисления, поможем оспорить или снизить неустойку. Как считаются пени — в нашей статье о неустойке по 44-ФЗ.</p></details><details><summary>Работаете по всей России?</summary><p>Да, дистанционно по всем регионам РФ. Документы передаются электронно, личное присутствие не требуется.</p></details></div>
-  </div>
+<div class="keysy-group">
+      <div class="keysy-group__label">Ведение: постоплата и аванс</div>
+      <div class="keysy-grid"><article class="v2-case keysy-case">
+        <div class="v2-case-top"><span class="v2-case-tag">44-ФЗ</span><span class="v2-case-meta">140 млн ₽ · Санкт-Петербург</span></div>
+        <h3>Стройкомпания: вернули распоряжение о казначейском платеже</h3>
+        <dl>
+          <dt>Проблема</dt><dd>Распоряжение о совершении казначейского платежа вернули на уточнение — сведения не соответствовали КВР/КОСГУ, оплата субподрядчику зависла на две недели.</dd>
+          <dt>Решение</dt><dd>Пересобрали распоряжение по кодам, согласовали с ТОФК, подготовили документы-основания.</dd>
+          <dt>Результат</dt><dd class="is-result">Платёж санкционирован за 3 рабочих дня, дальнейшие — без возвратов.</dd>
+        </dl>
+        <a class="keysy-case-link" href="/uslugi/soprovozhdenie-postoplata/">Услуга: Сопровождение постоплаты <span aria-hidden="true">→</span></a>
+      </article><article class="v2-case keysy-case">
+        <div class="v2-case-top"><span class="v2-case-tag">44-ФЗ</span><span class="v2-case-meta">12 млн ₽, аванс 60% · СПб</span></div>
+        <h3>Клининг: ускорили санкционирование расходов</h3>
+        <dl>
+          <dt>Проблема</dt><dd>Санкционирование расходов казначейством затягивалось до 5 дней — кассовые разрывы по зарплате и закупкам.</dd>
+          <dt>Решение</dt><dd>Взяли сопровождение под ключ, привели документы к порядку санкционирования, отладили подачу.</dd>
+          <dt>Результат</dt><dd class="is-result">Срок санкционирования снижен до 1–2 дней, разрывы устранены.</dd>
+        </dl>
+        <a class="keysy-case-link" href="/uslugi/soprovozhdenie-postoplata/">Услуга: Сопровождение постоплаты <span aria-hidden="true">→</span></a>
+      </article><article class="v2-case keysy-case">
+        <div class="v2-case-top"><span class="v2-case-tag">44-ФЗ</span><span class="v2-case-meta">34 млн ₽ · Екатеринбург</span></div>
+        <h3>Медцентр: постоплата по актам и УПД без возвратов</h3>
+        <dl>
+          <dt>Проблема</dt><dd>Платежи по контракту в медицине возвращались из-за оснований в актах и УПД.</dd>
+          <dt>Решение</dt><dd>Выверили акты и УПД, привели сводный реестр и отчётность к требованиям ТОФК.</dd>
+          <dt>Результат</dt><dd class="is-result">Платежи проходят без возвратов, квартальная и годовая отчётность — в срок.</dd>
+        </dl>
+        <a class="keysy-case-link" href="/uslugi/soprovozhdenie-postoplata/">Услуга: Сопровождение постоплаты <span aria-hidden="true">→</span></a>
+      </article><article class="v2-case keysy-case">
+        <div class="v2-case-top"><span class="v2-case-tag">44-ФЗ</span><span class="v2-case-meta">60 млн ₽/год · ИТ</span></div>
+        <h3>ИТ-компания: длинный контракт с помесячными платежами</h3>
+        <dl>
+          <dt>Проблема</dt><dd>Длинный контракт: каждый месяц — риск ошибки в основаниях и сорванного срока.</dd>
+          <dt>Решение</dt><dd>Взяли ведение на аутсорс, выстроили помесячный регламент подготовки документов.</dd>
+          <dt>Результат</dt><dd class="is-result">Год платежей без единого возврата, сроки выдержаны на всём горизонте контракта.</dd>
+        </dl>
+        <a class="keysy-case-link" href="/uslugi/soprovozhdenie-avans/">Услуга: Сопровождение контракта <span aria-hidden="true">→</span></a>
+      </article></div>
+    </div>
+<div class="keysy-group">
+      <div class="keysy-group__label">Спасение контрактов</div>
+      <div class="keysy-grid"><article class="v2-case keysy-case">
+        <div class="v2-case-top"><span class="v2-case-tag">44-ФЗ</span><span class="v2-case-meta">220 млн ₽ · Краснодар</span></div>
+        <h3>Производство: восстановление раздельного учёта перед проверкой</h3>
+        <dl>
+          <dt>Проблема</dt><dd>Приближалась проверка казначейского сопровождения, раздельный учёт не вёлся — риск штрафа за его неведение.</dd>
+          <dt>Решение</dt><dd>Восстановили раздельный учёт в разрезе контракта, подняли операции, подготовили документы к проверке.</dd>
+          <dt>Результат</dt><dd class="is-result">Проверка пройдена без штрафа, учёт ведётся на аутсорсе.</dd>
+        </dl>
+        <a class="keysy-case-link" href="/uslugi/spasenie-kontrakta/">Услуга: Спасение контракта <span aria-hidden="true">→</span></a>
+      </article><article class="v2-case keysy-case">
+        <div class="v2-case-top"><span class="v2-case-tag">44-ФЗ</span><span class="v2-case-meta">55 млн ₽ · передача дел</span></div>
+        <h3>Второе мнение: ошибки подрядчика и блокировка операций</h3>
+        <dl>
+          <dt>Проблема</dt><dd>Клиент обратился за вторым мнением — у текущего консультанта копились ошибки, операции по счёту приостановили.</dd>
+          <dt>Решение</dt><dd>Срочный экспресс-аудит, устранили причины замечаний, сняли блокировку, навели порядок в документах.</dd>
+          <dt>Результат</dt><dd class="is-result">Операции восстановлены, контракт доведён до исполнения, ведение передано нам.</dd>
+        </dl>
+        <a class="keysy-case-link" href="/uslugi/spasenie-kontrakta/">Услуга: Спасение контракта <span aria-hidden="true">→</span></a>
+      </article><article class="v2-case keysy-case">
+        <div class="v2-case-top"><span class="v2-case-tag">44-ФЗ</span><span class="v2-case-meta">80 млн ₽ · аванс</span></div>
+        <h3>Подрядчик: разморозка зависшего аванса</h3>
+        <dl>
+          <dt>Проблема</dt><dd>Аванс заблокирован — у казначейства возник вопрос к целевому использованию средств.</dd>
+          <dt>Решение</dt><dd>Обосновали целевое использование, пересобрали документы и согласовали с УФК.</dd>
+          <dt>Результат</dt><dd class="is-result">Аванс разморожен, дальнейшие платежи по контракту пошли без остановок.</dd>
+        </dl>
+        <a class="keysy-case-link" href="/uslugi/soprovozhdenie-avans/">Услуга: Сопровождение с авансом <span aria-hidden="true">→</span></a>
+      </article></div>
+    </div>
+<div class="keysy-group">
+      <div class="keysy-group__label">Гособоронзаказ (275-ФЗ)</div>
+      <div class="keysy-grid"><article class="v2-case keysy-case">
+        <div class="v2-case-top"><span class="v2-case-tag">275-ФЗ</span><span class="v2-case-meta">320 млн ₽ · ГОЗ</span></div>
+        <h3>Оборонное предприятие: расширенное КС и проверка цены</h3>
+        <dl>
+          <dt>Проблема</dt><dd>Расширенное казначейское сопровождение и проверка обоснованности затрат — структура цены не была подтверждена документами.</dd>
+          <dt>Решение</dt><dd>Привели раздельный учёт и первичку к структуре цены, подготовили обоснования к расширенному КС.</dd>
+          <dt>Результат</dt><dd class="is-result">Проверка пройдена, контракт ведётся в режиме КС без замечаний УФК.</dd>
+        </dl>
+        <a class="keysy-case-link" href="/uslugi/soprovozhdenie-avans/">Услуга: Сопровождение с авансом <span aria-hidden="true">→</span></a>
+      </article><article class="v2-case keysy-case">
+        <div class="v2-case-top"><span class="v2-case-tag">275-ФЗ</span><span class="v2-case-meta">150 млн ₽ · кооперация</span></div>
+        <h3>ГОЗ: соисполнитель отказывался прописывать ИГК в договоре</h3>
+        <dl>
+          <dt>Проблема</dt><dd>Соисполнитель отказывался прописывать ИГК в договоре — цепочка кооперации и расчёты встали.</dd>
+          <dt>Решение</dt><dd>Разъяснили требования 275-ФЗ, переоформили договор с ИГК, выстроили санкционирование по цепочке.</dd>
+          <dt>Результат</dt><dd class="is-result">Расчёты по всей кооперации пошли, целевое использование подтверждено.</dd>
+        </dl>
+        <a class="keysy-case-link" href="/uslugi/soprovozhdenie-avans/">Услуга: Сопровождение с авансом <span aria-hidden="true">→</span></a>
+      </article></div>
+    </div>
+
+    <p class="keysy-note">Кейсы обезличены и приведены для иллюстрации опыта. Названия компаний закрыты по соглашению о неразглашении (NDA), подтверждающие документы предоставляем по запросу на встрече. Результат по каждому конкретному контракту зависит от его условий и не является гарантией аналогичного исхода.</p>
+  </div></div>
 </section>
 
 <section class="v2-section v2-screen" id="zayavka">
   <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Заявка</div>
-      <h2 class="v2-section-title">Проведём постоплату за вас</h2>
-      <p class="v2-section-lede">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт ваш контракт и назовёт точную стоимость.</p>
-    </div>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Заявка</div><h2 class="v2-section-title">Разберём <em>ваш контракт</em></h2><p class="v2-section-lede">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт вашу ситуацию и назовёт точную стоимость.</p></div>
     <div style="max-width:520px;margin:0 auto">
-      <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="soprovozhdenie-postoplata-cta">
+      <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="keysy-cta">
         <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
         <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
         <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
@@ -673,14 +661,12 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
         <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
           <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
-          <h3>Заявка принята</h3>
-          <p>Эксперт перезвонит <b>в течение 15 минут</b> (9:00–21:00 МСК).</p>
+          <h3>Заявка принята</h3><p>Перезвоним <b>в течение 15 минут</b> (9:00–21:00 МСК).</p>
         </div>
       </form>
     </div>
   </div>
 </section>
-
 </div>
 
 <section class="trust" aria-label="Проверка в реестрах">
@@ -695,28 +681,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 </section>
 
 <script>
-(function(){
-  var f=document.getElementById('leadFormBottom'); if(!f) return;
-  var msg=document.getElementById('formMsgBottom'), ok=document.getElementById('leadSuccessBottom');
-  function show(t){ if(msg){msg.hidden=false;msg.textContent=t;} }
-  f.addEventListener('submit',function(e){
-    e.preventDefault();
-    if(f.company_extra && f.company_extra.value) return;
-    var name=(f.name.value||'').trim(), phone=(f.phone.value||'').trim();
-    if(name.length<2){show('Введите имя');return;}
-    if(!/\d[\s\d().-]*\d{3}/.test(phone)||phone.replace(/\D/g,'').length<10){show('Проверьте телефон');return;}
-    if(!f.consent.checked){show('Подтвердите согласие');return;}
-    var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';
-    fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})})
-      .then(function(r){ if(!r.ok) throw 0; return r; })
-      .then(function(){
-        [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; });
-        if(ok) ok.style.display='block';
-        try{ if(typeof ym==='function') ym(94305898,'reachGoal','lead',{source:f.dataset.source}); }catch(_){}
-      })
-      .catch(function(){ btn.disabled=false; btn.textContent=orig; show('Не удалось отправить. Попробуйте ещё раз.'); });
-  });
-})();
+(function(){var f=document.getElementById('leadFormBottom'); if(!f) return;var msg=document.getElementById('formMsgBottom'), ok=document.getElementById('leadSuccessBottom');function show(t){ if(msg){msg.hidden=false;msg.textContent=t;} }f.addEventListener('submit',function(e){e.preventDefault();if(f.company_extra && f.company_extra.value) return;var name=(f.name.value||'').trim(), phone=(f.phone.value||'').trim();if(name.length<2){show('Введите имя');return;}if(!/\d[\s\d().-]*\d{3}/.test(phone)||phone.replace(/\D/g,'').length<10){show('Проверьте телефон');return;}if(!f.consent.checked){show('Подтвердите согласие');return;}var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})}).then(function(r){ if(!r.ok) throw 0; return r; }).then(function(){ [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; }); if(ok) ok.style.display='block'; try{ if(typeof ym==='function') ym(94305898,'reachGoal','lead',{source:f.dataset.source}); }catch(_){ } }).catch(function(){ btn.disabled=false; btn.textContent=orig; show('Не удалось отправить. Попробуйте ещё раз.'); });});})();
 </script>
 
 <footer class="v2-footer" id="footer">
