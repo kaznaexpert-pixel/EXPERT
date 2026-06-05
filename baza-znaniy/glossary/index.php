@@ -478,6 +478,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
               <a href="/#tariffs">Тарифы</a>
               <a href="/#process">Как работаем</a>
               <a href="/keysy/">Кейсы</a>
+              <a href="/regiony/">Регионы</a>
               <a href="/komanda/">Команда</a>
               <a href="/#faq">FAQ</a>
               <a href="/#contacts">Связаться</a>

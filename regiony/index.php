@@ -4,14 +4,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Сертификат и ЭЦП казначейства: как получить в 2026 | КазнаЭксперт</title>
-<meta name="description" content="Как получить ЭЦП казначейства в 2026: кому нужен сертификат УЦ ФК, документы, Портал заявителя, экспортируемый ключ, подключение к «Электронному бюджету», продление.">
+<title>Казначейское сопровождение по регионам России | КазнаЭксперт</title>
+<meta name="description" content="Казначейское сопровождение госконтрактов по всем регионам РФ дистанционно: открытие счёта, ведение, санкционирование, спасение контрактов. Москва, СПб, Екатеринбург и другие.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#141310" media="(prefers-color-scheme: dark)">
 <!-- PROD: canonical и og:url ОБЯЗАТЕЛЬНО менять под URL каждой статьи -->
-<link rel="canonical" href="https://kaznaexpert.ru/baza-znaniy/sertifikat-ecp-kaznachejstvo/">
+<link rel="canonical" href="https://kaznaexpert.ru/regiony/">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
@@ -23,34 +23,13 @@
 <!-- Метрика 94305898 грузится из /js/cookie-consent.js (по согласию, единый счётчик сайта) -->
 <!-- ╚════════════════════════════════════════════════════════════════════════════╝ -->
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
-<script>window.YM_PARAMS = {page_type:"article", cluster:"ecp"};</script>
+<script>window.YM_PARAMS = {page_type:"regions-hub", cluster:"regiony"};</script>
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Article","headline":"Сертификат и ЭЦП казначейства: как получить в 2026 году","description":"Как получить квалифицированную подпись (КЭП) в удостоверяющем центре Федерального казначейства: кому нужна, документы, Портал заявителя, экспортируемый ключ, подключение к «Электронному бюджету», продление.","datePublished":"2026-06-05T10:00:00+03:00","dateModified":"2026-06-05T10:00:00+03:00","inLanguage":"ru-RU","author":{"@type":"Person","name":"Ярослав Михайлов","jobTitle":"Главный эксперт","url":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/"},"publisher":{"@type":"Organization","name":"КазнаЭксперт","logo":{"@type":"ImageObject","url":"https://kaznaexpert.ru/img/logogold.png"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://kaznaexpert.ru/baza-znaniy/sertifikat-ecp-kaznachejstvo/"},"image":"https://kaznaexpert.ru/img/og-image.png"}
+{"@context": "https://schema.org", "@type": "CollectionPage", "name": "Казначейское сопровождение по регионам России", "url": "https://kaznaexpert.ru/regiony/", "description": "Казначейское сопровождение госконтрактов по всем регионам РФ дистанционно: открытие счёта, ведение, санкционирование, спасение контрактов. Москва, СПб, Екатеринбург и другие.", "mainEntity": {"@type": "ItemList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Казначейское сопровождение в Екатеринбурге", "item": "https://kaznaexpert.ru/regiony/ekaterinburg/"}, {"@type": "ListItem", "position": 2, "name": "Казначейское сопровождение в Москве", "item": "https://kaznaexpert.ru/regiony/moskva/"}, {"@type": "ListItem", "position": 3, "name": "Казначейское сопровождение в Санкт-Петербурге", "item": "https://kaznaexpert.ru/regiony/sankt-peterburg/"}]}}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Сертификат и ЭЦП казначейства"}]}
-</script>
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"HowTo","name":"Как получить сертификат ЭЦП казначейства","description":"Получение квалифицированной подписи в удостоверяющем центре Федерального казначейства через Портал заявителя.","step":[
-{"@type":"HowToStep","position":1,"name":"Регистрация","text":"Зарегистрируйтесь на Портале заявителя информационной системы УЦ Федерального казначейства."},
-{"@type":"HowToStep","position":2,"name":"Запрос на сертификат","text":"Заполните форму запроса: регион, тип заявителя (организация или ИП), ОГРН/ОГРНИП и ИНН."},
-{"@type":"HowToStep","position":3,"name":"Генерация ключа","text":"Сформируйте ключевую пару на защищённом токене, выбрав неэкспортируемый закрытый ключ."},
-{"@type":"HowToStep","position":4,"name":"Документы","text":"Приложите сканы паспорта, СНИЛС и ИНН владельца и подпишите заявление."},
-{"@type":"HowToStep","position":5,"name":"Выпуск","text":"Дождитесь проверки (до 5 рабочих дней) и установите выпущенный сертификат на токен."}
-]}
-</script>
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-{"@type":"Question","name":"Где получить ЭЦП казначейства?","acceptedAnswer":{"@type":"Answer","text":"Сертификат выдаёт удостоверяющий центр Федерального казначейства. Документы подаются онлайн через Портал заявителя на сайте Федерального казначейства, готовый сертификат записывается на защищённый токен."}},
-{"@type":"Question","name":"Сколько делается сертификат?","acceptedAnswer":{"@type":"Answer","text":"На проверку документов и изготовление сертификата УЦ Федерального казначейства требуется до 5 рабочих дней с момента подачи полного комплекта."}},
-{"@type":"Question","name":"Какие документы нужны?","acceptedAnswer":{"@type":"Answer","text":"Паспорт, СНИЛС и ИНН владельца сертификата, а также реквизиты организации (ОГРН/ОГРНИП, ИНН). Сканы должны быть читаемыми и совпадать с данными в заявлении."}},
-{"@type":"Question","name":"Чем подпись казначейства отличается от подписи ФНС?","acceptedAnswer":{"@type":"Answer","text":"Подпись ФНС — для обычной деятельности юрлиц и ИП. Подпись УЦ казначейства нужна получателям бюджетных средств для работы в ГИИС «Электронный бюджет». Часто подрядчику нужны обе."}},
-{"@type":"Question","name":"Что значит экспортируемый закрытый ключ?","acceptedAnswer":{"@type":"Answer","text":"Это свойство ключа: экспортируемый можно скопировать с токена, неэкспортируемый — нельзя. Для государственных систем рекомендуется неэкспортируемый ключ — он надёжнее."}},
-{"@type":"Question","name":"На какой срок выдаётся сертификат?","acceptedAnswer":{"@type":"Answer","text":"Как правило, на 12 месяцев. Продление запрашивается заранее, за 3–4 недели до окончания срока, через тот же Портал заявителя."}},
-{"@type":"Question","name":"Нужен ли отдельный токен и КриптоПро?","acceptedAnswer":{"@type":"Answer","text":"Да. Закрытый ключ хранится на защищённом токене (Рутокен, JaCarta), а для работы подписи нужно средство криптозащиты — обычно КриптоПро CSP с действующей лицензией."}},
-{"@type":"Question","name":"Можно ли получить подпись казначейства удалённо?","acceptedAnswer":{"@type":"Answer","text":"Подача документов идёт онлайн через Портал заявителя. Генерация ключа выполняется на стороне заявителя; помогаем настроить процесс и пройти его без возвратов по всей России."}}
-]}
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Регионы"}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -87,20 +66,20 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Сертификат и ЭЦП казначейства: как получить в 2026 году">
-<meta property="og:description" content="Кому нужен сертификат УЦ Федерального казначейства, документы, Портал заявителя, неэкспортируемый ключ и подключение к «Электронному бюджету».">
-<meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/sertifikat-ecp-kaznachejstvo/">
+<meta property="og:title" content="Казначейское сопровождение по регионам России">
+<meta property="og:description" content="Казначейское сопровождение госконтрактов по всем регионам РФ дистанционно: открытие счёта, ведение, санкционирование, спасение контрактов. Москва, СПб, Екатеринбург и другие.">
+<meta property="og:url" content="https://kaznaexpert.ru/regiony/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Сертификат и ЭЦП казначейства — КазнаЭксперт">
-<meta property="article:published_time" content="2026-06-05T10:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-05T10:00:00+03:00">
+<meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
+<meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-06-03T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Сертификат и ЭЦП казначейства: как получить в 2026 году">
-<meta name="twitter:description" content="Кому нужен сертификат УЦ Федерального казначейства, документы, Портал заявителя, неэкспортируемый ключ и подключение к «Электронному бюджету».">
+<meta name="twitter:title" content="Казначейское сопровождение ГОЗ в 2026 году: разбор по 275-ФЗ">
+<meta name="twitter:description" content="Кто обязан, порог 3 млн ₽, счёт, раздельный учёт, штрафы. Со ссылками на НПА.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <style>
@@ -513,275 +492,48 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
           </nav>
         </header>
 
-<div class="layout">
-  <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/baza-znaniy/">База знаний</a> › Сертификат и ЭЦП казначейства</nav>
-
-  <aside class="toc" aria-label="Содержание">
-    <div class="toc__label">Содержание</div>
-    <ul class="toc__list" id="tocList">
-      <li><a href="#komu">Кому нужен сертификат УЦ ФК</a></li>
-      <li><a href="#fns-vs-fk">УЦ казначейства или ФНС</a></li>
-      <li><a href="#chto-nuzhno">Что подготовить</a></li>
-      <li><a href="#poshagovo">Получение пошагово</a></li>
-      <li><a href="#klyuch">Экспортируемый закрытый ключ</a></li>
-      <li><a href="#eb">Подключение к «Электронному бюджету»</a></li>
-      <li><a href="#prodlenie">Продление и отзыв</a></li>
-      <li><a href="#oshibki">Частые отказы</a></li>
-      <li><a href="#keys">Пример из практики</a></li>
-      <li><a href="#glossary">Глоссарий</a></li>
-      <li><a href="#faq">Частые вопросы</a></li>
-    </ul>
-  </aside>
-
-  <article class="content" id="main">
-    <div class="hero">
-      <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
-      <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
-      <div class="eyebrow">База знаний · ЭЦП и ГИИС <span class="fresh">Актуально на 2026</span></div>
-    <h1>Сертификат и ЭЦП казначейства: как получить в 2026 году</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 5 июня 2026</span></div>
-    </div>
-
-    <div class="share">
-      <span class="share__label">Поделиться:</span>
-      <a href="https://t.me/share/url?url=https%3A%2F%2Fkaznaexpert.ru%2Fbaza-znaniy%2Fsertifikat-ecp-kaznachejstvo%2F&amp;text=Сертификат%20и%20ЭЦП%20казначейства%3A%20как%20получить" target="_blank" rel="noopener"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.56 8.25l-1.86 8.76c-.14.62-.5.77-1.02.48l-2.82-2.08-1.36 1.31c-.15.15-.28.28-.57.28l.2-2.89 5.27-4.76c.23-.2-.05-.32-.35-.12l-6.51 4.1-2.8-.88c-.61-.19-.62-.61.13-.9l10.95-4.22c.5-.18.95.12.79.85z"/></svg>Telegram</a>
-      <button type="button" id="copyLink"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.07 0l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.07 0l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg><span>Копировать ссылку</span></button>
-      <button type="button" id="printBtn"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9V2h12v7M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2M6 14h12v8H6z"/></svg>Скачать PDF</button>
-    </div>
-
-    <details class="mtoc"><summary>Содержание статьи</summary>
-      <ol>
-        <li><a href="#komu">Кому нужен сертификат УЦ ФК</a></li><li><a href="#fns-vs-fk">Казначейство или ФНС</a></li>
-        <li><a href="#chto-nuzhno">Что подготовить</a></li><li><a href="#poshagovo">Получение пошагово</a></li>
-        <li><a href="#klyuch">Экспортируемый ключ</a></li><li><a href="#eb">Электронный бюджет</a></li>
-        <li><a href="#prodlenie">Продление и отзыв</a></li><li><a href="#oshibki">Частые отказы</a></li>
-        <li><a href="#keys">Пример</a></li><li><a href="#glossary">Глоссарий</a></li><li><a href="#faq">FAQ</a></li>
-      </ol>
-    </details>
-
-    <div class="tldr">Квалифицированная электронная подпись (КЭП) для работы в ГИИС «Электронный бюджет» получателям бюджетных средств выдаёт <b>удостоверяющий центр Федерального казначейства</b> (УЦ ФК)<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a>. Документы подаются онлайн через <b>Портал заявителя</b>, изготовление занимает <b>до 5 рабочих дней</b>, срок действия сертификата — как правило, 12 месяцев. Коммерческим организациям для обычной деятельности подпись выдаёт ФНС, но для казначейского сопровождения нужна именно подпись УЦ ФК.</div>
-
-    <section class="keyfacts grain" aria-label="Ключевые факты">
-      <h2>Коротко о главном</h2>
-      <div class="keyfacts__grid">
-        <div class="kf"><div class="kf__n">УЦ ФК</div><div class="kf__t"><b>Кто выдаёт</b> КЭП для «Электронного бюджета» получателям бюджетных средств</div></div>
-        <div class="kf"><div class="kf__n">Онлайн</div><div class="kf__t"><b>Портал заявителя</b> — подача документов на сертификат</div></div>
-        <div class="kf"><div class="kf__n">до 5 дн.</div><div class="kf__t"><b>Срок изготовления</b> сертификата после проверки документов</div></div>
-        <div class="kf"><div class="kf__n">12 мес.</div><div class="kf__t"><b>Срок действия</b> сертификата (продлевается заранее)</div></div>
-      </div>
-    </section>
-
-    <p class="answer lead-p">Без действующей подписи нельзя ни открыть казначейский счёт, ни провести платёж через «Электронный бюджет» — поэтому сертификат УЦ Федерального казначейства часто оказывается самым первым и самым непонятным шагом для подрядчика по госконтракту. Разберём по порядку: кому нужна именно эта подпись, чем она отличается от подписи ФНС, какие документы подготовить и как пройти получение через Портал заявителя без возвратов.</p>
-
-    <h2 id="komu">Кому нужен сертификат УЦ Федерального казначейства</h2>
-    <div class="answer reveal">
-      <p>Удостоверяющий центр Федерального казначейства выдаёт квалифицированные сертификаты ключа проверки электронной подписи трём категориям<a class="fn" href="#ref-2" aria-label="Источник 2">[2]</a>:</p>
-      <ul>
-        <li>должностным лицам органов государственной власти и местного самоуправления;</li>
-        <li>руководителям и сотрудникам государственных и муниципальных учреждений — бюджетных, автономных и казённых;</li>
-        <li><b>юридическим лицам и ИП, которые получают средства из бюджета</b> — то есть исполнителям госконтрактов, попавшим под казначейское сопровождение.</li>
-      </ul>
-      <p>Именно третья категория важна для бизнеса. Как только расчёты по вашему контракту идут через лицевой счёт в территориальном органе казначейства, вы — получатель бюджетных средств, и для работы в «Электронном бюджете» вам нужна подпись УЦ ФК.</p>
-      <div class="note"><b>Главное:</b> подпись УЦ ФК нужна не «для галочки», а потому что без неё система «Электронный бюджет» просто не пустит вас подписывать документы, сведения и платёжные распоряжения по контракту.</div>
-    </div>
-
-    <h2 id="fns-vs-fk">Подпись казначейства или ФНС: в чём разница</h2>
-    <div class="answer reveal">
-      <p>С 2022 года квалифицированную подпись для обычной деятельности юридические лица и ИП получают в удостоверяющем центре ФНС России. Возникает закономерный вопрос: зачем тогда отдельная подпись казначейства, если у компании уже есть КЭП от налоговой?</p>
-      <p>Ответ — в области применения. Подпись ФНС работает в большинстве систем, но доступ получателя бюджетных средств к ГИИС «Электронный бюджет» и казначейским операциям обеспечивает сертификат, выпущенный УЦ Федерального казначейства<a class="fn" href="#ref-3" aria-label="Источник 3">[3]</a>. Поэтому подрядчику по госконтракту с казначейским сопровождением, как правило, нужны обе подписи: ФНС — для общей деятельности, казначейства — для «Электронного бюджета».</p>
-      <table>
-        <caption>Где какая подпись применяется</caption>
-        <thead><tr><th>Удостоверяющий центр</th><th>Кому выдаёт</th><th>Где применяется</th></tr></thead>
-        <tbody>
-          <tr><td>УЦ ФНС России</td><td>Коммерческим ЮЛ и ИП</td><td>Отчётность, ЭДО, ЕИС, общие госуслуги</td></tr>
-          <tr><td>УЦ Федерального казначейства</td><td>Получателям бюджетных средств, госучреждениям</td><td>«Электронный бюджет», казначейские операции</td></tr>
-        </tbody>
-      </table>
-    </div>
-
-    <h2 id="chto-nuzhno">Что подготовить до подачи</h2>
-    <div class="answer reveal">
-      <p>Чтобы заявка не вернулась на доработку, заранее соберите комплект и подготовьте рабочее место.</p>
-      <h3>Документы</h3>
-      <ul>
-        <li>паспорт владельца сертификата (скан страницы с фото);</li>
-        <li>СНИЛС владельца сертификата;</li>
-        <li>ИНН владельца;</li>
-        <li>реквизиты организации — ОГРН (или ОГРНИП), ИНН — для формирования запроса.</li>
-      </ul>
-      <h3>Техническая часть</h3>
-      <ul>
-        <li><dfn class="term" data-tip="Защищённый USB-носитель для хранения ключа: Рутокен, JaCarta и аналоги">защищённый носитель (токен)</dfn> для записи ключа;</li>
-        <li>средство криптозащиты (СКЗИ) — как правило, КриптоПро CSP с действующей лицензией;</li>
-        <li>настроенное рабочее место: установленные корневые сертификаты УЦ ФК и плагин для браузера.</li>
-      </ul>
-      <div class="sidenote"><b>Совет:</b> один токен — один сертификат. Не записывайте новый сертификат поверх рабочего, пока старый ещё действует.</div>
-    </div>
-
-    <h2 id="poshagovo">Получение сертификата пошагово</h2>
-    <div class="answer reveal">
-      <p>Документы на сертификат подаются онлайн через Портал заявителя информационной системы УЦ — отдельный сервис на сайте Федерального казначейства<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a>.</p>
-      <div class="flow" aria-label="Этапы получения сертификата">
-        <div class="flow__title">От заявки до готового сертификата</div>
-        <div class="flow__row">
-          <div class="flow__node"><b>Регистрация</b><span>Создаёте учётную запись на Портале заявителя</span></div>
-          <div class="flow__arrow"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
-          <div class="flow__node"><b>Запрос</b><span>Заполняете форму, выбираете регион и тип заявителя</span></div>
-          <div class="flow__arrow"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
-          <div class="flow__node"><b>Документы</b><span>Прикладываете сканы, подписываете заявление</span></div>
-          <div class="flow__arrow"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
-          <div class="flow__node"><b>Выпуск</b><span>До 5 рабочих дней — записываете сертификат на токен</span></div>
-        </div>
-      </div>
-      <ol>
-        <li><b>Регистрация на Портале заявителя.</b> Создаёте учётную запись организации и владельца сертификата.</li>
-        <li><b>Формирование запроса.</b> В блоке «Получение сертификата» нажимаете «Подать документы», заполняете форму запроса: регион, тип заявителя (организация или ИП), ОГРН/ОГРНИП и ИНН.</li>
-        <li><b>Генерация ключа.</b> Система формирует ключевую пару прямо на вашем токене — здесь выбирается свойство закрытого ключа (см. ниже).</li>
-        <li><b>Прикладывание документов.</b> Загружаете сканы паспорта, СНИЛС, ИНН и подписываете заявление.</li>
-        <li><b>Проверка и выпуск.</b> УЦ проверяет комплект — до 5 рабочих дней — и выпускает сертификат. Вы скачиваете и устанавливаете его на токен.</li>
-      </ol>
-    </div>
-
-    <h2 id="klyuch">«Экспортируемый закрытый ключ» — что это значит</h2>
-    <div class="answer reveal">
-      <p>На этапе генерации ключа система спрашивает, делать ли закрытый ключ <b>экспортируемым</b>. Этот вопрос часто ставит в тупик, хотя смысл простой.</p>
-      <p><b>Экспортируемый ключ</b> можно скопировать с носителя на другой токен или в файл — удобно для резервной копии, но менее безопасно. <b>Неэкспортируемый ключ</b> привязан к носителю и скопировать его нельзя — это надёжнее и предпочтительно для работы с государственными системами.</p>
-      <div class="note"><b>Рекомендация:</b> для подписи казначейства выбирайте <b>неэкспортируемый</b> закрытый ключ. Это снижает риск компрометации; при необходимости запасной сертификат проще выпустить заново, чем восстанавливать утёкший ключ.</div>
-    </div>
-
-    <h2 id="eb">Подключение к ГИИС «Электронный бюджет»</h2>
-    <div class="answer reveal">
-      <p>Сам по себе сертификат — это только ключ. Чтобы он заработал, организацию нужно подключить к «Электронному бюджету» и привязать сертификат к ролям сотрудников.</p>
-      <ul>
-        <li>устанавливаете корневые сертификаты УЦ ФК и настраиваете рабочее место (КриптоПро, плагин браузера);</li>
-        <li>регистрируете организацию в «Электронном бюджете» как получателя средств;</li>
-        <li>привязываете сертификаты к ролям — кто подписывает сведения, кто формирует распоряжения о казначейском платеже;</li>
-        <li>проверяете доступ: пробный вход и подписание тестового документа.</li>
-      </ul>
-      <div class="related-inline"><b>Связано по теме</b>
-        <a href="/baza-znaniy/licevoy-schet-71-kak-otkryt/">Как открыть лицевой счёт 71 в ТОФК →</a>
-        <a href="/uslugi/otkrytie-scheta/">Открытие казначейского счёта под ключ за 2 дня →</a>
-      </div>
-    </div>
-
-    <h2 id="prodlenie">Продление и отзыв сертификата</h2>
-    <div class="answer reveal">
-      <p>Сертификат действует ограниченный срок, поэтому продление лучше планировать заранее.</p>
-      <h3>Продление</h3>
-      <p>Новый сертификат запрашивается через тот же Портал заявителя, как правило, за 3–4 недели до окончания срока действия текущего. Если подпись истечёт, доступ к «Электронному бюджету» прервётся, а вместе с ним — возможность проводить платежи по контракту.</p>
-      <h3>Отзыв</h3>
-      <p>Сертификат отзывают при компрометации ключа (утрата токена, подозрение на доступ третьих лиц), смене владельца или реквизитов организации. После отзыва нужно сразу выпускать новый — работать со скомпрометированной подписью нельзя.</p>
-    </div>
-
-    <h2 id="oshibki">Частые причины отказа и задержек</h2>
-    <div class="answer reveal">
-      <ul>
-        <li><b>Несоответствие данных.</b> ИНН, ОГРН или СНИЛС в заявлении не совпадают с документами — запрос возвращают.</li>
-        <li><b>Нечитаемые сканы.</b> Размытый паспорт или обрезанные поля — повод для доработки.</li>
-        <li><b>Неподготовленное рабочее место.</b> Не установлены КриптоПро, корневые сертификаты или плагин — ключ не сгенерируется.</li>
-        <li><b>Неверный тип заявителя.</b> Выбор «организация» вместо «ИП» или не тот регион — частая ошибка в форме запроса.</li>
-        <li><b>Истёкший токен/лицензия КриптоПро.</b> Без действующего СКЗИ подпись не работает.</li>
-      </ul>
-    </div>
-
-    <h2 id="keys">Пример из практики</h2>
-    <div class="answer reveal">
-      <p>Ситуация типовая, детали обобщены. Компания выиграла контракт с казначейским сопровождением и попыталась оформить подпись казначейства самостоятельно. Заявку дважды возвращали: сначала из-за нечитаемого скана СНИЛС, потом — из-за того, что закрытый ключ сгенерировали как экспортируемый, а на рабочем месте не был установлен корневой сертификат УЦ.</p>
-      <p>Когда подключились мы, комплект собрали с первого раза: проверили данные, настроили рабочее место, сгенерировали неэкспортируемый ключ на токене и подали запрос. Сертификат выпустили за три рабочих дня, организацию подключили к «Электронному бюджету» — и контракт стартовал без потери срока. Вывод простой: большинство отказов по подписи — это мелочи на этапе подготовки, которые видно заранее.</p>
-      <div class="note">Пример приведён для наглядности и не является обещанием конкретного результата — сроки зависят от загрузки УЦ и готовности документов.</div>
-    </div>
-
-    <h2 id="glossary">Глоссарий</h2>
-    <div class="answer reveal">
-      <dl class="gloss">
-        <div><dt>КЭП</dt><dd>Квалифицированная электронная подпись — усиленная подпись, юридически равная собственноручной.</dd></div>
-        <div><dt>УЦ ФК</dt><dd>Удостоверяющий центр Федерального казначейства, выпускающий сертификаты для «Электронного бюджета».</dd></div>
-        <div><dt>Портал заявителя</dt><dd>Онлайн-сервис подачи документов на сертификат на сайте Федерального казначейства.</dd></div>
-        <div><dt>Токен</dt><dd>Защищённый USB-носитель (Рутокен, JaCarta) для хранения закрытого ключа.</dd></div>
-        <div><dt>СКЗИ</dt><dd>Средство криптографической защиты информации, например КриптоПро CSP.</dd></div>
-        <div><dt>Экспортируемый ключ</dt><dd>Закрытый ключ, который можно скопировать с носителя; неэкспортируемый — нельзя.</dd></div>
-      </dl>
-    </div>
-
-    <h2 id="faq">Частые вопросы</h2>
-    <div class="faq reveal">
-      <details open><summary>Где получить ЭЦП казначейства?</summary><p>Сертификат выдаёт удостоверяющий центр Федерального казначейства. Документы подаются онлайн через Портал заявителя на сайте Федерального казначейства, готовый сертификат записывается на защищённый токен.</p></details>
-      <details><summary>Сколько делается сертификат?</summary><p>На проверку документов и изготовление сертификата УЦ Федерального казначейства требуется до 5 рабочих дней с момента подачи полного комплекта.</p></details>
-      <details><summary>Какие документы нужны?</summary><p>Паспорт, СНИЛС и ИНН владельца сертификата, а также реквизиты организации (ОГРН/ОГРНИП, ИНН) для формирования запроса. Сканы должны быть читаемыми и совпадать с данными в заявлении.</p></details>
-      <details><summary>Чем подпись казначейства отличается от подписи ФНС?</summary><p>Подпись ФНС — для обычной деятельности юрлиц и ИП. Подпись УЦ казначейства нужна получателям бюджетных средств для работы в ГИИС «Электронный бюджет» и казначейских операций. Часто подрядчику нужны обе.</p></details>
-      <details><summary>Что значит «экспортируемый закрытый ключ»?</summary><p>Это свойство ключа: экспортируемый можно скопировать с токена, неэкспортируемый — нельзя. Для работы с государственными системами рекомендуется выбирать неэкспортируемый ключ — он надёжнее.</p></details>
-      <details><summary>На какой срок выдаётся сертификат?</summary><p>Как правило, на 12 месяцев. Продление запрашивается заранее, за 3–4 недели до окончания срока, через тот же Портал заявителя.</p></details>
-      <details><summary>Нужен ли отдельный токен и КриптоПро?</summary><p>Да. Закрытый ключ хранится на защищённом токене (Рутокен, JaCarta), а для работы подписи нужно средство криптозащиты — обычно КриптоПро CSP с действующей лицензией.</p></details>
-      <details><summary>Что делать, если в подписи отказали?</summary><p>Чаще всего причина — несоответствие данных, нечитаемые сканы или ненастроенное рабочее место. Устраните замечание и подайте запрос повторно; типовые ошибки видно ещё на этапе подготовки.</p></details>
-      <details><summary>Можно ли получить подпись казначейства удалённо?</summary><p>Подача документов идёт онлайн через Портал заявителя. Само рабочее место и генерация ключа выполняются на стороне заявителя; мы помогаем настроить процесс и пройти его без возвратов по всей России.</p></details>
-    </div>
-
-    <div class="author">
-      <div class="author__av">ЯМ</div>
-      <div>
-        <div class="author__name">Ярослав Михайлов</div>
-        <div class="author__role">Главный эксперт КазнаЭксперт · казначейское сопровождение госконтрактов</div>
-        <p class="author__bio">15+ лет в сфере казначейского сопровождения и работы с «Электронным бюджетом». Под сопровождением — 7000+ контрактов на сумму свыше 90 млрд ₽. Помогаем получить подпись казначейства, подключиться к ГИИС и открыть счёт без возвратов.</p>
-        <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль автора</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span><span>Тел.: <a href="tel:+79818331010">+7 (981) 833-10-10</a></span></div>
-      </div>
-    </div>
-
-    <section class="refs" aria-label="Источники">
-      <h2>Источники</h2>
-      <ol>
-        <li id="ref-1">Онлайн-сервис подачи документов для получения сертификатов (Портал заявителя). <a href="https://roskazna.gov.ru/gis/udostoveryayushchij-centr/onlajn-servis-podachi-dokumentov-dlya-polucheniya-sertifikatov-portal-zayavitelya" target="_blank" rel="noopener">Казначейство России</a></li>
-        <li id="ref-2">Удостоверяющий центр Федерального казначейства. <a href="https://roskazna.gov.ru/gis/udostoveryayushchij-centr/" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
-        <li id="ref-3">Электронная подпись в государственных удостоверяющих центрах: УЦ ФНС, УЦ ФК и УЦ Банка России. <a href="https://iitrust.ru/articles/expert/elektronnaya-podpis-v-gosudarstvennyh-udostoveryaushhih-tsentrah-kak-poluchit-sertifikat-v-uts-fns-uts-fk-i-uts-banka-rossii/" target="_blank" rel="noopener">ИИТ</a></li>
-      </ol>
-      <p class="refs__note">Материал носит справочный характер. Точный перечень документов и порядок зависят от региона и категории заявителя; перед подачей сверяйтесь с актуальной информацией на сайте Федерального казначейства.</p>
-    </section>
-  </article>
-
-  <aside class="rail">
-    <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="sertifikat-ecp">
-      <div class="railform__badge">Помощь с подписью</div>
-      <h3 class="railform__title">Подпись казначейства без возвратов</h3>
-      <p class="railform__sub">Подготовим документы, настроим рабочее место, получим сертификат и подключим к «Электронному бюджету».</p>
+<div class="v2">
+<style>
+.v2 .v2-hero{min-height:0 !important;padding:44px 0 8px !important}
+.v2 .v2-section.v2-screen{min-height:0 !important;padding-top:30px !important;padding-bottom:60px !important;display:block !important}
+.v2 .reg-wrap{max-width:1100px;margin:0 auto}
+.v2 .reg-grid{display:grid;grid-template-columns:1fr;gap:16px}
+@media(min-width:620px){.v2 .reg-grid{grid-template-columns:1fr 1fr}}
+@media(min-width:980px){.v2 .reg-grid{grid-template-columns:repeat(3,1fr)}}
+.v2 .reg-card{display:flex;flex-direction:column;background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.1));border-radius:14px;padding:22px 24px;text-decoration:none;color:inherit;transition:transform .2s,box-shadow .2s,border-color .2s}
+.v2 .reg-card:hover{transform:translateY(-3px);box-shadow:0 18px 36px -22px rgba(26,26,26,.28);border-color:rgba(139,111,71,.4)}
+.v2 .reg-card__city{font-family:var(--font-display,'Playfair Display',serif);font-weight:500;font-size:22px;line-height:1.1}
+.v2 .reg-card__ufk{font-size:13px;color:var(--mute,#6E6B66);margin-top:6px}
+.v2 .reg-card__link{margin-top:14px;font-size:13.5px;font-weight:500;color:var(--accent,#8B6F47)}
+</style>
+<section class="v2-hero"><div class="v2-container"><div class="reg-wrap">
+  <div class="v2-hero-eyebrow-row"><span class="v2-eyebrow">Регионы</span><span class="v2-hero-eyebrow-dash" aria-hidden="true"></span></div>
+  <h1>Казначейское сопровождение <em>по регионам России</em></h1>
+  <p class="v2-hero-lede" style="max-width:none">Работаем со всеми территориальными органами Федерального казначейства дистанционно — через «Электронный бюджет», без привязки к личным визитам. Открытие счёта, ведение платежей, санкционирование и спасение контрактов по всей РФ. Выберите ваш регион:</p>
+</div></div></section>
+<section class="v2-section"><div class="v2-container"><div class="reg-wrap"><div class="reg-grid"><a class="reg-card" href="/regiony/ekaterinburg/"><span class="reg-card__city">Екатеринбург</span><span class="reg-card__ufk">УФК по Свердловской области</span><span class="reg-card__link">Подробнее →</span></a><a class="reg-card" href="/regiony/moskva/"><span class="reg-card__city">Москва</span><span class="reg-card__ufk">УФК по г. Москве</span><span class="reg-card__link">Подробнее →</span></a><a class="reg-card" href="/regiony/sankt-peterburg/"><span class="reg-card__city">Санкт-Петербург</span><span class="reg-card__ufk">УФК по г. Санкт-Петербургу</span><span class="reg-card__link">Подробнее →</span></a></div>
+  <p style="margin-top:26px;font-size:14px;color:var(--mute,#6E6B66);max-width:820px">Вашего региона ещё нет в списке? Это не помеха — мы работаем со всеми субъектами РФ удалённо. Оставьте заявку, и эксперт разберёт ваш контракт независимо от региона.</p>
+</div></div></section>
+<section class="v2-section v2-screen" id="zayavka"><div class="v2-container">
+  <div class="v2-section-head"><div class="v2-section-eyebrow">Заявка</div><h2 class="v2-section-title">Разберём ваш контракт <em>в любом регионе</em></h2><p class="v2-section-lede">Оставьте контакты — перезвоним за 15 минут, разберём ситуацию и назовём точную стоимость.</p></div>
+  <div style="max-width:520px;margin:0 auto">
+    <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="regiony-cta">
       <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
       <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
       <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
       <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-      <button class="submit" type="submit">Получить помощь →</button>
-      <div class="formmsg" id="formMsg" hidden></div>
-      <div class="railform__trust">
-        <span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span>
-        <span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span>
-      </div>
-      <div class="success" id="leadSuccess" role="status" aria-live="polite">
-        <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
-        <h3>Заявка принята</h3>
-        <p>Эксперт перезвонит <b>в течение 1 часа</b> (9:00–21:00 МСК).</p>
-        <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
-      </div>
+      <button class="submit" type="submit">Получить расчёт →</button>
+      <div class="formmsg" id="formMsgBottom" hidden></div>
+      <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
+      <div class="success" id="leadSuccessBottom" role="status" aria-live="polite"><div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div><h3>Заявка принята</h3><p>Перезвоним <b>в течение 15 минут</b> (9:00–21:00 МСК).</p></div>
     </form>
-  </aside>
+  </div>
+</div></section>
 </div>
-
-<section class="related" aria-labelledby="relTitle">
-  <div class="related__head"><h2 id="relTitle">Что почитать ещё</h2><a href="/baza-znaniy/">Вся база знаний →</a></div>
-  <div class="related__grid">
-    <a class="card reveal" href="/baza-znaniy/licevoy-schet-71-kak-otkryt/"><div class="card__cover"><span>Счёт 71</span></div><div class="card__body"><span class="card__cat">Инструкция</span><h3 class="card__title">Как открыть лицевой счёт 71 в ТОФК</h3><div class="card__meta">Открытие счёта · 9 мин</div></div></a>
-    <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Что такое КС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение: что это и кому нужно</h3><div class="card__meta">Основы · 14 мин</div></div></a>
-    <a class="card reveal" href="/uslugi/otkrytie-scheta/"><div class="card__cover"><span>Под ключ</span></div><div class="card__body"><span class="card__cat">Услуга</span><h3 class="card__title">Открытие казначейского счёта за 2 дня</h3><div class="card__meta">Услуга · фикс-цена</div></div></a>
-  </div>
-</section>
-
-<section class="trust" aria-label="Проверка в реестрах">
-  <div class="trust__box">
-    <div class="trust__lead"><b>Проверьте нас в открытых реестрах</b>ИП Михайлов Я.А. · ИНН 781428314589 · ОГРНИП 321784700367672</div>
-    <div class="trust__badges">
-      <a class="badge" href="https://www.rusprofile.ru/ip/321784700367672" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg><b>Rusprofile</b></a>
-      <a class="badge" href="https://zachestnyibiznes.ru/company/ip/321784700367672_781428314589" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg>За честный <b>бизнес</b></a>
-      <a class="badge" href="https://www.audit-it.ru/contragent/fl/781428314589_mikhailov-iaroslav-alekseevich" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg><b>Audit-it</b></a>
-    </div>
-  </div>
-</section>
-
+<section class="trust" aria-label="Проверка в реестрах"><div class="trust__box"><div class="trust__lead"><b>Проверьте нас в открытых реестрах</b>ИП Михайлов Я.А. · ИНН 781428314589 · ОГРНИП 321784700367672</div><div class="trust__badges"><a class="badge" href="https://www.rusprofile.ru/ip/321784700367672" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg><b>Rusprofile</b></a><a class="badge" href="https://zachestnyibiznes.ru/company/ip/321784700367672_781428314589" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg>За честный <b>бизнес</b></a><a class="badge" href="https://www.audit-it.ru/contragent/fl/781428314589_mikhailov-iaroslav-alekseevich" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg><b>Audit-it</b></a></div></div></section>
+<script>
+(function(){var f=document.getElementById('leadFormBottom'); if(!f) return;var msg=document.getElementById('formMsgBottom'), ok=document.getElementById('leadSuccessBottom');function show(t){ if(msg){msg.hidden=false;msg.textContent=t;} }f.addEventListener('submit',function(e){e.preventDefault();if(f.company_extra && f.company_extra.value) return;var name=(f.name.value||'').trim(), phone=(f.phone.value||'').trim();if(name.length<2){show('Введите имя');return;}if(!/\d[\s\d().-]*\d{3}/.test(phone)||phone.replace(/\D/g,'').length<10){show('Проверьте телефон');return;}if(!f.consent.checked){show('Подтвердите согласие');return;}var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})}).then(function(r){ if(!r.ok) throw 0; return r; }).then(function(){ [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; }); if(ok) ok.style.display='block'; }).catch(function(){ btn.disabled=false; btn.textContent=orig; show('Не удалось отправить.'); });});})();
+</script>
 
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
