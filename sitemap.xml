@@ -148,4 +148,19 @@
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/sertifikat-ecp-kaznachejstvo/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/poryadok-sankcionirovaniya-rashodov/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/glossary/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
 </urlset>
