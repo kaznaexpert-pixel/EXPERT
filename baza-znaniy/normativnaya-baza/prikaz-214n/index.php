@@ -4,14 +4,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Коды направлений расходования целевых средств 2026 — справочник | Казн</title>
-<meta name="description" content="Полный справочник кодов направлений расходования целевых средств (214н, Прил.3) на 2026: укрупнённые коды 0100–2000, подкоды, правило первой цифры 6/8/9, примеры и ошибки санк">
+<title>Приказ Минфина № 214н — санкционирование операций при казначейском | К</title>
+<meta name="description" content="Главный приказ о санкционировании: сам Порядок, форма Сведений об операциях (ОКУД 0501213, Прил. 1) и перечни кодов направлений расходования.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#141310" media="(prefers-color-scheme: dark)">
 <!-- PROD: canonical и og:url ОБЯЗАТЕЛЬНО менять под URL каждой статьи -->
-<link rel="canonical" href="https://kaznaexpert.ru/baza-znaniy/kody/">
+<link rel="canonical" href="https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/prikaz-214n/">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
@@ -23,13 +23,16 @@
 <!-- Метрика 94305898 грузится из /js/cookie-consent.js (по согласию, единый счётчик сайта) -->
 <!-- ╚════════════════════════════════════════════════════════════════════════════╝ -->
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
-<script>window.YM_PARAMS = {page_type:"codes-hub", cluster:"kody"};</script>
+<script>window.YM_PARAMS = {page_type:"npa", cluster:"normativka"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "CollectionPage", "name": "Коды направлений расходования целевых средств 2026", "url": "https://kaznaexpert.ru/baza-znaniy/kody/", "description": "Полный справочник кодов направлений расходования целевых средств (214н, Прил.3) на 2026: укрупнённые коды 0100–2000, подкоды, правило первой цифры 6/8/9, примеры и ошибки санк", "mainEntity": {"@type": "ItemList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Код 0100 — Выплаты персоналу", "item": "https://kaznaexpert.ru/baza-znaniy/kody/0100/"}, {"@type": "ListItem", "position": 2, "name": "Код 0200 — Закупка работ и услуг", "item": "https://kaznaexpert.ru/baza-znaniy/kody/0200/"}, {"@type": "ListItem", "position": 3, "name": "Код 0300 — Закупка активов, материальных запасов и основных средств", "item": "https://kaznaexpert.ru/baza-znaniy/kody/0300/"}, {"@type": "ListItem", "position": 4, "name": "Код 0400 — Договоры финансовой аренды (лизинга)", "item": "https://kaznaexpert.ru/baza-znaniy/kody/0400/"}, {"@type": "ListItem", "position": 5, "name": "Код 0410 — Капитальные вложения", "item": "https://kaznaexpert.ru/baza-znaniy/kody/0410/"}, {"@type": "ListItem", "position": 6, "name": "Код 0420 — Взнос в уставный капитал, вклад в имущество", "item": "https://kaznaexpert.ru/baza-znaniy/kody/0420/"}, {"@type": "ListItem", "position": 7, "name": "Код 0610 — Авансовые платежи по контрактам", "item": "https://kaznaexpert.ru/baza-znaniy/kody/0610/"}, {"@type": "ListItem", "position": 8, "name": "Код 0620 — Средства обособленным (структурным) подразделениям", "item": "https://kaznaexpert.ru/baza-znaniy/kody/0620/"}, {"@type": "ListItem", "position": 9, "name": "Код 0630 — Размещение на депозиты и иные финансовые инструменты", "item": "https://kaznaexpert.ru/baza-znaniy/kody/0630/"}, {"@type": "ListItem", "position": 10, "name": "Код 0631 — Выплаты за счёт процентов", "item": "https://kaznaexpert.ru/baza-znaniy/kody/0631/"}, {"@type": "ListItem", "position": 11, "name": "Код 0632 — Финансирование под уступку денежного требования (факторинг)", "item": "https://kaznaexpert.ru/baza-znaniy/kody/0632/"}, {"@type": "ListItem", "position": 12, "name": "Код 0633 — Доходы по договорам факторинга", "item": "https://kaznaexpert.ru/baza-znaniy/kody/0633/"}, {"@type": "ListItem", "position": 13, "name": "Код 0810 — Налоги, сборы и иные платежи в бюджет", "item": "https://kaznaexpert.ru/baza-znaniy/kody/0810/"}, {"@type": "ListItem", "position": 14, "name": "Код 0811 — Налог на добавленную стоимость (НДС)", "item": "https://kaznaexpert.ru/baza-znaniy/kody/0811/"}, {"@type": "ListItem", "position": 15, "name": "Код 0813 — Страховые взносы на обязательное социальное страхование", "item": "https://kaznaexpert.ru/baza-znaniy/kody/0813/"}, {"@type": "ListItem", "position": 16, "name": "Код 0820 — Иные выплаты", "item": "https://kaznaexpert.ru/baza-znaniy/kody/0820/"}, {"@type": "ListItem", "position": 17, "name": "Код 0888 — Накладные расходы", "item": "https://kaznaexpert.ru/baza-znaniy/kody/0888/"}, {"@type": "ListItem", "position": 18, "name": "Код 0991 — Выплаты по окончательным расчётам", "item": "https://kaznaexpert.ru/baza-znaniy/kody/0991/"}, {"@type": "ListItem", "position": 19, "name": "Код 0999 — Выплата прибыли", "item": "https://kaznaexpert.ru/baza-znaniy/kody/0999/"}, {"@type": "ListItem", "position": 20, "name": "Код 1000 — Возврат остатков целевых средств в доход бюджета", "item": "https://kaznaexpert.ru/baza-znaniy/kody/1000/"}, {"@type": "ListItem", "position": 21, "name": "Код 2000 — Возврат дебиторской задолженности в доход бюджета", "item": "https://kaznaexpert.ru/baza-znaniy/kody/2000/"}]}}
+{"@context": "https://schema.org", "@type": ["Article", "Legislation"], "headline": "Приказ Минфина № 214н — санкционирование операций при казначейском сопровождении", "description": "Главный приказ о санкционировании: сам Порядок, форма Сведений об операциях (ОКУД 0501213, Прил. 1) и перечни кодов направлений расходования.", "datePublished": "2026-06-06T10:00:00+03:00", "dateModified": "2026-06-06T10:00:00+03:00", "inLanguage": "ru-RU", "legislationIdentifier": "214н", "about": "Приказ Минфина России от 17.12.2021 № 214н «Об утверждении Порядка осуществления территориальными органами Федерального казначейства санкционирования операций со средствами участников казначейского сопровождения»", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/prikaz-214n/"}, "image": "https://kaznaexpert.ru/img/og-image.png"}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Коды"}]}
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Нормативная база", "item": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/"}, {"@type": "ListItem", "position": 4, "name": "Приказ Минфина № 214н"}]}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Какой документ регулирует санкционирование платежей при КС?", "acceptedAnswer": {"@type": "Answer", "text": "Приказ Минфина № 214н от 17.12.2021 в действующей редакции."}}, {"@type": "Question", "name": "Где взять коды для Сведений?", "acceptedAnswer": {"@type": "Answer", "text": "В приложениях к 214н: направления расходования — Прил. 3, источники поступлений — Прил. 2."}}, {"@type": "Question", "name": "Почему казначейство возвращает платёж?", "acceptedAnswer": {"@type": "Answer", "text": "Чаще всего — из-за неверного кода, несоответствия Сведениям или неполного комплекта документов; основания — в Порядке 214н."}}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -66,9 +69,9 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Коды направлений расходования целевых средств 2026 — справочник | Казн">
-<meta property="og:description" content="Полный справочник кодов направлений расходования целевых средств (214н, Прил.3) на 2026: укрупнённые коды 0100–2000, подкоды, правило первой цифры 6/8/9, примеры и ошибки санк">
-<meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/kody/">
+<meta property="og:title" content="Приказ Минфина № 214н — санкционирование операций при казначейском | К">
+<meta property="og:description" content="Главный приказ о санкционировании: сам Порядок, форма Сведений об операциях (ОКУД 0501213, Прил. 1) и перечни кодов направлений расходования.">
+<meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/prikaz-214n/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -493,59 +496,69 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         </header>
 
 <div class="layout">
-  <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/baza-znaniy/">База знаний</a> › Коды</nav>
-
+  <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/baza-znaniy/">База знаний</a> › <a href="/baza-znaniy/normativnaya-baza/">Нормативная база</a> › Приказ Минфина № 214н</nav>
   <aside class="toc" aria-label="Содержание"><div class="toc__label">На странице</div><ul class="toc__list" id="tocList">
-    <li><a href="#chto">Что это за коды</a></li><li><a href="#razryad">Первая цифра: 0/6/8/9</a></li>
-    <li><a href="#tablica">Таблица всех кодов</a></li><li><a href="#stranicy">Страницы по кодам</a></li>
+    <li><a href="#reg">Что регулирует</a></li><li><a href="#means">Что значит для исполнителя</a></li>
+    <li><a href="#norms">Ключевые нормы</a></li><li><a href="#changed">Актуальная редакция</a></li><li><a href="#faq">Вопросы</a></li>
   </ul></aside>
-
   <article class="content" id="main">
     <style>
       .ctab{width:100%;border-collapse:collapse;margin:14px 0;font-size:14.5px}
       .ctab th,.ctab td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--hair,rgba(26,26,26,.1));vertical-align:top}
       .ctab th{font-weight:600;color:var(--mute,#6E6B66);font-size:12.5px;text-transform:uppercase;letter-spacing:.04em}
       .ctab .cd{font-variant-numeric:tabular-nums;font-weight:600;white-space:nowrap;color:var(--accent,#8B6F47)}
-      .ctab .altc{font-variant-numeric:tabular-nums;color:var(--mute,#6E6B66);font-size:13px;white-space:nowrap}
-      .codechips{display:grid;grid-template-columns:1fr;gap:8px;margin-top:10px}
+      .ctab a{color:var(--accent,#8B6F47);text-decoration:none}
+      .ctab a:hover{text-decoration:underline}
+      .kx-search{position:relative;margin:8px 0 6px}
+      .kx-search input{width:100%;box-sizing:border-box;padding:13px 16px 13px 44px;font-size:16px;border:1px solid var(--hair,rgba(26,26,26,.18));border-radius:12px;background:var(--paper,#FBF9F4);color:var(--ink,#1A1A1A);font-family:inherit}
+      .kx-search input:focus{outline:none;border-color:rgba(139,111,71,.55);box-shadow:0 0 0 3px rgba(139,111,71,.12)}
+      .kx-search svg{position:absolute;left:15px;top:50%;transform:translateY(-50%);opacity:.5}
+      .kx-count{font-size:13px;color:var(--mute,#6E6B66);margin:2px 0 10px}
+      .kx-empty{display:none;padding:18px;color:var(--mute,#6E6B66);font-size:14.5px}
+      .gguide{display:grid;grid-template-columns:1fr;gap:10px;margin:12px 0}
+      @media(min-width:720px){.gguide{grid-template-columns:1fr 1fr}}
+      .gguide__i{border:1px solid var(--hair,rgba(26,26,26,.12));border-radius:11px;padding:13px 16px;background:var(--paper,#FBF9F4)}
+      .gguide__q{font-weight:600;font-size:14.5px;margin-bottom:4px}
+      .gguide__a{font-size:14px;color:var(--ink-soft,#3A3A3A);line-height:1.5}
+    </style>
+    <style>
+      .npa-meta{border:1px solid var(--hair,rgba(26,26,26,.12));border-radius:12px;padding:14px 18px;margin:12px 0;background:var(--paper,#FBF9F4);font-size:14px}
+      .npa-meta>div:first-child span{display:block;font-size:12px;color:var(--mute,#6E6B66);text-transform:uppercase;letter-spacing:.04em;margin-bottom:3px}
+      .npa-meta b{font-weight:500;line-height:1.45}
+      .npa-meta-row{display:flex;flex-wrap:wrap;gap:8px 18px;margin-top:10px;color:var(--mute,#6E6B66)}
+      .npa-meta-row a{color:var(--accent,#8B6F47);text-decoration:none;font-weight:500}
+      .codechips{display:grid;grid-template-columns:1fr;gap:8px;margin-top:8px}
       @media(min-width:680px){.codechips{grid-template-columns:1fr 1fr}}
-      .codechip{display:block;padding:11px 14px;border:1px solid var(--hair,rgba(26,26,26,.12));border-radius:10px;font-size:14px;text-decoration:none;color:inherit;transition:border-color .2s,background .2s}
-      .codechip b{color:var(--accent,#8B6F47);font-variant-numeric:tabular-nums}
+      .codechip{display:block;padding:11px 14px;border:1px solid var(--hair,rgba(26,26,26,.12));border-radius:10px;font-size:13.5px;text-decoration:none;color:inherit;transition:border-color .2s,background .2s}
       .codechip:hover{border-color:rgba(139,111,71,.5);background:var(--paper,#FBF9F4)}
     </style>
-    <div class="hero">
-      <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
-      <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
-      <div class="eyebrow">База знаний · Справочник <span class="fresh">Актуально на 2026</span></div>
-      <h1>Коды направлений расходования целевых средств — 2026</h1>
-      <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>Обновлено 5 июня 2026</span></div>
-    </div>
+    <div class="hero"><img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy"><img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy"><div class="eyebrow">База знаний · Нормативная база <span class="fresh">Актуально на 2026</span></div><h1>Приказ Минфина № 214н — санкционирование операций при казначейском сопровождении</h1><div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>Обновлено 5 июня 2026</span></div></div>
+    <div class="npa-meta"><div><span>Документ</span><b>Приказ Минфина России от 17.12.2021 № 214н «Об утверждении Порядка осуществления территориальными органами Федерального казначейства санкционирования операций со средствами участников казначейского сопровождения»</b></div><div class="npa-meta-row"><span>Дата: 17 декабря 2021</span><span>действует, ред. от 27.06.2025 (приказ № 84н, с 14.10.2025)</span><a href="https://www.consultant.ru/document/cons_doc_LAW_405138/" target="_blank" rel="noopener nofollow">Первоисточник →</a></div></div>
+    <div class="tldr">Приказ № 214н — самый прикладной документ для исполнителя: по нему казначейство проверяет и пропускает каждый платёж, а к нему приложены форма Сведений и перечни кодов.</div>
 
-    <div class="tldr">Полный справочник кодов направлений расходования целевых средств по <b>Приложению 3 к Приказу Минфина № 214н</b> (ред. 97н, действует в 2026). Укрупнённые коды 0100–2000, детализированные подкоды и правило первой цифры (6/8/9). По каждому коду — отдельная страница с примерами и ошибками санкционирования.</div>
+    <h2 id="reg">Что регулирует</h2>
+    <div class="answer reveal"><p>214н утверждает Порядок санкционирования операций со средствами участников КС: что и как проверяет ТОФК перед проведением платежа.</p><p>К приказу приложены форма Сведений об операциях с целевыми средствами (ОКУД 0501213) и перечни кодов — направлений расходования (Прил. 3) и источников поступлений (Прил. 2).</p></div>
 
-    <h2 id="chto">Что это за коды</h2>
-    <div class="answer reveal"><p>Код направления расходования целевых средств указывается в Сведениях об операциях с целевыми средствами и в распоряжениях о совершении казначейского платежа. По нему казначейство понимает, на что именно идут средства, и санкционирует операцию. Неверный код — частая причина возврата платежа.</p></div>
+    <h2 id="means">Что это значит для исполнителя контракта</h2>
+    <div class="answer reveal"><ul class="ul"><li>По этому приказу проходит каждый ваш платёж — понимание его требований напрямую снижает число возвратов.</li><li>Коды направлений расходования и источников поступлений, которые вы указываете, берутся из приложений к 214н.</li><li>Форма Сведений (0501213), которую вы подаёте и утверждаете, — тоже часть этого приказа.</li><li>Изменения 214н меняют состав кодов и правила санкционирования — за ними важно следить.</li></ul></div>
 
-    <h2 id="razryad">Первая цифра кода: 0 / 6 / 8 / 9</h2>
-    <div class="answer reveal"><p>Один и тот же код направления может иметь разную первую цифру в зависимости от режима выплаты. Именно поэтому существуют «коды» вида <b>8410</b> или <b>9100</b> — это базовый код с заменённой первой цифрой:</p>
-    <table class="ctab"><thead><tr><th>Первая цифра</th><th>Когда применяется</th></tr></thead><tbody><tr><td class="cd">0…</td><td>Обычное направление расходования целевых средств — оплата с лицевого счёта в казначействе по утверждённым Сведениям.</td></tr><tr><td class="cd">6…</td><td>Единовременная оплата после полного исполнения государственного (муниципального) контракта, заключённого с единственным поставщиком.</td></tr><tr><td class="cd">8…</td><td>Прямая оплата за фактически поставленные товары, выполненные работы, оказанные услуги без привлечения участником КС иных участников казначейского сопровождения.</td></tr><tr><td class="cd">9…</td><td>Возмещение ранее произведённых участником КС фактических расходов (части расходов) со счетов, открытых ему в банке.</td></tr></tbody></table></div>
+    <h2 id="norms">Ключевые нормы</h2>
+    <div class="answer reveal"><table class="ctab"><thead><tr><th>Норма</th><th>Суть</th></tr></thead><tbody><tr><td class="cd">Порядок санкционирования</td><td>основания, по которым ТОФК проводит или возвращает платёж.</td></tr><tr><td class="cd">Форма 0501213</td><td>Сведения об операциях с целевыми средствами — Приложение № 1.</td></tr><tr><td class="cd">Коды</td><td>направления расходования (Прил. 3) и источники поступлений (Прил. 2).</td></tr></tbody></table></div>
 
-    <h2 id="tablica">Таблица всех укрупнённых кодов</h2>
-    <div class="answer reveal"><table class="ctab"><thead><tr><th>Код</th><th>Направление расходования</th><th>Варианты 8/9</th></tr></thead><tbody><tr><td class="cd"><a href="/baza-znaniy/kody/0100/">0100</a></td><td>Выплаты персоналу</td><td class="altc">8100 9100</td></tr><tr><td class="cd"><a href="/baza-znaniy/kody/0200/">0200</a></td><td>Закупка работ и услуг</td><td class="altc">6200 8200 9200</td></tr><tr><td class="cd"><a href="/baza-znaniy/kody/0300/">0300</a></td><td>Закупка активов, материальных запасов и основных средств</td><td class="altc">6300 8300 9300</td></tr><tr><td class="cd"><a href="/baza-znaniy/kody/0400/">0400</a></td><td>Договоры финансовой аренды (лизинга)</td><td class="altc">8400 9400</td></tr><tr><td class="cd"><a href="/baza-znaniy/kody/0410/">0410</a></td><td>Капитальные вложения</td><td class="altc">6410 8410 9410</td></tr><tr><td class="cd"><a href="/baza-znaniy/kody/0420/">0420</a></td><td>Взнос в уставный капитал, вклад в имущество</td><td class="altc">8420 9420</td></tr><tr><td class="cd"><a href="/baza-znaniy/kody/0610/">0610</a></td><td>Авансовые платежи по контрактам</td><td class="altc"></td></tr><tr><td class="cd"><a href="/baza-znaniy/kody/0620/">0620</a></td><td>Средства обособленным (структурным) подразделениям</td><td class="altc"></td></tr><tr><td class="cd"><a href="/baza-znaniy/kody/0630/">0630</a></td><td>Размещение на депозиты и иные финансовые инструменты</td><td class="altc"></td></tr><tr><td class="cd"><a href="/baza-znaniy/kody/0631/">0631</a></td><td>Выплаты за счёт процентов</td><td class="altc"></td></tr><tr><td class="cd"><a href="/baza-znaniy/kody/0632/">0632</a></td><td>Финансирование под уступку денежного требования (факторинг)</td><td class="altc"></td></tr><tr><td class="cd"><a href="/baza-znaniy/kody/0633/">0633</a></td><td>Доходы по договорам факторинга</td><td class="altc"></td></tr><tr><td class="cd"><a href="/baza-znaniy/kody/0810/">0810</a></td><td>Налоги, сборы и иные платежи в бюджет</td><td class="altc">8810 9810</td></tr><tr><td class="cd"><a href="/baza-znaniy/kody/0811/">0811</a></td><td>Налог на добавленную стоимость (НДС)</td><td class="altc">8811 9811</td></tr><tr><td class="cd"><a href="/baza-znaniy/kody/0813/">0813</a></td><td>Страховые взносы на обязательное социальное страхование</td><td class="altc">8813 9813</td></tr><tr><td class="cd"><a href="/baza-znaniy/kody/0820/">0820</a></td><td>Иные выплаты</td><td class="altc">8820 9820</td></tr><tr><td class="cd"><a href="/baza-znaniy/kody/0888/">0888</a></td><td>Накладные расходы</td><td class="altc">8888 9888</td></tr><tr><td class="cd"><a href="/baza-znaniy/kody/0991/">0991</a></td><td>Выплаты по окончательным расчётам</td><td class="altc">6991</td></tr><tr><td class="cd"><a href="/baza-znaniy/kody/0999/">0999</a></td><td>Выплата прибыли</td><td class="altc"></td></tr><tr><td class="cd"><a href="/baza-znaniy/kody/1000/">1000</a></td><td>Возврат остатков целевых средств в доход бюджета</td><td class="altc"></td></tr><tr><td class="cd"><a href="/baza-znaniy/kody/2000/">2000</a></td><td>Возврат дебиторской задолженности в доход бюджета</td><td class="altc"></td></tr></tbody></table></div>
+    <h2 id="changed">Актуальная редакция и изменения</h2>
+    <div class="answer reveal"><p>214н от 17.12.2021 действует в редакции от 27.06.2025 (изменения приказом № 84н, применяются с 14.10.2025); ранее — приказы № 97н (2023) и № 197н (2024). Это «живой» приказ — сверяйте действующую редакцию.</p></div>
 
-    <h2 id="stranicy">Подробно по каждому коду</h2>
-    <div class="answer reveal"><div class="codechips"><a class="codechip" href="/baza-znaniy/kody/0100/"><b>0100</b> Выплаты персоналу</a><a class="codechip" href="/baza-znaniy/kody/0200/"><b>0200</b> Закупка работ и услуг</a><a class="codechip" href="/baza-znaniy/kody/0300/"><b>0300</b> Закупка активов, материальных запасов и основных средств</a><a class="codechip" href="/baza-znaniy/kody/0400/"><b>0400</b> Договоры финансовой аренды (лизинга)</a><a class="codechip" href="/baza-znaniy/kody/0410/"><b>0410</b> Капитальные вложения</a><a class="codechip" href="/baza-znaniy/kody/0420/"><b>0420</b> Взнос в уставный капитал, вклад в имущество</a><a class="codechip" href="/baza-znaniy/kody/0610/"><b>0610</b> Авансовые платежи по контрактам</a><a class="codechip" href="/baza-znaniy/kody/0620/"><b>0620</b> Средства обособленным (структурным) подразделениям</a><a class="codechip" href="/baza-znaniy/kody/0630/"><b>0630</b> Размещение на депозиты и иные финансовые инструменты</a><a class="codechip" href="/baza-znaniy/kody/0631/"><b>0631</b> Выплаты за счёт процентов</a><a class="codechip" href="/baza-znaniy/kody/0632/"><b>0632</b> Финансирование под уступку денежного требования (факторинг)</a><a class="codechip" href="/baza-znaniy/kody/0633/"><b>0633</b> Доходы по договорам факторинга</a><a class="codechip" href="/baza-znaniy/kody/0810/"><b>0810</b> Налоги, сборы и иные платежи в бюджет</a><a class="codechip" href="/baza-znaniy/kody/0811/"><b>0811</b> Налог на добавленную стоимость (НДС)</a><a class="codechip" href="/baza-znaniy/kody/0813/"><b>0813</b> Страховые взносы на обязательное социальное страхование</a><a class="codechip" href="/baza-znaniy/kody/0820/"><b>0820</b> Иные выплаты</a><a class="codechip" href="/baza-znaniy/kody/0888/"><b>0888</b> Накладные расходы</a><a class="codechip" href="/baza-znaniy/kody/0991/"><b>0991</b> Выплаты по окончательным расчётам</a><a class="codechip" href="/baza-znaniy/kody/0999/"><b>0999</b> Выплата прибыли</a><a class="codechip" href="/baza-znaniy/kody/1000/"><b>1000</b> Возврат остатков целевых средств в доход бюджета</a><a class="codechip" href="/baza-znaniy/kody/2000/"><b>2000</b> Возврат дебиторской задолженности в доход бюджета</a></div></div>
+    <div class="note">Смотрите также: <div class="codechips"><a class="codechip" href="/baza-znaniy/poryadok-sankcionirovaniya-rashodov/">Порядок санкционирования расходов</a><a class="codechip" href="/baza-znaniy/kody/">Коды направлений расходования</a><a class="codechip" href="/baza-znaniy/kody-postupleniy/">Коды источников поступлений</a></div></div>
 
-    <div class="note">Смотрите также: <a href="/baza-znaniy/kody-postupleniy/">коды источников поступлений</a> (откуда пришли средства), <a href="/baza-znaniy/tofk/">справочник ТОФК по регионам</a> (где открыть лицевой счёт) и <a href="/baza-znaniy/normativnaya-baza/">нормативная база</a> (законы и приказы по КС).</div>
+    <h2 id="faq">Частые вопросы</h2>
+    <div class="faq"><details><summary>Какой документ регулирует санкционирование платежей при КС?</summary><p>Приказ Минфина № 214н от 17.12.2021 в действующей редакции.</p></details><details><summary>Где взять коды для Сведений?</summary><p>В приложениях к 214н: направления расходования — Прил. 3, источники поступлений — Прил. 2.</p></details><details><summary>Почему казначейство возвращает платёж?</summary><p>Чаще всего — из-за неверного кода, несоответствия Сведениям или неполного комплекта документов; основания — в Порядке 214н.</p></details></div>
 
-    <section class="refs" aria-label="Источники"><h2>Источники</h2><ol>
-      <li id="ref-1">Приказ Минфина России от 17.12.2021 № 214н (ред. от 27.06.2025), Приложение 3 «Направления расходования целевых средств». <a href="https://www.consultant.ru/document/cons_doc_LAW_405138/de4649fe56038006ee16bce420115b7ba6a80da5/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
-      <li id="ref-2">Правило первого разряда кода (6/8/9) — Приказ Минфина России от 21.06.2023 № 97н. <a href="https://www.consultant.ru/document/cons_doc_LAW_405138/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
-    </ol><p class="refs__note">Информация справочная. Приказ 214н регулярно обновляется — сверяйтесь с действующей редакцией; конкретный код согласуйте с вашим ТОФК и условиями контракта.</p></section>
+    <section class="refs" aria-label="Источники"><h2>Источник</h2><ol>
+      <li id="ref-1">Приказ Минфина России от 17.12.2021 № 214н «Об утверждении Порядка осуществления территориальными органами Федерального казначейства санкционирования операций со средствами участников казначейского сопровождения». <a href="https://www.consultant.ru/document/cons_doc_LAW_405138/" target="_blank" rel="noopener">Первоисточник</a></li>
+    </ol><p class="refs__note">Редакция документа актуальна на дату обновления страницы; НПА периодически меняются — сверяйтесь с первоисточником. Материал справочный, не является юридической консультацией.</p></section>
   </article>
-
   <aside class="rail">
-    <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="kody-hub">
+    <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="npa-prikaz-214n">
       <div class="railform__badge">Разбор эксперта</div>
       <h3 class="railform__title">Разберём ваш платёж</h3>
       <p class="railform__sub">Подскажем правильный код направления расходования по вашему контракту и проведём платёж без возвратов.</p>
