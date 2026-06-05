@@ -493,27 +493,25 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
 <div class="v2">
 <style>
-.v2 .team-hero{max-width:760px}
-.v2 .team-grid{display:grid;grid-template-columns:1fr;gap:20px}
-@media(min-width:680px){.v2 .team-grid{grid-template-columns:1fr 1fr}}
-@media(min-width:1000px){.v2 .team-grid--3{grid-template-columns:repeat(3,1fr)}}
-.v2 .team-card{display:flex;flex-direction:column;background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.1));border-radius:18px;overflow:hidden;text-decoration:none;color:inherit;transition:transform .25s cubic-bezier(.2,.8,.3,1),box-shadow .25s,border-color .25s}
-.v2 .team-card:hover{transform:translateY(-5px);box-shadow:0 26px 50px -26px rgba(26,26,26,.32);border-color:rgba(139,111,71,.4)}
-.v2 .team-card__photo{aspect-ratio:4/5;overflow:hidden;background:var(--bg-alt,#EDE9E1)}
-.v2 .team-card__photo img{width:100%;height:100%;object-fit:cover;object-position:center 18%;display:block;transition:transform .4s ease}
-.v2 .team-card:hover .team-card__photo img{transform:scale(1.03)}
-.v2 .team-card__body{padding:20px 22px 22px;display:flex;flex-direction:column;flex:1}
-.v2 .team-card__name{font-family:var(--font-display,'Playfair Display',serif);font-weight:500;font-size:23px;line-height:1.1}
-.v2 .team-card__role{font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--accent,#8B6F47);font-weight:600;margin-top:6px}
-.v2 .team-card__exp{font-size:13px;color:var(--mute,#6E6B66);margin-top:8px}
-.v2 .team-card__bio{font-size:14px;line-height:1.5;color:var(--ink-soft,#3A3A3A);margin:12px 0 16px}
-.v2 .team-card__link{margin-top:auto;font-size:14px;font-weight:500;color:var(--accent,#8B6F47);display:inline-flex;align-items:center;gap:6px;transition:gap .2s}
+.v2 .team-hero{max-width:720px}
+.v2 .team-wrap{max-width:1060px;margin:0 auto}
+.v2 .team-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
+@media(max-width:820px){.v2 .team-grid{grid-template-columns:1fr 1fr;gap:18px}}
+@media(max-width:500px){.v2 .team-grid{grid-template-columns:1fr}}
+.v2 .team-card{display:flex;flex-direction:column;background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.1));border-radius:16px;overflow:hidden;text-decoration:none;color:inherit;transition:transform .25s cubic-bezier(.2,.8,.3,1),box-shadow .25s,border-color .25s}
+.v2 .team-card:hover{transform:translateY(-4px);box-shadow:0 22px 44px -24px rgba(26,26,26,.3);border-color:rgba(139,111,71,.4)}
+.v2 .team-card__photo{position:relative;aspect-ratio:1/1;overflow:hidden;background:var(--bg-alt,#EDE9E1)}
+.v2 .team-card__photo img{width:100%;height:100%;object-fit:cover;object-position:center 12%;display:block;transition:transform .4s ease}
+.v2 .team-card:hover .team-card__photo img{transform:scale(1.04)}
+.v2 .team-card__badge{position:absolute;top:12px;left:12px;z-index:2;font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;font-weight:600;color:#fff;background:var(--accent,#8B6F47);padding:5px 10px;border-radius:20px;box-shadow:0 6px 16px -6px rgba(26,26,26,.5)}
+.v2 .team-card.is-lead{border-color:rgba(139,111,71,.5)}
+.v2 .team-card__body{padding:18px 20px 20px;display:flex;flex-direction:column;flex:1}
+.v2 .team-card__name{font-family:var(--font-display,'Playfair Display',serif);font-weight:500;font-size:21px;line-height:1.12}
+.v2 .team-card__role{font-size:11.5px;letter-spacing:.04em;text-transform:uppercase;color:var(--accent,#8B6F47);font-weight:600;margin-top:5px}
+.v2 .team-card__exp{font-size:12.5px;color:var(--mute,#6E6B66);margin-top:7px}
+.v2 .team-card__bio{font-size:13.5px;line-height:1.45;color:var(--ink-soft,#3A3A3A);margin:10px 0 14px}
+.v2 .team-card__link{margin-top:auto;font-size:13.5px;font-weight:500;color:var(--accent,#8B6F47);display:inline-flex;align-items:center;gap:6px;transition:gap .2s}
 .v2 .team-card:hover .team-card__link{gap:10px}
-.v2 .team-card.is-featured{grid-column:1/-1}
-@media(min-width:680px){.v2 .team-card.is-featured{flex-direction:row}.v2 .team-card.is-featured .team-card__photo{flex:0 0 300px;aspect-ratio:auto}.v2 .team-card.is-featured .team-card__photo img{height:100%}.v2 .team-card.is-featured .team-card__body{justify-content:center}.v2 .team-card.is-featured .team-card__name{font-size:30px}.v2 .team-card.is-featured .team-card__bio{max-width:560px;font-size:15px}}
-.v2 .team-group{margin-top:18px}
-.v2 .team-group__label{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent,#8B6F47);font-weight:600;margin:0 0 16px;display:flex;align-items:center;gap:12px}
-.v2 .team-group__label::after{content:"";flex:1;height:1px;background:var(--hair,rgba(26,26,26,.12))}
 </style>
 <section class="v2-hero">
   <div class="v2-container">
@@ -526,46 +524,35 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 </section>
 
 <section class="v2-section v2-screen">
-  <div class="v2-container">
-    <div class="team-group">
-      <div class="team-group__label">Главный эксперт</div>
-      <div class="team-grid"><a class="team-card is-featured" href="/komanda/mihailov-yaroslav/">
-        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/mihailov-768.webp"><img src="/img/mihailov-768.jpg" loading="lazy" decoding="async" alt="Ярослав Михайлов — Главный эксперт · основатель, КазнаЭксперт"></picture></div>
+  <div class="v2-container"><div class="team-wrap"><div class="team-grid"><a class="team-card is-lead" href="/komanda/mihailov-yaroslav/">
+        <div class="team-card__photo"><span class="team-card__badge">Главный эксперт</span><picture><source type="image/webp" srcset="/img/team/mihailov-sq.webp"><img src="/img/team/mihailov-sq.jpg" loading="lazy" decoding="async" width="460" height="460" alt="Ярослав Михайлов — Главный эксперт · основатель, КазнаЭксперт"></picture></div>
         <div class="team-card__body">
           <div class="team-card__name">Ярослав Михайлов</div>
           <div class="team-card__role">Главный эксперт · основатель</div>
           <div class="team-card__exp">15+ лет · с 2009</div>
-          <p class="team-card__bio">Главный эксперт и основатель КазнаЭксперт. 7000+ контрактов на 90 млрд ₽. Спасение сложных контрактов, ГОЗ, расширенное КС.</p>
+          <p class="team-card__bio">7000+ контрактов на 90 млрд ₽. Спасение сложных контрактов, ГОЗ, расширенное КС.</p>
           <span class="team-card__link">Подробнее <span aria-hidden="true">→</span></span>
         </div>
-      </a></div>
-    </div>
-    <div class="team-group">
-      <div class="team-group__label">Открытие и резерв счетов</div>
-      <div class="team-grid"><a class="team-card" href="/komanda/anton/">
-        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/anton-480.webp"><img src="/img/team/anton-480.jpg" loading="lazy" decoding="async" alt="Антон — Эксперт по открытию счетов, КазнаЭксперт"></picture></div>
+      </a><a class="team-card" href="/komanda/anton/">
+        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/anton-sq.webp"><img src="/img/team/anton-sq.jpg" loading="lazy" decoding="async" width="460" height="460" alt="Антон — Открытие казначейских счетов, КазнаЭксперт"></picture></div>
         <div class="team-card__body">
           <div class="team-card__name">Антон</div>
-          <div class="team-card__role">Эксперт по открытию счетов</div>
+          <div class="team-card__role">Открытие казначейских счетов</div>
           <div class="team-card__exp">10 лет · с 2018</div>
           <p class="team-card__bio">Пакеты документов под тендер и открытие счёта в УФК с первой подачи.</p>
           <span class="team-card__link">Подробнее <span aria-hidden="true">→</span></span>
         </div>
       </a><a class="team-card" href="/komanda/stella/">
-        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/stella-480.webp"><img src="/img/team/stella-480.jpg" loading="lazy" decoding="async" alt="Стелла — Эксперт по резервированию, КазнаЭксперт"></picture></div>
+        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/stella-sq.webp"><img src="/img/team/stella-sq.jpg" loading="lazy" decoding="async" width="460" height="460" alt="Стелла — Резервирование счетов, КазнаЭксперт"></picture></div>
         <div class="team-card__body">
           <div class="team-card__name">Стелла</div>
-          <div class="team-card__role">Эксперт по резервированию</div>
+          <div class="team-card__role">Резервирование счетов</div>
           <div class="team-card__exp">5 лет · с 2020</div>
           <p class="team-card__bio">Резерв счёта к дате тендера, проверка документов до подачи.</p>
           <span class="team-card__link">Подробнее <span aria-hidden="true">→</span></span>
         </div>
-      </a></div>
-    </div>
-    <div class="team-group">
-      <div class="team-group__label">Ведение контрактов · постоплата и аванс</div>
-      <div class="team-grid team-grid--3"><a class="team-card" href="/komanda/natalya/">
-        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/natalya-640.webp"><img src="/img/team/natalya-640.jpg" loading="lazy" decoding="async" alt="Наталья — Ведение · аванс и ГОЗ, КазнаЭксперт"></picture></div>
+      </a><a class="team-card" href="/komanda/natalya/">
+        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/natalya-sq.webp"><img src="/img/team/natalya-sq.jpg" loading="lazy" decoding="async" width="460" height="460" alt="Наталья — Ведение · аванс и ГОЗ, КазнаЭксперт"></picture></div>
         <div class="team-card__body">
           <div class="team-card__name">Наталья</div>
           <div class="team-card__role">Ведение · аванс и ГОЗ</div>
@@ -574,7 +561,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
           <span class="team-card__link">Подробнее <span aria-hidden="true">→</span></span>
         </div>
       </a><a class="team-card" href="/komanda/yuliya/">
-        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/yuliya-640.webp"><img src="/img/team/yuliya-640.jpg" loading="lazy" decoding="async" alt="Юлия — Ведение · постоплата, КазнаЭксперт"></picture></div>
+        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/yuliya-sq.webp"><img src="/img/team/yuliya-sq.jpg" loading="lazy" decoding="async" width="460" height="460" alt="Юлия — Ведение · постоплата, КазнаЭксперт"></picture></div>
         <div class="team-card__body">
           <div class="team-card__name">Юлия</div>
           <div class="team-card__role">Ведение · постоплата</div>
@@ -583,17 +570,15 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
           <span class="team-card__link">Подробнее <span aria-hidden="true">→</span></span>
         </div>
       </a><a class="team-card" href="/komanda/elena/">
-        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/elena-640.webp"><img src="/img/team/elena-640.jpg" loading="lazy" decoding="async" alt="Елена — Ведение · ИТ и стройка, КазнаЭксперт"></picture></div>
+        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/elena-sq.webp"><img src="/img/team/elena-sq.jpg" loading="lazy" decoding="async" width="460" height="460" alt="Елена — Ведение · ИТ и строительство, КазнаЭксперт"></picture></div>
         <div class="team-card__body">
           <div class="team-card__name">Елена</div>
-          <div class="team-card__role">Ведение · ИТ и стройка</div>
+          <div class="team-card__role">Ведение · ИТ и строительство</div>
           <div class="team-card__exp">6 лет · с 2020</div>
           <p class="team-card__bio">Долгосрочные контракты с помесячными платежами, сроки и основания.</p>
           <span class="team-card__link">Подробнее <span aria-hidden="true">→</span></span>
         </div>
-      </a></div>
-    </div>
-  </div>
+      </a></div></div></div>
 </section>
 
 <section class="v2-section v2-screen" id="zayavka">
@@ -628,7 +613,6 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
   </div>
 </section>
-
 <script>
 (function(){var f=document.getElementById('leadFormBottom'); if(!f) return;var msg=document.getElementById('formMsgBottom'), ok=document.getElementById('leadSuccessBottom');function show(t){ if(msg){msg.hidden=false;msg.textContent=t;} }f.addEventListener('submit',function(e){e.preventDefault();if(f.company_extra && f.company_extra.value) return;var name=(f.name.value||'').trim(), phone=(f.phone.value||'').trim();if(name.length<2){show('Введите имя');return;}if(!/\\d[\\s\\d().-]*\\d{3}/.test(phone)||phone.replace(/\\D/g,'').length<10){show('Проверьте телефон');return;}if(!f.consent.checked){show('Подтвердите согласие');return;}var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})}).then(function(r){ if(!r.ok) throw 0; return r; }).then(function(){ [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; }); if(ok) ok.style.display='block'; try{ if(typeof ym==='function') ym(94305898,'reachGoal','lead',{source:f.dataset.source}); }catch(_){ } }).catch(function(){ btn.disabled=false; btn.textContent=orig; show('Не удалось отправить. Попробуйте ещё раз.'); });});})();
 </script>
