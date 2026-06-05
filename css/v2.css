@@ -3406,3 +3406,9 @@
 .content table th,.content table td{overflow-wrap:break-word}
 /* Длинные токены в тексте и заголовках не выходят за пределы экрана на мобильных */
 .content,.content h1,.content h2,.content h3{overflow-wrap:break-word}
+
+/* ── Fix 2026-06-05: поле справа под боковые сноски (.sidenote) резервируем ТОЛЬКО на страницах, где сноски реально есть. ──
+   Иначе при ширине ≥1440px текст статьи неоправданно сужался (≈478px из 678px) из-за пустого padding-right:200px. */
+@media (min-width:1440px){
+  .content:not(:has(.sidenote)){ padding-right:0 !important; }
+}
