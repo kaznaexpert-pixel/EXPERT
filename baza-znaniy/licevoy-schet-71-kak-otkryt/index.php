@@ -709,6 +709,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       </div>
     </div>
 
+    <div class="note">Открываете счёт в своём регионе? Код, адрес и официальный сайт вашего ТОФК — в <a href="/baza-znaniy/tofk/">справочнике казначейств по регионам</a>: эти данные нужны для заявления на открытие счёта.</div>
     <div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>

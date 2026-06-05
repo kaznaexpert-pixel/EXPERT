@@ -552,9 +552,12 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Чем вы можете помочь?</summary><p>Открываем и ведём лицевой счёт в любом ТОФК, готовим документы, проходим санкционирование без возвратов и спасаем проблемные контракты.</p></details>
     </div>
 
+    <div class="note">Смотрите также: <a href="/baza-znaniy/licevoy-schet-71-kak-otkryt/">как открыть лицевой счёт 71 в ТОФК</a> · <a href="/baza-znaniy/kody/">коды направлений расходования</a> · <a href="/baza-znaniy/kody-postupleniy/">коды источников поступлений</a> · <a href="/uslugi/otkrytie-scheta/">открытие счёта под ключ</a> · <a href="/regiony/">сопровождение по регионам</a>.</div>
+
     <section class="refs" aria-label="Источники"><h2>Источники</h2><ol>
       <li id="ref-1">Федеральное казначейство — территориальные органы. <a href="https://roskazna.gov.ru/o-kaznachejstve/territorialnye-organy/" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
-    </ol><p class="refs__note">Адреса и официальные сайты управлений приведены по данным roskazna.gov.ru и могут изменяться. Реквизиты счёта уточняйте на официальном сайте вашего УФК.</p></section>
+      <li id="ref-2">Справочник органов Федерального казначейства (коды КОФК). <a href="https://app.roskazna.ru/roskazna/ofk" target="_blank" rel="noopener">app.roskazna.ru</a></li>
+    </ol><p class="refs__note">Адреса, коды и официальные сайты управлений приведены по данным roskazna.gov.ru и могут изменяться. Реквизиты счёта и код ТОФК уточняйте на официальном сайте вашего УФК.</p></section>
   </article>
   <aside class="rail">
     <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="tofk-hub">
