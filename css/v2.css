@@ -3398,3 +3398,11 @@
   .v2 .v2-foreword-name::after { display: none; }
   .v2 .v2-foreword-sign { gap: 2px 0; }
 }
+
+/* ── База знаний: устойчивость таблиц и типографики (системный фикс 2026-06-05) ── */
+/* Длинные заголовки таблиц переносятся внутри своей колонки, а не наезжают на соседнюю */
+.content table th{white-space:normal}
+/* Длинные коды, номера счетов, ИГК не растягивают/ломают таблицу */
+.content table th,.content table td{overflow-wrap:break-word}
+/* Длинные токены в тексте и заголовках не выходят за пределы экрана на мобильных */
+.content,.content h1,.content h2,.content h3{overflow-wrap:break-word}
