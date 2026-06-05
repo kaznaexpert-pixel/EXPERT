@@ -738,8 +738,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
     <div class="related-inline"><b>По теме</b>
       <a href="/baza-znaniy/licevoy-schet-71-kak-otkryt/">→ Как открыть лицевой счёт 71 в ТОФК</a>
-      <a href="/baza-znaniy/giis-elektronnyy-byudzhet/">→ ГИИС «Электронный бюджет»: подключение и настройка</a>
-      <a href="/baza-znaniy/otdelnyy-schet-goz/">→ Отдельный счёт ГОЗ: режим использования</a>
+      <a href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/">→ Казначейское сопровождение: что это и как работает</a>
     </div>
 
     <h2 id="igk">ИГК: идентификатор государственного контракта</h2>
@@ -762,8 +761,6 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
     <div class="related-inline"><b>По теме</b>
       <a href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/">→ Раздельный учёт по ГОЗ: методика и формы</a>
-      <a href="/baza-znaniy/shtrafy-za-razdelnyy-uchet-2026/">→ Штрафы за нарушение раздельного учёта в 2026 году</a>
-      <a href="/baza-znaniy/vosstanovlenie-razdelnogo-ucheta-pered-proverkoy/">→ Восстановление раздельного учёта перед проверкой</a>
     </div>
 
     <h2 id="rasshirennoe">Расширенное казначейское сопровождение</h2>
@@ -797,7 +794,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
     <div class="related-inline"><b>По теме</b>
       <a href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/">→ 10 причин отказа казначейства в санкционировании</a>
-      <a href="/uslugi/spasenie-kontrakta/">→ Подрядчик не справился? Аудит и спасение контракта</a>
+      <a href="/#contacts">→ Подрядчик не справился? Аудит и спасение контракта</a>
     </div>
 
     <h2 id="keys">Пример из практики</h2>
