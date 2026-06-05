@@ -385,7 +385,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
               <a href="#tariffs">Тарифы</a>
               <a href="#process">Как работаем</a>
               <a href="#cases">Кейсы</a>
-              <a href="#aboutus">Эксперт</a>
+              <a href="/komanda/">Команда</a>
               <a href="#faq">FAQ</a>
               <a href="#contacts">Связаться</a>
             </nav>
@@ -405,7 +405,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
             <a href="#tariffs">Тарифы</a>
             <a href="#process">Как работаем</a>
             <a href="#cases">Кейсы</a>
-            <a href="#aboutus">Эксперт</a>
+            <a href="/komanda/">Команда</a>
             <a href="#faq">FAQ</a>
             <a class="v2-mobile-cta" href="#contacts">Получить расчёт</a>
           </nav>

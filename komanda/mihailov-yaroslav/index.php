@@ -465,7 +465,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
               <a href="/#tariffs">Тарифы</a>
               <a href="/#process">Как работаем</a>
               <a href="/#cases">Кейсы</a>
-              <a href="/#aboutus">Эксперт</a>
+              <a href="/komanda/">Команда</a>
               <a href="/#faq">FAQ</a>
               <a href="/#contacts">Связаться</a>
             </nav>
@@ -485,7 +485,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
             <a href="/#tariffs">Тарифы</a>
             <a href="/#process">Как работаем</a>
             <a href="/#cases">Кейсы</a>
-            <a href="/#aboutus">Эксперт</a>
+            <a href="/komanda/">Команда</a>
             <a href="/#faq">FAQ</a>
             <a class="v2-mobile-cta" href="/#contacts">Получить расчёт</a>
           </nav>

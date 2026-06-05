@@ -4,14 +4,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Спасение госконтракта: блокировки, возвраты, отказы УФК | КазнаЭксперт</title>
-<meta name="description" content="Срочная помощь по проблемному госконтракту: диагностика, снятие блокировок, восстановление учёта, проведение зависших платежей. Аудит 29 000 ₽, восстановление от 99 000 ₽.">
+<title>Елена — эксперт по ведению долгосрочных контрактов (ИТ, стройка) | КазнаЭксперт</title>
+<meta name="description" content="Елена — эксперт КазнаЭксперт по ведению долгосрочных контрактов с помесячными платежами в ИТ и строительстве. 6 лет в Казначействе, в команде с 2020.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#141310" media="(prefers-color-scheme: dark)">
 <!-- PROD: canonical и og:url ОБЯЗАТЕЛЬНО менять под URL каждой статьи -->
-<link rel="canonical" href="https://kaznaexpert.ru/uslugi/spasenie-kontrakta/">
+<link rel="canonical" href="https://kaznaexpert.ru/komanda/elena/">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
@@ -23,16 +23,13 @@
 <!-- Метрика 94305898 грузится из /js/cookie-consent.js (по согласию, единый счётчик сайта) -->
 <!-- ╚════════════════════════════════════════════════════════════════════════════╝ -->
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
-<script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
+<script>window.YM_PARAMS = {page_type:"author", cluster:"komanda"};</script>
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Service","name":"Спасение госконтракта","serviceType":"Срочное восстановление исполнения госконтракта","description":"Срочная помощь по проблемному госконтракту: диагностика причины возвратов и блокировок, восстановление раздельного учёта и документооборота, снятие приостановки операций, проведение зависших платежей и защита перед казначейством до исполнения контракта.","provider":{"@type":"Organization","name":"КазнаЭксперт","url":"https://kaznaexpert.ru","telephone":"+7-981-833-10-10","logo":"https://kaznaexpert.ru/img/logogold.png"},"areaServed":{"@type":"Country","name":"Россия"},"offers":{"@type":"Offer","price":"99000","priceCurrency":"RUB","description":"Восстановление исполнения госконтракта под ключ, после экспресс-аудита","url":"https://kaznaexpert.ru/uslugi/spasenie-kontrakta/"},"url":"https://kaznaexpert.ru/uslugi/spasenie-kontrakta/"}
+{"@context": "https://schema.org", "@type": "ProfilePage", "mainEntity": {"@type": "Person", "name": "Елена", "jobTitle": "Эксперт по ведению · ИТ и строительство", "description": "Елена — эксперт КазнаЭксперт по ведению долгосрочных контрактов с помесячными платежами в ИТ и строительстве. 6 лет в Казначействе, в команде с 2020.", "url": "https://kaznaexpert.ru/komanda/elena/", "image": "https://kaznaexpert.ru/img/team/elena-640.jpg", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10"}, "knowsAbout": ["Долгосрочные контракты", "Помесячные платежи", "Сроки и основания платежа", "ИТ и строительство"], "colleague": {"@type": "Person", "name": "Ярослав Михайлов", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}}}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"Услуги"},{"@type":"ListItem","position":3,"name":"Спасение контракта"}]}
-</script>
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type": "Question", "name": "Насколько срочно вы подключаетесь?", "acceptedAnswer": {"@type": "Answer", "text": "Перезваниваем в течение 15 минут в рабочее время и начинаем диагностику в тот же день. В кризисных контрактах решают часы, поэтому работаем в режиме срочности."}},{"@type": "Question", "name": "Сколько стоит спасение контракта?", "acceptedAnswer": {"@type": "Answer", "text": "Начинаем с экспресс-аудита за 29 000 ₽ — он находит причину и даёт план. Восстановление — от 99 000 ₽ в зависимости от состояния контракта; точную стоимость называем после аудита. Стоимость аудита засчитывается в восстановление."}},{"@type": "Question", "name": "Реально ли спасти контракт, если уже идёт просрочка?", "acceptedAnswer": {"@type": "Answer", "text": "Часто да. Многие ситуации обратимы, если действовать сразу: снимаем блокировки, проводим платежи, помогаем оспорить или снизить неустойку. Чем раньше подключаемся — тем больше вариантов."}},{"@type": "Question", "name": "Что если казначейство отказывает в санкционировании?", "acceptedAnswer": {"@type": "Answer", "text": "Разбираем основания отказа, устраняем причину — будь то документы, коды операций, раздельный учёт или целевое использование — и доводим платёж до проведения."}},{"@type": "Question", "name": "Поможете в споре с казначейством?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Готовим обоснования, ведём переписку и сопровождаем позицию заказчика и контракта, чтобы снять претензии и восстановить операции."}},{"@type": "Question", "name": "Работаете по всей России?", "acceptedAnswer": {"@type": "Answer", "text": "Да, дистанционно по всем регионам РФ. Документооборот ведётся электронно, личное присутствие не требуется."}}]}
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Команда", "item": "https://kaznaexpert.ru/komanda/"}, {"@type": "ListItem", "position": 3, "name": "Елена"}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -66,24 +63,24 @@
 <link rel="preload" href="/css/v2.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/v2.css') ?>" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/css/v2.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/v2.css') ?>"></noscript>
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="profile">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Спасение госконтракта — срочная помощь">
-<meta property="og:description" content="Диагностика, снятие блокировок, восстановление учёта, проведение зависших платежей. Срочно, по всей России.">
-<meta property="og:url" content="https://kaznaexpert.ru/uslugi/spasenie-kontrakta/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:title" content="Елена — Эксперт по ведению · ИТ и строительство">
+<meta property="og:description" content="Елена — эксперт КазнаЭксперт по ведению долгосрочных контрактов с помесячными платежами в ИТ и строительстве. 6 лет в Казначействе, в команде с 2020.">
+<meta property="og:url" content="https://kaznaexpert.ru/komanda/elena/">
+<meta property="og:image" content="https://kaznaexpert.ru/img/team/elena-640.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Спасение госконтракта — срочная помощь — КазнаЭксперт">
+<meta property="og:image:alt" content="Елена — Эксперт по ведению · ИТ и строительство">
 <meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-06-03T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Спасение госконтракта — срочная помощь">
-<meta name="twitter:description" content="Диагностика, снятие блокировок, восстановление учёта, проведение зависших платежей. Срочно, по всей России.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:title" content="Елена — Эксперт по ведению · ИТ и строительство">
+<meta name="twitter:description" content="Елена — эксперт КазнаЭксперт по ведению долгосрочных контрактов с помесячными платежами в ИТ и строительстве. 6 лет в Казначействе, в команде с 2020.">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/team/elena-640.jpg">
 
 <style>
 :root{
@@ -495,31 +492,60 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         </header>
 
 <div class="v2">
-
-<style>@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}</style>
-
+<style>
+@media (min-width:901px){.v2 .v2-process-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}
+.v2 .author-hero{display:grid;grid-template-columns:auto 1fr;gap:40px;align-items:center}
+.v2 .author-hero__photo{width:190px;flex-shrink:0;border-radius:20px;overflow:hidden;box-shadow:0 24px 60px -24px rgba(26,26,26,.55);align-self:start;background:var(--paper,#FBF9F4)}
+.v2 .author-hero__photo img{width:100%;height:auto;display:block;aspect-ratio:4/5;object-fit:cover}
+.v2 .author-hero__sub{font-size:13px;letter-spacing:.04em;color:var(--accent,#8B6F47);text-transform:uppercase;font-weight:600;margin-top:14px}
+.v2 .author-hero__meta{display:flex;gap:20px;flex-wrap:wrap;margin-top:16px;font-size:14px;color:var(--mute,#6E6B66)}
+.v2 .author-hero__meta a{color:var(--accent,#8B6F47)}
+@media(max-width:680px){.v2 .author-hero{grid-template-columns:1fr;text-align:center;gap:24px;justify-items:center}.v2 .author-hero__photo{width:170px}.v2 .author-hero__meta{justify-content:center}}
+.v2 .expert-focus{display:grid;grid-template-columns:1fr;gap:12px 28px;margin:6px 0 0}
+@media(min-width:760px){.v2 .expert-focus{grid-template-columns:1fr 1fr}}
+.v2 .expert-focus li{list-style:none;position:relative;padding-left:30px;font-size:15.5px;line-height:1.45;color:var(--ink-soft,#3A3A3A)}
+.v2 .expert-focus li::before{content:"";position:absolute;left:0;top:3px;width:18px;height:18px;border-radius:50%;background:rgba(139,111,71,.14)}
+.v2 .expert-focus li::after{content:"";position:absolute;left:6px;top:7px;width:5px;height:9px;border:solid var(--accent,#8B6F47);border-width:0 2px 2px 0;transform:rotate(45deg)}
+.v2 .author-services{display:grid;grid-template-columns:1fr;gap:16px}
+@media(min-width:760px){.v2 .author-services{grid-template-columns:1fr 1fr}}
+.v2 .author-service{display:flex;flex-direction:column;background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.10));border-radius:16px;padding:26px 28px;text-decoration:none;color:inherit;transition:transform .25s cubic-bezier(.2,.8,.3,1),box-shadow .25s,border-color .25s}
+.v2 .author-service:hover{transform:translateY(-4px);box-shadow:0 22px 44px -24px rgba(26,26,26,.28);border-color:rgba(139,111,71,.4)}
+.v2 .author-service__stage{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--mute,#6E6B66);font-weight:600}
+.v2 .author-service__title{font-family:var(--font-display,'Playfair Display',serif);font-weight:500;font-size:20px;line-height:1.2;margin:8px 0 8px}
+.v2 .author-service__desc{font-size:14px;line-height:1.5;color:var(--ink-soft,#3A3A3A);margin:0 0 18px}
+.v2 .author-service__link{margin-top:auto;font-size:14px;font-weight:500;color:var(--accent,#8B6F47);display:inline-flex;align-items:center;gap:6px;transition:gap .2s}
+.v2 .author-service:hover .author-service__link{gap:10px}
+.v2 .team-back{display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;background:linear-gradient(135deg,var(--paper,#FBF9F4),var(--bg-alt,#EDE9E1));border:1px solid var(--hair,rgba(26,26,26,.1));border-radius:16px;padding:22px 28px}
+.v2 .team-back p{margin:0;font-size:15px;color:var(--ink-soft,#3A3A3A)}
+.v2 .team-back b{font-family:var(--font-display,'Playfair Display',serif);font-weight:500;color:var(--ink,#1A1A1A)}
+.v2 .team-back a{flex-shrink:0;font-weight:500;color:var(--accent,#8B6F47);display:inline-flex;gap:6px;align-items:center}
+</style>
 <section class="v2-hero">
   <div class="v2-container">
     <div class="v2-hero-grid">
       <div class="v2-hero-main">
-        <div class="v2-hero-eyebrow-row">
-          <span class="v2-eyebrow">Срочная помощь · 44-ФЗ · 223-ФЗ · ГОЗ</span>
-          <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
+        <div class="v2-hero-eyebrow-row"><span class="v2-eyebrow">Команда · Ведение контрактов</span><span class="v2-hero-eyebrow-dash" aria-hidden="true"></span></div>
+        <div class="author-hero">
+          <div class="author-hero__photo">
+            <picture>
+              <source type="image/webp" srcset="/img/team/elena-640.webp">
+              <img src="/img/team/elena-640.jpg" width="640" height="800" decoding="async" alt="Елена — Эксперт по ведению · ИТ и строительство, КазнаЭксперт">
+            </picture>
+          </div>
+          <div>
+            <h1>Елена</h1>
+            <div class="author-hero__sub">Эксперт по ведению · ИТ и строительство</div>
+            <p class="v2-hero-lede" style="margin-top:14px">Ведёт долгосрочные контракты с помесячными платежами. Особое внимание — срокам и корректности оснований платежа.</p>
+            <div class="author-hero__meta"><span>В команде КазнаЭксперт с 2020 года</span></div>
+          </div>
         </div>
-        <h1>Спасение госконтракта<br><em>когда всё пошло не так</em></h1>
-        <p class="v2-hero-lede"><strong>Платежи возвращаются, операции заблокированы, казначейство отказывает, срок горит.</strong> Подключаемся срочно: находим причину, восстанавливаем учёт и документооборот, снимаем блокировки и доводим контракт до исполнения. Чем раньше — тем больше шансов.</p>
-        <div class="v2-hero-trust"><div class="v2-trust-item"><div class="v2-trust-num">срочно<span class="v2-trust-suffix"></span></div><div class="v2-trust-label">подключаемся</div></div><div class="v2-trust-item"><div class="v2-trust-num">7 000<span class="v2-trust-suffix">+</span></div><div class="v2-trust-label">контрактов</div></div><div class="v2-trust-item"><div class="v2-trust-num">90<span class="v2-trust-suffix">&nbsp;млрд&nbsp;₽</span></div><div class="v2-trust-label">проведено</div></div><div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div></div>
-        <div class="v2-hero-expert">
-          <div class="v2-expert-name">Михайлов Ярослав</div>
-          <div class="v2-expert-role">Эксперт · 15 лет в Казначействе</div>
-          <p class="v2-expert-quote">«В кризисных контрактах решают часы. Первое, что мы делаем, — находим точную причину блокировки, а не лечим симптомы. Большинство ситуаций обратимы, если действовать сразу».</p>
-        </div>
+        <div class="v2-hero-trust" style="margin-top:28px"><div class="v2-trust-item"><div class="v2-trust-num">6<span class="v2-trust-suffix">&nbsp;лет</span></div><div class="v2-trust-label">в Казначействе</div></div><div class="v2-trust-item"><div class="v2-trust-num">с 2020<span class="v2-trust-suffix"></span></div><div class="v2-trust-label">в команде</div></div></div>
       </div>
       <aside class="v2-hero-action">
         <div class="v2-hero-action-eyebrow">Бесплатный анализ контракта</div>
-        <h2>Разберём вашу ситуацию срочно</h2>
-        <p class="v2-hero-action-sub">Опишите проблему — эксперт перезвонит за 15 минут, оценит риск и предложит план спасения контракта. NDA — до разбора документов.</p>
-        <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="spasenie-kontrakta">
+        <h2>Спросить эксперта</h2>
+        <p class="v2-hero-action-sub">Оставьте контакты — эксперт или его команда перезвонят за 15 минут, разберут ваш контракт и назовут точную стоимость. NDA — до анализа документов.</p>
+        <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="expert-elena">
           <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
           <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
           <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
@@ -530,7 +556,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
           <div class="success" id="leadSuccess" role="status" aria-live="polite">
             <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
             <h3>Заявка принята</h3>
-            <p>Эксперт перезвонит <b>в течение 15 минут</b> (9:00–21:00 МСК) и разберёт ваш контракт.</p>
+            <p>Перезвоним <b>в течение 15 минут</b> (9:00–21:00 МСК) и разберём ваш контракт.</p>
             <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
           </div>
         </form>
@@ -539,131 +565,34 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
   </div>
 </section>
-
-<section class="v2-section v2-screen" id="komu">
+<section class="v2-section v2-screen" id="chem">
   <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Для кого</div>
-      <h2 class="v2-section-title">Когда нужно <em>спасение контракта</em></h2>
-      <p class="v2-section-lede">Четыре сигнала, при которых медлить нельзя — каждый день увеличивает риск потерять контракт.</p>
-    </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Платежи возвращаются</h3><p class="v2-process-desc">Казначейство раз за разом возвращает платёж. Срок исполнения идёт, а деньги не проходят. Находим причину и проводим.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Операции заблокированы</h3><p class="v2-process-desc">Счёт или операции приостановлены банком либо казначейством. Снимаем блокировку и восстанавливаем движение средств.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Отказ в санкционировании</h3><p class="v2-process-desc">Казначейство отказывает в санкционировании платежей. Разбираем основания отказа и устраняем их.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Запутанный учёт</h3><p class="v2-process-desc">Раздельный учёт и документооборот по контракту в хаосе, надвигается проверка. Восстанавливаем и приводим в порядок.</p></article></div>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Чем занимается</div><h2 class="v2-section-title">Зона <em>ответственности</em></h2><p class="v2-section-lede">Ведёт долгосрочные контракты с помесячными платежами. Особое внимание уделяет срокам и корректности оснований платежа. Профиль — ИТ и строительство, где контракты длинные, а цена ошибки в сроках высокая.</p></div>
+    <ul class="expert-focus"><li>Долгосрочные контракты</li><li>Помесячные платежи</li><li>Сроки и основания платежа</li><li>ИТ и строительство</li></ul>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="pod-kluch">
+<section class="v2-section v2-screen" id="uslugi">
   <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Что входит</div>
-      <h2 class="v2-section-title">Как мы <em>спасаем контракт</em></h2>
-      <p class="v2-section-lede">От диагностики до восстановления исполнения. Берём кризис на себя.</p>
-    </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Экспресс-диагностика</h3><p class="v2-process-desc">Срочно разбираем ситуацию: находим точную причину возвратов, блокировок и отказов казначейства.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>План спасения</h3><p class="v2-process-desc">Готовим пошаговый план с приоритетами и сроками — что и в каком порядке устраняем.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Восстановление учёта</h3><p class="v2-process-desc">Приводим в порядок раздельный учёт и документооборот по контракту — под требования казначейства.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Снятие блокировок</h3><p class="v2-process-desc">Готовим обоснования и взаимодействуем с УФК и банком, чтобы снять приостановку операций.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Проведение платежей</h3><p class="v2-process-desc">Доводим зависшие платежи до санкционирования и зачисления — без новых возвратов.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Защита и сопровождение</h3><p class="v2-process-desc">Помогаем в споре с казначейством и ведём контракт до исполнения, чтобы ситуация не повторилась.</p></article></div>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Услуги</div><h2 class="v2-section-title">С чем <em>помогает</em></h2><p class="v2-section-lede">Направления, которые ведёт Елена. Условия и цены — на страницах услуг.</p></div>
+    <div class="author-services"><a class="author-service" href="/uslugi/soprovozhdenie-postoplata/"><span class="author-service__stage">Ведение</span><h3 class="author-service__title">Сопровождение постоплаты</h3><p class="author-service__desc">Проведение платежей по актам и УПД без возвратов — до зачисления средств.</p><span class="author-service__link">Подробнее об услуге <span aria-hidden="true">→</span></span></a><a class="author-service" href="/uslugi/soprovozhdenie-avans/"><span class="author-service__stage">Ведение</span><h3 class="author-service__title">Сопровождение с авансом</h3><p class="author-service__desc">Контроль целевого использования, санкционирование, цепочка кооперации — безлимит операций.</p><span class="author-service__link">Подробнее об услуге <span aria-hidden="true">→</span></span></a></div>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="ot-vas">
+<section class="v2-section v2-screen" id="komanda">
   <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Что от вас</div>
-      <h2 class="v2-section-title">Что потребуется <em>от вас</em></h2>
-      <p class="v2-section-lede">Чем быстрее передадите документы — тем быстрее начнём. Остальное берём на себя.</p>
+    <div class="team-back">
+      <p>За каждым клиентом — закреплённый эксперт, а на подстраховке вся команда. <b>Один в отпуске — подхватит коллега из той же группы.</b></p>
+      <a href="/komanda/">Вся команда <span aria-hidden="true">→</span></a>
     </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Госконтракт</h3><p class="v2-process-desc">Текст и реквизиты контракта — для анализа условий и требований.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Уведомления УФК</h3><p class="v2-process-desc">Отказы, возвраты, требования казначейства — для поиска причины.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Документы по операциям</h3><p class="v2-process-desc">Платёжки, акты, сведения — что уже подавалось по контракту.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Контакт для связи</h3><p class="v2-process-desc">Ответственный по контракту — работаем в режиме срочности.</p></article></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="process">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Процесс</div>
-      <h2 class="v2-section-title">От диагностики до <em>спасённого контракта</em></h2>
-      <p class="v2-section-lede">Срочный режим: разбираемся, восстанавливаем, доводим до исполнения.</p>
-    </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">Сегодня · 15 минут</div><h3>Срочная диагностика</h3><p class="v2-process-desc">Перезваниваем за 15 минут, разбираем ситуацию, находим причину и оцениваем риск.</p><ul class="v2-process-checks"><li>Причина найдена</li><li>Риск оценён</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">1–3 дня</div><h3>Восстановление</h3><p class="v2-process-desc">Приводим в порядок учёт и документы, снимаем блокировки, готовим платежи к проведению.</p><ul class="v2-process-checks"><li>Учёт восстановлен</li><li>Блокировки сняты</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">До исполнения</div><h3>Контракт спасён</h3><p class="v2-process-desc">Проводим зависшие платежи, защищаем позицию перед казначейством, ведём контракт до закрытия.</p><ul class="v2-process-checks"><li>Платежи прошли</li><li>Контракт исполняется</li></ul></article></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="riski">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Цена ошибки</div>
-      <h2 class="v2-section-title">Что будет, <em>если тянуть</em></h2>
-      <p class="v2-section-lede">Кризисный контракт без вмешательства быстро доходит до точки невозврата.</p>
-    </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Срыв срока контракта</h3><p class="v2-process-desc">Пока платежи не проходят, срок исполнения идёт. Просрочка — это пени и риск расторжения контракта.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Неустойка и претензии</h3><p class="v2-process-desc">Заказчик вправе начислить неустойку за просрочку и предъявить претензии по исполнению.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Реестр недобросовестных</h3><p class="v2-process-desc">Расторжение по вине поставщика грозит включением в РНП — это закрытая дорога к новым тендерам.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Зависшие деньги</h3><p class="v2-process-desc">Аванс и расчёты с соисполнителями застревают, цепочка кооперации рушится.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Налоговые риски</h3><p class="v2-process-desc">Развалившийся раздельный учёт оборачивается претензиями при проверке.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Точка невозврата</h3><p class="v2-process-desc">Часть ситуаций обратима только на ранней стадии. Чем дольше пауза — тем меньше вариантов.</p></article></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="compare">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Сравнение</div>
-      <h2 class="v2-section-title">Бездействие, юрист общего профиля или <em>с нами</em></h2>
-      <p class="v2-section-lede">Шесть критериев, по которым выбирают, кому доверить спасение контракта.</p>
-    </div>
-    <div class="v2-compare">
-      <div class="v2-compare-head">
-        <div class="v2-compare-head-cell">Параметр</div>
-        <div class="v2-compare-head-cell">Самостоятельно</div>
-        <div class="v2-compare-head-cell">Штатный спец</div>
-        <div class="v2-compare-head-cell is-us">С КазнаЭксперт</div>
-      </div>
-      <div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Скорость подключения</div><div class="v2-compare-cell" data-label="Самостоятельно">Теряете дни</div><div class="v2-compare-cell" data-label="Штатный спец">Зависит от загрузки</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Срочно, в тот же день</strong></div></div><div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Поиск причины</div><div class="v2-compare-cell" data-label="Самостоятельно">Метод проб и ошибок</div><div class="v2-compare-cell" data-label="Штатный спец">Общий анализ</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Точная диагностика</strong></div></div><div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Знание казначейской механики</div><div class="v2-compare-cell" data-label="Самостоятельно">Нет</div><div class="v2-compare-cell" data-label="Штатный спец">Поверхностное</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>15+ лет практики</strong></div></div><div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Снятие блокировок</div><div class="v2-compare-cell" data-label="Самостоятельно">Самостоятельно</div><div class="v2-compare-cell" data-label="Штатный спец">Через переписку</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Готовим обоснование и проводим</strong></div></div><div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Восстановление учёта</div><div class="v2-compare-cell" data-label="Самостоятельно">Своими силами</div><div class="v2-compare-cell" data-label="Штатный спец">Не профиль</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Под требования УФК</strong></div></div><div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Результат</div><div class="v2-compare-cell" data-label="Самостоятельно">Риск потерять контракт</div><div class="v2-compare-cell" data-label="Штатный спец">Не гарантирован</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Контракт доведён до исполнения</strong></div></div>
-    </div>
-    <div class="v2-compare-cta"><a href="#zayavka">Обсудить ваш контракт <span aria-hidden="true">→</span></a></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="tarif">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Стоимость</div>
-      <h2 class="v2-section-title">Спасение контракта — <em>прозрачная цена</em></h2>
-      <p class="v2-section-lede">Начинаем с аудита. Стоимость восстановления зависит от состояния контракта и оговаривается после диагностики.</p>
-    </div>
-    <div class="v2-tariffs-grid lp-3col"><article class="v2-tariff is-featured">
-        <div class="v2-tariff-no">02</div>
-        <div class="v2-tariff-stage">Полное спасение</div>
-        <h3>Восстановление под ключ</h3>
-        <p class="v2-tariff-desc">Восстановление учёта и документооборота, снятие блокировок, проведение зависших платежей и защита перед казначейством до исполнения контракта.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 99 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По состоянию контракта · после аудита</div><a href="#zayavka" class="v2-tariff-link">Спасти контракт <span aria-hidden="true">→</span></a></div>
-      </article><article class="v2-tariff">
-        <div class="v2-tariff-no">01</div>
-        <div class="v2-tariff-stage">Старт</div>
-        <h3>Экспресс-аудит ситуации</h3>
-        <p class="v2-tariff-desc">Срочная диагностика: находим причину возвратов и блокировок, оцениваем риск и даём план спасения. Зачёт в восстановление.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">29 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Срочно · зачёт в восстановление</div><a href="#zayavka" class="v2-tariff-link">Заказать аудит <span aria-hidden="true">→</span></a></div>
-      </article><article class="v2-tariff">
-        <div class="v2-tariff-no">03</div>
-        <div class="v2-tariff-stage">Чтобы не повторилось</div>
-        <h3>Сопровождение контракта</h3>
-        <p class="v2-tariff-desc">После спасения берём контракт на сопровождение — безлимит операций, контроль до закрытия.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">79 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Чтобы не повторилось</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
-      </article></div>
-    <p class="v2-tariffs-footnote">Точная стоимость — после бесплатного анализа вашего контракта.</p>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="faq">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Вопросы</div>
-      <h2 class="v2-section-title">Отвечаем <em>прямо</em></h2>
-    </div>
-    <div class="faq"><details open><summary>Насколько срочно вы подключаетесь?</summary><p>Перезваниваем в течение 15 минут в рабочее время и начинаем диагностику в тот же день. В кризисных контрактах решают часы, поэтому работаем в режиме срочности.</p></details><details><summary>Сколько стоит спасение контракта?</summary><p>Начинаем с экспресс-аудита за 29 000 ₽ — он находит причину и даёт план. Восстановление — от 99 000 ₽ в зависимости от состояния контракта; точную стоимость называем после аудита. Стоимость аудита засчитывается в восстановление.</p></details><details><summary>Реально ли спасти контракт, если уже идёт просрочка?</summary><p>Часто да. Многие ситуации обратимы, если действовать сразу: снимаем блокировки, проводим платежи, помогаем оспорить или снизить неустойку. Чем раньше подключаемся — тем больше вариантов.</p></details><details><summary>Что если казначейство отказывает в санкционировании?</summary><p>Разбираем основания отказа, устраняем причину — будь то документы, коды операций, раздельный учёт или целевое использование — и доводим платёж до проведения.</p></details><details><summary>Поможете в споре с казначейством?</summary><p>Да. Готовим обоснования, ведём переписку и сопровождаем позицию заказчика и контракта, чтобы снять претензии и восстановить операции.</p></details><details><summary>Работаете по всей России?</summary><p>Да, дистанционно по всем регионам РФ. Документооборот ведётся электронно, личное присутствие не требуется.</p></details></div>
   </div>
 </section>
 
 <section class="v2-section v2-screen" id="zayavka">
   <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Заявка</div>
-      <h2 class="v2-section-title">Разберём вашу ситуацию срочно</h2>
-      <p class="v2-section-lede">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт ваш контракт и назовёт точную стоимость.</p>
-    </div>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Заявка</div><h2 class="v2-section-title">Обсудить ваш контракт <em>с экспертом</em></h2><p class="v2-section-lede">Оставьте контакты — перезвоним за 15 минут, разберём ситуацию и назовём точную стоимость.</p></div>
     <div style="max-width:520px;margin:0 auto">
-      <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="spasenie-kontrakta-cta">
+      <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="expert-elena-cta">
         <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
         <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
         <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
@@ -673,14 +602,12 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
         <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
           <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
-          <h3>Заявка принята</h3>
-          <p>Эксперт перезвонит <b>в течение 15 минут</b> (9:00–21:00 МСК).</p>
+          <h3>Заявка принята</h3><p>Перезвоним <b>в течение 15 минут</b> (9:00–21:00 МСК).</p>
         </div>
       </form>
     </div>
   </div>
 </section>
-
 </div>
 
 <section class="trust" aria-label="Проверка в реестрах">
@@ -709,11 +636,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';
     fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})})
       .then(function(r){ if(!r.ok) throw 0; return r; })
-      .then(function(){
-        [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; });
-        if(ok) ok.style.display='block';
-        try{ if(typeof ym==='function') ym(94305898,'reachGoal','lead',{source:f.dataset.source}); }catch(_){}
-      })
+      .then(function(){ [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; }); if(ok) ok.style.display='block'; try{ if(typeof ym==='function') ym(94305898,'reachGoal','lead',{source:f.dataset.source}); }catch(_){ } })
       .catch(function(){ btn.disabled=false; btn.textContent=orig; show('Не удалось отправить. Попробуйте ещё раз.'); });
   });
 })();
