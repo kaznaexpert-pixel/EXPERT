@@ -778,6 +778,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
     <div class="related-inline"><b>По теме</b>
       <a href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/">→ Раздельный учёт по ГОЗ: методика и формы</a>
+      <a href="/baza-znaniy/peni-i-shtrafy-po-44-fz/">→ Пени и штрафы по 44-ФЗ: расчёт неустойки и калькулятор</a>
     </div>
 
     <h2 id="rasshirennoe">Расширенное казначейское сопровождение</h2>

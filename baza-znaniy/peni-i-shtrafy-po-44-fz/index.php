@@ -4,14 +4,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Открытие казначейского счёта за 2 дня под ключ | КазнаЭксперт</title>
-<meta name="description" content="Откроем казначейский счёт в УФК за два рабочих дня под ключ: документы, сводный реестр, настройка «Электронного бюджета». Фикс 39 000 ₽, гарантия в договоре. По всей России.">
+<title>Пени и штрафы по 44-ФЗ: калькулятор расчёта неустойки 2026 | КазнаЭксперт</title>
+<meta name="description" content="Как рассчитать пени и штрафы по 44-ФЗ в 2026: формула 1/300 ключевой ставки, таблица штрафов ПП № 1042, онлайн-калькулятор и как снизить неустойку.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#141310" media="(prefers-color-scheme: dark)">
 <!-- PROD: canonical и og:url ОБЯЗАТЕЛЬНО менять под URL каждой статьи -->
-<link rel="canonical" href="https://kaznaexpert.ru/uslugi/otkrytie-scheta/">
+<link rel="canonical" href="https://kaznaexpert.ru/baza-znaniy/peni-i-shtrafy-po-44-fz/">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
@@ -23,21 +23,34 @@
 <!-- Метрика 94305898 грузится из /js/cookie-consent.js (по согласию, единый счётчик сайта) -->
 <!-- ╚════════════════════════════════════════════════════════════════════════════╝ -->
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
-<script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
+<script>window.YM_PARAMS = {page_type:"article", cluster:"peni"};</script>
+
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Service","name":"Открытие казначейского счёта под ключ","serviceType":"Открытие лицевого счёта в Федеральном казначействе (УФК)","description":"Открытие казначейского счёта за два рабочих дня: анализ контракта, пакет документов, включение в сводный реестр, открытие счёта в УФК и настройка «Электронного бюджета». Без возвратов, гарантия в договоре.","provider":{"@type":"Organization","name":"КазнаЭксперт","url":"https://kaznaexpert.ru","telephone":"+7-981-833-10-10","logo":"https://kaznaexpert.ru/img/logogold.png"},"areaServed":{"@type":"Country","name":"Россия"},"offers":{"@type":"Offer","price":"39000","priceCurrency":"RUB","description":"Открытие казначейского счёта под ключ, разово","url":"https://kaznaexpert.ru/uslugi/otkrytie-scheta/"},"url":"https://kaznaexpert.ru/uslugi/otkrytie-scheta/"}
+{"@context":"https://schema.org","@type":"Article","headline":"Пени и штрафы по 44-ФЗ: как считается неустойка за просрочку","description":"Как рассчитать пени и штрафы по 44-ФЗ: формула 1/300 ключевой ставки (ч. 7 ст. 34), база начисления, таблица штрафов по ПП № 1042, калькулятор и способы снизить неустойку.","datePublished":"2026-06-05T09:00:00+03:00","dateModified":"2026-06-05T09:00:00+03:00","inLanguage":"ru-RU","author":{"@type":"Person","name":"Ярослав Михайлов","jobTitle":"Главный эксперт","url":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/"},"publisher":{"@type":"Organization","name":"КазнаЭксперт","logo":{"@type":"ImageObject","url":"https://kaznaexpert.ru/img/logogold.png"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://kaznaexpert.ru/baza-znaniy/peni-i-shtrafy-po-44-fz/"},"image":"https://kaznaexpert.ru/img/og-image.png"}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"Услуги"},{"@type":"ListItem","position":3,"name":"Открытие казначейского счёта"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Пени и штрафы по 44-ФЗ"}]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"HowTo","name":"Как рассчитать пени по 44-ФЗ","description":"Расчёт пеней за просрочку исполнения контракта по ч. 7 ст. 34 № 44-ФЗ.","step":[
+{"@type":"HowToStep","position":1,"name":"Определить базу","text":"Из цены контракта (или этапа) вычтите стоимость фактически исполненных и принятых заказчиком обязательств."},
+{"@type":"HowToStep","position":2,"name":"Взять ключевую ставку","text":"Используйте ключевую ставку ЦБ, действующую на дату уплаты пеней. На июнь 2026 — 14,5% годовых."},
+{"@type":"HowToStep","position":3,"name":"Посчитать пеню за день","text":"Умножьте базу на ключевую ставку в долях и разделите на 300."},
+{"@type":"HowToStep","position":4,"name":"Умножить на дни","text":"Умножьте дневную пеню на количество дней просрочки. Итог не может превышать цену контракта."}
+]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-{"@type":"Question","name":"За сколько откроете казначейский счёт?","acceptedAnswer":{"@type":"Answer","text":"За два рабочих дня с момента получения документов при стандартных требованиях. Срок открытия фиксируем в договоре."}},
-{"@type":"Question","name":"Что потребуется от меня?","acceptedAnswer":{"@type":"Answer","text":"Госконтракт, ИНН и ОГРН организации, СНИЛС руководителя и контакт для связи. Пересылка занимает 5 минут — остальное делаем мы."}},
-{"@type":"Question","name":"Что если казначейство вернёт документы?","acceptedAnswer":{"@type":"Answer","text":"Устраняем замечания казначейства без доплат — это входит в услугу. Цель — открыть счёт с первой подачи."}},
-{"@type":"Question","name":"Сколько стоит открытие счёта?","acceptedAnswer":{"@type":"Answer","text":"39 000 ₽ разово. Это фиксированная цена под ключ, прописанная в договоре, без «от» и скрытых доплат."}},
-{"@type":"Question","name":"Работаете по всей России?","acceptedAnswer":{"@type":"Answer","text":"Да. Работаем удалённо со всеми регионами РФ — весь документооборот ведётся электронно через «Электронный бюджет»."}},
-{"@type":"Question","name":"Какие гарантии?","acceptedAnswer":{"@type":"Answer","text":"Гарантия результата прописана в договоре. Сопровождаем до открытия счёта и первой операции."}}
+{"@type":"Question","name":"Как считаются пени по 44-ФЗ?","acceptedAnswer":{"@type":"Answer","text":"За каждый день просрочки: цену контракта уменьшают на стоимость уже принятых обязательств, умножают на ключевую ставку ЦБ, делят на 300 и умножают на число дней просрочки (ч. 7 ст. 34 № 44-ФЗ)."}},
+{"@type":"Question","name":"Чему равна ключевая ставка для расчёта?","acceptedAnswer":{"@type":"Answer","text":"Берётся ключевая ставка ЦБ, действующая на дату уплаты пеней. На 24 апреля 2026 года она составляет 14,5% годовых; перед расчётом проверьте актуальное значение на сайте Банка России."}},
+{"@type":"Question","name":"Пени считаются от всей цены контракта?","acceptedAnswer":{"@type":"Answer","text":"Нет. База уменьшается пропорционально объёму фактически исполненных и принятых заказчиком обязательств. Если ничего не принято — база равна полной цене контракта или цене этапа."}},
+{"@type":"Question","name":"Чем штраф отличается от пеней?","acceptedAnswer":{"@type":"Answer","text":"Пени — за просрочку, растут с каждым днём. Штраф — фиксированная сумма за иное нарушение, начисляется один раз за факт. За одно нарушение нельзя взять и то, и другое."}},
+{"@type":"Question","name":"Сколько составляет штраф по ПП № 1042?","acceptedAnswer":{"@type":"Answer","text":"Для поставщика — от 10% цены контракта (до 3 млн ₽) до 0,1% (свыше 10 млрд ₽). Для контрактов с СМП — 1%, но в пределах 1 000–5 000 ₽."}},
+{"@type":"Question","name":"Может ли заказчик платить пени поставщику?","acceptedAnswer":{"@type":"Answer","text":"Да. При просрочке оплаты заказчик платит пени по ч. 5 ст. 34 — 1/300 ключевой ставки от не уплаченной в срок суммы за каждый день просрочки."}},
+{"@type":"Question","name":"Есть ли предел у неустойки?","acceptedAnswer":{"@type":"Answer","text":"Общая сумма штрафов не может превышать цену контракта (п. 11 Правил, утв. ПП № 1042). Пени отдельным потолком не ограничены, но могут быть снижены судом."}},
+{"@type":"Question","name":"Можно ли уменьшить неустойку?","acceptedAnswer":{"@type":"Answer","text":"Да. По ст. 333 ГК РФ суд снижает несоразмерную неустойку; по ч. 9 ст. 34 поставщик освобождается от ответственности, если просрочка вызвана непреодолимой силой или виной заказчика."}},
+{"@type":"Question","name":"Что делать, если в просрочке виноват заказчик?","acceptedAnswer":{"@type":"Answer","text":"Зафиксировать факт письменно, сослаться на ч. 9 ст. 34 и потребовать снятия начисления. Документально подтверждённая вина заказчика освобождает от пеней."}},
+{"@type":"Question","name":"Просрочка с открытием казначейского счёта грозит пенями?","acceptedAnswer":{"@type":"Answer","text":"Косвенно — да. Пока счёт не открыт, расчёты по контракту невозможны, а срок исполнения идёт. Чтобы не терять дни, счёт открывают сразу после заключения контракта."}}
 ]}
 </script>
 
@@ -75,27 +88,22 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Открытие казначейского счёта за 2 рабочих дня — под ключ">
-<meta property="og:description" content="Документы, сводный реестр, открытие счёта в УФК и настройка Электронного бюджета. Без возвратов, гарантия в договоре.">
-<meta property="og:url" content="https://kaznaexpert.ru/uslugi/otkrytie-scheta/">
+<meta property="og:title" content="Пени и штрафы по 44-ФЗ: как считается неустойка за просрочку">
+<meta property="og:description" content="Формула пеней 1/300 ставки (ч. 7 ст. 34), база начисления, таблица штрафов ПП № 1042, калькулятор и способы снизить неустойку.">
+<meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/peni-i-shtrafy-po-44-fz/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
-<meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-03T09:00:00+03:00">
+<meta property="og:image:alt" content="Пени и штрафы по 44-ФЗ — КазнаЭксперт">
+<meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Казначейское сопровождение ГОЗ в 2026 году: разбор по 275-ФЗ">
-<meta name="twitter:description" content="Кто обязан, порог 3 млн ₽, счёт, раздельный учёт, штрафы. Со ссылками на НПА.">
+<meta name="twitter:title" content="Пени и штрафы по 44-ФЗ: расчёт неустойки + калькулятор">
+<meta name="twitter:description" content="Формула 1/300 ставки, штрафы ПП № 1042, онлайн-калькулятор. Со ссылками на НПА.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
-<!-- Schema: Article -->
-<!-- Schema: HowTo -->
-<!-- Schema: FAQPage -->
-<!-- Schema: BreadcrumbList -->
-<!-- Schema: DefinedTermSet (глоссарий — для entity-распознавания AI) -->
 <style>
 :root{
   --cream:#F4F1EB; --bg:#F4F1EB; --ink:#1A1A1A; --ink-soft:#56524b; --ink-mute:#8a8170;
@@ -505,245 +513,319 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
           </nav>
         </header>
 
-<div class="v2">
-<style>@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}</style>
-<section class="v2-hero">
-  <div class="v2-container">
-    <div class="v2-hero-grid">
-      <div class="v2-hero-main">
-        <div class="v2-hero-eyebrow-row">
-          <span class="v2-eyebrow">Услуга · 44-ФЗ · 223-ФЗ · ГОЗ</span>
-          <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
+<div class="layout">
+  <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/baza-znaniy/">База знаний</a> › Пени и штрафы по 44-ФЗ</nav>
+
+  <aside class="toc" aria-label="Содержание">
+    <div class="toc__label">Содержание</div>
+    <ul class="toc__list" id="tocList">
+      <li><a href="#kalkulyator">Калькулятор пеней</a></li>
+      <li><a href="#chto-takoe">Неустойка: пени и штраф</a></li>
+      <li><a href="#peni">Пени за просрочку: формула</a></li>
+      <li><a href="#baza">База начисления пеней</a></li>
+      <li><a href="#shtrafy">Штрафы по ПП № 1042</a></li>
+      <li><a href="#primery">Примеры расчёта</a></li>
+      <li><a href="#zakazchik">Пени для заказчика</a></li>
+      <li><a href="#snizit">Как снизить неустойку</a></li>
+      <li><a href="#oshibki">Частые ошибки</a></li>
+      <li><a href="#schet-prosrochka">Просрочка из-за счёта</a></li>
+      <li><a href="#keys">Пример из практики</a></li>
+      <li><a href="#glossary">Глоссарий</a></li>
+      <li><a href="#faq">Частые вопросы</a></li>
+    </ul>
+  </aside>
+
+  <article class="content" id="main">
+    <div class="hero">
+      <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
+      <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
+      <div class="eyebrow">База знаний · Госконтракты <span class="fresh">Актуально на 2026</span></div>
+    <h1>Пени и штрафы по 44-ФЗ: как считается неустойка за просрочку</h1>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 5 июня 2026</span></div>
+    </div>
+
+    <div class="share">
+      <span class="share__label">Поделиться:</span>
+      <a href="https://t.me/share/url?url=https%3A%2F%2Fkaznaexpert.ru%2Fbaza-znaniy%2Fpeni-i-shtrafy-po-44-fz%2F&amp;text=Пени%20и%20штрафы%20по%2044-ФЗ%3A%20как%20считается%20неустойка" target="_blank" rel="noopener"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.56 8.25l-1.86 8.76c-.14.62-.5.77-1.02.48l-2.82-2.08-1.36 1.31c-.15.15-.28.28-.57.28l.2-2.89 5.27-4.76c.23-.2-.05-.32-.35-.12l-6.51 4.1-2.8-.88c-.61-.19-.62-.61.13-.9l10.95-4.22c.5-.18.95.12.79.85z"/></svg>Telegram</a>
+      <button type="button" id="copyLink"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.07 0l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.07 0l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg><span>Копировать ссылку</span></button>
+      <button type="button" id="printBtn"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9V2h12v7M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2M6 14h12v8H6z"/></svg>Скачать PDF</button>
+    </div>
+
+    <details class="mtoc"><summary>Содержание статьи</summary>
+      <ol>
+        <li><a href="#kalkulyator">Калькулятор пеней</a></li><li><a href="#chto-takoe">Неустойка: пени и штраф</a></li>
+        <li><a href="#peni">Пени за просрочку</a></li><li><a href="#baza">База начисления</a></li>
+        <li><a href="#shtrafy">Штрафы по ПП № 1042</a></li><li><a href="#primery">Примеры расчёта</a></li>
+        <li><a href="#zakazchik">Пени для заказчика</a></li><li><a href="#snizit">Как снизить неустойку</a></li>
+        <li><a href="#oshibki">Частые ошибки</a></li><li><a href="#schet-prosrochka">Просрочка из-за счёта</a></li>
+        <li><a href="#keys">Пример из практики</a></li><li><a href="#glossary">Глоссарий</a></li><li><a href="#faq">FAQ</a></li>
+      </ol>
+    </details>
+
+    <div class="tldr">Неустойка по 44-ФЗ состоит из двух частей: <b>пеней</b> за просрочку и <b>штрафов</b> за иные нарушения. Пени считаются за каждый день просрочки как <b>1/300 ключевой ставки ЦБ</b> от цены контракта, уменьшенной на стоимость уже исполненного (ч. 7 ст. 34 № 44-ФЗ)<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a>. Штраф — фиксированный процент от цены контракта по постановлению Правительства № 1042<a class="fn" href="#ref-2" aria-label="Источник 2">[2]</a>. На июнь 2026 ключевая ставка — 14,5%.</div>
+
+    <section class="keyfacts grain" aria-label="Ключевые факты">
+      <h2>Коротко о главном</h2>
+      <div class="keyfacts__grid">
+        <div class="kf"><div class="kf__n">1/300</div><div class="kf__t"><b>Пени в день</b> — доля ключевой ставки ЦБ от остатка цены (ч. 7 ст. 34)</div></div>
+        <div class="kf"><div class="kf__n">14,5%</div><div class="kf__t"><b>Ключевая ставка ЦБ</b> на дату публикации (с 24.04.2026)</div></div>
+        <div class="kf"><div class="kf__n">10→0,1%</div><div class="kf__t"><b>Штраф</b> по ПП № 1042 — от 10% до 0,1% в зависимости от цены</div></div>
+        <div class="kf"><div class="kf__n">ст. 333</div><div class="kf__t"><b>Снижение</b> несоразмерной неустойки судом (ГК РФ)</div></div>
+      </div>
+    </section>
+
+    <p class="answer lead-p">Просрочка по госконтракту почти всегда стоит денег — заказчик обязан начислить неустойку, как только нарушен срок. Но «штраф» и «пени» в 44-ФЗ — это разные суммы с разными правилами расчёта, и их легко перепутать. Ниже — калькулятор пеней и подробный разбор: как формируется база, какие проценты установлены и в каких случаях неустойку можно законно уменьшить.</p>
+
+    <div class="reveal" id="kalkulyator">
+    <div class="calc peni-calc" id="peniCalc">
+      <style>
+      .peni-calc .calc__row{margin-bottom:14px}
+      .peni-calc input[type=range]{-webkit-appearance:none;appearance:none;width:100%;height:6px;border-radius:6px;background:#3a382f;outline:none;padding:0;margin-top:14px}
+      .peni-calc input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;appearance:none;width:22px;height:22px;border-radius:50%;background:#d8bd92;cursor:pointer;border:3px solid #1f1d17;box-shadow:0 2px 6px rgba(0,0,0,.4)}
+      .peni-calc input[type=range]::-moz-range-thumb{width:22px;height:22px;border-radius:50%;background:#d8bd92;cursor:pointer;border:3px solid #1f1d17}
+      .peni-calc .calc__label b{color:#fff;font-variant-numeric:tabular-nums}
+      .peni-calc .calc__sum{font-family:var(--font-display);font-size:30px;color:#7ee0a7;line-height:1;margin:0 0 6px}
+      .peni-calc .calc__grid{display:grid;grid-template-columns:1fr 1fr;gap:10px 22px;margin-top:12px}
+      .peni-calc .calc__grid div{font-size:13px;color:#cfc8ba}
+      .peni-calc .calc__grid b{color:#fff;font-weight:600;font-variant-numeric:tabular-nums}
+      @media(max-width:560px){.peni-calc .calc__grid{grid-template-columns:1fr}}
+      </style>
+      <h3>Калькулятор пеней по 44-ФЗ</h3>
+      <p class="calc__sub">Оценка пеней за просрочку исполнения контракта поставщиком по ч. 7 ст. 34 № 44-ФЗ. Сдвиньте ползунок дней — расчёт пересчитается мгновенно.</p>
+      <div class="calc__row">
+        <div>
+          <label class="calc__label" for="peniSum">Цена контракта (этапа), ₽</label>
+          <input id="peniSum" type="number" min="0" step="1000" inputmode="decimal" value="5000000">
         </div>
-        <h1>Откроем казначейский счёт<br><em>за два рабочих дня</em></h1>
-        <p class="v2-hero-lede"><strong>Берём всю работу с УФК на себя:</strong> анализ контракта, пакет документов, включение в сводный реестр, открытие счёта и настройку «Электронного бюджета». Без возвратов и срыва сроков. По всей России.</p>
-        <div class="v2-hero-trust">
-          <div class="v2-trust-item"><div class="v2-trust-num">2<span class="v2-trust-suffix">&nbsp;рабочих&nbsp;дня</span></div><div class="v2-trust-label">до открытия счёта</div></div>
-          <div class="v2-trust-item"><div class="v2-trust-num">7 000<span class="v2-trust-suffix">+</span></div><div class="v2-trust-label">контрактов</div></div>
-          <div class="v2-trust-item"><div class="v2-trust-num">90<span class="v2-trust-suffix">&nbsp;млрд&nbsp;₽</span></div><div class="v2-trust-label">проведено</div></div>
-          <div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div>
-        </div>
-        <div class="v2-hero-expert">
-          <div class="v2-expert-name">Михайлов Ярослав</div>
-          <div class="v2-expert-role">Эксперт · 15 лет в Казначействе</div>
-          <p class="v2-expert-quote">«Открытие счёта — рутина, в которой легко потерять две недели на возвратах. Мы делаем это с первой подачи и под гарантию в договоре».</p>
+        <div>
+          <label class="calc__label" for="peniDone">Стоимость принятого, ₽</label>
+          <input id="peniDone" type="number" min="0" step="1000" inputmode="decimal" value="0">
         </div>
       </div>
-
-      <aside class="v2-hero-action">
-        <div class="v2-hero-action-eyebrow">Бесплатный анализ контракта</div>
-        <h2>Откроем счёт за вас</h2>
-        <p class="v2-hero-action-sub">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт ваш контракт и назовёт точную стоимость. NDA — до анализа документов.</p>
-        <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="otkrytie-scheta">
-          <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
-          <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
-          <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
-          <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-          <button class="submit" type="submit">Получить расчёт →</button>
-          <div class="formmsg" id="formMsg" hidden></div>
-          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
-          <div class="success" id="leadSuccess" role="status" aria-live="polite">
-            <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
-            <h3>Заявка принята</h3>
-            <p>Эксперт перезвонит <b>в течение 15 минут</b> (9:00–21:00 МСК) и разберёт ваш контракт.</p>
-            <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
-          </div>
-        </form>
-        <div class="v2-hero-alt">Или напишите — ответим за 5 минут<div class="v2-hero-alt-links"><a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a><a href="tel:+79818331010">+7 981 833-10-10</a></div></div>
-      </aside>
-    </div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="komu">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Для кого</div>
-      <h2 class="v2-section-title">Когда вам нужна <em>наша помощь</em></h2>
-      <p class="v2-section-lede">Четыре ситуации, в которых мы берём открытие счёта на себя и закрываем вопрос за два дня.</p>
-    </div>
-    <div class="v2-process-grid">
-      <article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Выиграли контракт</h3><p class="v2-process-desc">Госконтракт требует казначейский счёт, а сроки поджимают. Разберёмся в требованиях и откроем счёт за два рабочих дня.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Заказчик требует счёт</h3><p class="v2-process-desc">Пришло официальное требование открыть счёт в УФК, срок ограничен. Подключаемся сразу и ведём процесс до открытия.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Прошлый счёт с ошибками</h3><p class="v2-process-desc">Неверная карточка или реквизиты приводят к возвратам платежей. Переоткроем счёт правильно — без повторов проблем.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Нет времени разбираться</h3><p class="v2-process-desc">Казначейство — не ваша специализация. Делегируйте открытие счёта эксперту и занимайтесь основным бизнесом.</p></article>
-    </div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="pod-kluch">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Что входит</div>
-      <h2 class="v2-section-title">Всё под ключ — <em>от документов до первой операции</em></h2>
-      <p class="v2-section-lede">Делаем всё сами. Вы получаете готовый счёт и настроенный «Электронный бюджет».</p>
-    </div>
-    <div class="v2-process-grid lp-3col">
-      <article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Анализ контракта</h3><p class="v2-process-desc">Проверяем условия и требования к счёту: реквизиты, параметры раздельного учёта, ограничения по операциям.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Пакет документов</h3><p class="v2-process-desc">Готовим полный пакет в точном соответствии с требованиями казначейства — без замечаний при подаче.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Сводный реестр</h3><p class="v2-process-desc">Включаем компанию в сводный реестр получателей средств — без этого казначейские операции невозможны.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Подача и контроль</h3><p class="v2-process-desc">Подаём документы в УФК, ведём процесс, устраняем замечания казначейства — без вашего участия.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Настройка «Электронного бюджета»</h3><p class="v2-process-desc">Настраиваем роли и параметры в ГИИС для бесперебойного проведения платежей с первого дня.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Поддержка после открытия</h3><p class="v2-process-desc">Консультации до проведения первой операции. Не бросаем после открытия счёта.</p></article>
-    </div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="ot-vas">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Что от вас</div>
-      <h2 class="v2-section-title">Что потребуется <em>от вас</em></h2>
-      <p class="v2-section-lede">Список минимальный — 5 минут на пересылку. Всё остальное берём на себя.</p>
-    </div>
-    <div class="v2-process-grid">
-      <article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Госконтракт</h3><p class="v2-process-desc">Текст и реквизиты контракта — для анализа требований к счёту.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>ИНН и ОГРН</h3><p class="v2-process-desc">Регистрационные данные организации.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>СНИЛС руководителя</h3><p class="v2-process-desc">Для оформления доступа и электронной подписи.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Контакт для связи</h3><p class="v2-process-desc">Телефон ответственного — держим в курсе каждого шага.</p></article>
-    </div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="process">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Процесс</div>
-      <h2 class="v2-section-title">От заявки до открытого счёта — <em>два рабочих дня</em></h2>
-      <p class="v2-section-lede">Каждый шаг — конкретное действие на нашей стороне. Прозрачно и без неожиданностей.</p>
-    </div>
-    <div class="v2-process-grid lp-3col">
-      <article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">Сегодня · 15 минут</div><h3>Заявка и старт</h3><p class="v2-process-desc">Перезваниваем за 15 минут, уточняем детали, подписываем договор и NDA, начинаем подготовку.</p><ul class="v2-process-checks"><li>Договор подписан</li></ul></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">День 1</div><h3>Документы и реестр</h3><p class="v2-process-desc">Готовим пакет документов, подаём запрос в УФК, включаем компанию в сводный реестр получателей средств.</p><ul class="v2-process-checks"><li>Пакет собран</li><li>Запрос подан</li></ul></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">День 2</div><h3>Счёт открыт</h3><p class="v2-process-desc">Казначейский счёт активирован, «Электронный бюджет» настроен, реквизиты у вас. Готово к первому платежу.</p><ul class="v2-process-checks"><li>Счёт активен</li><li>Реквизиты переданы</li></ul></article>
-    </div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="riski">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Цена ошибки</div>
-      <h2 class="v2-section-title">Что идёт не так <em>без специалиста</em></h2>
-      <p class="v2-section-lede">Ошибки при самостоятельном открытии обходятся дорого — деньгами и сроком контракта.</p>
-    </div>
-    <div class="v2-process-grid lp-3col">
-      <article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Возврат документов</h3><p class="v2-process-desc">Замечания казначейства — потеря 2–3 недель на переоформление, пока срок контракта горит.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Неверная настройка ГИИС</h3><p class="v2-process-desc">Неправильные параметры в «Электронном бюджете» приводят к автоматическому возврату платежей.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Заказчик не принимает счёт</h3><p class="v2-process-desc">Ошибка в реквизитах или типе счёта — заказчик вернёт на доработку, риск потери контракта.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Аванс зависает</h3><p class="v2-process-desc">Аванс по госконтракту не пройдёт на счёт с ошибочными реквизитами — деньги зависнут или вернутся.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Неверный раздельный учёт</h3><p class="v2-process-desc">Без правильной настройки раздельного учёта — налоговые риски и претензии при проверке.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Потерянное время</h3><p class="v2-process-desc">20–40 часов на самостоятельное освоение матчасти вместо профильной работы по контракту.</p></article>
-    </div>
-    <div class="related-inline"><b>Почему срок важен</b>
-      <a href="/baza-znaniy/peni-i-shtrafy-po-44-fz/">→ Пени за просрочку по 44-ФЗ: как они считаются и сколько стоит каждый день задержки</a>
-    </div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="compare">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Сравнение</div>
-      <h2 class="v2-section-title">Самостоятельно, штатный спец или <em>с нами</em></h2>
-      <p class="v2-section-lede">Шесть критериев, по которым клиенты выбирают, как открывать казначейский счёт.</p>
-    </div>
-    <div class="v2-compare">
-      <div class="v2-compare-head">
-        <div class="v2-compare-head-cell">Параметр</div>
-        <div class="v2-compare-head-cell">Самостоятельно</div>
-        <div class="v2-compare-head-cell">Штатный спец</div>
-        <div class="v2-compare-head-cell is-us">С КазнаЭксперт</div>
-      </div>
-      <div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Срок открытия</div><div class="v2-compare-cell" data-label="Самостоятельно">2–4 недели на освоение</div><div class="v2-compare-cell" data-label="Штатный спец">1–2 месяца на подбор</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>2 рабочих дня</strong></div></div>
-      <div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Риск возврата документов</div><div class="v2-compare-cell" data-label="Самостоятельно">Высокий — ошибки без опыта</div><div class="v2-compare-cell" data-label="Штатный спец">Зависит от уровня сотрудника</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Минимальный</strong> · с первой подачи</div></div>
-      <div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Настройка «Электронного бюджета»</div><div class="v2-compare-cell" data-label="Самостоятельно">Сами, без поддержки</div><div class="v2-compare-cell" data-label="Штатный спец">По компетенциям сотрудника</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт">Включено в стоимость</div></div>
-      <div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Стоимость</div><div class="v2-compare-cell" data-label="Самостоятельно">Ваше время + риск ошибок</div><div class="v2-compare-cell" data-label="Штатный спец">120–180 тыс ₽/мес + взносы</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>39 000 ₽</strong> разово</div></div>
-      <div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Гарантия в договоре</div><div class="v2-compare-cell" data-label="Самостоятельно">Нет</div><div class="v2-compare-cell" data-label="Штатный спец">Нет</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Прописана в договоре</strong></div></div>
-      <div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Ваши затраты времени</div><div class="v2-compare-cell" data-label="Самостоятельно">20–40 часов</div><div class="v2-compare-cell" data-label="Штатный спец">Контроль сотрудника</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>5 минут</strong></div></div>
-    </div>
-    <div class="v2-compare-cta"><a href="#zayavka">Обсудить ваш контракт <span aria-hidden="true">→</span></a></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="tarif">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Стоимость</div>
-      <h2 class="v2-section-title">Открытие счёта — <em>фиксированная цена</em></h2>
-      <p class="v2-section-lede">Конкретный объём работ и стоимость прописаны в договоре. Без «от» и скрытых доплат.</p>
-    </div>
-    <div class="v2-tariffs-grid lp-3col">
-      <article class="v2-tariff is-featured">
-        <div class="v2-tariff-no">02</div>
-        <div class="v2-tariff-stage">Победа в тендере</div>
-        <h3>Открытие счёта за два дня</h3>
-        <p class="v2-tariff-desc">Анализ контракта, полный пакет документов, включение в сводный реестр, открытие счёта в УФК с первой подачи и настройка «Электронного бюджета».</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">39 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня · гарантия в договоре</div><a href="#zayavka" class="v2-tariff-link">Обсудить контракт <span aria-hidden="true">→</span></a></div>
-      </article>
-      <article class="v2-tariff">
-        <div class="v2-tariff-no">01</div>
-        <div class="v2-tariff-stage">До тендера</div>
-        <h3>Резерв счёта к дате тендера</h3>
-        <p class="v2-tariff-desc">Резервируем счёт заранее — реквизиты готовы к моменту победы. Не выиграли — закрываем без расходов.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">25 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · к дате тендера</div><a href="/uslugi/rezervirovanie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
-      </article>
-      <article class="v2-tariff">
-        <div class="v2-tariff-no">03</div>
-        <div class="v2-tariff-stage">После открытия</div>
-        <h3>Полное сопровождение контракта</h3>
-        <p class="v2-tariff-desc">Ведём контракт после открытия счёта: платежи, сведения, отчётность — до закрытия и вывода средств.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 59 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу контракта</div><a href="#zayavka" class="v2-tariff-link">Обсудить <span aria-hidden="true">→</span></a></div>
-      </article>
-    </div>
-    <p class="v2-tariffs-footnote">Точная стоимость — после бесплатного анализа вашего контракта.</p>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="faq">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Вопросы</div>
-      <h2 class="v2-section-title">Отвечаем <em>прямо</em></h2>
-    </div>
-    <div class="faq">
-      <details open><summary>За сколько откроете казначейский счёт?</summary><p>За два рабочих дня с момента получения документов — при стандартных требованиях. Срок открытия фиксируем в договоре.</p></details>
-      <details><summary>Что потребуется от меня?</summary><p>Госконтракт, ИНН и ОГРН организации, СНИЛС руководителя и контакт для связи. Пересылка занимает 5 минут — всё остальное делаем мы.</p></details>
-      <details><summary>Что если казначейство вернёт документы?</summary><p>Устраняем замечания казначейства без доплат — это входит в услугу. Наша цель — открыть счёт с первой подачи.</p></details>
-      <details><summary>Сколько стоит открытие счёта?</summary><p>39 000 ₽ разово. Это фиксированная цена под ключ, прописанная в договоре, без «от» и скрытых доплат.</p></details>
-      <details><summary>Работаете по всей России?</summary><p>Да. Работаем удалённо со всеми регионами РФ — весь документооборот ведётся электронно через «Электронный бюджет».</p></details>
-      <details><summary>Нужна ли электронная подпись?</summary><p>Да, для работы в «Электронном бюджете» нужна квалифицированная ЭП. Поможем оформить и настроить доступ.</p></details>
-      <details><summary>Какие гарантии?</summary><p>Гарантия результата прописана в договоре. Сопровождаем до открытия счёта и первой операции.</p></details>
-    </div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="zayavka">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Заявка</div>
-      <h2 class="v2-section-title">Откроем счёт за <em>два рабочих дня</em></h2>
-      <p class="v2-section-lede">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт ваш контракт и назовёт точную стоимость.</p>
-    </div>
-    <div style="max-width:520px;margin:0 auto">
-      <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="otkrytie-scheta-cta">
-        <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
-        <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
-        <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
-        <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-        <button class="submit" type="submit">Получить расчёт →</button>
-        <div class="formmsg" id="formMsgBottom" hidden></div>
-        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
-        <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
-          <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
-          <h3>Заявка принята</h3>
-          <p>Эксперт перезвонит <b>в течение 15 минут</b> (9:00–21:00 МСК).</p>
+      <div class="calc__row">
+        <div>
+          <label class="calc__label" for="peniRate">Ключевая ставка ЦБ, %</label>
+          <input id="peniRate" type="number" min="0" step="0.25" inputmode="decimal" value="14.5">
         </div>
-      </form>
+        <div>
+          <label class="calc__label" for="peniDays">Дней просрочки: <b id="peniDaysVal">10</b></label>
+          <input id="peniDays" type="range" min="0" max="180" step="1" value="10">
+        </div>
+      </div>
+      <div class="calc__out" id="peniOut" aria-live="polite">
+        <p class="calc__sum" id="peniSumOut">24 167 ₽</p>
+        <div class="calc__desc">Сумма пеней за выбранный период просрочки.</div>
+        <div class="calc__grid">
+          <div>База начисления: <b id="peniBase">5 000 000 ₽</b></div>
+          <div>Пени за день: <b id="peniPerDay">2 417 ₽</b></div>
+          <div>Доля от цены: <b id="peniPct">0,48%</b></div>
+          <div>Период: <b id="peniDaysOut">10 дн.</b></div>
+        </div>
+        <div class="calc__law">Основание: ч. 7 ст. 34 № 44-ФЗ. Пеня = (цена − стоимость принятого) × 1/300 ключевой ставки ЦБ × дни. Расчёт ориентировочный; точный размер считается по ставке на дату уплаты и не может превышать цену контракта. Не является юридической консультацией.</div>
+      </div>
     </div>
-  </div>
-</section>
+    </div>
+
+    <h2 id="chto-takoe">Неустойка по 44-ФЗ: чем пени отличаются от штрафа</h2>
+    <div class="answer reveal">
+      <p>Закон о контрактной системе обязывает заказчика включать в контракт ответственность сторон. Часть 4 статьи 34 № 44-ФЗ<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a> прямо называет два вида неустойки: пени и штраф. Это не синонимы — они начисляются за разные нарушения и считаются по разным правилам.</p>
+      <p><b>Пени</b> — санкция именно за <dfn class="term" data-tip="Нарушение установленного контрактом срока исполнения обязательства">просрочку</dfn>: поставка опоздала, работы сданы позже срока, этап не закрыт вовремя. Пени растут с каждым днём задержки.</p>
+      <p><b>Штраф</b> — санкция за любое другое ненадлежащее исполнение, не связанное с просрочкой: товар не соответствует требованиям, нарушено условие о привлечении субподрядчиков из числа СМП, не выполнено обязательство без стоимостного выражения. Штраф — это разовая фиксированная сумма за каждый факт нарушения.</p>
+      <div class="note"><b>Главное отличие:</b> пени зависят от числа дней и считаются в процентах от остатка цены контракта; штраф — фиксированная сумма (процент от цены, посчитанный один раз) за сам факт нарушения. За одно и то же нарушение нельзя начислить и пени, и штраф.</div>
+    </div>
+
+    <h2 id="peni">Пени за просрочку: формула по ч. 7 ст. 34</h2>
+    <div class="answer reveal">
+      <p>Размер пеней для поставщика (подрядчика, исполнителя) задан частью 7 статьи 34 № 44-ФЗ. Пеня начисляется за каждый день просрочки начиная со дня, следующего за днём окончания срока, и равна одной трёхсотой <dfn class="term" data-tip="Основная процентная ставка Банка России. На 24.04.2026 — 14,5% годовых">ключевой ставки</dfn> Центробанка, действующей на дату уплаты пеней.</p>
+      <div class="flow" aria-label="Формула расчёта пеней">
+        <div class="flow__title">Формула пеней по ч. 7 ст. 34 № 44-ФЗ</div>
+        <div class="flow__row">
+          <div class="flow__node"><b>База</b><span>Цена контракта − стоимость фактически исполненного</span></div>
+          <div class="flow__arrow"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
+          <div class="flow__node"><b>× 1/300 ставки</b><span>Ключевая ставка ЦБ на дату уплаты, делённая на 300</span></div>
+          <div class="flow__arrow"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
+          <div class="flow__node"><b>× дни</b><span>Количество дней просрочки</span></div>
+        </div>
+      </div>
+      <p>В виде формулы: <b>Пени = (Ц − В) × С / 300 × Д</b>, где Ц — цена контракта, В — стоимость исполненных и принятых обязательств, С — ключевая ставка ЦБ в долях (14,5% = 0,145), Д — число дней просрочки.</p>
+      <div class="note"><b>Ставка берётся на дату уплаты.</b> Если за время просрочки ЦБ менял ключевую ставку, для расчёта используется та, что действует на день фактической уплаты пеней. В калькуляторе ставка вынесена в отдельное поле — подставьте актуальное значение на нужную дату.</div>
+    </div>
+
+    <h2 id="baza">Что входит в базу начисления пеней</h2>
+    <div class="answer reveal">
+      <p>Ключевой нюанс, который чаще всего считают неверно, — база. Пени начисляются не на всю цену контракта, а на её часть, уменьшенную пропорционально объёму уже исполненных и <b>принятых заказчиком</b> обязательств. Логика простая: если половина работ сдана и оплачена, наказывать рублём за всю сумму контракта несправедливо.</p>
+      <p>Поэтому в калькуляторе есть поле «Стоимость принятого». Если заказчик подписал документы о приёмке части поставки, эта сумма вычитается из цены, и пени идут только на остаток. Если же не исполнено ничего, база равна полной цене контракта (или цене этапа, когда контракт разбит на этапы).</p>
+      <div class="sidenote"><b>Важно:</b> вычитается только то, что заказчик официально принял по документам. Фактически выполненные, но не сданные работы базу не уменьшают.</div>
+    </div>
+
+    <h2 id="shtrafy">Штрафы по постановлению Правительства № 1042</h2>
+    <div class="answer reveal">
+      <p>Размер штрафа за нарушения, не связанные с просрочкой, определяет постановление Правительства РФ от 30.08.2017 № 1042<a class="fn" href="#ref-2" aria-label="Источник 2">[2]</a> (в редакции ПП № 1011 от 02.08.2019). Для поставщика штраф устанавливается как процент от цены контракта (этапа) и зависит от её величины.</p>
+      <table>
+        <caption>Размер штрафа поставщику за каждый факт нарушения (п. 3 Правил, утв. ПП № 1042)</caption>
+        <thead><tr><th>Цена контракта (этапа)</th><th>Размер штрафа</th></tr></thead>
+        <tbody>
+          <tr><td>до 3 млн ₽</td><td>10% цены контракта</td></tr>
+          <tr><td>от 3 до 50 млн ₽ (вкл.)</td><td>5% цены контракта</td></tr>
+          <tr><td>от 50 до 100 млн ₽ (вкл.)</td><td>1% цены контракта</td></tr>
+          <tr><td>от 100 до 500 млн ₽ (вкл.)</td><td>0,5% цены контракта</td></tr>
+          <tr><td>от 500 млн до 1 млрд ₽ (вкл.)</td><td>0,4% цены контракта</td></tr>
+          <tr><td>от 1 до 2 млрд ₽ (вкл.)</td><td>0,3% цены контракта</td></tr>
+          <tr><td>от 2 до 5 млрд ₽ (вкл.)</td><td>0,25% цены контракта</td></tr>
+          <tr><td>от 5 до 10 млрд ₽ (вкл.)</td><td>0,2% цены контракта</td></tr>
+          <tr><td>свыше 10 млрд ₽</td><td>0,1% цены контракта</td></tr>
+        </tbody>
+      </table>
+      <p>Для контрактов с субъектами малого предпринимательства и социально ориентированными НКО (закупки по п. 1 ч. 1 ст. 30 № 44-ФЗ) действует льготный штраф — 1% цены контракта, но не более 5 000 ₽ и не менее 1 000 ₽ (п. 4 Правил). За нарушение обязательства без стоимостного выражения штраф фиксирован: 1 000 / 5 000 / 10 000 / 100 000 ₽ в зависимости от цены контракта (п. 6).</p>
+      <div class="note"><b>Лимит ответственности:</b> общая сумма начисленных штрафов не может превышать цену контракта (п. 11 Правил). Это потолок именно по штрафам; пени считаются отдельно.</div>
+    </div>
+
+    <h2 id="primery">Примеры расчёта</h2>
+    <div class="answer reveal">
+      <p>Чтобы формулы стали наглядными, разберём три типовые ситуации. Везде ключевая ставка взята 14,5%.</p>
+      <table>
+        <caption>Расчёт пеней и штрафа на типовых суммах (ставка ЦБ 14,5%)</caption>
+        <thead><tr><th>Ситуация</th><th>Расчёт</th><th>Результат</th></tr></thead>
+        <tbody>
+          <tr><td>Контракт 5 млн ₽, ничего не сдано, просрочка 10 дней</td><td>5 000 000 × 0,145 / 300 × 10</td><td>≈ 24 167 ₽ пеней (0,48% цены)</td></tr>
+          <tr><td>Контракт 5 млн ₽, принято на 2 млн ₽, просрочка 20 дней</td><td>(5 000 000 − 2 000 000) × 0,145 / 300 × 20</td><td>≈ 29 000 ₽ пеней</td></tr>
+          <tr><td>Контракт 5 млн ₽, товар не соответствует ТЗ (штраф, не просрочка)</td><td>5 % от 5 000 000 (тариф 3–50 млн ₽)</td><td>250 000 ₽ штрафа</td></tr>
+        </tbody>
+      </table>
+      <p>Третий пример показывает, почему штраф ощутимо больнее пеней: за разовое несоответствие можно получить 5% цены сразу, тогда как пени набегают постепенно. При этом за просрочку штраф не начисляется — только пени.</p>
+    </div>
+
+    <h2 id="zakazchik">Пени для заказчика: обратная сторона</h2>
+    <div class="answer reveal">
+      <p>Ответственность по 44-ФЗ взаимна. Если заказчик нарушил срок оплаты, он тоже платит пени — часть 5 статьи 34. Размер тот же принцип: 1/300 ключевой ставки ЦБ, действующей на дату уплаты, но уже от <b>не уплаченной в срок суммы</b>, за каждый день просрочки оплаты.</p>
+      <p>Это важный аргумент для поставщика: при задержке оплаты можно требовать пени с заказчика по той же логике, что заказчик применяет к подрядчику. Калькулятор выше подходит и для этого расчёта — в поле «цена» поставьте сумму просроченного платежа, а «стоимость принятого» оставьте нулём.</p>
+      <div class="related-inline"><b>Связано по теме</b>
+        <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/">Казначейское сопровождение: как устроены расчёты по госконтракту →</a>
+        <a href="/uslugi/otkrytie-scheta/">Открытие казначейского счёта за 2 дня — чтобы не сорвать срок →</a>
+      </div>
+    </div>
+
+    <h2 id="snizit">Как законно уменьшить или списать неустойку</h2>
+    <div class="answer reveal">
+      <p>Начисленная неустойка — не приговор. Есть несколько законных оснований снизить её или вовсе не платить.</p>
+      <h3>Освобождение по ч. 9 ст. 34</h3>
+      <p>Поставщик освобождается от ответственности, если докажет, что просрочка произошла вследствие непреодолимой силы или по вине самого заказчика. Классический пример — заказчик вовремя не передал исходные данные, площадку или не открыл встречное финансирование, и работать физически было нельзя.</p>
+      <h3>Снижение судом по ст. 333 ГК РФ</h3>
+      <p>Если неустойка явно несоразмерна последствиям нарушения, суд вправе её уменьшить (ст. 333 Гражданского кодекса). Для коммерческих организаций снижение возможно только по заявлению ответчика и при доказанной несоразмерности.</p>
+      <h3>Списание по отдельным постановлениям</h3>
+      <p>Для ряда периодов Правительство вводило правила списания и отсрочки неустоек по госконтрактам (например, в связи с санкционными ограничениями). Условия и сроки таких послаблений меняются год от года, поэтому перед применением нужно сверяться с действующей редакцией соответствующего постановления.</p>
+      <div class="quote">Девять из десяти споров о неустойке выигрываются не в зале суда, а на этапе переписки: своевременное уведомление заказчика о препятствиях и аккуратно оформленная приёмка снимают половину претензий ещё до их начисления.<cite>Ярослав Михайлов, главный эксперт КазнаЭксперт</cite></div>
+    </div>
+
+    <h2 id="oshibki">Частые ошибки в расчёте неустойки</h2>
+    <div class="answer reveal">
+      <ul>
+        <li><b>Считают пени на полную цену контракта.</b> Если часть обязательств принята, база уменьшается — иначе сумма завышена.</li>
+        <li><b>Путают штраф и пени.</b> За просрочку начисляются только пени; штраф за то же нарушение незаконен.</li>
+        <li><b>Берут ставку на дату нарушения, а не на дату уплаты.</b> Закон требует ставку, действующую на день уплаты пеней.</li>
+        <li><b>Завышенный процент штрафа в проекте контракта.</b> Заказчик не вправе ставить штраф выше шкалы ПП № 1042; такое условие можно оспорить.</li>
+        <li><b>Игнорируют лимит.</b> Сумма штрафов не может превышать цену контракта.</li>
+      </ul>
+    </div>
+
+    <h2 id="schet-prosrochka">Когда просрочку провоцирует незакрытый счёт</h2>
+    <div class="answer reveal">
+      <p>Отдельная и недооценённая причина пеней по контрактам с казначейским сопровождением — задержка с открытием лицевого счёта в территориальном органе казначейства. Пока счёт не открыт, расчёты по контракту физически невозможны, а срок исполнения при этом идёт. В итоге поставщик рискует получить пени за просрочку, которой можно было избежать.</p>
+      <p>Поэтому при контрактах ГОЗ и казначейского сопровождения открытие счёта стоит закрывать в первые дни после заключения контракта, а не откладывать. Чем раньше счёт работает, тем меньше шансов, что административная задержка превратится в начисленную неустойку.</p>
+      <div class="related-inline"><b>Чтобы не попасть на пени из-за счёта</b>
+        <a href="/uslugi/otkrytie-scheta/">Открытие казначейского счёта под ключ за 2 рабочих дня →</a>
+        <a href="/baza-znaniy/licevoy-schet-71-kak-otkryt/">Как открыть лицевой счёт в ТОФК: пошаговая инструкция →</a>
+      </div>
+    </div>
+
+    <h2 id="keys">Пример из практики</h2>
+    <div class="answer reveal">
+      <p>Ситуация типовая, детали обобщены. Подрядчик по контракту на 8 млн ₽ задержал сдачу этапа на три недели, потому что заказчик с опозданием передал техническую документацию. Заказчик начислил пени на полную цену за 21 день — вышло около 81 тыс. ₽.</p>
+      <p>Разбор показал две ошибки: во-первых, часть работ уже была принята на 2 млн ₽, и база должна была составлять 6 млн ₽; во-вторых, причиной задержки стало бездействие самого заказчика, что подпадает под ч. 9 ст. 34. После направления мотивированного возражения со ссылкой на переписку и акты приёмки начисление было пересмотрено, а основная часть пеней — снята. Этот случай иллюстрирует общий принцип: грамотно зафиксированные факты важнее самой формулы.</p>
+      <div class="note">Пример приведён для наглядности и не является обещанием конкретного результата по вашему контракту — исход всегда зависит от условий договора и документов.</div>
+    </div>
+
+    <h2 id="glossary">Глоссарий</h2>
+    <div class="answer reveal">
+      <dl class="gloss">
+        <div><dt>Неустойка</dt><dd>Денежная санкция за неисполнение или ненадлежащее исполнение контракта; включает пени и штрафы (ч. 4 ст. 34 № 44-ФЗ).</dd></div>
+        <div><dt>Пени</dt><dd>Санкция за просрочку, начисляемая за каждый день как 1/300 ключевой ставки ЦБ от остатка цены.</dd></div>
+        <div><dt>Штраф</dt><dd>Фиксированная сумма за каждый факт нарушения, не связанного с просрочкой (ПП № 1042).</dd></div>
+        <div><dt>Ключевая ставка</dt><dd>Базовая ставка Банка России; на дату публикации — 14,5% годовых.</dd></div>
+        <div><dt>База начисления</dt><dd>Цена контракта за вычетом стоимости фактически исполненных и принятых обязательств.</dd></div>
+        <div><dt>Цена этапа</dt><dd>Стоимость отдельного этапа, если контракт разбит на этапы; неустойка может считаться от неё.</dd></div>
+      </dl>
+    </div>
+
+    <h2 id="faq">Частые вопросы</h2>
+    <div class="faq reveal">
+      <details><summary>Как считаются пени по 44-ФЗ?</summary><p>За каждый день просрочки: цену контракта уменьшают на стоимость уже принятых обязательств, умножают на ключевую ставку ЦБ, делят на 300 и умножают на число дней просрочки (ч. 7 ст. 34 № 44-ФЗ).</p></details>
+      <details><summary>Чему равна ключевая ставка для расчёта?</summary><p>Берётся ключевая ставка ЦБ, действующая на дату уплаты пеней. На 24 апреля 2026 года она составляет 14,5% годовых; перед расчётом проверьте актуальное значение на сайте Банка России.</p></details>
+      <details><summary>Пени считаются от всей цены контракта?</summary><p>Нет. База уменьшается пропорционально объёму фактически исполненных и принятых заказчиком обязательств. Если ничего не принято — база равна полной цене контракта или цене этапа.</p></details>
+      <details><summary>Чем штраф отличается от пеней?</summary><p>Пени — за просрочку, растут с каждым днём. Штраф — фиксированная сумма за иное нарушение (несоответствие, нарушение условий), начисляется один раз за факт. За одно нарушение нельзя взять и то, и другое.</p></details>
+      <details><summary>Сколько составляет штраф по ПП № 1042?</summary><p>Для поставщика — от 10% цены контракта (до 3 млн ₽) до 0,1% (свыше 10 млрд ₽). Для контрактов с СМП — 1%, но в пределах 1 000–5 000 ₽.</p></details>
+      <details><summary>Может ли заказчик платить пени поставщику?</summary><p>Да. При просрочке оплаты заказчик платит пени по ч. 5 ст. 34 — 1/300 ключевой ставки от не уплаченной в срок суммы за каждый день просрочки.</p></details>
+      <details><summary>Есть ли предел у неустойки?</summary><p>Общая сумма штрафов не может превышать цену контракта (п. 11 Правил, утв. ПП № 1042). Пени отдельным потолком не ограничены, но могут быть снижены судом.</p></details>
+      <details><summary>Можно ли уменьшить неустойку?</summary><p>Да. По ст. 333 ГК РФ суд снижает несоразмерную неустойку; по ч. 9 ст. 34 поставщик освобождается от ответственности, если просрочка вызвана непреодолимой силой или виной заказчика.</p></details>
+      <details><summary>Что делать, если в просрочке виноват заказчик?</summary><p>Зафиксировать факт письменно (уведомление, переписка), сослаться на ч. 9 ст. 34 и потребовать снятия начисления. Документально подтверждённая вина заказчика освобождает от пеней.</p></details>
+      <details><summary>Просрочка с открытием казначейского счёта тоже грозит пенями?</summary><p>Косвенно — да. Пока счёт не открыт, расчёты по контракту невозможны, а срок исполнения идёт. Чтобы не терять дни, счёт открывают сразу после заключения контракта.</p></details>
+    </div>
+
+    <div class="author">
+      <div class="author__av">ЯМ</div>
+      <div>
+        <div class="author__name">Ярослав Михайлов</div>
+        <div class="author__role">Главный эксперт КазнаЭксперт · казначейское сопровождение госконтрактов</div>
+        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения и расчётов по госконтрактам. Под сопровождением — 7000+ контрактов на сумму свыше 90 млрд ₽. Специализация: 44-ФЗ, 275-ФЗ, лицевые счета в ТОФК, раздельный учёт и неустойки.</p>
+        <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль автора</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span><span>Тел.: <a href="tel:+79818331010">+7 (981) 833-10-10</a></span></div>
+      </div>
+    </div>
+
+    <section class="refs" aria-label="Источники">
+      <h2>Источники</h2>
+      <ol>
+        <li id="ref-1">Федеральный закон от 05.04.2013 № 44-ФЗ «О контрактной системе…», ст. 34 (ч. 4, 5, 7, 9). <a href="https://www.consultant.ru/document/cons_doc_LAW_144624/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
+        <li id="ref-2">Постановление Правительства РФ от 30.08.2017 № 1042 (ред. от 02.08.2019) «Об утверждении Правил определения размера штрафа…». <a href="https://www.consultant.ru/document/cons_doc_LAW_227100/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
+        <li id="ref-3">Ключевая ставка Банка России. <a href="https://www.cbr.ru/hd_base/keyrate/" target="_blank" rel="noopener">cbr.ru</a></li>
+        <li id="ref-4">Гражданский кодекс РФ, ст. 333 (уменьшение неустойки). <a href="https://www.consultant.ru/document/cons_doc_LAW_5142/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
+      </ol>
+      <p class="refs__note">Материал носит справочный характер и не является юридической консультацией. Размер неустойки по конкретному контракту определяется его условиями и актуальной редакцией НПА на дату расчёта.</p>
+    </section>
+  </article>
+
+  <aside class="rail">
+    <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="peni-44fz">
+      <div class="railform__badge">Бесплатный разбор</div>
+      <h3 class="railform__title">Начислили неустойку?</h3>
+      <p class="railform__sub">Проверим расчёт и основания, подскажем, как снизить. Первая консультация — бесплатно.</p>
+      <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
+      <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
+      <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
+      <button class="submit" type="submit">Получить разбор →</button>
+      <div class="formmsg" id="formMsg" hidden></div>
+      <div class="railform__trust">
+        <span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span>
+        <span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span>
+      </div>
+      <div class="success" id="leadSuccess" role="status" aria-live="polite">
+        <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
+        <h3>Заявка принята</h3>
+        <p>Эксперт перезвонит <b>в течение 1 часа</b> (9:00–21:00 МСК) и разберёт ваш расчёт.</p>
+        <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
+      </div>
+    </form>
+  </aside>
 </div>
+
+<section class="related" aria-labelledby="relTitle">
+  <div class="related__head"><h2 id="relTitle">Что почитать ещё</h2><a href="/baza-znaniy/">Вся база знаний →</a></div>
+  <div class="related__grid">
+    <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/"><div class="card__cover"><span>КС ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение ГОЗ по 275-ФЗ</h3><div class="card__meta">Гособоронзаказ · 17 мин</div></div></a>
+    <a class="card reveal" href="/baza-znaniy/licevoy-schet-71-kak-otkryt/"><div class="card__cover"><span>Счёт 71</span></div><div class="card__body"><span class="card__cat">Инструкция</span><h3 class="card__title">Как открыть лицевой счёт 71 в ТОФК</h3><div class="card__meta">Открытие счёта · 9 мин</div></div></a>
+    <a class="card reveal" href="/uslugi/otkrytie-scheta/"><div class="card__cover"><span>Под ключ</span></div><div class="card__body"><span class="card__cat">Услуга</span><h3 class="card__title">Открытие казначейского счёта за 2 дня</h3><div class="card__meta">Услуга · фикс-цена</div></div></a>
+  </div>
+</section>
 
 <section class="trust" aria-label="Проверка в реестрах">
   <div class="trust__box">
@@ -757,28 +839,32 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 </section>
 
 <script>
-/* обработчик нижней лид-формы (#leadFormBottom); верхнюю #leadForm обслуживает общий скрипт страницы */
+/* Калькулятор пеней по ч. 7 ст. 34 № 44-ФЗ */
 (function(){
-  var f=document.getElementById('leadFormBottom'); if(!f) return;
-  var msg=document.getElementById('formMsgBottom'), ok=document.getElementById('leadSuccessBottom');
-  function show(t){ if(msg){msg.hidden=false;msg.textContent=t;} }
-  f.addEventListener('submit',function(e){
-    e.preventDefault();
-    if(f.company_extra && f.company_extra.value) return;
-    var name=(f.name.value||'').trim(), phone=(f.phone.value||'').trim();
-    if(name.length<2){show('Введите имя');return;}
-    if(!/\d[\s\d().-]*\d{3}/.test(phone)||phone.replace(/\D/g,'').length<10){show('Проверьте телефон');return;}
-    if(!f.consent.checked){show('Подтвердите согласие');return;}
-    var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';
-    fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent:true,source:f.dataset.source,page_url:location.href})})
-      .then(function(r){ if(!r.ok) throw 0; return r; })
-      .then(function(){
-        [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; });
-        if(ok) ok.style.display='block';
-        try{ if(typeof ym==='function') ym(94305898,'reachGoal','lead',{source:f.dataset.source}); }catch(_){}
-      })
-      .catch(function(){ btn.disabled=false; btn.textContent=orig; show('Не удалось отправить. Попробуйте ещё раз.'); });
+  var sum=document.getElementById('peniSum'),done=document.getElementById('peniDone'),
+      rate=document.getElementById('peniRate'),days=document.getElementById('peniDays'),
+      daysVal=document.getElementById('peniDaysVal'),daysOut=document.getElementById('peniDaysOut'),
+      sumOut=document.getElementById('peniSumOut'),base=document.getElementById('peniBase'),
+      perDay=document.getElementById('peniPerDay'),pct=document.getElementById('peniPct');
+  if(!sum||!days)return;
+  function num(el){var v=parseFloat((el.value||'').replace(',','.'));return isNaN(v)||v<0?0:v;}
+  function rub(n){try{return Math.round(n).toLocaleString('ru-RU')+' ₽';}catch(e){return Math.round(n)+' ₽';}}
+  function calc(){
+    var price=num(sum),accepted=num(done),r=num(rate),d=parseInt(days.value,10)||0;
+    var b=Math.max(price-accepted,0);
+    var perDayVal=b*(r/100)/300;
+    var total=perDayVal*d;
+    if(total>price)total=price; // лимит: не больше цены контракта
+    daysVal.textContent=d; daysOut.textContent=d+' дн.';
+    base.textContent=rub(b); perDay.textContent=rub(perDayVal);
+    sumOut.textContent=rub(total);
+    pct.textContent=price>0?((total/price*100).toFixed(2).replace('.',',')+'%'):'—';
+  }
+  ['input','change'].forEach(function(ev){
+    sum.addEventListener(ev,calc);done.addEventListener(ev,calc);
+    rate.addEventListener(ev,calc);days.addEventListener(ev,calc);
   });
+  calc();
 })();
 </script>
 
