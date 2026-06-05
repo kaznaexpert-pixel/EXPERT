@@ -494,12 +494,23 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 <div class="v2">
 <style>
 @media (min-width:901px){.v2 .v2-process-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}
-.v2 .author-hero{display:grid;grid-template-columns:auto 1fr;gap:38px;align-items:center}
-.v2 .author-hero__av{width:160px;height:160px;border-radius:50%;background:linear-gradient(135deg,#8B6F47,#6f5836);color:#fff;display:flex;align-items:center;justify-content:center;font-family:var(--font-display,'Playfair Display',serif);font-size:58px;font-weight:500;letter-spacing:.02em;flex-shrink:0;box-shadow:0 20px 50px -20px rgba(26,26,26,.5)}
+.v2 .author-hero{display:grid;grid-template-columns:auto 1fr;gap:40px;align-items:center}
+.v2 .author-hero__photo{width:190px;flex-shrink:0;border-radius:20px;overflow:hidden;box-shadow:0 24px 60px -24px rgba(26,26,26,.55);align-self:start}
+.v2 .author-hero__photo img{width:100%;height:auto;display:block}
 .v2 .author-hero__sub{font-size:13px;letter-spacing:.04em;color:var(--accent,#8B6F47);text-transform:uppercase;font-weight:600;margin-top:14px}
 .v2 .author-hero__meta{display:flex;gap:20px;flex-wrap:wrap;margin-top:16px;font-size:14px;color:var(--mute,#6E6B66)}
 .v2 .author-hero__meta a{color:var(--accent,#8B6F47)}
-@media(max-width:680px){.v2 .author-hero{grid-template-columns:1fr;text-align:center;gap:22px}.v2 .author-hero__av{margin:0 auto;width:120px;height:120px;font-size:44px}.v2 .author-hero__meta{justify-content:center}}
+@media(max-width:680px){.v2 .author-hero{grid-template-columns:1fr;text-align:center;gap:24px;justify-items:center}.v2 .author-hero__photo{width:160px}.v2 .author-hero__meta{justify-content:center}}
+.v2 .author-services{display:grid;grid-template-columns:1fr;gap:16px}
+@media(min-width:901px){.v2 .author-services{grid-template-columns:repeat(3,1fr)}}
+.v2 .author-service{display:flex;flex-direction:column;background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.10));border-radius:16px;padding:28px 28px 26px;text-decoration:none;color:inherit;transition:transform .25s cubic-bezier(.2,.8,.3,1),box-shadow .25s,border-color .25s}
+.v2 .author-service:hover{transform:translateY(-4px);box-shadow:0 22px 44px -24px rgba(26,26,26,.28);border-color:rgba(139,111,71,.4)}
+.v2 .author-service__no{font-family:var(--font-display,'Playfair Display',serif);font-size:15px;color:var(--accent,#8B6F47)}
+.v2 .author-service__stage{display:block;margin-top:8px;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--mute,#6E6B66);font-weight:600}
+.v2 .author-service__title{font-family:var(--font-display,'Playfair Display',serif);font-weight:500;font-size:21px;line-height:1.2;margin:10px 0 10px}
+.v2 .author-service__desc{font-size:14.5px;line-height:1.5;color:var(--ink-soft,#3A3A3A);margin:0 0 20px}
+.v2 .author-service__link{margin-top:auto;font-size:14px;font-weight:500;color:var(--accent,#8B6F47);display:inline-flex;align-items:center;gap:6px;transition:gap .2s}
+.v2 .author-service:hover .author-service__link{gap:10px}
 </style>
 
 <section class="v2-hero">
@@ -511,7 +522,12 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
           <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
         </div>
         <div class="author-hero">
-          <div class="author-hero__av" aria-hidden="true">ЯМ</div>
+          <div class="author-hero__photo">
+            <picture>
+              <source type="image/webp" srcset="/img/mihailov-480.webp 480w, /img/mihailov-768.webp 768w" sizes="190px">
+              <img src="/img/mihailov-768.jpg" width="768" height="960" decoding="async" alt="Ярослав Михайлов — главный эксперт КазнаЭксперт по казначейскому сопровождению госконтрактов">
+            </picture>
+          </div>
           <div>
             <h1>Ярослав Михайлов</h1>
             <div class="author-hero__sub">Главный эксперт КазнаЭксперт · казначейское сопровождение госконтрактов</div>
@@ -609,30 +625,30 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Услуги</div>
       <h2 class="v2-section-title">С чем <em>обращаются</em></h2>
-      <p class="v2-section-lede">Полный спектр под ключ — от резерва счёта до спасения контракта.</p>
+      <p class="v2-section-lede">Полный спектр под ключ — от резерва счёта до спасения контракта. Подробные условия и цены — на страницах услуг.</p>
     </div>
-    <div class="v2-tariffs-grid lp-3col">
-      <article class="v2-tariff is-featured">
-        <div class="v2-tariff-no">01</div>
-        <div class="v2-tariff-stage">Старт</div>
-        <h3>Открытие счёта за два дня</h3>
-        <p class="v2-tariff-desc">Полный пакет документов и открытие счёта в УФК с первой подачи, настройка «Электронного бюджета».</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">39 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
-      </article>
-      <article class="v2-tariff">
-        <div class="v2-tariff-no">02</div>
-        <div class="v2-tariff-stage">Ведение</div>
-        <h3>Сопровождение контракта</h3>
-        <p class="v2-tariff-desc">Постоплата и аванс: контроль целевого использования, санкционирование, безлимит операций.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 59 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу / 79 000 ₽/мес</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
-      </article>
-      <article class="v2-tariff">
-        <div class="v2-tariff-no">03</div>
-        <div class="v2-tariff-stage">Срочно</div>
-        <h3>Спасение контракта</h3>
-        <p class="v2-tariff-desc">Возвраты, блокировки, отказы казначейства — срочная диагностика и восстановление до исполнения.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 29 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Аудит · восстановление от 99 000 ₽</div><a href="/uslugi/spasenie-kontrakta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
-      </article>
+    <div class="author-services">
+      <a class="author-service" href="/uslugi/otkrytie-scheta/">
+        <span class="author-service__no">01</span>
+        <span class="author-service__stage">Старт</span>
+        <h3 class="author-service__title">Открытие казначейского счёта</h3>
+        <p class="author-service__desc">Полный пакет документов и открытие счёта в УФК с первой подачи за два рабочих дня, настройка «Электронного бюджета».</p>
+        <span class="author-service__link">Подробнее об услуге <span aria-hidden="true">→</span></span>
+      </a>
+      <a class="author-service" href="/uslugi/soprovozhdenie-avans/">
+        <span class="author-service__no">02</span>
+        <span class="author-service__stage">Ведение</span>
+        <h3 class="author-service__title">Сопровождение контракта</h3>
+        <p class="author-service__desc">Постоплата и аванс: контроль целевого использования средств, санкционирование платежей, цепочка кооперации — безлимит операций.</p>
+        <span class="author-service__link">Подробнее об услуге <span aria-hidden="true">→</span></span>
+      </a>
+      <a class="author-service" href="/uslugi/spasenie-kontrakta/">
+        <span class="author-service__no">03</span>
+        <span class="author-service__stage">Срочно</span>
+        <h3 class="author-service__title">Спасение контракта</h3>
+        <p class="author-service__desc">Возвраты, блокировки, отказы казначейства — срочная диагностика причины и восстановление контракта до исполнения.</p>
+        <span class="author-service__link">Подробнее об услуге <span aria-hidden="true">→</span></span>
+      </a>
     </div>
   </div>
 </section>

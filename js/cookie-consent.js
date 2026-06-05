@@ -169,3 +169,56 @@
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
   else init();
 })();
+
+/* ============================================================
+ * UX-полировка форм и FAQ (на всех страницах):
+ *  - незаполненное согласие: тряска чекбокса + красная подсветка,
+ *    без сдвига layout (перехват submit на capture-фазе);
+ *  - резерв места под сообщение формы (.railform) — текст ошибки
+ *    не толкает страницу;
+ *  - плавное раскрытие FAQ (.faq) там, где браузер поддерживает
+ *    ::details-content (Safari 18.4+, Chrome 131+).
+ * ============================================================ */
+(function () {
+  'use strict';
+  var css = [
+    '@keyframes kzShake{10%,90%{transform:translateX(-1px)}20%,80%{transform:translateX(2px)}30%,50%,70%{transform:translateX(-4px)}40%,60%{transform:translateX(4px)}}',
+    '.kz-shake{animation:kzShake .45s cubic-bezier(.36,.07,.19,.97) both}',
+    '.kz-consent-invalid{outline:1.5px solid rgba(192,57,43,.55);outline-offset:6px;border-radius:8px}',
+    '.kz-consent-invalid,.kz-consent-invalid a,.kz-consent-invalid span{color:#c0392b !important}',
+    '.kz-consent-invalid input[type=checkbox]{accent-color:#c0392b;outline:2px solid #c0392b;outline-offset:1px}',
+    /* резерв места под сообщение — без скачка layout */
+    '.railform .formmsg{display:block !important;min-height:1.05em;margin-top:8px}',
+    '.railform .formmsg[hidden]{visibility:hidden}',
+    /* плавный FAQ (где поддерживается ::details-content) */
+    '.faq details::details-content{block-size:0;overflow:clip;transition:block-size .32s ease, content-visibility .32s allow-discrete}',
+    '.faq details[open]::details-content{block-size:auto}'
+  ].join('');
+  var st = document.createElement('style'); st.textContent = css;
+  (document.head || document.documentElement).appendChild(st);
+
+  function findConsent(form) {
+    return form.querySelector('input[type="checkbox"][required], input[type="checkbox"][name="consent"], .policy input[type="checkbox"], .v2-form-consent input[type="checkbox"]');
+  }
+  function labelOf(cb) {
+    return cb.closest('label') || cb.closest('.policy') || cb.closest('.v2-form-consent') || cb.parentElement;
+  }
+  // перехват отправки: нет согласия -> тряска, без сдвига и без сообщения-толкателя
+  document.addEventListener('submit', function (e) {
+    var form = e.target; if (!form || form.tagName !== 'FORM') return;
+    var cb = findConsent(form); if (!cb || !cb.required) return;
+    if (!cb.checked) {
+      e.preventDefault(); e.stopImmediatePropagation();
+      var lab = labelOf(cb);
+      if (lab) { lab.classList.remove('kz-shake'); void lab.offsetWidth; lab.classList.add('kz-shake', 'kz-consent-invalid'); }
+      try { cb.focus({ preventScroll: true }); } catch (_) {}
+    }
+  }, true);
+  // снятие подсветки при простановке галочки
+  document.addEventListener('change', function (e) {
+    var t = e.target;
+    if (t && t.type === 'checkbox' && t.checked) {
+      var lab = labelOf(t); if (lab) lab.classList.remove('kz-consent-invalid', 'kz-shake');
+    }
+  }, true);
+})();
