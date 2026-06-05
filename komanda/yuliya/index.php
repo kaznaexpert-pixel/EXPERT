@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Юлия — эксперт по ведению контрактов и постоплате | КазнаЭксперт</title>
-<meta name="description" content="Юлия — эксперт КазнаЭксперт по постоплате: платежи по актам и УПД, сводный реестр, отчётность, контракты в медицине и образовании. 8 лет в Казначействе, в команде с 2019.">
+<meta name="description" content="Юлия — эксперт КазнаЭксперт по постоплате: платежи по актам и УПД, сводный реестр, отчётность, контракты в медицине и образовании. 8 лет в казначействе, в команде с 2019 года.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"author", cluster:"komanda"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "ProfilePage", "mainEntity": {"@type": "Person", "name": "Юлия", "jobTitle": "Эксперт по ведению · постоплата", "description": "Юлия — эксперт КазнаЭксперт по постоплате: платежи по актам и УПД, сводный реестр, отчётность, контракты в медицине и образовании. 8 лет в Казначействе, в команде с 2019.", "url": "https://kaznaexpert.ru/komanda/yuliya/", "image": "https://kaznaexpert.ru/img/team/yuliya-640.jpg?b=2", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10"}, "knowsAbout": ["Платежи по актам и УПД", "Сводный реестр", "Квартальная и годовая отчётность", "Медицина и образование"], "colleague": {"@type": "Person", "name": "Ярослав Михайлов", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}}}
+{"@context": "https://schema.org", "@type": "ProfilePage", "mainEntity": {"@type": "Person", "name": "Юлия", "jobTitle": "Эксперт по ведению · постоплата", "description": "Юлия — эксперт КазнаЭксперт по постоплате: платежи по актам и УПД, сводный реестр, отчётность, контракты в медицине и образовании. 8 лет в казначействе, в команде с 2019 года.", "url": "https://kaznaexpert.ru/komanda/yuliya/", "image": "https://kaznaexpert.ru/img/team/yuliya-640.jpg", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10"}, "knowsAbout": ["Платежи по актам и УПД", "Сводный реестр получателей средств", "Квартальная и годовая отчётность", "Проверка оснований платежа", "Контракты в медицине и образовании", "Контроль прохождения платежа до зачисления"], "colleague": {"@type": "Person", "name": "Ярослав Михайлов", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Команда", "item": "https://kaznaexpert.ru/komanda/"}, {"@type": "ListItem", "position": 3, "name": "Юлия"}]}
@@ -67,9 +67,9 @@
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
 <meta property="og:title" content="Юлия — Эксперт по ведению · постоплата">
-<meta property="og:description" content="Юлия — эксперт КазнаЭксперт по постоплате: платежи по актам и УПД, сводный реестр, отчётность, контракты в медицине и образовании. 8 лет в Казначействе, в команде с 2019.">
+<meta property="og:description" content="Юлия — эксперт КазнаЭксперт по постоплате: платежи по актам и УПД, сводный реестр, отчётность, контракты в медицине и образовании. 8 лет в казначействе, в команде с 2019 года.">
 <meta property="og:url" content="https://kaznaexpert.ru/komanda/yuliya/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/team/yuliya-640.jpg?b=2">
+<meta property="og:image" content="https://kaznaexpert.ru/img/team/yuliya-640.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Юлия — Эксперт по ведению · постоплата">
@@ -79,8 +79,8 @@
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Юлия — Эксперт по ведению · постоплата">
-<meta name="twitter:description" content="Юлия — эксперт КазнаЭксперт по постоплате: платежи по актам и УПД, сводный реестр, отчётность, контракты в медицине и образовании. 8 лет в Казначействе, в команде с 2019.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/team/yuliya-640.jpg?b=2">
+<meta name="twitter:description" content="Юлия — эксперт КазнаЭксперт по постоплате: платежи по актам и УПД, сводный реестр, отчётность, контракты в медицине и образовании. 8 лет в казначействе, в команде с 2019 года.">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/team/yuliya-640.jpg">
 
 <style>
 :root{
@@ -494,18 +494,26 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 <div class="v2">
 <style>
 @media (min-width:901px){.v2 .v2-process-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}
+.v2 .v2-section.v2-screen{min-height:auto !important;padding-top:72px !important;padding-bottom:64px !important;display:block !important}
+.v2 .team-crumbs{font-size:13px;color:var(--mute,#6E6B66);margin-bottom:18px}
+.v2 .team-crumbs a{color:var(--accent,#8B6F47)}.v2 .team-crumbs span{color:var(--mute,#6E6B66)}
 .v2 .author-hero{display:grid;grid-template-columns:auto 1fr;gap:40px;align-items:center}
-.v2 .author-hero__photo{width:190px;flex-shrink:0;border-radius:20px;overflow:hidden;box-shadow:0 24px 60px -24px rgba(26,26,26,.55);align-self:start;background:var(--paper,#FBF9F4)}
+.v2 .author-hero__photo{width:200px;flex-shrink:0;border-radius:20px;overflow:hidden;box-shadow:0 24px 60px -24px rgba(26,26,26,.55);align-self:start;background:var(--paper,#FBF9F4)}
 .v2 .author-hero__photo img{width:100%;height:auto;display:block;aspect-ratio:4/5;object-fit:cover}
 .v2 .author-hero__sub{font-size:13px;letter-spacing:.04em;color:var(--accent,#8B6F47);text-transform:uppercase;font-weight:600;margin-top:14px}
 .v2 .author-hero__meta{display:flex;gap:20px;flex-wrap:wrap;margin-top:16px;font-size:14px;color:var(--mute,#6E6B66)}
-.v2 .author-hero__meta a{color:var(--accent,#8B6F47)}
-@media(max-width:680px){.v2 .author-hero{grid-template-columns:1fr;text-align:center;gap:24px;justify-items:center}.v2 .author-hero__photo{width:170px}.v2 .author-hero__meta{justify-content:center}}
-.v2 .expert-focus{display:grid;grid-template-columns:1fr;gap:12px 28px;margin:6px 0 0}
+@media(max-width:680px){.v2 .author-hero{grid-template-columns:1fr;text-align:center;gap:24px;justify-items:center}.v2 .author-hero__photo{width:180px}.v2 .author-hero__meta{justify-content:center}}
+.v2 .bio-prose p{font-size:16.5px;line-height:1.66;color:var(--ink-soft,#3A3A3A);margin:0 0 16px;max-width:760px}
+.v2 .bio-prose p:last-child{margin-bottom:0}
+.v2 .expert-focus{display:grid;grid-template-columns:1fr;gap:13px 30px;margin:6px 0 0}
 @media(min-width:760px){.v2 .expert-focus{grid-template-columns:1fr 1fr}}
 .v2 .expert-focus li{list-style:none;position:relative;padding-left:30px;font-size:15.5px;line-height:1.45;color:var(--ink-soft,#3A3A3A)}
 .v2 .expert-focus li::before{content:"";position:absolute;left:0;top:3px;width:18px;height:18px;border-radius:50%;background:rgba(139,111,71,.14)}
 .v2 .expert-focus li::after{content:"";position:absolute;left:6px;top:7px;width:5px;height:9px;border:solid var(--accent,#8B6F47);border-width:0 2px 2px 0;transform:rotate(45deg)}
+.v2 .crossfunc{margin-top:30px;display:flex;gap:18px;align-items:flex-start;background:linear-gradient(135deg,var(--paper,#FBF9F4),var(--bg-alt,#EDE9E1));border:1px solid var(--hair,rgba(26,26,26,.1));border-left:3px solid var(--accent,#8B6F47);border-radius:14px;padding:22px 26px;max-width:900px}
+.v2 .crossfunc svg{flex-shrink:0;color:var(--accent,#8B6F47);margin-top:2px}
+.v2 .crossfunc p{margin:0;font-size:15px;line-height:1.55;color:var(--ink-soft,#3A3A3A)}
+.v2 .crossfunc b{color:var(--ink,#1A1A1A);font-weight:600}
 .v2 .author-services{display:grid;grid-template-columns:1fr;gap:16px}
 @media(min-width:760px){.v2 .author-services{grid-template-columns:1fr 1fr}}
 .v2 .author-service{display:flex;flex-direction:column;background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.10));border-radius:16px;padding:26px 28px;text-decoration:none;color:inherit;transition:transform .25s cubic-bezier(.2,.8,.3,1),box-shadow .25s,border-color .25s}
@@ -515,23 +523,24 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 .v2 .author-service__desc{font-size:14px;line-height:1.5;color:var(--ink-soft,#3A3A3A);margin:0 0 18px}
 .v2 .author-service__link{margin-top:auto;font-size:14px;font-weight:500;color:var(--accent,#8B6F47);display:inline-flex;align-items:center;gap:6px;transition:gap .2s}
 .v2 .author-service:hover .author-service__link{gap:10px}
-.v2 .team-back{display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;background:linear-gradient(135deg,var(--paper,#FBF9F4),var(--bg-alt,#EDE9E1));border:1px solid var(--hair,rgba(26,26,26,.1));border-radius:16px;padding:22px 28px}
-.v2 .team-back p{margin:0;font-size:15px;color:var(--ink-soft,#3A3A3A)}
-.v2 .team-back b{font-family:var(--font-display,'Playfair Display',serif);font-weight:500;color:var(--ink,#1A1A1A)}
-.v2 .team-back a{flex-shrink:0;font-weight:500;color:var(--accent,#8B6F47);display:inline-flex;gap:6px;align-items:center}
+.v2 .team-colleagues{display:grid;grid-template-columns:1fr;gap:14px}
+@media(min-width:680px){.v2 .team-colleagues{grid-template-columns:1fr 1fr}}
+@media(min-width:1000px){.v2 .team-colleagues{grid-template-columns:repeat(3,1fr)}}
+.v2 .team-colleague{display:flex;align-items:center;gap:16px;background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.1));border-radius:14px;padding:14px 18px;text-decoration:none;color:inherit;transition:transform .2s,box-shadow .2s,border-color .2s}
+.v2 .team-colleague:hover{transform:translateY(-3px);box-shadow:0 16px 32px -20px rgba(26,26,26,.28);border-color:rgba(139,111,71,.4)}
+.v2 .team-colleague__ph{width:60px;height:60px;border-radius:50%;overflow:hidden;flex-shrink:0;background:var(--bg-alt,#EDE9E1)}
+.v2 .team-colleague__ph img{width:100%;height:100%;object-fit:cover;object-position:center 12%}
+.v2 .team-colleague__txt b{font-family:var(--font-display,'Playfair Display',serif);font-weight:500;font-size:18px;display:block;line-height:1.1}
+.v2 .team-colleague__txt span{font-size:12.5px;color:var(--mute,#6E6B66);display:block;margin-top:3px}
 </style>
 <section class="v2-hero">
   <div class="v2-container">
     <div class="v2-hero-grid">
       <div class="v2-hero-main">
+        <nav class="team-crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/komanda/">Команда</a> › <span>Юлия</span></nav>
         <div class="v2-hero-eyebrow-row"><span class="v2-eyebrow">Команда · Ведение контрактов</span><span class="v2-hero-eyebrow-dash" aria-hidden="true"></span></div>
         <div class="author-hero">
-          <div class="author-hero__photo">
-            <picture>
-              <source type="image/webp" srcset="/img/team/yuliya-640.webp?b=2">
-              <img src="/img/team/yuliya-640.jpg?b=2" width="640" height="800" decoding="async" alt="Юлия — Эксперт по ведению · постоплата, КазнаЭксперт">
-            </picture>
-          </div>
+          <div class="author-hero__photo"><picture><source type="image/webp" srcset="/img/team/yuliya-640.webp?b=2"><img src="/img/team/yuliya-640.jpg?b=2" width="640" height="800" decoding="async" alt="Юлия — Эксперт по ведению · постоплата, КазнаЭксперт"></picture></div>
           <div>
             <h1>Юлия</h1>
             <div class="author-hero__sub">Эксперт по ведению · постоплата</div>
@@ -555,9 +564,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
           <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
           <div class="success" id="leadSuccess" role="status" aria-live="polite">
             <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
-            <h3>Заявка принята</h3>
-            <p>Перезвоним <b>в течение 15 минут</b> (9:00–21:00 МСК) и разберём ваш контракт.</p>
-            <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
+            <h3>Заявка принята</h3><p>Перезвоним <b>в течение 15 минут</b> (9:00–21:00 МСК).</p>
           </div>
         </form>
         <div class="v2-hero-alt">Или напишите — ответим за 5 минут<div class="v2-hero-alt-links"><a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a><a href="tel:+79818331010">+7 981 833-10-10</a></div></div>
@@ -565,10 +572,19 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
   </div>
 </section>
-<section class="v2-section v2-screen" id="chem">
+
+<section class="v2-section v2-screen" id="bio">
   <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Чем занимается</div><h2 class="v2-section-title">Зона <em>ответственности</em></h2><p class="v2-section-lede">Проводит платежи по актам и УПД, ведёт сводный реестр, квартальную и годовую отчётность. Прицельно работает с контрактами в медицине и образовании — там, где особенно важна точность оснований платежа.</p></div>
-    <ul class="expert-focus"><li>Платежи по актам и УПД</li><li>Сводный реестр</li><li>Квартальная и годовая отчётность</li><li>Медицина и образование</li></ul>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Об эксперте</div><h2 class="v2-section-title">Путь <em>в профессии</em></h2></div>
+    <div class="bio-prose"><p>Опыт работы в казначействе и совместная работа с командой до прихода в КазнаЭксперт. Хорошо знает требования к основаниям платежа — там, где ошибка в документах разворачивает платёж обратно.</p><p>В команде с 2019 года. Проводит платежи по актам и УПД, ведёт сводный реестр, квартальную и годовую отчётность. Прицельно работает с контрактами в медицине и образовании, где особенно важна точность оснований платежа.</p></div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="zona">
+  <div class="v2-container">
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Чем занимается</div><h2 class="v2-section-title">Зона <em>ответственности</em></h2><p class="v2-section-lede">Ведёт постоплату по актам и УПД, сводный реестр и отчётность. Прицельно работает с контрактами в медицине и образовании.</p></div>
+    <ul class="expert-focus"><li>Платежи по актам и УПД</li><li>Сводный реестр получателей средств</li><li>Квартальная и годовая отчётность</li><li>Проверка оснований платежа</li><li>Контракты в медицине и образовании</li><li>Контроль прохождения платежа до зачисления</li></ul>
+    <div class="crossfunc"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 1l4 4-4 4"/><path d="M3 11V9a4 4 0 0 1 4-4h14"/><path d="M7 23l-4-4 4-4"/><path d="M21 13v2a4 4 0 0 1-4 4H3"/></svg><p>Юлия работает в группе ведения вместе с Натальей и Еленой — они полностью подстраховывают друг друга. Ваш контракт не встанет ни при отпуске, ни при болезни: коллега из группы подхватит его по единому стандарту.</p></div>
   </div>
 </section>
 
@@ -581,31 +597,27 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
 <section class="v2-section v2-screen" id="komanda">
   <div class="v2-container">
-    <div class="team-back">
-      <p>За каждым клиентом — закреплённый эксперт, а на подстраховке вся команда. <b>Один в отпуске — подхватит коллега из той же группы.</b></p>
-      <a href="/komanda/">Вся команда <span aria-hidden="true">→</span></a>
-    </div>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Команда рядом</div><h2 class="v2-section-title">Кто <em>на подстраховке</em></h2><p class="v2-section-lede">За каждым клиентом закреплён профильный эксперт, а на подстраховке — вся команда. Один в отпуске или на больничном — подхватит коллега из той же группы, без паузы в работе с УФК.</p></div>
+    <div class="team-colleagues"><a class="team-colleague" href="/komanda/natalya/"><span class="team-colleague__ph"><img src="/img/team/natalya-sq.webp?b=2" loading="lazy" decoding="async" alt="Наталья — Эксперт по ведению · аванс и ГОЗ"></span><span class="team-colleague__txt"><b>Наталья</b><span>Эксперт по ведению · аванс и ГОЗ</span></span></a><a class="team-colleague" href="/komanda/elena/"><span class="team-colleague__ph"><img src="/img/team/elena-sq.webp?b=2" loading="lazy" decoding="async" alt="Елена — Эксперт по ведению · ИТ и строительство"></span><span class="team-colleague__txt"><b>Елена</b><span>Эксперт по ведению · ИТ и строительство</span></span></a><a class="team-colleague" href="/komanda/mihailov-yaroslav/"><span class="team-colleague__ph"><img src="/img/team/mihailov-sq.webp?b=2" loading="lazy" decoding="async" alt="Ярослав Михайлов — Главный эксперт · основатель"></span><span class="team-colleague__txt"><b>Ярослав Михайлов</b><span>Главный эксперт · основатель</span></span></a><a class="team-colleague" href="/komanda/anton/"><span class="team-colleague__ph"><img src="/img/team/anton-sq.webp?b=2" loading="lazy" decoding="async" alt="Антон — Эксперт по открытию счетов"></span><span class="team-colleague__txt"><b>Антон</b><span>Эксперт по открытию счетов</span></span></a><a class="team-colleague" href="/komanda/stella/"><span class="team-colleague__ph"><img src="/img/team/stella-sq.webp?b=2" loading="lazy" decoding="async" alt="Стелла — Эксперт по резервированию счетов"></span><span class="team-colleague__txt"><b>Стелла</b><span>Эксперт по резервированию счетов</span></span></a></div>
   </div>
 </section>
 
 <section class="v2-section v2-screen" id="zayavka">
   <div class="v2-container">
     <div class="v2-section-head"><div class="v2-section-eyebrow">Заявка</div><h2 class="v2-section-title">Обсудить ваш контракт <em>с экспертом</em></h2><p class="v2-section-lede">Оставьте контакты — перезвоним за 15 минут, разберём ситуацию и назовём точную стоимость.</p></div>
-    <div style="max-width:520px;margin:0 auto">
-      <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="expert-yuliya-cta">
-        <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
-        <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
-        <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
-        <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-        <button class="submit" type="submit">Получить расчёт →</button>
-        <div class="formmsg" id="formMsgBottom" hidden></div>
-        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
-        <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
-          <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
-          <h3>Заявка принята</h3><p>Перезвоним <b>в течение 15 минут</b> (9:00–21:00 МСК).</p>
-        </div>
-      </form>
-    </div>
+    <div style="max-width:520px;margin:0 auto"><form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="expert-yuliya-cta">
+          <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
+          <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
+          <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
+          <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
+          <button class="submit" type="submit">Получить расчёт →</button>
+          <div class="formmsg" id="formMsgBottom" hidden></div>
+          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
+          <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
+            <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
+            <h3>Заявка принята</h3><p>Перезвоним <b>в течение 15 минут</b> (9:00–21:00 МСК).</p>
+          </div>
+        </form></div>
   </div>
 </section>
 </div>
@@ -622,24 +634,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 </section>
 
 <script>
-(function(){
-  var f=document.getElementById('leadFormBottom'); if(!f) return;
-  var msg=document.getElementById('formMsgBottom'), ok=document.getElementById('leadSuccessBottom');
-  function show(t){ if(msg){msg.hidden=false;msg.textContent=t;} }
-  f.addEventListener('submit',function(e){
-    e.preventDefault();
-    if(f.company_extra && f.company_extra.value) return;
-    var name=(f.name.value||'').trim(), phone=(f.phone.value||'').trim();
-    if(name.length<2){show('Введите имя');return;}
-    if(!/\d[\s\d().-]*\d{3}/.test(phone)||phone.replace(/\D/g,'').length<10){show('Проверьте телефон');return;}
-    if(!f.consent.checked){show('Подтвердите согласие');return;}
-    var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';
-    fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})})
-      .then(function(r){ if(!r.ok) throw 0; return r; })
-      .then(function(){ [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; }); if(ok) ok.style.display='block'; try{ if(typeof ym==='function') ym(94305898,'reachGoal','lead',{source:f.dataset.source}); }catch(_){ } })
-      .catch(function(){ btn.disabled=false; btn.textContent=orig; show('Не удалось отправить. Попробуйте ещё раз.'); });
-  });
-})();
+(function(){var f=document.getElementById('leadFormBottom'); if(!f) return;var msg=document.getElementById('formMsgBottom'), ok=document.getElementById('leadSuccessBottom');function show(t){ if(msg){msg.hidden=false;msg.textContent=t;} }f.addEventListener('submit',function(e){e.preventDefault();if(f.company_extra && f.company_extra.value) return;var name=(f.name.value||'').trim(), phone=(f.phone.value||'').trim();if(name.length<2){show('Введите имя');return;}if(!/\d[\s\d().-]*\d{3}/.test(phone)||phone.replace(/\D/g,'').length<10){show('Проверьте телефон');return;}if(!f.consent.checked){show('Подтвердите согласие');return;}var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})}).then(function(r){ if(!r.ok) throw 0; return r; }).then(function(){ [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; }); if(ok) ok.style.display='block'; try{ if(typeof ym==='function') ym(94305898,'reachGoal','lead',{source:f.dataset.source}); }catch(_){ } }).catch(function(){ btn.disabled=false; btn.textContent=orig; show('Не удалось отправить. Попробуйте ещё раз.'); });});})();
 </script>
 
 <footer class="v2-footer" id="footer">

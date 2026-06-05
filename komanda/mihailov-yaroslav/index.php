@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Ярослав Михайлов — главный эксперт по казначейскому сопровождению | КазнаЭксперт</title>
-<meta name="description" content="Ярослав Михайлов — эксперт по казначейскому сопровождению госконтрактов с 2009 года: 15+ лет, 7000+ контрактов, 90 млрд ₽. 44-ФЗ, 223-ФЗ, 275-ФЗ (ГОЗ), счета в ТОФК.">
+<title>Ярослав Михайлов — главный эксперт и основатель КазнаЭксперт</title>
+<meta name="description" content="Ярослав Михайлов — основатель КазнаЭксперт, эксперт по казначейскому сопровождению. Окончил СПбГУ, в Федеральном казначействе 2009–2019, с 2019 — команда КазнаЭксперт. 7000+ контрактов, 90 млрд ₽.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -23,13 +23,13 @@
 <!-- Метрика 94305898 грузится из /js/cookie-consent.js (по согласию, единый счётчик сайта) -->
 <!-- ╚════════════════════════════════════════════════════════════════════════════╝ -->
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
-<script>window.YM_PARAMS = {page_type:"author"};</script>
+<script>window.YM_PARAMS = {page_type:"author", cluster:"komanda"};</script>
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"ProfilePage","mainEntity":{"@type":"Person","name":"Ярослав Михайлов","alternateName":"Михайлов Ярослав Алексеевич","jobTitle":"Главный эксперт","description":"Эксперт по казначейскому сопровождению госконтрактов с 2009 года. 15+ лет практики, 7000+ сопровождённых контрактов на сумму свыше 90 млрд ₽. Специализация: 44-ФЗ, 223-ФЗ, 275-ФЗ, лицевые счета в ТОФК, раздельный учёт, постоплата, аванс, спасение контрактов.","url":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/","worksFor":{"@type":"Organization","name":"КазнаЭксперт","url":"https://kaznaexpert.ru","telephone":"+7-981-833-10-10","logo":"https://kaznaexpert.ru/img/logogold.png"},"knowsAbout":["Казначейское сопровождение","44-ФЗ","223-ФЗ","275-ФЗ (ГОЗ)","Лицевой счёт в Федеральном казначействе","Раздельный учёт по ГОЗ","Постоплата по госконтракту","Авансирование госконтрактов"],"telephone":"+7-981-833-10-10","sameAs":["https://t.me/Kaznaexpert","https://www.rusprofile.ru/ip/321784700367672"]}}
+{"@context": "https://schema.org", "@type": "ProfilePage", "mainEntity": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт · основатель", "description": "Ярослав Михайлов — основатель КазнаЭксперт, эксперт по казначейскому сопровождению. Окончил СПбГУ, в Федеральном казначействе 2009–2019, с 2019 — команда КазнаЭксперт. 7000+ контрактов, 90 млрд ₽.", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-480.jpg", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10"}, "knowsAbout": ["Спасение проблемных контрактов", "Расширенное казначейское сопровождение", "ГОЗ и нестандартные кейсы", "Эскалации от профильных экспертов", "Методология работы команды с УФК", "Контроль качества по всем направлениям"], "alumniOf": {"@type": "CollegeOrUniversity", "name": "Санкт-Петербургский государственный университет"}, "founder": {"@type": "Organization", "name": "КазнаЭксперт"}}}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"Команда"},{"@type":"ListItem","position":3,"name":"Ярослав Михайлов"}]}
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Команда", "item": "https://kaznaexpert.ru/komanda/"}, {"@type": "ListItem", "position": 3, "name": "Ярослав Михайлов"}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -66,21 +66,21 @@
 <meta property="og:type" content="profile">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Ярослав Михайлов — эксперт по казначейскому сопровождению">
-<meta property="og:description" content="15+ лет в Казначействе, 7000+ контрактов, 90 млрд ₽. 44-ФЗ, 275-ФЗ, ГОЗ, лицевые счета в ТОФК.">
+<meta property="og:title" content="Ярослав Михайлов — Главный эксперт · основатель">
+<meta property="og:description" content="Ярослав Михайлов — основатель КазнаЭксперт, эксперт по казначейскому сопровождению. Окончил СПбГУ, в Федеральном казначействе 2009–2019, с 2019 — команда КазнаЭксперт. 7000+ контрактов, 90 млрд ₽.">
 <meta property="og:url" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/team/mihailov-480.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Ярослав Михайлов — эксперт по казначейскому сопровождению — КазнаЭксперт">
+<meta property="og:image:alt" content="Ярослав Михайлов — Главный эксперт · основатель">
 <meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-06-03T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Ярослав Михайлов — эксперт по казначейскому сопровождению">
-<meta name="twitter:description" content="15+ лет в Казначействе, 7000+ контрактов, 90 млрд ₽. 44-ФЗ, 275-ФЗ, ГОЗ, лицевые счета в ТОФК.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:title" content="Ярослав Михайлов — Главный эксперт · основатель">
+<meta name="twitter:description" content="Ярослав Михайлов — основатель КазнаЭксперт, эксперт по казначейскому сопровождению. Окончил СПбГУ, в Федеральном казначействе 2009–2019, с 2019 — команда КазнаЭксперт. 7000+ контрактов, 90 млрд ₽.">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/team/mihailov-480.jpg">
 
 <style>
 :root{
@@ -494,63 +494,67 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 <div class="v2">
 <style>
 @media (min-width:901px){.v2 .v2-process-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}
+.v2 .v2-section.v2-screen{min-height:auto !important;padding-top:72px !important;padding-bottom:64px !important;display:block !important}
+.v2 .team-crumbs{font-size:13px;color:var(--mute,#6E6B66);margin-bottom:18px}
+.v2 .team-crumbs a{color:var(--accent,#8B6F47)}.v2 .team-crumbs span{color:var(--mute,#6E6B66)}
 .v2 .author-hero{display:grid;grid-template-columns:auto 1fr;gap:40px;align-items:center}
-.v2 .author-hero__photo{width:190px;flex-shrink:0;border-radius:20px;overflow:hidden;box-shadow:0 24px 60px -24px rgba(26,26,26,.55);align-self:start}
-.v2 .author-hero__photo img{width:100%;height:auto;display:block}
+.v2 .author-hero__photo{width:200px;flex-shrink:0;border-radius:20px;overflow:hidden;box-shadow:0 24px 60px -24px rgba(26,26,26,.55);align-self:start;background:var(--paper,#FBF9F4)}
+.v2 .author-hero__photo img{width:100%;height:auto;display:block;aspect-ratio:4/5;object-fit:cover}
 .v2 .author-hero__sub{font-size:13px;letter-spacing:.04em;color:var(--accent,#8B6F47);text-transform:uppercase;font-weight:600;margin-top:14px}
 .v2 .author-hero__meta{display:flex;gap:20px;flex-wrap:wrap;margin-top:16px;font-size:14px;color:var(--mute,#6E6B66)}
-.v2 .author-hero__meta a{color:var(--accent,#8B6F47)}
-@media(max-width:680px){.v2 .author-hero{grid-template-columns:1fr;text-align:center;gap:24px;justify-items:center}.v2 .author-hero__photo{width:160px}.v2 .author-hero__meta{justify-content:center}}
+@media(max-width:680px){.v2 .author-hero{grid-template-columns:1fr;text-align:center;gap:24px;justify-items:center}.v2 .author-hero__photo{width:180px}.v2 .author-hero__meta{justify-content:center}}
+.v2 .bio-prose p{font-size:16.5px;line-height:1.66;color:var(--ink-soft,#3A3A3A);margin:0 0 16px;max-width:760px}
+.v2 .bio-prose p:last-child{margin-bottom:0}
+.v2 .expert-focus{display:grid;grid-template-columns:1fr;gap:13px 30px;margin:6px 0 0}
+@media(min-width:760px){.v2 .expert-focus{grid-template-columns:1fr 1fr}}
+.v2 .expert-focus li{list-style:none;position:relative;padding-left:30px;font-size:15.5px;line-height:1.45;color:var(--ink-soft,#3A3A3A)}
+.v2 .expert-focus li::before{content:"";position:absolute;left:0;top:3px;width:18px;height:18px;border-radius:50%;background:rgba(139,111,71,.14)}
+.v2 .expert-focus li::after{content:"";position:absolute;left:6px;top:7px;width:5px;height:9px;border:solid var(--accent,#8B6F47);border-width:0 2px 2px 0;transform:rotate(45deg)}
+.v2 .crossfunc{margin-top:30px;display:flex;gap:18px;align-items:flex-start;background:linear-gradient(135deg,var(--paper,#FBF9F4),var(--bg-alt,#EDE9E1));border:1px solid var(--hair,rgba(26,26,26,.1));border-left:3px solid var(--accent,#8B6F47);border-radius:14px;padding:22px 26px;max-width:900px}
+.v2 .crossfunc svg{flex-shrink:0;color:var(--accent,#8B6F47);margin-top:2px}
+.v2 .crossfunc p{margin:0;font-size:15px;line-height:1.55;color:var(--ink-soft,#3A3A3A)}
+.v2 .crossfunc b{color:var(--ink,#1A1A1A);font-weight:600}
 .v2 .author-services{display:grid;grid-template-columns:1fr;gap:16px}
-@media(min-width:901px){.v2 .author-services{grid-template-columns:repeat(3,1fr)}}
-.v2 .author-service{display:flex;flex-direction:column;background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.10));border-radius:16px;padding:28px 28px 26px;text-decoration:none;color:inherit;transition:transform .25s cubic-bezier(.2,.8,.3,1),box-shadow .25s,border-color .25s}
+@media(min-width:760px){.v2 .author-services{grid-template-columns:1fr 1fr}}
+.v2 .author-service{display:flex;flex-direction:column;background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.10));border-radius:16px;padding:26px 28px;text-decoration:none;color:inherit;transition:transform .25s cubic-bezier(.2,.8,.3,1),box-shadow .25s,border-color .25s}
 .v2 .author-service:hover{transform:translateY(-4px);box-shadow:0 22px 44px -24px rgba(26,26,26,.28);border-color:rgba(139,111,71,.4)}
-.v2 .author-service__no{font-family:var(--font-display,'Playfair Display',serif);font-size:15px;color:var(--accent,#8B6F47)}
-.v2 .author-service__stage{display:block;margin-top:8px;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--mute,#6E6B66);font-weight:600}
-.v2 .author-service__title{font-family:var(--font-display,'Playfair Display',serif);font-weight:500;font-size:21px;line-height:1.2;margin:10px 0 10px}
-.v2 .author-service__desc{font-size:14.5px;line-height:1.5;color:var(--ink-soft,#3A3A3A);margin:0 0 20px}
+.v2 .author-service__stage{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--mute,#6E6B66);font-weight:600}
+.v2 .author-service__title{font-family:var(--font-display,'Playfair Display',serif);font-weight:500;font-size:20px;line-height:1.2;margin:8px 0 8px}
+.v2 .author-service__desc{font-size:14px;line-height:1.5;color:var(--ink-soft,#3A3A3A);margin:0 0 18px}
 .v2 .author-service__link{margin-top:auto;font-size:14px;font-weight:500;color:var(--accent,#8B6F47);display:inline-flex;align-items:center;gap:6px;transition:gap .2s}
 .v2 .author-service:hover .author-service__link{gap:10px}
+.v2 .team-colleagues{display:grid;grid-template-columns:1fr;gap:14px}
+@media(min-width:680px){.v2 .team-colleagues{grid-template-columns:1fr 1fr}}
+@media(min-width:1000px){.v2 .team-colleagues{grid-template-columns:repeat(3,1fr)}}
+.v2 .team-colleague{display:flex;align-items:center;gap:16px;background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.1));border-radius:14px;padding:14px 18px;text-decoration:none;color:inherit;transition:transform .2s,box-shadow .2s,border-color .2s}
+.v2 .team-colleague:hover{transform:translateY(-3px);box-shadow:0 16px 32px -20px rgba(26,26,26,.28);border-color:rgba(139,111,71,.4)}
+.v2 .team-colleague__ph{width:60px;height:60px;border-radius:50%;overflow:hidden;flex-shrink:0;background:var(--bg-alt,#EDE9E1)}
+.v2 .team-colleague__ph img{width:100%;height:100%;object-fit:cover;object-position:center 12%}
+.v2 .team-colleague__txt b{font-family:var(--font-display,'Playfair Display',serif);font-weight:500;font-size:18px;display:block;line-height:1.1}
+.v2 .team-colleague__txt span{font-size:12.5px;color:var(--mute,#6E6B66);display:block;margin-top:3px}
 </style>
-
 <section class="v2-hero">
   <div class="v2-container">
     <div class="v2-hero-grid">
       <div class="v2-hero-main">
-        <div class="v2-hero-eyebrow-row">
-          <span class="v2-eyebrow">Команда · Эксперт</span>
-          <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
-        </div>
+        <nav class="team-crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/komanda/">Команда</a> › <span>Ярослав Михайлов</span></nav>
+        <div class="v2-hero-eyebrow-row"><span class="v2-eyebrow">Команда · Главный эксперт</span><span class="v2-hero-eyebrow-dash" aria-hidden="true"></span></div>
         <div class="author-hero">
-          <div class="author-hero__photo">
-            <picture>
-              <source type="image/webp" srcset="/img/team/mihailov-480.webp?b=2">
-              <img src="/img/team/mihailov-480.jpg?b=2" width="480" height="600" decoding="async" alt="Ярослав Михайлов — главный эксперт КазнаЭксперт по казначейскому сопровождению госконтрактов">
-            </picture>
-          </div>
+          <div class="author-hero__photo"><picture><source type="image/webp" srcset="/img/team/mihailov-480.webp?b=2"><img src="/img/team/mihailov-480.jpg?b=2" width="480" height="600" decoding="async" alt="Ярослав Михайлов — Главный эксперт · основатель, КазнаЭксперт"></picture></div>
           <div>
             <h1>Ярослав Михайлов</h1>
-            <div class="author-hero__sub">Главный эксперт КазнаЭксперт · казначейское сопровождение госконтрактов</div>
-            <p class="v2-hero-lede" style="margin-top:14px">15+ лет в казначейском сопровождении. Под личным контролем — <strong>7000+ контрактов</strong> на сумму свыше <strong>90 млрд ₽</strong>. Специализация: 44-ФЗ, 223-ФЗ, 275-ФЗ, лицевые счета в ТОФК, раздельный учёт, постоплата, авансирование и спасение проблемных контрактов.</p>
-            <div class="author-hero__meta">
-              <span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span>
-              <span>Тел.: <a href="tel:+79818331010">+7 (981) 833-10-10</a></span>
-            </div>
+            <div class="author-hero__sub">Главный эксперт · основатель</div>
+            <p class="v2-hero-lede" style="margin-top:14px">Основатель КазнаЭксперт. Знает казначейское сопровождение с двух сторон — изнутри Федерального казначейства и со стороны бизнеса. Лично контролирует сложные кейсы и эскалации.</p>
+            <div class="author-hero__meta"><span>В команде КазнаЭксперт с 2009 года</span></div>
           </div>
         </div>
-        <div class="v2-hero-trust" style="margin-top:28px">
-          <div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div>
-          <div class="v2-trust-item"><div class="v2-trust-num">7 000<span class="v2-trust-suffix">+</span></div><div class="v2-trust-label">контрактов</div></div>
-          <div class="v2-trust-item"><div class="v2-trust-num">90<span class="v2-trust-suffix">&nbsp;млрд&nbsp;₽</span></div><div class="v2-trust-label">проведено</div></div>
-          <div class="v2-trust-item"><div class="v2-trust-num">с 2009<span class="v2-trust-suffix"></span></div><div class="v2-trust-label">года практики</div></div>
-        </div>
+        <div class="v2-hero-trust" style="margin-top:28px"><div class="v2-trust-item"><div class="v2-trust-num">15+<span class="v2-trust-suffix">&nbsp;лет</span></div><div class="v2-trust-label">в Казначействе</div></div><div class="v2-trust-item"><div class="v2-trust-num">с 2009<span class="v2-trust-suffix"></span></div><div class="v2-trust-label">в команде</div></div></div>
       </div>
-
       <aside class="v2-hero-action">
         <div class="v2-hero-action-eyebrow">Бесплатный анализ контракта</div>
         <h2>Спросить эксперта</h2>
-        <p class="v2-hero-action-sub">Оставьте контакты — Ярослав или его команда перезвонят за 15 минут, разберут ваш контракт и назовут точную стоимость. NDA — до анализа документов.</p>
-        <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="author-mihailov">
+        <p class="v2-hero-action-sub">Оставьте контакты — эксперт или его команда перезвонят за 15 минут, разберут ваш контракт и назовут точную стоимость. NDA — до анализа документов.</p>
+        <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="expert-mihailov-yaroslav">
           <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
           <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
           <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
@@ -560,9 +564,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
           <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
           <div class="success" id="leadSuccess" role="status" aria-live="polite">
             <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
-            <h3>Заявка принята</h3>
-            <p>Перезвоним <b>в течение 15 минут</b> (9:00–21:00 МСК) и разберём ваш контракт.</p>
-            <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
+            <h3>Заявка принята</h3><p>Перезвоним <b>в течение 15 минут</b> (9:00–21:00 МСК).</p>
           </div>
         </form>
         <div class="v2-hero-alt">Или напишите — ответим за 5 минут<div class="v2-hero-alt-links"><a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a><a href="tel:+79818331010">+7 981 833-10-10</a></div></div>
@@ -571,111 +573,51 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="o-eksperte">
+<section class="v2-section v2-screen" id="bio">
   <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Об эксперте</div>
-      <h2 class="v2-section-title">Кто ведёт <em>ваши контракты</em></h2>
-      <p class="v2-section-lede">Практик, а не теоретик. За плечами — тысячи проведённых контрактов и весь спектр казначейских задач: от открытия счёта до спасения контракта на грани расторжения.</p>
-    </div>
-    <div class="v2-process-grid lp-3col">
-      <article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Глубокая специализация</h3><p class="v2-process-desc">Узкий фокус на казначейском сопровождении госконтрактов с 2009 года — без распыления на смежные услуги.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Масштаб практики</h3><p class="v2-process-desc">7000+ сопровождённых контрактов на сумму свыше 90 млрд ₽ — отработаны типовые и нестандартные ситуации.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Знание механики УФК</h3><p class="v2-process-desc">Понимание внутренней логики казначейства и «Электронного бюджета» — там, где у других возвраты, у нас проход с первой подачи.</p></article>
-    </div>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Об эксперте</div><h2 class="v2-section-title">Путь <em>в профессии</em></h2></div>
+    <div class="bio-prose"><p>Окончил Санкт-Петербургский государственный университет по специальности «Экономика предприятия». С 2009 по 2019 год работал в системе Федерального казначейства — изнутри изучил логику санкционирования платежей, типовые причины отказов и реальные требования территориальных органов к документам.</p><p>После казначейства перешёл на сторону бизнеса и занимался поддержкой компаний по казначейскому сопровождению. В 2019 году объединил бывших коллег по Казначейству в команду КазнаЭксперт — так появилась группа специалистов, каждый из которых знает работу УФК не по инструкциям, а изнутри.</p><p>Под личным контролем Ярослава — более 7000 контрактов на сумму свыше 90 млрд ₽. Сегодня ведёт самые сложные ситуации: спасение проблемных контрактов, расширенное казначейское сопровождение, ГОЗ и нестандартные кейсы, которые эскалируют профильные эксперты.</p></div>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="specializaciya">
+<section class="v2-section v2-screen" id="zona">
   <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Специализация</div>
-      <h2 class="v2-section-title">Направления <em>экспертизы</em></h2>
-      <p class="v2-section-lede">Полный цикл казначейского сопровождения — от первого шага к контракту до его закрытия.</p>
-    </div>
-    <div class="v2-process-grid lp-3col">
-      <article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>44-ФЗ и 223-ФЗ</h3><p class="v2-process-desc">Контрактная система: требования к счетам, расчёты, неустойки, сроки и риски по госзакупкам.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>ГОЗ и 275-ФЗ</h3><p class="v2-process-desc">Казначейское сопровождение гособоронзаказа: ИГК, отдельные счета, запреты операций, расширенное КС.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Лицевые счета в ТОФК</h3><p class="v2-process-desc">Резервирование, открытие и переоформление казначейских счетов, настройка «Электронного бюджета».</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Раздельный учёт</h3><p class="v2-process-desc">Постановка и ведение раздельного учёта по контрактам ГОЗ под требования казначейства и налоговой.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Постоплата и аванс</h3><p class="v2-process-desc">Проведение платежей без возвратов, контроль целевого использования аванса и цепочки кооперации.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Спасение контрактов</h3><p class="v2-process-desc">Срочное восстановление проблемных контрактов: блокировки, отказы, запутанный учёт, споры с УФК.</p></article>
-    </div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="stati">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Публикации</div>
-      <h2 class="v2-section-title">Статьи <em>эксперта</em></h2>
-      <p class="v2-section-lede">Разборы по казначейскому сопровождению со ссылками на первоисточники — в базе знаний.</p>
-    </div>
-    <div class="related__grid">
-      <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/"><div class="card__cover"><span>КС ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение ГОЗ по 275-ФЗ</h3><div class="card__meta">Гособоронзаказ · 17 мин</div></div></a>
-      <a class="card reveal" href="/baza-znaniy/peni-i-shtrafy-po-44-fz/"><div class="card__cover"><span>Неустойка</span></div><div class="card__body"><span class="card__cat">Калькулятор</span><h3 class="card__title">Пени и штрафы по 44-ФЗ: расчёт неустойки</h3><div class="card__meta">Госконтракты · 14 мин</div></div></a>
-      <a class="card reveal" href="/baza-znaniy/licevoy-schet-71-kak-otkryt/"><div class="card__cover"><span>Счёт 71</span></div><div class="card__body"><span class="card__cat">Инструкция</span><h3 class="card__title">Как открыть лицевой счёт 71 в ТОФК</h3><div class="card__meta">Открытие счёта · 9 мин</div></div></a>
-    </div>
-    <p class="v2-tariffs-footnote"><a href="/baza-znaniy/">Вся база знаний →</a></p>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Чем занимается</div><h2 class="v2-section-title">Зона <em>ответственности</em></h2><p class="v2-section-lede">Основатель КазнаЭксперт. Знает казначейское сопровождение с двух сторон — изнутри Федерального казначейства и со стороны бизнеса. Лично контролирует сложные кейсы и эскалации.</p></div>
+    <ul class="expert-focus"><li>Спасение проблемных контрактов</li><li>Расширенное казначейское сопровождение</li><li>ГОЗ и нестандартные кейсы</li><li>Эскалации от профильных экспертов</li><li>Методология работы команды с УФК</li><li>Контроль качества по всем направлениям</li></ul>
+    <div class="crossfunc"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 1l4 4-4 4"/><path d="M3 11V9a4 4 0 0 1 4-4h14"/><path d="M7 23l-4-4 4-4"/><path d="M21 13v2a4 4 0 0 1-4 4H3"/></svg><p>Ярослав лично включается в сложные кейсы и подстраховывает все направления. За каждым клиентом закреплён профильный эксперт, а внутри групп специалисты полностью взаимозаменяемы — работа не останавливается ни при отпуске, ни при болезни.</p></div>
   </div>
 </section>
 
 <section class="v2-section v2-screen" id="uslugi">
   <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Услуги</div>
-      <h2 class="v2-section-title">С чем <em>обращаются</em></h2>
-      <p class="v2-section-lede">Полный спектр под ключ — от резерва счёта до спасения контракта. Подробные условия и цены — на страницах услуг.</p>
-    </div>
-    <div class="author-services">
-      <a class="author-service" href="/uslugi/otkrytie-scheta/">
-        <span class="author-service__no">01</span>
-        <span class="author-service__stage">Старт</span>
-        <h3 class="author-service__title">Открытие казначейского счёта</h3>
-        <p class="author-service__desc">Полный пакет документов и открытие счёта в УФК с первой подачи за два рабочих дня, настройка «Электронного бюджета».</p>
-        <span class="author-service__link">Подробнее об услуге <span aria-hidden="true">→</span></span>
-      </a>
-      <a class="author-service" href="/uslugi/soprovozhdenie-avans/">
-        <span class="author-service__no">02</span>
-        <span class="author-service__stage">Ведение</span>
-        <h3 class="author-service__title">Сопровождение контракта</h3>
-        <p class="author-service__desc">Постоплата и аванс: контроль целевого использования средств, санкционирование платежей, цепочка кооперации — безлимит операций.</p>
-        <span class="author-service__link">Подробнее об услуге <span aria-hidden="true">→</span></span>
-      </a>
-      <a class="author-service" href="/uslugi/spasenie-kontrakta/">
-        <span class="author-service__no">03</span>
-        <span class="author-service__stage">Срочно</span>
-        <h3 class="author-service__title">Спасение контракта</h3>
-        <p class="author-service__desc">Возвраты, блокировки, отказы казначейства — срочная диагностика причины и восстановление контракта до исполнения.</p>
-        <span class="author-service__link">Подробнее об услуге <span aria-hidden="true">→</span></span>
-      </a>
-    </div>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Услуги</div><h2 class="v2-section-title">С чем <em>помогает</em></h2><p class="v2-section-lede">Направления, которые ведёт Ярослав Михайлов. Условия и цены — на страницах услуг.</p></div>
+    <div class="author-services"><a class="author-service" href="/uslugi/spasenie-kontrakta/"><span class="author-service__stage">Срочно</span><h3 class="author-service__title">Спасение контракта</h3><p class="author-service__desc">Возвраты, блокировки, отказы УФК — срочная диагностика и восстановление до исполнения.</p><span class="author-service__link">Подробнее об услуге <span aria-hidden="true">→</span></span></a><a class="author-service" href="/uslugi/soprovozhdenie-avans/"><span class="author-service__stage">Ведение</span><h3 class="author-service__title">Сопровождение с авансом</h3><p class="author-service__desc">Контроль целевого использования, санкционирование, цепочка кооперации — безлимит операций.</p><span class="author-service__link">Подробнее об услуге <span aria-hidden="true">→</span></span></a></div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="komanda">
+  <div class="v2-container">
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Команда рядом</div><h2 class="v2-section-title">Кто <em>на подстраховке</em></h2><p class="v2-section-lede">За каждым клиентом закреплён профильный эксперт, а на подстраховке — вся команда. Один в отпуске или на больничном — подхватит коллега из той же группы, без паузы в работе с УФК.</p></div>
+    <div class="team-colleagues"><a class="team-colleague" href="/komanda/anton/"><span class="team-colleague__ph"><img src="/img/team/anton-sq.webp?b=2" loading="lazy" decoding="async" alt="Антон — Эксперт по открытию счетов"></span><span class="team-colleague__txt"><b>Антон</b><span>Эксперт по открытию счетов</span></span></a><a class="team-colleague" href="/komanda/stella/"><span class="team-colleague__ph"><img src="/img/team/stella-sq.webp?b=2" loading="lazy" decoding="async" alt="Стелла — Эксперт по резервированию счетов"></span><span class="team-colleague__txt"><b>Стелла</b><span>Эксперт по резервированию счетов</span></span></a><a class="team-colleague" href="/komanda/natalya/"><span class="team-colleague__ph"><img src="/img/team/natalya-sq.webp?b=2" loading="lazy" decoding="async" alt="Наталья — Эксперт по ведению · аванс и ГОЗ"></span><span class="team-colleague__txt"><b>Наталья</b><span>Эксперт по ведению · аванс и ГОЗ</span></span></a><a class="team-colleague" href="/komanda/yuliya/"><span class="team-colleague__ph"><img src="/img/team/yuliya-sq.webp?b=2" loading="lazy" decoding="async" alt="Юлия — Эксперт по ведению · постоплата"></span><span class="team-colleague__txt"><b>Юлия</b><span>Эксперт по ведению · постоплата</span></span></a><a class="team-colleague" href="/komanda/elena/"><span class="team-colleague__ph"><img src="/img/team/elena-sq.webp?b=2" loading="lazy" decoding="async" alt="Елена — Эксперт по ведению · ИТ и строительство"></span><span class="team-colleague__txt"><b>Елена</b><span>Эксперт по ведению · ИТ и строительство</span></span></a></div>
   </div>
 </section>
 
 <section class="v2-section v2-screen" id="zayavka">
   <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Заявка</div>
-      <h2 class="v2-section-title">Обсудить ваш контракт <em>с экспертом</em></h2>
-      <p class="v2-section-lede">Оставьте контакты — перезвоним за 15 минут, разберём ситуацию и назовём точную стоимость.</p>
-    </div>
-    <div style="max-width:520px;margin:0 auto">
-      <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="author-mihailov-cta">
-        <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
-        <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
-        <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
-        <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-        <button class="submit" type="submit">Получить расчёт →</button>
-        <div class="formmsg" id="formMsgBottom" hidden></div>
-        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
-        <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
-          <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
-          <h3>Заявка принята</h3>
-          <p>Перезвоним <b>в течение 15 минут</b> (9:00–21:00 МСК).</p>
-        </div>
-      </form>
-    </div>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Заявка</div><h2 class="v2-section-title">Обсудить ваш контракт <em>с экспертом</em></h2><p class="v2-section-lede">Оставьте контакты — перезвоним за 15 минут, разберём ситуацию и назовём точную стоимость.</p></div>
+    <div style="max-width:520px;margin:0 auto"><form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="expert-mihailov-yaroslav-cta">
+          <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
+          <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
+          <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
+          <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
+          <button class="submit" type="submit">Получить расчёт →</button>
+          <div class="formmsg" id="formMsgBottom" hidden></div>
+          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
+          <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
+            <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
+            <h3>Заявка принята</h3><p>Перезвоним <b>в течение 15 минут</b> (9:00–21:00 МСК).</p>
+          </div>
+        </form></div>
   </div>
 </section>
 </div>
@@ -692,30 +634,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 </section>
 
 <script>
-(function(){
-  var f=document.getElementById('leadFormBottom'); if(!f) return;
-  var msg=document.getElementById('formMsgBottom'), ok=document.getElementById('leadSuccessBottom');
-  function show(t){ if(msg){msg.hidden=false;msg.textContent=t;} }
-  f.addEventListener('submit',function(e){
-    e.preventDefault();
-    if(f.company_extra && f.company_extra.value) return;
-    var name=(f.name.value||'').trim(), phone=(f.phone.value||'').trim();
-    if(name.length<2){show('Введите имя');return;}
-    if(!/\d[\s\d().-]*\d{3}/.test(phone)||phone.replace(/\D/g,'').length<10){show('Проверьте телефон');return;}
-    if(!f.consent.checked){show('Подтвердите согласие');return;}
-    var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';
-    fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})})
-      .then(function(r){ if(!r.ok) throw 0; return r; })
-      .then(function(){
-        [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; });
-        if(ok) ok.style.display='block';
-        try{ if(typeof ym==='function') ym(94305898,'reachGoal','lead',{source:f.dataset.source}); }catch(_){}
-      })
-      .catch(function(){ btn.disabled=false; btn.textContent=orig; show('Не удалось отправить. Попробуйте ещё раз.'); });
-  });
-})();
+(function(){var f=document.getElementById('leadFormBottom'); if(!f) return;var msg=document.getElementById('formMsgBottom'), ok=document.getElementById('leadSuccessBottom');function show(t){ if(msg){msg.hidden=false;msg.textContent=t;} }f.addEventListener('submit',function(e){e.preventDefault();if(f.company_extra && f.company_extra.value) return;var name=(f.name.value||'').trim(), phone=(f.phone.value||'').trim();if(name.length<2){show('Введите имя');return;}if(!/\d[\s\d().-]*\d{3}/.test(phone)||phone.replace(/\D/g,'').length<10){show('Проверьте телефон');return;}if(!f.consent.checked){show('Подтвердите согласие');return;}var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})}).then(function(r){ if(!r.ok) throw 0; return r; }).then(function(){ [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; }); if(ok) ok.style.display='block'; try{ if(typeof ym==='function') ym(94305898,'reachGoal','lead',{source:f.dataset.source}); }catch(_){ } }).catch(function(){ btn.disabled=false; btn.textContent=orig; show('Не удалось отправить. Попробуйте ещё раз.'); });});})();
 </script>
-
 
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
