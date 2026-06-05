@@ -506,6 +506,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         </header>
 
 <div class="v2">
+<style>@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}</style>
 <section class="v2-hero">
   <div class="v2-container">
     <div class="v2-hero-grid">
@@ -577,7 +578,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <h2 class="v2-section-title">Всё под ключ — <em>от документов до первой операции</em></h2>
       <p class="v2-section-lede">Делаем всё сами. Вы получаете готовый счёт и настроенный «Электронный бюджет».</p>
     </div>
-    <div class="v2-process-grid">
+    <div class="v2-process-grid lp-3col">
       <article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Анализ контракта</h3><p class="v2-process-desc">Проверяем условия и требования к счёту: реквизиты, параметры раздельного учёта, ограничения по операциям.</p></article>
       <article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Пакет документов</h3><p class="v2-process-desc">Готовим полный пакет в точном соответствии с требованиями казначейства — без замечаний при подаче.</p></article>
       <article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Сводный реестр</h3><p class="v2-process-desc">Включаем компанию в сводный реестр получателей средств — без этого казначейские операции невозможны.</p></article>
@@ -611,7 +612,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <h2 class="v2-section-title">От заявки до открытого счёта — <em>два рабочих дня</em></h2>
       <p class="v2-section-lede">Каждый шаг — конкретное действие на нашей стороне. Прозрачно и без неожиданностей.</p>
     </div>
-    <div class="v2-process-grid">
+    <div class="v2-process-grid lp-3col">
       <article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">Сегодня · 15 минут</div><h3>Заявка и старт</h3><p class="v2-process-desc">Перезваниваем за 15 минут, уточняем детали, подписываем договор и NDA, начинаем подготовку.</p><ul class="v2-process-checks"><li>Договор подписан</li></ul></article>
       <article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">День 1</div><h3>Документы и реестр</h3><p class="v2-process-desc">Готовим пакет документов, подаём запрос в УФК, включаем компанию в сводный реестр получателей средств.</p><ul class="v2-process-checks"><li>Пакет собран</li><li>Запрос подан</li></ul></article>
       <article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">День 2</div><h3>Счёт открыт</h3><p class="v2-process-desc">Казначейский счёт активирован, «Электронный бюджет» настроен, реквизиты у вас. Готово к первому платежу.</p><ul class="v2-process-checks"><li>Счёт активен</li><li>Реквизиты переданы</li></ul></article>
@@ -626,7 +627,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <h2 class="v2-section-title">Что идёт не так <em>без специалиста</em></h2>
       <p class="v2-section-lede">Ошибки при самостоятельном открытии обходятся дорого — деньгами и сроком контракта.</p>
     </div>
-    <div class="v2-process-grid">
+    <div class="v2-process-grid lp-3col">
       <article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Возврат документов</h3><p class="v2-process-desc">Замечания казначейства — потеря 2–3 недель на переоформление, пока срок контракта горит.</p></article>
       <article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Неверная настройка ГИИС</h3><p class="v2-process-desc">Неправильные параметры в «Электронном бюджете» приводят к автоматическому возврату платежей.</p></article>
       <article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Заказчик не принимает счёт</h3><p class="v2-process-desc">Ошибка в реквизитах или типе счёта — заказчик вернёт на доработку, риск потери контракта.</p></article>
@@ -668,7 +669,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <h2 class="v2-section-title">Открытие счёта — <em>фиксированная цена</em></h2>
       <p class="v2-section-lede">Конкретный объём работ и стоимость прописаны в договоре. Без «от» и скрытых доплат.</p>
     </div>
-    <div class="v2-tariffs-grid">
+    <div class="v2-tariffs-grid lp-3col">
       <article class="v2-tariff is-featured">
         <div class="v2-tariff-no">02</div>
         <div class="v2-tariff-stage">Победа в тендере</div>
