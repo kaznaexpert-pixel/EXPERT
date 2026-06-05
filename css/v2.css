@@ -208,7 +208,7 @@
 .v2 .v2-nav {
   display: flex;
   justify-content: center;
-  gap: 36px;
+  gap: 24px;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -217,6 +217,7 @@
 .v2 .v2-nav a {
   font-family: var(--font-body);
   font-size: 14px;
+  white-space: nowrap;
   font-weight: 400;
   color: var(--ink);
   letter-spacing: -0.005em;
@@ -256,7 +257,7 @@
   color: var(--accent);
 }
 
-@media (max-width: 920px) {
+@media (max-width: 1100px) {
   .v2 .v2-header {
     padding: 14px 0;
   }
@@ -2921,12 +2922,19 @@
 }
 .v2 .v2-mobile-menu .v2-mobile-cta:hover { color: #fff; opacity: 0.92; }
 
-@media (max-width: 920px) {
+@media (max-width: 1100px) {
   .v2 .v2-burger { display: flex; }
 }
-@media (min-width: 921px) {
+@media (min-width: 1101px) {
   .v2 .v2-mobile-menu { display: none !important; }
 }
+
+/* nav fit: на узких десктопах прячем подпись и уплотняем меню — пункты всегда в одну строку */
+@media (max-width: 1280px) {
+  .v2 .v2-nav { gap: 20px; }
+  .v2 .v2-header-aside .v2-phone-label { display: none; }
+}
+
 
 /* 34.4 — ПРОЦЕСС на мобиле: реальные премиум-карточки,
    текст и буллиты строго внутри, фирменный золотой кант сверху. */
