@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"author", cluster:"komanda"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "ProfilePage", "mainEntity": {"@type": "Person", "name": "Елена", "jobTitle": "Эксперт по ведению · ИТ и строительство", "description": "Елена — эксперт КазнаЭксперт по ведению долгосрочных контрактов с помесячными платежами в ИТ и строительстве. 6 лет в Казначействе, в команде с 2020.", "url": "https://kaznaexpert.ru/komanda/elena/", "image": "https://kaznaexpert.ru/img/team/elena-640.jpg", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10"}, "knowsAbout": ["Долгосрочные контракты", "Помесячные платежи", "Сроки и основания платежа", "ИТ и строительство"], "colleague": {"@type": "Person", "name": "Ярослав Михайлов", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}}}
+{"@context": "https://schema.org", "@type": "ProfilePage", "mainEntity": {"@type": "Person", "name": "Елена", "jobTitle": "Эксперт по ведению · ИТ и строительство", "description": "Елена — эксперт КазнаЭксперт по ведению долгосрочных контрактов с помесячными платежами в ИТ и строительстве. 6 лет в Казначействе, в команде с 2020.", "url": "https://kaznaexpert.ru/komanda/elena/", "image": "https://kaznaexpert.ru/img/team/elena-640.jpg?b=2", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10"}, "knowsAbout": ["Долгосрочные контракты", "Помесячные платежи", "Сроки и основания платежа", "ИТ и строительство"], "colleague": {"@type": "Person", "name": "Ярослав Михайлов", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Команда", "item": "https://kaznaexpert.ru/komanda/"}, {"@type": "ListItem", "position": 3, "name": "Елена"}]}
@@ -69,7 +69,7 @@
 <meta property="og:title" content="Елена — Эксперт по ведению · ИТ и строительство">
 <meta property="og:description" content="Елена — эксперт КазнаЭксперт по ведению долгосрочных контрактов с помесячными платежами в ИТ и строительстве. 6 лет в Казначействе, в команде с 2020.">
 <meta property="og:url" content="https://kaznaexpert.ru/komanda/elena/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/team/elena-640.jpg">
+<meta property="og:image" content="https://kaznaexpert.ru/img/team/elena-640.jpg?b=2">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Елена — Эксперт по ведению · ИТ и строительство">
@@ -80,7 +80,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Елена — Эксперт по ведению · ИТ и строительство">
 <meta name="twitter:description" content="Елена — эксперт КазнаЭксперт по ведению долгосрочных контрактов с помесячными платежами в ИТ и строительстве. 6 лет в Казначействе, в команде с 2020.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/team/elena-640.jpg">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/team/elena-640.jpg?b=2">
 
 <style>
 :root{
@@ -528,8 +528,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         <div class="author-hero">
           <div class="author-hero__photo">
             <picture>
-              <source type="image/webp" srcset="/img/team/elena-640.webp">
-              <img src="/img/team/elena-640.jpg" width="640" height="800" decoding="async" alt="Елена — Эксперт по ведению · ИТ и строительство, КазнаЭксперт">
+              <source type="image/webp" srcset="/img/team/elena-640.webp?b=2">
+              <img src="/img/team/elena-640.jpg?b=2" width="640" height="800" decoding="async" alt="Елена — Эксперт по ведению · ИТ и строительство, КазнаЭксперт">
             </picture>
           </div>
           <div>

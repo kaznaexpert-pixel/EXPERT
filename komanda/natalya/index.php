@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"author", cluster:"komanda"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "ProfilePage", "mainEntity": {"@type": "Person", "name": "Наталья", "jobTitle": "Эксперт по ведению · аванс и ГОЗ", "description": "Наталья — эксперт КазнаЭксперт по ведению контрактов с авансом, ГОЗ и нацпроектов: санкционирование, переписка с УФК. 12 лет в Казначействе, в команде с 2018.", "url": "https://kaznaexpert.ru/komanda/natalya/", "image": "https://kaznaexpert.ru/img/team/natalya-640.jpg", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10"}, "knowsAbout": ["Контракты с авансом", "Гособоронзаказ и нацпроекты", "Переписка с УФК", "Контроль всех этапов платежей"], "colleague": {"@type": "Person", "name": "Ярослав Михайлов", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}}}
+{"@context": "https://schema.org", "@type": "ProfilePage", "mainEntity": {"@type": "Person", "name": "Наталья", "jobTitle": "Эксперт по ведению · аванс и ГОЗ", "description": "Наталья — эксперт КазнаЭксперт по ведению контрактов с авансом, ГОЗ и нацпроектов: санкционирование, переписка с УФК. 12 лет в Казначействе, в команде с 2018.", "url": "https://kaznaexpert.ru/komanda/natalya/", "image": "https://kaznaexpert.ru/img/team/natalya-640.jpg?b=2", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10"}, "knowsAbout": ["Контракты с авансом", "Гособоронзаказ и нацпроекты", "Переписка с УФК", "Контроль всех этапов платежей"], "colleague": {"@type": "Person", "name": "Ярослав Михайлов", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Команда", "item": "https://kaznaexpert.ru/komanda/"}, {"@type": "ListItem", "position": 3, "name": "Наталья"}]}
@@ -69,7 +69,7 @@
 <meta property="og:title" content="Наталья — Эксперт по ведению · аванс и ГОЗ">
 <meta property="og:description" content="Наталья — эксперт КазнаЭксперт по ведению контрактов с авансом, ГОЗ и нацпроектов: санкционирование, переписка с УФК. 12 лет в Казначействе, в команде с 2018.">
 <meta property="og:url" content="https://kaznaexpert.ru/komanda/natalya/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/team/natalya-640.jpg">
+<meta property="og:image" content="https://kaznaexpert.ru/img/team/natalya-640.jpg?b=2">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Наталья — Эксперт по ведению · аванс и ГОЗ">
@@ -80,7 +80,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Наталья — Эксперт по ведению · аванс и ГОЗ">
 <meta name="twitter:description" content="Наталья — эксперт КазнаЭксперт по ведению контрактов с авансом, ГОЗ и нацпроектов: санкционирование, переписка с УФК. 12 лет в Казначействе, в команде с 2018.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/team/natalya-640.jpg">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/team/natalya-640.jpg?b=2">
 
 <style>
 :root{
@@ -528,8 +528,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         <div class="author-hero">
           <div class="author-hero__photo">
             <picture>
-              <source type="image/webp" srcset="/img/team/natalya-640.webp">
-              <img src="/img/team/natalya-640.jpg" width="640" height="800" decoding="async" alt="Наталья — Эксперт по ведению · аванс и ГОЗ, КазнаЭксперт">
+              <source type="image/webp" srcset="/img/team/natalya-640.webp?b=2">
+              <img src="/img/team/natalya-640.jpg?b=2" width="640" height="800" decoding="async" alt="Наталья — Эксперт по ведению · аванс и ГОЗ, КазнаЭксперт">
             </picture>
           </div>
           <div>

@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"author", cluster:"komanda"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "ProfilePage", "mainEntity": {"@type": "Person", "name": "Юлия", "jobTitle": "Эксперт по ведению · постоплата", "description": "Юлия — эксперт КазнаЭксперт по постоплате: платежи по актам и УПД, сводный реестр, отчётность, контракты в медицине и образовании. 8 лет в Казначействе, в команде с 2019.", "url": "https://kaznaexpert.ru/komanda/yuliya/", "image": "https://kaznaexpert.ru/img/team/yuliya-640.jpg", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10"}, "knowsAbout": ["Платежи по актам и УПД", "Сводный реестр", "Квартальная и годовая отчётность", "Медицина и образование"], "colleague": {"@type": "Person", "name": "Ярослав Михайлов", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}}}
+{"@context": "https://schema.org", "@type": "ProfilePage", "mainEntity": {"@type": "Person", "name": "Юлия", "jobTitle": "Эксперт по ведению · постоплата", "description": "Юлия — эксперт КазнаЭксперт по постоплате: платежи по актам и УПД, сводный реестр, отчётность, контракты в медицине и образовании. 8 лет в Казначействе, в команде с 2019.", "url": "https://kaznaexpert.ru/komanda/yuliya/", "image": "https://kaznaexpert.ru/img/team/yuliya-640.jpg?b=2", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10"}, "knowsAbout": ["Платежи по актам и УПД", "Сводный реестр", "Квартальная и годовая отчётность", "Медицина и образование"], "colleague": {"@type": "Person", "name": "Ярослав Михайлов", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Команда", "item": "https://kaznaexpert.ru/komanda/"}, {"@type": "ListItem", "position": 3, "name": "Юлия"}]}
@@ -69,7 +69,7 @@
 <meta property="og:title" content="Юлия — Эксперт по ведению · постоплата">
 <meta property="og:description" content="Юлия — эксперт КазнаЭксперт по постоплате: платежи по актам и УПД, сводный реестр, отчётность, контракты в медицине и образовании. 8 лет в Казначействе, в команде с 2019.">
 <meta property="og:url" content="https://kaznaexpert.ru/komanda/yuliya/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/team/yuliya-640.jpg">
+<meta property="og:image" content="https://kaznaexpert.ru/img/team/yuliya-640.jpg?b=2">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Юлия — Эксперт по ведению · постоплата">
@@ -80,7 +80,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Юлия — Эксперт по ведению · постоплата">
 <meta name="twitter:description" content="Юлия — эксперт КазнаЭксперт по постоплате: платежи по актам и УПД, сводный реестр, отчётность, контракты в медицине и образовании. 8 лет в Казначействе, в команде с 2019.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/team/yuliya-640.jpg">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/team/yuliya-640.jpg?b=2">
 
 <style>
 :root{
@@ -528,8 +528,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         <div class="author-hero">
           <div class="author-hero__photo">
             <picture>
-              <source type="image/webp" srcset="/img/team/yuliya-640.webp">
-              <img src="/img/team/yuliya-640.jpg" width="640" height="800" decoding="async" alt="Юлия — Эксперт по ведению · постоплата, КазнаЭксперт">
+              <source type="image/webp" srcset="/img/team/yuliya-640.webp?b=2">
+              <img src="/img/team/yuliya-640.jpg?b=2" width="640" height="800" decoding="async" alt="Юлия — Эксперт по ведению · постоплата, КазнаЭксперт">
             </picture>
           </div>
           <div>

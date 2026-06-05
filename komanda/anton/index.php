@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"author", cluster:"komanda"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "ProfilePage", "mainEntity": {"@type": "Person", "name": "Антон", "jobTitle": "Эксперт по открытию казначейских счетов", "description": "Антон — эксперт КазнаЭксперт по открытию казначейских счетов: пакет документов под тендер, открытие в УФК с первой подачи. 10 лет в Казначействе, в команде с 2018.", "url": "https://kaznaexpert.ru/komanda/anton/", "image": "https://kaznaexpert.ru/img/team/anton-480.jpg", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10"}, "knowsAbout": ["Пакет документов под тендер", "Открытие счёта в УФК с первой подачи", "Типовые причины отказов и как их избежать", "Москва и Санкт-Петербург"], "colleague": {"@type": "Person", "name": "Ярослав Михайлов", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}}}
+{"@context": "https://schema.org", "@type": "ProfilePage", "mainEntity": {"@type": "Person", "name": "Антон", "jobTitle": "Эксперт по открытию казначейских счетов", "description": "Антон — эксперт КазнаЭксперт по открытию казначейских счетов: пакет документов под тендер, открытие в УФК с первой подачи. 10 лет в Казначействе, в команде с 2018.", "url": "https://kaznaexpert.ru/komanda/anton/", "image": "https://kaznaexpert.ru/img/team/anton-480.jpg?b=2", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10"}, "knowsAbout": ["Пакет документов под тендер", "Открытие счёта в УФК с первой подачи", "Типовые причины отказов и как их избежать", "Москва и Санкт-Петербург"], "colleague": {"@type": "Person", "name": "Ярослав Михайлов", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Команда", "item": "https://kaznaexpert.ru/komanda/"}, {"@type": "ListItem", "position": 3, "name": "Антон"}]}
@@ -69,7 +69,7 @@
 <meta property="og:title" content="Антон — Эксперт по открытию казначейских счетов">
 <meta property="og:description" content="Антон — эксперт КазнаЭксперт по открытию казначейских счетов: пакет документов под тендер, открытие в УФК с первой подачи. 10 лет в Казначействе, в команде с 2018.">
 <meta property="og:url" content="https://kaznaexpert.ru/komanda/anton/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/team/anton-480.jpg">
+<meta property="og:image" content="https://kaznaexpert.ru/img/team/anton-480.jpg?b=2">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Антон — Эксперт по открытию казначейских счетов">
@@ -80,7 +80,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Антон — Эксперт по открытию казначейских счетов">
 <meta name="twitter:description" content="Антон — эксперт КазнаЭксперт по открытию казначейских счетов: пакет документов под тендер, открытие в УФК с первой подачи. 10 лет в Казначействе, в команде с 2018.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/team/anton-480.jpg">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/team/anton-480.jpg?b=2">
 
 <style>
 :root{
@@ -528,8 +528,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         <div class="author-hero">
           <div class="author-hero__photo">
             <picture>
-              <source type="image/webp" srcset="/img/team/anton-480.webp">
-              <img src="/img/team/anton-480.jpg" width="480" height="600" decoding="async" alt="Антон — Эксперт по открытию казначейских счетов, КазнаЭксперт">
+              <source type="image/webp" srcset="/img/team/anton-480.webp?b=2">
+              <img src="/img/team/anton-480.jpg?b=2" width="480" height="600" decoding="async" alt="Антон — Эксперт по открытию казначейских счетов, КазнаЭксперт">
             </picture>
           </div>
           <div>
