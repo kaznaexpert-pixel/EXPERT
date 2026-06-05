@@ -560,7 +560,7 @@ usort($cards, function($a,$b){ return $b['mtime'] <=> $a['mtime']; });
             <nav class="v2-footer-col" aria-label="Связаться">
               <h3 class="v2-footer-h">Связаться</h3>
               <a href="tel:+79818331010">+7 981 833-10-10</a>
-              <a href="mailto:kaznaexpert@gmail.com">kaznaexpert@gmail.com</a>
+              <a href="mailto:manager@kaznaexpert.ru">manager@kaznaexpert.ru</a>
               <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
               <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
             </nav>
