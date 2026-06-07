@@ -685,4 +685,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
 </urlset>
