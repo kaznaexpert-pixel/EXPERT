@@ -239,7 +239,6 @@ header("Cache-Control: public, max-age=300, must-revalidate");
       "@id": "https://kaznaexpert.ru/#mikhaylov",
       "name": "Михайлов Ярослав",
       "jobTitle": "Основатель и эксперт по казначейскому сопровождению",
-      "image": "https://kaznaexpert.ru/img/mihailov-768.jpg",
       "description": "Эксперт по казначейскому сопровождению государственных контрактов по 44-ФЗ и 223-ФЗ. Опыт работы в системе Федерального Казначейства — 15+ лет. Основатель компании КазнаЭксперт. Знает требования УФК изнутри: причины отказов, нюансы КОСГУ и КВР, раздельный учёт, санкционирование платежей.",
       "knowsAbout": [
         "Казначейское сопровождение",
@@ -851,19 +850,18 @@ header("Cache-Control: public, max-age=300, must-revalidate");
             </div>
 
             <div class="v2-expert-split">
-              <div class="v2-expert-portrait v2-expert-portrait--photo v2-reveal">
-                <picture>
-                  <source type="image/webp" srcset="/img/team/mihailov-480.webp?b=2 480w, /img/team/mihailov-768.webp?b=2 768w" sizes="(max-width:760px) 70vw, 360px">
-                  <img src="/img/team/mihailov-768.jpg?b=2" width="768" height="960" loading="lazy" decoding="async"
-                       alt="Ярослав Михайлов — главный эксперт КазнаЭксперт, казначейское сопровождение госконтрактов"
-                       style="width:100%;height:auto;border-radius:16px;display:block">
-                </picture>
+              <div class="v2-expert-portrait v2-reveal" style="display:flex;align-items:center;justify-content:center;background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.1));border-radius:16px;padding:44px 34px;min-height:340px">
+                <div style="text-align:center;max-width:340px">
+                  <div style="width:74px;height:74px;margin:0 auto 20px;border-radius:50%;display:flex;align-items:center;justify-content:center;background:rgba(139,111,71,.12);color:var(--accent,#8B6F47);font-family:var(--font-display,'Playfair Display',serif);font-weight:600;font-size:27px">ЯМ</div>
+                  <p style="font-family:var(--font-display,'Playfair Display',serif);font-size:21px;line-height:1.42;color:var(--ink,#1A1A1A);margin:0 0 14px">«Знаю казначейство с двух сторон — изнутри и со стороны бизнеса. Поэтому ваши платежи проходят санкционирование без возвратов».</p>
+                  <div style="font-size:13px;color:var(--mute,#6E6B66)">Ярослав Михайлов · основатель</div>
+                </div>
               </div>
               <div class="v2-expert-card v2-reveal" itemscope itemtype="https://schema.org/Person">
                 <div class="v2-expert-name" itemprop="name">Ярослав Михайлов</div>
                 <div class="v2-expert-role" itemprop="jobTitle">Главный эксперт «КазнаЭксперт»</div>
                 <p class="v2-expert-bio" itemprop="description">15+ лет в системе Федерального Казначейства. Знаю требования УФК изнутри: причины отказов, санкционирование платежей, раздельный учёт по 44-ФЗ, 223-ФЗ и ГОЗ.</p>
-                <p class="v2-expert-bio">За проектами — 5 специалистов с опытом работы в органах Казначейства. Ведём несколько контрактов параллельно, отвечаем в тот же день и не зависим от одного человека.</p>
+                <p class="v2-expert-bio">Со мной работает специалист по казначейскому сопровождению — ведём контракты вместе, отвечаем в тот же день и не зависим от одного человека.</p>
                 <div class="v2-expert-stats">
                   <div class="v2-expert-stat"><b>7000+</b><span>контрактов сопровождено</span></div>
                   <div class="v2-expert-stat"><b>90 млрд ₽</b><span>прошло через счета</span></div>

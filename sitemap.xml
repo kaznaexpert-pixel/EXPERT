@@ -119,31 +119,6 @@
     <priority>0.70</priority>
   </url>
   <url>
-    <loc>https://kaznaexpert.ru/komanda/anton/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.60</priority>
-  </url>
-  <url>
-    <loc>https://kaznaexpert.ru/komanda/stella/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.60</priority>
-  </url>
-  <url>
-    <loc>https://kaznaexpert.ru/komanda/natalya/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.60</priority>
-  </url>
-  <url>
-    <loc>https://kaznaexpert.ru/komanda/yuliya/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.60</priority>
-  </url>
-  <url>
-    <loc>https://kaznaexpert.ru/komanda/elena/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.60</priority>
-  </url>
-  <url>
     <loc>https://kaznaexpert.ru/keysy/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
@@ -702,5 +677,10 @@
     <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/komanda/anna/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
   </url>
 </urlset>

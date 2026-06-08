@@ -24,6 +24,9 @@ RewriteRule ^(.*)$ https://kaznaexpert.ru/$1 [R=301,L]
 # и выкинут её из выдачи. Действует даже если файлы остались.
 RewriteRule ^222(/.*)?$ - [G,L]
 
+# --- Удалённые страницы экспертов → /komanda/ (301) ---
+RewriteRule ^komanda/(anton|elena|natalya|stella|yuliya)/?$ /komanda/ [R=301,L]
+
 # --- 4. Защитные паттерны: убираем index.php из URL ---
 # Когда пользователь вбивает kaznaexpert.ru/index.php — редирект на /
 RewriteCond %{THE_REQUEST} ^[A-Z]+\s/index\.php[?\s] [NC]

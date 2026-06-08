@@ -4,14 +4,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Антон — эксперт по открытию казначейских счетов | КазнаЭксперт</title>
-<meta name="description" content="Антон — эксперт КазнаЭксперт по открытию казначейских счетов: пакет документов под тендер, открытие в УФК с первой подачи. Опыт в органах казначейства, в команде с 2018 года.">
+<title>Анна — специалист по казначейскому сопровождению | КазнаЭксперт</title>
+<meta name="description" content="Анна — специалист КазнаЭксперт по казначейскому сопровождению: открытие лицевого счёта, Сведения об операциях, проведение и санкционирование платежей без возвратов.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#141310" media="(prefers-color-scheme: dark)">
 <!-- PROD: canonical и og:url ОБЯЗАТЕЛЬНО менять под URL каждой статьи -->
-<link rel="canonical" href="https://kaznaexpert.ru/komanda/anton/">
+<link rel="canonical" href="https://kaznaexpert.ru/komanda/anna/">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
@@ -26,10 +26,10 @@
 <script>window.YM_PARAMS = {page_type:"author", cluster:"komanda"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "ProfilePage", "mainEntity": {"@type": "Person", "name": "Антон", "jobTitle": "Эксперт по открытию счетов", "description": "Антон — эксперт КазнаЭксперт по открытию казначейских счетов: пакет документов под тендер, открытие в УФК с первой подачи. Опыт в органах казначейства, в команде с 2018 года.", "url": "https://kaznaexpert.ru/komanda/anton/", "image": "https://kaznaexpert.ru/img/team/anton-480.jpg", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10"}, "knowsAbout": ["Анализ требований тендера к счёту", "Полный пакет документов под тендер", "Открытие счёта в УФК с первой подачи", "Типовые причины отказов и как их избежать", "Настройка «Электронного бюджета»", "Особенности УФК Москвы и Санкт-Петербурга"], "colleague": {"@type": "Person", "name": "Ярослав Михайлов", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}}}
+{"@context": "https://schema.org", "@type": "ProfilePage", "mainEntity": {"@type": "Person", "name": "Анна", "jobTitle": "Специалист по казначейскому сопровождению", "description": "Анна — специалист КазнаЭксперт по казначейскому сопровождению: открытие лицевого счёта, Сведения об операциях, проведение и санкционирование платежей без возвратов.", "url": "https://kaznaexpert.ru/komanda/anna/", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10"}, "knowsAbout": ["Открытие и ведение лицевого счёта в ТОФК", "Подготовка и корректировка Сведений об операциях", "Коды направлений расходования и источников", "Проведение и санкционирование платежей", "Документы-основания и устранение замечаний УФК", "Коммуникация с территориальным казначейством"], "colleague": {"@type": "Person", "name": "Ярослав Михайлов", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}}}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Команда", "item": "https://kaznaexpert.ru/komanda/"}, {"@type": "ListItem", "position": 3, "name": "Антон"}]}
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Команда", "item": "https://kaznaexpert.ru/komanda/"}, {"@type": "ListItem", "position": 3, "name": "Анна"}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -66,21 +66,21 @@
 <meta property="og:type" content="profile">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Антон — Эксперт по открытию счетов">
-<meta property="og:description" content="Антон — эксперт КазнаЭксперт по открытию казначейских счетов: пакет документов под тендер, открытие в УФК с первой подачи. Опыт в органах казначейства, в команде с 2018 года.">
-<meta property="og:url" content="https://kaznaexpert.ru/komanda/anton/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/team/anton-480.jpg">
+<meta property="og:title" content="Анна — Специалист по казначейскому сопровождению">
+<meta property="og:description" content="Анна — специалист КазнаЭксперт по казначейскому сопровождению: открытие лицевого счёта, Сведения об операциях, проведение и санкционирование платежей без возвратов.">
+<meta property="og:url" content="https://kaznaexpert.ru/komanda/anna/">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Антон — Эксперт по открытию счетов">
+<meta property="og:image:alt" content="КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-06-03T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Антон — Эксперт по открытию счетов">
-<meta name="twitter:description" content="Антон — эксперт КазнаЭксперт по открытию казначейских счетов: пакет документов под тендер, открытие в УФК с первой подачи. Опыт в органах казначейства, в команде с 2018 года.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/team/anton-480.jpg">
+<meta name="twitter:title" content="Анна — Специалист по казначейскому сопровождению">
+<meta name="twitter:description" content="Анна — специалист КазнаЭксперт по казначейскому сопровождению: открытие лицевого счёта, Сведения об операциях, проведение и санкционирование платежей без возвратов.">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <style>
 :root{
@@ -498,15 +498,10 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 <div class="v2">
 <style>
 @media (min-width:901px){.v2 .v2-process-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}
-.v2 .v2-section.v2-screen{min-height:auto !important;padding-top:72px !important;padding-bottom:64px !important;display:block !important}
+.v2 .v2-section.v2-screen{min-height:auto !important;padding-top:64px !important;padding-bottom:56px !important;display:block !important}
 .v2 .team-crumbs{font-size:13px;color:var(--mute,#6E6B66);margin-bottom:18px}
 .v2 .team-crumbs a{color:var(--accent,#8B6F47)}.v2 .team-crumbs span{color:var(--mute,#6E6B66)}
-.v2 .author-hero{display:grid;grid-template-columns:auto 1fr;gap:40px;align-items:center}
-.v2 .author-hero__photo{width:200px;flex-shrink:0;border-radius:20px;overflow:hidden;box-shadow:0 24px 60px -24px rgba(26,26,26,.55);align-self:start;background:var(--paper,#FBF9F4)}
-.v2 .author-hero__photo img{width:100%;height:auto;display:block;aspect-ratio:4/5;object-fit:cover}
-.v2 .author-hero__sub{font-size:13px;letter-spacing:.04em;color:var(--accent,#8B6F47);text-transform:uppercase;font-weight:600;margin-top:14px}
-.v2 .author-hero__meta{display:flex;gap:20px;flex-wrap:wrap;margin-top:16px;font-size:14px;color:var(--mute,#6E6B66)}
-@media(max-width:680px){.v2 .author-hero{grid-template-columns:1fr;text-align:center;gap:24px;justify-items:center}.v2 .author-hero__photo{width:180px}.v2 .author-hero__meta{justify-content:center}}
+.v2 .author-hero__sub{font-size:13px;letter-spacing:.04em;color:var(--accent,#8B6F47);text-transform:uppercase;font-weight:600;margin-top:10px}
 .v2 .bio-prose{max-width:none}
 .v2 .bio-prose p{font-size:16.5px;line-height:1.66;color:var(--ink-soft,#3A3A3A);margin:0 0 16px}
 .v2 .bio-prose p:last-child{margin-bottom:0}
@@ -516,10 +511,6 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 .v2 .expert-focus li{list-style:none;position:relative;padding-left:30px;font-size:15.5px;line-height:1.45;color:var(--ink-soft,#3A3A3A)}
 .v2 .expert-focus li::before{content:"";position:absolute;left:0;top:3px;width:18px;height:18px;border-radius:50%;background:rgba(139,111,71,.14)}
 .v2 .expert-focus li::after{content:"";position:absolute;left:6px;top:7px;width:5px;height:9px;border:solid var(--accent,#8B6F47);border-width:0 2px 2px 0;transform:rotate(45deg)}
-.v2 .crossfunc{margin-top:30px;display:flex;gap:18px;align-items:flex-start;background:linear-gradient(135deg,var(--paper,#FBF9F4),var(--bg-alt,#EDE9E1));border:1px solid var(--hair,rgba(26,26,26,.1));border-left:3px solid var(--accent,#8B6F47);border-radius:14px;padding:22px 26px;max-width:900px}
-.v2 .crossfunc svg{flex-shrink:0;color:var(--accent,#8B6F47);margin-top:2px}
-.v2 .crossfunc p{margin:0;font-size:15px;line-height:1.55;color:var(--ink-soft,#3A3A3A)}
-.v2 .crossfunc b{color:var(--ink,#1A1A1A);font-weight:600}
 .v2 .author-services{display:grid;grid-template-columns:1fr;gap:16px}
 @media(min-width:760px){.v2 .author-services{grid-template-columns:1fr 1fr}}
 .v2 .author-service{display:flex;flex-direction:column;background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.10));border-radius:16px;padding:26px 28px;text-decoration:none;color:inherit;transition:transform .25s cubic-bezier(.2,.8,.3,1),box-shadow .25s,border-color .25s}
@@ -529,38 +520,28 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 .v2 .author-service__desc{font-size:14px;line-height:1.5;color:var(--ink-soft,#3A3A3A);margin:0 0 18px}
 .v2 .author-service__link{margin-top:auto;font-size:14px;font-weight:500;color:var(--accent,#8B6F47);display:inline-flex;align-items:center;gap:6px;transition:gap .2s}
 .v2 .author-service:hover .author-service__link{gap:10px}
-.v2 .team-colleagues{display:grid;grid-template-columns:1fr;gap:14px}
-@media(min-width:680px){.v2 .team-colleagues{grid-template-columns:1fr 1fr}}
-@media(min-width:1000px){.v2 .team-colleagues{grid-template-columns:repeat(3,1fr)}}
-.v2 .team-colleague{display:flex;align-items:center;gap:16px;background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.1));border-radius:14px;padding:14px 18px;text-decoration:none;color:inherit;transition:transform .2s,box-shadow .2s,border-color .2s}
-.v2 .team-colleague:hover{transform:translateY(-3px);box-shadow:0 16px 32px -20px rgba(26,26,26,.28);border-color:rgba(139,111,71,.4)}
-.v2 .team-colleague__ph{width:60px;height:60px;border-radius:50%;overflow:hidden;flex-shrink:0;background:var(--bg-alt,#EDE9E1)}
-.v2 .team-colleague__ph img{width:100%;height:100%;object-fit:cover;object-position:center 12%}
-.v2 .team-colleague__txt b{font-family:var(--font-display,'Playfair Display',serif);font-weight:500;font-size:18px;display:block;line-height:1.1}
-.v2 .team-colleague__txt span{font-size:12.5px;color:var(--mute,#6E6B66);display:block;margin-top:3px}
+.v2 .team-partner{display:flex;align-items:center;gap:18px;background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.1));border-radius:16px;padding:20px 24px;text-decoration:none;color:inherit;max-width:560px;transition:transform .2s,box-shadow .2s,border-color .2s}
+.v2 .team-partner:hover{transform:translateY(-3px);box-shadow:0 16px 32px -20px rgba(26,26,26,.28);border-color:rgba(139,111,71,.4)}
+.v2 .team-partner__mono{width:54px;height:54px;border-radius:50%;flex-shrink:0;display:flex;align-items:center;justify-content:center;background:rgba(139,111,71,.12);color:var(--accent,#8B6F47);font-family:var(--font-display,serif);font-size:20px;font-weight:600}
+.v2 .team-partner__txt b{font-family:var(--font-display,'Playfair Display',serif);font-weight:500;font-size:19px;display:block;line-height:1.1;color:var(--ink)}
+.v2 .team-partner__txt span{font-size:13px;color:var(--mute,#6E6B66);display:block;margin-top:4px}
 </style>
 <section class="v2-hero">
   <div class="v2-container">
     <div class="v2-hero-grid">
       <div class="v2-hero-main">
-        <nav class="team-crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/komanda/">Команда</a> › <span>Антон</span></nav>
-        <div class="v2-hero-eyebrow-row"><span class="v2-eyebrow">Команда · Открытие и резерв счетов</span><span class="v2-hero-eyebrow-dash" aria-hidden="true"></span></div>
-        <div class="author-hero">
-          <div class="author-hero__photo"><picture><source type="image/webp" srcset="/img/team/anton-480.webp?b=2"><img src="/img/team/anton-480.jpg?b=2" width="480" height="600" decoding="async" alt="Антон — Эксперт по открытию счетов, КазнаЭксперт"></picture></div>
-          <div>
-            <h1>Антон</h1>
-            <div class="author-hero__sub">Эксперт по открытию счетов</div>
-            <p class="v2-hero-lede" style="margin-top:14px">Отвечает за открытие казначейских счетов под тендер и этап победы. Собирает документы так, чтобы счёт открывался с первой подачи.</p>
-            <div class="author-hero__meta"><span>В команде КазнаЭксперт с 2018 года</span></div>
-          </div>
-        </div>
-        <div class="v2-hero-trust" style="margin-top:28px"><div class="v2-trust-item"><div class="v2-trust-num">10<span class="v2-trust-suffix">&nbsp;лет</span></div><div class="v2-trust-label">в Казначействе</div></div><div class="v2-trust-item"><div class="v2-trust-num">с 2018<span class="v2-trust-suffix"></span></div><div class="v2-trust-label">в команде</div></div></div>
+        <nav class="team-crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/komanda/">Команда</a> › <span>Анна</span></nav>
+        <div class="v2-hero-eyebrow-row"><span class="v2-eyebrow">Команда · Специалист</span><span class="v2-hero-eyebrow-dash" aria-hidden="true"></span></div>
+        <h1>Анна</h1>
+        <div class="author-hero__sub">Специалист по казначейскому сопровождению</div>
+        <p class="v2-hero-lede" style="margin-top:14px">Ведёт клиентов по казначейскому сопровождению на всех этапах: открытие лицевого счёта, подготовка Сведений, проведение и санкционирование платежей.</p>
+        
       </div>
       <aside class="v2-hero-action">
         <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
         <h2>Спросить эксперта</h2>
-        <p class="v2-hero-action-sub">Оставьте контакты — эксперт или его команда перезвонят за 15 минут, разберут ваш контракт и назовут точную стоимость. NDA — до анализа документов.</p>
-        <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="expert-anton">
+        <p class="v2-hero-action-sub">Оставьте контакты — перезвоним за 15 минут, разберём ваш контракт и назовём точную стоимость. NDA — до анализа документов.</p>
+        <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="expert-anna">
           <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
           <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
           <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
@@ -582,36 +563,35 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 <section class="v2-section v2-screen" id="bio">
   <div class="v2-container">
     <div class="v2-section-head"><div class="v2-section-eyebrow">Об эксперте</div><h2 class="v2-section-title">Путь <em>в профессии</em></h2></div>
-    <div class="bio-prose"><p>За плечами — работа в территориальных органах Федерального казначейства, где Антон вплотную занимался приёмом и проверкой документов на открытие счетов. Знает процедуру не со стороны заявителя, а со стороны того, кто эти заявления принимает и возвращает.</p><p>В команде КазнаЭксперт с 2018 года — один из первых, кого Ярослав Михайлов пригласил из числа бывших коллег по Казначейству. Специализируется на открытии счетов под тендер: знает, какие формальные ошибки чаще всего ловят в УФК Москвы и Санкт-Петербурга, и закрывает их ещё на этапе подготовки.</p></div>
+    <div class="bio-prose"><p>Сопровождает контракты под казначейским контролем от начала до конца — от открытия лицевого счёта в территориальном органе казначейства до проведения платежей и закрытия контракта. Готовит документы и Сведения об операциях так, чтобы платежи проходили санкционирование без возвратов.</p><p>Работает в связке с Ярославом Михайловым: сложные ситуации и эскалации разбираются вместе. Это значит, что по вашему контракту всегда есть кому ответить и подстраховать.</p></div>
   </div>
 </section>
 
 <section class="v2-section v2-screen" id="zona">
   <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Чем занимается</div><h2 class="v2-section-title">Зона <em>ответственности</em></h2><p class="v2-section-lede">Отвечает за открытие казначейских счетов под тендер и этап победы. Собирает документы так, чтобы счёт открывался с первой подачи.</p></div>
-    <ul class="expert-focus"><li>Анализ требований тендера к счёту</li><li>Полный пакет документов под тендер</li><li>Открытие счёта в УФК с первой подачи</li><li>Типовые причины отказов и как их избежать</li><li>Настройка «Электронного бюджета»</li><li>Особенности УФК Москвы и Санкт-Петербурга</li></ul>
-    <div class="crossfunc"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 1l4 4-4 4"/><path d="M3 11V9a4 4 0 0 1 4-4h14"/><path d="M7 23l-4-4 4-4"/><path d="M21 13v2a4 4 0 0 1-4 4H3"/></svg><p>Антон и Стелла — взаимозаменяемая пара по открытию и резерву счетов. Если один в отпуске или на больничном, второй без паузы подхватывает вашу заявку с того же места: оба ведут единый стандарт и видят всю историю по контракту.</p></div>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Чем занимается</div><h2 class="v2-section-title">Зона <em>ответственности</em></h2><p class="v2-section-lede">Ведёт клиентов по казначейскому сопровождению на всех этапах: открытие лицевого счёта, подготовка Сведений, проведение и санкционирование платежей.</p></div>
+    <ul class="expert-focus"><li>Открытие и ведение лицевого счёта в ТОФК</li><li>Подготовка и корректировка Сведений об операциях</li><li>Коды направлений расходования и источников</li><li>Проведение и санкционирование платежей</li><li>Документы-основания и устранение замечаний УФК</li><li>Коммуникация с территориальным казначейством</li></ul>
   </div>
 </section>
 
 <section class="v2-section v2-screen" id="uslugi">
   <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Услуги</div><h2 class="v2-section-title">С чем <em>помогает</em></h2><p class="v2-section-lede">Направления, которые ведёт Антон. Условия и цены — на страницах услуг.</p></div>
-    <div class="author-services"><a class="author-service" href="/uslugi/otkrytie-scheta/"><span class="author-service__stage">Старт</span><h3 class="author-service__title">Открытие казначейского счёта</h3><p class="author-service__desc">Полный пакет документов и открытие счёта в УФК с первой подачи за два рабочих дня.</p><span class="author-service__link">Подробнее об услуге <span aria-hidden="true">→</span></span></a><a class="author-service" href="/uslugi/rezervirovanie-scheta/"><span class="author-service__stage">До тендера</span><h3 class="author-service__title">Резервирование счёта</h3><p class="author-service__desc">Резерв счёта к дате тендера: подтверждение для заказчика, зачёт в открытие.</p><span class="author-service__link">Подробнее об услуге <span aria-hidden="true">→</span></span></a></div>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Услуги</div><h2 class="v2-section-title">С чем <em>помогает</em></h2><p class="v2-section-lede">Направления, которые ведёт Анна. Условия и цены — на страницах услуг.</p></div>
+    <div class="author-services"><a class="author-service" href="/uslugi/otkrytie-scheta/"><span class="author-service__stage">Старт</span><h3 class="author-service__title">Открытие казначейского счёта</h3><p class="author-service__desc">Полный пакет документов и открытие счёта в УФК с первой подачи за два рабочих дня.</p><span class="author-service__link">Подробнее об услуге <span aria-hidden="true">→</span></span></a><a class="author-service" href="/uslugi/soprovozhdenie-postoplata/"><span class="author-service__stage">Ведение</span><h3 class="author-service__title">Сопровождение постоплаты</h3><p class="author-service__desc">Проведение платежей по актам и УПД без возвратов — до зачисления средств.</p><span class="author-service__link">Подробнее об услуге <span aria-hidden="true">→</span></span></a></div>
   </div>
 </section>
 
 <section class="v2-section v2-screen" id="komanda">
   <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Команда рядом</div><h2 class="v2-section-title">Кто <em>на подстраховке</em></h2><p class="v2-section-lede">За каждым клиентом закреплён профильный эксперт, а на подстраховке — вся команда. Один в отпуске или на больничном — подхватит коллега из той же группы, без паузы в работе с УФК.</p></div>
-    <div class="team-colleagues"><a class="team-colleague" href="/komanda/stella/"><span class="team-colleague__ph"><img src="/img/team/stella-sq.webp?b=2" loading="lazy" decoding="async" alt="Стелла — Эксперт по резервированию счетов"></span><span class="team-colleague__txt"><b>Стелла</b><span>Эксперт по резервированию счетов</span></span></a><a class="team-colleague" href="/komanda/mihailov-yaroslav/"><span class="team-colleague__ph"><img src="/img/team/mihailov-sq.webp?b=2" loading="lazy" decoding="async" alt="Ярослав Михайлов — Главный эксперт · основатель"></span><span class="team-colleague__txt"><b>Ярослав Михайлов</b><span>Главный эксперт · основатель</span></span></a><a class="team-colleague" href="/komanda/natalya/"><span class="team-colleague__ph"><img src="/img/team/natalya-sq.webp?b=2" loading="lazy" decoding="async" alt="Наталья — Эксперт по ведению · аванс и ГОЗ"></span><span class="team-colleague__txt"><b>Наталья</b><span>Эксперт по ведению · аванс и ГОЗ</span></span></a><a class="team-colleague" href="/komanda/yuliya/"><span class="team-colleague__ph"><img src="/img/team/yuliya-sq.webp?b=2" loading="lazy" decoding="async" alt="Юлия — Эксперт по ведению · постоплата"></span><span class="team-colleague__txt"><b>Юлия</b><span>Эксперт по ведению · постоплата</span></span></a><a class="team-colleague" href="/komanda/elena/"><span class="team-colleague__ph"><img src="/img/team/elena-sq.webp?b=2" loading="lazy" decoding="async" alt="Елена — Эксперт по ведению · ИТ и строительство"></span><span class="team-colleague__txt"><b>Елена</b><span>Эксперт по ведению · ИТ и строительство</span></span></a></div>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Команда</div><h2 class="v2-section-title">Кто <em>ещё в команде</em></h2><p class="v2-section-lede">Небольшая команда — это значит, что по вашему контракту всегда есть кому ответить и подстраховать.</p></div>
+    <a class="team-partner" href="/komanda/mihailov-yaroslav/"><span class="team-partner__mono">ЯМ</span><span class="team-partner__txt"><b>Ярослав Михайлов</b><span>Основатель · главный эксперт</span></span></a>
   </div>
 </section>
 
 <section class="v2-section v2-screen" id="zayavka">
   <div class="v2-container">
     <div class="v2-section-head"><div class="v2-section-eyebrow">Заявка</div><h2 class="v2-section-title">Обсудить ваш контракт <em>с экспертом</em></h2><p class="v2-section-lede">Оставьте контакты — перезвоним за 15 минут, разберём ситуацию и назовём точную стоимость.</p></div>
-    <div style="max-width:520px;margin:0 auto"><form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="expert-anton-cta">
+    <div style="max-width:520px;margin:0 auto"><form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="expert-anna-cta">
           <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
           <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
           <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">

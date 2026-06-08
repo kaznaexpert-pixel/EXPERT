@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Команда КазнаЭксперт — эксперты по казначейскому сопровождению | КазнаЭксперт</title>
-<meta name="description" content="Команда КазнаЭксперт: главный эксперт и 5 специалистов с опытом работы в органах Федерального казначейства. Открытие и резерв счетов, ведение контрактов, постоплата и аванс.">
+<meta name="description" content="Команда КазнаЭксперт: основатель с опытом работы в Федеральном казначействе и специалист по казначейскому сопровождению. Открытие лицевого счёта, Сведения, проведение платежей без возвратов.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"team", cluster:"komanda"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "CollectionPage", "name": "Команда КазнаЭксперт", "url": "https://kaznaexpert.ru/komanda/", "mainEntity": {"@type": "ItemList", "itemListElement": [{"@type": "ListItem", "position": 1, "item": {"@type": "Person", "name": "Ярослав Михайлов", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}}, {"@type": "ListItem", "position": 2, "item": {"@type": "Person", "name": "Антон", "url": "https://kaznaexpert.ru/komanda/anton/"}}, {"@type": "ListItem", "position": 3, "item": {"@type": "Person", "name": "Стелла", "url": "https://kaznaexpert.ru/komanda/stella/"}}, {"@type": "ListItem", "position": 4, "item": {"@type": "Person", "name": "Наталья", "url": "https://kaznaexpert.ru/komanda/natalya/"}}, {"@type": "ListItem", "position": 5, "item": {"@type": "Person", "name": "Юлия", "url": "https://kaznaexpert.ru/komanda/yuliya/"}}, {"@type": "ListItem", "position": 6, "item": {"@type": "Person", "name": "Елена", "url": "https://kaznaexpert.ru/komanda/elena/"}}]}}
+{"@context": "https://schema.org", "@type": "CollectionPage", "name": "Команда КазнаЭксперт", "url": "https://kaznaexpert.ru/komanda/", "mainEntity": {"@type": "ItemList", "itemListElement": [{"@type": "ListItem", "position": 1, "item": {"@type": "Person", "name": "Ярослав Михайлов", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}}]}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Команда"}]}
@@ -67,7 +67,7 @@
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
 <meta property="og:title" content="Команда КазнаЭксперт">
-<meta property="og:description" content="Команда КазнаЭксперт: главный эксперт и 5 специалистов с опытом работы в органах Федерального казначейства. Открытие и резерв счетов, ведение контрактов, постоплата и аванс.">
+<meta property="og:description" content="Команда КазнаЭксперт: основатель с опытом работы в Федеральном казначействе и специалист по казначейскому сопровождению. Открытие лицевого счёта, Сведения, проведение платежей без возвратов.">
 <meta property="og:url" content="https://kaznaexpert.ru/komanda/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
@@ -79,7 +79,7 @@
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Команда КазнаЭксперт">
-<meta name="twitter:description" content="Команда КазнаЭксперт: главный эксперт и 5 специалистов с опытом работы в органах Федерального казначейства. Открытие и резерв счетов, ведение контрактов, постоплата и аванс.">
+<meta name="twitter:description" content="Команда КазнаЭксперт: основатель с опытом работы в Федеральном казначействе и специалист по казначейскому сопровождению. Открытие лицевого счёта, Сведения, проведение платежей без возвратов.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <style>
@@ -517,72 +517,51 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 .v2 .team-card__link{margin-top:auto;font-size:13.5px;font-weight:500;color:var(--accent,#8B6F47);display:inline-flex;align-items:center;gap:6px;transition:gap .2s}
 .v2 .team-card:hover .team-card__link{gap:10px}
 </style>
+<style>
+.v2 .tm-grid{display:grid;grid-template-columns:1fr;gap:18px;max-width:760px}
+@media(min-width:620px){.v2 .tm-grid{grid-template-columns:1fr 1fr}}
+.v2 .tm-card{display:flex;flex-direction:column;background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.1));border-radius:18px;padding:26px 26px 24px;text-decoration:none;color:inherit;transition:transform .25s cubic-bezier(.2,.8,.3,1),box-shadow .25s,border-color .25s}
+.v2 .tm-card:hover{transform:translateY(-4px);box-shadow:0 24px 48px -26px rgba(26,26,26,.3);border-color:rgba(139,111,71,.45)}
+.v2 .tm-av{width:56px;height:56px;border-radius:50%;display:flex;align-items:center;justify-content:center;background:rgba(139,111,71,.12);color:var(--accent,#8B6F47);font-family:var(--font-display,'Playfair Display',serif);font-weight:600;font-size:20px;margin-bottom:14px}
+.v2 .tm-name{font-family:var(--font-display,'Playfair Display',serif);font-weight:500;font-size:22px;line-height:1.12;color:var(--ink)}
+.v2 .tm-role{font-size:11.5px;letter-spacing:.04em;text-transform:uppercase;color:var(--accent,#8B6F47);font-weight:600;margin-top:6px}
+.v2 .tm-exp{font-size:12.5px;color:var(--mute,#6E6B66);margin-top:7px}
+.v2 .tm-bio{font-size:13.5px;line-height:1.5;color:var(--ink-soft,#3A3A3A);margin:12px 0 16px}
+.v2 .tm-link{margin-top:auto;font-size:13.5px;font-weight:500;color:var(--accent,#8B6F47)}
+.v2 .tm-note{margin:24px 0 0;font-size:13.5px;line-height:1.55;color:var(--mute,#6E6B66);max-width:760px}
+</style>
 <section class="v2-hero">
   <div class="v2-container"><div class="team-wrap">
     <div class="v2-hero-eyebrow-row"><span class="v2-eyebrow">Команда</span><span class="v2-hero-eyebrow-dash" aria-hidden="true"></span></div>
     <div class="team-hero">
       <h1>Команда КазнаЭксперт</h1>
-      <p class="v2-hero-lede">Главный эксперт и пять специалистов с опытом работы в органах Федерального казначейства. За каждым клиентом закрепляем профильного эксперта, а на подстраховке — вся команда: один в отпуске или на больничном — подхватит коллега из той же группы. Никаких пауз в работе с УФК.</p>
+      <p class="v2-hero-lede">Небольшая команда, которая занимается только казначейским сопровождением госконтрактов. Основатель с опытом работы внутри Федерального казначейства и специалист, ведущий клиентов на всех этапах. По каждому контракту всегда есть кому ответить и подстраховать — без пауз в работе с УФК.</p>
     </div>
   </div></div>
 </section>
 
 <section class="v2-section">
-  <div class="v2-container"><div class="team-wrap"><div class="team-grid"><a class="team-card is-lead" href="/komanda/mihailov-yaroslav/">
-        <div class="team-card__photo"><span class="team-card__badge">Главный эксперт</span><picture><source type="image/webp" srcset="/img/team/mihailov-sq.webp?b=2"><img src="/img/team/mihailov-sq.jpg?b=2" loading="lazy" decoding="async" width="460" height="460" alt="Ярослав Михайлов — Главный эксперт · основатель, КазнаЭксперт"></picture></div>
-        <div class="team-card__body">
-          <div class="team-card__name">Ярослав Михайлов</div>
-          <div class="team-card__role">Главный эксперт · основатель</div>
-          <div class="team-card__exp">15+ лет · с 2009</div>
-          <p class="team-card__bio">7000+ контрактов на 90 млрд ₽. Спасение сложных контрактов, ГОЗ, расширенное КС.</p>
-          <span class="team-card__link">Подробнее <span aria-hidden="true">→</span></span>
-        </div>
-      </a><a class="team-card" href="/komanda/anton/">
-        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/anton-sq.webp?b=2"><img src="/img/team/anton-sq.jpg?b=2" loading="lazy" decoding="async" width="460" height="460" alt="Антон — Открытие казначейских счетов, КазнаЭксперт"></picture></div>
-        <div class="team-card__body">
-          <div class="team-card__name">Антон</div>
-          <div class="team-card__role">Открытие казначейских счетов</div>
-          <div class="team-card__exp">10 лет · с 2018</div>
-          <p class="team-card__bio">Пакеты документов под тендер и открытие счёта в УФК с первой подачи.</p>
-          <span class="team-card__link">Подробнее <span aria-hidden="true">→</span></span>
-        </div>
-      </a><a class="team-card" href="/komanda/stella/">
-        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/stella-sq.webp?b=2"><img src="/img/team/stella-sq.jpg?b=2" loading="lazy" decoding="async" width="460" height="460" alt="Стелла — Резервирование счетов, КазнаЭксперт"></picture></div>
-        <div class="team-card__body">
-          <div class="team-card__name">Стелла</div>
-          <div class="team-card__role">Резервирование счетов</div>
-          <div class="team-card__exp">5 лет · с 2020</div>
-          <p class="team-card__bio">Резерв счёта к дате тендера, проверка документов до подачи.</p>
-          <span class="team-card__link">Подробнее <span aria-hidden="true">→</span></span>
-        </div>
-      </a><a class="team-card" href="/komanda/natalya/">
-        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/natalya-sq.webp?b=2"><img src="/img/team/natalya-sq.jpg?b=2" loading="lazy" decoding="async" width="460" height="460" alt="Наталья — Ведение · аванс и ГОЗ, КазнаЭксперт"></picture></div>
-        <div class="team-card__body">
-          <div class="team-card__name">Наталья</div>
-          <div class="team-card__role">Ведение · аванс и ГОЗ</div>
-          <div class="team-card__exp">12 лет · с 2018</div>
-          <p class="team-card__bio">Контракты с авансом, ГОЗ и нацпроекты, контроль всех этапов платежей.</p>
-          <span class="team-card__link">Подробнее <span aria-hidden="true">→</span></span>
-        </div>
-      </a><a class="team-card" href="/komanda/yuliya/">
-        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/yuliya-sq.webp?b=2"><img src="/img/team/yuliya-sq.jpg?b=2" loading="lazy" decoding="async" width="460" height="460" alt="Юлия — Ведение · постоплата, КазнаЭксперт"></picture></div>
-        <div class="team-card__body">
-          <div class="team-card__name">Юлия</div>
-          <div class="team-card__role">Ведение · постоплата</div>
-          <div class="team-card__exp">8 лет · с 2019</div>
-          <p class="team-card__bio">Платежи по актам и УПД, отчётность, медицина и образование.</p>
-          <span class="team-card__link">Подробнее <span aria-hidden="true">→</span></span>
-        </div>
-      </a><a class="team-card" href="/komanda/elena/">
-        <div class="team-card__photo"><picture><source type="image/webp" srcset="/img/team/elena-sq.webp?b=2"><img src="/img/team/elena-sq.jpg?b=2" loading="lazy" decoding="async" width="460" height="460" alt="Елена — Ведение · ИТ и строительство, КазнаЭксперт"></picture></div>
-        <div class="team-card__body">
-          <div class="team-card__name">Елена</div>
-          <div class="team-card__role">Ведение · ИТ и строительство</div>
-          <div class="team-card__exp">6 лет · с 2020</div>
-          <p class="team-card__bio">Долгосрочные контракты с помесячными платежами, сроки и основания.</p>
-          <span class="team-card__link">Подробнее <span aria-hidden="true">→</span></span>
-        </div>
-      </a></div></div></div>
+  <div class="v2-container"><div class="team-wrap">
+    <div class="tm-grid">
+      <a class="tm-card" href="/komanda/mihailov-yaroslav/">
+        <span class="tm-av">ЯМ</span>
+        <span class="tm-name">Ярослав Михайлов</span>
+        <span class="tm-role">Основатель · главный эксперт</span>
+        <span class="tm-exp">15+ лет в Казначействе · с 2009</span>
+        <p class="tm-bio">Окончил СПбГУ; в Федеральном казначействе с 2009 по 2019 год. Ведёт сложные кейсы, ГОЗ и спасение контрактов.</p>
+        <span class="tm-link">Подробнее →</span>
+      </a>
+      <a class="tm-card" href="/komanda/anna/">
+        <span class="tm-av">А</span>
+        <span class="tm-name">Анна</span>
+        <span class="tm-role">Специалист по казначейскому сопровождению</span>
+        <span class="tm-exp">Ведёт клиентов на всех этапах</span>
+        <p class="tm-bio">Открытие лицевого счёта, Сведения об операциях, проведение и санкционирование платежей без возвратов.</p>
+        <span class="tm-link">Подробнее →</span>
+      </a>
+    </div>
+    <p class="tm-note">Мы не используем обезличенные «стоковые» фотографии и не выдаём за сотрудников посторонних людей. За компанией стоит конкретное ИП — проверьте нас в открытых реестрах (ИНН и ОГРНИП указаны внизу страницы).</p>
+  </div></div>
 </section>
 
 <section class="v2-section v2-screen" id="zayavka">
