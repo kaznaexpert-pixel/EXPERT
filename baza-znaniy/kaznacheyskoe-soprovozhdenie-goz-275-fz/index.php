@@ -922,6 +922,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/licevoy-schet-71-kak-otkryt/"><div class="card__cover"><span>Счёт 71</span></div><div class="card__body"><span class="card__cat">Инструкция</span><h3 class="card__title">Как открыть лицевой счёт 71 в ТОФК</h3><div class="card__meta">Открытие счёта · 9 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>10 причин</span></div><div class="card__body"><span class="card__cat">Чек-лист</span><h3 class="card__title">10 причин отказа казначейства в санкционировании</h3><div class="card__meta">Санкционирование · 11 мин</div></div></a>
     <!-- auto-related:vidy-cen-goz --><a class="card reveal" href="/baza-znaniy/vidy-cen-goz/"><div class="card__cover"><span>Цена ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Виды цен на продукцию ГОЗ: ориентировочная, фиксированная</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
+    <!-- auto-related:suschestvennye-usloviya-kontrakta-goz --><a class="card reveal" href="/baza-znaniy/suschestvennye-usloviya-kontrakta-goz/"><div class="card__cover"><span>Контракт ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Существенные условия контракта по ГОЗ</h3><div class="card__meta">ГОЗ · 15 мин</div></div></a>
   </div>
 </section>
 
