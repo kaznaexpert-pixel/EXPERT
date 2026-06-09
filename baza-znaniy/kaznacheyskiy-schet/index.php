@@ -760,6 +760,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Основы КС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение: что это и как работает в 2026</h3><div class="card__meta">Основы · 18 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/licevoy-schet-71-kak-otkryt/"><div class="card__cover"><span>Счёт 71</span></div><div class="card__body"><span class="card__cat">Инструкция</span><h3 class="card__title">Как открыть лицевой счёт 71 в ТОФК</h3><div class="card__meta">Открытие счёта · 12 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>Отказы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Причины отказа казначейства в санкционировании</h3><div class="card__meta">Санкционирование · 14 мин</div></div></a>
+    <!-- auto-related:chto-takoe-kaznachejstvo-i-tofk --><a class="card reveal" href="/baza-znaniy/chto-takoe-kaznachejstvo-i-tofk/"><div class="card__cover"><span>Казначейство</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Что такое казначейство и ТОФК</h3><div class="card__meta">Основы · 14 мин</div></div></a>
   </div>
 </section>
 

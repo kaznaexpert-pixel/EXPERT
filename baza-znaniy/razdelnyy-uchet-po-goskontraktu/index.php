@@ -770,6 +770,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/"><div class="card__cover"><span>ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по ГОЗ: как вести, образец, штрафы</h3><div class="card__meta">Учёт · 17 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/svedeniya-ob-operaciyah-s-celevymi-sredstvami/"><div class="card__cover"><span>Сведения</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Сведения об операциях с целевыми средствами</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>Отказы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Причины отказа казначейства в санкционировании</h3><div class="card__meta">Санкционирование · 14 мин</div></div></a>
+    <!-- auto-related:uchetnaya-politika-razdelnyy-uchet-goz --><a class="card reveal" href="/baza-znaniy/uchetnaya-politika-razdelnyy-uchet-goz/"><div class="card__cover"><span>Учётная политика</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Учётная политика по раздельному учёту ГОЗ</h3><div class="card__meta">Учёт · 15 мин</div></div></a>
   </div>
 </section>
 
