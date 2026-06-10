@@ -923,6 +923,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>10 причин</span></div><div class="card__body"><span class="card__cat">Чек-лист</span><h3 class="card__title">10 причин отказа казначейства в санкционировании</h3><div class="card__meta">Санкционирование · 11 мин</div></div></a>
     <!-- auto-related:vidy-cen-goz --><a class="card reveal" href="/baza-znaniy/vidy-cen-goz/"><div class="card__cover"><span>Цена ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Виды цен на продукцию ГОЗ: ориентировочная, фиксированная</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
     <!-- auto-related:suschestvennye-usloviya-kontrakta-goz --><a class="card reveal" href="/baza-znaniy/suschestvennye-usloviya-kontrakta-goz/"><div class="card__cover"><span>Контракт ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Существенные условия контракта по ГОЗ</h3><div class="card__meta">ГОЗ · 15 мин</div></div></a>
+    <!-- auto-related:ast-goz-elektronnaya-ploschadka --><a class="card reveal" href="/baza-znaniy/ast-goz-elektronnaya-ploschadka/"><div class="card__cover"><span>АСТ ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">АСТ ГОЗ: электронная площадка</h3><div class="card__meta">ГОЗ · 13 мин</div></div></a>
   </div>
 </section>
 
