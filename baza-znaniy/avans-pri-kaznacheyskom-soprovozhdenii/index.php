@@ -765,6 +765,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>База знаний</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Кто попадает под казначейское сопровождение в 2026</h3><div class="card__meta">Пороги · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/poryadok-sankcionirovaniya-rashodov/"><div class="card__cover"><span>База знаний</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Порядок санкционирования расходов при КС</h3><div class="card__meta">Санкционирование · 13 мин</div></div></a>
     <a class="card reveal" href="/uslugi/soprovozhdenie-avans/"><div class="card__cover"><span>Услуга</span></div><div class="card__body"><span class="card__cat">Услуга</span><h3 class="card__title">Сопровождение контрактов с авансом</h3><div class="card__meta">Услуга · безлимит операций</div></div></a>
+    <!-- auto-related:kaznacheyskoe-obespechenie-obyazatelstv --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-obespechenie-obyazatelstv/"><div class="card__cover"><span>КОО</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское обеспечение обязательств (КОО)</h3><div class="card__meta">Операции · 15 мин</div></div></a>
   </div>
 </section>
 
