@@ -543,6 +543,82 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       </div>
     </section>
 
+    <section class="ks-quiz" id="quiz" aria-labelledby="ksQuizTitle">
+      <style>
+      .ks-quiz{--i:var(--ink,#1A1A1A);--s:var(--sepia,#8B6F47);--l:var(--line,#e4ddd0);--c:var(--card,#fffdf8);--m:var(--ink-mute,#8a8170);
+        background:var(--c);border:1px solid var(--l);border-radius:16px;padding:26px 28px;margin:28px 0}
+      .ks-quiz h2{margin:0 0 6px}
+      .ks-quiz__sub{font-size:13.5px;color:var(--m);margin:0 0 18px}
+      .ks-quiz__q{font-size:16px;font-weight:600;color:var(--i);margin:0 0 14px;min-height:44px}
+      .ks-quiz__btns{display:flex;gap:10px;flex-wrap:wrap}
+      .ks-quiz__btn{font:inherit;font-size:14.5px;font-weight:500;padding:11px 22px;border-radius:10px;border:1px solid var(--l);background:#fff;color:var(--i);cursor:pointer;transition:border-color .15s,background .15s}
+      .ks-quiz__btn:hover{border-color:var(--s);background:rgba(139,111,71,.06)}
+      .ks-quiz__res{display:none;border-left:3px solid var(--s);padding:4px 0 4px 16px}
+      .ks-quiz__res.on{display:block}
+      .ks-quiz__res b{display:block;font-size:16.5px;margin-bottom:6px}
+      .ks-quiz__res p{font-size:14.5px;line-height:1.55;margin:0 0 8px;color:var(--i)}
+      .ks-quiz__res a{color:var(--s)}
+      .ks-quiz__restart{font:inherit;font-size:13px;background:none;border:none;color:var(--m);cursor:pointer;padding:0;margin-top:6px;text-decoration:underline}
+      .ks-quiz__note{font-size:12px;color:var(--m);margin-top:14px;line-height:1.45}
+      .ks-quiz__step{font-size:12px;color:var(--m);letter-spacing:.04em;text-transform:uppercase;margin-bottom:8px}
+      </style>
+      <h2 id="ksQuizTitle">Проверьте за 30 секунд: попадает ли ваш контракт под сопровождение</h2>
+      <p class="ks-quiz__sub">Мини-тест по статье 5 Закона № 426-ФЗ о федеральном бюджете на 2026 год</p>
+      <div id="ksqBody">
+        <div class="ks-quiz__step" id="ksqStep">Вопрос 1</div>
+        <p class="ks-quiz__q" id="ksqQ"></p>
+        <div class="ks-quiz__btns" id="ksqBtns"></div>
+      </div>
+      <div class="ks-quiz__res" id="ksqRes" role="status" aria-live="polite"></div>
+      <p class="ks-quiz__note">Тест ориентировочный и охватывает типовые случаи федерального уровня. Решающее значение имеют условия вашего контракта и действующая редакция ст. 5 № 426-ФЗ; для регионального и муниципального уровня случаи устанавливают акты субъекта.</p>
+      <script>
+      (function(){
+        var Q={
+          start:{q:'Ваш контракт относится к гособоронзаказу (275-ФЗ)?',a:[['Да','goz'],['Нет','q2']]},
+          goz:{q:'Сумма расчётов или аванса по контракту (для соисполнителей — по вашему договору) превышает 3 млн ₽?',a:[['Да','r_goz'],['Нет','r_goz_no']]},
+          q2:{q:'Это субсидия или бюджетная инвестиция юридическому лицу?',a:[['Да','r_subs'],['Нет','q3']]},
+          q3:{q:'Контракт заключён с единственным поставщиком (п. 2 ч. 1 ст. 93 44-ФЗ и аналогичные случаи) — либо ваш договор заключён в его исполнение?',a:[['Да','ep'],['Нет','q4']]},
+          ep:{q:'Сумма расчётов превышает 3 млн ₽?',a:[['Да','r_ep'],['Нет','r_no']]},
+          q4:{q:'Контрактом предусмотрен аванс?',a:[['Да','q5'],['Нет','r_no']]},
+          q5:{q:'Кто заказчик и какой аванс?',a:[['Госконтракт, аванс от 100 млн ₽','r_av100'],['Федеральное БУ/АУ за счёт субсидии, аванс от 10 млн ₽','r_av10'],['Аванс меньше порогов','r_soisp']]},
+          r_soisp:{q:'Вы соисполнитель по контракту, который сам под сопровождением, и ваш аванс больше 3 млн ₽?',a:[['Да','r_av3'],['Нет','r_no']]}
+        };
+        var R={
+          r_goz:['Да, контракт под сопровождением','Расчёты по ГОЗ свыше 3 млн ₽ проходят через лицевой счёт в ТОФК либо отдельный счёт в уполномоченном банке — режим определяет госзаказчик. Начните с разбора <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/">казначейского сопровождения ГОЗ</a>.'],
+          r_goz_no:['Скорее нет, но проверьте контракт','Для ГОЗ ниже 3 млн ₽ сопровождение обычно не применяется, однако условие может быть прямо включено в контракт. Сверьтесь с разделом о порядке расчётов.'],
+          r_subs:['Да, без порога по сумме','Субсидии и бюджетные инвестиции юрлицам сопровождаются независимо от суммы. Разбор — в статье о <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-subsidiy/">казначейском сопровождении субсидий</a>.'],
+          r_ep:['Да, контракт под сопровождением','Закупки у единственного поставщика свыше 3 млн ₽ — классический случай КС. Следующий шаг — <a href="/baza-znaniy/svodnyy-reestr/">сводный реестр</a> и <a href="/baza-znaniy/licevoy-schet-71-kak-otkryt/">лицевой счёт 71</a>.'],
+          r_av100:['Да, аванс под сопровождением','Авансы по госконтрактам от 100 млн ₽ зачисляются на лицевой счёт в ТОФК. Как устроена работа — в статье об <a href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/">авансе при казначейском сопровождении</a>.'],
+          r_av10:['Да, аванс под сопровождением','Для контрактов федеральных бюджетных и автономных учреждений за счёт субсидий порог по авансу — 10 млн ₽. Подробности — в статье об <a href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/">авансе при КС</a>.'],
+          r_av3:['Да, ваш аванс под сопровождением','Авансы исполнителей и соисполнителей свыше 3 млн ₽ по сопровождаемым контрактам также проходят через лицевой счёт. Откройте его заранее: <a href="/baza-znaniy/licevoy-schet-71-kak-otkryt/">как открыть счёт 71</a>.'],
+          r_no:['Скорее не попадает','По типовым федеральным основаниям ст. 5 № 426-ФЗ ваш случай под сопровождение не подпадает. Проверьте раздел контракта о порядке расчётов и региональные акты — и сохраните <a href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/#quiz">этот тест</a> для следующих закупок.']
+        };
+        var step=1, body=document.getElementById('ksqBody'), res=document.getElementById('ksqRes');
+        function show(id){
+          if(R[id]){
+            body.style.display='none';
+            res.className='ks-quiz__res on';
+            res.innerHTML='<b>'+R[id][0]+'</b><p>'+R[id][1]+'</p><button class="ks-quiz__restart" type="button" id="ksqAgain">Пройти ещё раз</button>';
+            document.getElementById('ksqAgain').onclick=function(){ step=1; body.style.display='block'; res.className='ks-quiz__res'; res.innerHTML=''; show('start'); };
+            try{ if(typeof ym==='function') ym(94305898,'reachGoal','quiz_done',{result:id}); }catch(_){}
+            return;
+          }
+          var n=Q[id];
+          document.getElementById('ksqStep').textContent='Вопрос '+step;
+          document.getElementById('ksqQ').textContent=n.q;
+          var btns=document.getElementById('ksqBtns'); btns.innerHTML='';
+          n.a.forEach(function(p){
+            var b=document.createElement('button'); b.type='button'; b.className='ks-quiz__btn'; b.textContent=p[0];
+            b.onclick=function(){ step++; show(p[1]); };
+            btns.appendChild(b);
+          });
+        }
+        show('start');
+      })();
+      </script>
+    </section>
+
+
     <p class="answer lead-p">Попадание контракта под казначейское сопровождение — это не вопрос отрасли или статуса подрядчика, а вопрос источника денег и суммы. Каждый год перечень случаев заново фиксирует закон о федеральном бюджете. На 2026 год это статья 5 Закона № 426-ФЗ: она прямо перечисляет, какие средства проходят через лицевой счёт в казначействе, а не через обычный расчётный счёт в банке. Разберём перечень по пунктам, с порогами и оговорками.</p>
 
     <h2 id="chto">Зачем государство вводит пороги</h2>

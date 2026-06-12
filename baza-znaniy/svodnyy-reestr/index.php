@@ -640,7 +640,42 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <h2 id="proverka">Как проверить организацию в сводном реестре: пошагово</h2>
     <h3>Шаг 1. Откройте единый портал бюджетной системы</h3>
     <p>Раздел «Бюджет» → «Расходы» → «Реестр участников и неучастников бюджетного процесса» на budget.gov.ru. Доступ открытый, авторизация не нужна.<a class="fn" href="#ref-2" aria-label="Источник 2">[2]</a></p>
-    <h3>Шаг 2. Найдите организацию по ИНН</h3>
+    
+    <div class="inn-check" id="innCheck">
+      <style>
+      .inn-check{--i:var(--ink,#1A1A1A);--s:var(--sepia,#8B6F47);--l:var(--line,#e4ddd0);--c:var(--card,#fffdf8);--m:var(--ink-mute,#8a8170);
+        background:var(--c);border:1px solid var(--l);border-radius:14px;padding:20px 22px;margin:18px 0}
+      .inn-check b{display:block;margin-bottom:10px}
+      .inn-check__row{display:flex;gap:10px;flex-wrap:wrap}
+      .inn-check__fld{font:inherit;font-size:15px;padding:11px 14px;border:1px solid var(--l);border-radius:10px;background:#fff;color:var(--i);flex:1;min-width:200px;letter-spacing:.06em}
+      .inn-check__fld:focus{outline:none;border-color:var(--s);box-shadow:0 0 0 3px rgba(139,111,71,.12)}
+      .inn-check__btn{font:inherit;font-size:14.5px;font-weight:600;padding:11px 20px;border-radius:10px;border:none;background:var(--i);color:#fff;cursor:pointer}
+      .inn-check__btn:hover{background:var(--s)}
+      .inn-check__msg{font-size:13px;margin-top:9px;min-height:16px;color:var(--m)}
+      .inn-check__msg.err{color:#b3261e}
+      </style>
+      <b>Проверка организации в сводном реестре</b>
+      <div class="inn-check__row">
+        <input class="inn-check__fld" id="innVal" inputmode="numeric" maxlength="12" placeholder="ИНН (10 или 12 цифр)" aria-label="ИНН организации">
+        <button class="inn-check__btn" type="button" id="innGo">Проверить на budget.gov.ru →</button>
+      </div>
+      <div class="inn-check__msg" id="innMsg">ИНН скопируется в буфер — вставьте его в поле поиска реестра на открывшейся странице портала.</div>
+      <script>
+      (function(){
+        var f=document.getElementById('innVal'), m=document.getElementById('innMsg');
+        document.getElementById('innGo').onclick=function(){
+          var v=(f.value||'').replace(/\D/g,'');
+          if(v.length!==10 && v.length!==12){ m.className='inn-check__msg err'; m.textContent='ИНН организации — 10 цифр (или 12 для ИП). Проверьте ввод.'; return; }
+          m.className='inn-check__msg'; m.textContent='Открываем реестр… ИНН '+v+' скопирован — вставьте его в поиск на портале.';
+          try{ navigator.clipboard.writeText(v); }catch(_){}
+          try{ if(typeof ym==='function') ym(94305898,'reachGoal','inn_check'); }catch(_){}
+          window.open(encodeURI('https://budget.gov.ru/epbs/faces/p/Бюджет/Расходы/Реестр участников и неучастников бюджетного процесса'),'_blank','noopener');
+        };
+      })();
+      </script>
+    </div>
+
+<h3>Шаг 2. Найдите организацию по ИНН</h3>
     <p>Поиск работает по ИНН, ОГРН и наименованию. Для выборки всех неучастников в фильтре «Тип организации» выбирается значение 20 — «иные юридические лица».</p>
     <h3>Шаг 3. Проверьте статус и реквизиты записи</h3>
     <p>В карточке организации смотрите: код по сводному реестру, статус записи (действующая), дату актуализации и полномочия. Если запись есть, но реквизиты устарели (адрес, руководитель, наименование), перед открытием счёта её нужно актуализировать — расхождения с ЕГРЮЛ блокируют документы.</p>
@@ -695,6 +730,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <li><b>Контракт исполняется и закрывается</b> — счёт закрывается, запись в реестре остаётся и пригодится для следующего контракта.</li>
     </ol>
     <p>Из этой схемы видно главное: сводный реестр — это шаг «ноль», который выполняется один раз и дальше работает на все контракты организации. Опытные подрядчики проходят его заблаговременно, на первом же контракте, и больше к нему не возвращаются — в отличие от тех, кто открывает для себя реестр в момент отказа ТОФК принять документы.</p>
+
+    <div class="note" data-ctx="dl-checklist"><b>Чек-лист · PDF.</b> Весь входной контур первого контракта — сводный реестр, подпись, счёт, первый платёж — собрали в один печатный чек-лист: <a href="/files/checklist-pervyy-kontrakt-ks.pdf" download>скачать чек-лист выхода на первый контракт (PDF)</a>.</div>
 
     <h2 id="izmeneniya">Изменение сведений в реестре</h2>
     <p>Реестровая запись должна совпадать с ЕГРЮЛ. При смене наименования, адреса, руководителя или реорганизации сведения актуализируются тем же маршрутом — через ТОФК с заявкой на изменение. Пока запись не актуализирована, документы с новыми реквизитами (карточки подписей, заявления, сведения об операциях) будут расходиться с реестром и возвращаться. Правило простое: изменили данные в ЕГРЮЛ — следующим шагом обновите сводный реестр, и только потом подавайте документы по счетам.</p>
