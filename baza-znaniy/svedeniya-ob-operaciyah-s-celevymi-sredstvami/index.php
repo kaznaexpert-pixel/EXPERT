@@ -225,14 +225,14 @@ li{margin:7px 0}
 strong,b{font-weight:600}
 
 /* tables — premium editorial */
-table{display:block;overflow-x:auto;width:100%;border-collapse:collapse;margin:34px 0 40px;font-size:15.5px;border-top:2px solid var(--sepia);-webkit-overflow-scrolling:touch}
-caption{text-align:left;font-size:12px;letter-spacing:.02em;color:var(--ink-mute);margin-bottom:12px;font-style:italic}
+table{display:block;overflow-x:auto;width:100%;border-collapse:collapse;margin:46px 0 50px;font-size:15px;border-top:2px solid var(--sepia);-webkit-overflow-scrolling:touch}
+caption{text-align:left;font-size:12px;letter-spacing:.02em;color:var(--ink-mute);padding:10px 0 14px;font-style:italic}
 tr:nth-child(even) td{background:rgba(139,111,71,.07)}
 td{line-height:1.5}
 td+td,th+th{border-left:1px solid var(--line)}
 td:first-child{font-weight:600;color:var(--ink)}
-th,td{padding:13px 16px;text-align:left;vertical-align:top;min-width:120px}
-th{font-size:11px;text-transform:uppercase;letter-spacing:.09em;color:var(--sepia);font-weight:600;border-bottom:1px solid var(--line)}
+th,td{padding:14px 16px;text-align:left;vertical-align:top;min-width:120px}
+th{font-size:11px;text-transform:uppercase;letter-spacing:.09em;color:var(--sepia);font-weight:600;border-bottom:1px solid var(--line);background:rgba(139,111,71,.08)}
 td{border-bottom:1px solid var(--line);color:var(--ink-soft)}
 td:first-child{font-weight:500;color:var(--ink)}
 tr:last-child td{border-bottom:none}
@@ -884,28 +884,27 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
 
 <style id="mtrStyle">
-.mtr{position:fixed;right:10px;top:50%;transform:translateY(-50%);z-index:60;display:flex;align-items:center;gap:8px}
-.mtr__label{writing-mode:vertical-rl;font-size:9.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink-mute,#8a8170);opacity:.65;user-select:none}
+.mtr{position:fixed;left:10px;top:50%;transform:translateY(-50%);z-index:60;display:flex;align-items:center;gap:8px}
 .mtr__ticks{display:flex;flex-direction:column;gap:7px;padding:12px 8px;cursor:pointer}
 .mtr__tick{display:block;width:14px;height:2px;background:var(--line,#d8d0c0);border-radius:2px;transition:width .25s,background .25s}
 .mtr__tick.on{width:24px;background:var(--sepia,#8B6F47)}
-.mtr:hover .mtr__tick{background:var(--sepia,#8B6F47);opacity:.7}
-.mtr__panel{position:absolute;right:44px;top:50%;transform:translateY(-50%) translateX(10px);opacity:0;pointer-events:none;background:var(--card,#fffdf8);border:1px solid var(--line,#e4ddd0);border-radius:14px;padding:14px 6px 14px 18px;width:300px;max-height:72vh;overflow:auto;box-shadow:0 26px 52px -26px rgba(26,26,26,.4);transition:opacity .22s ease,transform .22s ease}
-.mtr:hover .mtr__panel,.mtr:focus-within .mtr__panel{opacity:1;pointer-events:auto;transform:translateY(-50%) translateX(0)}
+.mtr:hover .mtr__tick{background:var(--sepia,#8B6F47);opacity:.75}
+.mtr__panel{position:absolute;left:42px;top:50%;transform:translateY(-50%) translateX(-10px);opacity:0;pointer-events:none;background:var(--card,#fffdf8);border:1px solid var(--line,#e4ddd0);border-radius:14px;padding:14px 6px 14px 18px;width:300px;max-height:72vh;overflow:auto;box-shadow:0 26px 52px -26px rgba(26,26,26,.4);transition:opacity .25s ease,transform .25s ease}
+.mtr:hover .mtr__panel,.mtr:focus-within .mtr__panel,.mtr--peek .mtr__panel{opacity:1;pointer-events:auto;transform:translateY(-50%) translateX(0)}
+.mtr--peek{pointer-events:none}
 .mtr__panel b{display:block;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--sepia,#8B6F47);margin:0 0 8px}
 .mtr__panel ol{list-style:none;margin:0;padding:0 12px 0 0}
 .mtr__panel a{display:block;font-size:13.5px;line-height:1.35;color:var(--ink-soft,#56524b);text-decoration:none;padding:5px 8px;border-radius:7px;border-left:2px solid transparent}
 .mtr__panel a:hover{background:rgba(139,111,71,.07);color:var(--ink,#1A1A1A)}
 .mtr__panel a.on{border-left-color:var(--sepia,#8B6F47);color:var(--ink,#1A1A1A);font-weight:600}
-@keyframes mtrHello{0%,100%{transform:translateX(0)}50%{transform:translateX(-4px)}}
-.mtr--hello .mtr__ticks{animation:mtrHello 1.1s ease 2 .9s}
-@media(max-width:1099px),(pointer:coarse){.mtr{display:none}}
+@keyframes mtrHello{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}
+.mtr--hello .mtr__ticks{animation:mtrHello 1.1s ease 2 .6s}
+@media(max-width:1319px),(pointer:coarse){.mtr{display:none}}
 @media print{.mtr{display:none}}
 </style>
 <div class="mtr mtr--hello" id="mtr" hidden>
+  <div class="mtr__ticks" id="mtrTicks" tabindex="0" role="button" aria-label="Открыть содержание" title="Содержание"></div>
   <nav class="mtr__panel" aria-label="Содержание статьи"><b>Содержание</b><ol id="mtrList"></ol></nav>
-  <span class="mtr__label">содержание</span>
-  <div class="mtr__ticks" id="mtrTicks" tabindex="0" role="button" aria-label="Открыть содержание"></div>
 </div>
 <script>
 (function(){
@@ -927,7 +926,14 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   }
   var tm; window.addEventListener('scroll',function(){ if(tm) return; tm=setTimeout(function(){tm=null;spy();},120); },{passive:true});
   spy();
-  setTimeout(function(){ box.classList.remove('mtr--hello'); },4500);
+  try{
+    if(!sessionStorage.getItem('mtrPeek')){
+      sessionStorage.setItem('mtrPeek','1');
+      setTimeout(function(){ box.classList.add('mtr--peek'); },900);
+      setTimeout(function(){ box.classList.remove('mtr--peek'); },3400);
+    }
+  }catch(_){}
+  setTimeout(function(){ box.classList.remove('mtr--hello'); },4200);
 })();
 </script>
 
