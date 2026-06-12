@@ -1226,7 +1226,54 @@ header("Cache-Control: public, max-age=300, must-revalidate");
       <!-- 14 ФОРМА + КОНТАКТЫ                                          -->
       <!-- ============================================================ -->
       <div class="v2">
-        <section class="v2-section v2-screen" id="contacts">
+        
+<!-- БАЗА ЗНАНИЙ — перелинковка с pillar-статьями (auto-kb-strip) -->
+<section class="kb-strip" aria-labelledby="kbStripTitle">
+  <style>
+  .kb-strip{--i:var(--ink,#1A1A1A);--s:var(--sepia,#8B6F47);--l:var(--line,#e4ddd0);--c:var(--card,#fffdf8);--p:var(--paper,#FAF7F0);--m:var(--ink-mute,#8a8170);
+    max-width:1240px;margin:40px auto;padding:0 24px;font-family:'Inter',system-ui,sans-serif}
+  .kb-strip__head{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin-bottom:18px}
+  .kb-strip__title{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:clamp(1.4rem,1.6vw+1rem,1.9rem);letter-spacing:-.01em;margin:0;color:var(--i)}
+  .kb-strip__all{font-size:14px;font-weight:500;color:var(--s);text-decoration:none;white-space:nowrap}
+  .kb-strip__all:hover{text-decoration:underline}
+  .kb-strip__grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+  .kb-card{display:flex;flex-direction:column;gap:8px;background:var(--c);border:1px solid var(--l);border-radius:14px;padding:20px 22px;text-decoration:none;color:inherit;transition:transform .18s,box-shadow .18s,border-color .18s}
+  .kb-card:hover{transform:translateY(-3px);box-shadow:0 16px 32px -22px rgba(26,26,26,.3);border-color:rgba(139,111,71,.45)}
+  .kb-card__cat{font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--s)}
+  .kb-card__t{font-size:15.5px;font-weight:600;line-height:1.35;color:var(--i)}
+  .kb-card__m{margin-top:auto;font-size:12.5px;color:var(--m)}
+  @media(max-width:960px){.kb-strip__grid{grid-template-columns:1fr 1fr}}
+  @media(max-width:560px){.kb-strip__grid{grid-template-columns:1fr}.kb-strip__head{flex-direction:column;gap:6px}}
+  </style>
+  <div class="kb-strip__head">
+    <h2 class="kb-strip__title" id="kbStripTitle">Из базы знаний — разберитесь до подписания контракта</h2>
+    <a class="kb-strip__all" href="/baza-znaniy/">Вся база знаний →</a>
+  </div>
+  <div class="kb-strip__grid">
+    <a class="kb-card" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/">
+      <span class="kb-card__cat">Основы</span>
+      <span class="kb-card__t">Казначейское сопровождение: что это и как работает</span>
+      <span class="kb-card__m">18 мин · обновлено 2026</span>
+    </a>
+    <a class="kb-card" href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/">
+      <span class="kb-card__cat">Пороги</span>
+      <span class="kb-card__t">Кто попадает под сопровождение в 2026: суммы и случаи</span>
+      <span class="kb-card__m">15 мин · 426-ФЗ</span>
+    </a>
+    <a class="kb-card" href="/baza-znaniy/licevoy-schet-71-kak-otkryt/">
+      <span class="kb-card__cat">Счета</span>
+      <span class="kb-card__t">Лицевой счёт 71 в ТОФК: как открыть без возвратов</span>
+      <span class="kb-card__m">15 мин · пошагово</span>
+    </a>
+    <a class="kb-card" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/">
+      <span class="kb-card__cat">ГОЗ</span>
+      <span class="kb-card__t">Казначейское сопровождение ГОЗ: полный разбор 275-ФЗ</span>
+      <span class="kb-card__m">20 мин · эталонный гид</span>
+    </a>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="contacts">
           <div class="v2-container">
 
             <div class="v2-section-head v2-reveal">

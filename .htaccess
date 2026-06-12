@@ -24,6 +24,10 @@ RewriteRule ^(.*)$ https://kaznaexpert.ru/$1 [R=301,L]
 # и выкинут её из выдачи. Действует даже если файлы остались.
 RewriteRule ^222(/.*)?$ - [G,L]
 
+# --- Старые статьи блога 2022–2023 → актуальные статьи базы знаний (301) ---
+RewriteRule ^blog/article_01\.html$ /baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/ [R=301,L]
+RewriteRule ^blog/article_02\.html$ /baza-znaniy/poryadok-kaznacheyskogo-soprovozhdeniya-sredstv/ [R=301,L]
+
 # --- Удалённые страницы экспертов → /komanda/ (301) ---
 RewriteRule ^komanda/(anton|elena|natalya|stella|yuliya)/?$ /komanda/ [R=301,L]
 
