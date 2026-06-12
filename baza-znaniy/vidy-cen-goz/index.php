@@ -763,6 +763,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/"><div class="card__cover"><span>ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение ГОЗ по 275-ФЗ</h3><div class="card__meta">ГОЗ · 20 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/"><div class="card__cover"><span>Учёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по ГОЗ: как вести, образец, штрафы</h3><div class="card__meta">Учёт · 17 мин</div></div></a>
     <!-- auto-related:suschestvennye-usloviya-kontrakta-goz --><a class="card reveal" href="/baza-znaniy/suschestvennye-usloviya-kontrakta-goz/"><div class="card__cover"><span>Контракт ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Существенные условия контракта по ГОЗ</h3><div class="card__meta">ГОЗ · 15 мин</div></div></a>
+    <!-- auto-related:rkm-po-gosoboronzakazu --><a class="card reveal" href="/baza-znaniy/rkm-po-gosoboronzakazu/"><div class="card__cover"><span>РКМ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">РКМ по гособоронзаказу: формы и заполнение</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
   </div>
 </section>
 
