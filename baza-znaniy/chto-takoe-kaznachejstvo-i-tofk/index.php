@@ -229,6 +229,8 @@ strong,b{font-weight:600}
 /* tables — premium editorial */
 table{display:block;overflow-x:auto;width:100%;border-collapse:collapse;margin:26px 0;font-size:15.5px;border-top:2px solid var(--sepia);-webkit-overflow-scrolling:touch}
 caption{text-align:left;font-size:12px;letter-spacing:.02em;color:var(--ink-mute);margin-bottom:12px;font-style:italic}
+tr:nth-child(even) td{background:rgba(139,111,71,.045)}
+td{line-height:1.55}
 th,td{padding:15px 18px;text-align:left;vertical-align:top;min-width:130px}
 th{font-size:11px;text-transform:uppercase;letter-spacing:.09em;color:var(--sepia);font-weight:600;border-bottom:1px solid var(--line);white-space:nowrap}
 td{border-bottom:1px solid var(--line);color:var(--ink-soft)}
@@ -371,9 +373,9 @@ tr:hover td{background:var(--soft)}
 .sidenote b{color:var(--ink);font-weight:600}
 /* настоящие поля только при достаточной ширине (иначе остаётся аккуратной врезкой) */
 @media(min-width:1440px){
-  .layout{--maxw-inner:1360px;max-width:1360px}
-  .content{padding-right:200px}
-  .sidenote{float:right;clear:right;width:176px;margin:4px -200px 18px 0;border-left:none;border-top:2px solid var(--sepia);padding:10px 0 0;font-size:12.5px;line-height:1.45;color:var(--ink-mute)}
+  .layout{--maxw-inner:1500px;max-width:1500px}
+  .content{padding-right:0}
+  .sidenote{float:right;clear:right;width:200px;margin:6px 0 18px 26px;border-left:none;border-top:2px solid var(--sepia);padding:10px 0 0;font-size:12.5px;line-height:1.45;color:var(--ink-mute)}
   .sidenote b{color:var(--ink)}
 }
 /* term tooltips */
