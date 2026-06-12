@@ -149,7 +149,9 @@ a{color:var(--sepia)}
 @media(max-width:900px){.hd__nav{display:none}}
 
 /* layout */
-.layout{max-width:var(--maxw);margin:0 auto;padding:34px 24px 70px;display:grid;grid-template-columns:var(--toc-w) minmax(0,1fr) var(--rail-w);gap:46px;align-items:start}
+.layout{max-width:var(--maxw);margin:0 auto;padding:34px 24px 70px;display:grid;grid-template-columns:minmax(0,1fr) var(--rail-w);gap:46px;align-items:start}
+.toc{display:none}
+.content{max-width:880px}
 .crumbs{grid-column:1/-1;font-size:13px;color:var(--sepia);margin-bottom:4px}
 .crumbs a{color:var(--sepia);text-decoration:none}
 
@@ -191,16 +193,16 @@ h2[id]:hover .anchor{opacity:1}
 @media(max-width:1080px){.anchor{display:none}}
 h3{font-weight:600;font-size:19.5px;margin:30px 0 8px}
 .answer{margin:10px 0 14px}
-p{margin:13px 0}
+p{margin:16px 0}
 /* выравнивание основного текста по ширине блока + переносы (против «рек» и дыр) */
-.content .answer,.content .answer p,.content p.answer,.content .lead-p,.tldr{text-align:justify;text-justify:inter-word;-webkit-hyphens:auto;hyphens:auto;hyphenate-limit-chars:6 3 2}
+.content .answer,.content .answer p,.content p.answer,.content .lead-p,.tldr{text-align:left;hyphens:none}
 @media(max-width:560px){.content .answer,.content .answer p,.content p.answer,.content .lead-p,.tldr{text-align:left}}
 ul,ol{margin:13px 0 13px 22px}
 li{margin:7px 0}
 strong,b{font-weight:600}
 
 /* tables — premium editorial */
-table{display:block;overflow-x:auto;width:100%;border-collapse:collapse;margin:26px 0;font-size:15.5px;border-top:2px solid var(--sepia);-webkit-overflow-scrolling:touch}
+table{display:block;overflow-x:auto;width:100%;border-collapse:collapse;margin:34px 0 40px;font-size:15.5px;border-top:2px solid var(--sepia);-webkit-overflow-scrolling:touch}
 caption{text-align:left;font-size:12px;letter-spacing:.02em;color:var(--ink-mute);margin-bottom:12px;font-style:italic}
 tr:nth-child(even) td{background:rgba(139,111,71,.07)}
 td{line-height:1.5}
@@ -348,7 +350,7 @@ tr:hover td{background:var(--soft)}
 .sidenote b{color:var(--ink);font-weight:600}
 /* настоящие поля только при достаточной ширине (иначе остаётся аккуратной врезкой) */
 @media(min-width:1440px){
-  .layout{--maxw-inner:1500px;max-width:1500px}
+  .layout{--maxw-inner:1320px;max-width:1320px}
   .content{padding-right:0}
   .sidenote{float:right;clear:right;width:200px;margin:6px 0 18px 26px;border-left:none;border-top:2px solid var(--sepia);padding:10px 0 0;font-size:12.5px;line-height:1.45;color:var(--ink-mute)}
   .sidenote b{color:var(--ink)}
@@ -362,7 +364,7 @@ tr:hover td{background:var(--soft)}
 /* section numbers before H2 */
 .content{counter-reset:sec}
 .content h2[id]{counter-increment:sec}
-.content h2[id]::after{content:counter(sec,decimal-leading-zero);position:absolute;right:100%;top:.34em;margin-right:18px;font-family:var(--font-body);font-size:12px;font-weight:600;letter-spacing:.1em;color:var(--sepia);opacity:.65}
+.content h2[id]::after{content:counter(sec,decimal-leading-zero);position:static;display:inline-block;margin-left:10px;vertical-align:super;font-family:var(--font-body);font-size:11px;font-weight:600;letter-spacing:.1em;color:var(--sepia);opacity:.55}
 @media(max-width:1180px){.content h2[id]::after{position:static;display:inline-block;margin:0 0 4px;opacity:.8}}
 /* share + pdf */
 .share{display:flex;align-items:center;gap:9px;flex-wrap:wrap;margin:20px 0 2px}
@@ -443,7 +445,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 .reveal.in{opacity:1;transform:none}
 @media(prefers-reduced-motion:reduce){.reveal{opacity:1;transform:none;transition:none}.progress{display:none}}
 
-@media(max-width:1439px){.layout{grid-template-columns:minmax(0,1fr) var(--rail-w)}.toc{display:none}}
+
 @media(max-width:860px){.layout{grid-template-columns:1fr}.rail{position:static;margin-top:14px}.related__grid{grid-template-columns:1fr}h1{font-size:33px}body{font-size:16.5px}}
 
 /* mobile TOC */
@@ -691,6 +693,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 <script>
 (function(){var f=document.getElementById('leadFormBottom'); if(!f) return;var msg=document.getElementById('formMsgBottom'), ok=document.getElementById('leadSuccessBottom');function show(t){ if(msg){msg.hidden=false;msg.textContent=t;} }f.addEventListener('submit',function(e){e.preventDefault();if(f.company_extra && f.company_extra.value) return;var name=(f.name.value||'').trim(), phone=(f.phone.value||'').trim();if(name.length<2){show('Введите имя');return;}if(!/\d[\s\d().-]*\d{3}/.test(phone)||phone.replace(/\D/g,'').length<10){show('Проверьте телефон');return;}if(!f.consent.checked){show('Подтвердите согласие');return;}var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})}).then(function(r){ if(!r.ok) throw 0; return r; }).then(function(){ [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; }); if(ok) ok.style.display='block'; try{ if(typeof ym==='function') ym(94305898,'reachGoal','lead',{source:f.dataset.source}); }catch(_){ } }).catch(function(){ btn.disabled=false; btn.textContent=orig; show('Не удалось отправить. Попробуйте ещё раз.'); });});})();
 </script>
+
 
 <footer class="v2-footer" id="footer">
         <div class="v2-container">

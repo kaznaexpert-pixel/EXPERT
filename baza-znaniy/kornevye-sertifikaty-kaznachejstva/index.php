@@ -178,7 +178,9 @@ a{color:var(--sepia)}
 @media(max-width:900px){.hd__nav{display:none}}
 
 /* layout */
-.layout{max-width:var(--maxw);margin:0 auto;padding:34px 24px 70px;display:grid;grid-template-columns:var(--toc-w) minmax(0,1fr) var(--rail-w);gap:46px;align-items:start}
+.layout{max-width:var(--maxw);margin:0 auto;padding:34px 24px 70px;display:grid;grid-template-columns:minmax(0,1fr) var(--rail-w);gap:46px;align-items:start}
+.toc{display:none}
+.content{max-width:880px}
 .crumbs{grid-column:1/-1;font-size:13px;color:var(--sepia);margin-bottom:4px}
 .crumbs a{color:var(--sepia);text-decoration:none}
 
@@ -220,16 +222,16 @@ h2[id]:hover .anchor{opacity:1}
 @media(max-width:1080px){.anchor{display:none}}
 h3{font-weight:600;font-size:19.5px;margin:30px 0 8px}
 .answer{margin:10px 0 14px}
-p{margin:13px 0}
+p{margin:16px 0}
 /* выравнивание основного текста по ширине блока + переносы (против «рек» и дыр) */
-.content .answer,.content .answer p,.content p.answer,.content .lead-p,.tldr{text-align:justify;text-justify:inter-word;-webkit-hyphens:auto;hyphens:auto;hyphenate-limit-chars:6 3 2}
+.content .answer,.content .answer p,.content p.answer,.content .lead-p,.tldr{text-align:left;hyphens:none}
 @media(max-width:560px){.content .answer,.content .answer p,.content p.answer,.content .lead-p,.tldr{text-align:left}}
 ul,ol{margin:13px 0 13px 22px}
 li{margin:7px 0}
 strong,b{font-weight:600}
 
 /* tables — premium editorial */
-table{display:block;overflow-x:auto;width:100%;border-collapse:collapse;margin:26px 0;font-size:15.5px;border-top:2px solid var(--sepia);-webkit-overflow-scrolling:touch}
+table{display:block;overflow-x:auto;width:100%;border-collapse:collapse;margin:34px 0 40px;font-size:15.5px;border-top:2px solid var(--sepia);-webkit-overflow-scrolling:touch}
 caption{text-align:left;font-size:12px;letter-spacing:.02em;color:var(--ink-mute);margin-bottom:12px;font-style:italic}
 tr:nth-child(even) td{background:rgba(139,111,71,.07)}
 td{line-height:1.5}
@@ -377,7 +379,7 @@ tr:hover td{background:var(--soft)}
 .sidenote b{color:var(--ink);font-weight:600}
 /* настоящие поля только при достаточной ширине (иначе остаётся аккуратной врезкой) */
 @media(min-width:1440px){
-  .layout{--maxw-inner:1500px;max-width:1500px}
+  .layout{--maxw-inner:1320px;max-width:1320px}
   .content{padding-right:0}
   .sidenote{float:right;clear:right;width:200px;margin:6px 0 18px 26px;border-left:none;border-top:2px solid var(--sepia);padding:10px 0 0;font-size:12.5px;line-height:1.45;color:var(--ink-mute)}
   .sidenote b{color:var(--ink)}
@@ -391,7 +393,7 @@ tr:hover td{background:var(--soft)}
 /* section numbers before H2 */
 .content{counter-reset:sec}
 .content h2[id]{counter-increment:sec}
-.content h2[id]::after{content:counter(sec,decimal-leading-zero);position:absolute;right:100%;top:.34em;margin-right:18px;font-family:var(--font-body);font-size:12px;font-weight:600;letter-spacing:.1em;color:var(--sepia);opacity:.65}
+.content h2[id]::after{content:counter(sec,decimal-leading-zero);position:static;display:inline-block;margin-left:10px;vertical-align:super;font-family:var(--font-body);font-size:11px;font-weight:600;letter-spacing:.1em;color:var(--sepia);opacity:.55}
 @media(max-width:1180px){.content h2[id]::after{position:static;display:inline-block;margin:0 0 4px;opacity:.8}}
 /* share + pdf */
 .share{display:flex;align-items:center;gap:9px;flex-wrap:wrap;margin:20px 0 2px}
@@ -472,7 +474,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 .reveal.in{opacity:1;transform:none}
 @media(prefers-reduced-motion:reduce){.reveal{opacity:1;transform:none;transition:none}.progress{display:none}}
 
-@media(max-width:1439px){.layout{grid-template-columns:minmax(0,1fr) var(--rail-w)}.toc{display:none}}
+
 @media(max-width:860px){.layout{grid-template-columns:1fr}.rail{position:static;margin-top:14px}.related__grid{grid-template-columns:1fr}h1{font-size:33px}body{font-size:16.5px}}
 
 /* mobile TOC */
@@ -886,6 +888,54 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   })();
   </script>
 </section>
+
+<style id="mtrStyle">
+.mtr{position:fixed;right:10px;top:50%;transform:translateY(-50%);z-index:60;display:flex;align-items:center;gap:8px}
+.mtr__label{writing-mode:vertical-rl;font-size:9.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink-mute,#8a8170);opacity:.65;user-select:none}
+.mtr__ticks{display:flex;flex-direction:column;gap:7px;padding:12px 8px;cursor:pointer}
+.mtr__tick{display:block;width:14px;height:2px;background:var(--line,#d8d0c0);border-radius:2px;transition:width .25s,background .25s}
+.mtr__tick.on{width:24px;background:var(--sepia,#8B6F47)}
+.mtr:hover .mtr__tick{background:var(--sepia,#8B6F47);opacity:.7}
+.mtr__panel{position:absolute;right:44px;top:50%;transform:translateY(-50%) translateX(10px);opacity:0;pointer-events:none;background:var(--card,#fffdf8);border:1px solid var(--line,#e4ddd0);border-radius:14px;padding:14px 6px 14px 18px;width:300px;max-height:72vh;overflow:auto;box-shadow:0 26px 52px -26px rgba(26,26,26,.4);transition:opacity .22s ease,transform .22s ease}
+.mtr:hover .mtr__panel,.mtr:focus-within .mtr__panel{opacity:1;pointer-events:auto;transform:translateY(-50%) translateX(0)}
+.mtr__panel b{display:block;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--sepia,#8B6F47);margin:0 0 8px}
+.mtr__panel ol{list-style:none;margin:0;padding:0 12px 0 0}
+.mtr__panel a{display:block;font-size:13.5px;line-height:1.35;color:var(--ink-soft,#56524b);text-decoration:none;padding:5px 8px;border-radius:7px;border-left:2px solid transparent}
+.mtr__panel a:hover{background:rgba(139,111,71,.07);color:var(--ink,#1A1A1A)}
+.mtr__panel a.on{border-left-color:var(--sepia,#8B6F47);color:var(--ink,#1A1A1A);font-weight:600}
+@keyframes mtrHello{0%,100%{transform:translateX(0)}50%{transform:translateX(-4px)}}
+.mtr--hello .mtr__ticks{animation:mtrHello 1.1s ease 2 .9s}
+@media(max-width:1099px),(pointer:coarse){.mtr{display:none}}
+@media print{.mtr{display:none}}
+</style>
+<div class="mtr mtr--hello" id="mtr" hidden>
+  <nav class="mtr__panel" aria-label="Содержание статьи"><b>Содержание</b><ol id="mtrList"></ol></nav>
+  <span class="mtr__label">содержание</span>
+  <div class="mtr__ticks" id="mtrTicks" tabindex="0" role="button" aria-label="Открыть содержание"></div>
+</div>
+<script>
+(function(){
+  var src=document.querySelectorAll('.toc__list a'); if(!src.length) return;
+  var box=document.getElementById('mtr'), list=document.getElementById('mtrList'), ticks=document.getElementById('mtrTicks');
+  var items=[];
+  src.forEach(function(a){
+    var id=(a.getAttribute('href')||'').slice(1), h=id&&document.getElementById(id); if(!h) return;
+    var t=document.createElement('span'); t.className='mtr__tick'; ticks.appendChild(t);
+    var li=document.createElement('li'), l=document.createElement('a'); l.href='#'+id; l.textContent=a.textContent; li.appendChild(l); list.appendChild(li);
+    items.push({h:h,t:t,l:l});
+  });
+  if(!items.length) return;
+  box.hidden=false;
+  function spy(){
+    var y=window.scrollY+140, cur=items[0];
+    items.forEach(function(it){ if(it.h.offsetTop<=y) cur=it; });
+    items.forEach(function(it){ var on=it===cur; it.t.classList.toggle('on',on); it.l.classList.toggle('on',on); });
+  }
+  var tm; window.addEventListener('scroll',function(){ if(tm) return; tm=setTimeout(function(){tm=null;spy();},120); },{passive:true});
+  spy();
+  setTimeout(function(){ box.classList.remove('mtr--hello'); },4500);
+})();
+</script>
 
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
