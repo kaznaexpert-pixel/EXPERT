@@ -1050,6 +1050,67 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 })();
 </script>
 
+<style id="edt2026">
+/* ===== Editorial 2026: режим чтения (одна колонка, журнальная типографика) ===== */
+.layout{display:block!important;max-width:840px!important;padding:46px 30px 90px!important}
+.content{max-width:none!important}
+/* типографика: тёмный текст, крупный кегль, высокий интерлиньяж */
+.content p,.content li{color:var(--ink,#1A1A1A);font-size:17px;line-height:1.78}
+.content p{margin:0 0 22px}
+.content ul,.content ol{margin:0 0 26px;padding-left:22px}
+.content li{margin:0 0 10px}
+.lead-p{font-size:19px;line-height:1.72}
+.tldr{font-size:17px;line-height:1.72;padding:24px 28px;margin:30px 0 34px}
+.content h2{margin:84px 0 26px;line-height:1.14}
+.content h3{margin:52px 0 16px}
+.content h2+p,.content h3+p{margin-top:0}
+.byline{margin-top:18px}
+/* таблицы — редакционные: только горизонтальные линейки, высокие строки */
+.content table{margin:56px 0 64px;font-size:15px;border-top:2px solid var(--ink,#1A1A1A)}
+.content caption{font-style:normal;font-size:11.5px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-mute,#8a8170);padding:16px 0 14px}
+.content th{background:none;border-bottom:1.5px solid var(--ink,#1A1A1A);padding:10px 22px 12px 0;font-size:11px}
+.content td{padding:18px 22px 18px 0;border-bottom:1px solid var(--line,#e4ddd0);line-height:1.6;font-size:15px;color:var(--ink,#1A1A1A)}
+.content td+td,.content th+th{border-left:none}
+.content tr:nth-child(even) td{background:none}
+.content tr:last-child td{border-bottom:1px solid var(--line,#e4ddd0)}
+.content td:first-child{font-weight:600}
+/* note/answer — врезки с воздухом */
+.note{margin:34px 0;padding:20px 24px;line-height:1.7}
+/* вехи содержания — у кромки колонки текста */
+.mtr{left:max(14px,calc(50% - 530px))}
+/* кнопка «наверх» поднимается над CTA */
+.totop{bottom:96px!important}
+/* ===== форма: выдвижная панель + постоянная CTA-кнопка ===== */
+@media(min-width:861px){
+  .rail{position:fixed!important;top:0;right:0;height:100vh;width:min(430px,94vw);margin:0;padding:74px 28px 30px;background:var(--paper,#FAF7F0);box-shadow:-34px 0 64px -30px rgba(26,26,26,.4);transform:translateX(112%);transition:transform .32s cubic-bezier(.22,.8,.3,1);z-index:95;overflow:auto}
+  body.rail-open .rail{transform:none}
+  body.rail-open::before{content:'';position:fixed;inset:0;background:rgba(26,26,26,.34);z-index:94}
+  .rail-close{position:absolute;top:18px;right:18px;width:38px;height:38px;border:1px solid var(--line,#e4ddd0);border-radius:50%;background:none;color:var(--ink,#1A1A1A);font-size:17px;line-height:1;cursor:pointer}
+}
+.rail-toggle{position:fixed;right:22px;bottom:26px;z-index:93;display:inline-flex;align-items:center;gap:9px;background:var(--ink,#1A1A1A);color:#fff;border:none;border-radius:999px;padding:10px 22px;font:600 14.5px/1.2 'Inter',system-ui,sans-serif;box-shadow:0 18px 38px -16px rgba(26,26,26,.55);cursor:pointer;transition:background .2s,transform .2s}
+.rail-toggle:hover{background:var(--sepia,#8B6F47);transform:translateY(-2px)}
+.rail-toggle .dot{width:7px;height:7px;border-radius:50%;background:#7ad07a}
+@media(max-width:860px){.rail-toggle,.rail-close{display:none}}
+@media print{.rail-toggle,.rail{display:none!important}}
+</style>
+<script>
+(function(){
+  var r=document.querySelector('.rail'); if(!r) return;
+  if(window.matchMedia&&window.matchMedia('(min-width:861px)').matches){
+    var b=document.createElement('button'); b.className='rail-toggle'; b.type='button';
+    b.innerHTML='<span class="dot"></span>Разбор эксперта';
+    document.body.appendChild(b);
+    var x=document.createElement('button'); x.className='rail-close'; x.type='button'; x.setAttribute('aria-label','Закрыть'); x.innerHTML='✕'; r.appendChild(x);
+    function open(){ document.body.classList.add('rail-open'); try{ if(typeof ym==='function') ym(94305898,'reachGoal','rail_open'); }catch(_){ } }
+    function close(){ document.body.classList.remove('rail-open'); }
+    b.addEventListener('click',function(){ document.body.classList.contains('rail-open')?close():open(); });
+    x.addEventListener('click',close);
+    document.addEventListener('keydown',function(e){ if(e.key==='Escape') close(); });
+    document.addEventListener('click',function(e){ if(document.body.classList.contains('rail-open')&&!r.contains(e.target)&&!b.contains(e.target)) close(); });
+  }
+})();
+</script>
+
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
 
