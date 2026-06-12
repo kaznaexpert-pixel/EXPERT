@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Казначейское сопровождение в Твери — под ключ | КазнаЭксперт</title>
-<meta name="description" content="Казначейское сопровождение госконтрактов в Твери: открытие счёта в УФК по Тверской области, ведение платежей, санкционирование, спасение контрактов. Дистанционно, фи">
+<meta name="description" content="Казначейское сопровождение госконтрактов в Твери: открытие счёта в УФК по Тверской области, платежи, санкционирование, спасение контрактов. Дистанционно, фикс-цены.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -70,7 +70,7 @@
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
 <meta property="og:title" content="Казначейское сопровождение в Твери">
-<meta property="og:description" content="Казначейское сопровождение госконтрактов в Твери: открытие счёта в УФК по Тверской области, ведение платежей, санкционирование, спасение контрактов. Дистанционно, фи">
+<meta property="og:description" content="Казначейское сопровождение госконтрактов в Твери: открытие счёта в УФК по Тверской области, платежи, санкционирование, спасение контрактов. Дистанционно, фикс-цены.">
 <meta property="og:url" content="https://kaznaexpert.ru/regiony/tver/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
@@ -82,7 +82,7 @@
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Казначейское сопровождение в Твери">
-<meta name="twitter:description" content="Казначейское сопровождение госконтрактов в Твери: открытие счёта в УФК по Тверской области, ведение платежей, санкционирование, спасение контрактов. Дистанционно, фи">
+<meta name="twitter:description" content="Казначейское сопровождение госконтрактов в Твери: открытие счёта в УФК по Тверской области, платежи, санкционирование, спасение контрактов. Дистанционно, фикс-цены.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <style>
