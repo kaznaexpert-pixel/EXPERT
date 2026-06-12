@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Открытие казначейского счёта за 2 дня под ключ | КазнаЭксперт</title>
-<meta name="description" content="Откроем казначейский счёт в УФК за два рабочих дня под ключ: документы, сводный реестр, настройка «Электронного бюджета». Фикс 39 000 ₽, гарантия в договоре. По всей России.">
+<meta name="description" content="Откроем казначейский счёт в УФК за два рабочих дня под ключ: документы, сводный реестр, настройка «Электронного бюджета». Фикс 39 000 ₽, гарантия в договоре.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">

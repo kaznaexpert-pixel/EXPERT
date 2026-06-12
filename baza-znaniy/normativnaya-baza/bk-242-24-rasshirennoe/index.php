@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Статья 242.24 БК РФ — расширенное казначейское сопровождение: чем  | К</title>
+<title>Статья 242.24 БК РФ — расширенное казначейское сопровождение: чем оно</title>
 <meta name="description" content="Устанавливает расширенное КС: дополнительно проверяются фактические затраты, структура цены, ведётся раздельный учёт.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -69,7 +69,7 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Статья 242.24 БК РФ — расширенное казначейское сопровождение: чем  | К">
+<meta property="og:title" content="Статья 242.24 БК РФ — расширенное казначейское сопровождение: чем оно">
 <meta property="og:description" content="Устанавливает расширенное КС: дополнительно проверяются фактические затраты, структура цены, ведётся раздельный учёт.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/bk-242-24-rasshirennoe/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">

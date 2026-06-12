@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Резервирование казначейского счёта к дате тендера — 25 000 ₽ | КазнаЭксперт</title>
-<meta name="description" content="Зарезервируем казначейский счёт за 1 рабочий день к дате тендера: подтверждение для заказчика, фиксация позиции в УФК, зачёт в открытие счёта. 25 000 ₽. По всей России.">
+<title>Резервирование счёта к дате тендера — 25 000 ₽ | КазнаЭксперт</title>
+<meta name="description" content="Зарезервируем казначейский счёт за 1 рабочий день к дате тендера: подтверждение для заказчика, фиксация позиции в УФК, зачёт в открытие счёта. 25 000 ₽.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">

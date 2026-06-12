@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>База знаний по казначейскому сопровождению — статьи и инструкции | КазнаЭксперт</title>
+<title>База знаний по казначейскому сопровождению | КазнаЭксперт</title>
 <meta name="description" content="База знаний КазнаЭксперт: экспертные статьи и инструкции по казначейскому сопровождению госконтрактов, ГОЗ, раздельному учёту, лицевым счетам и санкционированию.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

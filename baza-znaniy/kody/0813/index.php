@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Код 0813/8813/9813 — Страховые взносы на обязательное социальное страх</title>
-<meta name="description" content="Код направления расходования 0813 «Страховые взносы на обязательное социальное страхование» в казначейском сопровождении: подкоды, варианты 6/8/9, примеры из практики, ошибки ">
+<title>Код 0813 — Страховые взносы на обязательное социальное страхование</title>
+<meta name="description" content="Код 0813 «Страховые взносы на обязательное социальное страхование» при казначейском сопровождении: подкоды, варианты 6/8/9, ошибки санкционирования, документы.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -72,8 +72,8 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Код 0813/8813/9813 — Страховые взносы на обязательное социальное страх">
-<meta property="og:description" content="Код направления расходования 0813 «Страховые взносы на обязательное социальное страхование» в казначейском сопровождении: подкоды, варианты 6/8/9, примеры из практики, ошибки ">
+<meta property="og:title" content="Код 0813 — Страховые взносы на обязательное социальное страхование">
+<meta property="og:description" content="Код 0813 «Страховые взносы на обязательное социальное страхование» при казначейском сопровождении: подкоды, варианты 6/8/9, ошибки санкционирования, документы.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/kody/0813/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">

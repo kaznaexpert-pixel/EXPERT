@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Приказ Казначейства № 44н — открытие лицевых счетов участников КС  | К</title>
+<title>Приказ Казначейства № 44н — открытие лицевых счетов участников КС в</title>
 <meta name="description" content="Порядок открытия, переоформления и закрытия лицевых счетов участников КС в ТОФК (в т.ч. счёта с кодом 71), состав документов и форм.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -69,7 +69,7 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Приказ Казначейства № 44н — открытие лицевых счетов участников КС  | К">
+<meta property="og:title" content="Приказ Казначейства № 44н — открытие лицевых счетов участников КС в">
 <meta property="og:description" content="Порядок открытия, переоформления и закрытия лицевых счетов участников КС в ТОФК (в т.ч. счёта с кодом 71), состав документов и форм.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/prikaz-44n-licevye-scheta/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">

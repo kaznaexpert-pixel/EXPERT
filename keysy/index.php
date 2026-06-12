@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Кейсы казначейского сопровождения — реальный опыт КазнаЭксперт</title>
-<meta name="description" content="12 обезличенных кейсов казначейского сопровождения: открытие счетов, спасение контрактов, аванс и ГОЗ. Проблема, решение и результат по контрактам 44-ФЗ, 223-ФЗ, 275-ФЗ.">
+<meta name="description" content="12 обезличенных кейсов казначейского сопровождения: открытие счетов, спасение контрактов, аванс и ГОЗ. Проблема, решение и результат: 44-ФЗ, 223-ФЗ, 275-ФЗ.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cases", cluster:"keysy"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "CollectionPage", "name": "Кейсы клиентов КазнаЭксперт", "url": "https://kaznaexpert.ru/keysy/", "description": "12 обезличенных кейсов казначейского сопровождения: открытие счетов, спасение контрактов, аванс и ГОЗ. Проблема, решение и результат по контрактам 44-ФЗ, 223-ФЗ, 275-ФЗ.", "isPartOf": {"@type": "WebSite", "url": "https://kaznaexpert.ru/"}}
+{"@context": "https://schema.org", "@type": "CollectionPage", "name": "Кейсы клиентов КазнаЭксперт", "url": "https://kaznaexpert.ru/keysy/", "description": "12 обезличенных кейсов казначейского сопровождения: открытие счетов, спасение контрактов, аванс и ГОЗ. Проблема, решение и результат: 44-ФЗ, 223-ФЗ, 275-ФЗ.", "isPartOf": {"@type": "WebSite", "url": "https://kaznaexpert.ru/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Кейсы"}]}
@@ -67,7 +67,7 @@
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
 <meta property="og:title" content="Кейсы клиентов КазнаЭксперт">
-<meta property="og:description" content="12 обезличенных кейсов казначейского сопровождения: открытие счетов, спасение контрактов, аванс и ГОЗ. Проблема, решение и результат по контрактам 44-ФЗ, 223-ФЗ, 275-ФЗ.">
+<meta property="og:description" content="12 обезличенных кейсов казначейского сопровождения: открытие счетов, спасение контрактов, аванс и ГОЗ. Проблема, решение и результат: 44-ФЗ, 223-ФЗ, 275-ФЗ.">
 <meta property="og:url" content="https://kaznaexpert.ru/keysy/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
@@ -79,7 +79,7 @@
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Кейсы клиентов КазнаЭксперт">
-<meta name="twitter:description" content="12 обезличенных кейсов казначейского сопровождения: открытие счетов, спасение контрактов, аванс и ГОЗ. Проблема, решение и результат по контрактам 44-ФЗ, 223-ФЗ, 275-ФЗ.">
+<meta name="twitter:description" content="12 обезличенных кейсов казначейского сопровождения: открытие счетов, спасение контрактов, аванс и ГОЗ. Проблема, решение и результат: 44-ФЗ, 223-ФЗ, 275-ФЗ.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <style>

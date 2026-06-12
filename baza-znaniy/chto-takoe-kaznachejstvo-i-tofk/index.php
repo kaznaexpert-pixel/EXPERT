@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Что такое казначейство и ТОФК: структура и функции | КазнаЭксперт</title>
-<meta name="description" content="Что такое Федеральное казначейство и ТОФК: правовой статус (ПП РФ № 703), территориальные органы (УФК), функции, единый казначейский счёт и роль для исполнителя госконтракта.">
+<meta name="description" content="Что такое Федеральное казначейство и ТОФК: правовой статус (ПП РФ № 703), территориальные органы (УФК), функции, единый казначейский счёт и роль для исполнителя.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">

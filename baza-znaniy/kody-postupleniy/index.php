@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Коды источников поступлений целевых средств 2026 (214н) | КазнаЭксперт</title>
-<meta name="description" content="Коды источников поступлений целевых средств (Приложение 2 к Приказу 214н) на 2026: госконтракты, субсидии, инвестиции, ГОЗ, депозиты, факторинг. Гид как определить свой код ис">
+<meta name="description" content="Коды источников поступлений целевых средств (прил. 2 к приказу 214н) на 2026: госконтракты, субсидии, инвестиции, ГОЗ, депозиты, факторинг — как определить свой.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -70,7 +70,7 @@
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
 <meta property="og:title" content="Коды источников поступлений целевых средств 2026 (214н) | КазнаЭксперт">
-<meta property="og:description" content="Коды источников поступлений целевых средств (Приложение 2 к Приказу 214н) на 2026: госконтракты, субсидии, инвестиции, ГОЗ, депозиты, факторинг. Гид как определить свой код ис">
+<meta property="og:description" content="Коды источников поступлений целевых средств (прил. 2 к приказу 214н) на 2026: госконтракты, субсидии, инвестиции, ГОЗ, депозиты, факторинг — как определить свой.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/kody-postupleniy/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">

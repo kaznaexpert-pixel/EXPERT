@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Постановление № 2024 — Правила казначейского сопровождения: как ус | К</title>
+<title>Постановление № 2024 — Правила казначейского сопровождения: как</title>
 <meta name="description" content="Действующие Правила КС и расширенного КС: порядок проведения операций, перечисления, документы. Заменило прежние ежегодные правила.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -69,7 +69,7 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Постановление № 2024 — Правила казначейского сопровождения: как ус | К">
+<meta property="og:title" content="Постановление № 2024 — Правила казначейского сопровождения: как">
 <meta property="og:description" content="Действующие Правила КС и расширенного КС: порядок проведения операций, перечисления, документы. Заменило прежние ежегодные правила.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/pp-2024-pravila-ks/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">

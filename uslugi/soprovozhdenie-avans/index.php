@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Сопровождение контракта с авансом — 79 000 ₽/мес, безлимит | КазнаЭксперт</title>
-<meta name="description" content="Полное казначейское сопровождение контракта с авансом: контроль целевого использования, санкционирование платежей, цепочка кооперации, раздельный учёт. Безлимит операций.">
+<title>Сопровождение контракта с авансом — 79 000 ₽/мес | КазнаЭксперт</title>
+<meta name="description" content="Полное казначейское сопровождение контракта с авансом: контроль целевого использования, санкционирование платежей, цепочка кооперации, раздельный учёт.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">

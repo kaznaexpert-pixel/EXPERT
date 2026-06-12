@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Распоряжение о совершении казначейского платежа: возврат | КазнаЭксперт</title>
-<meta name="description" content="Распоряжение о совершении казначейского платежа: что это, виды (перечисление, возврат, уточнение), реквизиты по приказу Казначейства № 21н и причины возврата распоряжения.">
+<title>Распоряжение о казначейском платеже: возврат | КазнаЭксперт</title>
+<meta name="description" content="Распоряжение о совершении казначейского платежа: что это, виды (перечисление, возврат, уточнение), реквизиты по приказу Казначейства № 21н и причины возврата.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">

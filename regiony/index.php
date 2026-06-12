@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Казначейское сопровождение по регионам России | КазнаЭксперт</title>
-<meta name="description" content="Казначейское сопровождение госконтрактов по всем регионам РФ дистанционно: открытие счёта, ведение, санкционирование, спасение контрактов. Москва, СПб, Екатеринбург и другие.">
+<meta name="description" content="Казначейское сопровождение госконтрактов по всем регионам РФ дистанционно: открытие счёта, ведение, санкционирование, спасение контрактов.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">

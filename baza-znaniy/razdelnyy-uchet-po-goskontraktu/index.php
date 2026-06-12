@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Раздельный учёт по госконтракту в 2026: когда вести, штрафы | КазнаЭксперт</title>
-<meta name="description" content="Раздельный учёт по госконтракту при казначейском сопровождении: когда обязателен, как организовать учёт и учётную политику, что проверяет казначейство и штраф по ст. 15.37.1 КоАП РФ.">
+<title>Раздельный учёт по госконтракту 2026: когда вести | КазнаЭксперт</title>
+<meta name="description" content="Раздельный учёт по госконтракту при казначейском сопровождении: когда обязателен, как организовать учёт и учётную политику, что проверяет казначейство и штраф по.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">

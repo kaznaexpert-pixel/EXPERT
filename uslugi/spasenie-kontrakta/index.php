@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Спасение госконтракта: блокировки, возвраты, отказы УФК | КазнаЭксперт</title>
-<meta name="description" content="Срочная помощь по проблемному госконтракту: диагностика, снятие блокировок, восстановление учёта, проведение зависших платежей. Аудит 29 000 ₽, восстановление от 99 000 ₽.">
+<meta name="description" content="Срочная помощь по проблемному госконтракту: диагностика, снятие блокировок, восстановление учёта, проведение зависших платежей.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">

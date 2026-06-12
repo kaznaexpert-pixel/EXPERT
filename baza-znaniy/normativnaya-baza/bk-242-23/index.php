@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Статья 242.23 БК РФ — основы казначейского сопровождения: что это  | К</title>
-<meta name="description" content="Базовая статья: вводит само понятие казначейского сопровождения, состав участников, открытие лицевых счетов в ТОФК и санкционирование операций по прав">
+<title>Статья 242.23 БК РФ — основы казначейского сопровождения: что это</title>
+<meta name="description" content="Базовая статья: вводит само понятие казначейского сопровождения, состав участников, открытие лицевых счетов в ТОФК и санкционирование операций по правилам Минфина.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -69,8 +69,8 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Статья 242.23 БК РФ — основы казначейского сопровождения: что это  | К">
-<meta property="og:description" content="Базовая статья: вводит само понятие казначейского сопровождения, состав участников, открытие лицевых счетов в ТОФК и санкционирование операций по прав">
+<meta property="og:title" content="Статья 242.23 БК РФ — основы казначейского сопровождения: что это">
+<meta property="og:description" content="Базовая статья: вводит само понятие казначейского сопровождения, состав участников, открытие лицевых счетов в ТОФК и санкционирование операций по правилам Минфина.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/bk-242-23/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">

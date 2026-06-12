@@ -719,6 +719,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Кто поможет заполнить сведения и вести операции?</summary><p>Сопровождение можно передать на аутсорсинг: эксперт формирует сведения, подбирает коды, проводит платежи и взаимодействует с ТОФК. Оставьте заявку — разберём вашу ситуацию.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:pismo-1232">Официальная позиция регуляторов по заполнению формы — в совместном письме Минфина и Казначейства № 02-12-10/1232: наш <a href="/baza-znaniy/normativnaya-baza/pismo-1232-svedeniya/">разбор письма о Сведениях об операциях</a> с практическими выводами.</p>
+
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">

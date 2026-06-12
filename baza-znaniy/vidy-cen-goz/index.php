@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Виды цен на продукцию ГОЗ в 2026: ориентировочная, фиксированная | КазнаЭксперт</title>
-<meta name="description" content="Три вида цен на продукцию ГОЗ по ст. 11 Закона № 275-ФЗ: ориентировочная (уточняемая), фиксированная и возмещающая издержки. Когда применяются, методы расчёта по ПП № 1465, перевод в фиксированную.">
+<title>Виды цен ГОЗ 2026: ориентировочная, фиксированная | КазнаЭксперт</title>
+<meta name="description" content="Три вида цен на продукцию ГОЗ по ст. 11 Закона № 275-ФЗ: ориентировочная (уточняемая), фиксированная и возмещающая издержки.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">

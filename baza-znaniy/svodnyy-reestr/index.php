@@ -752,6 +752,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Связан ли сводный реестр с реестром контрактов ЕИС?</summary><p>Нет, это разные системы: сводный реестр идентифицирует организации в казначейском контуре, реестр контрактов ЕИС учитывает сами закупки по 44-ФЗ.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:usl-rezerv2">Выходите на контракт со сжатыми сроками — включение в реестр и счёт можно подготовить заранее через <a href="/uslugi/rezervirovanie-scheta/">резервирование казначейского счёта к дате тендера</a>.</p>
+
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">

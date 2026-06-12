@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Ярослав Михайлов — основатель и главный эксперт КазнаЭксперт</title>
-<meta name="description" content="Ярослав Михайлов — основатель КазнаЭксперт, эксперт по казначейскому сопровождению. Окончил СПбГУ, в Федеральном казначействе с 2009 по 2019 год. Ведёт сложные кейсы, ГОЗ и спасение контрактов.">
+<meta name="description" content="Ярослав Михайлов — основатель КазнаЭксперт, эксперт по казначейскому сопровождению. Окончил СПбГУ, в Федеральном казначействе с 2009 по 2019 год.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">

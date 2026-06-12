@@ -687,6 +687,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Кто помогает с санкционированием платежей?</summary><p>Сопровождение операций можно передать на аутсорсинг: эксперт готовит и проверяет платежи, ведёт сведения и взаимодействует с ТОФК. Оставьте заявку — разберём вашу ситуацию.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:spasenie">Если отказ уже получен, а сроки по контракту горят, разовый разбор и доведение платежа мы выполняем в рамках услуги <a href="/uslugi/spasenie-kontrakta/">спасение госконтракта</a> — от диагностики причин до проведённого платежа.</p>
+
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">

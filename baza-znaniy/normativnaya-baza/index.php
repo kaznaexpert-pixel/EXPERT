@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Нормативная база казначейского сопровождения 2026 — законы и приказы |</title>
-<meta name="description" content="Вся нормативка по казначейскому сопровождению на 2026: Бюджетный кодекс, 275-ФЗ, 426-ФЗ, ПП № 2024, приказ 214н, 44н, письма. Что регулирует каждый акт + разборы и первоисточн">
+<title>Нормативная база казначейского сопровождения 2026 | КазнаЭксперт</title>
+<meta name="description" content="Нормативка по казначейскому сопровождению на 2026: Бюджетный кодекс, 275-ФЗ, 426-ФЗ, ПП № 2024, приказы 214н и 44н, письма — разборы и первоисточники.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -66,8 +66,8 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Нормативная база казначейского сопровождения 2026 — законы и приказы |">
-<meta property="og:description" content="Вся нормативка по казначейскому сопровождению на 2026: Бюджетный кодекс, 275-ФЗ, 426-ФЗ, ПП № 2024, приказ 214н, 44н, письма. Что регулирует каждый акт + разборы и первоисточн">
+<meta property="og:title" content="Нормативная база казначейского сопровождения 2026 | КазнаЭксперт">
+<meta property="og:description" content="Нормативка по казначейскому сопровождению на 2026: Бюджетный кодекс, 275-ФЗ, 426-ФЗ, ПП № 2024, приказы 214н и 44н, письма — разборы и первоисточники.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">

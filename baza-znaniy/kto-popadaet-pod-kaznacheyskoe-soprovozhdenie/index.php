@@ -731,6 +731,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Кто ведёт казначейское сопровождение?</summary><p>Территориальный орган Федерального казначейства (ТОФК) по месту открытия лицевого счёта. Для региональных и местных средств сопровождение может вести финансовый орган субъекта или муниципалитета.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:rasshir">Если ваш контракт попал не просто под сопровождение, а под его усиленный режим, изучите отдельный разбор: <a href="/baza-znaniy/rasshirennoe-kaznacheyskoe-soprovozhdenie/">расширенное казначейское сопровождение — что проверяют и как подготовиться</a>.</p>
+
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div>

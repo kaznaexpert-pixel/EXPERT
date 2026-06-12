@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Коды ТОФК по регионам: казначейство — код, сайт, адрес УФК 2026 | Казн</title>
+<title>Коды ТОФК по регионам: код, сайт, адрес УФК 2026 | КазнаЭксперт</title>
 <meta name="description" content="Справочник ТОФК (УФК) по регионам РФ: код ТОФК для заявления на открытие лицевого счёта, официальный сайт и адрес. Поиск по региону или коду казначейства.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -69,7 +69,7 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Коды ТОФК по регионам: казначейство — код, сайт, адрес УФК 2026 | Казн">
+<meta property="og:title" content="Коды ТОФК по регионам: код, сайт, адрес УФК 2026 | КазнаЭксперт">
 <meta property="og:description" content="Справочник ТОФК (УФК) по регионам РФ: код ТОФК для заявления на открытие лицевого счёта, официальный сайт и адрес. Поиск по региону или коду казначейства.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/tofk/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">

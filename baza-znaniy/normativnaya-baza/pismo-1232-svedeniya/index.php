@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Письмо Минфина и Казначейства № 02-12-10/1232 — как формировать Св | К</title>
+<title>Письмо Минфина и Казначейства № 02-12-10/1232 — как формировать</title>
 <meta name="description" content="Разъясняет формирование и представление Сведений (ф. 0501213) с учётом приказа № 197н: отражение показателей, указание кодов источников.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -69,7 +69,7 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Письмо Минфина и Казначейства № 02-12-10/1232 — как формировать Св | К">
+<meta property="og:title" content="Письмо Минфина и Казначейства № 02-12-10/1232 — как формировать">
 <meta property="og:description" content="Разъясняет формирование и представление Сведений (ф. 0501213) с учётом приказа № 197н: отражение показателей, указание кодов источников.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/pismo-1232-svedeniya/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">

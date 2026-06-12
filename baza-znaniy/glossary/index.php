@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Глоссарий терминов казначейского сопровождения | КазнаЭксперт</title>
-<meta name="description" content="Словарь терминов казначейского сопровождения: ИГК, ТОФК, КОСГУ, КВР, санкционирование, ГИИС «Электронный бюджет», лицевой счёт, раздельный учёт и другие — простыми словами.">
+<meta name="description" content="Словарь терминов казначейского сопровождения: ИГК, ТОФК, КОСГУ, КВР, санкционирование, ГИИС «Электронный бюджет», лицевой счёт, раздельный учёт и другие — простыми.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
