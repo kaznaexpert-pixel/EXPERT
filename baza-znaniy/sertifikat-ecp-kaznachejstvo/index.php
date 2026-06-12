@@ -111,7 +111,7 @@
   --cream:#F4F1EB; --bg:#F4F1EB; --ink:#1A1A1A; --ink-soft:#56524b; --ink-mute:#8a8170;
   --sepia:#8B6F47; --sepia-d:#6f5836; --line:#e4ddd0; --card:#fffdf8; --soft:#fbf8f1; --paper:#FAF7F0;
   --header:rgba(244,241,235,.8); --th:#efe7d8; --note:#f6efe2; --dark:#1A1A1A; --dark-tx:#efe9dd;
-  --toc-w:230px; --rail-w:312px; --maxw:1240px;
+  --toc-w:230px; --rail-w:288px; --maxw:1240px;
   --font-display:'Playfair Display',Georgia,serif; --font-body:'Inter',system-ui,-apple-system,sans-serif;
 }
 [data-theme="dark"]{
@@ -226,10 +226,12 @@ strong,b{font-weight:600}
 /* tables — premium editorial */
 table{display:block;overflow-x:auto;width:100%;border-collapse:collapse;margin:26px 0;font-size:15.5px;border-top:2px solid var(--sepia);-webkit-overflow-scrolling:touch}
 caption{text-align:left;font-size:12px;letter-spacing:.02em;color:var(--ink-mute);margin-bottom:12px;font-style:italic}
-tr:nth-child(even) td{background:rgba(139,111,71,.045)}
-td{line-height:1.55}
-th,td{padding:15px 18px;text-align:left;vertical-align:top;min-width:130px}
-th{font-size:11px;text-transform:uppercase;letter-spacing:.09em;color:var(--sepia);font-weight:600;border-bottom:1px solid var(--line);white-space:nowrap}
+tr:nth-child(even) td{background:rgba(139,111,71,.07)}
+td{line-height:1.5}
+td+td,th+th{border-left:1px solid var(--line)}
+td:first-child{font-weight:600;color:var(--ink)}
+th,td{padding:13px 16px;text-align:left;vertical-align:top;min-width:120px}
+th{font-size:11px;text-transform:uppercase;letter-spacing:.09em;color:var(--sepia);font-weight:600;border-bottom:1px solid var(--line)}
 td{border-bottom:1px solid var(--line);color:var(--ink-soft)}
 td:first-child{font-weight:500;color:var(--ink)}
 tr:last-child td{border-bottom:none}
@@ -465,7 +467,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 .reveal.in{opacity:1;transform:none}
 @media(prefers-reduced-motion:reduce){.reveal{opacity:1;transform:none;transition:none}.progress{display:none}}
 
-@media(max-width:1080px){.layout{grid-template-columns:minmax(0,1fr) var(--rail-w)}.toc{display:none}}
+@media(max-width:1439px){.layout{grid-template-columns:minmax(0,1fr) var(--rail-w)}.toc{display:none}}
 @media(max-width:860px){.layout{grid-template-columns:1fr}.rail{position:static;margin-top:14px}.related__grid{grid-template-columns:1fr}h1{font-size:33px}body{font-size:16.5px}}
 
 /* mobile TOC */
