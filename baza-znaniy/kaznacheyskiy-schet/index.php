@@ -707,7 +707,9 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Кто помогает открыть счёт и вести операции?</summary><p>Сопровождение можно передать на аутсорсинг: эксперт открывает счёт, готовит документы и сведения, проводит платежи и взаимодействует с ТОФК. Оставьте заявку — разберём вашу ситуацию.</p></details>
     </div>
 
-    <div class="author">
+    <p data-ctx="auto-ctx:svodnyy-reestr">Напомним и про шаг «ноль»: прежде чем у организации появится любой лицевой счёт в казначействе, она должна быть включена в <a href="/baza-znaniy/svodnyy-reestr/">сводный реестр</a> с присвоением 8-значного кода — без этой записи документы на открытие не принимаются.</p>
+
+<div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
         <div class="author__name">Ярослав Михайлов</div>
@@ -762,6 +764,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>Отказы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Причины отказа казначейства в санкционировании</h3><div class="card__meta">Санкционирование · 14 мин</div></div></a>
     <!-- auto-related:chto-takoe-kaznachejstvo-i-tofk --><a class="card reveal" href="/baza-znaniy/chto-takoe-kaznachejstvo-i-tofk/"><div class="card__cover"><span>Казначейство</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Что такое казначейство и ТОФК</h3><div class="card__meta">Основы · 14 мин</div></div></a>
     <!-- auto-related:edinyy-kaznacheyskiy-schet --><a class="card reveal" href="/baza-znaniy/edinyy-kaznacheyskiy-schet/"><div class="card__cover"><span>ЕКС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Единый казначейский счёт: что это и реквизиты</h3><div class="card__meta">Счета · 15 мин</div></div></a>
+    <!-- auto-related:svodnyy-reestr --><a class="card reveal" href="/baza-znaniy/svodnyy-reestr/"><div class="card__cover"><span>Реестр</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Сводный реестр: код организации, проверка, включение</h3><div class="card__meta">Счета · 15 мин</div></div></a>
   </div>
 </section>
 

@@ -822,7 +822,9 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Кто помогает настроить казначейское сопровождение?</summary><p>Сопровождение можно передать на аутсорсинг: эксперт открывает счёт, готовит сведения об операциях, ведёт платежи и взаимодействует с ТОФК. Оставьте заявку — разберём ваш контракт и подскажем порядок действий.</p></details>
     </div>
 
-    <div class="author">
+    <p data-ctx="auto-ctx:svodnyy-reestr">Первый практический шаг к сопровождению — включение организации в <a href="/baza-znaniy/svodnyy-reestr/">сводный реестр неучастников бюджетного процесса</a>: эту запись казначейство требует ещё до открытия лицевого счёта.</p>
+
+<div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
         <div class="author__name">Ярослав Михайлов</div>
