@@ -700,6 +700,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>Типовая ситуация: исполнитель направляет распоряжение на оплату поставки соисполнителю в последний день перед закрытием периода. Казначейство возвращает документ — в назначении платежа не указан ИГК, и платёж не связывается с контрактом. Из-за возврата операция сдвигается, а сроки расчётов с соисполнителем поджимают. После того как ИГК и код цели внесли корректно, распоряжение прошло. На практике помогает простое правило: готовить распоряжения заранее и держать «шаблон» назначения платежа с обязательными идентификаторами, чтобы не собирать реквизиты вручную под дедлайн.</p>
     </div>
 
+    <p data-ctx="auto-ctx:vypiska-iz-licevogo-scheta-kaznachejstva">Прошёл платёж или завис — видно в <a href="/baza-znaniy/vypiska-iz-licevogo-scheta-kaznachejstva/">выписке из лицевого счёта</a>: там же, в справке о неисполненных распоряжениях, ищут причину задержки.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -788,6 +789,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Основы КС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение: что это и как работает в 2026</h3><div class="card__meta">Основы · 18 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>Отказы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Причины отказа казначейства в санкционировании</h3><div class="card__meta">Санкционирование · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/identifikator-gosudarstvennogo-kontrakta-igk/"><div class="card__cover"><span>ИГК</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Идентификатор государственного контракта (ИГК)</h3><div class="card__meta">Операции · 15 мин</div></div></a>
+    <!-- auto-related:vypiska-iz-licevogo-scheta-kaznachejstva --><a class="card reveal" href="/baza-znaniy/vypiska-iz-licevogo-scheta-kaznachejstva/"><div class="card__cover"><span>Выписка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Выписка из лицевого счёта казначейства</h3><div class="card__meta">Операции · 14 мин</div></div></a>
   </div>
 </section>
 

@@ -675,6 +675,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>Типичная ситуация: исполнитель выигрывает контракт под казначейское сопровождение и начинает открывать счёт за пару дней до первого платежа. Оказывается, что электронная подпись оформлена не на всех нужных сотрудников, а подключение к «Электронному бюджету» ещё не завершено — в итоге открытие счёта и первый платёж сдвигаются. Правильный порядок обратный: как только видно, что контракт подпадает под сопровождение, сразу оформляют ЭП, подключаются к ГИИС и готовят пакет документов. Тогда заявление на открытие проходит без задержек, а раздел по контракту открывается на следующий рабочий день — и исполнитель не теряет время в начале контракта.</p>
     </div>
 
+    <p data-ctx="auto-ctx:elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta">Весь этот документооборот ведётся в одной системе: как подключиться к ней и войти по сертификату, разобрано в статье о <a href="/baza-znaniy/elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta/">«Электронном бюджете» для исполнителя контракта</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -775,6 +776,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:edinyy-kaznacheyskiy-schet --><a class="card reveal" href="/baza-znaniy/edinyy-kaznacheyskiy-schet/"><div class="card__cover"><span>ЕКС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Единый казначейский счёт: что это и реквизиты</h3><div class="card__meta">Счета · 15 мин</div></div></a>
     <!-- auto-related:sufd-portal-kaznachejstva --><a class="card reveal" href="/baza-znaniy/sufd-portal-kaznachejstva/"><div class="card__cover"><span>СУФД</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">СУФД-портал казначейства: подключение и работа</h3><div class="card__meta">ГИС · 14 мин</div></div></a>
     <!-- auto-related:svodnyy-reestr --><a class="card reveal" href="/baza-znaniy/svodnyy-reestr/"><div class="card__cover"><span>Реестр</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Сводный реестр: код организации, проверка, включение</h3><div class="card__meta">Счета · 15 мин</div></div></a>
+    <!-- auto-related:elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta --><a class="card reveal" href="/baza-znaniy/elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta/"><div class="card__cover"><span>ЭБ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">«Электронный бюджет» для исполнителя контракта</h3><div class="card__meta">ГИИС · 16 мин</div></div></a>
   </div>
 </section>
 

@@ -657,6 +657,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>Типичная ситуация: подрядчик оплачивает поставку материалов, платёж возвращают. По протоколу причина — несоответствие кода направления расходования назначению платежа: в сведениях об операциях был указан укрупнённый код, а под конкретную поставку требовался детализированный, и пакет документов не подтверждал именно этот вид расхода. После уточнения кода в сведениях, добавления спецификации к УПД и корректировки назначения платежа операция прошла санкционирование со второй попытки. Вывод, который подтверждается на практике: 9 из 10 отказов снимаются на этапе подготовки платежа, если проверять его по чек-листу заранее, а не после возврата.</p>
     </div>
 
+    <p data-ctx="auto-ctx:vypiska-iz-licevogo-scheta-kaznachejstva">Какие именно распоряжения не прошли, показывает <a href="/baza-znaniy/vypiska-iz-licevogo-scheta-kaznachejstva/">выписка из лицевого счёта</a> и приложенная к ней справка о неисполненных документах.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -752,6 +753,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/licevoy-schet-71-kak-otkryt/"><div class="card__cover"><span>Счёт 71</span></div><div class="card__body"><span class="card__cat">Инструкция</span><h3 class="card__title">Как открыть лицевой счёт 71 в ТОФК</h3><div class="card__meta">Открытие счёта · 12 мин</div></div></a>
     <!-- auto-related:rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha --><a class="card reveal" href="/baza-znaniy/rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha/"><div class="card__cover"><span>Распоряжение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Распоряжение о совершении казначейского платежа</h3><div class="card__meta">Операции · 14 мин</div></div></a>
     <!-- auto-related:rasshirennoe-kaznacheyskoe-soprovozhdenie --><a class="card reveal" href="/baza-znaniy/rasshirennoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Расширенное КС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Расширенное казначейское сопровождение в 2026</h3><div class="card__meta">Контроль · 14 мин</div></div></a>
+    <!-- auto-related:vypiska-iz-licevogo-scheta-kaznachejstva --><a class="card reveal" href="/baza-znaniy/vypiska-iz-licevogo-scheta-kaznachejstva/"><div class="card__cover"><span>Выписка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Выписка из лицевого счёта казначейства</h3><div class="card__meta">Операции · 14 мин</div></div></a>
   </div>
 </section>
 

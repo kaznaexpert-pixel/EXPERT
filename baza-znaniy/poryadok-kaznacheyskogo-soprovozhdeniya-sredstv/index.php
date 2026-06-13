@@ -738,6 +738,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>Типовая ситуация: организация выиграла крупный контракт с авансом и считала, что работает как обычно — через расчётный счёт. Об условии казначейского сопровождения вспомнили только при попытке получить аванс, электронной подписи и лицевого счёта ещё не было, и старт исполнения сдвинулся. После того как сначала оформили подпись и счёт в ТОФК, уточнили ИГК и настроили раздельный учёт, расходы пошли через санкционирование без задержек. На практике помогает простое правило: порядок КС начинается не с денег, а с условия в контракте — и готовиться к нему нужно заранее. Это обобщённый пример; конкретный порядок зависит от вида средств и условий контракта.</p>
     </div>
 
+    <p data-ctx="auto-ctx:zavershenie-kaznacheyskogo-soprovozhdeniya">Финальный этап процесса — <a href="/baza-znaniy/zavershenie-kaznacheyskogo-soprovozhdeniya/">завершение казначейского сопровождения</a>: возврат неиспользованного остатка целевых средств и закрытие лицевого счёта.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -829,6 +830,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Кто попадает</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Кто попадает под казначейское сопровождение</h3><div class="card__meta">Основы · 15 мин</div></div></a>
     <!-- auto-related:rasshirennoe-kaznacheyskoe-soprovozhdenie --><a class="card reveal" href="/baza-znaniy/rasshirennoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Расширенное КС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Расширенное казначейское сопровождение в 2026</h3><div class="card__meta">Контроль · 14 мин</div></div></a>
     <!-- auto-related:kaznacheyskiy-kontrakt --><a class="card reveal" href="/baza-znaniy/kaznacheyskiy-kontrakt/"><div class="card__cover"><span>Контракт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейский контракт: что это и как работать</h3><div class="card__meta">Основы · 14 мин</div></div></a>
+    <!-- auto-related:zavershenie-kaznacheyskogo-soprovozhdeniya --><a class="card reveal" href="/baza-znaniy/zavershenie-kaznacheyskogo-soprovozhdeniya/"><div class="card__cover"><span>Финал</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Завершение сопровождения: возврат и закрытие счёта</h3><div class="card__meta">Счета · 15 мин</div></div></a>
   </div>
 </section>
 
