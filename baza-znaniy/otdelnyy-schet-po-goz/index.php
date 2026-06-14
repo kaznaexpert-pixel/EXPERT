@@ -741,6 +741,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>Типовая ситуация: исполнитель второго уровня кооперации закончил поставку в ноябре, а деньги на отдельном счёте «зависли» до весны. Разбор показал три наложившиеся причины: в контракте не был зафиксирован размер прибыли (банк отказывал в перечислении по пп. «в»), акт приёмки в банк никто не направлял, а головной исполнитель не уведомил банк о приёмке продукции заказчиком. После того как стороны подписали дополнительное соглашение с размером прибыли, а в банк ушёл полный комплект — акт и уведомление, — средства были перечислены на расчётный счёт. Вывод: вывод прибыли готовится на этапе заключения контракта, а не после сдачи работ. Пример обобщённый; состав документов и сроки зависят от условий конкретной сделки и банка.</p>
     </div>
 
+    <p data-ctx="auto-ctx:kak-zarezervirovat-schet-po-goz">Чтобы не задерживать старт, номер отдельного счёта можно получить заранее — как <a href="/baza-znaniy/kak-zarezervirovat-schet-po-goz/">зарезервировать счёт по ГОЗ</a> онлайн в уполномоченном банке, разобрано в отдельном материале.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -834,6 +835,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-i-bankovskoe-soprovozhdenie/"><div class="card__cover"><span>КС vs банк</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское и банковское сопровождение: разница</h3><div class="card__meta">Основы · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/"><div class="card__cover"><span>Учёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по ГОЗ: как вести, штрафы</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/vidy-cen-goz/"><div class="card__cover"><span>Цены ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Виды цен на продукцию ГОЗ</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
+    <!-- auto-related:kak-zarezervirovat-schet-po-goz --><a class="card reveal" href="/baza-znaniy/kak-zarezervirovat-schet-po-goz/"><div class="card__cover"><span>Резерв ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Как зарезервировать отдельный счёт по ГОЗ</h3><div class="card__meta">ГОЗ · 14 мин</div></div></a>
   </div>
 </section>
 

@@ -831,6 +831,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>Производственная компания получила контракт ГОЗ на ремонт техники с авансированием. Бухгалтерия впервые столкнулась с казначейским сопровождением: первые платежи возвращались из-за неверных кодов направления расходования и отсутствия части документов под код возмещения. Сроки по контракту шли, аванс «завис» на казначейском счёте. После подключения к работе нашей команды за два дня был открыт лицевой счёт, выверены коды и комплект документов, выстроена методика раздельного учёта — последующие платежи проходили санкционирование без замечаний, а контракт был доведён до закрытия в срок. <i>(Кейс обезличен по условиям NDA.)</i></p>
     </div>
 
+    <p data-ctx="auto-ctx:kak-zarezervirovat-schet-po-goz">Если расчёты по контракту идут через уполномоченный банк, первый практический шаг — <a href="/baza-znaniy/kak-zarezervirovat-schet-po-goz/">зарезервировать отдельный счёт по ГОЗ</a>, чтобы быстро получить реквизиты для кооперации.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -935,6 +936,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:ast-goz-elektronnaya-ploschadka --><a class="card reveal" href="/baza-znaniy/ast-goz-elektronnaya-ploschadka/"><div class="card__cover"><span>АСТ ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">АСТ ГОЗ: электронная площадка</h3><div class="card__meta">ГОЗ · 13 мин</div></div></a>
     <!-- auto-related:kaznacheyskoe-i-bankovskoe-soprovozhdenie --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-i-bankovskoe-soprovozhdenie/"><div class="card__cover"><span>КС vs банк</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское и банковское сопровождение: разница</h3><div class="card__meta">Основы · 14 мин</div></div></a>
     <!-- auto-related:otdelnyy-schet-po-goz --><a class="card reveal" href="/baza-znaniy/otdelnyy-schet-po-goz/"><div class="card__cover"><span>Отдельный счёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отдельный счёт по ГОЗ: режим, запреты, вывод прибыли</h3><div class="card__meta">ГОЗ · 18 мин</div></div></a>
+    <!-- auto-related:kak-zarezervirovat-schet-po-goz --><a class="card reveal" href="/baza-znaniy/kak-zarezervirovat-schet-po-goz/"><div class="card__cover"><span>Резерв ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Как зарезервировать отдельный счёт по ГОЗ</h3><div class="card__meta">ГОЗ · 14 мин</div></div></a>
   </div>
 </section>
 

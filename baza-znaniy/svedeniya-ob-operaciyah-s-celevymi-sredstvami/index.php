@@ -691,6 +691,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>Типичная ситуация: исполнитель утвердил сведения в начале контракта, а через пару месяцев понадобилось оплатить расход по направлению, которого в сведениях не было. Платёж вернули — кода нет в сведениях. После того как сведения дополнили нужным направлением, переутвердили у заказчика и дождались отражения в системе, операция прошла. Вывод, который подтверждается на практике: сведения об операциях — это «живой» документ, и его нужно вести параллельно с исполнением контракта, а не считать разовой формальностью на старте.</p>
     </div>
 
+    <p data-ctx="auto-ctx:celevye-sredstva-kaznacheyskoe-soprovozhdenie">Эти сведения составляются именно по <a href="/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/">целевым средствам</a> — деньгам под конкретную цель контракта, которые расходуются в особом режиме после санкционирования.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -784,6 +785,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kaznacheyskiy-schet/"><div class="card__cover"><span>Счёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейский счёт: что это, реквизиты и отличие от банковского</h3><div class="card__meta">Счета · 16 мин</div></div></a>
     <!-- auto-related:razdelnyy-uchet-po-goskontraktu --><a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-po-goskontraktu/"><div class="card__cover"><span>Учёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по госконтракту: когда вести, штрафы</h3><div class="card__meta">Учёт · 17 мин</div></div></a>
     <!-- auto-related:identifikator-gosudarstvennogo-kontrakta-igk --><a class="card reveal" href="/baza-znaniy/identifikator-gosudarstvennogo-kontrakta-igk/"><div class="card__cover"><span>ИГК</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Идентификатор государственного контракта (ИГК)</h3><div class="card__meta">Операции · 15 мин</div></div></a>
+    <!-- auto-related:celevye-sredstva-kaznacheyskoe-soprovozhdenie --><a class="card reveal" href="/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Целевые</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Целевые средства: что это, виды, режим и коды</h3><div class="card__meta">Операции · 17 мин</div></div></a>
   </div>
 </section>
 

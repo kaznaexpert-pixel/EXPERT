@@ -658,6 +658,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <p data-ctx="auto-ctx:vypiska-iz-licevogo-scheta-kaznachejstva">Какие именно распоряжения не прошли, показывает <a href="/baza-znaniy/vypiska-iz-licevogo-scheta-kaznachejstva/">выписка из лицевого счёта</a> и приложенная к ней справка о неисполненных документах.</p>
+    <p data-ctx="auto-ctx:celevye-sredstva-kaznacheyskoe-soprovozhdenie">Большинство отказов сводится к нарушению режима <a href="/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/">целевых средств</a>: неверный ИГК или код направления, расход не по назначению, превышение утверждённых направлений.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -754,6 +755,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha --><a class="card reveal" href="/baza-znaniy/rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha/"><div class="card__cover"><span>Распоряжение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Распоряжение о совершении казначейского платежа</h3><div class="card__meta">Операции · 14 мин</div></div></a>
     <!-- auto-related:rasshirennoe-kaznacheyskoe-soprovozhdenie --><a class="card reveal" href="/baza-znaniy/rasshirennoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Расширенное КС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Расширенное казначейское сопровождение в 2026</h3><div class="card__meta">Контроль · 14 мин</div></div></a>
     <!-- auto-related:vypiska-iz-licevogo-scheta-kaznachejstva --><a class="card reveal" href="/baza-znaniy/vypiska-iz-licevogo-scheta-kaznachejstva/"><div class="card__cover"><span>Выписка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Выписка из лицевого счёта казначейства</h3><div class="card__meta">Операции · 14 мин</div></div></a>
+    <!-- auto-related:celevye-sredstva-kaznacheyskoe-soprovozhdenie --><a class="card reveal" href="/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Целевые</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Целевые средства: что это, виды, режим и коды</h3><div class="card__meta">Операции · 17 мин</div></div></a>
   </div>
 </section>
 
