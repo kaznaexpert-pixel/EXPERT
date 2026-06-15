@@ -488,7 +488,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
           </nav>
         </header>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"LocalBusiness","name":"КазнаЭксперт","legalName":"ИП Михайлов Ярослав Алексеевич","description":"Казначейское сопровождение государственных контрактов, субсидий и гособоронзаказа под ключ.","url":"https://kaznaexpert.ru/kontakty/","image":"https://kaznaexpert.ru/img/og-image.png","telephone":"+79818331010","email":"manager@kaznaexpert.ru","priceRange":"₽₽","taxID":"781428314589","address":{"@type":"PostalAddress","addressLocality":"Санкт-Петербург","addressRegion":"Санкт-Петербург","addressCountry":"RU"},"areaServed":{"@type":"Country","name":"Россия"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],"opens":"09:00","closes":"21:00"}],"contactPoint":{"@type":"ContactPoint","telephone":"+79818331010","email":"manager@kaznaexpert.ru","contactType":"customer service","availableLanguage":"Russian"},"sameAs":["https://t.me/Kaznaexpert","https://www.rusprofile.ru/ip/321784700367672","https://zachestnyibiznes.ru/company/ip/321784700367672_781428314589","https://www.audit-it.ru/contragent/fl/781428314589_mikhailov-iaroslav-alekseevich"]}
+{"@context":"https://schema.org","@type":"LocalBusiness","name":"КазнаЭксперт","legalName":"ИП Михайлов Ярослав Алексеевич","description":"Казначейское сопровождение государственных контрактов, субсидий и гособоронзаказа под ключ.","url":"https://kaznaexpert.ru/kontakty/","image":"https://kaznaexpert.ru/img/og-image.png","telephone":"+79818331010","email":"manager@kaznaexpert.ru","priceRange":"₽₽","taxID":"781428314589","address":{"@type":"PostalAddress","streetAddress":"Средний проспект Васильевского острова, д. 88, литера А, офис 330, 3 этаж","addressLocality":"Санкт-Петербург","addressRegion":"Санкт-Петербург","postalCode":"199048","addressCountry":"RU"},"areaServed":{"@type":"Country","name":"Россия"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],"opens":"09:00","closes":"21:00"}],"contactPoint":{"@type":"ContactPoint","telephone":"+79818331010","email":"manager@kaznaexpert.ru","contactType":"customer service","availableLanguage":"Russian"},"sameAs":["https://t.me/Kaznaexpert","https://www.rusprofile.ru/ip/321784700367672","https://zachestnyibiznes.ru/company/ip/321784700367672_781428314589","https://www.audit-it.ru/contragent/fl/781428314589_mikhailov-iaroslav-alekseevich"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"Контакты","item":"https://kaznaexpert.ru/kontakty/"}]}
@@ -522,11 +522,17 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
           <div style="font-size:18px;font-weight:600;color:#1A1A1A">Ежедневно 9:00–21:00</div>
           <p style="font-size:13.5px;color:#8a8170;margin:8px 0 0">По московскому времени</p>
         </div>
+        <div style="border:1px solid #e4ddd0;border-radius:14px;padding:20px;background:#fffdf8">
+          <div style="font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;font-weight:600;margin-bottom:8px">Адрес офиса</div>
+          <div style="font-size:17px;font-weight:600;color:#1A1A1A;line-height:1.35">Средний пр. В.О., д. 88, лит. А, офис 330</div>
+          <p style="font-size:13.5px;color:#8a8170;margin:8px 0 0">Санкт-Петербург, 3 этаж · приём по записи</p>
+        </div>
       </div>
 
       <h2 style="margin:32px 0 12px">Реквизиты</h2>
       <p style="font-size:16px;line-height:1.7;color:#56524b">Исполнитель — <b>ИП Михайлов Ярослав Алексеевич</b> (бренд «КазнаЭксперт»).<br>
-      ИНН <b>781428314589</b> · ОГРНИП <b>321784700367672</b> · Санкт-Петербург.</p>
+      ИНН <b>781428314589</b> · ОГРНИП <b>321784700367672</b>.<br>
+      Адрес: 199048, Санкт-Петербург, Средний пр. В.О., д. 88, лит. А, офис 330 (3 этаж).</p>
       <p style="font-size:15px;line-height:1.7;color:#56524b">Проверьте нас в открытых реестрах:
         <a href="https://www.rusprofile.ru/ip/321784700367672" target="_blank" rel="noopener">Rusprofile</a> ·
         <a href="https://zachestnyibiznes.ru/company/ip/321784700367672_781428314589" target="_blank" rel="noopener">За честный бизнес</a> ·
