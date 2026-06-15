@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Казначейское сопровождение по регионам России | КазнаЭксперт</title>
-<meta name="description" content="Казначейское сопровождение госконтрактов по всем регионам РФ дистанционно: открытие счёта, ведение, санкционирование, спасение контрактов.">
+<meta name="description" content="Казначейское сопровождение госконтрактов по всем регионам РФ дистанционно: открытие счёта, ведение, санкционирование, спасение контрактов. Москва, СПб, Екатеринбург и другие.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -87,7 +87,7 @@
   --cream:#F4F1EB; --bg:#F4F1EB; --ink:#1A1A1A; --ink-soft:#56524b; --ink-mute:#8a8170;
   --sepia:#8B6F47; --sepia-d:#6f5836; --line:#e4ddd0; --card:#fffdf8; --soft:#fbf8f1; --paper:#FAF7F0;
   --header:rgba(244,241,235,.8); --th:#efe7d8; --note:#f6efe2; --dark:#1A1A1A; --dark-tx:#efe9dd;
-  --toc-w:230px; --rail-w:312px; --maxw:1240px;
+  --toc-w:230px; --rail-w:288px; --maxw:1240px;
   --font-display:'Playfair Display',Georgia,serif; --font-body:'Inter',system-ui,-apple-system,sans-serif;
 }
 [data-theme="dark"]{
@@ -149,7 +149,10 @@ a{color:var(--sepia)}
 @media(max-width:900px){.hd__nav{display:none}}
 
 /* layout */
-.layout{max-width:var(--maxw);margin:0 auto;padding:34px 24px 70px;display:grid;grid-template-columns:var(--toc-w) minmax(0,1fr) var(--rail-w);gap:46px;align-items:start}
+.layout{max-width:var(--maxw);margin:0 auto;padding:34px 24px 70px;display:grid;grid-template-columns:minmax(0,1fr) var(--rail-w);gap:46px;align-items:start}
+.toc{display:none}
+.content{max-width:800px}
+@media(min-width:1320px) and (max-width:1680px){.layout{padding-left:84px}}
 .crumbs{grid-column:1/-1;font-size:13px;color:var(--sepia);margin-bottom:4px}
 .crumbs a{color:var(--sepia);text-decoration:none}
 
@@ -185,25 +188,29 @@ h1{font-family:var(--font-display);font-weight:500;font-size:clamp(2rem,3.4vw + 
 .kf__t b{color:#fff;font-weight:500}
 @media(max-width:560px){.keyfacts__grid{grid-template-columns:1fr}}
 
-h2{font-family:var(--font-display);font-weight:500;font-size:clamp(1.55rem,1.6vw + 1rem,1.9rem);line-height:1.16;margin:50px 0 8px;letter-spacing:-.012em;scroll-margin-top:84px;position:relative}
+h2{font-family:var(--font-display);font-weight:500;font-size:clamp(1.55rem,1.6vw + 1rem,1.9rem);line-height:1.16;margin:72px 0 22px;letter-spacing:-.012em;scroll-margin-top:84px;position:relative}
 h2[id]:hover .anchor{opacity:1}
 .anchor{position:absolute;left:-26px;top:.18em;opacity:0;color:var(--sepia);text-decoration:none;font-size:.7em;transition:opacity .18s;cursor:pointer}
 @media(max-width:1080px){.anchor{display:none}}
-h3{font-weight:600;font-size:19.5px;margin:30px 0 8px}
+h3{font-weight:600;font-size:19.5px;margin:44px 0 14px}
 .answer{margin:10px 0 14px}
-p{margin:13px 0}
+p{margin:0 0 20px}
 /* выравнивание основного текста по ширине блока + переносы (против «рек» и дыр) */
-.content .answer,.content .answer p,.content p.answer,.content .lead-p,.tldr{text-align:justify;text-justify:inter-word;-webkit-hyphens:auto;hyphens:auto;hyphenate-limit-chars:6 3 2}
+.content .answer,.content .answer p,.content p.answer,.content .lead-p,.tldr{text-align:left;hyphens:none}
 @media(max-width:560px){.content .answer,.content .answer p,.content p.answer,.content .lead-p,.tldr{text-align:left}}
 ul,ol{margin:13px 0 13px 22px}
 li{margin:7px 0}
 strong,b{font-weight:600}
 
 /* tables — premium editorial */
-table{display:block;overflow-x:auto;width:100%;border-collapse:collapse;margin:26px 0;font-size:15.5px;border-top:2px solid var(--sepia);-webkit-overflow-scrolling:touch}
-caption{text-align:left;font-size:12px;letter-spacing:.02em;color:var(--ink-mute);margin-bottom:12px;font-style:italic}
-th,td{padding:15px 18px;text-align:left;vertical-align:top;min-width:130px}
-th{font-size:11px;text-transform:uppercase;letter-spacing:.09em;color:var(--sepia);font-weight:600;border-bottom:1px solid var(--line);white-space:nowrap}
+table{display:block;overflow-x:auto;width:100%;border-collapse:collapse;margin:48px 0 60px;font-size:15px;border-top:2px solid var(--sepia);-webkit-overflow-scrolling:touch}
+caption{text-align:left;font-size:12.5px;letter-spacing:.02em;color:var(--ink-mute);padding:14px 0 18px;font-style:italic}
+tr:nth-child(even) td{background:rgba(139,111,71,.07)}
+td{line-height:1.5}
+td+td,th+th{border-left:1px solid var(--line)}
+td:first-child{font-weight:600;color:var(--ink)}
+th,td{padding:16px 18px;text-align:left;vertical-align:top;min-width:120px}
+th{font-size:11px;text-transform:uppercase;letter-spacing:.09em;color:var(--sepia);font-weight:600;border-bottom:1px solid var(--line);background:rgba(139,111,71,.08)}
 td{border-bottom:1px solid var(--line);color:var(--ink-soft)}
 td:first-child{font-weight:500;color:var(--ink)}
 tr:last-child td{border-bottom:none}
@@ -344,9 +351,9 @@ tr:hover td{background:var(--soft)}
 .sidenote b{color:var(--ink);font-weight:600}
 /* настоящие поля только при достаточной ширине (иначе остаётся аккуратной врезкой) */
 @media(min-width:1440px){
-  .layout{--maxw-inner:1360px;max-width:1360px}
-  .content{padding-right:200px}
-  .sidenote{float:right;clear:right;width:176px;margin:4px -200px 18px 0;border-left:none;border-top:2px solid var(--sepia);padding:10px 0 0;font-size:12.5px;line-height:1.45;color:var(--ink-mute)}
+  .layout{--maxw-inner:1320px;max-width:1320px}
+  .content{padding-right:0}
+  .sidenote{float:right;clear:right;width:200px;margin:6px 0 18px 26px;border-left:none;border-top:2px solid var(--sepia);padding:10px 0 0;font-size:12.5px;line-height:1.45;color:var(--ink-mute)}
   .sidenote b{color:var(--ink)}
 }
 /* term tooltips */
@@ -358,7 +365,7 @@ tr:hover td{background:var(--soft)}
 /* section numbers before H2 */
 .content{counter-reset:sec}
 .content h2[id]{counter-increment:sec}
-.content h2[id]::after{content:counter(sec,decimal-leading-zero);position:absolute;right:100%;top:.34em;margin-right:18px;font-family:var(--font-body);font-size:12px;font-weight:600;letter-spacing:.1em;color:var(--sepia);opacity:.65}
+.content h2[id]::after{content:counter(sec,decimal-leading-zero);position:static;display:inline-block;margin-left:10px;vertical-align:super;font-family:var(--font-body);font-size:11px;font-weight:600;letter-spacing:.1em;color:var(--sepia);opacity:.55}
 @media(max-width:1180px){.content h2[id]::after{position:static;display:inline-block;margin:0 0 4px;opacity:.8}}
 /* share + pdf */
 .share{display:flex;align-items:center;gap:9px;flex-wrap:wrap;margin:20px 0 2px}
@@ -439,7 +446,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 .reveal.in{opacity:1;transform:none}
 @media(prefers-reduced-motion:reduce){.reveal{opacity:1;transform:none;transition:none}.progress{display:none}}
 
-@media(max-width:1080px){.layout{grid-template-columns:minmax(0,1fr) var(--rail-w)}.toc{display:none}}
+
 @media(max-width:860px){.layout{grid-template-columns:1fr}.rail{position:static;margin-top:14px}.related__grid{grid-template-columns:1fr}h1{font-size:33px}body{font-size:16.5px}}
 
 /* mobile TOC */

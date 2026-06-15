@@ -32,7 +32,7 @@
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Регионы", "item": "https://kaznaexpert.ru/regiony/"}, {"@type": "ListItem", "position": 3, "name": "Казначейское сопровождение в Санкт-Петербурге"}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Вы работаете в Санкт-Петербурге?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Ведём казначейское сопровождение для подрядчиков из Санкт-Петербург и всего региона дистанционно — открываем и ведём счёт в УФК по г. Санкт-Петербургу через «Электронный бюджет»."}}, {"@type": "Question", "name": "Нужно ли приезжать в казначейство?", "acceptedAnswer": {"@type": "Answer", "text": "Нет. Весь документооборот идёт электронно через «Электронный бюджет». Работаем со всеми регионами РФ удалённо."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Вы работаете в Санкт-Петербурге?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Ведём казначейское сопровождение для подрядчиков из Санкт-Петербург и всего региона дистанционно — открываем и ведём счёт в УФК по г. Санкт-Петербургу через «Электронный бюджет»."}}, {"@type": "Question", "name": "Какой код у казначейства в Санкт-Петербурге?", "acceptedAnswer": {"@type": "Answer", "text": "УФК по г. Санкт-Петербургу имеет код КОФК 7200. Адрес: 190121, г. Санкт-Петербург, пер. Люблинский, д. 5, литера А, Б, помещ. 1Н. Лицевой счёт открываем и ведём дистанционно."}}, {"@type": "Question", "name": "Где находится УФК по г. Санкт-Петербургу?", "acceptedAnswer": {"@type": "Answer", "text": "Адрес: 190121, г. Санкт-Петербург, пер. Люблинский, д. 5, литера А, Б, помещ. 1Н. Приезжать не нужно — счёт и документооборот ведём дистанционно через «Электронный бюджет»."}}, {"@type": "Question", "name": "Нужно ли приезжать в казначейство?", "acceptedAnswer": {"@type": "Answer", "text": "Нет. Весь документооборот идёт электронно через «Электронный бюджет». Работаем со всеми регионами РФ удалённо."}}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -582,7 +582,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <div class="reg-split">
       <div class="reg-copy">
         <p>Санкт-Петербург — второй по объёму госзаказа регион с большой долей строительных и оборонных контрактов. Петербургское УФК внимательно к раздельному учёту и основаниям платежа; мы ведём контракты так, чтобы санкционирование проходило с первой подачи.</p>
-        <p>Услуга оказывается по всей России: открываем и ведём лицевые счета в любом территориальном органе казначейства, в том числе в УФК по г. Санкт-Петербургу. Весь документооборот — через «Электронный бюджет», поэтому ваше местонахождение и загруженность регионального УФК не мешают работе. <a href="/baza-znaniy/tofk/">Код, адрес и официальный сайт вашего ТОФК</a> — в справочнике казначейств по регионам.</p>
+        <p>Услуга оказывается по всей России: открываем и ведём лицевые счета в любом территориальном органе казначейства, в том числе в УФК по г. Санкт-Петербургу. Весь документооборот — через «Электронный бюджет», поэтому ваше местонахождение и загруженность регионального УФК не мешают работе. Реквизиты под рукой: УФК по г. Санкт-Петербургу — код КОФК 7200, 190121, г. Санкт-Петербург, пер. Люблинский, д. 5, литера А, Б, помещ. 1Н; официальный сайт и коды всех ТОФК — в <a href="/baza-znaniy/tofk/">справочнике казначейств по регионам</a>.</p>
         <h3>Когда нужно казначейское сопровождение</h3>
         <p>Расчёты идут через лицевой счёт в казначействе, если вы выиграли госконтракт по 44-ФЗ или 223-ФЗ с условием казначейского сопровождения, получаете целевой аванс или бюджетную субсидию либо работаете по гособоронзаказу (275-ФЗ). Без открытого счёта и санкционирования оплата невозможна, а каждая ошибка в документах оборачивается возвратом и потерей срока.</p>
         <p>Мы закрываем весь этот блок: открываем счёт в УФК по г. Санкт-Петербургу, ведём раздельный учёт, готовим распоряжения и проводим санкционирование, а при возвратах и блокировках — восстанавливаем контракт до исполнения.</p>
@@ -592,6 +592,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         <dl>
           <div><dt>Субъект РФ</dt><dd>город Санкт-Петербург</dd></div>
           <div><dt>Орган казначейства</dt><dd>УФК по г. Санкт-Петербургу</dd></div>
+          <div><dt>Код казначейства (КОФК)</dt><dd>7200</dd></div><div><dt>Адрес УФК</dt><dd>190121, г. Санкт-Петербург, пер. Люблинский, д. 5, литера А, Б, помещ. 1Н</dd></div><div><dt>Официальный сайт</dt><dd><a href="https://piter.roskazna.gov.ru/" target="_blank" rel="noopener nofollow">piter.roskazna.gov.ru</a></dd></div>
           <div><dt>Формат работы</dt><dd>Дистанционно, по всей РФ</dd></div>
           <div><dt>Открытие счёта</dt><dd>2 рабочих дня</dd></div>
           <div><dt>Документооборот</dt><dd>«Электронный бюджет»</dd></div>
@@ -600,6 +601,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
   </div>
 </section>
+
+
 
 <section class="v2-section v2-screen" id="uslugi">
   <div class="v2-container">
@@ -658,6 +661,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <div class="v2-section-head"><div class="v2-section-eyebrow">Вопросы</div><h2 class="v2-section-title">Отвечаем <em>прямо</em></h2></div>
     <div class="faq">
       <details open><summary>Вы работаете в Санкт-Петербурге?</summary><p>Да. Ведём казначейское сопровождение для подрядчиков из Санкт-Петербург и всего региона дистанционно — открываем и ведём счёт в УФК по г. Санкт-Петербургу через «Электронный бюджет», личное присутствие не требуется.</p></details>
+      <details><summary>Какой код у казначейства в Санкт-Петербурге?</summary><p>УФК по г. Санкт-Петербургу имеет код КОФК <strong>7200</strong>. Адрес: 190121, г. Санкт-Петербург, пер. Люблинский, д. 5, литера А, Б, помещ. 1Н. Лицевой счёт в этом ТОФК открываем и ведём дистанционно — полный справочник кодов в <a href="/baza-znaniy/tofk/">базе ТОФК</a>.</p></details><details><summary>Где находится УФК по г. Санкт-Петербургу?</summary><p>Адрес: 190121, г. Санкт-Петербург, пер. Люблинский, д. 5, литера А, Б, помещ. 1Н. Приезжать туда не нужно — открытие лицевого счёта и весь документооборот в Санкт-Петербурге ведём дистанционно через «Электронный бюджет».</p></details>
       <details><summary>Нужно ли приезжать в казначейство?</summary><p>Нет. Весь документооборот идёт электронно через «Электронный бюджет». Мы работаем со всеми регионами РФ удалённо.</p></details>
       <details><summary>За сколько откроете счёт?</summary><p>За два рабочих дня с момента получения документов при стандартных требованиях. Срок фиксируем в договоре.</p></details>
       <details><summary>Сколько стоит сопровождение?</summary><p>Цены фиксированные и не зависят от региона: открытие счёта — 39 000 ₽, ведение — от 59 000 ₽, спасение контракта — от 29 000 ₽. Точная стоимость — после анализа.</p></details>
@@ -709,7 +713,6 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 <script>
 (function(){var f=document.getElementById('leadFormBottom'); if(!f) return;var msg=document.getElementById('formMsgBottom'), ok=document.getElementById('leadSuccessBottom');function show(t){ if(msg){msg.hidden=false;msg.textContent=t;} }f.addEventListener('submit',function(e){e.preventDefault();if(f.company_extra && f.company_extra.value) return;var name=(f.name.value||'').trim(), phone=(f.phone.value||'').trim();if(name.length<2){show('Введите имя');return;}if(!/\d[\s\d().-]*\d{3}/.test(phone)||phone.replace(/\D/g,'').length<10){show('Проверьте телефон');return;}if(!f.consent.checked){show('Подтвердите согласие');return;}var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})}).then(function(r){ if(!r.ok) throw 0; return r; }).then(function(){ [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; }); if(ok) ok.style.display='block'; try{ if(typeof ym==='function') ym(94305898,'reachGoal','lead',{source:f.dataset.source}); }catch(_){ } }).catch(function(){ btn.disabled=false; btn.textContent=orig; show('Не удалось отправить. Попробуйте ещё раз.'); });});})();
 </script>
-
 
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
