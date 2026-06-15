@@ -816,6 +816,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <p data-ctx="auto-ctx:rasshir">Если ваш контракт попал не просто под сопровождение, а под его усиленный режим, изучите отдельный разбор: <a href="/baza-znaniy/rasshirennoe-kaznacheyskoe-soprovozhdenie/">расширенное казначейское сопровождение — что проверяют и как подготовиться</a>.</p>
 
+    <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-po-223-fz">Отдельный случай — закупки по 223-ФЗ: здесь сопровождение зависит не от закона, а от целевого характера денег, что подробно разобрано в материалах о <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-223-fz/">казначейском сопровождении по 223-ФЗ</a> и о том, как сформулировано <a href="/baza-znaniy/uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte/">условие о казначейском сопровождении в контракте</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div>
@@ -865,6 +866,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>База знаний</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Аванс при казначейском сопровождении в 2026</h3><div class="card__meta">Аванс · 12 мин</div></div></a>
     <a class="card reveal" href="/uslugi/otkrytie-scheta/"><div class="card__cover"><span>Услуга</span></div><div class="card__body"><span class="card__cat">Услуга</span><h3 class="card__title">Открытие казначейского счёта под ключ</h3><div class="card__meta">Услуга · от 2 рабочих дней</div></div></a>
     <!-- auto-related:kaznacheyskoe-soprovozhdenie-subsidiy --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-subsidiy/"><div class="card__cover"><span>Субсидии</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение субсидий</h3><div class="card__meta">Субсидии · 14 мин</div></div></a>
+    <!-- auto-related:kaznacheyskoe-soprovozhdenie-po-223-fz --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-223-fz/"><div class="card__cover"><span>223-ФЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение по 223-ФЗ</h3><div class="card__meta">Сопровождение · 16 мин</div></div></a>
+    <!-- auto-related:uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte --><a class="card reveal" href="/baza-znaniy/uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte/"><div class="card__cover"><span>Условие</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Условие о казначейском сопровождении в контракте</h3><div class="card__meta">Сопровождение · 15 мин</div></div></a>
   </div>
 </section>
 

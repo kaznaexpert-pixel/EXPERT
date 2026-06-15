@@ -734,6 +734,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>Правильный подход — обратный: ещё до первого платежа закрепить в учётной политике перечень прямых и косвенных затрат и базу распределения накладных, завести аналитику по ИГК на счетах 20/25/26/90 и маркировать первичные документы идентификатором контракта. Тогда раздельный учёт ведётся «на ходу», а к любой проверке карточка затрат по контракту собирается за минуты, а не восстанавливается неделями. Это и есть разница между учётом, выстроенным заранее, и попыткой «починить» его перед проверкой.</p>
     </div>
 
+    <p data-ctx="auto-ctx:razdelnyy-uchet-goz-v-1s">На практике этот учёт автоматизируют в программе: как включить функциональность контрактов госзаказа и вести разрез по ИГК, разобрано в материале о <a href="/baza-znaniy/razdelnyy-uchet-goz-v-1s/">раздельном учёте по ГОЗ в 1С</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -831,6 +832,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:vidy-cen-goz --><a class="card reveal" href="/baza-znaniy/vidy-cen-goz/"><div class="card__cover"><span>Цена ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Виды цен на продукцию ГОЗ: ориентировочная, фиксированная</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
     <!-- auto-related:razdelnyy-uchet-po-goskontraktu --><a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-po-goskontraktu/"><div class="card__cover"><span>Учёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по госконтракту: когда вести, штрафы</h3><div class="card__meta">Учёт · 17 мин</div></div></a>
     <!-- auto-related:uchetnaya-politika-razdelnyy-uchet-goz --><a class="card reveal" href="/baza-znaniy/uchetnaya-politika-razdelnyy-uchet-goz/"><div class="card__cover"><span>Учётная политика</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Учётная политика по раздельному учёту ГОЗ</h3><div class="card__meta">Учёт · 15 мин</div></div></a>
+    <!-- auto-related:razdelnyy-uchet-goz-v-1s --><a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-goz-v-1s/"><div class="card__cover"><span>1С ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по ГОЗ в 1С: настройка и ведение</h3><div class="card__meta">Учёт · 18 мин</div></div></a>
   </div>
 </section>
 

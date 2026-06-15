@@ -681,6 +681,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>Типовая ситуация: организация скачивает «образец» учётной политики по ГОЗ и утверждает его без адаптации. При проверке выясняется, что база распределения косвенных расходов в документе не соответствует реальному производству, а аналитика по контрактам в учёте не настроена. Затраты по контракту невозможно подтвердить. После того как методику переписали под фактические процессы и ввели аналитику по ИГК, раздельный учёт стал прозрачным и подтверждаемым. На практике помогает простое правило: учётную политику пишут «под себя», а образец используют только как каркас структуры.</p>
     </div>
 
+    <p data-ctx="auto-ctx:razdelnyy-uchet-goz-v-1s">Закреплённую в учётной политике методику затем переносят в программу: настройка аналитики и баз распределения описана в материале о <a href="/baza-znaniy/razdelnyy-uchet-goz-v-1s/">раздельном учёте по ГОЗ в 1С</a> — настройка должна совпадать с политикой один в один.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -768,6 +769,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/"><div class="card__cover"><span>Учёт ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по ГОЗ: как вести, образец, штрафы</h3><div class="card__meta">Учёт · 17 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-po-goskontraktu/"><div class="card__cover"><span>Учёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по госконтракту: когда вести, штрафы</h3><div class="card__meta">Учёт · 17 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/vidy-cen-goz/"><div class="card__cover"><span>Цена ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Виды цен на продукцию ГОЗ: ориентировочная, фиксированная</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
+    <!-- auto-related:razdelnyy-uchet-goz-v-1s --><a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-goz-v-1s/"><div class="card__cover"><span>1С ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по ГОЗ в 1С: настройка и ведение</h3><div class="card__meta">Учёт · 18 мин</div></div></a>
   </div>
 </section>
 
