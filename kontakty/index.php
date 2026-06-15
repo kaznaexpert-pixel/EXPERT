@@ -472,6 +472,7 @@ a.kx-card__val:hover{color:var(--sep)}
 .kx-cta{display:flex;gap:12px;flex-wrap:wrap;margin-top:20px}
 .kx-btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:14px 26px;border-radius:12px;font-weight:600;font-size:15px;text-decoration:none;min-height:52px;box-sizing:border-box;transition:background .18s,transform .18s}
 .kx-btn:hover{transform:translateY(-1px)}
+.kx-contacts .kx-btn,.kx-contacts .kx-btn:link,.kx-contacts .kx-btn:visited,.kx-contacts .kx-btn:hover{color:#fff}
 .kx-btn--dark{background:var(--ink);color:#fff}.kx-btn--dark:hover{background:var(--sep)}
 .kx-btn--sep{background:var(--sep);color:#fff}.kx-btn--sep:hover{background:var(--ink)}
 .kx-req{margin-top:34px;border:1px solid var(--line);border-radius:16px;padding:26px 28px;background:linear-gradient(135deg,var(--card),var(--paper))}

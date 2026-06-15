@@ -140,7 +140,7 @@ RewriteRule . %1/%2 [R=301,L]
 
   # Content-Security-Policy — базовая. После проверки можно ужесточить.
   # Сейчас разрешены: счётчики Я.Метрики, GA4, Top.Mail.Ru, шрифты Google
-  Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://mc.yandex.ru https://www.googletagmanager.com https://www.google-analytics.com https://top-fwz1.mail.ru https://api.telegram.org; style-src 'self' 'unsafe-inline'; img-src 'self' data: https: blob:; font-src 'self' data:; connect-src 'self' https://mc.yandex.ru https://www.google-analytics.com https://api.telegram.org; frame-src 'self' https://mc.yandex.ru; object-src 'none'; base-uri 'self'; form-action 'self';"
+  Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://mc.yandex.ru https://www.googletagmanager.com https://www.google-analytics.com https://top-fwz1.mail.ru https://api.telegram.org; style-src 'self' 'unsafe-inline'; img-src 'self' data: https: blob:; font-src 'self' data:; connect-src 'self' https://mc.yandex.ru https://www.google-analytics.com https://api.telegram.org; frame-src 'self' https://mc.yandex.ru https://yandex.ru https://*.yandex.ru https://api-maps.yandex.ru; object-src 'none'; base-uri 'self'; form-action 'self';"
 
   # Разрешение длинных сниппетов и больших превью для ИИ-поиска
   Header always set X-Robots-Tag "max-snippet:-1, max-image-preview:large, max-video-preview:-1"
