@@ -445,109 +445,69 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 <div class="progress" id="progress" aria-hidden="true"></div>
 
 <div class="v2">
-<header class="v2-header">
-          <div class="v2-container v2-header-inner">
-
-            <a class="v2-brand" href="/" aria-label="КазнаЭксперт — на главную">
-              <span class="v2-brand-mark">
-                <img src="/img/logo-header.webp" srcset="/img/logo-header-1x.webp 1x, /img/logo-header.webp 2x" alt="КазнаЭксперт" loading="eager" width="60" height="44">
-              </span>
-            </a>
-
-            <nav class="v2-nav" aria-label="Главная навигация">
-              <a href="/#tariffs">Тарифы</a>
-              <a href="/#process">Как работаем</a>
-              <a href="/keysy/">Кейсы</a>
-              <a href="/regiony/">Регионы</a>
-              <a href="/baza-znaniy/">База знаний</a>
-              <a href="/komanda/">Команда</a>
-              <a href="/#faq">FAQ</a>
-              <a href="/#contacts">Связаться</a>
-            </nav>
-
-            <div class="v2-header-aside">
-              <span class="v2-phone-label">С 2009 · Вся РФ</span>
-              <a class="v2-phone" href="tel:+79818331010">+7 981 833-10-10</a>
-              <button class="v2-burger" id="v2Burger" type="button" aria-label="Открыть меню" aria-expanded="false" aria-controls="v2MobileMenu">
-                <span></span><span></span><span></span>
-              </button>
-            </div>
-
-          </div>
-
-          <!-- мобильное меню (раскрывается бургером) -->
-          <nav class="v2-mobile-menu" id="v2MobileMenu" aria-label="Мобильная навигация">
-            <a href="/#tariffs">Тарифы</a>
-            <a href="/#process">Как работаем</a>
-            <a href="/keysy/">Кейсы</a>
-              <a href="/regiony/">Регионы</a>
-              <a href="/baza-znaniy/">База знаний</a>
-              <a href="/komanda/">Команда</a>
-            <a href="/#faq">FAQ</a>
-            <a class="v2-mobile-cta" href="/#contacts">Получить расчёт</a>
-          </nav>
-        </header>
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"LocalBusiness","name":"КазнаЭксперт","legalName":"ИП Михайлов Ярослав Алексеевич","description":"Казначейское сопровождение государственных контрактов, субсидий и гособоронзаказа под ключ.","url":"https://kaznaexpert.ru/kontakty/","image":"https://kaznaexpert.ru/img/og-image.png","telephone":"+79818331010","email":"manager@kaznaexpert.ru","priceRange":"₽₽","taxID":"781428314589","address":{"@type":"PostalAddress","streetAddress":"Средний проспект Васильевского острова, д. 88, литера А, офис 330, 3 этаж","addressLocality":"Санкт-Петербург","addressRegion":"Санкт-Петербург","postalCode":"199106","addressCountry":"RU"},"areaServed":{"@type":"Country","name":"Россия"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],"opens":"09:00","closes":"21:00"}],"contactPoint":{"@type":"ContactPoint","telephone":"+79818331010","email":"manager@kaznaexpert.ru","contactType":"customer service","availableLanguage":"Russian"},"sameAs":["https://t.me/Kaznaexpert","https://www.rusprofile.ru/ip/321784700367672","https://zachestnyibiznes.ru/company/ip/321784700367672_781428314589","https://www.audit-it.ru/contragent/fl/781428314589_mikhailov-iaroslav-alekseevich"]}
-</script>
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"Контакты","item":"https://kaznaexpert.ru/kontakty/"}]}
-</script>
-
-<div class="v2">
-  <section class="v2-section" style="padding:56px 0 24px">
-    <div class="v2-container" style="max-width:980px">
-      <nav class="crumbs" aria-label="Хлебные крошки" style="font-size:14px;margin-bottom:14px"><a href="/">Главная</a> › Контакты</nav>
-      <h1 style="margin:0 0 10px">Контакты КазнаЭксперт</h1>
-      <p style="font-size:18px;line-height:1.6;max-width:680px;color:#56524b">Эксперт по казначейскому сопровождению государственных контрактов и гособоронзаказа. Работаем дистанционно по всей России — звоните, пишите на почту или в Telegram, ответ эксперта в течение часа в рабочее время.</p>
-
-      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px;margin:28px 0">
-        <div style="border:1px solid #e4ddd0;border-radius:14px;padding:20px;background:#fffdf8">
-          <div style="font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;font-weight:600;margin-bottom:8px">Телефон</div>
-          <a href="tel:+79818331010" style="font-size:22px;font-weight:600;color:#1A1A1A;text-decoration:none">+7 (981) 833-10-10</a>
-          <p style="font-size:13.5px;color:#8a8170;margin:8px 0 0">Звонок и WhatsApp, 9:00–21:00 МСК</p>
-        </div>
-        <div style="border:1px solid #e4ddd0;border-radius:14px;padding:20px;background:#fffdf8">
-          <div style="font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;font-weight:600;margin-bottom:8px">Почта</div>
-          <a href="mailto:manager@kaznaexpert.ru" style="font-size:18px;font-weight:600;color:#1A1A1A;text-decoration:none;word-break:break-all">manager@kaznaexpert.ru</a>
-          <p style="font-size:13.5px;color:#8a8170;margin:8px 0 0">Документы, договоры, NDA по запросу</p>
-        </div>
-        <div style="border:1px solid #e4ddd0;border-radius:14px;padding:20px;background:#fffdf8">
-          <div style="font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;font-weight:600;margin-bottom:8px">Telegram</div>
-          <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener" style="font-size:20px;font-weight:600;color:#1A1A1A;text-decoration:none">@Kaznaexpert</a>
-          <p style="font-size:13.5px;color:#8a8170;margin:8px 0 0">Быстрые ответы и пересылка файлов</p>
-        </div>
-        <div style="border:1px solid #e4ddd0;border-radius:14px;padding:20px;background:#fffdf8">
-          <div style="font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;font-weight:600;margin-bottom:8px">Режим работы</div>
-          <div style="font-size:18px;font-weight:600;color:#1A1A1A">Ежедневно 9:00–21:00</div>
-          <p style="font-size:13.5px;color:#8a8170;margin:8px 0 0">По московскому времени</p>
-        </div>
-        <div style="border:1px solid #e4ddd0;border-radius:14px;padding:20px;background:#fffdf8">
-          <div style="font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;font-weight:600;margin-bottom:8px">Адрес офиса</div>
-          <div style="font-size:17px;font-weight:600;color:#1A1A1A;line-height:1.35">Средний пр. В.О., д. 88, лит. А, офис 330</div>
-          <p style="font-size:13.5px;color:#8a8170;margin:8px 0 0">Санкт-Петербург, 3 этаж · приём по записи</p>
-        </div>
+<main class="kx-contacts">
+<style>
+.kx-contacts{--ink:#1A1A1A;--sep:#8B6F47;--paper:#FAF7F0;--card:#fffdf8;--line:#e4ddd0;--mute:#8a8170;--soft:#56524b;font-family:'Inter',system-ui,sans-serif;color:var(--ink);padding:48px 20px 68px}
+.kx-wrap{max-width:1160px;margin:0 auto}
+.kx-crumbs{font-size:13.5px;color:var(--mute);margin-bottom:18px}
+.kx-crumbs a{color:var(--sep);text-decoration:none}
+.kx-eyebrow{display:inline-flex;align-items:center;gap:8px;font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--sep);background:rgba(139,111,71,.10);border:1px solid rgba(139,111,71,.22);padding:5px 12px;border-radius:30px;margin-bottom:16px}
+.kx-h1{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:clamp(2rem,3vw+1rem,3rem);line-height:1.08;letter-spacing:-.01em;margin:0 0 14px}
+.kx-lede{font-size:18px;line-height:1.6;color:var(--soft);max-width:640px;margin:0 0 36px}
+.kx-grid{display:grid;grid-template-columns:1.55fr 1fr;gap:28px;align-items:start}
+@media(max-width:900px){.kx-grid{grid-template-columns:1fr;gap:22px}}
+.kx-cards{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+@media(max-width:560px){.kx-cards{grid-template-columns:1fr}}
+.kx-card{display:flex;flex-direction:column;align-items:flex-start;gap:6px;border:1px solid var(--line);border-radius:16px;padding:22px;background:var(--card);min-height:128px;transition:transform .18s,box-shadow .18s,border-color .18s}
+.kx-card:hover{transform:translateY(-2px);box-shadow:0 12px 32px rgba(26,26,26,.07);border-color:rgba(139,111,71,.35)}
+.kx-card__ic{width:40px;height:40px;border-radius:11px;background:rgba(139,111,71,.12);color:var(--sep);display:flex;align-items:center;justify-content:center;margin-bottom:2px}
+.kx-card__label{font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--sep);font-weight:600;margin:0}
+.kx-card__val{font-size:19px;font-weight:600;color:var(--ink);text-decoration:none;line-height:1.3;word-break:break-word;margin:0}
+a.kx-card__val:hover{color:var(--sep)}
+.kx-card__sub{font-size:13px;color:var(--mute);margin:auto 0 0;line-height:1.45}
+.kx-map{border:1px solid var(--line);border-radius:16px;overflow:hidden;position:sticky;top:24px;background:var(--card);box-shadow:0 8px 28px rgba(26,26,26,.05)}
+.kx-map iframe{display:block;width:100%;height:430px;border:0;filter:grayscale(.15)}
+.kx-map__bar{padding:15px 18px;border-top:1px solid var(--line);font-size:14px;color:var(--soft);line-height:1.5}
+.kx-map__bar b{color:var(--ink)}
+.kx-cta{display:flex;gap:12px;flex-wrap:wrap;margin-top:20px}
+.kx-btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:14px 26px;border-radius:12px;font-weight:600;font-size:15px;text-decoration:none;min-height:52px;box-sizing:border-box;transition:background .18s,transform .18s}
+.kx-btn:hover{transform:translateY(-1px)}
+.kx-btn--dark{background:var(--ink);color:#fff}.kx-btn--dark:hover{background:var(--sep)}
+.kx-btn--sep{background:var(--sep);color:#fff}.kx-btn--sep:hover{background:var(--ink)}
+.kx-req{margin-top:34px;border:1px solid var(--line);border-radius:16px;padding:26px 28px;background:linear-gradient(135deg,var(--card),var(--paper))}
+.kx-req h2{font-family:'Playfair Display',serif;font-weight:500;font-size:22px;margin:0 0 12px}
+.kx-req p{font-size:15.5px;line-height:1.75;color:var(--soft);margin:0 0 10px}
+.kx-req p:last-child{margin-bottom:0}
+.kx-req a{color:var(--sep)}
+</style>
+<div class="kx-wrap">
+  <nav class="kx-crumbs"><a href="/">Главная</a> › Контакты</nav>
+  <span class="kx-eyebrow">Контакты · ответ эксперта за 1 час</span>
+  <h1 class="kx-h1">Свяжитесь с КазнаЭксперт</h1>
+  <p class="kx-lede">Казначейское сопровождение государственных контрактов и гособоронзаказа под ключ. Работаем дистанционно по всей России — выберите удобный способ связи.</p>
+  <div class="kx-grid">
+    <div class="kx-left">
+      <div class="kx-cards"><div class="kx-card"><div class="kx-card__ic"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.91.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg></div><div class="kx-card__label">Телефон</div><a class="kx-card__val" href="tel:+79818331010">+7 (981) 833-10-10</a><p class="kx-card__sub">Звонок и WhatsApp · 9:00–21:00 МСК</p></div><div class="kx-card"><div class="kx-card__ic"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 6L2 7"/></svg></div><div class="kx-card__label">Почта</div><a class="kx-card__val" href="mailto:manager@kaznaexpert.ru">manager@kaznaexpert.ru</a><p class="kx-card__sub">Договоры, документы, NDA по запросу</p></div><div class="kx-card"><div class="kx-card__ic"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 2 11 13"/><path d="M22 2 15 22l-4-9-9-4 20-7z"/></svg></div><div class="kx-card__label">Telegram</div><a class="kx-card__val" href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a><p class="kx-card__sub">Быстрые ответы и пересылка файлов</p></div><div class="kx-card"><div class="kx-card__ic"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></div><div class="kx-card__label">Режим работы</div><div class="kx-card__val">Ежедневно 9:00–21:00</div><p class="kx-card__sub"> По московскому времени</p></div></div>
+      <div class="kx-cta">
+        <a class="kx-btn kx-btn--dark" href="tel:+79818331010">Позвонить</a>
+        <a class="kx-btn kx-btn--sep" href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Написать в Telegram</a>
       </div>
-
-      <h2 style="margin:32px 0 12px">Реквизиты</h2>
-      <p style="font-size:16px;line-height:1.7;color:#56524b">Исполнитель — <b>ИП Михайлов Ярослав Алексеевич</b> (бренд «КазнаЭксперт»).<br>
-      ИНН <b>781428314589</b> · ОГРНИП <b>321784700367672</b>.<br>
-      Адрес: 199106, Санкт-Петербург, Средний пр. В.О., д. 88, лит. А, офис 330 (3 этаж).</p>
-      <p style="font-size:15px;line-height:1.7;color:#56524b">Проверьте нас в открытых реестрах:
-        <a href="https://www.rusprofile.ru/ip/321784700367672" target="_blank" rel="noopener">Rusprofile</a> ·
-        <a href="https://zachestnyibiznes.ru/company/ip/321784700367672_781428314589" target="_blank" rel="noopener">За честный бизнес</a> ·
-        <a href="https://www.audit-it.ru/contragent/fl/781428314589_mikhailov-iaroslav-alekseevich" target="_blank" rel="noopener">Audit-it</a>.</p>
-
-      <h2 style="margin:32px 0 12px">Как мы работаем</h2>
-      <p style="font-size:16px;line-height:1.7;color:#56524b">Открываем и ведём лицевой счёт в казначействе, готовим Сведения и распоряжения, проводим платежи без возвратов, сопровождаем ГОЗ и спасаем контракты после отказов. Стоимость фиксированная и закреплена в договоре. Познакомиться с командой можно на странице <a href="/komanda/">команда КазнаЭксперт</a>, а разобраться в теме — в <a href="/baza-znaniy/">базе знаний</a>, начиная с разбора <a href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/">что такое казначейское сопровождение</a>.</p>
-
-      <div style="margin:28px 0 8px;display:flex;gap:12px;flex-wrap:wrap">
-        <a href="tel:+79818331010" style="background:#1A1A1A;color:#fff;padding:14px 22px;border-radius:11px;font-weight:600;text-decoration:none">Позвонить +7 (981) 833-10-10</a>
-        <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener" style="background:#8B6F47;color:#fff;padding:14px 22px;border-radius:11px;font-weight:600;text-decoration:none">Написать в Telegram</a>
+      <div class="kx-req">
+        <h2>Реквизиты</h2>
+        <p>Исполнитель — <b>ИП Михайлов Ярослав Алексеевич</b> (бренд «КазнаЭксперт»). ИНН <b>781428314589</b> · ОГРНИП <b>321784700367672</b>.<br>Адрес: 199106, Санкт-Петербург, Средний пр. В.О., д. 88, лит. А, офис 330 (3 этаж).</p>
+        <p>Проверьте нас в открытых реестрах: <a href="https://www.rusprofile.ru/ip/321784700367672" target="_blank" rel="noopener">Rusprofile</a> · <a href="https://zachestnyibiznes.ru/company/ip/321784700367672_781428314589" target="_blank" rel="noopener">За честный бизнес</a> · <a href="https://www.audit-it.ru/contragent/fl/781428314589_mikhailov-iaroslav-alekseevich" target="_blank" rel="noopener">Audit-it</a>.</p>
+        <p>Что входит в услугу и как мы работаем — в <a href="/baza-znaniy/">базе знаний</a> и на странице <a href="/komanda/">команды</a>. Начать знакомство с темой удобно с разбора <a href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/">что такое казначейское сопровождение</a>.</p>
       </div>
     </div>
-  </section>
+    <aside class="kx-map" aria-label="Карта: офис КазнаЭксперт">
+      <iframe src="https://yandex.ru/map-widget/v1/?text=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0%2C%2088&z=16" width="100%" height="430" frameborder="0" allowfullscreen="true" loading="lazy" title="Офис КазнаЭксперт на карте"></iframe>
+      <div class="kx-map__bar"><b>Офис:</b> Санкт-Петербург, Средний пр. В.О., д. 88, лит. А, офис 330 (3 этаж) · приём по записи</div>
+    </aside>
+  </div>
 </div>
+</main>
+</div>
+
 
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
