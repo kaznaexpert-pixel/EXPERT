@@ -690,6 +690,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>Типовая ситуация: исполнитель оплачивает поставку соисполнителю, но в платёжном документе либо не указывает ИГК, либо ставит вместо него ИКЗ. Платёж не проходит санкционирование — казначейство не может связать операцию с контрактом. После того как ИГК внесли корректно в назначение платежа, операция прошла. На практике помогает простое правило: сразу после заключения контракта зафиксировать ИГК в карточке договора в 1С и проверить, что он автоматически подставляется в платёжки, — тогда человеческий фактор сводится к минимуму.</p>
     </div>
 
+    <p data-ctx="auto-ctx:soispolniteli-kooperaciya-goz">Один и тот же идентификатор проходит через всю цепочку поставок — как он работает у соисполнителей и что обязательно прописать в договоре с ними, см. в статье о <a href="/baza-znaniy/soispolniteli-kooperaciya-goz/">кооперации в ГОЗ</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -777,6 +778,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Основы КС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение: что это и как работает в 2026</h3><div class="card__meta">Основы · 18 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/svedeniya-ob-operaciyah-s-celevymi-sredstvami/"><div class="card__cover"><span>Сведения</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Сведения об операциях с целевыми средствами</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>Отказы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Причины отказа казначейства в санкционировании</h3><div class="card__meta">Санкционирование · 14 мин</div></div></a>
+    <!-- auto-related:soispolniteli-kooperaciya-goz --><a class="card reveal" href="/baza-znaniy/soispolniteli-kooperaciya-goz/"><div class="card__cover"><span>Кооперация</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Соисполнители и кооперация в ГОЗ</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
   </div>
 </section>
 

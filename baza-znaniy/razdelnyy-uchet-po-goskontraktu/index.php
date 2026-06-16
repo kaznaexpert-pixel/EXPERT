@@ -690,6 +690,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>Типовая ситуация: компания исполняет несколько контрактов под казначейским сопровождением и ведёт учёт «в целом по организации», планируя «разнести» затраты перед проверкой. При контрольном мероприятии выясняется, что выделить затраты по конкретному контракту невозможно, а часть накладных распределена без обоснованной базы. Результат — претензии по раздельному учёту и риск штрафа. На практике встречается и удачный сценарий: организация с самого старта заводит аналитику по каждому контракту и фиксирует методику в учётной политике — тогда проверка проходит без замечаний. Вывод: раздельный учёт выстраивают на входе в контракт, а не перед визитом казначейства.</p>
     </div>
 
+    <p data-ctx="auto-ctx:otvetstvennost-za-narusheniya-goz">Обратите внимание: с 1 марта 2025 года ответственность за нарушение раздельного учёта предусмотрена частью 11 статьи 7.30.3 КоАП РФ (прежняя статья 15.37 утратила силу) — полный разбор действующих санкций приведён в материале об <a href="/baza-znaniy/otvetstvennost-za-narusheniya-goz/">ответственности за нарушения в сфере ГОЗ</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -778,6 +779,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/svedeniya-ob-operaciyah-s-celevymi-sredstvami/"><div class="card__cover"><span>Сведения</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Сведения об операциях с целевыми средствами</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>Отказы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Причины отказа казначейства в санкционировании</h3><div class="card__meta">Санкционирование · 14 мин</div></div></a>
     <!-- auto-related:uchetnaya-politika-razdelnyy-uchet-goz --><a class="card reveal" href="/baza-znaniy/uchetnaya-politika-razdelnyy-uchet-goz/"><div class="card__cover"><span>Учётная политика</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Учётная политика по раздельному учёту ГОЗ</h3><div class="card__meta">Учёт · 15 мин</div></div></a>
+    <!-- auto-related:otvetstvennost-za-narusheniya-goz --><a class="card reveal" href="/baza-znaniy/otvetstvennost-za-narusheniya-goz/"><div class="card__cover"><span>Штрафы ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Ответственность за нарушения в сфере ГОЗ</h3><div class="card__meta">Ответственность · 18 мин</div></div></a>
   </div>
 </section>
 
