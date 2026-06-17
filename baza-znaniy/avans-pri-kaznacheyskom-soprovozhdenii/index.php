@@ -724,6 +724,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Можно ли вывести аванс как прибыль до выполнения работ?</summary><p>Нет. Средства аванса на лицевом счёте целевые: ими нельзя закрыть кассовый разрыв по другому контракту или вывести как прибыль до отработки. Допустимы только расходы по исполнению этого контракта.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:obespechenie-ispolneniya-kontrakta-pri-ks">Сопровождаемый аванс влияет и на обеспечение контракта: его размер считают от цены, уменьшенной на сумму такого аванса. Как это работает — в материале об <a href="/baza-znaniy/obespechenie-ispolneniya-kontrakta-pri-ks/">обеспечении исполнения контракта при казначейском сопровождении</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div>
@@ -773,6 +774,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/poryadok-sankcionirovaniya-rashodov/"><div class="card__cover"><span>База знаний</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Порядок санкционирования расходов при КС</h3><div class="card__meta">Санкционирование · 13 мин</div></div></a>
     <a class="card reveal" href="/uslugi/soprovozhdenie-avans/"><div class="card__cover"><span>Услуга</span></div><div class="card__body"><span class="card__cat">Услуга</span><h3 class="card__title">Сопровождение контрактов с авансом</h3><div class="card__meta">Услуга · безлимит операций</div></div></a>
     <!-- auto-related:kaznacheyskoe-obespechenie-obyazatelstv --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-obespechenie-obyazatelstv/"><div class="card__cover"><span>КОО</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское обеспечение обязательств (КОО)</h3><div class="card__meta">Операции · 15 мин</div></div></a>
+    <!-- auto-related:obespechenie-ispolneniya-kontrakta-pri-ks --><a class="card reveal" href="/baza-znaniy/obespechenie-ispolneniya-kontrakta-pri-ks/"><div class="card__cover"><span>Обеспечение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Обеспечение исполнения контракта при КС</h3><div class="card__meta">Сопровождение · 17 мин</div></div></a>
   </div>
 </section>
 

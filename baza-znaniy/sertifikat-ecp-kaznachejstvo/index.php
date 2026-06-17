@@ -729,6 +729,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Можно ли получить подпись казначейства удалённо?</summary><p>Подача документов идёт онлайн через Портал заявителя. Само рабочее место и генерация ключа выполняются на стороне заявителя; мы помогаем настроить процесс и пройти его без возвратов по всей России.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:udostoveryayushchiy-centr-kaznachejstva">Какой именно центр выдаёт подпись и кому, зависит от категории заявителя. Разбор института, который выдаёт сертификаты получателям бюджетных средств, — в статье об <a href="/baza-znaniy/udostoveryayushchiy-centr-kaznachejstva/">удостоверяющем центре Федерального казначейства</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div>
@@ -785,6 +786,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:kornevye-sertifikaty-kaznachejstva --><a class="card reveal" href="/baza-znaniy/kornevye-sertifikaty-kaznachejstva/"><div class="card__cover"><span>Сертификаты</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Корневые сертификаты УЦ казначейства</h3><div class="card__meta">Подпись · 13 мин</div></div></a>
     <!-- auto-related:sufd-portal-kaznachejstva --><a class="card reveal" href="/baza-znaniy/sufd-portal-kaznachejstva/"><div class="card__cover"><span>СУФД</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">СУФД-портал казначейства: подключение и работа</h3><div class="card__meta">ГИС · 14 мин</div></div></a>
     <!-- auto-related:portal-zayavitelya-kaznachejstva --><a class="card reveal" href="/baza-znaniy/portal-zayavitelya-kaznachejstva/"><div class="card__cover"><span>ФЗС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Портал заявителя казначейства (ФЗС): вход и заявка на сертификат</h3><div class="card__meta">ЭЦП · 15 мин</div></div></a>
+    <!-- auto-related:udostoveryayushchiy-centr-kaznachejstva --><a class="card reveal" href="/baza-znaniy/udostoveryayushchiy-centr-kaznachejstva/"><div class="card__cover"><span>УЦ ФК</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Удостоверяющий центр Федерального казначейства</h3><div class="card__meta">Сертификаты · 16 мин</div></div></a>
   </div>
 </section>
 
