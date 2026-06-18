@@ -692,6 +692,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <p data-ctx="auto-ctx:celevye-sredstva-kaznacheyskoe-soprovozhdenie">Эти сведения составляются именно по <a href="/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/">целевым средствам</a> — деньгам под конкретную цель контракта, которые расходуются в особом режиме после санкционирования.</p>
+    <p data-ctx="auto-ctx:otchet-o-rashodah-celevyh-sredstv">Сведения об операциях не стоит путать с отчётом о расходах: сведения формируют до платежа для санкционирования, а отчёт показывает уже совершённые расходы. Разницу и порядок заполнения отчёта разбираем в материале об <a href="/baza-znaniy/otchet-o-rashodah-celevyh-sredstv/">отчёте о расходах целевых средств</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -786,6 +787,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:razdelnyy-uchet-po-goskontraktu --><a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-po-goskontraktu/"><div class="card__cover"><span>Учёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по госконтракту: когда вести, штрафы</h3><div class="card__meta">Учёт · 17 мин</div></div></a>
     <!-- auto-related:identifikator-gosudarstvennogo-kontrakta-igk --><a class="card reveal" href="/baza-znaniy/identifikator-gosudarstvennogo-kontrakta-igk/"><div class="card__cover"><span>ИГК</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Идентификатор государственного контракта (ИГК)</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <!-- auto-related:celevye-sredstva-kaznacheyskoe-soprovozhdenie --><a class="card reveal" href="/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Целевые</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Целевые средства: что это, виды, режим и коды</h3><div class="card__meta">Операции · 17 мин</div></div></a>
+    <!-- auto-related:otchet-o-rashodah-celevyh-sredstv --><a class="card reveal" href="/baza-znaniy/otchet-o-rashodah-celevyh-sredstv/"><div class="card__cover"><span>Отчётность</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отчёт о расходах целевых средств при КС</h3><div class="card__meta">Операции · 16 мин</div></div></a>
   </div>
 </section>
 

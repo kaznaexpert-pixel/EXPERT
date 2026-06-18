@@ -661,6 +661,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>На практике встречается такая ситуация: при проверке исполнителя выявляют, что часть общехозяйственных затрат отнесена на оборонный контракт без обоснования, а раздельный учёт ведётся с расхождениями. До марта 2025 года такие факты квалифицировали по статьям 15.37 и 14.55 КоАП; теперь — по соответствующим частям статьи 7.30.3. Когда компания заранее привела учёт в порядок, обосновала состав цены и устранила замечания, риск крупного штрафа за завышение себестоимости удалось снять. Пример обобщённый и иллюстративный; квалификация нарушения и размер ответственности зависят от конкретных обстоятельств и устанавливаются уполномоченными органами и судом.</p>
     </div>
 
+    <p data-ctx="auto-ctx:finansovyy-kontrol-federalnogo-kaznachejstva">Нарушения чаще всего выявляются в ходе проверок и ревизий казначейства, по итогам которых выносятся представления и предписания. Как устроен этот последующий контроль, читайте в статье о <a href="/baza-znaniy/finansovyy-kontrol-federalnogo-kaznachejstva/">финансовом контроле Федерального казначейства</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -749,6 +750,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/"><div class="card__cover"><span>РУ ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по ГОЗ: как вести, штрафы</h3><div class="card__meta">Учёт · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>Отказы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Причины отказа казначейства в санкционировании</h3><div class="card__meta">Санкционирование · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/soispolniteli-kooperaciya-goz/"><div class="card__cover"><span>Кооперация</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Соисполнители и кооперация в ГОЗ</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
+    <!-- auto-related:finansovyy-kontrol-federalnogo-kaznachejstva --><a class="card reveal" href="/baza-znaniy/finansovyy-kontrol-federalnogo-kaznachejstva/"><div class="card__cover"><span>Контроль</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Финансовый контроль Федерального казначейства</h3><div class="card__meta">Контроль · 17 мин</div></div></a>
   </div>
 </section>
 

@@ -673,6 +673,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-po-223-fz">По тому же принципу под сопровождение попадают закупки за счёт субсидий по 223-ФЗ — когда источником оплаты служат целевые средства, см. материал о <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-223-fz/">казначейском сопровождении по 223-ФЗ</a>.</p>
     <p data-ctx="auto-ctx:celevaya-subsidiya-yuridicheskomu-licu">Чтобы понять механику сопровождения, важно сначала разобраться в самой субсидии: её видах и режиме целевых средств. Об этом — в статье о <a href="/baza-znaniy/celevaya-subsidiya-yuridicheskomu-licu/">целевой субсидии юридическому лицу</a>.</p>
+    <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-grantov">Отдельный случай — гранты в форме субсидий: они тоже попадают под сопровождение и работают в режиме целевых средств. Когда грант сопровождается и как с ним работать, разбираем в материале о <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-grantov/">казначейском сопровождении грантов</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -762,6 +763,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/licevoy-schet-71-kak-otkryt/"><div class="card__cover"><span>Счёт 71</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Как открыть лицевой счёт 71 в ТОФК</h3><div class="card__meta">Счёт · 14 мин</div></div></a>
     <!-- auto-related:kaznacheyskoe-soprovozhdenie-po-223-fz --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-223-fz/"><div class="card__cover"><span>223-ФЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение по 223-ФЗ</h3><div class="card__meta">Сопровождение · 16 мин</div></div></a>
     <!-- auto-related:celevaya-subsidiya-yuridicheskomu-licu --><a class="card reveal" href="/baza-znaniy/celevaya-subsidiya-yuridicheskomu-licu/"><div class="card__cover"><span>Субсидия</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Целевая субсидия юридическому лицу</h3><div class="card__meta">Сопровождение · 17 мин</div></div></a>
+    <!-- auto-related:kaznacheyskoe-soprovozhdenie-grantov --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-grantov/"><div class="card__cover"><span>Гранты</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение грантов в форме субсидий</h3><div class="card__meta">Сопровождение · 16 мин</div></div></a>
   </div>
 </section>
 
