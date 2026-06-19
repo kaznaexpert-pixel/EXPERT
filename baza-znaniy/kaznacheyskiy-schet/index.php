@@ -679,6 +679,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>Типичная ситуация: компания впервые получает контракт под казначейским сопровождением и сталкивается с тем, что заказчик просит «реквизиты казначейского счёта». Бухгалтер указывает в платёжном поручении только один счёт — и платёж возвращается. Причина в том, что после перехода на ЕКС обязательны оба реквизита: единый казначейский счёт (40102…) и номер казначейского счёта (03…), а в назначении — лицевой счёт «71». После того как реквизиты сверили с теми, что выдал ТОФК, и заполнили оба поля, операция прошла. Вывод, который подтверждается на практике: большинство проблем с казначейским счётом — это не «сложность системы», а путаница в реквизитах, которая снимается одной сверкой перед первым платежом.</p>
     </div>
 
+    <p data-ctx="auto-ctx:vidy-licevyh-schetov-v-kaznachejstve">Лицевой счёт «71» — не единственный: казначейство ведёт целый ряд видов лицевых счетов со своими кодами. Их полную расшифровку мы привели в материале о <a href="/baza-znaniy/vidy-licevyh-schetov-v-kaznachejstve/">видах лицевых счетов в казначействе</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -772,6 +773,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:chto-takoe-kaznachejstvo-i-tofk --><a class="card reveal" href="/baza-znaniy/chto-takoe-kaznachejstvo-i-tofk/"><div class="card__cover"><span>Казначейство</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Что такое казначейство и ТОФК</h3><div class="card__meta">Основы · 14 мин</div></div></a>
     <!-- auto-related:edinyy-kaznacheyskiy-schet --><a class="card reveal" href="/baza-znaniy/edinyy-kaznacheyskiy-schet/"><div class="card__cover"><span>ЕКС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Единый казначейский счёт: что это и реквизиты</h3><div class="card__meta">Счета · 15 мин</div></div></a>
     <!-- auto-related:svodnyy-reestr --><a class="card reveal" href="/baza-znaniy/svodnyy-reestr/"><div class="card__cover"><span>Реестр</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Сводный реестр: код организации, проверка, включение</h3><div class="card__meta">Счета · 15 мин</div></div></a>
+    <!-- auto-related:vidy-licevyh-schetov-v-kaznachejstve --><a class="card reveal" href="/baza-znaniy/vidy-licevyh-schetov-v-kaznachejstve/"><div class="card__cover"><span>Счета</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Виды лицевых счетов в казначействе: коды</h3><div class="card__meta">Счета · 16 мин</div></div></a>
   </div>
 </section>
 

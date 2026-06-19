@@ -743,6 +743,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <p data-ctx="auto-ctx:kak-zarezervirovat-schet-po-goz">Чтобы не задерживать старт, номер отдельного счёта можно получить заранее — как <a href="/baza-znaniy/kak-zarezervirovat-schet-po-goz/">зарезервировать счёт по ГОЗ</a> онлайн в уполномоченном банке, разобрано в отдельном материале.</p>
     <p data-ctx="auto-ctx:soispolniteli-kooperaciya-goz">Отдельный счёт открывает не только головной исполнитель, но и каждый участник цепочки: как устроены расчёты соисполнителей и единый идентификатор контракта, разобрано в материале о <a href="/baza-znaniy/soispolniteli-kooperaciya-goz/">соисполнителях и кооперации в ГОЗ</a>.</p>
+    <p data-ctx="auto-ctx:upolnomochennye-banki-po-goz">Сам отдельный счёт открывается не в произвольном банке, а в уполномоченном банке по ГОЗ — на практике в опорном банке ОПК. Какие банки вправе вести расчёты по гособоронзаказу и почему основным стал ПСБ, разбираем в материале об <a href="/baza-znaniy/upolnomochennye-banki-po-goz/">уполномоченных банках по гособоронзаказу</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -838,6 +839,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/vidy-cen-goz/"><div class="card__cover"><span>Цены ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Виды цен на продукцию ГОЗ</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
     <!-- auto-related:kak-zarezervirovat-schet-po-goz --><a class="card reveal" href="/baza-znaniy/kak-zarezervirovat-schet-po-goz/"><div class="card__cover"><span>Резерв ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Как зарезервировать отдельный счёт по ГОЗ</h3><div class="card__meta">ГОЗ · 14 мин</div></div></a>
     <!-- auto-related:soispolniteli-kooperaciya-goz --><a class="card reveal" href="/baza-znaniy/soispolniteli-kooperaciya-goz/"><div class="card__cover"><span>Кооперация</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Соисполнители и кооперация в ГОЗ</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
+    <!-- auto-related:upolnomochennye-banki-po-goz --><a class="card reveal" href="/baza-znaniy/upolnomochennye-banki-po-goz/"><div class="card__cover"><span>Банки</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Уполномоченные банки по ГОЗ: ПСБ и опорный банк ОПК</h3><div class="card__meta">ГОЗ · 17 мин</div></div></a>
   </div>
 </section>
 

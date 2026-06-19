@@ -732,6 +732,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>Типовая ситуация: исполнитель кооперации получил от головного исполнителя название уполномоченного банка и реквизиты ещё до подписания договора. Чтобы не тормозить старт, он зарезервировал отдельный счёт онлайн за несколько минут и передал номер в контракт, а параллельно собрал учредительные документы и карточку подписей. После присвоения идентификатора контракта счёт довели до полного открытия и заключили договор банковского сопровождения — расчёты начались без задержек. Пример обобщённый; конкретный порядок резервирования и набор документов зависят от уполномоченного банка и условий контракта.</p>
     </div>
 
+    <p data-ctx="auto-ctx:upolnomochennye-banki-po-goz">Резервировать номер имеет смысл, только разобравшись, в каком банке вообще открывается счёт по ГОЗ. Перечень уполномоченных банков, статус опорного банка ОПК и режим банковского сопровождения мы разбираем в статье об <a href="/baza-znaniy/upolnomochennye-banki-po-goz/">уполномоченных банках по гособоронзаказу</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -821,6 +822,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/identifikator-gosudarstvennogo-kontrakta-igk/"><div class="card__cover"><span>ИГК</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Идентификатор государственного контракта (ИГК)</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-i-bankovskoe-soprovozhdenie/"><div class="card__cover"><span>КС и БС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское и банковское сопровождение</h3><div class="card__meta">Сопровождение · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/"><div class="card__cover"><span>ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение ГОЗ по 275-ФЗ</h3><div class="card__meta">ГОЗ · 22 мин</div></div></a>
+    <!-- auto-related:upolnomochennye-banki-po-goz --><a class="card reveal" href="/baza-znaniy/upolnomochennye-banki-po-goz/"><div class="card__cover"><span>Банки</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Уполномоченные банки по ГОЗ: ПСБ и опорный банк ОПК</h3><div class="card__meta">ГОЗ · 17 мин</div></div></a>
   </div>
 </section>
 
