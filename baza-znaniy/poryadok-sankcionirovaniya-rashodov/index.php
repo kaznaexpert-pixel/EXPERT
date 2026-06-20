@@ -689,6 +689,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Можно ли ускорить санкционирование?</summary><p>Скорость зависит от качества документов. Корректные сведения, понятное назначение, верные коды и полный комплект оснований позволяют проходить санкционирование с первой подачи — этим и занимается сопровождение.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-avansovyh-platezhey">Особенности санкционирования предоплаты разобраны отдельно — см. <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-avansovyh-platezhey/">казначейское сопровождение авансовых платежей</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div>
@@ -745,6 +746,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/"><div class="card__cover"><span>КС ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение ГОЗ по 275-ФЗ</h3><div class="card__meta">Гособоронзаказ · 17 мин</div></div></a>
     <a class="card reveal" href="/uslugi/soprovozhdenie-postoplata/"><div class="card__cover"><span>Под ключ</span></div><div class="card__body"><span class="card__cat">Услуга</span><h3 class="card__title">Сопровождение постоплаты без возвратов</h3><div class="card__meta">Услуга · от 59 000 ₽</div></div></a>
     <!-- auto-related:poryadok-kaznacheyskogo-soprovozhdeniya-sredstv --><a class="card reveal" href="/baza-znaniy/poryadok-kaznacheyskogo-soprovozhdeniya-sredstv/"><div class="card__cover"><span>Порядок КС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Порядок казначейского сопровождения средств</h3><div class="card__meta">Основы · 16 мин</div></div></a>
+    <!-- auto-related:kaznacheyskoe-soprovozhdenie-avansovyh-platezhey --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-avansovyh-platezhey/"><div class="card__cover"><span>Авансы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение авансовых платежей</h3><div class="card__meta">КС · 16 мин</div></div></a>
   </div>
 </section>
 

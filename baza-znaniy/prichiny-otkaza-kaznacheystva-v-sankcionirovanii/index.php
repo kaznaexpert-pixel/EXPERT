@@ -660,6 +660,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <p data-ctx="auto-ctx:vypiska-iz-licevogo-scheta-kaznachejstva">Какие именно распоряжения не прошли, показывает <a href="/baza-znaniy/vypiska-iz-licevogo-scheta-kaznachejstva/">выписка из лицевого счёта</a> и приложенная к ней справка о неисполненных документах.</p>
     <p data-ctx="auto-ctx:celevye-sredstva-kaznacheyskoe-soprovozhdenie">Большинство отказов сводится к нарушению режима <a href="/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/">целевых средств</a>: неверный ИГК или код направления, расход не по назначению, превышение утверждённых направлений.</p>
     <p data-ctx="auto-ctx:finansovyy-kontrol-federalnogo-kaznachejstva">Отказ в санкционировании — это текущий контроль до платежа. Но казначейство ведёт и последующий контроль: уже потраченные средства проверяют через ревизии и проверки. Как это устроено, разбираем в материале о <a href="/baza-znaniy/finansovyy-kontrol-federalnogo-kaznachejstva/">финансовом контроле Федерального казначейства</a>.</p>
+    <p data-ctx="auto-ctx:operacii-po-licevomu-schetu-pri-ks">Чтобы платёж не остановили, важно заранее понимать, <a href="/baza-znaniy/operacii-po-licevomu-schetu-pri-ks/">какие операции можно проводить по лицевому счёту при КС</a> и что прямо запрещено режимом счёта.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -758,6 +759,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:vypiska-iz-licevogo-scheta-kaznachejstva --><a class="card reveal" href="/baza-znaniy/vypiska-iz-licevogo-scheta-kaznachejstva/"><div class="card__cover"><span>Выписка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Выписка из лицевого счёта казначейства</h3><div class="card__meta">Операции · 14 мин</div></div></a>
     <!-- auto-related:celevye-sredstva-kaznacheyskoe-soprovozhdenie --><a class="card reveal" href="/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Целевые</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Целевые средства: что это, виды, режим и коды</h3><div class="card__meta">Операции · 17 мин</div></div></a>
     <!-- auto-related:finansovyy-kontrol-federalnogo-kaznachejstva --><a class="card reveal" href="/baza-znaniy/finansovyy-kontrol-federalnogo-kaznachejstva/"><div class="card__cover"><span>Контроль</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Финансовый контроль Федерального казначейства</h3><div class="card__meta">Контроль · 17 мин</div></div></a>
+    <!-- auto-related:operacii-po-licevomu-schetu-pri-ks --><a class="card reveal" href="/baza-znaniy/operacii-po-licevomu-schetu-pri-ks/"><div class="card__cover"><span>Операции</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Какие операции можно проводить по лицевому счёту при КС</h3><div class="card__meta">Операции · 17 мин</div></div></a>
   </div>
 </section>
 
