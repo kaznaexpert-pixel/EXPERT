@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Операции по лицевому счёту при казначейском сопровождении: что можно оплачивать | КазнаЭксперт</title>
+<title>Операции по лицевому счёту при казначейском сопровождении</title>
 <meta name="description" content="Режим лицевого счёта при казначейском сопровождении: что можно оплачивать с целевого счёта, что запрещено, можно ли снимать наличные и выводить прибыль.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

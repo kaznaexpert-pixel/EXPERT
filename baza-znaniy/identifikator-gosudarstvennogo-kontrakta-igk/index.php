@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>ИГК — идентификатор госконтракта: структура, 1С | КазнаЭксперт</title>
-<meta name="description" content="Что такое ИГК — идентификатор государственного контракта: зачем нужен, отличие от ИКЗ, структура 20-значного кода при казначейском сопровождении (приказ Минфина № 205н), 25 знаков в ГОЗ.">
+<meta name="description" content="Что такое ИГК — идентификатор государственного контракта: зачем нужен, отличие от ИКЗ, структура 20-значного кода и 25 знаков в ГОЗ.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">

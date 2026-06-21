@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Казначейское сопровождение в 2026: что это | КазнаЭксперт</title>
-<meta name="description" content="Что такое казначейское сопровождение в 2026 году: кому нужно и от какой суммы, обычное и расширенное казначейское сопровождение, отличие от банковского, пороги по 426-ФЗ, санкционирование.">
+<meta name="description" content="Что такое казначейское сопровождение в 2026: кому нужно и от какой суммы, обычное и расширенное, отличие от банковского, пороги по 426-ФЗ, санкционирование.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">

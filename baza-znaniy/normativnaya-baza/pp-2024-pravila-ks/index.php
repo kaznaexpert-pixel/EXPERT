@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Постановление № 2024 — Правила казначейского сопровождения: как</title>
-<meta name="description" content="Действующие Правила казначейского сопровождения и расширенного казначейского сопровождения: порядок проведения операций, перечисления, документы. Заменило прежние ежегодные правила.">
+<meta name="description" content="Действующие Правила казначейского сопровождения и расширенного: порядок операций, перечисления, документы. Заменили прежние ежегодные правила.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">

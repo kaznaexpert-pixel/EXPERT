@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Целевая субсидия юридическому лицу: виды, режим, казначейского сопровождения | КазнаЭксперт</title>
+<title>Целевая субсидия юрлицу: виды и казначейское сопровождение</title>
 <meta name="description" content="Целевая субсидия юридическому лицу: что это по Бюджетному кодексу, виды (на затраты и финобеспечение), режим целевых средств и казначейское сопровождение.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

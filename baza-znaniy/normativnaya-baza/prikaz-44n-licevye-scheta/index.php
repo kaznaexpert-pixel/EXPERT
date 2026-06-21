@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Приказ Казначейства № 44н — открытие лицевых счетов участников казначейского сопровождения в</title>
+<title>Приказ Казначейства № 44н об открытии лицевых счетов</title>
 <meta name="description" content="Порядок открытия, переоформления и закрытия лицевых счетов участников казначейского сопровождения в ТОФК (в т.ч. счёта с кодом 71), состав документов и форм.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

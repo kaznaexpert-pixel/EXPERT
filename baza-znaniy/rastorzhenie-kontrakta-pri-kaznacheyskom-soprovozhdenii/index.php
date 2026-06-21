@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Расторжение контракта при казначейском сопровождении: счёт и остатки | КазнаЭксперт</title>
+<title>Расторжение контракта при казначейском сопровождении</title>
 <meta name="description" content="Что с лицевым счётом 71 и авансом при расторжении контракта под казначейским сопровождением: как вернуть остаток целевых средств и закрыть счёт по ст. 95 № 44-ФЗ.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

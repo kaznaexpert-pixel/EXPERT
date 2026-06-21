@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Санкционирование расходов при казначейском сопровождении в 2026: порядок | КазнаЭксперт</title>
+<title>Санкционирование расходов при казначейском сопровождении</title>
 <meta name="description" content="Санкционирование расходов при казначейском сопровождении: как ТОФК проверяет операции, ст. 242.23 БК РФ, сведения об операциях, основания отказа, сроки, расширенное.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

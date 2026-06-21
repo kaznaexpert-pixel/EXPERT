@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Завершение казначейского сопровождения: возврат остатков и закрытие счёта | КазнаЭксперт</title>
+<title>Завершение казначейского сопровождения: остатки и счёт</title>
 <meta name="description" content="Завершение казначейского сопровождения: что делать с неиспользованным остатком целевых средств, как вернуть его источнику и закрыть лицевой счёт 71 по приказу № 21н.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Нужен ли казначейский счёт субподрядчику в 2026 | КазнаЭксперт</title>
-<meta name="description" content="Когда субподрядчику нужен казначейский счёт при казначейском сопровождении: как целевые средства идут по цепочке, кто открывает лицевой счёт, временный режим 2025–2027 и как открыть счёт.">
+<meta name="description" content="Когда субподрядчику нужен казначейский счёт: как целевые средства идут по цепочке, кто открывает лицевой счёт, временный режим 2025–2027 и как открыть.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">

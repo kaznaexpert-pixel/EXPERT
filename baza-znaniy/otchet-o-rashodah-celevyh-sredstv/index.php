@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Отчёт о расходах целевых средств при казначейском сопровождении в 2026 | КазнаЭксперт</title>
+<title>Отчёт о расходах целевых средств при сопровождении</title>
 <meta name="description" content="Отчёт о расходах целевых средств при казначейском сопровождении: чем отличается от сведений об операциях, как заполнить в «Электронном бюджете», сроки и коды.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

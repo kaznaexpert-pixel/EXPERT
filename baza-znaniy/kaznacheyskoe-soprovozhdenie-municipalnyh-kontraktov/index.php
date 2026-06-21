@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Казначейское сопровождение муниципальных контрактов | КазнаЭксперт</title>
-<meta name="description" content="Казначейское сопровождение муниципальных контрактов: когда применяется, кто решает и кто сопровождает средства местного бюджета и чем отличается от федерального казначейского сопровождения.">
+<meta name="description" content="Казначейское сопровождение муниципальных контрактов: когда применяется, кто решает, кто сопровождает средства местного бюджета и отличие от федерального.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">

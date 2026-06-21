@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Аванс при казначейском сопровождении в 2026: размер и обеспечение</title>
-<meta name="description" content="Аванс при казначейском сопровождении в 2026: когда попадает под казначейское сопровождение, размер (30–50%), обеспечение по 44-ФЗ, лицевой счёт в ТОФК и санкционирование.">
+<meta name="description" content="Аванс при казначейском сопровождении в 2026: когда попадает под него, размер 30–50%, обеспечение по 44-ФЗ, лицевой счёт в ТОФК и санкционирование.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
