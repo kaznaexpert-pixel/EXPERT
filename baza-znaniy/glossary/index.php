@@ -757,6 +757,20 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 })();
 </script>
 
+
+<!-- kb-faq -->
+<section class="kb-faq" aria-labelledby="faqH"><style>.kb-faq{max-width:1240px;margin:48px auto;padding:0 24px;font-family:'Inter',system-ui,sans-serif}.kb-faq>h2{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:clamp(1.5rem,2vw+1rem,2rem);letter-spacing:-.01em;margin:0 0 18px;color:var(--ink,#1A1A1A)}</style>
+  <h2 id="faq">Частые вопросы</h2>
+  <div class="faq">
+      <details><summary>Что такое глоссарий казначейского сопровождения?</summary><p>Это справочник ключевых терминов казначейского сопровождения с краткими и точными определениями.</p></details>
+      <details><summary>Какие термины здесь собраны?</summary><p>Казначейское сопровождение, казначейский счёт, лицевой счёт, ИГК, целевые средства, санкционирование, раздельный учёт и другие понятия.</p></details>
+      <details><summary>Где почитать подробнее по каждому термину?</summary><p>В <a href="/baza-znaniy/">базе знаний</a> по большинству терминов есть отдельные статьи с разбором процессов.</p></details>
+      <details><summary>На что опираются определения?</summary><p>На Бюджетный кодекс, приказ Минфина № 214н и постановление Правительства № 2024 — с учётом действующих редакций.</p></details>
+  </div>
+</section>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что такое глоссарий казначейского сопровождения?", "acceptedAnswer": {"@type": "Answer", "text": "Это справочник ключевых терминов казначейского сопровождения с краткими и точными определениями."}}, {"@type": "Question", "name": "Какие термины здесь собраны?", "acceptedAnswer": {"@type": "Answer", "text": "Казначейское сопровождение, казначейский счёт, лицевой счёт, ИГК, целевые средства, санкционирование, раздельный учёт и другие понятия."}}, {"@type": "Question", "name": "Где почитать подробнее по каждому термину?", "acceptedAnswer": {"@type": "Answer", "text": "В базе знаний по большинству терминов есть отдельные статьи с разбором процессов."}}, {"@type": "Question", "name": "На что опираются определения?", "acceptedAnswer": {"@type": "Answer", "text": "На Бюджетный кодекс, приказ Минфина № 214н и постановление Правительства № 2024 — с учётом действующих редакций."}}]}
+</script>
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
 

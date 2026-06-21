@@ -631,6 +631,20 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 </script>
 
 
+
+<!-- kb-faq -->
+<section class="kb-faq" aria-labelledby="faqH"><style>.kb-faq{max-width:1240px;margin:48px auto;padding:0 24px;font-family:'Inter',system-ui,sans-serif}.kb-faq>h2{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:clamp(1.5rem,2vw+1rem,2rem);letter-spacing:-.01em;margin:0 0 18px;color:var(--ink,#1A1A1A)}</style>
+  <h2 id="faq">Частые вопросы</h2>
+  <div class="faq">
+      <details><summary>Чем занимается Анна?</summary><p>Анна — специалист по казначейскому сопровождению. Ведёт клиентов на всех этапах работы с контрактом.</p></details>
+      <details><summary>На каких этапах помогает Анна?</summary><p>Открытие лицевого счёта, подготовка Сведений об операциях, проведение и санкционирование платежей.</p></details>
+      <details><summary>С какими контрактами она работает?</summary><p>Государственные контракты по 44-ФЗ, 223-ФЗ и гособоронзаказу с казначейским сопровождением.</p></details>
+      <details><summary>Как обратиться за помощью?</summary><p>Оставьте контакты в форме на сайте — эксперт перезвонит и разберёт ваш контракт.</p></details>
+  </div>
+</section>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Чем занимается Анна?", "acceptedAnswer": {"@type": "Answer", "text": "Анна — специалист по казначейскому сопровождению. Ведёт клиентов на всех этапах работы с контрактом."}}, {"@type": "Question", "name": "На каких этапах помогает Анна?", "acceptedAnswer": {"@type": "Answer", "text": "Открытие лицевого счёта, подготовка Сведений об операциях, проведение и санкционирование платежей."}}, {"@type": "Question", "name": "С какими контрактами она работает?", "acceptedAnswer": {"@type": "Answer", "text": "Государственные контракты по 44-ФЗ, 223-ФЗ и гособоронзаказу с казначейским сопровождением."}}, {"@type": "Question", "name": "Как обратиться за помощью?", "acceptedAnswer": {"@type": "Answer", "text": "Оставьте контакты в форме на сайте — эксперт перезвонит и разберёт ваш контракт."}}]}
+</script>
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
 

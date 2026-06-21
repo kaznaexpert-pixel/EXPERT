@@ -688,6 +688,21 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 })();
 </script>
 
+
+<!-- kb-faq -->
+<section class="kb-faq" aria-labelledby="faqH"><style>.kb-faq{max-width:1240px;margin:48px auto;padding:0 24px;font-family:'Inter',system-ui,sans-serif}.kb-faq>h2{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:clamp(1.5rem,2vw+1rem,2rem);letter-spacing:-.01em;margin:0 0 18px;color:var(--ink,#1A1A1A)}</style>
+  <h2 id="faq">Частые вопросы</h2>
+  <div class="faq">
+      <details><summary>Что такое коды направления расходования целевых средств?</summary><p>Это аналитические коды по приказу Минфина № 214н (Приложение 3), которые показывают, на что расходуются целевые средства при казначейском сопровождении.</p></details>
+      <details><summary>Где указываются эти коды?</summary><p>В Сведениях об операциях с целевыми средствами и в распоряжениях на платёж. Как заполнить Сведения — в материале <a href="/baza-znaniy/svedeniya-ob-operaciyah-s-celevymi-sredstvami/">сведения об операциях с целевыми средствами</a>.</p></details>
+      <details><summary>Что означает код 0410?</summary><p>Это базовое направление — оплата поставленных товаров, выполненных работ, оказанных услуг. Разбор — на странице кода <a href="/baza-znaniy/kody/0410/">0410</a>.</p></details>
+      <details><summary>Чем код направления расходования отличается от кода источника поступления?</summary><p>Направление (Приложение 3 к приказу № 214н) показывает, на что тратятся средства; источник (Приложение 2) — откуда они поступили. Об источниках — <a href="/baza-znaniy/kody-postupleniy/">коды поступлений</a>.</p></details>
+      <details><summary>Как выбрать правильный код для платежа?</summary><p>По содержанию расхода и подтверждающим документам. Ошибка в коде — частая причина, по которой казначейство приостанавливает платёж; см. <a href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/">причины отказа казначейства в санкционировании</a>.</p></details>
+  </div>
+</section>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что такое коды направления расходования целевых средств?", "acceptedAnswer": {"@type": "Answer", "text": "Это аналитические коды по приказу Минфина № 214н (Приложение 3), которые показывают, на что расходуются целевые средства при казначейском сопровождении."}}, {"@type": "Question", "name": "Где указываются эти коды?", "acceptedAnswer": {"@type": "Answer", "text": "В Сведениях об операциях с целевыми средствами и в распоряжениях на платёж. Как заполнить Сведения — в материале сведения об операциях с целевыми средствами."}}, {"@type": "Question", "name": "Что означает код 0410?", "acceptedAnswer": {"@type": "Answer", "text": "Это базовое направление — оплата поставленных товаров, выполненных работ, оказанных услуг. Разбор — на странице кода 0410."}}, {"@type": "Question", "name": "Чем код направления расходования отличается от кода источника поступления?", "acceptedAnswer": {"@type": "Answer", "text": "Направление (Приложение 3 к приказу № 214н) показывает, на что тратятся средства; источник (Приложение 2) — откуда они поступили. Об источниках — коды поступлений."}}, {"@type": "Question", "name": "Как выбрать правильный код для платежа?", "acceptedAnswer": {"@type": "Answer", "text": "По содержанию расхода и подтверждающим документам. Ошибка в коде — частая причина, по которой казначейство приостанавливает платёж; см. причины отказа казначейства в санкционировании."}}]}
+</script>
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
 

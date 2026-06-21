@@ -631,6 +631,21 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 </script>
 
 
+
+<!-- kb-faq -->
+<section class="kb-faq" aria-labelledby="faqH"><style>.kb-faq{max-width:1240px;margin:48px auto;padding:0 24px;font-family:'Inter',system-ui,sans-serif}.kb-faq>h2{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:clamp(1.5rem,2vw+1rem,2rem);letter-spacing:-.01em;margin:0 0 18px;color:var(--ink,#1A1A1A)}</style>
+  <h2 id="faq">Частые вопросы</h2>
+  <div class="faq">
+      <details><summary>Кто такой Ярослав Михайлов?</summary><p>Основатель и главный эксперт КазнаЭксперт. Знает казначейское сопровождение с двух сторон — изнутри Федерального казначейства и со стороны бизнеса.</p></details>
+      <details><summary>Какой у Ярослава опыт?</summary><p>Более 15 лет в сфере. Под его руководством команда сопроводила свыше 7000 контрактов на 90 млрд рублей.</p></details>
+      <details><summary>Какие вопросы он ведёт лично?</summary><p>Сложные кейсы и эскалации: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p></details>
+      <details><summary>С какими законами он работает?</summary><p>Казначейское сопровождение по 44-ФЗ, 223-ФЗ и гособоронзаказу (275-ФЗ), а также раздельный учёт и нормативная база.</p></details>
+      <details><summary>Как связаться с Ярославом?</summary><p>Через форму на сайте или Telegram <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a> — эксперт перезванивает в течение часа.</p></details>
+  </div>
+</section>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Кто такой Ярослав Михайлов?", "acceptedAnswer": {"@type": "Answer", "text": "Основатель и главный эксперт КазнаЭксперт. Знает казначейское сопровождение с двух сторон — изнутри Федерального казначейства и со стороны бизнеса."}}, {"@type": "Question", "name": "Какой у Ярослава опыт?", "acceptedAnswer": {"@type": "Answer", "text": "Более 15 лет в сфере. Под его руководством команда сопроводила свыше 7000 контрактов на 90 млрд рублей."}}, {"@type": "Question", "name": "Какие вопросы он ведёт лично?", "acceptedAnswer": {"@type": "Answer", "text": "Сложные кейсы и эскалации: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства."}}, {"@type": "Question", "name": "С какими законами он работает?", "acceptedAnswer": {"@type": "Answer", "text": "Казначейское сопровождение по 44-ФЗ, 223-ФЗ и гособоронзаказу (275-ФЗ), а также раздельный учёт и нормативная база."}}, {"@type": "Question", "name": "Как связаться с Ярославом?", "acceptedAnswer": {"@type": "Answer", "text": "Через форму на сайте или Telegram @Kaznaexpert — эксперт перезванивает в течение часа."}}]}
+</script>
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
 
