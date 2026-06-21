@@ -615,6 +615,18 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Кто входит в команду КазнаЭксперт?", "acceptedAnswer": {"@type": "Answer", "text": "Небольшая команда, которая занимается только казначейским сопровождением государственных контрактов. Основатель и главный эксперт — Ярослав Михайлов."}}, {"@type": "Question", "name": "Какой опыт у специалистов?", "acceptedAnswer": {"@type": "Answer", "text": "Более 15 лет в сфере казначейского сопровождения; команда сопроводила свыше 7000 контрактов на 90 млрд рублей по 44-ФЗ, 223-ФЗ и гособоронзаказу."}}, {"@type": "Question", "name": "С какого года вы работаете?", "acceptedAnswer": {"@type": "Answer", "text": "Компания работает с 2009 года и сопровождает клиентов по всей России."}}, {"@type": "Question", "name": "По каким вопросам можно к вам обратиться?", "acceptedAnswer": {"@type": "Answer", "text": "Казначейское сопровождение по 44-ФЗ, 223-ФЗ и гособоронзаказу, раздельный учёт, открытие лицевых счетов, санкционирование платежей и спасение контрактов."}}, {"@type": "Question", "name": "Соблюдаете ли вы конфиденциальность?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Соглашение о неразглашении (NDA) предоставляем по запросу — до анализа документов."}}]}
 </script>
+
+<!-- kb-cites -->
+<section class="kb-cites" aria-label="Официальные источники"><style>.kb-cites{max-width:1240px;margin:32px auto;padding:0 24px;font-family:'Inter',system-ui,sans-serif}.kb-cites h2{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:clamp(1.25rem,1.5vw+1rem,1.6rem);margin:0 0 12px;color:var(--ink,#1A1A1A)}.kb-cites ul{list-style:none;margin:0;padding:0;display:grid;gap:8px}.kb-cites li{font-size:14.5px;line-height:1.45}.kb-cites a{color:var(--sepia,#8B6F47);text-decoration:none;border-bottom:1px solid rgba(139,111,71,.3)}.kb-cites a:hover{border-bottom-color:var(--sepia,#8B6F47)}.kb-cites .src-note{font-size:12.5px;color:var(--ink-mute,#8a8170);margin:10px 0 0}</style>
+  <h2>Нормативная и правовая база, на которой мы работаем</h2>
+  <ul>
+      <li><a href="https://roskazna.gov.ru/" target="_blank" rel="noopener">Федеральное казначейство (Казначейство России)</a></li>
+      <li><a href="https://minfin.gov.ru/" target="_blank" rel="noopener">Министерство финансов Российской Федерации</a></li>
+      <li><a href="https://www.consultant.ru/document/cons_doc_LAW_19702/" target="_blank" rel="noopener">Бюджетный кодекс РФ (ст. 242.23 и далее)</a></li>
+      <li><a href="https://www.consultant.ru/document/cons_doc_LAW_144624/" target="_blank" rel="noopener">Федеральный закон № 44-ФЗ о контрактной системе</a></li>
+  </ul>
+  <p class="src-note">Информация на сайте опирается на первоисточники; ссылки ведут на официальные ресурсы и действующие редакции норм.</p>
+</section>
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
 

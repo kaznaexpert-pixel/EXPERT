@@ -711,6 +711,18 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Какие задачи вы решаете?", "acceptedAnswer": {"@type": "Answer", "text": "Открытие лицевого счёта, подготовку Сведений об операциях, прохождение санкционирования, раздельный учёт и спасение контрактов после отказов казначейства."}}, {"@type": "Question", "name": "Поможете, если казначейство отказало в санкционировании?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Разбираем причину отказа и приводим документы и операции в соответствие. О типичных причинах — причины отказа казначейства в санкционировании."}}, {"@type": "Question", "name": "Работаете ли вы с гособоронзаказом?", "acceptedAnswer": {"@type": "Answer", "text": "Да, включая раздельный учёт и отдельный счёт в уполномоченном банке. См. казначейское сопровождение ГОЗ."}}, {"@type": "Question", "name": "Кейсы — это реальные клиенты?", "acceptedAnswer": {"@type": "Answer", "text": "Да, это обезличенные истории по соглашению о неразглашении: тип компании, сумма контракта, проблема и результат, без раскрытия данных клиента."}}, {"@type": "Question", "name": "Гарантируете ли вы результат по контракту?", "acceptedAnswer": {"@type": "Answer", "text": "Гарантировать исход по государственному контракту нельзя — он зависит от многих факторов. Мы отвечаем за корректность процедур и сопровождение на каждом этапе, чтобы снизить риски отказов и просрочек."}}]}
 </script>
+
+<!-- kb-cites -->
+<section class="kb-cites" aria-label="Официальные источники"><style>.kb-cites{max-width:1240px;margin:32px auto;padding:0 24px;font-family:'Inter',system-ui,sans-serif}.kb-cites h2{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:clamp(1.25rem,1.5vw+1rem,1.6rem);margin:0 0 12px;color:var(--ink,#1A1A1A)}.kb-cites ul{list-style:none;margin:0;padding:0;display:grid;gap:8px}.kb-cites li{font-size:14.5px;line-height:1.45}.kb-cites a{color:var(--sepia,#8B6F47);text-decoration:none;border-bottom:1px solid rgba(139,111,71,.3)}.kb-cites a:hover{border-bottom-color:var(--sepia,#8B6F47)}.kb-cites .src-note{font-size:12.5px;color:var(--ink-mute,#8a8170);margin:10px 0 0}</style>
+  <h2>Нормативная и правовая база</h2>
+  <ul>
+      <li><a href="https://www.consultant.ru/document/cons_doc_LAW_144624/" target="_blank" rel="noopener">Федеральный закон № 44-ФЗ о контрактной системе</a></li>
+      <li><a href="https://www.consultant.ru/document/cons_doc_LAW_19702/" target="_blank" rel="noopener">Бюджетный кодекс РФ (ст. 242.23 и далее)</a></li>
+      <li><a href="https://www.consultant.ru/document/cons_doc_LAW_520057/" target="_blank" rel="noopener">Закон о федеральном бюджете на 2026 год (№ 426-ФЗ)</a></li>
+      <li><a href="https://roskazna.gov.ru/" target="_blank" rel="noopener">Федеральное казначейство (Казначейство России)</a></li>
+  </ul>
+  <p class="src-note">Информация на сайте опирается на первоисточники; ссылки ведут на официальные ресурсы и действующие редакции норм.</p>
+</section>
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
 
