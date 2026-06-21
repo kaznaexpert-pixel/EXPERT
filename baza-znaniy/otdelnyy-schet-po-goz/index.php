@@ -613,7 +613,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <tr><th>Параметр</th><th>Отдельный счёт (банковское сопровождение)</th><th>Лицевой счёт (казначейское сопровождение)</th></tr>
       <tr><td>Где открывается</td><td>Уполномоченный банк (ст. 8.1 № 275-ФЗ)</td><td>Территориальный орган Федерального казначейства</td></tr>
       <tr><td>Кто контролирует</td><td>Банк: проверка ИГК и запретов ст. 8.4</td><td>Казначейство: санкционирование каждого платежа до проведения</td></tr>
-      <tr><td>Правовая основа режима</td><td>Ст. 8.3–8.4 № 275-ФЗ</td><td>БК РФ гл. 24.4, правила КС, приказ Минфина № 214н</td></tr>
+      <tr><td>Правовая основа режима</td><td>Ст. 8.3–8.4 № 275-ФЗ</td><td>БК РФ гл. 24.4, правила казначейского сопровождения, приказ Минфина № 214н</td></tr>
       <tr><td>Документы к платежу</td><td>Распоряжение с ИГК; банк вправе запросить подтверждающие</td><td>Сведения об операциях, документы-основания по каждому платежу</td></tr>
       <tr><td>Проценты на остаток</td><td>Не начисляются (ч. 4 ст. 8.3)</td><td>Не начисляются</td></tr>
     </table>
@@ -834,7 +834,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   <div class="related__head"><h2 id="relTitle">Что почитать ещё</h2><a href="/baza-znaniy/">Вся база знаний →</a></div>
   <div class="related__grid">
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/"><div class="card__cover"><span>ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение ГОЗ по 275-ФЗ</h3><div class="card__meta">ГОЗ · 20 мин</div></div></a>
-    <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-i-bankovskoe-soprovozhdenie/"><div class="card__cover"><span>КС vs банк</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское и банковское сопровождение: разница</h3><div class="card__meta">Основы · 14 мин</div></div></a>
+    <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-i-bankovskoe-soprovozhdenie/"><div class="card__cover"><span>казначейское сопровождение vs банк</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское и банковское сопровождение: разница</h3><div class="card__meta">Основы · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/"><div class="card__cover"><span>Учёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по ГОЗ: как вести, штрафы</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/vidy-cen-goz/"><div class="card__cover"><span>Цены ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Виды цен на продукцию ГОЗ</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
     <!-- auto-related:kak-zarezervirovat-schet-po-goz --><a class="card reveal" href="/baza-znaniy/kak-zarezervirovat-schet-po-goz/"><div class="card__cover"><span>Резерв ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Как зарезервировать отдельный счёт по ГОЗ</h3><div class="card__meta">ГОЗ · 14 мин</div></div></a>
@@ -891,10 +891,10 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <span class="kz-sub__eyebrow">Гайд · PDF</span>
       <h2 class="kz-sub__title" id="kzSubTitle">Календарь дедлайнов по казначейскому сопровождению 2026</h2>
       <ul class="kz-sub__list">
-        <li>Реквизиты платежей при КС: ИГК, назначение платежа, сроки</li>
+        <li>Реквизиты платежей при казначейском сопровождении: ИГК, назначение платежа, сроки</li>
         <li>Дедлайн принятия бюджетных обязательств и график конца года</li>
         <li>Штрафы КоАП с 01.01.2026 и сроки утверждения сведений</li>
-        <li>Раз в месяц — короткий разбор изменений в законодательстве по КС</li>
+        <li>Раз в месяц — короткий разбор изменений в законодательстве по казначейскому сопровождению</li>
       </ul>
     </div>
     <form class="kz-sub__form" id="kzSubForm" novalidate data-endpoint="/php/subscribe.php">
@@ -1261,7 +1261,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   if(c)c.addEventListener('click',function(){try{navigator.clipboard&&navigator.clipboard.writeText(location.href);}catch(e){}var s=c.querySelector('span');if(s){var o=s.textContent;s.textContent='Скопировано ✓';setTimeout(function(){s.textContent=o;},1500);}});
   if(p)p.addEventListener('click',function(){window.print();});
 })();
-/* mini calculator: попадает ли контракт под КС 2026 */
+/* mini calculator: попадает ли контракт под казначейское сопровождение 2026 */
 (function(){
   var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');
   if(!type||!sum||!out)return;

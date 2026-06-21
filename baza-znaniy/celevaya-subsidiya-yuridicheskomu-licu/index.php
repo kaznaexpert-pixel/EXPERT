@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Целевая субсидия юридическому лицу: виды, режим, КС | КазнаЭксперт</title>
+<title>Целевая субсидия юридическому лицу: виды, режим, казначейского сопровождения | КазнаЭксперт</title>
 <meta name="description" content="Целевая субсидия юридическому лицу: что это по Бюджетному кодексу, виды (на затраты и финобеспечение), режим целевых средств и казначейское сопровождение.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -771,7 +771,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/svedeniya-ob-operaciyah-s-celevymi-sredstvami/"><div class="card__cover"><span>Сведения</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Сведения об операциях с целевыми средствами</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Кто</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Кто попадает под казначейское сопровождение</h3><div class="card__meta">Сопровождение · 15 мин</div></div></a>
     <!-- auto-related:kaznacheyskoe-soprovozhdenie-grantov --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-grantov/"><div class="card__cover"><span>Гранты</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение грантов в форме субсидий</h3><div class="card__meta">Сопровождение · 16 мин</div></div></a>
-    <!-- auto-related:otchet-o-rashodah-celevyh-sredstv --><a class="card reveal" href="/baza-znaniy/otchet-o-rashodah-celevyh-sredstv/"><div class="card__cover"><span>Отчётность</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отчёт о расходах целевых средств при КС</h3><div class="card__meta">Операции · 16 мин</div></div></a>
+    <!-- auto-related:otchet-o-rashodah-celevyh-sredstv --><a class="card reveal" href="/baza-znaniy/otchet-o-rashodah-celevyh-sredstv/"><div class="card__cover"><span>Отчётность</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отчёт о расходах целевых средств при казначейском сопровождении</h3><div class="card__meta">Операции · 16 мин</div></div></a>
   </div>
 </section>
 
@@ -823,10 +823,10 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <span class="kz-sub__eyebrow">Гайд · PDF</span>
       <h2 class="kz-sub__title" id="kzSubTitle">Календарь дедлайнов по казначейскому сопровождению 2026</h2>
       <ul class="kz-sub__list">
-        <li>Реквизиты платежей при КС: ИГК, назначение платежа, сроки</li>
+        <li>Реквизиты платежей при казначейском сопровождении: ИГК, назначение платежа, сроки</li>
         <li>Дедлайн принятия бюджетных обязательств и график конца года</li>
         <li>Штрафы КоАП с 01.01.2026 и сроки утверждения сведений</li>
-        <li>Раз в месяц — короткий разбор изменений в законодательстве по КС</li>
+        <li>Раз в месяц — короткий разбор изменений в законодательстве по казначейскому сопровождению</li>
       </ul>
     </div>
     <form class="kz-sub__form" id="kzSubForm" novalidate data-endpoint="/php/subscribe.php">
@@ -1078,7 +1078,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   if(c)c.addEventListener('click',function(){try{navigator.clipboard&&navigator.clipboard.writeText(location.href);}catch(e){}var s=c.querySelector('span');if(s){var o=s.textContent;s.textContent='Скопировано ✓';setTimeout(function(){s.textContent=o;},1500);}});
   if(p)p.addEventListener('click',function(){window.print();});
 })();
-/* mini calculator: попадает ли контракт под КС 2026 */
+/* mini calculator: попадает ли контракт под казначейское сопровождение 2026 */
 (function(){
   var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');
   if(!type||!sum||!out)return;

@@ -580,7 +580,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <div class="keyfacts__grid">
         <div class="kf"><div class="kf__n">ЕКС</div><div class="kf__t"><b>Единый казначейский счёт</b> открыт ФК в Банке России</div></div>
         <div class="kf"><div class="kf__n">242.14</div><div class="kf__t"><b>Виды счетов</b> закреплены ст. 242.14 Бюджетного кодекса</div></div>
-        <div class="kf"><div class="kf__n">«71»</div><div class="kf__t"><b>Лицевой счёт КС</b> участника начинается с кода 71</div></div>
+        <div class="kf"><div class="kf__n">«71»</div><div class="kf__t"><b>Лицевой счёт казначейского сопровождения</b> участника начинается с кода 71</div></div>
         <div class="kf"><div class="kf__n">с 2021</div><div class="kf__t"><b>Переход на ЕКС</b> — с 1 января 2021 года</div></div>
         <div class="kf"><div class="kf__n">Банк РФ</div><div class="kf__t"><b>Где открыт</b> — в учреждениях Банка России, не в комбанке</div></div>
         <div class="kf"><div class="kf__n">контроль</div><div class="kf__t"><b>Режим</b> — операции под контролем казначейства</div></div>
@@ -617,7 +617,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <tr><td>Счёт для учёта и распределения поступлений</td><td>Поступление и распределение налогов, сборов и иных доходов</td></tr>
       <tr><td>Счёт для средств во временном распоряжении</td><td>Обеспечения, залоги и иные средства во временном распоряжении</td></tr>
       <tr><td>Счёт для средств бюджетных и автономных учреждений</td><td>Операции БУ и АУ</td></tr>
-      <tr><td>Счёт для средств получателей средств из бюджета и участников КС</td><td>Операции получателей и участников казначейского сопровождения</td></tr>
+      <tr><td>Счёт для средств получателей средств из бюджета и участников казначейского сопровождения</td><td>Операции получателей и участников казначейского сопровождения</td></tr>
     </table>
     <div class="note"><b>Важно.</b> Исполнитель госконтракта взаимодействует прежде всего с последним типом — счётом для операций участников казначейского сопровождения. Именно на нём через лицевой счёт «71» отражаются движения целевых средств по его контракту.</div>
 
@@ -638,7 +638,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <tr><td>Единый казначейский счёт (поле 15)</td><td>Номер ЕКС, начинается с 40102</td></tr>
       <tr><td>Номер казначейского счёта (поле 17)</td><td>Казначейский счёт, начинается с 03</td></tr>
       <tr><td>Получатель и его ИНН/КПП</td><td>Наименование органа казначейства и реквизиты администратора</td></tr>
-      <tr><td>Лицевой счёт (в назначении)</td><td>Номер лицевого счёта участника, для КС — код «71»</td></tr>
+      <tr><td>Лицевой счёт (в назначении)</td><td>Номер лицевого счёта участника, для казначейского сопровождения — код «71»</td></tr>
     </table>
     <div class="note"><b>Частая ошибка.</b> Указать ЕКС в поле номера казначейского счёта или наоборот. ЕКС (40102…) и казначейский счёт (03…) — это разные реквизиты, и оба обязательны. Перед первым платежом сверьте их с реквизитами, которые выдал ТОФК.</div>
 
@@ -680,12 +680,13 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <p data-ctx="auto-ctx:vidy-licevyh-schetov-v-kaznachejstve">Лицевой счёт «71» — не единственный: казначейство ведёт целый ряд видов лицевых счетов со своими кодами. Их полную расшифровку мы привели в материале о <a href="/baza-znaniy/vidy-licevyh-schetov-v-kaznachejstve/">видах лицевых счетов в казначействе</a>.</p>
+    <p data-ctx="auto-ctx:kniga-registracii-kaznacheyskih-schetov">Где фиксируется факт открытия счёта и откуда берутся его реквизиты — в материале о том, что такое <a href="/baza-znaniy/kniga-registracii-kaznacheyskih-schetov/">Книга регистрации казначейских счетов</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
         <li>Казначейский счёт — счёт казначейства в Банке России; организация видит свои средства через лицевой счёт в ТОФК.</li>
         <li>Виды казначейских счетов закреплены ст. 242.14 БК РФ; исполнителю важен счёт для участников казначейского сопровождения.</li>
-        <li>Лицевой счёт участника КС имеет код «71»; открывается один раз, под каждый контракт — отдельный раздел.</li>
+        <li>Лицевой счёт участника казначейского сопровождения имеет код «71»; открывается один раз, под каждый контракт — отдельный раздел.</li>
         <li>В реквизитах обязательны оба счёта: ЕКС (40102…) и казначейский счёт (03…), плюс лицевой счёт в назначении.</li>
         <li>В отличие от банковского, средствами на казначейском счёте нельзя распоряжаться свободно — каждая операция санкционируется.</li>
       </ol>
@@ -695,7 +696,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <dl class="gloss">
       <div><dt>Казначейский счёт</dt><dd>Счёт казначейства в Банке России для операций со средствами бюджетной системы.</dd></div>
       <div><dt>ЕКС</dt><dd>Единый казначейский счёт ФК в Банке России, начинается с 40102.</dd></div>
-      <div><dt>Лицевой счёт</dt><dd>Счёт организации в ТОФК для учёта её операций; у участника КС — код «71».</dd></div>
+      <div><dt>Лицевой счёт</dt><dd>Счёт организации в ТОФК для учёта её операций; у участника казначейского сопровождения — код «71».</dd></div>
       <div><dt>ТОФК</dt><dd>Территориальный орган Федерального казначейства.</dd></div>
       <div><dt>Система казначейских платежей</dt><dd>Механизм проведения платежей через ЕКС с 2021 года.</dd></div>
       <div><dt>Санкционирование</dt><dd>Проверка казначейством операции перед списанием.</dd></div>
@@ -767,13 +768,14 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 <section class="related" aria-labelledby="relTitle">
   <div class="related__head"><h2 id="relTitle">Что почитать ещё</h2><a href="/baza-znaniy/">Вся база знаний →</a></div>
   <div class="related__grid">
-    <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Основы КС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение: что это и как работает в 2026</h3><div class="card__meta">Основы · 18 мин</div></div></a>
+    <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Основы казначейского сопровождения</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение: что это и как работает в 2026</h3><div class="card__meta">Основы · 18 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/licevoy-schet-71-kak-otkryt/"><div class="card__cover"><span>Счёт 71</span></div><div class="card__body"><span class="card__cat">Инструкция</span><h3 class="card__title">Как открыть лицевой счёт 71 в ТОФК</h3><div class="card__meta">Открытие счёта · 12 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>Отказы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Причины отказа казначейства в санкционировании</h3><div class="card__meta">Санкционирование · 14 мин</div></div></a>
     <!-- auto-related:chto-takoe-kaznachejstvo-i-tofk --><a class="card reveal" href="/baza-znaniy/chto-takoe-kaznachejstvo-i-tofk/"><div class="card__cover"><span>Казначейство</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Что такое казначейство и ТОФК</h3><div class="card__meta">Основы · 14 мин</div></div></a>
     <!-- auto-related:edinyy-kaznacheyskiy-schet --><a class="card reveal" href="/baza-znaniy/edinyy-kaznacheyskiy-schet/"><div class="card__cover"><span>ЕКС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Единый казначейский счёт: что это и реквизиты</h3><div class="card__meta">Счета · 15 мин</div></div></a>
     <!-- auto-related:svodnyy-reestr --><a class="card reveal" href="/baza-znaniy/svodnyy-reestr/"><div class="card__cover"><span>Реестр</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Сводный реестр: код организации, проверка, включение</h3><div class="card__meta">Счета · 15 мин</div></div></a>
     <!-- auto-related:vidy-licevyh-schetov-v-kaznachejstve --><a class="card reveal" href="/baza-znaniy/vidy-licevyh-schetov-v-kaznachejstve/"><div class="card__cover"><span>Счета</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Виды лицевых счетов в казначействе: коды</h3><div class="card__meta">Счета · 16 мин</div></div></a>
+    <!-- auto-related:kniga-registracii-kaznacheyskih-schetov --><a class="card reveal" href="/baza-znaniy/kniga-registracii-kaznacheyskih-schetov/"><div class="card__cover"><span>Счета</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Книга регистрации казначейских счетов</h3><div class="card__meta">Счета · 16 мин</div></div></a>
   </div>
 </section>
 
@@ -828,7 +830,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         <li>Дедлайн принятия бюджетных обязательств и график операций конца года</li>
         <li>Сроки авансирования по 44-ФЗ и вступления изменений 2026</li>
         <li>Штрафы КоАП с 01.01.2026 и сроки утверждения сведений об операциях</li>
-        <li>Раз в месяц — короткий разбор изменений в законодательстве по КС</li>
+        <li>Раз в месяц — короткий разбор изменений в законодательстве по казначейскому сопровождению</li>
       </ul>
     </div>
     <form class="kz-sub__form" id="kzSubForm" novalidate data-endpoint="/php/subscribe.php">
@@ -1196,7 +1198,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   if(c)c.addEventListener('click',function(){try{navigator.clipboard&&navigator.clipboard.writeText(location.href);}catch(e){}var s=c.querySelector('span');if(s){var o=s.textContent;s.textContent='Скопировано ✓';setTimeout(function(){s.textContent=o;},1500);}});
   if(p)p.addEventListener('click',function(){window.print();});
 })();
-/* mini calculator: попадает ли контракт под КС 2026 */
+/* mini calculator: попадает ли контракт под казначейское сопровождение 2026 */
 (function(){
   var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');
   if(!type||!sum||!out)return;

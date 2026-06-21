@@ -619,7 +619,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <p>Три системы казначейства новички постоянно путают, теряя время на «не той» площадке. Разведём их по назначению — это снимает половину вопросов на старте.</p>
     <table>
       <caption>Электронный бюджет, СУФД и портал заявителя ФЗС</caption>
-      <tr><th>Система</th><th>Адрес</th><th>Для чего исполнителю КС</th></tr>
+      <tr><th>Система</th><th>Адрес</th><th>Для чего исполнителю казначейского сопровождения</th></tr>
       <tr><td>Портал заявителя (ФЗС)</td><td>fzs.roskazna.ru</td><td>Выпуск и замена сертификата электронной подписи казначейства — см. <a href="/baza-znaniy/portal-zayavitelya-kaznachejstva/">портал заявителя ФЗС</a></td></tr>
       <tr><td>«Электронный бюджет»</td><td>budget.gov.ru / lk</td><td>Основной контур: лицевой счёт 71, сведения об операциях, платежи, отчётность по целевым средствам</td></tr>
       <tr><td>СУФД-портал</td><td>региональный домен ТОФК</td><td>Работа с расчётными документами в ряде случаев и регионов — см. <a href="/baza-znaniy/sufd-portal-kaznachejstva/">СУФД-портал</a></td></tr>
@@ -640,7 +640,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <h2 id="podsistemy">Подсистемы, с которыми работает исполнитель</h2>
     <p>«Электронный бюджет» состоит из множества подсистем, но исполнителю контракта нужна лишь часть. Не пытайтесь освоить систему целиком — сфокусируйтесь на нужных разделах.</p>
     <table>
-      <caption>Рабочие подсистемы исполнителя контракта под КС</caption>
+      <caption>Рабочие подсистемы исполнителя контракта под казначейское сопровождение</caption>
       <tr><th>Подсистема / раздел</th><th>Что делает исполнитель</th></tr>
       <tr><td>Учёт и отчётность</td><td>Лицевой счёт 71, выписки, справки, остатки целевых средств</td></tr>
       <tr><td>Управление денежными средствами</td><td>Сведения об операциях, распоряжения о совершении платежей, санкционирование</td></tr>
@@ -871,10 +871,10 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <span class="kz-sub__eyebrow">Гайд · PDF</span>
       <h2 class="kz-sub__title" id="kzSubTitle">Календарь дедлайнов по казначейскому сопровождению 2026</h2>
       <ul class="kz-sub__list">
-        <li>Реквизиты платежей при КС: ИГК, назначение платежа, сроки</li>
+        <li>Реквизиты платежей при казначейском сопровождении: ИГК, назначение платежа, сроки</li>
         <li>Дедлайн принятия бюджетных обязательств и график конца года</li>
         <li>Штрафы КоАП с 01.01.2026 и сроки утверждения сведений</li>
-        <li>Раз в месяц — короткий разбор изменений в законодательстве по КС</li>
+        <li>Раз в месяц — короткий разбор изменений в законодательстве по казначейскому сопровождению</li>
       </ul>
     </div>
     <form class="kz-sub__form" id="kzSubForm" novalidate data-endpoint="/php/subscribe.php">
@@ -1126,7 +1126,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   if(c)c.addEventListener('click',function(){try{navigator.clipboard&&navigator.clipboard.writeText(location.href);}catch(e){}var s=c.querySelector('span');if(s){var o=s.textContent;s.textContent='Скопировано ✓';setTimeout(function(){s.textContent=o;},1500);}});
   if(p)p.addEventListener('click',function(){window.print();});
 })();
-/* mini calculator: попадает ли контракт под КС 2026 */
+/* mini calculator: попадает ли контракт под казначейское сопровождение 2026 */
 (function(){
   var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');
   if(!type||!sum||!out)return;

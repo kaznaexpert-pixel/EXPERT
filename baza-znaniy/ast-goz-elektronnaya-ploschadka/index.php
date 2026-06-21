@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>АСТ ГОЗ: что это и как работает площадка в 2026 | КазнаЭксперт</title>
-<meta name="description" content="АСТ ГОЗ — специализированная площадка для закрытых закупок по ГОЗ: оператор, основание (распоряжение № 1447-р), требования к участникам и связь с КС ГОЗ.">
+<meta name="description" content="АСТ ГОЗ — специализированная площадка для закрытых закупок по ГОЗ: оператор, основание (распоряжение № 1447-р), требования к участникам и связь с казначейским сопровождением ГОЗ.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -544,7 +544,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <li><a href="#otlichie">Отличие от обычных ЭТП</a></li>
       <li><a href="#trebovaniya">Требования к участникам</a></li>
       <li><a href="#registraciya">Как начать работать</a></li>
-      <li><a href="#svyaz-ks">Связь с КС ГОЗ</a></li>
+      <li><a href="#svyaz-ks">Связь с казначейским сопровождением ГОЗ</a></li>
       <li><a href="#procedury">Виды закрытых процедур</a></li>
       <li><a href="#ploschadki">Система площадок</a></li>
       <li><a href="#oshibki">Частые заблуждения</a></li>
@@ -572,7 +572,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <details class="mtoc"><summary>Содержание статьи</summary>
       <ol>
-        <li><a href="#chto-takoe">Что это такое</a></li><li><a href="#operator">Кто оператор</a></li><li><a href="#osnovanie">Правовое основание</a></li><li><a href="#zachem">Для чего используется</a></li><li><a href="#otlichie">Отличие от обычных ЭТП</a></li><li><a href="#trebovaniya">Требования к участникам</a></li><li><a href="#registraciya">Как начать работать</a></li><li><a href="#svyaz-ks">Связь с КС ГОЗ</a></li><li><a href="#procedury">Виды закрытых процедур</a></li><li><a href="#ploschadki">Система площадок</a></li><li><a href="#oshibki">Частые заблуждения</a></li><li><a href="#keys">Пример из практики</a></li><li><a href="#glossary">Глоссарий</a></li><li><a href="#faq">Частые вопросы</a></li>
+        <li><a href="#chto-takoe">Что это такое</a></li><li><a href="#operator">Кто оператор</a></li><li><a href="#osnovanie">Правовое основание</a></li><li><a href="#zachem">Для чего используется</a></li><li><a href="#otlichie">Отличие от обычных ЭТП</a></li><li><a href="#trebovaniya">Требования к участникам</a></li><li><a href="#registraciya">Как начать работать</a></li><li><a href="#svyaz-ks">Связь с казначейским сопровождением ГОЗ</a></li><li><a href="#procedury">Виды закрытых процедур</a></li><li><a href="#ploschadki">Система площадок</a></li><li><a href="#oshibki">Частые заблуждения</a></li><li><a href="#keys">Пример из практики</a></li><li><a href="#glossary">Глоссарий</a></li><li><a href="#faq">Частые вопросы</a></li>
       </ol>
     </details>
 
@@ -586,7 +586,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         <div class="kf"><div class="kf__n">закрытые</div><div class="kf__t"><b>Для чего</b> — закрытые закупки в электронной форме</div></div>
         <div class="kf"><div class="kf__n">3 площадки</div><div class="kf__t"><b>С 2022</b> — АСТ ГОЗ уже не единственная</div></div>
         <div class="kf"><div class="kf__n">лиц. ФСБ</div><div class="kf__t"><b>Участие</b> — допуск к гостайне, защищённое место</div></div>
-        <div class="kf"><div class="kf__n">КС ГОЗ</div><div class="kf__t"><b>После закупки</b> — отдельный счёт и ИГК</div></div>
+        <div class="kf"><div class="kf__n">казначейское сопровождение ГОЗ</div><div class="kf__t"><b>После закупки</b> — отдельный счёт и ИГК</div></div>
       </div>
     </section>
 
@@ -848,10 +848,10 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <span class="kz-sub__eyebrow">Гайд · PDF</span>
       <h2 class="kz-sub__title" id="kzSubTitle">Календарь дедлайнов по казначейскому сопровождению 2026</h2>
       <ul class="kz-sub__list">
-        <li>Реквизиты платежей при КС: ИГК, назначение платежа, сроки</li>
+        <li>Реквизиты платежей при казначейском сопровождении: ИГК, назначение платежа, сроки</li>
         <li>Дедлайн принятия бюджетных обязательств и график конца года</li>
         <li>Штрафы КоАП с 01.01.2026 и сроки утверждения сведений</li>
-        <li>Раз в месяц — короткий разбор изменений в законодательстве по КС</li>
+        <li>Раз в месяц — короткий разбор изменений в законодательстве по казначейскому сопровождению</li>
       </ul>
     </div>
     <form class="kz-sub__form" id="kzSubForm" novalidate data-endpoint="/php/subscribe.php">
@@ -1218,7 +1218,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   if(c)c.addEventListener('click',function(){try{navigator.clipboard&&navigator.clipboard.writeText(location.href);}catch(e){}var s=c.querySelector('span');if(s){var o=s.textContent;s.textContent='Скопировано ✓';setTimeout(function(){s.textContent=o;},1500);}});
   if(p)p.addEventListener('click',function(){window.print();});
 })();
-/* mini calculator: попадает ли контракт под КС 2026 */
+/* mini calculator: попадает ли контракт под казначейское сопровождение 2026 */
 (function(){
   var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');
   if(!type||!sum||!out)return;

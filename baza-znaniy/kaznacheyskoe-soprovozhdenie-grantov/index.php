@@ -79,7 +79,7 @@
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
 <meta property="og:title" content="Казначейское сопровождение грантов в форме субсидий">
-<meta property="og:description" content="Гранты в форме субсидий под казначейским сопровождением: правовая основа по п. 4 ст. 78.1 БК и главе 24.4, кто из получателей попадает под КС в 2026, режим целевых средств, лицевой счёт и отчётность.">
+<meta property="og:description" content="Гранты в форме субсидий под казначейским сопровождением: правовая основа по п. 4 ст. 78.1 БК и главе 24.4, кто из получателей попадает под казначейское сопровождение в 2026, режим целевых средств, лицевой счёт и отчётность.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-grantov/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
@@ -91,7 +91,7 @@
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Казначейское сопровождение грантов в форме субсидий">
-<meta name="twitter:description" content="Гранты в форме субсидий под казначейским сопровождением: правовая основа по п. 4 ст. 78.1 БК и главе 24.4, кто из получателей попадает под КС в 2026, режим целевых средств, лицевой счёт и отчётность.">
+<meta name="twitter:description" content="Гранты в форме субсидий под казначейским сопровождением: правовая основа по п. 4 ст. 78.1 БК и главе 24.4, кто из получателей попадает под казначейское сопровождение в 2026, режим целевых средств, лицевой счёт и отчётность.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 
@@ -823,10 +823,10 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <span class="kz-sub__eyebrow">Гайд · PDF</span>
       <h2 class="kz-sub__title" id="kzSubTitle">Календарь дедлайнов по казначейскому сопровождению 2026</h2>
       <ul class="kz-sub__list">
-        <li>Реквизиты платежей при КС: ИГК, назначение платежа, сроки</li>
+        <li>Реквизиты платежей при казначейском сопровождении: ИГК, назначение платежа, сроки</li>
         <li>Дедлайн принятия бюджетных обязательств и график конца года</li>
         <li>Штрафы КоАП с 01.01.2026 и сроки утверждения сведений</li>
-        <li>Раз в месяц — короткий разбор изменений в законодательстве по КС</li>
+        <li>Раз в месяц — короткий разбор изменений в законодательстве по казначейскому сопровождению</li>
       </ul>
     </div>
     <form class="kz-sub__form" id="kzSubForm" novalidate data-endpoint="/php/subscribe.php">
@@ -1078,7 +1078,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   if(c)c.addEventListener('click',function(){try{navigator.clipboard&&navigator.clipboard.writeText(location.href);}catch(e){}var s=c.querySelector('span');if(s){var o=s.textContent;s.textContent='Скопировано ✓';setTimeout(function(){s.textContent=o;},1500);}});
   if(p)p.addEventListener('click',function(){window.print();});
 })();
-/* mini calculator: попадает ли контракт под КС 2026 */
+/* mini calculator: попадает ли контракт под казначейское сопровождение 2026 */
 (function(){
   var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');
   if(!type||!sum||!out)return;

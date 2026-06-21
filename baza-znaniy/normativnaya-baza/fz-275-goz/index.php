@@ -564,12 +564,12 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <h2 id="oshibki">На что обратить внимание</h2><div class="answer reveal"><ul class="ul"><li>Ошибка в ИГК в платёжных документах — операция не пройдёт.</li><li>Смешение средств ГОЗ с прочими деньгами компании вместо обособленного учёта.</li><li>Запрещённые по режиму отдельного счёта операции (например, нецелевые переводы) — основание для блокировки и ответственности.</li><li>Неоформление соисполнителей в цепочке кооперации.</li></ul></div>
 
-    <h2 id="sistema">Место в системе регулирования</h2><div class="answer reveal"><p>275-ФЗ работает поверх общего механизма КС (гл. 24.4 БК): для ГОЗ добавляются режим отдельного счёта, ИГК и усиленный контроль. С казначейским сопровождением ГОЗ напрямую связаны раздельный учёт и расширенное КС (ст. 242.24 БК).</p></div>
+    <h2 id="sistema">Место в системе регулирования</h2><div class="answer reveal"><p>275-ФЗ работает поверх общего механизма казначейского сопровождения (гл. 24.4 БК): для ГОЗ добавляются режим отдельного счёта, ИГК и усиленный контроль. С казначейским сопровождением ГОЗ напрямую связаны раздельный учёт и расширенное казначейское сопровождение (ст. 242.24 БК).</p></div>
 
     <h2 id="changed">Актуальная редакция и изменения</h2>
     <div class="answer reveal"><p>275-ФЗ действует в редакции от 28.12.2024. Режимы сопровождения ГОЗ периодически уточняются — сверяйте действующую редакцию и условия конкретного контракта.</p></div>
 
-    <div class="note">Смотрите также: <div class="codechips"><a class="codechip" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/">Казначейское сопровождение ГОЗ — полный разбор</a><a class="codechip" href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/">Раздельный учёт по ГОЗ</a><a class="codechip" href="/baza-znaniy/normativnaya-baza/bk-242-24-rasshirennoe/">Расширенное КС</a></div></div>
+    <div class="note">Смотрите также: <div class="codechips"><a class="codechip" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/">Казначейское сопровождение ГОЗ — полный разбор</a><a class="codechip" href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/">Раздельный учёт по ГОЗ</a><a class="codechip" href="/baza-znaniy/normativnaya-baza/bk-242-24-rasshirennoe/">Расширенное казначейское сопровождение</a></div></div>
 
     <h2 id="faq">Частые вопросы</h2>
     <div class="faq"><details><summary>ГОЗ — это банковское или казначейское сопровождение?</summary><p>Возможны оба режима: банковское — через отдельный счёт в уполномоченном банке, казначейское — через лицевой счёт в ТОФК. Зависит от условий контракта.</p></details><details><summary>Нужно ли обеспечение исполнения контракта при сопровождении ГОЗ?</summary><p>При казначейском/банковском сопровождении в установленных случаях обеспечение можно не предоставлять.</p></details><details><summary>Что такое ИГК?</summary><p>Идентификатор государственного контракта — 25-значный код, к которому привязаны все операции и счёт по контракту ГОЗ.</p></details><details><summary>Можно ли тратить средства отдельного счёта свободно?</summary><p>Нет: действует режим использования средств с перечнем разрешённых и запрещённых операций.</p></details></div>
@@ -919,7 +919,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   if(c)c.addEventListener('click',function(){try{navigator.clipboard&&navigator.clipboard.writeText(location.href);}catch(e){}var s=c.querySelector('span');if(s){var o=s.textContent;s.textContent='Скопировано ✓';setTimeout(function(){s.textContent=o;},1500);}});
   if(p)p.addEventListener('click',function(){window.print();});
 })();
-/* mini calculator: попадает ли контракт под КС 2026 */
+/* mini calculator: попадает ли контракт под казначейское сопровождение 2026 */
 (function(){
   var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');
   if(!type||!sum||!out)return;

@@ -635,11 +635,11 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <div class="keysy-group__label">Гособоронзаказ (275-ФЗ)</div>
       <div class="keysy-grid"><article class="v2-case keysy-case">
         <div class="v2-case-top"><span class="v2-case-tag">275-ФЗ</span><span class="v2-case-meta">320 млн ₽ · ГОЗ</span></div>
-        <h3>Оборонное предприятие: расширенное КС и проверка цены</h3>
+        <h3>Оборонное предприятие: расширенное казначейское сопровождение и проверка цены</h3>
         <dl>
           <dt>Проблема</dt><dd>Расширенное казначейское сопровождение и проверка обоснованности затрат — структура цены не была подтверждена документами.</dd>
-          <dt>Решение</dt><dd>Привели раздельный учёт и первичку к структуре цены, подготовили обоснования к расширенному КС.</dd>
-          <dt>Результат</dt><dd class="is-result">Проверка пройдена, контракт ведётся в режиме КС без замечаний УФК.</dd>
+          <dt>Решение</dt><dd>Привели раздельный учёт и первичку к структуре цены, подготовили обоснования к расширенному казначейскому сопровождению.</dd>
+          <dt>Результат</dt><dd class="is-result">Проверка пройдена, контракт ведётся в режиме казначейского сопровождения без замечаний УФК.</dd>
         </dl>
         <a class="keysy-case-link" href="/uslugi/soprovozhdenie-avans/">Услуга: Сопровождение с авансом <span aria-hidden="true">→</span></a>
       </article><article class="v2-case keysy-case">
@@ -903,7 +903,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   if(c)c.addEventListener('click',function(){try{navigator.clipboard&&navigator.clipboard.writeText(location.href);}catch(e){}var s=c.querySelector('span');if(s){var o=s.textContent;s.textContent='Скопировано ✓';setTimeout(function(){s.textContent=o;},1500);}});
   if(p)p.addEventListener('click',function(){window.print();});
 })();
-/* mini calculator: попадает ли контракт под КС 2026 */
+/* mini calculator: попадает ли контракт под казначейское сопровождение 2026 */
 (function(){
   var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');
   if(!type||!sum||!out)return;

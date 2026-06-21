@@ -660,7 +660,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <p data-ctx="auto-ctx:vypiska-iz-licevogo-scheta-kaznachejstva">Какие именно распоряжения не прошли, показывает <a href="/baza-znaniy/vypiska-iz-licevogo-scheta-kaznachejstva/">выписка из лицевого счёта</a> и приложенная к ней справка о неисполненных документах.</p>
     <p data-ctx="auto-ctx:celevye-sredstva-kaznacheyskoe-soprovozhdenie">Большинство отказов сводится к нарушению режима <a href="/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/">целевых средств</a>: неверный ИГК или код направления, расход не по назначению, превышение утверждённых направлений.</p>
     <p data-ctx="auto-ctx:finansovyy-kontrol-federalnogo-kaznachejstva">Отказ в санкционировании — это текущий контроль до платежа. Но казначейство ведёт и последующий контроль: уже потраченные средства проверяют через ревизии и проверки. Как это устроено, разбираем в материале о <a href="/baza-znaniy/finansovyy-kontrol-federalnogo-kaznachejstva/">финансовом контроле Федерального казначейства</a>.</p>
-    <p data-ctx="auto-ctx:operacii-po-licevomu-schetu-pri-ks">Чтобы платёж не остановили, важно заранее понимать, <a href="/baza-znaniy/operacii-po-licevomu-schetu-pri-ks/">какие операции можно проводить по лицевому счёту при КС</a> и что прямо запрещено режимом счёта.</p>
+    <p data-ctx="auto-ctx:operacii-po-licevomu-schetu-pri-ks">Чтобы платёж не остановили, важно заранее понимать, <a href="/baza-znaniy/operacii-po-licevomu-schetu-pri-ks/">какие операции можно проводить по лицевому счёту при казначейском сопровождении</a> и что прямо запрещено режимом счёта.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -750,16 +750,16 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 <section class="related" aria-labelledby="relTitle">
   <div class="related__head"><h2 id="relTitle">Что почитать ещё</h2><a href="/baza-znaniy/">Вся база знаний →</a></div>
   <div class="related__grid">
-    <a class="card reveal" href="/baza-znaniy/poryadok-sankcionirovaniya-rashodov/"><div class="card__cover"><span>Порядок</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Санкционирование расходов при КС</h3><div class="card__meta">Санкционирование · 13 мин</div></div></a>
-    <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/"><div class="card__cover"><span>КС ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение ГОЗ в 2026: полный разбор по 275-ФЗ</h3><div class="card__meta">Гособоронзаказ · 17 мин</div></div></a>
+    <a class="card reveal" href="/baza-znaniy/poryadok-sankcionirovaniya-rashodov/"><div class="card__cover"><span>Порядок</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Санкционирование расходов при казначейском сопровождении</h3><div class="card__meta">Санкционирование · 13 мин</div></div></a>
+    <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/"><div class="card__cover"><span>казначейское сопровождение ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение ГОЗ в 2026: полный разбор по 275-ФЗ</h3><div class="card__meta">Гособоронзаказ · 17 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/"><div class="card__cover"><span>Раздельный учёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по ГОЗ: методика, проводки, штрафы</h3><div class="card__meta">Раздельный учёт · 18 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/licevoy-schet-71-kak-otkryt/"><div class="card__cover"><span>Счёт 71</span></div><div class="card__body"><span class="card__cat">Инструкция</span><h3 class="card__title">Как открыть лицевой счёт 71 в ТОФК</h3><div class="card__meta">Открытие счёта · 12 мин</div></div></a>
     <!-- auto-related:rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha --><a class="card reveal" href="/baza-znaniy/rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha/"><div class="card__cover"><span>Распоряжение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Распоряжение о совершении казначейского платежа</h3><div class="card__meta">Операции · 14 мин</div></div></a>
-    <!-- auto-related:rasshirennoe-kaznacheyskoe-soprovozhdenie --><a class="card reveal" href="/baza-znaniy/rasshirennoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Расширенное КС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Расширенное казначейское сопровождение в 2026</h3><div class="card__meta">Контроль · 14 мин</div></div></a>
+    <!-- auto-related:rasshirennoe-kaznacheyskoe-soprovozhdenie --><a class="card reveal" href="/baza-znaniy/rasshirennoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Расширенное казначейское сопровождение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Расширенное казначейское сопровождение в 2026</h3><div class="card__meta">Контроль · 14 мин</div></div></a>
     <!-- auto-related:vypiska-iz-licevogo-scheta-kaznachejstva --><a class="card reveal" href="/baza-znaniy/vypiska-iz-licevogo-scheta-kaznachejstva/"><div class="card__cover"><span>Выписка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Выписка из лицевого счёта казначейства</h3><div class="card__meta">Операции · 14 мин</div></div></a>
     <!-- auto-related:celevye-sredstva-kaznacheyskoe-soprovozhdenie --><a class="card reveal" href="/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Целевые</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Целевые средства: что это, виды, режим и коды</h3><div class="card__meta">Операции · 17 мин</div></div></a>
     <!-- auto-related:finansovyy-kontrol-federalnogo-kaznachejstva --><a class="card reveal" href="/baza-znaniy/finansovyy-kontrol-federalnogo-kaznachejstva/"><div class="card__cover"><span>Контроль</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Финансовый контроль Федерального казначейства</h3><div class="card__meta">Контроль · 17 мин</div></div></a>
-    <!-- auto-related:operacii-po-licevomu-schetu-pri-ks --><a class="card reveal" href="/baza-znaniy/operacii-po-licevomu-schetu-pri-ks/"><div class="card__cover"><span>Операции</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Какие операции можно проводить по лицевому счёту при КС</h3><div class="card__meta">Операции · 17 мин</div></div></a>
+    <!-- auto-related:operacii-po-licevomu-schetu-pri-ks --><a class="card reveal" href="/baza-znaniy/operacii-po-licevomu-schetu-pri-ks/"><div class="card__cover"><span>Операции</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Какие операции можно проводить по лицевому счёту при казначейском сопровождении</h3><div class="card__meta">Операции · 17 мин</div></div></a>
   </div>
 </section>
 
@@ -814,7 +814,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         <li>Дедлайн принятия бюджетных обязательств и график операций конца года</li>
         <li>Сроки авансирования по 44-ФЗ и вступления изменений 2026</li>
         <li>Штрафы КоАП с 01.01.2026 и сроки утверждения сведений об операциях</li>
-        <li>Раз в месяц — короткий разбор изменений в законодательстве по КС</li>
+        <li>Раз в месяц — короткий разбор изменений в законодательстве по казначейскому сопровождению</li>
       </ul>
     </div>
     <form class="kz-sub__form" id="kzSubForm" novalidate data-endpoint="/php/subscribe.php">
@@ -1182,7 +1182,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   if(c)c.addEventListener('click',function(){try{navigator.clipboard&&navigator.clipboard.writeText(location.href);}catch(e){}var s=c.querySelector('span');if(s){var o=s.textContent;s.textContent='Скопировано ✓';setTimeout(function(){s.textContent=o;},1500);}});
   if(p)p.addEventListener('click',function(){window.print();});
 })();
-/* mini calculator: попадает ли контракт под КС 2026 */
+/* mini calculator: попадает ли контракт под казначейское сопровождение 2026 */
 (function(){
   var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');
   if(!type||!sum||!out)return;

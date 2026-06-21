@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Расторжение контракта при КС: счёт и остатки | КазнаЭксперт</title>
+<title>Расторжение контракта при казначейском сопровождении: счёт и остатки | КазнаЭксперт</title>
 <meta name="description" content="Что с лицевым счётом 71 и авансом при расторжении контракта под казначейским сопровождением: как вернуть остаток целевых средств и закрыть счёт по ст. 95 № 44-ФЗ.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -29,7 +29,7 @@
 {"@context": "https://schema.org", "@type": "Article", "headline": "Расторжение контракта при казначейском сопровождении: счёт, остатки, последствия", "description": "Что происходит с лицевым счётом 71 и неиспользованным авансом при расторжении контракта под казначейским сопровождением: как вернуть остаток целевых средств и закрыть счёт по ст. 95 Закона № 44-ФЗ.", "inLanguage": "ru-RU", "datePublished": "2026-06-14", "dateModified": "2026-06-14", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/rastorzhenie-kontrakta-pri-kaznacheyskom-soprovozhdenii/"}}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Расторжение контракта при КС", "item": "https://kaznaexpert.ru/baza-znaniy/rastorzhenie-kontrakta-pri-kaznacheyskom-soprovozhdenii/"}]}
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Расторжение контракта при казначейском сопровождении", "item": "https://kaznaexpert.ru/baza-znaniy/rastorzhenie-kontrakta-pri-kaznacheyskom-soprovozhdenii/"}]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
@@ -46,7 +46,7 @@
 ]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "HowTo", "name": "Как вернуть аванс и закрыть счёт при расторжении контракта под КС", "inLanguage": "ru-RU", "step": [
+{"@context": "https://schema.org", "@type": "HowTo", "name": "Как вернуть аванс и закрыть счёт при расторжении контракта под казначейское сопровождение", "inLanguage": "ru-RU", "step": [
 {"@type": "HowToStep", "position": 1, "name": "Зафиксировать исполненное", "text": "Подписать с заказчиком акты приёмки фактически выполненной части, чтобы определить отработанную долю аванса."},
 {"@type": "HowToStep", "position": 2, "name": "Закрыть расчёты с соисполнителями", "text": "Провести окончательные платежи и вернуть неотработанные авансы кооперации на головной целевой счёт."},
 {"@type": "HowToStep", "position": 3, "name": "Определить сумму к возврату", "text": "Сформировать выписку на дату расторжения и зафиксировать исходящий остаток целевых средств."},
@@ -55,7 +55,7 @@
 ]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Глоссарий: расторжение контракта под КС", "inLanguage": "ru-RU", "hasDefinedTerm": [
+{"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Глоссарий: расторжение контракта под казначейское сопровождение", "inLanguage": "ru-RU", "hasDefinedTerm": [
 {"@type": "DefinedTerm", "name": "Расторжение контракта", "description": "Досрочное прекращение обязательств по ст. 95 Закона № 44-ФЗ: по соглашению сторон, одностороннему отказу или решению суда."},
 {"@type": "DefinedTerm", "name": "Неотработанный аванс", "description": "Часть перечисленного аванса, под которую не выполнены и не приняты работы; подлежит возврату источнику."},
 {"@type": "DefinedTerm", "name": "Односторонний отказ", "description": "Прекращение контракта по инициативе одной стороны при наличии оснований и соответствующего условия в контракте."},
@@ -540,12 +540,12 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         </header>
 
 <div class="layout">
-  <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/baza-znaniy/">База знаний</a> › Расторжение контракта при КС</nav>
+  <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/baza-znaniy/">База знаний</a> › Расторжение контракта при казначейском сопровождении</nav>
 
   <aside class="toc" aria-label="Содержание">
     <div class="toc__label">Содержание</div>
     <ul class="toc__list" id="tocList">
-      <li><a href="#chto-takoe">Что значит расторгнуть контракт под КС</a></li>
+      <li><a href="#chto-takoe">Что значит расторгнуть контракт под казначейское сопровождение</a></li>
       <li><a href="#osnovaniya">Основания расторжения по 44-ФЗ</a></li>
       <li><a href="#pravovaya">Правовая база</a></li>
       <li><a href="#schet-ostatok">Что происходит со счётом и остатком</a></li>
@@ -582,7 +582,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <details class="mtoc"><summary>Содержание статьи</summary>
       <ol>
-        <li><a href="#chto-takoe">Что значит расторгнуть контракт под КС</a></li><li><a href="#osnovaniya">Основания расторжения по 44-ФЗ</a></li><li><a href="#pravovaya">Правовая база</a></li><li><a href="#schet-ostatok">Что происходит со счётом и остатком</a></li><li><a href="#vozvrat">Возврат аванса и остатка: пошагово</a></li><li><a href="#odnostoronnee">Одностороннее расторжение заказчиком</a></li><li><a href="#soglashenie">Расторжение по соглашению сторон</a></li><li><a href="#soispolniteli">Соисполнители и незакрытые авансы</a></li><li><a href="#obespechenie">Что с обеспечением и КОО</a></li><li><a href="#raznica">Расторжение и завершение при исполнении</a></li><li><a href="#sudebnoe">Судебное расторжение и заморозка счёта</a></li><li><a href="#sroki">Сроки возврата и просрочка</a></li><li><a href="#oshibki">Частые ошибки при расторжении</a></li><li><a href="#keys">Пример из практики</a></li><li><a href="#glossary">Глоссарий</a></li><li><a href="#faq">Частые вопросы</a></li>
+        <li><a href="#chto-takoe">Что значит расторгнуть контракт под казначейское сопровождение</a></li><li><a href="#osnovaniya">Основания расторжения по 44-ФЗ</a></li><li><a href="#pravovaya">Правовая база</a></li><li><a href="#schet-ostatok">Что происходит со счётом и остатком</a></li><li><a href="#vozvrat">Возврат аванса и остатка: пошагово</a></li><li><a href="#odnostoronnee">Одностороннее расторжение заказчиком</a></li><li><a href="#soglashenie">Расторжение по соглашению сторон</a></li><li><a href="#soispolniteli">Соисполнители и незакрытые авансы</a></li><li><a href="#obespechenie">Что с обеспечением и КОО</a></li><li><a href="#raznica">Расторжение и завершение при исполнении</a></li><li><a href="#sudebnoe">Судебное расторжение и заморозка счёта</a></li><li><a href="#sroki">Сроки возврата и просрочка</a></li><li><a href="#oshibki">Частые ошибки при расторжении</a></li><li><a href="#keys">Пример из практики</a></li><li><a href="#glossary">Глоссарий</a></li><li><a href="#faq">Частые вопросы</a></li>
       </ol>
     </details>
 
@@ -600,7 +600,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       </div>
     </section>
 
-    <h2 id="chto-takoe">Что значит расторгнуть контракт под КС</h2>
+    <h2 id="chto-takoe">Что значит расторгнуть контракт под казначейское сопровождение</h2>
     <div class="answer reveal">
       <p class="lead-p">Расторжение контракта под казначейским сопровождением — это досрочное прекращение обязательств, при котором одновременно нужно закрыть финансовый контур: вернуть неотработанный аванс и неиспользованный остаток целевых средств источнику, отозвать или провести зависшие распоряжения и закрыть <a href="/baza-znaniy/licevoy-schet-71-kak-otkryt/">лицевой счёт 71</a>. Сам факт расторжения регулирует статья 95 Закона № 44-ФЗ, а судьбу денег на счёте — глава 24.4 Бюджетного кодекса и Правила казначейского сопровождения текущего года.<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a></p>
       <p>Ключевое отличие от обычного контракта в том, что деньги уже находятся под контролем казначейства. Перечисленный аванс лежит не на расчётном счёте исполнителя, а на целевом лицевом счёте в ТОФК, и распорядиться им произвольно нельзя. Поэтому при расторжении нельзя просто «разойтись»: пока остаток целевых средств не возвращён, а счёт не закрыт, контракт в казначейском контуре считается незавершённым, и это тянет за собой претензии заказчика, риски по обеспечению и блокировку расчётов.</p>
@@ -622,7 +622,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <tr><td>Закон № 44-ФЗ, ст. 95</td><td>Основания и порядок расторжения: соглашение сторон, односторонний отказ, решение суда; последствия для поставщика</td></tr>
       <tr><td>БК РФ, глава 24.4 (ст. 242.23–242.27)</td><td>Режим целевых средств на лицевом счёте, возврат неиспользованного остатка источнику</td></tr>
       <tr><td>Закон № 426-ФЗ от 28.11.2025 (ст. 5)</td><td>Перечень целевых средств, подлежащих казначейскому сопровождению в 2026 году</td></tr>
-      <tr><td>Правила КС на 2026 год (ПП РФ № 1752 от 11.12.2024, ред. от 17.12.2025)</td><td>Порядок операций и возврата средств в текущем году</td></tr>
+      <tr><td>Правила казначейского сопровождения на 2026 год (ПП РФ № 1752 от 11.12.2024, ред. от 17.12.2025)</td><td>Порядок операций и возврата средств в текущем году</td></tr>
       <tr><td>Приказ Казначейства № 21н от 17.10.2016 (ред. от 26.11.2025)</td><td>Закрытие лицевого счёта: основания, заявление, условия</td></tr>
       <tr><td>КоАП РФ, ст. 15.14</td><td>Ответственность за нецелевое использование средств — отдельный риск при расторжении из-за нарушений</td></tr>
     </table>
@@ -722,7 +722,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
-        <li>Расторжение под КС запускает обратный контур: возврат неотработанного аванса и остатка целевых средств, закрытие лицевого счёта 71.</li>
+        <li>Расторжение под казначейское сопровождение запускает обратный контур: возврат неотработанного аванса и остатка целевых средств, закрытие лицевого счёта 71.</li>
         <li>Основания и порядок расторжения задаёт статья 95 Закона № 44-ФЗ; судьбу денег — глава 24.4 Бюджетного кодекса.</li>
         <li>Возврату подлежит неотработанный аванс и неизрасходованный целевой остаток, а не оплата за принятую часть и прибыль.</li>
         <li>Сумму к возврату определяют по исходящему остатку выписки после закрытия расчётов с соисполнителями.</li>
@@ -861,10 +861,10 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <span class="kz-sub__eyebrow">Гайд · PDF</span>
       <h2 class="kz-sub__title" id="kzSubTitle">Календарь дедлайнов по казначейскому сопровождению 2026</h2>
       <ul class="kz-sub__list">
-        <li>Реквизиты платежей при КС: ИГК, назначение платежа, сроки</li>
+        <li>Реквизиты платежей при казначейском сопровождении: ИГК, назначение платежа, сроки</li>
         <li>Дедлайн принятия бюджетных обязательств и график конца года</li>
         <li>Штрафы КоАП с 01.01.2026 и сроки утверждения сведений</li>
-        <li>Раз в месяц — короткий разбор изменений в законодательстве по КС</li>
+        <li>Раз в месяц — короткий разбор изменений в законодательстве по казначейскому сопровождению</li>
       </ul>
     </div>
     <form class="kz-sub__form" id="kzSubForm" novalidate data-endpoint="/php/subscribe.php">
@@ -1116,7 +1116,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   if(c)c.addEventListener('click',function(){try{navigator.clipboard&&navigator.clipboard.writeText(location.href);}catch(e){}var s=c.querySelector('span');if(s){var o=s.textContent;s.textContent='Скопировано ✓';setTimeout(function(){s.textContent=o;},1500);}});
   if(p)p.addEventListener('click',function(){window.print();});
 })();
-/* mini calculator: попадает ли контракт под КС 2026 */
+/* mini calculator: попадает ли контракт под казначейское сопровождение 2026 */
 (function(){
   var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');
   if(!type||!sum||!out)return;

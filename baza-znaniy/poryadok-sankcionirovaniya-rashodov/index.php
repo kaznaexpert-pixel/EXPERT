@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Санкционирование расходов при КС в 2026: порядок | КазнаЭксперт</title>
+<title>Санкционирование расходов при казначейском сопровождении в 2026: порядок | КазнаЭксперт</title>
 <meta name="description" content="Санкционирование расходов при казначейском сопровождении: как ТОФК проверяет операции, ст. 242.23 БК РФ, сведения об операциях, основания отказа, сроки, расширенное.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -743,10 +743,10 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/"><!-- auto-related:avans-pri-kaznacheyskom-soprovozhdenii --><div class="card__cover"><span>База знаний</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Аванс при казначейском сопровождении в 2026</h3><div class="card__meta">Аванс · 12 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz/"><!-- auto-related:perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz --><div class="card__cover"><span>База знаний</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Перевод ориентировочной цены в фиксированную по ГОЗ</h3><div class="card__meta">Гособоронзаказ · 13 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>10 причин</span></div><div class="card__body"><span class="card__cat">Чек-лист</span><h3 class="card__title">10 причин отказа казначейства в санкционировании</h3><div class="card__meta">Санкционирование · 11 мин</div></div></a>
-    <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/"><div class="card__cover"><span>КС ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение ГОЗ по 275-ФЗ</h3><div class="card__meta">Гособоронзаказ · 17 мин</div></div></a>
+    <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/"><div class="card__cover"><span>казначейское сопровождение ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение ГОЗ по 275-ФЗ</h3><div class="card__meta">Гособоронзаказ · 17 мин</div></div></a>
     <a class="card reveal" href="/uslugi/soprovozhdenie-postoplata/"><div class="card__cover"><span>Под ключ</span></div><div class="card__body"><span class="card__cat">Услуга</span><h3 class="card__title">Сопровождение постоплаты без возвратов</h3><div class="card__meta">Услуга · от 59 000 ₽</div></div></a>
-    <!-- auto-related:poryadok-kaznacheyskogo-soprovozhdeniya-sredstv --><a class="card reveal" href="/baza-znaniy/poryadok-kaznacheyskogo-soprovozhdeniya-sredstv/"><div class="card__cover"><span>Порядок КС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Порядок казначейского сопровождения средств</h3><div class="card__meta">Основы · 16 мин</div></div></a>
-    <!-- auto-related:kaznacheyskoe-soprovozhdenie-avansovyh-platezhey --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-avansovyh-platezhey/"><div class="card__cover"><span>Авансы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение авансовых платежей</h3><div class="card__meta">КС · 16 мин</div></div></a>
+    <!-- auto-related:poryadok-kaznacheyskogo-soprovozhdeniya-sredstv --><a class="card reveal" href="/baza-znaniy/poryadok-kaznacheyskogo-soprovozhdeniya-sredstv/"><div class="card__cover"><span>Порядок казначейского сопровождения</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Порядок казначейского сопровождения средств</h3><div class="card__meta">Основы · 16 мин</div></div></a>
+    <!-- auto-related:kaznacheyskoe-soprovozhdenie-avansovyh-platezhey --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-avansovyh-platezhey/"><div class="card__cover"><span>Авансы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение авансовых платежей</h3><div class="card__meta">казначейское сопровождение · 16 мин</div></div></a>
   </div>
 </section>
 
@@ -1084,7 +1084,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   if(c)c.addEventListener('click',function(){try{navigator.clipboard&&navigator.clipboard.writeText(location.href);}catch(e){}var s=c.querySelector('span');if(s){var o=s.textContent;s.textContent='Скопировано ✓';setTimeout(function(){s.textContent=o;},1500);}});
   if(p)p.addEventListener('click',function(){window.print();});
 })();
-/* mini calculator: попадает ли контракт под КС 2026 */
+/* mini calculator: попадает ли контракт под казначейское сопровождение 2026 */
 (function(){
   var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');
   if(!type||!sum||!out)return;

@@ -29,7 +29,7 @@
 {"@context": "https://schema.org", "@type": "Article", "headline": "Кто попадает под казначейское сопровождение в 2026 году: пороги, случаи и контракты", "description": "Кто попадает под казначейское сопровождение в 2026: пороги 100 / 10 / 3 млн ₽, какие контракты, авансы, субсидии и ГОЗ по статье 5 Закона № 426-ФЗ.", "datePublished": "2026-06-07T09:08:00+03:00", "dateModified": "2026-06-07T09:08:00+03:00", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/"}, "image": "https://kaznaexpert.ru/img/og-image.png"}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Кто попадает под КС"}]}
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Кто попадает под казначейское сопровождение"}]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Кто попадает под казначейское сопровождение в 2026 году?", "acceptedAnswer": {"@type": "Answer", "text": "Целевые средства из бюджета: авансы по госконтрактам от 100 млн ₽ (кроме ГОЗ), расчёты по ГОЗ и закупкам у единственного поставщика свыше 3 млн ₽, авансы соисполнителей свыше 3 млн ₽, субсидии и бюджетные инвестиции юрлицам. Перечень — в статье 5 Закона № 426-ФЗ."}}, {"@type": "Question", "name": "От какой суммы казначейское сопровождение в 2026 году?", "acceptedAnswer": {"@type": "Answer", "text": "Базовый порог для авансов по обычным госконтрактам — 100 млн ₽. Для ГОЗ, закупок у единственного поставщика и расчётов соисполнителей — свыше 3 млн ₽. Для контрактов бюджетных и автономных учреждений за счёт субсидий — от 10 млн ₽."}}, {"@type": "Question", "name": "Где закреплён перечень случаев казначейского сопровождения?", "acceptedAnswer": {"@type": "Answer", "text": "В законе о федеральном бюджете на текущий год. На 2026 год это статья 5 Федерального закона от 28.11.2025 № 426-ФЗ. Базовые правила — в главе 24.4 Бюджетного кодекса (ст. 242.23–242.27)."}}, {"@type": "Question", "name": "Сопровождаются ли субсидии и бюджетные инвестиции?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Субсидии юрлицам (кроме субсидий федеральным учреждениям), бюджетные инвестиции по статье 80 БК и гранты в форме субсидий подлежат сопровождению без порога по сумме — по факту получения целевых средств."}}, {"@type": "Question", "name": "Что изменилось в перечне в 2026 году?", "acceptedAnswer": {"@type": "Answer", "text": "Перечень стал шире. В частности, порог для контрактов бюджетных и автономных учреждений субъекта снижен с 50 до 10 млн ₽, прямо включены субсидии по концессиям и ГЧП, расширен охват бюджетных кредитов регионам."}}, {"@type": "Question", "name": "Кто не попадает под сопровождение?", "acceptedAnswer": {"@type": "Answer", "text": "Контракты ниже порога, а также средства, исключённые статьёй 242.27 БК и частью 4 статьи 5 Закона № 426-ФЗ — организациям кинематографии, региональным и муниципальным СМИ, политическим партиям. В ряде случаев применяется банковское сопровождение вместо казначейского."}}, {"@type": "Question", "name": "Сумма порога считается от цены контракта или от платежа?", "acceptedAnswer": {"@type": "Answer", "text": "От цены контракта. Например, аванс попадает под сопровождение, если цена госконтракта достигает 100 млн ₽, независимо от размера самого авансового платежа."}}, {"@type": "Question", "name": "Кто ведёт казначейское сопровождение?", "acceptedAnswer": {"@type": "Answer", "text": "Территориальный орган Федерального казначейства (ТОФК) по месту открытия лицевого счёта. Для региональных и местных средств сопровождение может вести финансовый орган субъекта или муниципалитета."}}]}
@@ -509,7 +509,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         </header>
 
 <div class="layout">
-  <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/baza-znaniy/">База знаний</a> › Кто попадает под КС</nav>
+  <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/baza-znaniy/">База знаний</a> › Кто попадает под казначейское сопровождение</nav>
 
   <aside class="toc" aria-label="Содержание">
     <div class="toc__label">Содержание</div>
@@ -544,7 +544,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <h2>Коротко о главном</h2>
       <div class="keyfacts__grid">
         <div class="kf"><div class="kf__n">426-ФЗ</div><div class="kf__t"><b>Где смотреть</b> — статья 5 Закона о федеральном бюджете на 2026 год</div></div>
-        <div class="kf"><div class="kf__n">100 млн</div><div class="kf__t"><b>Аванс</b> по госконтракту (кроме ГОЗ) — от 100 млн ₽ подлежит КС</div></div>
+        <div class="kf"><div class="kf__n">100 млн</div><div class="kf__t"><b>Аванс</b> по госконтракту (кроме ГОЗ) — от 100 млн ₽ подлежит казначейскому сопровождению</div></div>
         <div class="kf"><div class="kf__n">3 млн</div><div class="kf__t"><b>ГОЗ и соисполнители</b> — расчёты и авансы свыше 3 млн ₽</div></div>
         <div class="kf"><div class="kf__n">ТОФК</div><div class="kf__t"><b>Кто ведёт</b> — территориальный орган Федерального казначейства</div></div>
       </div>
@@ -594,9 +594,9 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
           r_goz:['Да, контракт под сопровождением','Расчёты по ГОЗ свыше 3 млн ₽ проходят через лицевой счёт в ТОФК либо отдельный счёт в уполномоченном банке — режим определяет госзаказчик. Начните с разбора <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/">казначейского сопровождения ГОЗ</a>.'],
           r_goz_no:['Скорее нет, но проверьте контракт','Для ГОЗ ниже 3 млн ₽ сопровождение обычно не применяется, однако условие может быть прямо включено в контракт. Сверьтесь с разделом о порядке расчётов.'],
           r_subs:['Да, без порога по сумме','Субсидии и бюджетные инвестиции юрлицам сопровождаются независимо от суммы. Разбор — в статье о <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-subsidiy/">казначейском сопровождении субсидий</a>.'],
-          r_ep:['Да, контракт под сопровождением','Закупки у единственного поставщика свыше 3 млн ₽ — классический случай КС. Следующий шаг — <a href="/baza-znaniy/svodnyy-reestr/">сводный реестр</a> и <a href="/baza-znaniy/licevoy-schet-71-kak-otkryt/">лицевой счёт 71</a>.'],
+          r_ep:['Да, контракт под сопровождением','Закупки у единственного поставщика свыше 3 млн ₽ — классический случай казначейского сопровождения. Следующий шаг — <a href="/baza-znaniy/svodnyy-reestr/">сводный реестр</a> и <a href="/baza-znaniy/licevoy-schet-71-kak-otkryt/">лицевой счёт 71</a>.'],
           r_av100:['Да, аванс под сопровождением','Авансы по госконтрактам от 100 млн ₽ зачисляются на лицевой счёт в ТОФК. Как устроена работа — в статье об <a href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/">авансе при казначейском сопровождении</a>.'],
-          r_av10:['Да, аванс под сопровождением','Для контрактов федеральных бюджетных и автономных учреждений за счёт субсидий порог по авансу — 10 млн ₽. Подробности — в статье об <a href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/">авансе при КС</a>.'],
+          r_av10:['Да, аванс под сопровождением','Для контрактов федеральных бюджетных и автономных учреждений за счёт субсидий порог по авансу — 10 млн ₽. Подробности — в статье об <a href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/">авансе при казначейском сопровождении</a>.'],
           r_av3:['Да, ваш аванс под сопровождением','Авансы исполнителей и соисполнителей свыше 3 млн ₽ по сопровождаемым контрактам также проходят через лицевой счёт. Откройте его заранее: <a href="/baza-znaniy/licevoy-schet-71-kak-otkryt/">как открыть счёт 71</a>.'],
           r_no:['Скорее не попадает','По типовым федеральным основаниям ст. 5 № 426-ФЗ ваш случай под сопровождение не подпадает. Проверьте раздел контракта о порядке расчётов и региональные акты — и сохраните <a href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/#quiz">этот тест</a> для следующих закупок.']
         };
@@ -646,12 +646,12 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>Это важная развилка: ссылаться нужно именно на закон текущего года. Перечень 2025 года (Закон № 419-ФЗ) и перечень 2026 года (Закон № 426-ФЗ) отличаются — и по составу случаев, и по порогам.</p>
     </div>
 
-    <h2 id="perechen">Полный перечень случаев КС в 2026 году</h2>
+    <h2 id="perechen">Полный перечень случаев казначейского сопровождения в 2026 году</h2>
     <div class="answer reveal">
       <p>Часть 2 статьи 5 Закона № 426-ФЗ перечисляет целевые средства, которые сопровождает Федеральное казначейство, когда источник — федеральный бюджет. Свёл их в таблицу с порогами.</p>
       <table>
         <caption>Средства, подлежащие казначейскому сопровождению из федерального бюджета в 2026 году (ст. 5 ч. 2 Закона № 426-ФЗ)</caption>
-        <thead><tr><th>Что попадает под КС</th><th>Порог суммы</th></tr></thead>
+        <thead><tr><th>Что попадает под казначейское сопровождение</th><th>Порог суммы</th></tr></thead>
         <tbody>
           <tr><td>Субсидии юрлицам (кроме субсидий федеральным бюджетным и автономным учреждениям), в т.ч. по концессиям и ГЧП; бюджетные инвестиции юрлицам (ст. 80 БК)</td><td>без порога по сумме</td></tr>
           <tr><td>Гранты в форме субсидий бюджетным и автономным учреждениям (п. 4 ст. 78.1 БК)</td><td>без порога по сумме</td></tr>
@@ -706,7 +706,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <div class="answer reveal">
       <p>Переход от Закона № 419-ФЗ (2025) к Закону № 426-ФЗ (2026) сделал перечень шире. Ключевые сдвиги:</p>
       <table>
-        <caption>Отличия перечня КС: 2025 → 2026</caption>
+        <caption>Отличия перечня казначейского сопровождения: 2025 → 2026</caption>
         <thead><tr><th>Параметр</th><th>2025 (419-ФЗ)</th><th>2026 (426-ФЗ)</th></tr></thead>
         <tbody>
           <tr><td>Контракты бюджетных и автономных учреждений субъекта</td><td>порог 50 млн ₽</td><td>порог снижен до 10 млн ₽</td></tr>
@@ -764,7 +764,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>Отдельная история — <b>смешанное финансирование</b>, когда контракт оплачивается из нескольких источников: часть обычными средствами заказчика, часть — целевой субсидией или трансфертом. Под сопровождение попадает только «целевая» доля: для неё открывают лицевой счёт и проводят платежи под санкционирование, остальное движется обычным порядком. Разделение источников фиксируют в контракте и в сведениях об операциях, чтобы не получать отказы из-за «чужих» расходов на целевом счёте.</p>
     </div>
 
-    <h2 id="zabluzhdeniya">Частые заблуждения о попадании под КС</h2>
+    <h2 id="zabluzhdeniya">Частые заблуждения о попадании под казначейское сопровождение</h2>
     <div class="answer reveal">
       <p>Большинство ошибок на старте — из-за устойчивых мифов. Самые частые:</p>
       <ul>
@@ -777,7 +777,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       </ul>
     </div>
 
-    <h2 id="checklist">Чек-лист: проверка контракта на попадание под КС</h2>
+    <h2 id="checklist">Чек-лист: проверка контракта на попадание под казначейское сопровождение</h2>
     <div class="answer reveal">
       <p>Короткий чек-лист, чтобы не пропустить сопровождение и не сорвать старт исполнения:</p>
       <ul>
@@ -819,7 +819,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-po-223-fz">Отдельный случай — закупки по 223-ФЗ: здесь сопровождение зависит не от закона, а от целевого характера денег, что подробно разобрано в материалах о <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-223-fz/">казначейском сопровождении по 223-ФЗ</a> и о том, как сформулировано <a href="/baza-znaniy/uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte/">условие о казначейском сопровождении в контракте</a>.</p>
     <p data-ctx="auto-ctx:obespechenie-ispolneniya-kontrakta-pri-ks">Сопровождение влияет и на обеспечение контракта: если расчёты подлежат казначейскому сопровождению, заказчик вправе не требовать обеспечение, а при сопровождаемом авансе его размер уменьшают. Подробно — в материале об <a href="/baza-znaniy/obespechenie-ispolneniya-kontrakta-pri-ks/">обеспечении исполнения контракта при казначейском сопровождении</a>.</p>
     <p data-ctx="auto-ctx:celevaya-subsidiya-yuridicheskomu-licu">Под сопровождение попадают не только контракты, но и субсидии юридическим лицам. Что такое целевая субсидия, какие у неё виды и когда она идёт через лицевой счёт, разбираем в статье о <a href="/baza-znaniy/celevaya-subsidiya-yuridicheskomu-licu/">целевой субсидии юридическому лицу</a>.</p>
-    <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-municipalnyh-kontraktov">Отдельная история — муниципальные контракты: для них случаи КС определяет не федеральный закон, а муниципальный акт о местном бюджете. Подробно об этом — в статье о <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-municipalnyh-kontraktov/">казначейском сопровождении муниципальных контрактов</a>.</p>
+    <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-municipalnyh-kontraktov">Отдельная история — муниципальные контракты: для них случаи казначейского сопровождения определяет не федеральный закон, а муниципальный акт о местном бюджете. Подробно об этом — в статье о <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-municipalnyh-kontraktov/">казначейском сопровождении муниципальных контрактов</a>.</p>
+    <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-po-44-fz">Как применяется и исполняется контракт именно по 44-ФЗ — отдельно разобрано в материале <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-44-fz/">казначейское сопровождение по 44-ФЗ</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div>
@@ -840,7 +841,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   <aside class="rail">
     <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="kto-popadaet-pod-kaznacheyskoe-soprovozhdenie">
       <div class="railform__badge">Проверим ваш контракт</div>
-      <h3 class="railform__title">Попадает ли ваш контракт под КС</h3>
+      <h3 class="railform__title">Попадает ли ваш контракт под казначейское сопровождение</h3>
       <p class="railform__sub">Сверим контракт с перечнем Закона № 426-ФЗ, определим порог и поможем открыть счёт. Разбор контракта.</p>
       <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
       <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
@@ -871,9 +872,10 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:kaznacheyskoe-soprovozhdenie-subsidiy --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-subsidiy/"><div class="card__cover"><span>Субсидии</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение субсидий</h3><div class="card__meta">Субсидии · 14 мин</div></div></a>
     <!-- auto-related:kaznacheyskoe-soprovozhdenie-po-223-fz --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-223-fz/"><div class="card__cover"><span>223-ФЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение по 223-ФЗ</h3><div class="card__meta">Сопровождение · 16 мин</div></div></a>
     <!-- auto-related:uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte --><a class="card reveal" href="/baza-znaniy/uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte/"><div class="card__cover"><span>Условие</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Условие о казначейском сопровождении в контракте</h3><div class="card__meta">Сопровождение · 15 мин</div></div></a>
-    <!-- auto-related:obespechenie-ispolneniya-kontrakta-pri-ks --><a class="card reveal" href="/baza-znaniy/obespechenie-ispolneniya-kontrakta-pri-ks/"><div class="card__cover"><span>Обеспечение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Обеспечение исполнения контракта при КС</h3><div class="card__meta">Сопровождение · 17 мин</div></div></a>
+    <!-- auto-related:obespechenie-ispolneniya-kontrakta-pri-ks --><a class="card reveal" href="/baza-znaniy/obespechenie-ispolneniya-kontrakta-pri-ks/"><div class="card__cover"><span>Обеспечение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Обеспечение исполнения контракта при казначейском сопровождении</h3><div class="card__meta">Сопровождение · 17 мин</div></div></a>
     <!-- auto-related:celevaya-subsidiya-yuridicheskomu-licu --><a class="card reveal" href="/baza-znaniy/celevaya-subsidiya-yuridicheskomu-licu/"><div class="card__cover"><span>Субсидия</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Целевая субсидия юридическому лицу</h3><div class="card__meta">Сопровождение · 17 мин</div></div></a>
-    <!-- auto-related:kaznacheyskoe-soprovozhdenie-municipalnyh-kontraktov --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-municipalnyh-kontraktov/"><div class="card__cover"><span>Муниципалитет</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение муниципальных контрактов</h3><div class="card__meta">КС · 16 мин</div></div></a>
+    <!-- auto-related:kaznacheyskoe-soprovozhdenie-municipalnyh-kontraktov --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-municipalnyh-kontraktov/"><div class="card__cover"><span>Муниципалитет</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение муниципальных контрактов</h3><div class="card__meta">казначейское сопровождение · 16 мин</div></div></a>
+    <!-- auto-related:kaznacheyskoe-soprovozhdenie-po-44-fz --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-44-fz/"><div class="card__cover"><span>44-ФЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение по 44-ФЗ в 2026</h3><div class="card__meta">Сопровождение · 18 мин</div></div></a>
   </div>
 </section>
 
@@ -1210,7 +1212,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   if(c)c.addEventListener('click',function(){try{navigator.clipboard&&navigator.clipboard.writeText(location.href);}catch(e){}var s=c.querySelector('span');if(s){var o=s.textContent;s.textContent='Скопировано ✓';setTimeout(function(){s.textContent=o;},1500);}});
   if(p)p.addEventListener('click',function(){window.print();});
 })();
-/* mini calculator: попадает ли контракт под КС 2026 */
+/* mini calculator: попадает ли контракт под казначейское сопровождение 2026 */
 (function(){
   var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');
   if(!type||!sum||!out)return;

@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Обеспечение контракта при КС: размер и гарантия | КазнаЭксперт</title>
+<title>Обеспечение контракта при казначейском сопровождении: размер и гарантия | КазнаЭксперт</title>
 <meta name="description" content="Обеспечение исполнения контракта при казначейском сопровождении: когда заказчик вправе его не требовать, размер по ст. 96 44-ФЗ, гарантия и возврат.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -29,7 +29,7 @@
 {"@context": "https://schema.org", "@type": "Article", "headline": "Обеспечение исполнения контракта при казначейском сопровождении", "description": "Обеспечение исполнения контракта при казначейском сопровождении: когда заказчик вправе его не требовать, размер по ст. 96 44-ФЗ, гарантия и возврат.", "inLanguage": "ru-RU", "datePublished": "2026-06-17", "dateModified": "2026-06-17", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/obespechenie-ispolneniya-kontrakta-pri-ks/"}}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Обеспечение контракта при КС", "item": "https://kaznaexpert.ru/baza-znaniy/obespechenie-ispolneniya-kontrakta-pri-ks/"}]}
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Обеспечение контракта при казначейском сопровождении", "item": "https://kaznaexpert.ru/baza-znaniy/obespechenie-ispolneniya-kontrakta-pri-ks/"}]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Нужно ли обеспечение, если контракт под казначейским сопровождением?", "acceptedAnswer": {"@type": "Answer", "text": "Не обязательно. Если расчёты по контракту подлежат казначейскому сопровождению, заказчик вправе не устанавливать требование об обеспечении. Но это его право, а не обязанность — нужно смотреть документацию закупки."}}, {"@type": "Question", "name": "Как казначейское сопровождение уменьшает размер обеспечения?", "acceptedAnswer": {"@type": "Answer", "text": "Если аванс по контракту подлежит сопровождению, размер обеспечения считают от цены контракта, уменьшенной на сумму такого аванса. Сопровождаемый аванс уже защищён режимом лицевого счёта, поэтому страховать его повторно не нужно."}}, {"@type": "Question", "name": "Какой размер обеспечения по статье 96?", "acceptedAnswer": {"@type": "Answer", "text": "Базовый диапазон — от 0,5% до 30% начальной (максимальной) цены контракта. Если предусмотрен аванс, обеспечение не меньше размера аванса; при снижении цены на 25% и более действует полуторный размер по антидемпингу."}}, {"@type": "Question", "name": "Чем независимая гарантия отличается от денежного обеспечения?", "acceptedAnswer": {"@type": "Answer", "text": "Независимую гарантию выдаёт банк или иная организация из перечня, поставщик платит комиссию и не выводит оборотные средства. Денежное обеспечение поставщик вносит сам и замораживает на весь срок, зато его проще оформить."}}, {"@type": "Question", "name": "Какой срок действия независимой гарантии нужен?", "acceptedAnswer": {"@type": "Answer", "text": "Срок гарантии должен превышать срок исполнения обязательств по контракту не менее чем на один месяц. Если срок меньше, заказчик отклонит обеспечение."}}, {"@type": "Question", "name": "Является ли обеспечение целевыми средствами?", "acceptedAnswer": {"@type": "Answer", "text": "Нет. Обеспечение поставщик вносит из собственных средств на счёт заказчика, оно не попадает на лицевой счёт казначейского сопровождения и не относится к целевым деньгам контракта."}}, {"@type": "Question", "name": "Когда возвращают денежное обеспечение?", "acceptedAnswer": {"@type": "Answer", "text": "После исполнения контракта в срок, установленный контрактом, — не более 30 дней с даты исполнения, а для малого бизнеса и СОНКО — не более 15 дней."}}, {"@type": "Question", "name": "Нужно ли санкционировать возврат обеспечения в казначействе?", "acceptedAnswer": {"@type": "Answer", "text": "Нет. Возврат обеспечения — это возврат собственных средств поставщика заказчиком, он не проходит как расход целевых средств и не требует санкционирования казначейством."}}, {"@type": "Question", "name": "Что такое обеспечение гарантийных обязательств?", "acceptedAnswer": {"@type": "Answer", "text": "Это отдельное обеспечение на период гарантии качества товара или работ, его размер не превышает 10% начальной цены контракта. Предоставляется теми же способами и возвращается после гарантийного срока."}}]}
@@ -38,7 +38,7 @@
 {"@context": "https://schema.org", "@type": "HowTo", "name": "Как определить обеспечение по контракту с казначейским сопровождением", "inLanguage": "ru-RU", "step": [{"@type": "HowToStep", "position": 1, "name": "Прочитать документацию", "text": "Найти в извещении и проекте контракта условие об обеспечении и о казначейском сопровождении."}, {"@type": "HowToStep", "position": 2, "name": "Проверить освобождение", "text": "Установить, не отказался ли заказчик от обеспечения в связи с сопровождением расчётов."}, {"@type": "HowToStep", "position": 3, "name": "Определить базу и размер", "text": "Взять процент от НМЦК и при необходимости учесть аванс и антидемпинг."}, {"@type": "HowToStep", "position": 4, "name": "Учесть сопровождаемый аванс", "text": "Если аванс под сопровождением — уменьшить базу обеспечения на его сумму."}, {"@type": "HowToStep", "position": 5, "name": "Выбрать форму", "text": "Сравнить стоимость независимой гарантии и заморозки денег и выбрать выгодный вариант."}, {"@type": "HowToStep", "position": 6, "name": "Оформить и проверить", "text": "Получить гарантию с нужным сроком и убедиться, что она в реестре, либо внести деньги на счёт заказчика."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Глоссарий: обеспечение исполнения контракта при КС", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Обеспечение исполнения контракта (ОИК)", "description": "Гарантия исполнения обязательств поставщика по контракту в форме независимой гарантии или денег, вносимых на счёт заказчика."}, {"@type": "DefinedTerm", "name": "Независимая гарантия", "description": "Безотзывное письменное обязательство банка или иной организации выплатить заказчику сумму при нарушении контракта поставщиком."}, {"@type": "DefinedTerm", "name": "НМЦК", "description": "Начальная (максимальная) цена контракта — база для расчёта размера обеспечения."}, {"@type": "DefinedTerm", "name": "Сопровождаемый аванс", "description": "Аванс, расчёты по которому подлежат казначейскому сопровождению и который тратится через лицевой счёт в ТОФК."}, {"@type": "DefinedTerm", "name": "Антидемпинговые меры", "description": "Повышенные требования к обеспечению при снижении цены контракта на 25% и более (ст. 37 Закона № 44-ФЗ)."}, {"@type": "DefinedTerm", "name": "Обеспечение гарантийных обязательств", "description": "Отдельное обеспечение на период гарантии качества — до 10% начальной цены контракта."}]}
+{"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Глоссарий: обеспечение исполнения контракта при казначейском сопровождении", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Обеспечение исполнения контракта (ОИК)", "description": "Гарантия исполнения обязательств поставщика по контракту в форме независимой гарантии или денег, вносимых на счёт заказчика."}, {"@type": "DefinedTerm", "name": "Независимая гарантия", "description": "Безотзывное письменное обязательство банка или иной организации выплатить заказчику сумму при нарушении контракта поставщиком."}, {"@type": "DefinedTerm", "name": "НМЦК", "description": "Начальная (максимальная) цена контракта — база для расчёта размера обеспечения."}, {"@type": "DefinedTerm", "name": "Сопровождаемый аванс", "description": "Аванс, расчёты по которому подлежат казначейскому сопровождению и который тратится через лицевой счёт в ТОФК."}, {"@type": "DefinedTerm", "name": "Антидемпинговые меры", "description": "Повышенные требования к обеспечению при снижении цены контракта на 25% и более (ст. 37 Закона № 44-ФЗ)."}, {"@type": "DefinedTerm", "name": "Обеспечение гарантийных обязательств", "description": "Отдельное обеспечение на период гарантии качества — до 10% начальной цены контракта."}]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
@@ -79,7 +79,7 @@
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
 <meta property="og:title" content="Обеспечение исполнения контракта при казначейском сопровождении">
-<meta property="og:description" content="Как работает обеспечение исполнения контракта при КС: право заказчика не устанавливать обеспечение, размер по статье 96 44-ФЗ, независимая гарантия, уменьшение на сумму сопровождаемого аванса и порядок возврата.">
+<meta property="og:description" content="Как работает обеспечение исполнения контракта при казначейском сопровождении: право заказчика не устанавливать обеспечение, размер по статье 96 44-ФЗ, независимая гарантия, уменьшение на сумму сопровождаемого аванса и порядок возврата.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/obespechenie-ispolneniya-kontrakta-pri-ks/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
@@ -91,7 +91,7 @@
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Обеспечение исполнения контракта при казначейском сопровождении">
-<meta name="twitter:description" content="Как работает обеспечение исполнения контракта при КС: право заказчика не устанавливать обеспечение, размер по статье 96 44-ФЗ, независимая гарантия, уменьшение на сумму сопровождаемого аванса и порядок возврата.">
+<meta name="twitter:description" content="Как работает обеспечение исполнения контракта при казначейском сопровождении: право заказчика не устанавливать обеспечение, размер по статье 96 44-ФЗ, независимая гарантия, уменьшение на сумму сопровождаемого аванса и порядок возврата.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 
@@ -516,7 +516,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         </header>
 
 <div class="layout">
-  <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/baza-znaniy/">База знаний</a> › Обеспечение контракта при КС</nav>
+  <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/baza-znaniy/">База знаний</a> › Обеспечение контракта при казначейском сопровождении</nav>
 
   <aside class="toc" aria-label="Содержание">
     <div class="toc__label">Содержание</div>
@@ -531,7 +531,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <li><a href="#rezhim-deneg">Режим денежного обеспечения и целевые средства</a></li>
       <li><a href="#vozvrat">Возврат обеспечения после исполнения контракта</a></li>
       <li><a href="#garantiynye">Обеспечение гарантийных обязательств</a></li>
-      <li><a href="#howto">Как определить обеспечение по контракту с КС</a></li>
+      <li><a href="#howto">Как определить обеспечение по контракту с казначейским сопровождением</a></li>
       <li><a href="#oshibki">Частые ошибки и как их избежать</a></li>
       <li><a href="#keys">Пример из практики</a></li>
       <li><a href="#glossary">Глоссарий</a></li>
@@ -557,7 +557,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <details class="mtoc"><summary>Содержание статьи</summary>
       <ol>
-        <li><a href="#chto-takoe">Что такое обеспечение исполнения контракта</a></li><li><a href="#ks-i-obespechenie">Как казначейское сопровождение влияет на обеспечение</a></li><li><a href="#kogda-ne-trebuetsya">Когда заказчик вправе не устанавливать обеспечение</a></li><li><a href="#razmer">Размер обеспечения по статье 96</a></li><li><a href="#avans-i-obespechenie">Обеспечение и аванс под казначейским сопровождением</a></li><li><a href="#formy">Формы обеспечения: независимая гарантия или деньги</a></li><li><a href="#nezavisimaya-garantiya">Независимая гарантия: требования и срок</a></li><li><a href="#rezhim-deneg">Режим денежного обеспечения и целевые средства</a></li><li><a href="#vozvrat">Возврат обеспечения после исполнения контракта</a></li><li><a href="#garantiynye">Обеспечение гарантийных обязательств</a></li><li><a href="#howto">Как определить обеспечение по контракту с КС</a></li><li><a href="#oshibki">Частые ошибки и как их избежать</a></li><li><a href="#keys">Пример из практики</a></li><li><a href="#glossary">Глоссарий</a></li><li><a href="#faq">Частые вопросы</a></li>
+        <li><a href="#chto-takoe">Что такое обеспечение исполнения контракта</a></li><li><a href="#ks-i-obespechenie">Как казначейское сопровождение влияет на обеспечение</a></li><li><a href="#kogda-ne-trebuetsya">Когда заказчик вправе не устанавливать обеспечение</a></li><li><a href="#razmer">Размер обеспечения по статье 96</a></li><li><a href="#avans-i-obespechenie">Обеспечение и аванс под казначейским сопровождением</a></li><li><a href="#formy">Формы обеспечения: независимая гарантия или деньги</a></li><li><a href="#nezavisimaya-garantiya">Независимая гарантия: требования и срок</a></li><li><a href="#rezhim-deneg">Режим денежного обеспечения и целевые средства</a></li><li><a href="#vozvrat">Возврат обеспечения после исполнения контракта</a></li><li><a href="#garantiynye">Обеспечение гарантийных обязательств</a></li><li><a href="#howto">Как определить обеспечение по контракту с казначейским сопровождением</a></li><li><a href="#oshibki">Частые ошибки и как их избежать</a></li><li><a href="#keys">Пример из практики</a></li><li><a href="#glossary">Глоссарий</a></li><li><a href="#faq">Частые вопросы</a></li>
       </ol>
     </details>
 
@@ -568,7 +568,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <div class="keyfacts__grid">
         <div class="kf"><div class="kf__n">Ст. 96</div><div class="kf__t"><b>Норма</b> — обеспечение исполнения контракта регулирует статья 96 Закона № 44-ФЗ</div></div>
         <div class="kf"><div class="kf__n">0,5–30%</div><div class="kf__t"><b>Размер</b> — стандартный диапазон обеспечения от начальной цены контракта</div></div>
-        <div class="kf"><div class="kf__n">Право, не обязанность</div><div class="kf__t"><b>При КС</b> — если расчёты под сопровождением, заказчик вправе не требовать обеспечение</div></div>
+        <div class="kf"><div class="kf__n">Право, не обязанность</div><div class="kf__t"><b>При казначейском сопровождении</b> — если расчёты под сопровождением, заказчик вправе не требовать обеспечение</div></div>
         <div class="kf"><div class="kf__n">Минус аванс</div><div class="kf__t"><b>Сопровождаемый аванс</b> — обеспечение уменьшают на сумму аванса под казначейским сопровождением</div></div>
         <div class="kf"><div class="kf__n">НГ или деньги</div><div class="kf__t"><b>Форма</b> — независимая гарантия либо внесение денег на счёт заказчика — выбирает поставщик</div></div>
         <div class="kf"><div class="kf__n">Возврат</div><div class="kf__t"><b>Срок</b> — денежное обеспечение возвращают в срок по контракту — не позже 30 дней</div></div>
@@ -664,7 +664,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <p>Помимо обеспечения исполнения контракта, заказчик может потребовать отдельное обеспечение гарантийных обязательств — на период гарантии качества товара или работ. Его размер по статье 96 не превышает 10% начальной (максимальной) цены контракта. Предоставляется оно теми же способами — независимой гарантией или деньгами — и возвращается после истечения гарантийного срока.</p>
     <p>Для контрактов с казначейским сопровождением логика та же, что и по основному обеспечению: если сопровождение охватывает расчёты, заказчик вправе подойти к требованию гибче. Но обеспечение гарантийных обязательств касается уже постпроектного периода, когда сами расчёты по контракту завершены, поэтому его обычно рассматривают отдельно от режима сопровождения. Поставщику стоит заранее заложить стоимость такой гарантии в экономику контракта, особенно если предмет предполагает длительный гарантийный срок.</p>
 
-    <h2 id="howto">Как определить обеспечение по контракту с КС</h2>
+    <h2 id="howto">Как определить обеспечение по контракту с казначейским сопровождением</h2>
     <p>Ниже — порядок, который помогает поставщику быстро понять, нужно ли обеспечение, в каком размере и в какой форме его выгоднее предоставить.</p>
     <ol class="howto">
       <li><b>Прочитать документацию.</b> Найти в извещении и проекте контракта условие об обеспечении и о казначейском сопровождении.</li>
@@ -691,10 +691,11 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>На практике встречается такая ситуация: поставщик выигрывает контракт с авансом, который подлежит казначейскому сопровождению, и сразу оформляет независимую гарантию на полную цену контракта. Позже выясняется, что обеспечение нужно было считать от цены за вычетом сопровождаемого аванса — то есть гарантия получилась завышенной, а комиссия банку — больше необходимой. После сверки условий стороны корректируют размер обеспечения, и поставщик в следующих закупках уже учитывает сопровождаемый аванс в расчёте. Пример обобщённый и иллюстративный; конкретный размер и порядок зависят от условий закупки и положений контракта.</p>
     </div>
 
+    <p data-ctx="auto-ctx:garantijnye-obyazatelstva-po-44-fz">Помимо обеспечения исполнения контракта заказчик может потребовать обеспечение под <a href="/baza-znaniy/garantijnye-obyazatelstva-po-44-fz/">гарантийные обязательства по 44-ФЗ</a> — это отдельная сумма со своим сроком и порядком возврата.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
-        <li>Обеспечение исполнения контракта при КС регулирует статья 96 Закона № 44-ФЗ — с послаблениями для сопровождаемых расчётов.</li>
+        <li>Обеспечение исполнения контракта при казначейском сопровождении регулирует статья 96 Закона № 44-ФЗ — с послаблениями для сопровождаемых расчётов.</li>
         <li>Если расчёты по контракту подлежат казначейскому сопровождению, заказчик вправе не устанавливать обеспечение.</li>
         <li>Если аванс под сопровождением — обеспечение считают от цены, уменьшенной на сумму этого аванса.</li>
         <li>Базовый размер обеспечения — от 0,5% до 30% НМЦК; при снижении цены на 25%+ действует антидемпинг.</li>
@@ -781,6 +782,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Кто</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Кто попадает под казначейское сопровождение</h3><div class="card__meta">Сопровождение · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/peni-i-shtrafy-po-44-fz/"><div class="card__cover"><span>Пени</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Пени и штрафы по 44-ФЗ: расчёт неустойки</h3><div class="card__meta">Неустойка · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/rastorzhenie-kontrakta-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Расторжение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Расторжение контракта при казначейском сопровождении</h3><div class="card__meta">Сопровождение · 16 мин</div></div></a>
+    <!-- auto-related:garantijnye-obyazatelstva-po-44-fz --><a class="card reveal" href="/baza-znaniy/garantijnye-obyazatelstva-po-44-fz/"><div class="card__cover"><span>Гарантии</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Гарантийные обязательства по 44-ФЗ</h3><div class="card__meta">Госконтракты · 17 мин</div></div></a>
   </div>
 </section>
 
@@ -832,10 +834,10 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <span class="kz-sub__eyebrow">Гайд · PDF</span>
       <h2 class="kz-sub__title" id="kzSubTitle">Календарь дедлайнов по казначейскому сопровождению 2026</h2>
       <ul class="kz-sub__list">
-        <li>Реквизиты платежей при КС: ИГК, назначение платежа, сроки</li>
+        <li>Реквизиты платежей при казначейском сопровождении: ИГК, назначение платежа, сроки</li>
         <li>Дедлайн принятия бюджетных обязательств и график конца года</li>
         <li>Штрафы КоАП с 01.01.2026 и сроки утверждения сведений</li>
-        <li>Раз в месяц — короткий разбор изменений в законодательстве по КС</li>
+        <li>Раз в месяц — короткий разбор изменений в законодательстве по казначейскому сопровождению</li>
       </ul>
     </div>
     <form class="kz-sub__form" id="kzSubForm" novalidate data-endpoint="/php/subscribe.php">
@@ -1087,7 +1089,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   if(c)c.addEventListener('click',function(){try{navigator.clipboard&&navigator.clipboard.writeText(location.href);}catch(e){}var s=c.querySelector('span');if(s){var o=s.textContent;s.textContent='Скопировано ✓';setTimeout(function(){s.textContent=o;},1500);}});
   if(p)p.addEventListener('click',function(){window.print();});
 })();
-/* mini calculator: попадает ли контракт под КС 2026 */
+/* mini calculator: попадает ли контракт под казначейское сопровождение 2026 */
 (function(){
   var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');
   if(!type||!sum||!out)return;

@@ -600,7 +600,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <table>
       <caption>Структура формы сведений об операциях (0501213)</caption>
       <tr><th>Часть</th><th>Что содержит</th></tr>
-      <tr><td>Заголовок</td><td>Участник КС, заказчик, реквизиты и идентификатор контракта, год</td></tr>
+      <tr><td>Заголовок</td><td>Участник казначейского сопровождения, заказчик, реквизиты и идентификатор контракта, год</td></tr>
       <tr><td>Источники поступлений</td><td>Откуда приходят целевые средства — по перечню (приложение № 2 к Порядку)</td></tr>
       <tr><td>Направления расходования</td><td>На что расходуются средства — по кодам (приложение № 3 к Порядку)</td></tr>
       <tr><td>Суммы и периоды</td><td>Плановые суммы по каждому коду на год и плановый период</td></tr>
@@ -639,7 +639,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <table>
       <caption>Роли при работе со сведениями об операциях</caption>
       <tr><th>Действие</th><th>Кто</th></tr>
-      <tr><td>Формирование и представление</td><td>Исполнитель (участник КС) в «Электронном бюджете»</td></tr>
+      <tr><td>Формирование и представление</td><td>Исполнитель (участник казначейского сопровождения) в «Электронном бюджете»</td></tr>
       <tr><td>Утверждение</td><td>Заказчик — или сам исполнитель при разрешении заказчика</td></tr>
       <tr><td>Проверка и санкционирование</td><td>Территориальный орган казначейства (ТОФК)</td></tr>
     </table>
@@ -782,12 +782,12 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   <div class="related__grid">
     <a class="card reveal" href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/"><!-- auto-related:avans-pri-kaznacheyskom-soprovozhdenii --><div class="card__cover"><span>База знаний</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Аванс при казначейском сопровождении в 2026</h3><div class="card__meta">Аванс · 12 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>Отказы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Причины отказа казначейства в санкционировании</h3><div class="card__meta">Санкционирование · 14 мин</div></div></a>
-    <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Основы КС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение: что это и как работает в 2026</h3><div class="card__meta">Основы · 18 мин</div></div></a>
+    <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Основы казначейского сопровождения</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение: что это и как работает в 2026</h3><div class="card__meta">Основы · 18 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kaznacheyskiy-schet/"><div class="card__cover"><span>Счёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейский счёт: что это, реквизиты и отличие от банковского</h3><div class="card__meta">Счета · 16 мин</div></div></a>
     <!-- auto-related:razdelnyy-uchet-po-goskontraktu --><a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-po-goskontraktu/"><div class="card__cover"><span>Учёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по госконтракту: когда вести, штрафы</h3><div class="card__meta">Учёт · 17 мин</div></div></a>
     <!-- auto-related:identifikator-gosudarstvennogo-kontrakta-igk --><a class="card reveal" href="/baza-znaniy/identifikator-gosudarstvennogo-kontrakta-igk/"><div class="card__cover"><span>ИГК</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Идентификатор государственного контракта (ИГК)</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <!-- auto-related:celevye-sredstva-kaznacheyskoe-soprovozhdenie --><a class="card reveal" href="/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Целевые</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Целевые средства: что это, виды, режим и коды</h3><div class="card__meta">Операции · 17 мин</div></div></a>
-    <!-- auto-related:otchet-o-rashodah-celevyh-sredstv --><a class="card reveal" href="/baza-znaniy/otchet-o-rashodah-celevyh-sredstv/"><div class="card__cover"><span>Отчётность</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отчёт о расходах целевых средств при КС</h3><div class="card__meta">Операции · 16 мин</div></div></a>
+    <!-- auto-related:otchet-o-rashodah-celevyh-sredstv --><a class="card reveal" href="/baza-znaniy/otchet-o-rashodah-celevyh-sredstv/"><div class="card__cover"><span>Отчётность</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отчёт о расходах целевых средств при казначейском сопровождении</h3><div class="card__meta">Операции · 16 мин</div></div></a>
   </div>
 </section>
 
@@ -842,7 +842,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         <li>Дедлайн принятия бюджетных обязательств и график операций конца года</li>
         <li>Сроки авансирования по 44-ФЗ и вступления изменений 2026</li>
         <li>Штрафы КоАП с 01.01.2026 и сроки утверждения сведений об операциях</li>
-        <li>Раз в месяц — короткий разбор изменений в законодательстве по КС</li>
+        <li>Раз в месяц — короткий разбор изменений в законодательстве по казначейскому сопровождению</li>
       </ul>
     </div>
     <form class="kz-sub__form" id="kzSubForm" novalidate data-endpoint="/php/subscribe.php">
@@ -1210,7 +1210,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   if(c)c.addEventListener('click',function(){try{navigator.clipboard&&navigator.clipboard.writeText(location.href);}catch(e){}var s=c.querySelector('span');if(s){var o=s.textContent;s.textContent='Скопировано ✓';setTimeout(function(){s.textContent=o;},1500);}});
   if(p)p.addEventListener('click',function(){window.print();});
 })();
-/* mini calculator: попадает ли контракт под КС 2026 */
+/* mini calculator: попадает ли контракт под казначейское сопровождение 2026 */
 (function(){
   var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');
   if(!type||!sum||!out)return;

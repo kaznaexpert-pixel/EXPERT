@@ -80,7 +80,7 @@
   "@context":"https://schema.org","@type":"Article",
   "@id":"https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/#article",
   "headline":"Казначейское сопровождение ГОЗ в 2026 году: порядок по 275-ФЗ",
-  "description":"Кто обязан, порог, отдельный и лицевой счёт, раздельный учёт, расширенное КС, штрафы, отличие от банковского сопровождения.",
+  "description":"Кто обязан, порог, отдельный и лицевой счёт, раздельный учёт, расширенное казначейское сопровождение, штрафы, отличие от банковского сопровождения.",
   "author":{"@type":"Person","@id":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person","name":"Михайлов Ярослав","jobTitle":"Главный эксперт по казначейскому сопровождению","worksFor":{"@id":"https://kaznaexpert.ru/#organization"}},
   "publisher":{"@type":"ProfessionalService","@id":"https://kaznaexpert.ru/#organization","name":"КазнаЭксперт"},
   "datePublished":"2026-06-03","dateModified":"2026-06-03",
@@ -109,7 +109,7 @@
 <script type="application/ld+json">
 {
   "@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-  {"@type":"Question","name":"С какой суммы казначейское сопровождение ГОЗ обязательно в 2026 году?","acceptedAnswer":{"@type":"Answer","text":"Расчёты по госконтрактам ГОЗ и контрактам в их исполнение подлежат КС при сумме свыше 3 млн рублей (п. 8 ч. 2 ст. 5 ФЗ № 426-ФЗ на 2026 год)."}},
+  {"@type":"Question","name":"С какой суммы казначейское сопровождение ГОЗ обязательно в 2026 году?","acceptedAnswer":{"@type":"Answer","text":"Расчёты по госконтрактам ГОЗ и контрактам в их исполнение подлежат казначейскому сопровождению при сумме свыше 3 млн рублей (п. 8 ч. 2 ст. 5 ФЗ № 426-ФЗ на 2026 год)."}},
   {"@type":"Question","name":"Чем казначейское сопровождение ГОЗ отличается от банковского?","acceptedAnswer":{"@type":"Answer","text":"При банковском сопровождении расчёты идут через отдельный счёт в уполномоченном банке, при казначейском — через лицевой счёт в ТОФК. Режим определяется условиями контракта и решением госзаказчика."}},
   {"@type":"Question","name":"Что такое ИГК и где он используется?","acceptedAnswer":{"@type":"Answer","text":"ИГК — 25-значный идентификатор государственного контракта, присваивается заказчиком. Под каждый ИГК открывается отдельный счёт, код указывается во всех платёжных и распорядительных документах."}},
   {"@type":"Question","name":"Какой штраф за нарушение раздельного учёта по ГОЗ в 2026 году?","acceptedAnswer":{"@type":"Answer","text":"По ст. 15.37.1 КоАП РФ с 01.01.2026: должностным лицам 10 000–50 000 ₽, ИП и юрлицам — 5–10% цены контракта, но не более 250 000 ₽ для ИП и 500 000 ₽ для юрлиц."}},
@@ -575,7 +575,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   <aside class="toc" aria-label="Содержание">
     <div class="toc__label">Содержание</div>
     <ul class="toc__list" id="tocList">
-      <li><a href="#chto-takoe">Что такое КС ГОЗ</a></li>
+      <li><a href="#chto-takoe">Что такое казначейского сопровождения ГОЗ</a></li>
       <li><a href="#kto-obyazan">Кто обязан применять</a></li>
       <li><a href="#kogda">Порог и когда обязательно</a></li>
       <li><a href="#izmeneniya">Что изменилось в 2026</a></li>
@@ -585,7 +585,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <li><a href="#igk">ИГК</a></li>
       <li><a href="#avans">Аванс и цепочка кооперации</a></li>
       <li><a href="#razdelnyy-uchet">Раздельный учёт и штрафы</a></li>
-      <li><a href="#rasshirennoe">Расширенное КС</a></li>
+      <li><a href="#rasshirennoe">Расширенное казначейское сопровождение</a></li>
       <li><a href="#kak-otkryt">Порядок открытия счёта</a></li>
       <li><a href="#oshibki">Ошибки и отказы</a></li>
       <li><a href="#keys">Пример из практики</a></li>
@@ -612,11 +612,11 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <details class="mtoc"><summary>Содержание статьи</summary>
       <ol>
-        <li><a href="#chto-takoe">Что такое КС ГОЗ</a></li><li><a href="#kto-obyazan">Кто обязан</a></li>
+        <li><a href="#chto-takoe">Что такое казначейского сопровождения ГОЗ</a></li><li><a href="#kto-obyazan">Кто обязан</a></li>
         <li><a href="#kogda">Порог и когда обязательно</a></li><li><a href="#izmeneniya">Изменения 2026</a></li>
         <li><a href="#bank-vs-kazna">Банковское или казначейское</a></li><li><a href="#schet">Счёт в ТОФК</a></li><li><a href="#zaprety">Запрещённые операции</a></li>
         <li><a href="#igk">ИГК</a></li><li><a href="#avans">Аванс и кооперация</a></li>
-        <li><a href="#razdelnyy-uchet">Раздельный учёт и штрафы</a></li><li><a href="#rasshirennoe">Расширенное КС</a></li>
+        <li><a href="#razdelnyy-uchet">Раздельный учёт и штрафы</a></li><li><a href="#rasshirennoe">Расширенное казначейское сопровождение</a></li>
         <li><a href="#kak-otkryt">Порядок открытия</a></li><li><a href="#oshibki">Ошибки и отказы</a></li>
         <li><a href="#keys">Пример из практики</a></li><li><a href="#glossary">Глоссарий</a></li><li><a href="#faq">FAQ</a></li>
       </ol>
@@ -627,12 +627,12 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <section class="keyfacts grain" aria-label="Ключевые факты">
       <h2>Коротко о главном на 2026 год</h2>
       <div class="keyfacts__grid">
-        <div class="kf"><div class="kf__n">&gt; 3 млн ₽</div><div class="kf__t"><b>Порог КС для расчётов по ГОЗ</b> — п. 8 ч. 2 ст. 5 № 426-ФЗ</div></div>
+        <div class="kf"><div class="kf__n">&gt; 3 млн ₽</div><div class="kf__t"><b>Порог казначейского сопровождения для расчётов по ГОЗ</b> — п. 8 ч. 2 ст. 5 № 426-ФЗ</div></div>
         <div class="kf"><div class="kf__n">25 знаков</div><div class="kf__t"><b>ИГК</b> — идентификатор госконтракта, под каждый открывается счёт</div></div>
-        <div class="kf"><div class="kf__n">счёт «71»</div><div class="kf__t"><b>Лицевой счёт в ТОФК</b> для операций с КС, ведётся в «Электронном бюджете»</div></div>
+        <div class="kf"><div class="kf__n">счёт «71»</div><div class="kf__t"><b>Лицевой счёт в ТОФК</b> для операций с казначейским сопровождением, ведётся в «Электронном бюджете»</div></div>
         <div class="kf"><div class="kf__n">до 500k ₽</div><div class="kf__t"><b>Штраф юрлицу</b> за раздельный учёт — ст. 15.37.1 КоАП с 01.01.2026</div></div>
         <div class="kf"><div class="kf__n">31.12.2026</div><div class="kf__t"><b>Особый порядок расчётов по ГОЗ</b> продлён — ФЗ № 406-ФЗ</div></div>
-        <div class="kf"><div class="kf__n">ст. 242.24</div><div class="kf__t"><b>Расширенное КС</b> БК РФ — контроль структуры цены крупных контрактов</div></div>
+        <div class="kf"><div class="kf__n">ст. 242.24</div><div class="kf__t"><b>Расширенное казначейское сопровождение</b> БК РФ — контроль структуры цены крупных контрактов</div></div>
       </div>
     </section>
 
@@ -666,11 +666,11 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
     <table>
       <caption>Участники казначейского сопровождения ГОЗ и их роль</caption>
-      <tr><th>Участник</th><th>Роль в режиме КС</th></tr>
+      <tr><th>Участник</th><th>Роль в режиме казначейского сопровождения</th></tr>
       <tr><td>Государственный заказчик</td><td>Присваивает ИГК, доводит средства, контролирует исполнение</td></tr>
       <tr><td>Головной исполнитель</td><td>Открывает лицевой счёт в ТОФК, ведёт раздельный учёт, проводит платежи по кооперации</td></tr>
       <tr><td>Исполнители и соисполнители</td><td>Открывают свои счета при расчётах свыше 3 млн ₽, ведут раздельный учёт по своему договору</td></tr>
-      <tr><td>Субподрядчики в цепочке</td><td>Подпадают под КС, если их договор в рамках контракта превышает порог</td></tr>
+      <tr><td>Субподрядчики в цепочке</td><td>Подпадают под казначейское сопровождение, если их договор в рамках контракта превышает порог</td></tr>
     </table>
 
     <h2 id="kogda">Порог и когда казначейское сопровождение ГОЗ обязательно в 2026 году</h2>
@@ -688,7 +688,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <div class="note"><b>Важно.</b> «Безпороговое» казначейское сопровождение ГОЗ — распространённое упрощение. Формально порог для расчётов по ГОЗ — свыше 3 млн ₽. Но конкретный режим всегда определяется текстом госконтракта и решением госзаказчика, поэтому до подписания контракт нужно проверить на наличие казначейской оговорки и условий о сопровождении.</div>
 
     <div class="calc" id="calc">
-      <h3>Калькулятор: попадает ли контракт под КС в 2026?</h3>
+      <h3>Калькулятор: попадает ли контракт под казначейское сопровождение в 2026?</h3>
       <p class="calc__sub">Ориентировочная оценка по порогам ст. 5 ФЗ № 426-ФЗ. Точный режим определяется текстом контракта.</p>
       <div class="calc__row">
         <div>
@@ -735,7 +735,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <tr><th>Параметр</th><th>Банковское</th><th>Казначейское</th></tr>
       <tr><td>Где открывается счёт</td><td>Уполномоченный банк (ОБС)</td><td>ТОФК (лицевой счёт)</td></tr>
       <tr><td>Кто контролирует операции</td><td>Уполномоченный банк</td><td>Федеральное казначейство</td></tr>
-      <tr><td>Регулирование режима счёта</td><td>гл. 3.1 (ст. 8.1–8.6) 275-ФЗ</td><td>гл. 24.4 БК РФ, Правила КС</td></tr>
+      <tr><td>Регулирование режима счёта</td><td>гл. 3.1 (ст. 8.1–8.6) 275-ФЗ</td><td>гл. 24.4 БК РФ, Правила казначейского сопровождения</td></tr>
       <tr><td>Информационная система</td><td>Банковские каналы</td><td>ГИИС «Электронный бюджет»</td></tr>
       <tr><td>Типичная сфера применения</td><td>Серийные поставки ВВТ</td><td>Ремонт, услуги, НИОКР</td></tr>
     </table>
@@ -794,7 +794,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <h2 id="rasshirennoe">Расширенное казначейское сопровождение</h2>
     <div class="answer reveal">
-      <p>К крупным контрактам ГОЗ применяется расширенное казначейское сопровождение (ст. 242.24 БК РФ)<a class="fn" href="#ref-3" aria-label="Источник 3">[3]</a>. В этом режиме казначейство дополнительно проверяет соответствие фактических затрат данным раздельного учёта и контролирует структуру цены контракта — обоснованность включённых в неё затрат. Если обычное КС отвечает на вопрос «соответствует ли платёж контракту», то расширенное — «соответствует ли цена и затраты реальности». Это повышает требования к качеству первичных документов: каждый элемент цены должен быть подтверждён и сопоставим с фактическими расходами по контракту, иначе у казначейства возникнут вопросы к обоснованности средств.</p>
+      <p>К крупным контрактам ГОЗ применяется расширенное казначейское сопровождение (ст. 242.24 БК РФ)<a class="fn" href="#ref-3" aria-label="Источник 3">[3]</a>. В этом режиме казначейство дополнительно проверяет соответствие фактических затрат данным раздельного учёта и контролирует структуру цены контракта — обоснованность включённых в неё затрат. Если обычное казначейское сопровождение отвечает на вопрос «соответствует ли платёж контракту», то расширенное — «соответствует ли цена и затраты реальности». Это повышает требования к качеству первичных документов: каждый элемент цены должен быть подтверждён и сопоставим с фактическими расходами по контракту, иначе у казначейства возникнут вопросы к обоснованности средств.</p>
     </div>
 
     <h2 id="kak-otkryt">Как открыть счёт и начать работу: порядок</h2>
@@ -836,7 +836,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
-        <li>В 2026 году КС обязательно для расчётов по ГОЗ свыше 3 млн ₽ (п. 8 ч. 2 ст. 5 № 426-ФЗ).</li>
+        <li>В 2026 году казначейского сопровождения обязательно для расчётов по ГОЗ свыше 3 млн ₽ (п. 8 ч. 2 ст. 5 № 426-ФЗ).</li>
         <li>Под сопровождение попадает вся цепочка кооперации, включая субподрядчиков с договором свыше 3 млн ₽.</li>
         <li>Работа ведётся через лицевой счёт «71» в ТОФК и ГИИС «Электронный бюджет» с ЭП.</li>
         <li>Раздельный учёт — приоритетный объект контроля; с 01.01.2026 штраф до 5% цены контракта.</li>
@@ -850,18 +850,18 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <div><dt>ТОФК</dt><dd>Территориальный орган Федерального казначейства.</dd></div>
       <div><dt>ИГК</dt><dd>Идентификатор государственного контракта, 25 знаков.</dd></div>
       <div><dt>ОБС</dt><dd>Отдельный банковский счёт для расчётов по ГОЗ.</dd></div>
-      <div><dt>Счёт «71»</dt><dd>Единый лицевой счёт в ТОФК для операций с КС.</dd></div>
+      <div><dt>Счёт «71»</dt><dd>Единый лицевой счёт в ТОФК для операций с казначейским сопровождением.</dd></div>
       <div><dt>ГИИС «ЭБ»</dt><dd>Электронный бюджет — система взаимодействия с казначейством.</dd></div>
-      <div><dt>Расширенное КС</dt><dd>Режим с контролем структуры цены (ст. 242.24 БК РФ).</dd></div>
+      <div><dt>Расширенное казначейское сопровождение</dt><dd>Режим с контролем структуры цены (ст. 242.24 БК РФ).</dd></div>
       <div><dt>Санкционирование</dt><dd>Проверка казначейством операции перед платежом.</dd></div>
     </dl>
 
     <h2 id="faq">Частые вопросы</h2>
     <div class="faq">
-      <details open><summary>С какой суммы казначейское сопровождение ГОЗ обязательно в 2026 году?</summary><p>Расчёты по контрактам ГОЗ и контрактам в их исполнение подлежат КС при сумме свыше 3 млн ₽ (п. 8 ч. 2 ст. 5 ФЗ № 426-ФЗ).</p></details>
+      <details open><summary>С какой суммы казначейское сопровождение ГОЗ обязательно в 2026 году?</summary><p>Расчёты по контрактам ГОЗ и контрактам в их исполнение подлежат казначейскому сопровождению при сумме свыше 3 млн ₽ (п. 8 ч. 2 ст. 5 ФЗ № 426-ФЗ).</p></details>
       <details><summary>Чем казначейское сопровождение ГОЗ отличается от банковского?</summary><p>При банковском режиме расчёты идут через отдельный счёт в уполномоченном банке, при казначейском — через лицевой счёт в ТОФК. Режим определяется условиями контракта и решением госзаказчика.</p></details>
       <details><summary>Что такое ИГК и где он используется?</summary><p>ИГК — 25-значный идентификатор госконтракта, присваивается заказчиком. Под каждый ИГК открывается отдельный счёт, код указывается во всех платёжных и распорядительных документах.</p></details>
-      <details><summary>Нужно ли казначейское сопровождение субподрядчику по ГОЗ?</summary><p>Да, если договор с соисполнителем в рамках сопровождаемого контракта заключён на сумму свыше 3 млн ₽ — такие расчёты подлежат КС (п. 9 ч. 2 ст. 5 № 426-ФЗ).</p></details>
+      <details><summary>Нужно ли казначейское сопровождение субподрядчику по ГОЗ?</summary><p>Да, если договор с соисполнителем в рамках сопровождаемого контракта заключён на сумму свыше 3 млн ₽ — такие расчёты подлежат казначейскому сопровождению (п. 9 ч. 2 ст. 5 № 426-ФЗ).</p></details>
       <details><summary>Какой штраф за нарушение раздельного учёта по ГОЗ в 2026 году?</summary><p>По ст. 15.37.1 КоАП РФ с 01.01.2026: должностным лицам 10 000–50 000 ₽, ИП и юрлицам — 5–10% цены контракта, но не более 250 000 ₽ (ИП) и 500 000 ₽ (юрлица).</p></details>
       <details><summary>Что такое расширенное казначейское сопровождение?</summary><p>Режим (ст. 242.24 БК РФ) для крупных контрактов, при котором казначейство дополнительно проверяет соответствие фактических затрат данным раздельного учёта и контролирует структуру цены.</p></details>
       <details><summary>Сколько по времени открывается лицевой счёт в ТОФК?</summary><p>Раздел на лицевом счёте по контракту ТОФК открывает не позднее следующего рабочего дня после получения контракта; основное время занимает подготовка документов и подключение к «Электронному бюджету».</p></details>
@@ -893,7 +893,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         <li id="ref-3">Бюджетный кодекс РФ, глава 24.4 «Казначейское сопровождение» (ст. 242.23–242.27) — <a href="https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/" target="_blank" rel="noopener">base.garant.ru</a></li>
         <li id="ref-4">КоАП РФ, ст. 15.37.1 и 15.49 — административная ответственность с 01.01.2026 — <a href="https://www.consultant.ru/document/cons_doc_LAW_518324/b48bd9242136e1f526456eeeccf977e42c79d9bb/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-5">Постановление Правительства РФ от 11.12.2024 № 1752 (перечисление средств с лицевых счетов) — <a href="http://publication.pravo.gov.ru/document/0001202412120038" target="_blank" rel="noopener">pravo.gov.ru</a></li>
-        <li id="ref-6">Федеральный закон от 04.11.2025 № 406-ФЗ (продление особого порядка расчётов по ГОЗ до 31.12.2026); приказ Минфина России № 12н (раздельный учёт при КС).</li>
+        <li id="ref-6">Федеральный закон от 04.11.2025 № 406-ФЗ (продление особого порядка расчётов по ГОЗ до 31.12.2026); приказ Минфина России № 12н (раздельный учёт при казначейском сопровождении).</li>
       </ol>
       <p class="refs__note">Материал носит справочный характер; точный режим сопровождения определяется условиями конкретного госконтракта. Проверено экспертом КазнаЭксперт. Дата актуализации — 3 июня 2026.</p>
     </div>
@@ -928,14 +928,14 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   <div class="related__head"><h2 id="relTitle">Что почитать ещё</h2><a href="/baza-znaniy/">Вся база знаний →</a></div>
   <div class="related__grid">
     <a class="card reveal" href="/baza-znaniy/perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz/"><!-- auto-related:perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz --><div class="card__cover"><span>База знаний</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Перевод ориентировочной цены в фиксированную по ГОЗ</h3><div class="card__meta">Гособоронзаказ · 13 мин</div></div></a>
-    <a class="card reveal" href="/baza-znaniy/poryadok-sankcionirovaniya-rashodov/"><div class="card__cover"><span>Порядок</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Санкционирование расходов при КС</h3><div class="card__meta">Санкционирование · 13 мин</div></div></a>
+    <a class="card reveal" href="/baza-znaniy/poryadok-sankcionirovaniya-rashodov/"><div class="card__cover"><span>Порядок</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Санкционирование расходов при казначейском сопровождении</h3><div class="card__meta">Санкционирование · 13 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/"><div class="card__cover"><span>Раздельный учёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по ГОЗ: методика, формы, штрафы</h3><div class="card__meta">Раздельный учёт · 12 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/licevoy-schet-71-kak-otkryt/"><div class="card__cover"><span>Счёт 71</span></div><div class="card__body"><span class="card__cat">Инструкция</span><h3 class="card__title">Как открыть лицевой счёт 71 в ТОФК</h3><div class="card__meta">Открытие счёта · 9 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>10 причин</span></div><div class="card__body"><span class="card__cat">Чек-лист</span><h3 class="card__title">10 причин отказа казначейства в санкционировании</h3><div class="card__meta">Санкционирование · 11 мин</div></div></a>
     <!-- auto-related:vidy-cen-goz --><a class="card reveal" href="/baza-znaniy/vidy-cen-goz/"><div class="card__cover"><span>Цена ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Виды цен на продукцию ГОЗ: ориентировочная, фиксированная</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
     <!-- auto-related:suschestvennye-usloviya-kontrakta-goz --><a class="card reveal" href="/baza-znaniy/suschestvennye-usloviya-kontrakta-goz/"><div class="card__cover"><span>Контракт ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Существенные условия контракта по ГОЗ</h3><div class="card__meta">ГОЗ · 15 мин</div></div></a>
     <!-- auto-related:ast-goz-elektronnaya-ploschadka --><a class="card reveal" href="/baza-znaniy/ast-goz-elektronnaya-ploschadka/"><div class="card__cover"><span>АСТ ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">АСТ ГОЗ: электронная площадка</h3><div class="card__meta">ГОЗ · 13 мин</div></div></a>
-    <!-- auto-related:kaznacheyskoe-i-bankovskoe-soprovozhdenie --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-i-bankovskoe-soprovozhdenie/"><div class="card__cover"><span>КС vs банк</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское и банковское сопровождение: разница</h3><div class="card__meta">Основы · 14 мин</div></div></a>
+    <!-- auto-related:kaznacheyskoe-i-bankovskoe-soprovozhdenie --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-i-bankovskoe-soprovozhdenie/"><div class="card__cover"><span>казначейское сопровождение vs банк</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское и банковское сопровождение: разница</h3><div class="card__meta">Основы · 14 мин</div></div></a>
     <!-- auto-related:otdelnyy-schet-po-goz --><a class="card reveal" href="/baza-znaniy/otdelnyy-schet-po-goz/"><div class="card__cover"><span>Отдельный счёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отдельный счёт по ГОЗ: режим, запреты, вывод прибыли</h3><div class="card__meta">ГОЗ · 18 мин</div></div></a>
     <!-- auto-related:kak-zarezervirovat-schet-po-goz --><a class="card reveal" href="/baza-znaniy/kak-zarezervirovat-schet-po-goz/"><div class="card__cover"><span>Резерв ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Как зарезервировать отдельный счёт по ГОЗ</h3><div class="card__meta">ГОЗ · 14 мин</div></div></a>
     <!-- auto-related:chto-takoe-gosudarstvennyy-oboronnyy-zakaz --><a class="card reveal" href="/baza-znaniy/chto-takoe-gosudarstvennyy-oboronnyy-zakaz/"><div class="card__cover"><span>ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Что такое гособоронзаказ простыми словами</h3><div class="card__meta">ГОЗ · 17 мин</div></div></a>
@@ -953,9 +953,9 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   </div>
 </section>
 
-<!-- ПОДПИСКА «Календарь дедлайнов КС 2026» (DashaMail) — кластер ГОЗ -->
+<!-- ПОДПИСКА «Календарь дедлайнов казначейского сопровождения 2026» (DashaMail) — кластер ГОЗ -->
 <!--
-  БЛОК ПОДПИСКИ «Календарь дедлайнов КС 2026» (DashaMail, double opt-in)
+  БЛОК ПОДПИСКИ «Календарь дедлайнов казначейского сопровождения 2026» (DashaMail, double opt-in)
   Drop-in компонент в стиле v2. Вставляется и в статьи (перед футером), и на главную.
   Бэкенд: POST /php/subscribe.php {email, consent, source}. Метрика-цель: subscribe.
   Стили scoped под .kz-sub; используют переменные v2 (--ink/--sepia/--line) с фолбэками.
@@ -1001,7 +1001,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         <li>Дедлайн принятия бюджетных обязательств и график операций конца года</li>
         <li>Сроки авансирования по 44-ФЗ и вступления изменений 2026</li>
         <li>Штрафы КоАП с 01.01.2026 и сроки утверждения сведений об операциях</li>
-        <li>Раз в месяц — короткий разбор изменений в законодательстве по КС</li>
+        <li>Раз в месяц — короткий разбор изменений в законодательстве по казначейскому сопровождению</li>
       </ul>
     </div>
 
@@ -1370,7 +1370,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   if(c)c.addEventListener('click',function(){try{navigator.clipboard&&navigator.clipboard.writeText(location.href);}catch(e){}var s=c.querySelector('span');if(s){var o=s.textContent;s.textContent='Скопировано ✓';setTimeout(function(){s.textContent=o;},1500);}});
   if(p)p.addEventListener('click',function(){window.print();});
 })();
-/* mini calculator: попадает ли контракт под КС 2026 */
+/* mini calculator: попадает ли контракт под казначейское сопровождение 2026 */
 (function(){
   var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');
   if(!type||!sum||!out)return;

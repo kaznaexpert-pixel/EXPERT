@@ -66,7 +66,7 @@
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
 <meta property="og:title" content="База знаний по казначейскому сопровождению">
-<meta property="og:description" content="Экспертные статьи и инструкции по КС, ГОЗ, раздельному учёту, счетам и санкционированию.">
+<meta property="og:description" content="Экспертные статьи и инструкции по казначейскому сопровождению, ГОЗ, раздельному учёту, счетам и санкционированию.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
@@ -542,7 +542,7 @@ $TOOLS = [
     '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="M7 10l5 5 5-5"/><path d="M4 20h16"/></svg>'],
   'tofk' => ['Справочник ТОФК','Казначейство по регионам: код ТОФК, официальный сайт и адрес','88 регионов',
     '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-5.2-7-11a7 7 0 0 1 14 0c0 5.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>'],
-  'normativnaya-baza' => ['Нормативная база','Законы, постановления, приказы и письма по КС + разборы простым языком','21 акт',
+  'normativnaya-baza' => ['Нормативная база','Законы, постановления, приказы и письма по казначейскому сопровождению + разборы простым языком','21 акт',
     '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h9l4 4v14H6z"/><path d="M14 3v5h5"/><path d="M9 13h7"/><path d="M9 17h7"/></svg>'],
   'glossary' => ['Глоссарий','Ключевые термины казначейского сопровождения простыми словами',null,
     '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5a2 2 0 0 1 2-2h7v18H6a2 2 0 0 0-2 2z"/><path d="M13 3h5a2 2 0 0 1 2 2v16a2 2 0 0 0-2-2h-5"/></svg>'],
@@ -814,7 +814,7 @@ $tools_n=0; foreach($TOOLS as $sl=>$t){ if(isset($all[$sl])) $tools_n++; }
   if(c)c.addEventListener('click',function(){try{navigator.clipboard&&navigator.clipboard.writeText(location.href);}catch(e){}var s=c.querySelector('span');if(s){var o=s.textContent;s.textContent='Скопировано ✓';setTimeout(function(){s.textContent=o;},1500);}});
   if(p)p.addEventListener('click',function(){window.print();});
 })();
-/* mini calculator: попадает ли контракт под КС 2026 */
+/* mini calculator: попадает ли контракт под казначейское сопровождение 2026 */
 (function(){
   var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');
   if(!type||!sum||!out)return;

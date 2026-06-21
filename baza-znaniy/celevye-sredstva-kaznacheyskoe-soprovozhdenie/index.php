@@ -613,7 +613,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <tr><td>БК РФ, глава 24.4 (ст. 242.23–242.27)</td><td>Понятие казначейского сопровождения, перечень целевых средств, режим лицевого счёта и санкционирование</td></tr>
       <tr><td>Закон № 426-ФЗ от 28.11.2025, ст. 5</td><td>Перечень целевых средств, подлежащих казначейскому сопровождению в 2026 году</td></tr>
       <tr><td>Закон № 431-ФЗ от 28.11.2025</td><td>Особенности и приостановка отдельных положений на 2026 год</td></tr>
-      <tr><td>Правила КС на 2026 год (ПП РФ № 1752 от 11.12.2024, ред. от 17.12.2025)</td><td>Порядок операций, санкционирования и перечисления средств в текущем году</td></tr>
+      <tr><td>Правила казначейского сопровождения на 2026 год (ПП РФ № 1752 от 11.12.2024, ред. от 17.12.2025)</td><td>Порядок операций, санкционирования и перечисления средств в текущем году</td></tr>
       <tr><td>Приказ Минфина России № 214н</td><td>Коды направления и источника расходования целевых средств</td></tr>
       <tr><td>Письмо Минфина России от 25.02.2026 № 02-12-06/14206</td><td>Разъяснения по сопровождению средств, определённых ст. 5 Закона № 426-ФЗ</td></tr>
     </table>
@@ -721,7 +721,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <tr><td>Расход сверх утверждённых направлений</td><td>Платёж не проходит</td><td>Закладывать направления в сведениях об операциях заранее</td></tr>
       <tr><td>Смешение средств разных контрактов</td><td>Путаница в учёте, риск нецелевого</td><td>Отдельный лицевой счёт под каждый сопровождаемый контракт</td></tr>
       <tr><td>Попытка вывести «прибыль» до приёмки</td><td>Отказ казначейства</td><td>Выводить заработок только после подтверждения исполнения</td></tr>
-      <tr><td>Игнорирование годового закона о бюджете</td><td>Неверная оценка, попадает ли контракт под КС</td><td>Сверять перечень со ст. 5 действующего закона (на 2026 — № 426-ФЗ)</td></tr>
+      <tr><td>Игнорирование годового закона о бюджете</td><td>Неверная оценка, попадает ли контракт под казначейское сопровождение</td><td>Сверять перечень со ст. 5 действующего закона (на 2026 — № 426-ФЗ)</td></tr>
     </table>
 
     <h2 id="keys">Пример из практики</h2>
@@ -817,7 +817,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   <div class="related__head"><h2 id="relTitle">Что почитать ещё</h2><a href="/baza-znaniy/">Вся база знаний →</a></div>
   <div class="related__grid">
     <a class="card reveal" href="/baza-znaniy/svedeniya-ob-operaciyah-s-celevymi-sredstvami/"><div class="card__cover"><span>Сведения</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Сведения об операциях с целевыми средствами</h3><div class="card__meta">Операции · 15 мин</div></div></a>
-    <a class="card reveal" href="/baza-znaniy/poryadok-sankcionirovaniya-rashodov/"><div class="card__cover"><span>Санкц.</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Порядок санкционирования расходов при КС</h3><div class="card__meta">Санкционирование · 16 мин</div></div></a>
+    <a class="card reveal" href="/baza-znaniy/poryadok-sankcionirovaniya-rashodov/"><div class="card__cover"><span>Санкц.</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Порядок санкционирования расходов при казначейском сопровождении</h3><div class="card__meta">Санкционирование · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kody/"><div class="card__cover"><span>Коды</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Коды целевых средств: справочник по 214н</h3><div class="card__meta">Справочник · 12 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Кто</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Кто попадает под казначейское сопровождение</h3><div class="card__meta">Сопровождение · 16 мин</div></div></a>
   </div>
@@ -871,10 +871,10 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <span class="kz-sub__eyebrow">Гайд · PDF</span>
       <h2 class="kz-sub__title" id="kzSubTitle">Календарь дедлайнов по казначейскому сопровождению 2026</h2>
       <ul class="kz-sub__list">
-        <li>Реквизиты платежей при КС: ИГК, назначение платежа, сроки</li>
+        <li>Реквизиты платежей при казначейском сопровождении: ИГК, назначение платежа, сроки</li>
         <li>Дедлайн принятия бюджетных обязательств и график конца года</li>
         <li>Штрафы КоАП с 01.01.2026 и сроки утверждения сведений</li>
-        <li>Раз в месяц — короткий разбор изменений в законодательстве по КС</li>
+        <li>Раз в месяц — короткий разбор изменений в законодательстве по казначейскому сопровождению</li>
       </ul>
     </div>
     <form class="kz-sub__form" id="kzSubForm" novalidate data-endpoint="/php/subscribe.php">
@@ -1126,7 +1126,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   if(c)c.addEventListener('click',function(){try{navigator.clipboard&&navigator.clipboard.writeText(location.href);}catch(e){}var s=c.querySelector('span');if(s){var o=s.textContent;s.textContent='Скопировано ✓';setTimeout(function(){s.textContent=o;},1500);}});
   if(p)p.addEventListener('click',function(){window.print();});
 })();
-/* mini calculator: попадает ли контракт под КС 2026 */
+/* mini calculator: попадает ли контракт под казначейское сопровождение 2026 */
 (function(){
   var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');
   if(!type||!sum||!out)return;

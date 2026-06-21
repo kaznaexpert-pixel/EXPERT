@@ -729,7 +729,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <h2 id="lifecycle">Сводный реестр в жизненном цикле контракта</h2>
     <p>Чтобы шаг с реестром не выглядел бюрократической экзотикой, полезно видеть его место во всей цепочке казначейского сопровождения:</p>
     <ol>
-      <li><b>Контракт подписан</b> с условием о КС — у вас появляется основание для входа в казначейский контур.</li>
+      <li><b>Контракт подписан</b> с условием о казначейском сопровождении — у вас появляется основание для входа в казначейский контур.</li>
       <li><b>Параллельно запускаются три процесса:</b> включение в сводный реестр через ТОФК, выпуск подписи казначейства через <a href="/baza-znaniy/portal-zayavitelya-kaznachejstva/">портал заявителя ФЗС</a> и подготовка документов на счёт.</li>
       <li><b>Открывается лицевой счёт 71</b> — на базе реестровой записи и ИГК.</li>
       <li><b>Утверждаются сведения об операциях</b> — план расходования целевых средств.</li>
@@ -763,7 +763,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <h2>Что важно запомнить</h2>
       <ol>
         <li>Сводный реестр ведёт Федеральное казначейство в «Электронном бюджете» по Порядку № 163н; открытая часть — на budget.gov.ru.</li>
-        <li>Коммерческий исполнитель контракта под КС включается в реестр как неучастник бюджетного процесса (тип 20).</li>
+        <li>Коммерческий исполнитель контракта под казначейское сопровождение включается в реестр как неучастник бюджетного процесса (тип 20).</li>
         <li>Код по сводному реестру — 8 знаков; не путать с кодом ТОФК (4 знака) и ИГК (20/25 знаков).</li>
         <li>Очерёдность жёсткая: реестровая запись → лицевой счёт → сведения об операциях → платежи.</li>
         <li>Заявку на включение формирует ТОФК на основании вашего обращения; сведения сверяются с ЕГРЮЛ — приводите их в порядок заранее.</li>
@@ -824,7 +824,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   <aside class="rail">
     <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="svodnyy-reestr">
       <div class="railform__badge">Разбор эксперта</div>
-      <h3 class="railform__title">Выходите на первый контракт с КС?</h3>
+      <h3 class="railform__title">Выходите на первый контракт с казначейским сопровождением?</h3>
       <p class="railform__sub">Проведём весь входной контур параллельно: сводный реестр, подпись казначейства, лицевой счёт и первые платежи — без возвратов и срыва сроков.</p>
       <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
       <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
@@ -904,10 +904,10 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <span class="kz-sub__eyebrow">Гайд · PDF</span>
       <h2 class="kz-sub__title" id="kzSubTitle">Календарь дедлайнов по казначейскому сопровождению 2026</h2>
       <ul class="kz-sub__list">
-        <li>Реквизиты платежей при КС: ИГК, назначение платежа, сроки</li>
+        <li>Реквизиты платежей при казначейском сопровождении: ИГК, назначение платежа, сроки</li>
         <li>Дедлайн принятия бюджетных обязательств и график конца года</li>
         <li>Штрафы КоАП с 01.01.2026 и сроки утверждения сведений</li>
-        <li>Раз в месяц — короткий разбор изменений в законодательстве по КС</li>
+        <li>Раз в месяц — короткий разбор изменений в законодательстве по казначейскому сопровождению</li>
       </ul>
     </div>
     <form class="kz-sub__form" id="kzSubForm" novalidate data-endpoint="/php/subscribe.php">
@@ -1274,7 +1274,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   if(c)c.addEventListener('click',function(){try{navigator.clipboard&&navigator.clipboard.writeText(location.href);}catch(e){}var s=c.querySelector('span');if(s){var o=s.textContent;s.textContent='Скопировано ✓';setTimeout(function(){s.textContent=o;},1500);}});
   if(p)p.addEventListener('click',function(){window.print();});
 })();
-/* mini calculator: попадает ли контракт под КС 2026 */
+/* mini calculator: попадает ли контракт под казначейское сопровождение 2026 */
 (function(){
   var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');
   if(!type||!sum||!out)return;

@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>ИГК — идентификатор госконтракта: структура, 1С | КазнаЭксперт</title>
-<meta name="description" content="Что такое ИГК — идентификатор государственного контракта: зачем нужен, отличие от ИКЗ, структура 20-значного кода при КС (приказ Минфина № 205н), 25 знаков в ГОЗ.">
+<meta name="description" content="Что такое ИГК — идентификатор государственного контракта: зачем нужен, отличие от ИКЗ, структура 20-значного кода при казначейском сопровождении (приказ Минфина № 205н), 25 знаков в ГОЗ.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -46,7 +46,7 @@
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"HowTo","name":"Как добавить ИГК в 1С","inLanguage":"ru-RU","step":[
 {"@type":"HowToStep","position":1,"name":"Открыть договор","text":"Найти карточку договора (контракта) с заказчиком в справочнике договоров."},
-{"@type":"HowToStep","position":2,"name":"Включить признак КС","text":"Отметить, что по договору применяется казначейское сопровождение, если такой признак есть."},
+{"@type":"HowToStep","position":2,"name":"Включить признак казначейского сопровождения","text":"Отметить, что по договору применяется казначейское сопровождение, если такой признак есть."},
 {"@type":"HowToStep","position":3,"name":"Внести ИГК","text":"Заполнить реквизит идентификатора государственного контракта значением из контракта."},
 {"@type":"HowToStep","position":4,"name":"Проверить подстановку","text":"Убедиться, что ИГК подтягивается в платёжные документы и назначение платежа."},
 {"@type":"HowToStep","position":5,"name":"Сверить формат","text":"Проверить число знаков и отсутствие лишних пробелов или символов."}
@@ -540,7 +540,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <li><a href="#zachem">Зачем нужен</a></li>
       <li><a href="#igk-ikz">ИГК и ИКЗ — разница</a></li>
       <li><a href="#kto">Кто и когда присваивает</a></li>
-      <li><a href="#struktura">Структура ИГК при КС</a></li>
+      <li><a href="#struktura">Структура ИГК при казначейском сопровождении</a></li>
       <li><a href="#goz">ИГК в ГОЗ (25 знаков)</a></li>
       <li><a href="#gde">Где указывать ИГК</a></li>
       <li><a href="#1c">Как добавить ИГК в 1С</a></li>
@@ -571,7 +571,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <ol>
         <li><a href="#chto-takoe">Что такое ИГК</a></li><li><a href="#zachem">Зачем нужен</a></li>
         <li><a href="#igk-ikz">ИГК и ИКЗ</a></li><li><a href="#kto">Кто присваивает</a></li>
-        <li><a href="#struktura">Структура при КС</a></li><li><a href="#goz">ИГК в ГОЗ</a></li>
+        <li><a href="#struktura">Структура при казначейском сопровождении</a></li><li><a href="#goz">ИГК в ГОЗ</a></li>
         <li><a href="#gde">Где указывать</a></li><li><a href="#1c">Как добавить в 1С</a></li>
         <li><a href="#oshibki">Частые ошибки</a></li><li><a href="#keys">Пример из практики</a></li>
         <li><a href="#glossary">Глоссарий</a></li><li><a href="#faq">FAQ</a></li>
@@ -583,8 +583,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <section class="keyfacts grain" aria-label="Ключевые факты">
       <h2>Коротко о главном</h2>
       <div class="keyfacts__grid">
-        <div class="kf"><div class="kf__n">20 / 25</div><div class="kf__t"><b>Знаков</b> — 20 при КС, 25 в ГОЗ</div></div>
-        <div class="kf"><div class="kf__n">№ 205н</div><div class="kf__t"><b>Порядок</b> — приказ Минфина от 02.12.2021 (ИГК при КС)</div></div>
+        <div class="kf"><div class="kf__n">20 / 25</div><div class="kf__t"><b>Знаков</b> — 20 при казначейском сопровождении, 25 в ГОЗ</div></div>
+        <div class="kf"><div class="kf__n">№ 205н</div><div class="kf__t"><b>Порядок</b> — приказ Минфина от 02.12.2021 (ИГК при казначейском сопровождении)</div></div>
         <div class="kf"><div class="kf__n">1 раз</div><div class="kf__t"><b>Формируется</b> — единожды на весь контракт</div></div>
         <div class="kf"><div class="kf__n">везде</div><div class="kf__t"><b>Указывается</b> — в платёжках и договорах соисполнителей</div></div>
         <div class="kf"><div class="kf__n">ТОФК</div><div class="kf__t"><b>Связывает</b> — операции с контрактом при сопровождении</div></div>
@@ -664,7 +664,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <caption>Порядок добавления ИГК в 1С (общая логика)</caption>
       <tr><th>Шаг</th><th>Что сделать</th></tr>
       <tr><td>1. Открыть договор</td><td>Найти карточку договора/контракта с заказчиком в справочнике договоров</td></tr>
-      <tr><td>2. Включить признак КС</td><td>Отметить, что по договору применяется казначейское сопровождение (если есть такой признак)</td></tr>
+      <tr><td>2. Включить признак казначейского сопровождения</td><td>Отметить, что по договору применяется казначейское сопровождение (если есть такой признак)</td></tr>
       <tr><td>3. Внести ИГК</td><td>Заполнить реквизит идентификатора государственного контракта значением из контракта</td></tr>
       <tr><td>4. Проверить подстановку</td><td>Убедиться, что ИГК подтягивается в платёжные документы и назначение платежа</td></tr>
       <tr><td>5. Сверить формат</td><td>Проверить число знаков и отсутствие лишних пробелов/символов</td></tr>
@@ -678,7 +678,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <table>
       <caption>Типичные ошибки с ИГК и решения</caption>
       <tr><th>Ошибка</th><th>Как правильно</th></tr>
-      <tr><td>Перепутали ИГК и ИКЗ</td><td>ИГК — для платежей и КС; ИКЗ — для закупки по 44-ФЗ</td></tr>
+      <tr><td>Перепутали ИГК и ИКЗ</td><td>ИГК — для платежей и казначейского сопровождения; ИКЗ — для закупки по 44-ФЗ</td></tr>
       <tr><td>Опечатка в коде</td><td>Сверять ИГК с контрактом, проверять число знаков</td></tr>
       <tr><td>Не указали ИГК в платёжке</td><td>Проставлять идентификатор в «Назначении платежа»</td></tr>
       <tr><td>Нет ИГК в договоре с соисполнителем</td><td>Включать идентификатор в договоры по цепочке кооперации</td></tr>
@@ -695,10 +695,10 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <h2>Что важно запомнить</h2>
       <ol>
         <li>ИГК — уникальный код контракта для прослеживаемости платежей при казначейском сопровождении.</li>
-        <li>При КС идентификатор состоит из 20 знаков (приказ Минфина № 205н), в ГОЗ — из 25.</li>
+        <li>При казначейском сопровождении идентификатор состоит из 20 знаков (приказ Минфина № 205н), в ГОЗ — из 25.</li>
         <li>ИГК формируется один раз и не меняется в течение всего контракта.</li>
         <li>Его указывают в платёжках («Назначение платежа») и договорах с соисполнителями.</li>
-        <li>Не путать с ИКЗ: ИГК — для контракта и КС, ИКЗ — для закупки по 44-ФЗ.</li>
+        <li>Не путать с ИКЗ: ИГК — для контракта и казначейского сопровождения, ИКЗ — для закупки по 44-ФЗ.</li>
       </ol>
     </div>
 
@@ -775,7 +775,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 <section class="related" aria-labelledby="relTitle">
   <div class="related__head"><h2 id="relTitle">Что почитать ещё</h2><a href="/baza-znaniy/">Вся база знаний →</a></div>
   <div class="related__grid">
-    <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Основы КС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение: что это и как работает в 2026</h3><div class="card__meta">Основы · 18 мин</div></div></a>
+    <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Основы казначейского сопровождения</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение: что это и как работает в 2026</h3><div class="card__meta">Основы · 18 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/svedeniya-ob-operaciyah-s-celevymi-sredstvami/"><div class="card__cover"><span>Сведения</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Сведения об операциях с целевыми средствами</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>Отказы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Причины отказа казначейства в санкционировании</h3><div class="card__meta">Санкционирование · 14 мин</div></div></a>
     <!-- auto-related:soispolniteli-kooperaciya-goz --><a class="card reveal" href="/baza-znaniy/soispolniteli-kooperaciya-goz/"><div class="card__cover"><span>Кооперация</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Соисполнители и кооперация в ГОЗ</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
@@ -830,10 +830,10 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <span class="kz-sub__eyebrow">Гайд · PDF</span>
       <h2 class="kz-sub__title" id="kzSubTitle">Календарь дедлайнов по казначейскому сопровождению 2026</h2>
       <ul class="kz-sub__list">
-        <li>Реквизиты платежей при КС: ИГК, назначение платежа, сроки</li>
+        <li>Реквизиты платежей при казначейском сопровождении: ИГК, назначение платежа, сроки</li>
         <li>Дедлайн принятия бюджетных обязательств и график конца года</li>
         <li>Штрафы КоАП с 01.01.2026 и сроки утверждения сведений</li>
-        <li>Раз в месяц — короткий разбор изменений в законодательстве по КС</li>
+        <li>Раз в месяц — короткий разбор изменений в законодательстве по казначейскому сопровождению</li>
       </ul>
     </div>
     <form class="kz-sub__form" id="kzSubForm" novalidate data-endpoint="/php/subscribe.php">
@@ -1200,7 +1200,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   if(c)c.addEventListener('click',function(){try{navigator.clipboard&&navigator.clipboard.writeText(location.href);}catch(e){}var s=c.querySelector('span');if(s){var o=s.textContent;s.textContent='Скопировано ✓';setTimeout(function(){s.textContent=o;},1500);}});
   if(p)p.addEventListener('click',function(){window.print();});
 })();
-/* mini calculator: попадает ли контракт под КС 2026 */
+/* mini calculator: попадает ли контракт под казначейское сопровождение 2026 */
 (function(){
   var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');
   if(!type||!sum||!out)return;

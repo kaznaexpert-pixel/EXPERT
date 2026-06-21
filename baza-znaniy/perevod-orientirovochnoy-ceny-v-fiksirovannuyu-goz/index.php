@@ -517,7 +517,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   <aside class="toc" aria-label="Содержание">
     <div class="toc__label">Содержание</div>
     <ul class="toc__list" id="tocList">
-      <li><a href="#vidy">Виды цен по ГОЗ</a></li><li><a href="#kogda">Когда применяют ориентировочную</a></li><li><a href="#pochemu">Почему перевод обязателен</a></li><li><a href="#osnova">Правовая основа</a></li><li><a href="#sroki">Сроки перевода</a></li><li><a href="#poryadok">Порядок: пошагово</a></li><li><a href="#dokumenty">Документы и РКМ</a></li><li><a href="#gosreg">Госрегистрация цены</a></li><li><a href="#otlichie">Перевод vs изменение цены</a></li><li><a href="#ks">Связь с КС и раздельным учётом</a></li><li><a href="#zatyagivanie">Если заказчик медлит</a></li><li><a href="#praktika-sud">Судебная практика</a></li><li><a href="#roli">Кто отвечает за перевод</a></li><li><a href="#struktura">Состав РКМ и прибыль</a></li><li><a href="#otvet">Ответственность</a></li><li><a href="#oshibki">Частые ошибки</a></li><li><a href="#checklist">Чек-лист</a></li><li><a href="#keys">Пример из практики</a></li><li><a href="#faq">Частые вопросы</a></li>
+      <li><a href="#vidy">Виды цен по ГОЗ</a></li><li><a href="#kogda">Когда применяют ориентировочную</a></li><li><a href="#pochemu">Почему перевод обязателен</a></li><li><a href="#osnova">Правовая основа</a></li><li><a href="#sroki">Сроки перевода</a></li><li><a href="#poryadok">Порядок: пошагово</a></li><li><a href="#dokumenty">Документы и РКМ</a></li><li><a href="#gosreg">Госрегистрация цены</a></li><li><a href="#otlichie">Перевод vs изменение цены</a></li><li><a href="#ks">Связь с казначейским сопровождением и раздельным учётом</a></li><li><a href="#zatyagivanie">Если заказчик медлит</a></li><li><a href="#praktika-sud">Судебная практика</a></li><li><a href="#roli">Кто отвечает за перевод</a></li><li><a href="#struktura">Состав РКМ и прибыль</a></li><li><a href="#otvet">Ответственность</a></li><li><a href="#oshibki">Частые ошибки</a></li><li><a href="#checklist">Чек-лист</a></li><li><a href="#keys">Пример из практики</a></li><li><a href="#faq">Частые вопросы</a></li>
     </ul>
   </aside>
 
@@ -538,7 +538,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <details class="mtoc"><summary>Содержание статьи</summary>
-      <ol><li><a href="#vidy">Виды цен по ГОЗ</a></li><li><a href="#kogda">Когда применяют ориентировочную</a></li><li><a href="#pochemu">Почему перевод обязателен</a></li><li><a href="#osnova">Правовая основа</a></li><li><a href="#sroki">Сроки перевода</a></li><li><a href="#poryadok">Порядок: пошагово</a></li><li><a href="#dokumenty">Документы и РКМ</a></li><li><a href="#gosreg">Госрегистрация цены</a></li><li><a href="#otlichie">Перевод vs изменение цены</a></li><li><a href="#ks">Связь с КС и раздельным учётом</a></li><li><a href="#zatyagivanie">Если заказчик медлит</a></li><li><a href="#praktika-sud">Судебная практика</a></li><li><a href="#roli">Кто отвечает за перевод</a></li><li><a href="#struktura">Состав РКМ и прибыль</a></li><li><a href="#otvet">Ответственность</a></li><li><a href="#oshibki">Частые ошибки</a></li><li><a href="#checklist">Чек-лист</a></li><li><a href="#keys">Пример из практики</a></li><li><a href="#faq">Частые вопросы</a></li></ol>
+      <ol><li><a href="#vidy">Виды цен по ГОЗ</a></li><li><a href="#kogda">Когда применяют ориентировочную</a></li><li><a href="#pochemu">Почему перевод обязателен</a></li><li><a href="#osnova">Правовая основа</a></li><li><a href="#sroki">Сроки перевода</a></li><li><a href="#poryadok">Порядок: пошагово</a></li><li><a href="#dokumenty">Документы и РКМ</a></li><li><a href="#gosreg">Госрегистрация цены</a></li><li><a href="#otlichie">Перевод vs изменение цены</a></li><li><a href="#ks">Связь с казначейским сопровождением и раздельным учётом</a></li><li><a href="#zatyagivanie">Если заказчик медлит</a></li><li><a href="#praktika-sud">Судебная практика</a></li><li><a href="#roli">Кто отвечает за перевод</a></li><li><a href="#struktura">Состав РКМ и прибыль</a></li><li><a href="#otvet">Ответственность</a></li><li><a href="#oshibki">Частые ошибки</a></li><li><a href="#checklist">Чек-лист</a></li><li><a href="#keys">Пример из практики</a></li><li><a href="#faq">Частые вопросы</a></li></ol>
     </details>
 
     <div class="tldr">Ориентировочная (уточняемая) цена по ГОЗ применяется, когда на момент заключения контракта рассчитать фиксированную цену нельзя. В ходе исполнения стороны обязаны перевести её в фиксированную — по фактическим расчётно-калькуляционным материалам, не позднее установленного срока до окончания поставки<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a>. Порядок задают Постановление Правительства №&nbsp;1465 и Закон №&nbsp;275-ФЗ.</div>
@@ -679,7 +679,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <div class="answer reveal">
       <p>Перевод цены и казначейское сопровождение — звенья одной цепи. Контракты ГОЗ проходят сопровождение от 3 млн ₽, а к крупным применяется расширенное сопровождение с проверкой обоснованности затрат и структуры цены. Поэтому к моменту перевода цены раздельный учёт уже должен быть выстроен: те же первичные документы и калькуляции, которые казначейство видит при санкционировании, ложатся в основу РКМ для фиксированной цены. Чем чище раздельный учёт, тем проще и перевод цены, и прохождение платежей.</p>
       <div class="related-inline"><b>Связано по теме</b>
-        <a href="/baza-znaniy/poryadok-sankcionirovaniya-rashodov/">Порядок санкционирования расходов при КС →</a>
+        <a href="/baza-znaniy/poryadok-sankcionirovaniya-rashodov/">Порядок санкционирования расходов при казначейском сопровождении →</a>
       </div>
     </div>
 
@@ -827,7 +827,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   <div class="related__grid">
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/"><div class="card__cover"><span>База знаний</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение ГОЗ по 275-ФЗ</h3><div class="card__meta">Гособоронзаказ · 17 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/"><div class="card__cover"><span>База знаний</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по ГОЗ: методика и формы</h3><div class="card__meta">Учёт · 15 мин</div></div></a>
-    <a class="card reveal" href="/baza-znaniy/poryadok-sankcionirovaniya-rashodov/"><div class="card__cover"><span>База знаний</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Порядок санкционирования расходов при КС</h3><div class="card__meta">Санкционирование · 13 мин</div></div></a>
+    <a class="card reveal" href="/baza-znaniy/poryadok-sankcionirovaniya-rashodov/"><div class="card__cover"><span>База знаний</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Порядок санкционирования расходов при казначейском сопровождении</h3><div class="card__meta">Санкционирование · 13 мин</div></div></a>
     <!-- auto-related:vidy-cen-goz --><a class="card reveal" href="/baza-znaniy/vidy-cen-goz/"><div class="card__cover"><span>Цена ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Виды цен на продукцию ГОЗ: ориентировочная, фиксированная</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
   </div>
 </section>
@@ -1165,7 +1165,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   if(c)c.addEventListener('click',function(){try{navigator.clipboard&&navigator.clipboard.writeText(location.href);}catch(e){}var s=c.querySelector('span');if(s){var o=s.textContent;s.textContent='Скопировано ✓';setTimeout(function(){s.textContent=o;},1500);}});
   if(p)p.addEventListener('click',function(){window.print();});
 })();
-/* mini calculator: попадает ли контракт под КС 2026 */
+/* mini calculator: попадает ли контракт под казначейское сопровождение 2026 */
 (function(){
   var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');
   if(!type||!sum||!out)return;

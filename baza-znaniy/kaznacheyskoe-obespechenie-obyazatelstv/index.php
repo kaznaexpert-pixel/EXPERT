@@ -548,7 +548,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <li><a href="#pravovaya">Правовая база</a></li>
       <li><a href="#kogda">Когда применяется</a></li>
       <li><a href="#mehanizm">Как работает механизм</a></li>
-      <li><a href="#sravnenie">КОО, аванс и обычное КС</a></li>
+      <li><a href="#sravnenie">КОО, аванс и обычное казначейское сопровождение</a></li>
       <li><a href="#bank">КОО при банковском сопровождении</a></li>
       <li><a href="#kontrakt">Что должно быть в контракте</a></li>
       <li><a href="#plyusy">Плюсы и риски для исполнителя</a></li>
@@ -578,7 +578,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <details class="mtoc"><summary>Содержание статьи</summary>
       <ol>
-        <li><a href="#chto-takoe">Что такое КОО</a></li><li><a href="#akkreditiv">Почему «казначейский аккредитив»</a></li><li><a href="#pravovaya">Правовая база</a></li><li><a href="#kogda">Когда применяется</a></li><li><a href="#mehanizm">Как работает механизм</a></li><li><a href="#sravnenie">КОО, аванс и обычное КС</a></li><li><a href="#bank">КОО при банковском сопровождении</a></li><li><a href="#kontrakt">Что должно быть в контракте</a></li><li><a href="#plyusy">Плюсы и риски для исполнителя</a></li><li><a href="#oshibki-koo">Частые ошибки</a></li><li><a href="#izmeneniya">Изменения 2026–2028</a></li><li><a href="#keys">Пример из практики</a></li><li><a href="#glossary">Глоссарий</a></li><li><a href="#faq">Частые вопросы</a></li>
+        <li><a href="#chto-takoe">Что такое КОО</a></li><li><a href="#akkreditiv">Почему «казначейский аккредитив»</a></li><li><a href="#pravovaya">Правовая база</a></li><li><a href="#kogda">Когда применяется</a></li><li><a href="#mehanizm">Как работает механизм</a></li><li><a href="#sravnenie">КОО, аванс и обычное казначейское сопровождение</a></li><li><a href="#bank">КОО при банковском сопровождении</a></li><li><a href="#kontrakt">Что должно быть в контракте</a></li><li><a href="#plyusy">Плюсы и риски для исполнителя</a></li><li><a href="#oshibki-koo">Частые ошибки</a></li><li><a href="#izmeneniya">Изменения 2026–2028</a></li><li><a href="#keys">Пример из практики</a></li><li><a href="#glossary">Глоссарий</a></li><li><a href="#faq">Частые вопросы</a></li>
       </ol>
     </details>
 
@@ -636,13 +636,13 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <h2 id="sravnenie">КОО, аванс и обычное казначейское сопровождение: сравнение</h2>
     <table>
-      <caption>Чем КОО отличается от аванса и обычного режима КС</caption>
-      <tr><th>Параметр</th><th>Аванс при КС</th><th>КОО</th><th>Оплата по факту при КС</th></tr>
+      <caption>Чем КОО отличается от аванса и обычного режима казначейского сопровождения</caption>
+      <tr><th>Параметр</th><th>Аванс при казначейском сопровождении</th><th>КОО</th><th>Оплата по факту при казначейском сопровождении</th></tr>
       <tr><td>Движение денег</td><td>Деньги зачисляются на лицевой счёт исполнителя до исполнения</td><td>Деньги не перечисляются — выдаётся обязательство оплаты</td><td>Деньги приходят после приёмки</td></tr>
       <tr><td>Что получает соисполнитель</td><td>Платёж с лицевого счёта головного исполнителя</td><td>Переведённую часть КОО — гарантию оплаты</td><td>Платёж после выполнения своей части</td></tr>
       <tr><td>Риск нецелевого использования</td><td>Снижен санкционированием, но деньги уже «в системе» исполнителя</td><td>Минимальный: средства остаются на ЕКС до момента оплаты</td><td>Минимальный</td></tr>
       <tr><td>Кассовая нагрузка на исполнителя</td><td>Низкая — есть аванс</td><td>Средняя — живых денег нет, но оплата гарантирована</td><td>Высокая — работы выполняются на свои средства</td></tr>
-      <tr><td>Регулирование</td><td>Правила КС (ПП № 2024), закон о бюджете</td><td>Ст. 242.22 БК, ПП № 2479/№ 481</td><td>Правила КС (ПП № 2024)</td></tr>
+      <tr><td>Регулирование</td><td>Правила казначейского сопровождения (ПП № 2024), закон о бюджете</td><td>Ст. 242.22 БК, ПП № 2479/№ 481</td><td>Правила казначейского сопровождения (ПП № 2024)</td></tr>
     </table>
     <p>Как устроено авансирование при сопровождении и какие пороги действуют, мы подробно разбирали в статье <a href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/">«Аванс при казначейском сопровождении»</a> — КОО часто выступает альтернативой авансу там, где государство не готово отдавать деньги вперёд.</p>
 
@@ -780,10 +780,10 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 <section class="related" aria-labelledby="relTitle">
   <div class="related__head"><h2 id="relTitle">Что почитать ещё</h2><a href="/baza-znaniy/">Вся база знаний →</a></div>
   <div class="related__grid">
-    <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Основы КС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение: что это и как работает</h3><div class="card__meta">Основы · 18 мин</div></div></a>
+    <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Основы казначейского сопровождения</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение: что это и как работает</h3><div class="card__meta">Основы · 18 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Аванс</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Аванс при казначейском сопровождении в 2026</h3><div class="card__meta">Лимиты · 14 мин</div></div></a>
-    <a class="card reveal" href="/baza-znaniy/poryadok-sankcionirovaniya-rashodov/"><div class="card__cover"><span>Санкционирование</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Порядок санкционирования расходов при КС</h3><div class="card__meta">Операции · 15 мин</div></div></a>
-    <!-- auto-related:kaznacheyskoe-i-bankovskoe-soprovozhdenie --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-i-bankovskoe-soprovozhdenie/"><div class="card__cover"><span>КС vs банк</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское и банковское сопровождение: разница</h3><div class="card__meta">Основы · 14 мин</div></div></a>
+    <a class="card reveal" href="/baza-znaniy/poryadok-sankcionirovaniya-rashodov/"><div class="card__cover"><span>Санкционирование</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Порядок санкционирования расходов при казначейском сопровождении</h3><div class="card__meta">Операции · 15 мин</div></div></a>
+    <!-- auto-related:kaznacheyskoe-i-bankovskoe-soprovozhdenie --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-i-bankovskoe-soprovozhdenie/"><div class="card__cover"><span>казначейское сопровождение vs банк</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское и банковское сопровождение: разница</h3><div class="card__meta">Основы · 14 мин</div></div></a>
   </div>
 </section>
 
@@ -835,10 +835,10 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <span class="kz-sub__eyebrow">Гайд · PDF</span>
       <h2 class="kz-sub__title" id="kzSubTitle">Календарь дедлайнов по казначейскому сопровождению 2026</h2>
       <ul class="kz-sub__list">
-        <li>Реквизиты платежей при КС: ИГК, назначение платежа, сроки</li>
+        <li>Реквизиты платежей при казначейском сопровождении: ИГК, назначение платежа, сроки</li>
         <li>Дедлайн принятия бюджетных обязательств и график конца года</li>
         <li>Штрафы КоАП с 01.01.2026 и сроки утверждения сведений</li>
-        <li>Раз в месяц — короткий разбор изменений в законодательстве по КС</li>
+        <li>Раз в месяц — короткий разбор изменений в законодательстве по казначейскому сопровождению</li>
       </ul>
     </div>
     <form class="kz-sub__form" id="kzSubForm" novalidate data-endpoint="/php/subscribe.php">
@@ -1205,7 +1205,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   if(c)c.addEventListener('click',function(){try{navigator.clipboard&&navigator.clipboard.writeText(location.href);}catch(e){}var s=c.querySelector('span');if(s){var o=s.textContent;s.textContent='Скопировано ✓';setTimeout(function(){s.textContent=o;},1500);}});
   if(p)p.addEventListener('click',function(){window.print();});
 })();
-/* mini calculator: попадает ли контракт под КС 2026 */
+/* mini calculator: попадает ли контракт под казначейское сопровождение 2026 */
 (function(){
   var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');
   if(!type||!sum||!out)return;

@@ -645,7 +645,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
 
 
         <!-- ============================================================ -->
-        <!-- 06.5 RESCUE — Особый случай: подрядчик по КС подвёл           -->
+        <!-- 06.5 RESCUE — Особый случай: подрядчик по казначейскому сопровождению подвёл           -->
         <!-- ============================================================ -->
         <section class="v2-section v2-screen v2-rescue" id="rescue" aria-labelledby="rescue-title">
           <div class="v2-container">
@@ -1354,7 +1354,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
         </a>
       </div>
 
-<!-- ПОДПИСКА «Календарь дедлайнов КС 2026» (DashaMail) — главная -->
+<!-- ПОДПИСКА «Календарь дедлайнов казначейского сопровождения 2026» (DashaMail) — главная -->
 <section class="kz-sub" aria-labelledby="kzSubTitle" data-source="home">
   <style>
   .kz-sub{--i:var(--ink,#1A1A1A);--s:var(--sepia,#8B6F47);--l:var(--line,#e4ddd0);--c:var(--card,#fffdf8);--p:var(--paper,#FAF7F0);--m:var(--ink-mute,#8a8170);--sf:var(--ink-soft,#56524b);
@@ -1396,7 +1396,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
         <li>Дедлайн принятия бюджетных обязательств и график операций конца года</li>
         <li>Сроки авансирования по 44-ФЗ и вступления изменений 2026</li>
         <li>Штрафы КоАП с 01.01.2026 и сроки утверждения сведений об операциях</li>
-        <li>Раз в месяц — короткий разбор изменений в законодательстве по КС</li>
+        <li>Раз в месяц — короткий разбор изменений в законодательстве по казначейскому сопровождению</li>
       </ul>
     </div>
 

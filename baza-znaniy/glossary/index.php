@@ -555,12 +555,12 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <h2 id="platezhi">Платежи и санкционирование</h2>
     <div class="answer reveal">
       <dl class="gloss">
-        <div><dt>Казначейское сопровождение (КС)</dt><dd>Режим, при котором расчёты по контракту идут через лицевой счёт в казначействе, а каждый платёж санкционируется. <a href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/">Подробнее →</a></dd></div>
+        <div><dt>Казначейское сопровождение (казначейского сопровождения)</dt><dd>Режим, при котором расчёты по контракту идут через лицевой счёт в казначействе, а каждый платёж санкционируется. <a href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/">Подробнее →</a></dd></div>
         <div><dt>Санкционирование</dt><dd>Проверка казначейством законности и обоснованности расхода перед проведением платежа. <a href="/baza-znaniy/poryadok-sankcionirovaniya-rashodov/">Порядок →</a></dd></div>
         <div><dt>Целевые средства</dt><dd>Средства, доведённые по контракту и расходуемые строго на его исполнение.</dd></div>
         <div><dt>Сведения об операциях</dt><dd>Утверждаемый документ с плановыми операциями по целевым средствам; по нему идёт санкционирование.</dd></div>
         <div><dt>Распоряжение о казначейском платеже</dt><dd>Документ, которым исполнитель инициирует платёж по контракту; направляется в ТОФК на санкционирование.</dd></div>
-        <div><dt>Расширенное КС</dt><dd>Режим для крупных контрактов и ГОЗ: дополнительно проверяется обоснованность затрат и структура цены.</dd></div>
+        <div><dt>Расширенное казначейское сопровождение</dt><dd>Режим для крупных контрактов и ГОЗ: дополнительно проверяется обоснованность затрат и структура цены.</dd></div>
       </dl>
     </div>
 
@@ -577,7 +577,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <h2 id="goz">Гособоронзаказ</h2>
     <div class="answer reveal">
       <dl class="gloss">
-        <div><dt>ГОЗ</dt><dd>Государственный оборонный заказ; регулируется 275-ФЗ. <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/">КС ГОЗ →</a></dd></div>
+        <div><dt>ГОЗ</dt><dd>Государственный оборонный заказ; регулируется 275-ФЗ. <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/">казначейское сопровождение ГОЗ →</a></dd></div>
         <div><dt>ИГК</dt><dd>Идентификатор государственного контракта — 25-значный код, связывающий операции и счёт с конкретным контрактом.</dd></div>
         <div><dt>Цепочка кооперации</dt><dd>Головной исполнитель и соисполнители ГОЗ; расчёты по каждому звену проходят санкционирование.</dd></div>
         <div><dt>Структура цены</dt><dd>Состав затрат, формирующих цену контракта ГОЗ; проверяется при расширенном сопровождении.</dd></div>
@@ -964,7 +964,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   if(c)c.addEventListener('click',function(){try{navigator.clipboard&&navigator.clipboard.writeText(location.href);}catch(e){}var s=c.querySelector('span');if(s){var o=s.textContent;s.textContent='Скопировано ✓';setTimeout(function(){s.textContent=o;},1500);}});
   if(p)p.addEventListener('click',function(){window.print();});
 })();
-/* mini calculator: попадает ли контракт под КС 2026 */
+/* mini calculator: попадает ли контракт под казначейское сопровождение 2026 */
 (function(){
   var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');
   if(!type||!sum||!out)return;

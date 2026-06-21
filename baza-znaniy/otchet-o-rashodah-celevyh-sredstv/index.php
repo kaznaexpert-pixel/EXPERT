@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Отчёт о расходах целевых средств при КС в 2026 | КазнаЭксперт</title>
+<title>Отчёт о расходах целевых средств при казначейском сопровождении в 2026 | КазнаЭксперт</title>
 <meta name="description" content="Отчёт о расходах целевых средств при казначейском сопровождении: чем отличается от сведений об операциях, как заполнить в «Электронном бюджете», сроки и коды.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Отчёт о расходах целевых средств: как заполнить и сдать при КС", "description": "Отчёт о расходах целевых средств при казначейском сопровождении: чем отличается от сведений об операциях, как заполнить в «Электронном бюджете», сроки и коды.", "inLanguage": "ru-RU", "datePublished": "2026-06-18", "dateModified": "2026-06-18", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/otchet-o-rashodah-celevyh-sredstv/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Отчёт о расходах целевых средств: как заполнить и сдать при казначейском сопровождении", "description": "Отчёт о расходах целевых средств при казначейском сопровождении: чем отличается от сведений об операциях, как заполнить в «Электронном бюджете», сроки и коды.", "inLanguage": "ru-RU", "datePublished": "2026-06-18", "dateModified": "2026-06-18", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/otchet-o-rashodah-celevyh-sredstv/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Отчёт о расходах целевых средств", "item": "https://kaznaexpert.ru/baza-znaniy/otchet-o-rashodah-celevyh-sredstv/"}]}
@@ -79,7 +79,7 @@
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
 <meta property="og:title" content="Отчёт о расходах целевых средств при казначейском сопровождении">
-<meta property="og:description" content="Как заполнить и сдать отчёт о расходах целевых средств при КС: отличие от сведений об операциях, структура отчёта, сроки, коды направления по 214н и проверка казначейством.">
+<meta property="og:description" content="Как заполнить и сдать отчёт о расходах целевых средств при казначейском сопровождении: отличие от сведений об операциях, структура отчёта, сроки, коды направления по 214н и проверка казначейством.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/otchet-o-rashodah-celevyh-sredstv/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
@@ -91,7 +91,7 @@
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Отчёт о расходах целевых средств при казначейском сопровождении">
-<meta name="twitter:description" content="Как заполнить и сдать отчёт о расходах целевых средств при КС: отличие от сведений об операциях, структура отчёта, сроки, коды направления по 214н и проверка казначейством.">
+<meta name="twitter:description" content="Как заполнить и сдать отчёт о расходах целевых средств при казначейском сопровождении: отличие от сведений об операциях, структура отчёта, сроки, коды направления по 214н и проверка казначейством.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 
@@ -545,7 +545,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Операции и отчётность <span class="fresh">Актуально на 2026</span></div>
-    <h1>Отчёт о расходах целевых средств: как заполнить и сдать при КС</h1>
+    <h1>Отчёт о расходах целевых средств: как заполнить и сдать при казначейском сопровождении</h1>
     <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 18 июня 2026</span></div>
     </div>
 
@@ -585,7 +585,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <h2 id="kakie-otchety">Какие отчёты сдают при казначейском сопровождении</h2>
     <p>Получатель целевых средств обычно имеет дело не с одним документом, а с несколькими. У каждого своя роль, и их полезно держать в голове как единую систему.</p>
     <table>
-      <caption>Документы отчётности и санкционирования при КС</caption>
+      <caption>Документы отчётности и санкционирования при казначейском сопровождении</caption>
       <tr><th>Документ</th><th>Назначение</th><th>Когда формируется</th></tr>
       <tr><td>Сведения об операциях с целевыми средствами</td><td>Основание для санкционирования расходов</td><td>До расходования средств</td></tr>
       <tr><td>Отчёт о расходах целевых средств</td><td>Подтверждение фактических расходов</td><td>Периодически, постфактум</td></tr>
@@ -822,10 +822,10 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <span class="kz-sub__eyebrow">Гайд · PDF</span>
       <h2 class="kz-sub__title" id="kzSubTitle">Календарь дедлайнов по казначейскому сопровождению 2026</h2>
       <ul class="kz-sub__list">
-        <li>Реквизиты платежей при КС: ИГК, назначение платежа, сроки</li>
+        <li>Реквизиты платежей при казначейском сопровождении: ИГК, назначение платежа, сроки</li>
         <li>Дедлайн принятия бюджетных обязательств и график конца года</li>
         <li>Штрафы КоАП с 01.01.2026 и сроки утверждения сведений</li>
-        <li>Раз в месяц — короткий разбор изменений в законодательстве по КС</li>
+        <li>Раз в месяц — короткий разбор изменений в законодательстве по казначейскому сопровождению</li>
       </ul>
     </div>
     <form class="kz-sub__form" id="kzSubForm" novalidate data-endpoint="/php/subscribe.php">
@@ -1077,7 +1077,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   if(c)c.addEventListener('click',function(){try{navigator.clipboard&&navigator.clipboard.writeText(location.href);}catch(e){}var s=c.querySelector('span');if(s){var o=s.textContent;s.textContent='Скопировано ✓';setTimeout(function(){s.textContent=o;},1500);}});
   if(p)p.addEventListener('click',function(){window.print();});
 })();
-/* mini calculator: попадает ли контракт под КС 2026 */
+/* mini calculator: попадает ли контракт под казначейское сопровождение 2026 */
 (function(){
   var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');
   if(!type||!sum||!out)return;
