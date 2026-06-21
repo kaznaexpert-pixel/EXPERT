@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Причины отказа казначейства в санкционировании 2026 | КазнаЭксперт</title>
+<title>Причины отказа казначейства в санкционировании 2026</title>
 <meta name="description" content="10 типичных причин отказа казначейства в санкционировании (ИГК, код направления расходования, документы, сведения) и чек-лист, как их избежать в 2026 году.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

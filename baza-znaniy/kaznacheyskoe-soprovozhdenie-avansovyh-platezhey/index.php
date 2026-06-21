@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Казначейское сопровождение авансовых платежей 2026 | КазнаЭксперт</title>
+<title>Казначейское сопровождение авансовых платежей 2026</title>
 <meta name="description" content="Какие авансы по госконтрактам подпадают под казначейское сопровождение, как санкционируется и подтверждается аванс и в каком порядке казначейство его возвращает.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

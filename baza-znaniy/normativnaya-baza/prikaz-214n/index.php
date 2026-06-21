@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Приказ Минфина № 214н — санкционирование операций при казначейском</title>
+<title>Приказ Минфина № 214н: санкционирование операций</title>
 <meta name="description" content="Главный приказ о санкционировании: сам Порядок, форма Сведений об операциях (ОКУД 0501213, Прил. 1) и перечни кодов направлений расходования.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

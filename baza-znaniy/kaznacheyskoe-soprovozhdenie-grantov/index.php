@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Казначейское сопровождение грантов в форме субсидий | КазнаЭксперт</title>
+<title>Казначейское сопровождение грантов в форме субсидий</title>
 <meta name="description" content="Когда грант в форме субсидии попадает под казначейское сопровождение в 2026: правовая основа по ст. 78.1 БК, кто получатели, режим целевых средств и отчётность.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Казначейское сопровождение в Волгограде — под ключ | КазнаЭксперт</title>
+<title>Казначейское сопровождение в Волгограде — под ключ</title>
 <meta name="description" content="Казначейское сопровождение госконтрактов в Волгограде: открытие счёта в УФК, платежи, санкционирование, спасение контрактов. Дистанционно, фикс-цены.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

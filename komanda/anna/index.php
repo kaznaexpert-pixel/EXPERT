@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Анна — специалист по казначейскому сопровождению | КазнаЭксперт</title>
+<title>Анна — специалист по казначейскому сопровождению</title>
 <meta name="description" content="Анна — специалист КазнаЭксперт по казначейскому сопровождению: открытие лицевого счёта, Сведения об операциях, проведение и санкционирование платежей без возвратов.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

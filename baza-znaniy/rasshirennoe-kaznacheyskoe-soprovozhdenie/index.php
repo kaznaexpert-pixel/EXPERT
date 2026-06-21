@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Расширенное казначейское сопровождение в 2026 | КазнаЭксперт</title>
+<title>Расширенное казначейское сопровождение в 2026</title>
 <meta name="description" content="Расширенное казначейское сопровождение по ст. 242.24 БК РФ: когда применяется, проверка факта поставки, раздельного учёта и обоснованности затрат.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

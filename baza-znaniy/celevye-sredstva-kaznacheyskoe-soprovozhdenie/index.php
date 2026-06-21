@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Целевые средства: что это, виды, режим, коды | КазнаЭксперт</title>
+<title>Целевые средства: что это, виды, режим, коды</title>
 <meta name="description" content="Что такое целевые средства, какие средства относятся к целевым в 2026 году по ст. 5 № 426-ФЗ и в каком режиме они расходуются с лицевого счёта 71.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

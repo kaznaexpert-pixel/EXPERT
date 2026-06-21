@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Уполномоченные банки по ГОЗ: ПСБ и опорный банк ОПК | КазнаЭксперт</title>
+<title>Уполномоченные банки по ГОЗ: ПСБ и опорный банк ОПК</title>
 <meta name="description" content="Уполномоченные банки по гособоронзаказу: что это и требования 275-ФЗ, ПСБ как опорный банк ОПК, банковское сопровождение и режим отдельного счёта в 2026 году.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

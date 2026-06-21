@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Казначейское сопровождение по 223-ФЗ в 2026 | КазнаЭксперт</title>
+<title>Казначейское сопровождение по 223-ФЗ в 2026</title>
 <meta name="description" content="Подлежат ли контракты по 223-ФЗ казначейскому сопровождению: зависит не от закона, а от целевого характера средств. Режим счёта и отличие от 44-ФЗ.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

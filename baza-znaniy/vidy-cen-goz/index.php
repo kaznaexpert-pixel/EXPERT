@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Виды цен ГОЗ: чем отличается ориентировочная от фиксированной</title>
+<title>Виды цен ГОЗ: ориентировочная и фиксированная</title>
 <meta name="description" content="Чем отличается ориентировочная цена ГОЗ от фиксированной и какие ещё виды цен есть (ст. 11 № 275-ФЗ): сравнение, когда применяют и кто инициирует перевод.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

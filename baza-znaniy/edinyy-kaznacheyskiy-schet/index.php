@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Единый казначейский счёт (ЕКС): что это и реквизиты | КазнаЭксперт</title>
+<title>Единый казначейский счёт (ЕКС): что это и реквизиты</title>
 <meta name="description" content="Единый казначейский счёт: банковский счёт ФК в Банке России на счёте 40102, поля 15 и 17 платёжки, отличие от казначейского и расчётного счёта. Разбор эксперта.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

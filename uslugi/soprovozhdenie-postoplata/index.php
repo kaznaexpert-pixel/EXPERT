@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Постоплата по госконтракту без возвратов — от 59 000 ₽ | КазнаЭксперт</title>
+<title>Постоплата по госконтракту без возвратов — от 59 000 ₽</title>
 <meta name="description" content="Проведём постоплату по госконтракту без возвратов и в срок: проверка документов, работа с казначейством, контроль до зачисления.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

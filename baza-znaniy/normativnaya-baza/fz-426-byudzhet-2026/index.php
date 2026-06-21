@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>426-ФЗ о федеральном бюджете на 2026 год: какие контракты попадают</title>
+<title>426-ФЗ о бюджете 2026 и казначейское сопровождение</title>
 <meta name="description" content="Задаёт на 2026 год конкретные случаи и стоимостные пороги обязательного казначейского сопровождения средств федерального бюджета, включая авансы по госконтрактам.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

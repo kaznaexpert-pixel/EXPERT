@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Что такое гособоронзаказ (ГОЗ): простыми словами 2026 | КазнаЭксперт</title>
+<title>Что такое гособоронзаказ (ГОЗ): простыми словами 2026</title>
 <meta name="description" content="Гособоронзаказ (ГОЗ) — задания государства на поставки для обороны по Закону № 275-ФЗ: понятие, участники, кооперация, цены, сопровождение и ответственность.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

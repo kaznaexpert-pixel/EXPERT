@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Условие о казначейском сопровождении в контракте | КазнаЭксперт</title>
+<title>Условие о казначейском сопровождении в контракте</title>
 <meta name="description" content="Когда условие о казначейском сопровождении обязательно в контракте, какие положения должны быть в тексте: счёт, идентификатор, санкционирование, отчётность, образец.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

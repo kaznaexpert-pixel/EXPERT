@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Кейсы казначейского сопровождения — реальный опыт КазнаЭксперт</title>
+<title>Кейсы казначейского сопровождения — опыт практики</title>
 <meta name="description" content="12 обезличенных кейсов казначейского сопровождения: открытие счетов, спасение контрактов, аванс и ГОЗ. Проблема, решение и результат: 44-ФЗ, 223-ФЗ, 275-ФЗ.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

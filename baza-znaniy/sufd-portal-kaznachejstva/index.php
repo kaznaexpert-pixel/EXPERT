@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>СУФД-портал казначейства: что это и как подключиться | КазнаЭксперт</title>
+<title>СУФД-портал казначейства: что это и как подключиться</title>
 <meta name="description" content="СУФД-портал Федерального казначейства: что это, как подключиться через УФК, требования к рабочему месту, вход по сертификату и типовые ошибки. Разбор эксперта.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

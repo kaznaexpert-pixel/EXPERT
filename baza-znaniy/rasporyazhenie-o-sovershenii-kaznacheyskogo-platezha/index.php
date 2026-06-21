@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Распоряжение о казначейском платеже: подраздел в ЛК и возврат</title>
+<title>Распоряжение о казначейском платеже: ЛК и возврат</title>
 <meta name="description" content="Как перейти в подраздел «Распоряжения» в личном кабинете «Электронного бюджета», почему его нет и что делать, как заполнить и вернуть распоряжение.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

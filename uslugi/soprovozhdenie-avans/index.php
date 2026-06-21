@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Сопровождение контракта с авансом — 79 000 ₽/мес | КазнаЭксперт</title>
+<title>Сопровождение контракта с авансом — 79 000 ₽/мес</title>
 <meta name="description" content="Полное казначейское сопровождение контракта с авансом: контроль целевого использования, санкционирование платежей, цепочка кооперации, раздельный учёт.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

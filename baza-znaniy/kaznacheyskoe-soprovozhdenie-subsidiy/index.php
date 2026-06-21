@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Казначейское сопровождение субсидий в 2026 | КазнаЭксперт</title>
+<title>Казначейское сопровождение субсидий в 2026</title>
 <meta name="description" content="Казначейское сопровождение субсидий юрлицам в 2026: какие субсидии попадают (ст. 5 № 426-ФЗ), лицевой счёт в ТОФК, санкционирование расходов и порядок для.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Существенные условия контракта по ГОЗ в 2026 | КазнаЭксперт</title>
+<title>Существенные условия контракта по ГОЗ в 2026</title>
 <meta name="description" content="Существенные условия контракта по ГОЗ: отдельный счёт и режим использования, ИГК, банковское или казначейское сопровождение, кооперация.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

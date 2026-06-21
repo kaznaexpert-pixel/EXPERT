@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Коды источников поступлений целевых средств 2026 (214н) | КазнаЭксперт</title>
+<title>Коды источников поступлений целевых средств 2026 (214н)</title>
 <meta name="description" content="Коды источников поступлений целевых средств (прил. 2 к приказу 214н) на 2026: госконтракты, субсидии, инвестиции, ГОЗ, депозиты, факторинг — как определить свой.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

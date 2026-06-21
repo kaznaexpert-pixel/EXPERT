@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Порядок казначейского сопровождения средств в 2026 | КазнаЭксперт</title>
+<title>Порядок казначейского сопровождения средств в 2026</title>
 <meta name="description" content="Порядок казначейского сопровождения средств: правовая база, этапы, санкционирование, режим счёта, расширенное сопровождение и пороги 2026 года.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

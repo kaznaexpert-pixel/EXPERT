@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Раздельный учёт по ГОЗ 2026: методика, проводки | КазнаЭксперт</title>
+<title>Раздельный учёт по ГОЗ 2026: методика, проводки</title>
 <meta name="description" content="Раздельный учёт по ГОЗ в 2026: кто обязан по 275-ФЗ, методика распределения затрат, счета и проводки, учётная политика, формы, штрафы ст. 15.37.1 КоАП.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

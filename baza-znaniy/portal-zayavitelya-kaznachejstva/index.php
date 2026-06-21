@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Портал заявителя казначейства (ФЗС): вход и заявка | КазнаЭксперт</title>
+<title>Портал заявителя казначейства (ФЗС): вход и заявка</title>
 <meta name="description" content="Портал заявителя ФЗС (fzs.roskazna.ru): подготовка рабочего места, договор присоединения, первичный запрос на сертификат УЦ ФК и замена без визита в ТОФК.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

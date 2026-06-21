@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Код 0100/8100/9100 — Выплаты персоналу | КазнаЭксперт</title>
+<title>Код 0100/8100/9100 — Выплаты персоналу</title>
 <meta name="description" content="Код направления расходования 0100 «Выплаты персоналу» в казначейском сопровождении: подкоды, варианты 6/8/9, ошибки санкционирования, документы.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

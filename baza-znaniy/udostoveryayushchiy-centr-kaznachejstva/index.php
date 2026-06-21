@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Удостоверяющий центр Федерального казначейства (УЦ ФК) | КазнаЭксперт</title>
+<title>Удостоверяющий центр Федерального казначейства (УЦ ФК)</title>
 <meta name="description" content="Удостоверяющий центр Федерального казначейства: кому выдаёт сертификат, на каком основании по 63-ФЗ, чем отличается от УЦ ФНС и как получить подпись.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

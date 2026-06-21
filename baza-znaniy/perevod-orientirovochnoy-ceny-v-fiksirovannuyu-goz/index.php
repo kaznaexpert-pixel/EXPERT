@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Перевод ориентировочной цены в фиксированную по ГОЗ: допсоглашение</title>
+<title>Перевод цены ГОЗ в фиксированную: допсоглашение</title>
 <meta name="description" content="Как перевести ориентировочную цену ГОЗ в фиксированную: сроки, пакет РКМ, готовая структура допсоглашения о переводе цены и штрафы от цены этапа. ПП № 1465.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

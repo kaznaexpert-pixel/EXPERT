@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Виды лицевых счетов в казначействе: коды и расшифровка | КазнаЭксперт</title>
+<title>Виды лицевых счетов в казначействе: коды и расшифровка</title>
 <meta name="description" content="Виды лицевых счетов в казначействе: расшифровка кодов 01, 03, 05, 41, 71 и других, структура номера счёта и какой счёт открывают при казначейском сопровождении.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

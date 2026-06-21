@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>РКМ по гособоронзаказу: формы 995/22 и заполнение | КазнаЭксперт</title>
+<title>РКМ по гособоронзаказу: формы 995/22 и заполнение</title>
 <meta name="description" content="РКМ по ГОЗ: действующие формы приказа ФАС № 995/22, привнесённые и собственные затраты, прибыль по формуле «1+20» и пояснительная записка без замечаний ВП.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Гарантийные обязательства по 44-ФЗ: обеспечение, размер, срок</title>
+<title>Гарантийные обязательства по 44-ФЗ: обеспечение</title>
 <meta name="description" content="Гарантийные обязательства по 44-ФЗ: что это, когда нужно обеспечение, размер до 10% НМЦК, независимая гарантия или деньги, срок и порядок возврата.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

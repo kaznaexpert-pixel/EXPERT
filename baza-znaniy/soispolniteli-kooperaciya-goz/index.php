@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Соисполнители и кооперация ГОЗ: договоры, ИГК, счета | КазнаЭксперт</title>
+<title>Соисполнители и кооперация ГОЗ: договоры, ИГК, счета</title>
 <meta name="description" content="Цепочка кооперации в ГОЗ: кто такие соисполнители, что прописать в договоре, единый идентификатор (ИГК), отдельные счета и сопровождение по всей цепочке.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

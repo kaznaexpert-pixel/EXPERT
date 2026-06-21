@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Казначейский контракт: что это и как работать в 2026 | КазнаЭксперт</title>
+<title>Казначейский контракт: что это и как работать в 2026</title>
 <meta name="description" content="Казначейский контракт (договор): что означает условие о казначейском сопровождении, лицевой счёт 71, ИГК, санкционирование и вывод прибыли. Разбор эксперта.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

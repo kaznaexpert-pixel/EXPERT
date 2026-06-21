@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Учётная политика по раздельному учёту ГОЗ в 2026 | КазнаЭксперт</title>
+<title>Учётная политика по раздельному учёту ГОЗ в 2026</title>
 <meta name="description" content="Учётная политика по раздельному учёту ГОЗ: что закрепить — аналитика по ИГК, прямые и косвенные затраты, ПП № 47 или приказ Минфина № 210н.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

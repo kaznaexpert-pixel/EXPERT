@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Коды направлений расходования целевых средств 2026 — справочник | Казн</title>
+<title>Коды направлений расходования целевых средств 2026</title>
 <meta name="description" content="Полный справочник кодов направлений расходования целевых средств (214н, Прил.3) на 2026: укрупнённые коды 0100–2000, подкоды, правило первой цифры 6/8/9, примеры и.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

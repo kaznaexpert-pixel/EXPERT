@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Пени и штрафы по 44-ФЗ: калькулятор неустойки 2026 | КазнаЭксперт</title>
+<title>Пени и штрафы по 44-ФЗ: калькулятор неустойки 2026</title>
 <meta name="description" content="Как рассчитать пени и штрафы по 44-ФЗ в 2026: формула 1/300 ключевой ставки, таблица штрафов ПП № 1042, онлайн-калькулятор и как снизить неустойку.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

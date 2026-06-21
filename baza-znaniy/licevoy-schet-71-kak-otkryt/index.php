@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Лицевой счёт 71 в ТОФК: как открыть, документы 2026 | КазнаЭксперт</title>
+<title>Лицевой счёт 71 в ТОФК: как открыть, документы 2026</title>
 <meta name="description" content="Лицевой счёт 71: кому нужен, какие документы, как открыть через «Электронный бюджет», сроки и частые задержки. Порядок открытия счёта казначейского сопровождения в.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

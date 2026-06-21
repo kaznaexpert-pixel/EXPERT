@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Статья 242.23 БК РФ — основы казначейского сопровождения: что это</title>
+<title>Статья 242.23 БК РФ: основы казначейского сопровождения</title>
 <meta name="description" content="Базовая статья: вводит само понятие казначейского сопровождения, состав участников, открытие лицевых счетов в ТОФК и санкционирование операций по правилам Минфина.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

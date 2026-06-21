@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Корневые сертификаты УЦ казначейства: как установить | КазнаЭксперт</title>
+<title>Корневые сертификаты УЦ казначейства: как установить</title>
 <meta name="description" content="Корневые сертификаты УЦ казначейства: где скачать, в какие хранилища установить корневой Минцифры и сертификат УЦ ФК, проверка цепочки доверия и типовые ошибки.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Отдельный счёт по ГОЗ: режим, запреты, вывод прибыли | КазнаЭксперт</title>
+<title>Отдельный счёт по ГОЗ: режим, запреты, вывод прибыли</title>
 <meta name="description" content="Режим отдельного счёта по ГОЗ: разрешённые списания по ст. 8.3 № 275-ФЗ, 16 запретов ст. 8.4, лимит «иных расходов» в 2026 году и порядок вывода прибыли.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

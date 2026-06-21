@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Кто попадает под казначейское сопровождение в 2026: пороги и случаи</title>
+<title>Кто попадает под казначейское сопровождение в 2026</title>
 <meta name="description" content="Кто попадает под казначейское сопровождение в 2026: пороги 100 / 10 / 3 млн ₽, какие контракты, авансы, субсидии и ГОЗ по статье 5 Закона № 426-ФЗ.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

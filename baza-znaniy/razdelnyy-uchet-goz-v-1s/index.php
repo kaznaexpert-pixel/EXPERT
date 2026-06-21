@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Раздельный учёт по ГОЗ в 1С: настройка 2026 | КазнаЭксперт</title>
+<title>Раздельный учёт по ГОЗ в 1С: настройка 2026</title>
 <meta name="description" content="Как настроить и вести раздельный учёт по ГОЗ в 1С:Бухгалтерии КОРП: функциональность контрактов госзаказа, разрез по ИГК, отдельные счета и отчёт по контракту.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

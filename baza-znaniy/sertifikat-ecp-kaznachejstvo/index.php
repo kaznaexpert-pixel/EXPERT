@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Сертификат и ЭЦП казначейства: как получить в 2026 | КазнаЭксперт</title>
+<title>Сертификат и ЭЦП казначейства: как получить в 2026</title>
 <meta name="description" content="Как получить ЭЦП казначейства в 2026: кому нужен сертификат УЦ ФК, документы, Портал заявителя, экспортируемый ключ, подключение к «Электронному бюджету», продление.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

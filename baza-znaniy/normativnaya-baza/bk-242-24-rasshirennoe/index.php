@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Статья 242.24 БК РФ — расширенное казначейское сопровождение: чем оно</title>
+<title>Статья 242.24 БК РФ: расширенное казначейское сопровождение</title>
 <meta name="description" content="Устанавливает расширенное казначейское сопровождение: дополнительно проверяются фактические затраты, структура цены, ведётся раздельный учёт.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

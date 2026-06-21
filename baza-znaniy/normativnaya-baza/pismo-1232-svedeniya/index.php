@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Письмо Минфина и Казначейства № 02-12-10/1232 — как формировать</title>
+<title>Письмо № 02-12-10/1232: как формировать Сведения</title>
 <meta name="description" content="Разъясняет формирование и представление Сведений (ф. 0501213) с учётом приказа № 197н: отражение показателей, указание кодов источников.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

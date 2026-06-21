@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Сведения об операциях с целевыми средствами 2026 | КазнаЭксперт</title>
+<title>Сведения об операциях с целевыми средствами 2026</title>
 <meta name="description" content="Как заполнить сведения об операциях с целевыми средствами (форма 0501213): состав, кто формирует и утверждает, код направления расходования, сроки и частые ошибки.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Книга регистрации казначейских счетов: что это и как найти счёт</title>
+<title>Книга регистрации казначейских счетов: что это</title>
 <meta name="description" content="Книга регистрации казначейских счетов: что это, кто ведёт, как открывается казначейский счёт, виды счетов 03, ЕКС, БИК ТОФК и где взять реквизиты платежа.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

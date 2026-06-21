@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>275-ФЗ о гособоронзаказе: казначейское и банковское сопровождение</title>
+<title>275-ФЗ о гособоронзаказе: казначейское сопровождение</title>
 <meta name="description" content="Банковское и казначейское сопровождение расчётов по ГОЗ, режим отдельного счёта (ст. 8.3), освобождение от обеспечения исполнения контракта при сопровождении.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

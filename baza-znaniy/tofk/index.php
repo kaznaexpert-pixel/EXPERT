@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Что такое УФК и ТОФК: коды казначейства по регионам | КазнаЭксперт</title>
+<title>Что такое УФК и ТОФК: коды казначейства по регионам</title>
 <meta name="description" content="Что такое УФК и ТОФК, чем управление отличается от Федерального казначейства, как узнать код (КОФК), официальный сайт и адрес вашего УФК — справочник по регионам РФ.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

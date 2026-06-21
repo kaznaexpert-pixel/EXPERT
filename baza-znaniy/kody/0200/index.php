@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Код 0200/6200/8200/9200 — Закупка работ и услуг | КазнаЭксперт</title>
+<title>Код 0200/6200/8200/9200 — Закупка работ и услуг</title>
 <meta name="description" content="Код направления расходования 0200 «Закупка работ и услуг» в казначейском сопровождении: подкоды, варианты 6/8/9, ошибки санкционирования, документы.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

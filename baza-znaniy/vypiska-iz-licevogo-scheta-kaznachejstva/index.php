@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Выписка из лицевого счёта казначейства: как читать | КазнаЭксперт</title>
+<title>Выписка из лицевого счёта казначейства: как читать</title>
 <meta name="description" content="Выписка из лицевого счёта 71: как получить в «Электронном бюджете», как читать поля, входящий и исходящий остаток, приложения к выписке и сверка с учётом.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Электронный бюджет для исполнителя: вход и работа | КазнаЭксперт</title>
+<title>Электронный бюджет для исполнителя: вход и работа</title>
 <meta name="description" content="ГИИС «Электронный бюджет» для исполнителя контракта под казначейским сопровождением: чем отличается от СУФД и ФЗС, как подключиться через ТОФК и войти по подписи.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
