@@ -80,6 +80,7 @@
   "@context":"https://schema.org","@type":"Article",
   "@id":"https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/#article",
   "headline":"Казначейское сопровождение ГОЗ в 2026 году: порядок по 275-ФЗ",
+  "image":"https://kaznaexpert.ru/img/og-image.png",
   "description":"Кто обязан, порог, отдельный и лицевой счёт, раздельный учёт, расширенное казначейское сопровождение, штрафы, отличие от банковского сопровождения.",
   "author":{"@type":"Person","@id":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person","name":"Ярослав Михайлов","jobTitle":"Главный эксперт по казначейскому сопровождению","worksFor":{"@id":"https://kaznaexpert.ru/#organization"}},
   "publisher":{"@type":"ProfessionalService","@id":"https://kaznaexpert.ru/#organization","name":"КазнаЭксперт"},
