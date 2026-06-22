@@ -543,6 +543,17 @@ a.kx-card__val:hover{color:var(--sep)}
               <p class="v2-footer-tagline">Полное казначейское сопровождение под ключ. Работа с УФК по всей России с 2009 года.</p>
             </div>
 
+            <nav class="v2-footer-col" aria-label="Разделы сайта">
+              <h3 class="v2-footer-h">Разделы</h3>
+              <a href="/baza-znaniy/">База знаний</a>
+              <a href="/baza-znaniy/kody/">Коды направлений расходования</a>
+              <a href="/baza-znaniy/kody-postupleniy/">Коды источников поступлений</a>
+              <a href="/baza-znaniy/normativnaya-baza/">Нормативная база</a>
+              <a href="/baza-znaniy/tofk/">Справочник ТОФК</a>
+              <a href="/baza-znaniy/glossary/">Глоссарий</a>
+              <a href="/regiony/">Регионы</a>
+            </nav>
+
             <nav class="v2-footer-col" aria-label="Связаться">
               <h3 class="v2-footer-h">Связаться</h3>
               <a href="tel:+79818331010">+7 981 833-10-10</a>
