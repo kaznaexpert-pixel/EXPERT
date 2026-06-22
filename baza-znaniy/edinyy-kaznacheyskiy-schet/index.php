@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Единый казначейский счёт (ЕКС): что это и реквизиты</title>
-<meta name="description" content="Единый казначейский счёт: банковский счёт ФК в Банке России на счёте 40102, поля 15 и 17 платёжки, отличие от казначейского и расчётного счёта. Разбор эксперта.">
+<title>ЕКС в реквизитах: что это значит — единый казначейский счёт</title>
+<meta name="description" content="ЕКС в реквизитах банка — что это значит: единый казначейский счёт (40102) в поле 15 платёжки, казначейский счёт (03) в поле 17. Какой счёт указывать.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -100,8 +100,8 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Единый казначейский счёт (ЕКС): что это и реквизиты в платёжке">
-<meta property="og:description" content="ЕКС 40102 в Банке России: как указывать в полях 15 и 17 платёжного поручения, частые ошибки и связь с казначейским сопровождением. Разбор эксперта.">
+<meta property="og:title" content="ЕКС в реквизитах: что это значит и какой счёт указывать">
+<meta property="og:description" content="ЕКС в реквизитах банка — что это значит: единый казначейский счёт (40102) в поле 15 платёжки, казначейский счёт (03) в поле 17. Какой счёт указывать.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/edinyy-kaznacheyskiy-schet/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
@@ -112,8 +112,8 @@
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Единый казначейский счёт (ЕКС): что это и реквизиты в платёжке">
-<meta name="twitter:description" content="ЕКС 40102 в Банке России: как указывать в полях 15 и 17 платёжного поручения, частые ошибки и связь с казначейским сопровождением. Разбор эксперта.">
+<meta name="twitter:title" content="ЕКС в реквизитах: что это значит и какой счёт указывать">
+<meta name="twitter:description" content="ЕКС в реквизитах банка — что это значит: единый казначейский счёт (40102) в поле 15 платёжки, казначейский счёт (03) в поле 17. Какой счёт указывать.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 

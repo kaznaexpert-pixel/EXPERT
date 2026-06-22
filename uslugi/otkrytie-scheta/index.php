@@ -526,7 +526,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
           <span class="v2-eyebrow">Услуга · 44-ФЗ · 223-ФЗ · ГОЗ</span>
           <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
         </div>
-        <h1>Откроем казначейский счёт<br><em>за два рабочих дня</em></h1>
+        <h1>Откроем казначейский счёт под ключ<br><em>за два рабочих дня</em></h1>
         <p class="v2-hero-lede"><strong>Берём всю работу с УФК на себя:</strong> анализ контракта, пакет документов, включение в сводный реестр, открытие счёта и настройку «Электронного бюджета». Без возвратов и срыва сроков. По всей России.</p>
         <div class="v2-hero-trust">
           <div class="v2-trust-item"><div class="v2-trust-num">2<span class="v2-trust-suffix">&nbsp;рабочих&nbsp;дня</span></div><div class="v2-trust-label">до открытия счёта</div></div>
