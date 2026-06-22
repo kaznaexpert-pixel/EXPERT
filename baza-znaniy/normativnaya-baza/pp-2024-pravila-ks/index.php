@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Постановление № 2024: Правила сопровождения</title>
-<meta name="description" content="Действующие Правила казначейского сопровождения и расширенного: порядок операций, перечисления, документы. Заменили прежние ежегодные правила.">
+<title>Постановление № 2024 — Правила казначейского сопровождения: как</title>
+<meta name="description" content="Действующие Правила КС и расширенного КС: порядок проведения операций, перечисления, документы. Заменило прежние ежегодные правила.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -26,13 +26,13 @@
 <script>window.YM_PARAMS = {page_type:"npa", cluster:"normativka"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Article", "Legislation"], "headline": "Постановление № 2024 — Правила казначейского сопровождения: как устроена работа на практике", "description": "Действующие Правила казначейского сопровождения и расширенного казначейского сопровождения: порядок проведения операций, перечисления, документы. Заменило прежние ежегодные правила.", "datePublished": "2026-06-06T10:00:00+03:00", "dateModified": "2026-06-06T10:00:00+03:00", "inLanguage": "ru-RU", "legislationIdentifier": "ПП № 2024", "about": "Постановление Правительства РФ от 24.11.2021 № 2024 «О правилах казначейского сопровождения»", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/pp-2024-pravila-ks/"}, "image": "https://kaznaexpert.ru/img/og-image.png"}
+{"@context": "https://schema.org", "@type": ["Article", "Legislation"], "headline": "Постановление № 2024 — Правила казначейского сопровождения: как устроена работа на практике", "description": "Действующие Правила КС и расширенного КС: порядок проведения операций, перечисления, документы. Заменило прежние ежегодные правила.", "datePublished": "2026-06-06T10:00:00+03:00", "dateModified": "2026-06-06T10:00:00+03:00", "inLanguage": "ru-RU", "legislationIdentifier": "ПП № 2024", "about": "Постановление Правительства РФ от 24.11.2021 № 2024 «О правилах казначейского сопровождения»", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/pp-2024-pravila-ks/"}, "image": "https://kaznaexpert.ru/img/og-image.png"}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Нормативная база", "item": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/"}, {"@type": "ListItem", "position": 4, "name": "ПП № 2024 (Правила казначейского сопровождения)"}]}
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Нормативная база", "item": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/"}, {"@type": "ListItem", "position": 4, "name": "ПП № 2024 (Правила КС)"}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Какое постановление сейчас регулирует казначейское сопровождение?", "acceptedAnswer": {"@type": "Answer", "text": "Действующие Правила казначейского сопровождения — Постановление Правительства РФ № 2024 от 24.11.2021 в актуальной редакции."}}, {"@type": "Question", "name": "Правила казначейского сопровождения и расширенного казначейского сопровождения — это разные документы?", "acceptedAnswer": {"@type": "Answer", "text": "Они утверждены одним постановлением № 2024, но это два отдельных раздела Правил с разными требованиями."}}, {"@type": "Question", "name": "Как часто меняются Правила?", "acceptedAnswer": {"@type": "Answer", "text": "Регулярно (последние изменения — 2024–2025 гг.), поэтому ориентируйтесь на действующую редакцию."}}, {"@type": "Question", "name": "Как Правила связаны с приказом 214н?", "acceptedAnswer": {"@type": "Answer", "text": "Правила задают порядок операций, а приказ 214н детализирует, как казначейство санкционирует каждый платёж."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Какое постановление сейчас регулирует казначейское сопровождение?", "acceptedAnswer": {"@type": "Answer", "text": "Действующие Правила КС — Постановление Правительства РФ № 2024 от 24.11.2021 в актуальной редакции."}}, {"@type": "Question", "name": "Правила КС и расширенного КС — это разные документы?", "acceptedAnswer": {"@type": "Answer", "text": "Они утверждены одним постановлением № 2024, но это два отдельных раздела Правил с разными требованиями."}}, {"@type": "Question", "name": "Как часто меняются Правила?", "acceptedAnswer": {"@type": "Answer", "text": "Регулярно (последние изменения — 2024–2025 гг.), поэтому ориентируйтесь на действующую редакцию."}}, {"@type": "Question", "name": "Как Правила связаны с приказом 214н?", "acceptedAnswer": {"@type": "Answer", "text": "Правила задают порядок операций, а приказ 214н детализирует, как казначейство санкционирует каждый платёж."}}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -70,7 +70,7 @@
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
 <meta property="og:title" content="Постановление № 2024 — Правила казначейского сопровождения: как">
-<meta property="og:description" content="Действующие Правила казначейского сопровождения и расширенного казначейского сопровождения: порядок проведения операций, перечисления, документы. Заменило прежние ежегодные правила.">
+<meta property="og:description" content="Действующие Правила КС и расширенного КС: порядок проведения операций, перечисления, документы. Заменило прежние ежегодные правила.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/pp-2024-pravila-ks/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
@@ -506,7 +506,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         </header>
 
 <div class="layout">
-  <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/baza-znaniy/">База знаний</a> › <a href="/baza-znaniy/normativnaya-baza/">Нормативная база</a> › ПП № 2024 (Правила казначейского сопровождения)</nav>
+  <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/baza-znaniy/">База знаний</a> › <a href="/baza-znaniy/normativnaya-baza/">Нормативная база</a> › ПП № 2024 (Правила КС)</nav>
   <aside class="toc" aria-label="Содержание"><div class="toc__label">На странице</div><ul class="toc__list" id="tocList">
     <li><a href="#reg">Что регулирует</a></li><li><a href="#kak">Как это работает</a></li>
     <li><a href="#means">Что значит для исполнителя</a></li><li><a href="#norms">Ключевые нормы</a></li>
@@ -552,17 +552,17 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <div class="tldr">Если Бюджетный кодекс задаёт принципы, то Постановление Правительства № 2024 — это рабочие Правила казначейского сопровождения, по которым реально проводятся операции на лицевом счёте.</div>
 
     <h2 id="reg">Что регулирует</h2>
-    <div class="answer reveal"><p>ПП № 2024 утверждает Правила казначейского сопровождения, осуществляемого Федеральным казначейством, и отдельные Правила расширенного казначейского сопровождения: порядок открытия счетов, проведения и перечисления операций, состав документов, работу со сведениями и направлениями расходования.</p><p>Постановление заменило прежнюю практику, когда правила казначейского сопровождения переписывались в законе о бюджете каждый год, и сделало порядок постоянным и единым.</p></div>
+    <div class="answer reveal"><p>ПП № 2024 утверждает Правила КС, осуществляемого Федеральным казначейством, и отдельные Правила расширенного КС: порядок открытия счетов, проведения и перечисления операций, состав документов, работу со сведениями и направлениями расходования.</p><p>Постановление заменило прежнюю практику, когда правила КС переписывались в законе о бюджете каждый год, и сделало порядок постоянным и единым.</p></div>
 
-    <h2 id="kak">Как это работает на практике</h2><div class="answer reveal"><ol class="ol"><li>Участник открывает лицевой счёт и формирует Сведения об операциях с целевыми средствами — плановый документ по контракту.</li><li>Операции проводятся в пределах утверждённых Сведений; источники поступлений и направления расходования указываются по кодам.</li><li>Каждый платёж санкционируется по приказу 214н — Правила и приказ работают в связке.</li><li>Для расширенного казначейского сопровождения применяется отдельный раздел Правил с дополнительным контролем затрат.</li></ol></div>
+    <h2 id="kak">Как это работает на практике</h2><div class="answer reveal"><ol class="ol"><li>Участник открывает лицевой счёт и формирует Сведения об операциях с целевыми средствами — плановый документ по контракту.</li><li>Операции проводятся в пределах утверждённых Сведений; источники поступлений и направления расходования указываются по кодам.</li><li>Каждый платёж санкционируется по приказу 214н — Правила и приказ работают в связке.</li><li>Для расширенного КС применяется отдельный раздел Правил с дополнительным контролем затрат.</li></ol></div>
 
     <h2 id="means">Что это значит для исполнителя контракта</h2>
-    <div class="answer reveal"><ul class="ul"><li>Все процедуры — от подачи Сведений до санкционирования платежа — выполняются по этим Правилам; знание их экономит время и снижает возвраты.</li><li>Правила разделяют обычное и расширенное казначейское сопровождение: для расширенного действуют дополнительные требования к обоснованию затрат.</li><li>Через Правила увязаны источники поступлений и направления расходования целевых средств.</li><li>Изменения в Правила выходят регулярно — работать нужно строго по действующей редакции.</li></ul></div>
+    <div class="answer reveal"><ul class="ul"><li>Все процедуры — от подачи Сведений до санкционирования платежа — выполняются по этим Правилам; знание их экономит время и снижает возвраты.</li><li>Правила разделяют обычное и расширенное КС: для расширенного действуют дополнительные требования к обоснованию затрат.</li><li>Через Правила увязаны источники поступлений и направления расходования целевых средств.</li><li>Изменения в Правила выходят регулярно — работать нужно строго по действующей редакции.</li></ul></div>
 
     <h2 id="norms">Ключевые нормы</h2>
-    <div class="answer reveal"><table class="ctab"><thead><tr><th>Норма</th><th>Суть</th></tr></thead><tbody><tr><td class="cd">Правила казначейского сопровождения</td><td>порядок проведения операций Федеральным казначейством с целевыми средствами.</td></tr><tr><td class="cd">Правила расширенного казначейского сопровождения</td><td>дополнительный контроль затрат и структуры цены для отдельных контрактов.</td></tr><tr><td class="cd">Перечисление и операции</td><td>условия и ограничения операций по лицевому счёту.</td></tr><tr><td class="cd">Связь с приказом 214н</td><td>санкционирование операций детализирует Порядок 214н Минфина.</td></tr></tbody></table></div>
+    <div class="answer reveal"><table class="ctab"><thead><tr><th>Норма</th><th>Суть</th></tr></thead><tbody><tr><td class="cd">Правила КС</td><td>порядок проведения операций Федеральным казначейством с целевыми средствами.</td></tr><tr><td class="cd">Правила расширенного КС</td><td>дополнительный контроль затрат и структуры цены для отдельных контрактов.</td></tr><tr><td class="cd">Перечисление и операции</td><td>условия и ограничения операций по лицевому счёту.</td></tr><tr><td class="cd">Связь с приказом 214н</td><td>санкционирование операций детализирует Порядок 214н Минфина.</td></tr></tbody></table></div>
 
-    <h2 id="oshibki">На что обратить внимание</h2><div class="answer reveal"><ul class="ul"><li>Работа по устаревшей редакции Правил — состав требований меняется чаще, чем по другим актам.</li><li>Платёж сверх или вне утверждённых Сведений — основание для возврата.</li><li>Игнорирование различий между обычным и расширенным казначейским сопровождением при подготовке документов.</li></ul></div>
+    <h2 id="oshibki">На что обратить внимание</h2><div class="answer reveal"><ul class="ul"><li>Работа по устаревшей редакции Правил — состав требований меняется чаще, чем по другим актам.</li><li>Платёж сверх или вне утверждённых Сведений — основание для возврата.</li><li>Игнорирование различий между обычным и расширенным КС при подготовке документов.</li></ul></div>
 
     <h2 id="sistema">Место в системе регулирования</h2><div class="answer reveal"><p>ПП № 2024 — связующее звено: оно «приземляет» нормы БК (ст. 242.23–242.24) на конкретные процедуры и стыкуется с приказом 214н (санкционирование) и приказом 44н (лицевые счета). Пороги, при которых сопровождение наступает, задаёт закон о бюджете.</p></div>
 
@@ -572,7 +572,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <div class="note">Смотрите также: <div class="codechips"><a class="codechip" href="/baza-znaniy/poryadok-sankcionirovaniya-rashodov/">Порядок санкционирования расходов</a><a class="codechip" href="/baza-znaniy/normativnaya-baza/prikaz-214n/">Приказ 214н — санкционирование</a><a class="codechip" href="/baza-znaniy/kody/">Коды направлений расходования</a></div></div>
 
     <h2 id="faq">Частые вопросы</h2>
-    <div class="faq"><details><summary>Какое постановление сейчас регулирует казначейское сопровождение?</summary><p>Действующие Правила казначейского сопровождения — Постановление Правительства РФ № 2024 от 24.11.2021 в актуальной редакции.</p></details><details><summary>Правила казначейского сопровождения и расширенного казначейского сопровождения — это разные документы?</summary><p>Они утверждены одним постановлением № 2024, но это два отдельных раздела Правил с разными требованиями.</p></details><details><summary>Как часто меняются Правила?</summary><p>Регулярно (последние изменения — 2024–2025 гг.), поэтому ориентируйтесь на действующую редакцию.</p></details><details><summary>Как Правила связаны с приказом 214н?</summary><p>Правила задают порядок операций, а приказ 214н детализирует, как казначейство санкционирует каждый платёж.</p></details></div>
+    <div class="faq"><details><summary>Какое постановление сейчас регулирует казначейское сопровождение?</summary><p>Действующие Правила КС — Постановление Правительства РФ № 2024 от 24.11.2021 в актуальной редакции.</p></details><details><summary>Правила КС и расширенного КС — это разные документы?</summary><p>Они утверждены одним постановлением № 2024, но это два отдельных раздела Правил с разными требованиями.</p></details><details><summary>Как часто меняются Правила?</summary><p>Регулярно (последние изменения — 2024–2025 гг.), поэтому ориентируйтесь на действующую редакцию.</p></details><details><summary>Как Правила связаны с приказом 214н?</summary><p>Правила задают порядок операций, а приказ 214н детализирует, как казначейство санкционирует каждый платёж.</p></details></div>
 
     <section class="refs" aria-label="Источники"><h2>Источник</h2><ol>
       <li id="ref-1">Постановление Правительства РФ от 24.11.2021 № 2024 «О правилах казначейского сопровождения». <a href="https://www.consultant.ru/document/cons_doc_LAW_401366/" target="_blank" rel="noopener">Первоисточник</a></li>
@@ -596,121 +596,6 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 </div>
 
 <section class="trust" aria-label="Проверка в реестрах"><div class="trust__box"><div class="trust__lead"><b>Проверьте нас в открытых реестрах</b>ИП Михайлов Я.А. · ИНН 781428314589 · ОГРНИП 321784700367672</div><div class="trust__badges"><a class="badge" href="https://www.rusprofile.ru/ip/321784700367672" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg><b>Rusprofile</b></a><a class="badge" href="https://zachestnyibiznes.ru/company/ip/321784700367672_781428314589" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg>За честный <b>бизнес</b></a><a class="badge" href="https://www.audit-it.ru/contragent/fl/781428314589_mikhailov-iaroslav-alekseevich" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg><b>Audit-it</b></a></div></div></section>
-
-<style id="mtrStyle">
-.mtr{position:fixed;left:10px;top:50%;transform:translateY(-50%);z-index:60;display:flex;align-items:center;gap:8px}
-.mtr__ticks{display:flex;flex-direction:column;gap:7px;padding:12px 8px;cursor:pointer}
-.mtr__tick{display:block;width:14px;height:2px;background:var(--line,#d8d0c0);border-radius:2px;transition:width .25s,background .25s}
-.mtr__tick.on{width:24px;background:var(--sepia,#8B6F47)}
-.mtr:hover .mtr__tick{background:var(--sepia,#8B6F47);opacity:.75}
-.mtr__panel{position:absolute;left:42px;top:50%;transform:translateY(-50%) translateX(-10px);opacity:0;pointer-events:none;background:#FBF8F1;border:1px solid #e4ddd0;border-radius:14px;padding:16px 8px 16px 20px;width:300px;max-height:72vh;overflow:auto;box-shadow:0 26px 52px -26px rgba(26,26,26,.4);transition:opacity .25s ease,transform .25s ease}
-.mtr:hover .mtr__panel,.mtr:focus-within .mtr__panel,.mtr--peek .mtr__panel{opacity:1;pointer-events:auto;transform:translateY(-50%) translateX(0)}
-.mtr--peek{pointer-events:none}
-.mtr__panel b{display:block;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:#8B6F47;margin:0 0 8px}
-.mtr__panel ol{list-style:none;margin:0;padding:0 12px 0 0}
-.mtr__panel a{display:block;font-size:13.5px;line-height:1.35;color:#56524b;text-decoration:none;padding:5px 8px;border-radius:7px;border-left:2px solid transparent}
-.mtr__panel a:hover{background:rgba(139,111,71,.08);color:#1A1A1A}
-.mtr__panel a.on{border-left-color:#8B6F47;color:#1A1A1A;font-weight:600}
-@keyframes mtrHello{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}
-.mtr--hello .mtr__ticks{animation:mtrHello 1.1s ease 2 .6s}
-@media(max-width:1319px),(pointer:coarse){.mtr{display:none}}
-@media print{.mtr{display:none}}
-</style>
-<div class="mtr mtr--hello" id="mtr" hidden>
-  <div class="mtr__ticks" id="mtrTicks" tabindex="0" role="button" aria-label="Открыть содержание" title="Содержание"></div>
-  <nav class="mtr__panel" aria-label="Содержание статьи"><b>Содержание</b><ol id="mtrList"></ol></nav>
-</div>
-<script>
-(function(){
-  var src=document.querySelectorAll('.toc__list a'); if(!src.length) return;
-  var box=document.getElementById('mtr'), list=document.getElementById('mtrList'), ticks=document.getElementById('mtrTicks');
-  var items=[];
-  src.forEach(function(a){
-    var id=(a.getAttribute('href')||'').slice(1), h=id&&document.getElementById(id); if(!h) return;
-    var t=document.createElement('span'); t.className='mtr__tick'; ticks.appendChild(t);
-    var li=document.createElement('li'), l=document.createElement('a'); l.href='#'+id; l.textContent=a.textContent; li.appendChild(l); list.appendChild(li);
-    items.push({h:h,t:t,l:l});
-  });
-  if(!items.length) return;
-  box.hidden=false;
-  function spy(){
-    var y=window.scrollY+140, cur=items[0];
-    items.forEach(function(it){ if(it.h.offsetTop<=y) cur=it; });
-    items.forEach(function(it){ var on=it===cur; it.t.classList.toggle('on',on); it.l.classList.toggle('on',on); });
-  }
-  var tm; window.addEventListener('scroll',function(){ if(tm) return; tm=setTimeout(function(){tm=null;spy();},120); },{passive:true});
-  spy();
-  try{
-    if(!sessionStorage.getItem('mtrPeek')){
-      sessionStorage.setItem('mtrPeek','1');
-      setTimeout(function(){ box.classList.add('mtr--peek'); },900);
-      setTimeout(function(){ box.classList.remove('mtr--peek'); },3400);
-    }
-  }catch(_){}
-  setTimeout(function(){ box.classList.remove('mtr--hello'); },4200);
-})();
-</script>
-
-<style id="edt2026">
-/* ===== Editorial 2026: режим чтения (одна колонка, журнальная типографика) ===== */
-.layout{display:block!important;max-width:840px!important;padding:46px 30px 90px!important}
-.content{max-width:none!important}
-/* типографика: тёмный текст, крупный кегль, высокий интерлиньяж */
-.content p,.content li{color:var(--ink,#1A1A1A);font-size:17px;line-height:1.78}
-.content p{margin:0 0 22px}
-.content ul,.content ol{margin:0 0 26px;padding-left:22px}
-.content li{margin:0 0 10px}
-.lead-p{font-size:19px;line-height:1.72}
-.tldr{font-size:17px;line-height:1.72;padding:24px 28px;margin:30px 0 34px}
-.content h2{margin:84px 0 26px;line-height:1.14}
-.content h3{margin:52px 0 16px}
-.content h2+p,.content h3+p{margin-top:0}
-.byline{margin-top:18px}
-/* таблицы — редакционные: только горизонтальные линейки, высокие строки */
-.content table{margin:56px 0 64px;font-size:15px;border-top:2px solid var(--ink,#1A1A1A)}
-.content caption{font-style:normal;font-size:11.5px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-mute,#8a8170);padding:16px 0 14px}
-.content th{background:none;border-bottom:1.5px solid var(--ink,#1A1A1A);padding:10px 22px 12px 0;font-size:11px}
-.content td{padding:18px 22px 18px 0;border-bottom:1px solid var(--line,#e4ddd0);line-height:1.6;font-size:15px;color:var(--ink,#1A1A1A)}
-.content td+td,.content th+th{border-left:none}
-.content tr:nth-child(even) td{background:none}
-.content tr:last-child td{border-bottom:1px solid var(--line,#e4ddd0)}
-.content td:first-child{font-weight:600}
-/* note/answer — врезки с воздухом */
-.note{margin:34px 0;padding:20px 24px;line-height:1.7}
-/* вехи содержания — у кромки колонки текста */
-.mtr{left:max(14px,calc(50% - 530px))}
-/* кнопка «наверх» поднимается над CTA */
-.totop{bottom:96px!important}
-/* ===== форма: выдвижная панель + постоянная CTA-кнопка ===== */
-@media(min-width:861px){
-  .rail{position:fixed!important;top:0;right:0;height:100vh;width:min(430px,94vw);margin:0;padding:74px 28px 30px;background:var(--paper,#FAF7F0);box-shadow:-34px 0 64px -30px rgba(26,26,26,.4);transform:translateX(112%);transition:transform .32s cubic-bezier(.22,.8,.3,1);z-index:95;overflow:auto}
-  body.rail-open .rail{transform:none}
-  body.rail-open::before{content:'';position:fixed;inset:0;background:rgba(26,26,26,.34);z-index:94}
-  .rail-close{position:absolute;top:18px;right:18px;width:38px;height:38px;border:1px solid var(--line,#e4ddd0);border-radius:50%;background:none;color:var(--ink,#1A1A1A);font-size:17px;line-height:1;cursor:pointer}
-}
-.rail-toggle{position:fixed;right:22px;bottom:26px;z-index:93;display:inline-flex;align-items:center;gap:9px;background:var(--ink,#1A1A1A);color:#fff;border:none;border-radius:999px;padding:10px 22px;font:600 14.5px/1.2 'Inter',system-ui,sans-serif;box-shadow:0 18px 38px -16px rgba(26,26,26,.55);cursor:pointer;transition:background .2s,transform .2s}
-.rail-toggle:hover{background:var(--sepia,#8B6F47);transform:translateY(-2px)}
-.rail-toggle .dot{width:7px;height:7px;border-radius:50%;background:#7ad07a}
-@media(max-width:860px){.rail-toggle,.rail-close{display:none}}
-@media print{.rail-toggle,.rail{display:none!important}}
-</style>
-<script>
-(function(){
-  var r=document.querySelector('.rail'); if(!r) return;
-  if(window.matchMedia&&window.matchMedia('(min-width:861px)').matches){
-    var b=document.createElement('button'); b.className='rail-toggle'; b.type='button';
-    b.innerHTML='<span class="dot"></span>Разбор эксперта';
-    document.body.appendChild(b);
-    var x=document.createElement('button'); x.className='rail-close'; x.type='button'; x.setAttribute('aria-label','Закрыть'); x.innerHTML='✕'; r.appendChild(x);
-    function open(){ document.body.classList.add('rail-open'); try{ if(typeof ym==='function') ym(94305898,'reachGoal','rail_open'); }catch(_){ } }
-    function close(){ document.body.classList.remove('rail-open'); }
-    b.addEventListener('click',function(){ document.body.classList.contains('rail-open')?close():open(); });
-    x.addEventListener('click',close);
-    document.addEventListener('keydown',function(e){ if(e.key==='Escape') close(); });
-    document.addEventListener('click',function(e){ if(document.body.classList.contains('rail-open')&&!r.contains(e.target)&&!b.contains(e.target)) close(); });
-  }
-})();
-</script>
 
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
