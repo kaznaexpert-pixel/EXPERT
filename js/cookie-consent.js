@@ -1,36 +1,30 @@
 /* ============================================================
- * Cookie consent (152-ФЗ) — без сторонних библиотек.
+ * Cookie / аналитика (152-ФЗ) — без сторонних библиотек.
  *
- * Категории:
- *  - necessary  — всегда включены (работа сайта, форма, хранение выбора).
- *  - analytics  — Яндекс.Метрика (РФ). Грузится ТОЛЬКО после согласия.
- *
- * Google Analytics удалён полностью — трансграничной передачи ПДн нет.
+ * Модель: информационное уведомление.
+ *  - Яндекс.Метрика (данные в РФ, без трансграничной передачи) грузится
+ *    сразу при загрузке страницы — статистика учитывает всех посетителей.
+ *  - Баннер показывается один раз как уведомление с кнопкой «Понятно»;
+ *    после подтверждения больше не появляется (флаг в localStorage).
+ *  - Google Analytics не используется — трансграничной передачи ПДн нет.
  * ============================================================ */
 (function () {
   'use strict';
 
-  var STORAGE_KEY = 'kz_cookie_consent_v1';
+  var ACK_KEY = 'kz_cookie_notice_v2';
+  var OLD_KEY = 'kz_cookie_consent_v1';   // прежний ключ согласия — считаем как подтверждение
   var METRIKA_ID = 94305898;
 
-  function readConsent() {
+  function isAcked() {
     try {
-      var raw = localStorage.getItem(STORAGE_KEY);
-      return raw ? JSON.parse(raw) : null;
-    } catch (_) {
-      return null;
-    }
+      return !!(localStorage.getItem(ACK_KEY) || localStorage.getItem(OLD_KEY));
+    } catch (_) { return false; }
+  }
+  function saveAck() {
+    try { localStorage.setItem(ACK_KEY, new Date().toISOString()); } catch (_) {}
   }
 
-  function saveConsent(obj) {
-    try {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(obj));
-    } catch (_) {
-      /* приватный режим — заявку это не блокирует */
-    }
-  }
-
-  // === Яндекс.Метрика — инициализация только при согласии на аналитику ===
+  // === Яндекс.Метрика — грузится сразу ===
   var metrikaLoaded = false;
   function loadMetrika() {
     if (metrikaLoaded || typeof window.ym === 'function') return;
@@ -51,75 +45,52 @@
     });
   }
 
-  function applyConsent(c) {
-    if (c && c.analytics) loadMetrika();
-  }
-
-  // === DOM ===
-  var banner, modal;
-
-  function show(el) { if (el) el.hidden = false; }
+  var banner;
   function hide(el) { if (el) el.hidden = true; }
 
-  function on(id, fn) {
-    var el = document.getElementById(id);
-    if (el) el.addEventListener('click', fn);
+  // Перерисовка баннера в информационный вид (актуальный текст на всех страницах)
+  function renderNotice() {
+    if (!banner) return;
+    banner.setAttribute('aria-label', 'Уведомление об использовании cookie');
+    banner.innerHTML =
+      '<div class="cookie-banner-inner">' +
+        '<div class="cookie-banner-text">' +
+          '<strong>Мы используем файлы cookie</strong>' +
+          '<p>Сайт использует cookie и Яндекс.Метрику (данные хранятся в РФ, без трансграничной передачи) ' +
+          'для корректной работы и анонимной статистики посещений. Продолжая пользоваться сайтом, ' +
+          'вы соглашаетесь с этим. Подробнее — в <a href="/privacy/">Политике конфиденциальности</a>.</p>' +
+        '</div>' +
+        '<div class="cookie-banner-actions">' +
+          '<button type="button" class="cookie-btn cookie-btn--solid" id="cookie-ok">Понятно</button>' +
+        '</div>' +
+      '</div>';
+    var ok = document.getElementById('cookie-ok');
+    if (ok) ok.addEventListener('click', function () { saveAck(); hide(banner); });
   }
 
-  function commit(analytics) {
-    var c = {
-      necessary: true,
-      analytics: !!analytics,
-      ts: new Date().toISOString()
-    };
-    saveConsent(c);
-    applyConsent(c);
-    hide(banner);
-    hide(modal);
-  }
-
-  function openModal() {
-    var existing = readConsent();
-    var toggle = document.getElementById('cookie-cat-analytics');
-    // по умолчанию аналитика предложена включённой; при повторном открытии — текущий выбор
-    if (toggle) toggle.checked = existing ? !!existing.analytics : true;
-    show(modal);
-  }
-
-  function resetConsent(e) {
+  function resetNotice(e) {
     if (e) e.preventDefault();
-    try { localStorage.removeItem(STORAGE_KEY); } catch (_) {}
-    hide(modal);
-    show(banner);
-  }
-
-  function wire() {
-    on('cookie-accept-all', function () { commit(true); });
-    on('cookie-reject', function () { commit(false); });
-    on('cookie-settings', openModal);
-    on('cookie-modal-save', function () {
-      var toggle = document.getElementById('cookie-cat-analytics');
-      commit(toggle ? toggle.checked : false);
-    });
-    on('cookie-modal-close', function () { hide(modal); });
-    on('cookie-modal-backdrop', function () { hide(modal); });
-
-    var resets = document.querySelectorAll('[data-cookie-reset]');
-    for (var i = 0; i < resets.length; i++) {
-      resets[i].addEventListener('click', resetConsent);
-    }
+    try { localStorage.removeItem(ACK_KEY); localStorage.removeItem(OLD_KEY); } catch (_) {}
+    if (banner) banner.hidden = false;
   }
 
   function init() {
-    banner = document.getElementById('cookie-banner');
-    modal = document.getElementById('cookie-modal');
-    wire();
+    // Метрика — всегда и сразу
+    loadMetrika();
 
-    var existing = readConsent();
-    if (existing) {
-      applyConsent(existing);
-    } else {
-      show(banner);
+    banner = document.getElementById('cookie-banner');
+    var modal = document.getElementById('cookie-modal');
+    hide(modal); // старая модалка настроек больше не используется
+
+    if (banner) {
+      renderNotice();
+      banner.hidden = isAcked();
+    }
+
+    // ссылки «изменить настройки cookie» (если есть на /privacy/) — снова показать уведомление
+    var resets = document.querySelectorAll('[data-cookie-reset]');
+    for (var i = 0; i < resets.length; i++) {
+      resets[i].addEventListener('click', resetNotice);
     }
   }
 
@@ -156,7 +127,6 @@
     inp.addEventListener('input', function () {
       var start = inp.selectionStart, len = inp.value.length;
       inp.value = format(inp.value);
-      // курсор в конец при наборе с конца (достаточно для типового ввода)
       if (start >= len) { try { inp.setSelectionRange(inp.value.length, inp.value.length); } catch (_) {} }
     });
     inp.addEventListener('focus', function () { if (!inp.value) inp.value = '+7 ('; });
@@ -171,13 +141,7 @@
 })();
 
 /* ============================================================
- * UX-полировка форм и FAQ (на всех страницах):
- *  - незаполненное согласие: тряска чекбокса + красная подсветка,
- *    без сдвига layout (перехват submit на capture-фазе);
- *  - резерв места под сообщение формы (.railform) — текст ошибки
- *    не толкает страницу;
- *  - плавное раскрытие FAQ (.faq) там, где браузер поддерживает
- *    ::details-content (Safari 18.4+, Chrome 131+).
+ * UX-полировка форм и FAQ (на всех страницах).
  * ============================================================ */
 (function () {
   'use strict';
@@ -187,10 +151,8 @@
     '.kz-consent-invalid{outline:1.5px solid rgba(192,57,43,.55);outline-offset:6px;border-radius:8px}',
     '.kz-consent-invalid,.kz-consent-invalid a,.kz-consent-invalid span{color:#c0392b !important}',
     '.kz-consent-invalid input[type=checkbox]{accent-color:#c0392b;outline:2px solid #c0392b;outline-offset:1px}',
-    /* резерв места под сообщение — без скачка layout */
     '.railform .formmsg{display:block !important;min-height:1.05em;margin-top:8px}',
     '.railform .formmsg[hidden]{visibility:hidden}',
-    /* плавный FAQ (где поддерживается ::details-content) */
     '.faq details::details-content{block-size:0;overflow:clip;transition:block-size .32s ease, content-visibility .32s allow-discrete}',
     '.faq details[open]::details-content{block-size:auto}'
   ].join('');
@@ -203,7 +165,6 @@
   function labelOf(cb) {
     return cb.closest('label') || cb.closest('.policy') || cb.closest('.v2-form-consent') || cb.parentElement;
   }
-  // перехват отправки: нет согласия -> тряска, без сдвига и без сообщения-толкателя
   document.addEventListener('submit', function (e) {
     var form = e.target; if (!form || form.tagName !== 'FORM') return;
     var cb = findConsent(form); if (!cb || !cb.required) return;
@@ -214,7 +175,6 @@
       try { cb.focus({ preventScroll: true }); } catch (_) {}
     }
   }, true);
-  // снятие подсветки при простановке галочки
   document.addEventListener('change', function (e) {
     var t = e.target;
     if (t && t.type === 'checkbox' && t.checked) {
