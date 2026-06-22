@@ -691,6 +691,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <p data-ctx="auto-ctx:soispolniteli-kooperaciya-goz">Один и тот же идентификатор проходит через всю цепочку поставок — как он работает у соисполнителей и что обязательно прописать в договоре с ними, см. в статье о <a href="/baza-znaniy/soispolniteli-kooperaciya-goz/">кооперации в ГОЗ</a>.</p>
+    <p data-ctx="auto-ctx:igk-v-schete-fakture-i-upd">Куда конкретно вписывать код в документах — в строку 8 счёта-фактуры и УПД, в счёт на оплату и платёжку — и как настроить автоподстановку в 1С, разобрано в материале <a href="/baza-znaniy/igk-v-schete-fakture-i-upd/">ИГК в счёте-фактуре, счёте и УПД</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -779,6 +780,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/svedeniya-ob-operaciyah-s-celevymi-sredstvami/"><div class="card__cover"><span>Сведения</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Сведения об операциях с целевыми средствами</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>Отказы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Причины отказа казначейства в санкционировании</h3><div class="card__meta">Санкционирование · 14 мин</div></div></a>
     <!-- auto-related:soispolniteli-kooperaciya-goz --><a class="card reveal" href="/baza-znaniy/soispolniteli-kooperaciya-goz/"><div class="card__cover"><span>Кооперация</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Соисполнители и кооперация в ГОЗ</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
+    <!-- auto-related:igk-v-schete-fakture-i-upd --><a class="card reveal" href="/baza-znaniy/igk-v-schete-fakture-i-upd/"><div class="card__cover"><span>ИГК</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">ИГК в счёте-фактуре, счёте и УПД</h3><div class="card__meta">Операции · 16 мин</div></div></a>
   </div>
 </section>
 

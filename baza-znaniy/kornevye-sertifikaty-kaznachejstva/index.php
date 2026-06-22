@@ -704,6 +704,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>Типовая ситуация: после планового обновления в казначействе бухгалтер перестаёт подписывать документы — система пишет, что сертификат недоверенный. Сам сертификат пользователя при этом действующий. Причина почти всегда одна: на компьютер не установили новый промежуточный сертификат УЦ ФК, выпущенный казначейством. После установки актуального сертификата УЦ ФК и обновления списка отзыва цепочка снова собирается, и подпись работает. На практике помогает простое правило: при любой ошибке доверия проверять цепочку «Минцифры → УЦ ФК → пользователь» сверху вниз. Это обобщённый пример; конкретная причина зависит от настроек рабочего места.</p>
     </div>
 
+    <p data-ctx="auto-ctx:nastroyka-arm-elektronnyy-byudzhet">Установка корневых сертификатов — лишь часть подготовки: полную настройку рабочего места (КриптоПро, плагин, «Континент TLS», браузер) разбираем в материале <a href="/baza-znaniy/nastroyka-arm-elektronnyy-byudzhet/">настройка рабочего места для «Электронного бюджета»</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -791,6 +792,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/sertifikat-ecp-kaznachejstvo/"><div class="card__cover"><span>ЭЦП</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Сертификат и ЭЦП казначейства: как получить</h3><div class="card__meta">Подпись · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kak-prodlit-i-otozvat-ecp-kaznachejstva/"><div class="card__cover"><span>Продление ЭП</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Как продлить и отозвать ЭЦП казначейства</h3><div class="card__meta">Подпись · 13 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/licevoy-schet-71-kak-otkryt/"><div class="card__cover"><span>Счёт 71</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Как открыть лицевой счёт 71 в ТОФК</h3><div class="card__meta">Счета · 13 мин</div></div></a>
+    <!-- auto-related:nastroyka-arm-elektronnyy-byudzhet --><a class="card reveal" href="/baza-znaniy/nastroyka-arm-elektronnyy-byudzhet/"><div class="card__cover"><span>АРМ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Настройка рабочего места для «Электронного бюджета»</h3><div class="card__meta">ГИИС · 17 мин</div></div></a>
   </div>
 </section>
 

@@ -664,6 +664,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>На практике встречается такая ситуация: производственная компания впервые получает контракт в составе кооперации головного исполнителя и пытается работать с оборонными деньгами как с обычной выручкой — платит со своего расчётного счёта, не разделяет затраты по контракту. На первом же платеже банк сопровождения возвращает операцию: расчёт идёт не с отдельного счёта и без привязки к идентификатору контракта. После того как компания открывает отдельный счёт, настраивает раздельный учёт и приводит назначение платежей в соответствие с требованиями сопровождения, операции начинают проходить штатно. Пример обобщённый и иллюстративный; конкретные требования зависят от условий контракта, режима сопровождения и решений заказчика.</p>
     </div>
 
+    <p data-ctx="auto-ctx:zakupki-po-gosoboronzakazu">Как именно размещают оборонные задания — закрытыми способами, у единственного поставщика, на площадке АСТ ГОЗ — в материале <a href="/baza-znaniy/zakupki-po-gosoboronzakazu/">закупки по гособоронзаказу</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -753,6 +754,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/vidy-cen-goz/"><div class="card__cover"><span>Цены ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Виды цен на продукцию ГОЗ</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/soispolniteli-kooperaciya-goz/"><div class="card__cover"><span>Кооперация</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Соисполнители и кооперация в ГОЗ</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/otdelnyy-schet-po-goz/"><div class="card__cover"><span>Счёт ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отдельный счёт по ГОЗ: режим и вывод прибыли</h3><div class="card__meta">ГОЗ · 18 мин</div></div></a>
+    <!-- auto-related:zakupki-po-gosoboronzakazu --><a class="card reveal" href="/baza-znaniy/zakupki-po-gosoboronzakazu/"><div class="card__cover"><span>Закупки</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Закупки по гособоронзаказу: размещение и АСТ ГОЗ</h3><div class="card__meta">ГОЗ · 18 мин</div></div></a>
   </div>
 </section>
 
