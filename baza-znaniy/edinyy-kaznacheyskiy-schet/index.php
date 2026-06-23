@@ -690,6 +690,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>Типовая ситуация: субподрядчик впервые получает оплату по контракту с казначейским сопровождением. Бухгалтерия заказчика берёт реквизиты «как для обычного поставщика»: в поле 17 ставит номер, начинающийся с 40102, а казначейский счёт не указывает вовсе. Банк платёж пропускает не всегда; если пропустил — деньги попадают в невыясненные поступления, и подрядчик ждёт оплату неделями. Решение стандартное: переделать платёжку — ЕКС в поле 15, казначейский счёт 03 в поле 17, в назначении — лицевой счёт и ИГК, а по зависшей сумме направить в ТОФК обращение об уточнении. После этого деньги доходят за один-два рабочих дня. Это обобщённый пример: конкретные сроки зависят от региона и вида платежа.</p>
     </div>
 
+    <p data-ctx="auto-ctx:sistema-kaznacheyskih-platezhey">Единый казначейский счёт — лишь «хранилище» средств; распределяет их между участниками и проводит операции <a href="/baza-znaniy/sistema-kaznacheyskih-platezhey/">система казначейских платежей</a> (глава 24.2 Бюджетного кодекса).</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -782,6 +783,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kaznacheyskiy-schet/"><div class="card__cover"><span>Счета</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейский счёт: что это, виды и реквизиты</h3><div class="card__meta">Счета · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/licevoy-schet-71-kak-otkryt/"><div class="card__cover"><span>Счёт 71</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Как открыть лицевой счёт 71 в ТОФК</h3><div class="card__meta">Счета · 13 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha/"><div class="card__cover"><span>Платежи</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Распоряжение о совершении казначейского платежа</h3><div class="card__meta">Операции · 14 мин</div></div></a>
+    <!-- auto-related:sistema-kaznacheyskih-platezhey --><a class="card reveal" href="/baza-znaniy/sistema-kaznacheyskih-platezhey/"><div class="card__cover"><span>СКП</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Система казначейских платежей: что это и как работает</h3><div class="card__meta">Основы · 16 мин</div></div></a>
   </div>
 </section>
 

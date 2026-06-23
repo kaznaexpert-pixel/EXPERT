@@ -705,6 +705,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>На практике встречается такая ситуация: организация исполнила контракт под казначейским сопровождением и через год попадает в плановую выездную проверку. Контролёры запрашивают раздельный учёт и сверяют расходы с лицевого счёта с документами-основаниями. Часть платежей подтверждается первичкой сразу, а по нескольким операциям учёт вёлся формально — и именно они становятся предметом разбирательства и возражений. Пример обобщённый и иллюстративный; объём и предмет конкретного мероприятия, перечень запрашиваемых документов и последствия зависят от вида контроля и фактических обстоятельств, а выводы делаются только по акту.</p>
     </div>
 
+    <p data-ctx="auto-ctx:kaznacheyskiy-monitoring">Помимо последующих ревизий казначейство ведёт превентивный <a href="/baza-znaniy/kaznacheyskiy-monitoring/">казначейский мониторинг</a> операций в системе казначейских платежей с мерами реагирования (статья 242.13-1 Бюджетного кодекса).</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -797,6 +798,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>Отказы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Причины отказа казначейства в санкционировании</h3><div class="card__meta">Контроль · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/otvetstvennost-za-narusheniya-goz/"><div class="card__cover"><span>Ответственность</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Ответственность за нарушения в сфере ГОЗ и казначейского сопровождения</h3><div class="card__meta">Сопровождение · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-po-goskontraktu/"><div class="card__cover"><span>Учёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по госконтракту: когда вести, штрафы</h3><div class="card__meta">Учёт · 17 мин</div></div></a>
+    <!-- auto-related:kaznacheyskiy-monitoring --><a class="card reveal" href="/baza-znaniy/kaznacheyskiy-monitoring/"><div class="card__cover"><span>Мониторинг</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейский мониторинг: меры реагирования и риски</h3><div class="card__meta">Контроль · 15 мин</div></div></a>
   </div>
 </section>
 
