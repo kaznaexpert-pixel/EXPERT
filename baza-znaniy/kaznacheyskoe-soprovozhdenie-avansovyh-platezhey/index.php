@@ -758,7 +758,9 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
       </div>
     </form>
-  </aside>
+  <!-- rail-svc -->
+<a class="rail-svc" href="/uslugi/soprovozhdenie-avans/"><span class="rail-svc__k">Поможем под ключ</span><span class="rail-svc__n">Сопровождение контракта с авансом →</span></a>
+</aside>
 </div>
 
 <section class="related" aria-labelledby="relTitle">

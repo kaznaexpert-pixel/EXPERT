@@ -3420,3 +3420,9 @@
 @media (min-width:1440px){
   .content:not(:has(.sidenote)){ padding-right:0 !important; }
 }
+
+/* Контекстная ссылка на услугу в рельсе статьи (перелинковка на /uslugi/) */
+.rail-svc{display:flex;flex-direction:column;gap:3px;margin-top:14px;padding:13px 16px;border:1px solid var(--accent-soft);border-radius:12px;background:rgba(139,111,71,.05);text-decoration:none;transition:background .2s ease,border-color .2s ease}
+.rail-svc:hover{background:rgba(139,111,71,.10);border-color:rgba(139,111,71,.45)}
+.rail-svc__k{font-family:var(--font-body);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);font-weight:600}
+.rail-svc__n{font-family:var(--font-display);font-size:17px;line-height:1.25;color:var(--ink);font-weight:500}
