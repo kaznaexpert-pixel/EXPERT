@@ -746,6 +746,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Что проверить в первую очередь, если вход не работает?</summary><p>Цепочку сертификатов (свойства личного сертификата → «Путь сертификации»), запущен ли «Континент TLS Клиент» и открыт ли сетевой доступ к budget.gov.ru по порту 443. Это закрывает большинство ошибок входа.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:poib-sobi-elektronnyy-byudzhet">После настройки рабочего места вход в защищённый контур и назначение ролей выполняются в <a href="/baza-znaniy/poib-sobi-elektronnyy-byudzhet/">ПОИБ/СОБИ</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -802,6 +803,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/sertifikat-ecp-kaznachejstvo/"><div class="card__cover"><span>ЭЦП</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Сертификат и ЭЦП казначейства: как получить</h3><div class="card__meta">Пиллар · 19 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/sufd-portal-kaznachejstva/"><div class="card__cover"><span>СУФД</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">СУФД-портал казначейства: подключение и работа</h3><div class="card__meta">ГИИС · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/udostoveryayushchiy-centr-kaznachejstva/"><div class="card__cover"><span>УЦ ФК</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Удостоверяющий центр Федерального казначейства</h3><div class="card__meta">ЭЦП · 16 мин</div></div></a>
+    <!-- auto-related:poib-sobi-elektronnyy-byudzhet --><a class="card reveal" href="/baza-znaniy/poib-sobi-elektronnyy-byudzhet/"><div class="card__cover"><span>ПОИБ/СОБИ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">ПОИБ/СОБИ «Электронного бюджета»: вход в защищённый контур</h3><div class="card__meta">ГИИС · 12 мин</div></div></a>
   </div>
 </section>
 

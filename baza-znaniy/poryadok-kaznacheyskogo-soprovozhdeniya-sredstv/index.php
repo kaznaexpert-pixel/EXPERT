@@ -739,6 +739,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <p data-ctx="auto-ctx:zavershenie-kaznacheyskogo-soprovozhdeniya">Финальный этап процесса — <a href="/baza-znaniy/zavershenie-kaznacheyskogo-soprovozhdeniya/">завершение казначейского сопровождения</a>: возврат неиспользованного остатка целевых средств и закрытие лицевого счёта.</p>
+    <p data-ctx="auto-ctx:kaznacheyskoe-ispolnenie-kontrakta">Сопровождение важно не путать с обычным <a href="/baza-znaniy/kaznacheyskoe-ispolnenie-kontrakta/">казначейским исполнением контракта</a> — это разные институты Бюджетного кодекса.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -833,6 +834,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:rasshirennoe-kaznacheyskoe-soprovozhdenie --><a class="card reveal" href="/baza-znaniy/rasshirennoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Расширенное казначейское сопровождение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Расширенное казначейское сопровождение в 2026</h3><div class="card__meta">Контроль · 14 мин</div></div></a>
     <!-- auto-related:kaznacheyskiy-kontrakt --><a class="card reveal" href="/baza-znaniy/kaznacheyskiy-kontrakt/"><div class="card__cover"><span>Контракт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейский контракт: что это и как работать</h3><div class="card__meta">Основы · 14 мин</div></div></a>
     <!-- auto-related:zavershenie-kaznacheyskogo-soprovozhdeniya --><a class="card reveal" href="/baza-znaniy/zavershenie-kaznacheyskogo-soprovozhdeniya/"><div class="card__cover"><span>Финал</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Завершение сопровождения: возврат и закрытие счёта</h3><div class="card__meta">Счета · 15 мин</div></div></a>
+    <!-- auto-related:kaznacheyskoe-ispolnenie-kontrakta --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-ispolnenie-kontrakta/"><div class="card__cover"><span>Исполнение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское исполнение контракта: отличие от сопровождения</h3><div class="card__meta">Основы · 13 мин</div></div></a>
   </div>
 </section>
 

@@ -737,6 +737,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Это то же самое, что СУФД или «Электронный бюджет»?</summary><p>Нет. СУФД и «Электронный бюджет» — программные интерфейсы, через которые участники работают с системой. Сама система казначейских платежей — это расчётная инфраструктура, а не приложение.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:kaznacheyskoe-ispolnenie-kontrakta">Чем казначейское обслуживание отличается от сопровождения, разобрано в материале про <a href="/baza-znaniy/kaznacheyskoe-ispolnenie-kontrakta/">казначейское исполнение контракта</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -795,6 +796,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kaznacheyskiy-monitoring/"><div class="card__cover"><span>Мониторинг</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейский мониторинг: как работает и меры реагирования</h3><div class="card__meta">Контроль · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/vidy-licevyh-schetov-v-kaznachejstve/"><div class="card__cover"><span>Счета</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Виды лицевых счетов в Федеральном казначействе</h3><div class="card__meta">Счета · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Пиллар</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение: что это и кому нужно</h3><div class="card__meta">Пиллар · 20 мин</div></div></a>
+    <!-- auto-related:kaznacheyskoe-ispolnenie-kontrakta --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-ispolnenie-kontrakta/"><div class="card__cover"><span>Исполнение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское исполнение контракта: отличие от сопровождения</h3><div class="card__meta">Основы · 13 мин</div></div></a>
   </div>
 </section>
 
