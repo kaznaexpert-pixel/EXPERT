@@ -639,6 +639,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
             </div>
 
             <p class="v2-tariffs-footnote">Точная стоимость — после анализа вашего контракта.</p>
+            <!-- comm-hub --><p class="v2-tariffs-footnote" style="margin-top:10px"><a href="/uslugi/kaznacheyskoe-soprovozhdenie/" style="color:#9a7b4f;font-weight:600;text-decoration:none">Все услуги и цены казначейского сопровождения →</a> &nbsp;·&nbsp; <a href="/uslugi/audit-kaznacheyskogo-soprovozhdeniya/" style="color:#9a7b4f;text-decoration:none">Аудит сопровождения</a> &nbsp;·&nbsp; <a href="/uslugi/vosstanovlenie-razdelnogo-ucheta/" style="color:#9a7b4f;text-decoration:none">Восстановление учёта</a></p>
 
           </div>
         </section>

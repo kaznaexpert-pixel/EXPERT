@@ -102,6 +102,24 @@
     <priority>0.90</priority>
   </url>
   <url>
+    <loc>https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/uslugi/audit-kaznacheyskogo-soprovozhdeniya/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/uslugi/vosstanovlenie-razdelnogo-ucheta/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+  </url>
+  <url>
     <loc>https://kaznaexpert.ru/komanda/mihailov-yaroslav/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>

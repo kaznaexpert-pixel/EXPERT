@@ -788,6 +788,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
       </div>
     </form>
+  <!-- comm-link --><div class="related-inline"><b>Нужна помощь эксперта</b><a href="/uslugi/audit-kaznacheyskogo-soprovozhdeniya/">→ Аудит казначейского сопровождения: подготовим документы к проверке финконтроля</a></div>
   <!-- rail-svc -->
 <a class="rail-svc" href="/uslugi/soprovozhdenie-postoplata/"><span class="rail-svc__k">Поможем под ключ</span><span class="rail-svc__n">Сопровождение контракта (постоплата) →</span></a>
 </aside>
