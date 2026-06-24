@@ -511,7 +511,6 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
               <a href="/keysy/">Кейсы</a>
               <a href="/regiony/">Регионы</a>
               <a href="/baza-znaniy/">База знаний</a>
-              <a href="/komanda/">Команда</a>
               <a href="/#faq">FAQ</a>
               <a href="/#contacts">Связаться</a>
             </nav>
@@ -533,7 +532,6 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
             <a href="/keysy/">Кейсы</a>
               <a href="/regiony/">Регионы</a>
               <a href="/baza-znaniy/">База знаний</a>
-              <a href="/komanda/">Команда</a>
             <a href="/#faq">FAQ</a>
             <a class="v2-mobile-cta" href="/#contacts">Получить расчёт</a>
           </nav>

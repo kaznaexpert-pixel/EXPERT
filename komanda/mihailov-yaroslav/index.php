@@ -29,7 +29,7 @@
 {"@context": "https://schema.org", "@type": "ProfilePage", "mainEntity": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Основатель · главный эксперт", "description": "Ярослав Михайлов — основатель КазнаЭксперт, эксперт по казначейскому сопровождению. Окончил СПбГУ, в Федеральном казначействе с 2009 по 2019 год. Ведёт сложные кейсы, ГОЗ и спасение контрактов.", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10"}, "knowsAbout": ["Спасение проблемных контрактов", "Расширенное казначейское сопровождение", "ГОЗ и нестандартные кейсы", "Методология работы с УФК", "Сложные эскалации и спорные платежи", "Контроль качества по проектам"], "alumniOf": {"@type": "CollegeOrUniversity", "name": "Санкт-Петербургский государственный университет"}, "founder": {"@type": "Organization", "name": "КазнаЭксперт"}}}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Команда", "item": "https://kaznaexpert.ru/komanda/"}, {"@type": "ListItem", "position": 3, "name": "Ярослав Михайлов"}]}
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Ярослав Михайлов"}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -474,7 +474,6 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
               <a href="/keysy/">Кейсы</a>
               <a href="/regiony/">Регионы</a>
               <a href="/baza-znaniy/">База знаний</a>
-              <a href="/komanda/">Команда</a>
               <a href="/#faq">FAQ</a>
               <a href="/#contacts">Связаться</a>
             </nav>
@@ -496,7 +495,6 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
             <a href="/keysy/">Кейсы</a>
               <a href="/regiony/">Регионы</a>
               <a href="/baza-znaniy/">База знаний</a>
-              <a href="/komanda/">Команда</a>
             <a href="/#faq">FAQ</a>
             <a class="v2-mobile-cta" href="/#contacts">Получить расчёт</a>
           </nav>
@@ -537,8 +535,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   <div class="v2-container">
     <div class="v2-hero-grid">
       <div class="v2-hero-main">
-        <nav class="team-crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/komanda/">Команда</a> › <span>Ярослав Михайлов</span></nav>
-        <div class="v2-hero-eyebrow-row"><span class="v2-eyebrow">Команда · Основатель</span><span class="v2-hero-eyebrow-dash" aria-hidden="true"></span></div>
+        <nav class="team-crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <span>Ярослав Михайлов</span></nav>
+        <div class="v2-hero-eyebrow-row"><span class="v2-eyebrow">Основатель · Эксперт</span><span class="v2-hero-eyebrow-dash" aria-hidden="true"></span></div>
         <h1>Ярослав Михайлов</h1>
         <div class="author-hero__sub">Основатель · главный эксперт</div>
         <p class="v2-hero-lede" style="margin-top:14px">Основатель КазнаЭксперт. Знает казначейское сопровождение с двух сторон — изнутри Федерального казначейства и со стороны бизнеса. Лично ведёт сложные кейсы и эскалации.</p>
@@ -588,12 +586,6 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="komanda">
-  <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Команда</div><h2 class="v2-section-title">Кто <em>ещё в команде</em></h2><p class="v2-section-lede">Небольшая команда — это значит, что по вашему контракту всегда есть кому ответить и подстраховать.</p></div>
-    <a class="team-partner" href="/komanda/anna/"><span class="team-partner__mono">А</span><span class="team-partner__txt"><b>Анна</b><span>Специалист по казначейскому сопровождению</span></span></a>
-  </div>
-</section>
 
 <section class="v2-section v2-screen" id="zayavka">
   <div class="v2-container">

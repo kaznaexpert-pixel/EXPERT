@@ -29,7 +29,8 @@ RewriteRule ^blog/article_01\.html$ /baza-znaniy/kto-popadaet-pod-kaznacheyskoe-
 RewriteRule ^blog/article_02\.html$ /baza-znaniy/poryadok-kaznacheyskogo-soprovozhdeniya-sredstv/ [R=301,L]
 
 # --- Удалённые страницы экспертов → /komanda/ (301) ---
-RewriteRule ^komanda/(anton|elena|natalya|stella|yuliya)/?$ /komanda/ [R=301,L]
+RewriteRule ^komanda/(anton|elena|natalya|stella|yuliya|anna)/?$ /komanda/mihailov-yaroslav/ [R=301,L]
+RewriteRule ^komanda/?$ /komanda/mihailov-yaroslav/ [R=301,L]
 
 # --- 4. Защитные паттерны: убираем index.php из URL ---
 # Когда пользователь вбивает kaznaexpert.ru/index.php — редирект на /
