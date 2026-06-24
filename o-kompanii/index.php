@@ -4,14 +4,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Казначейское сопровождение в Пензе — под ключ</title>
-<meta name="description" content="Казначейское сопровождение госконтрактов в Пензе: открытие счёта в УФК, платежи, санкционирование, спасение контрактов. Дистанционно, фикс-цены.">
+<title>О компании КазнаЭксперт — казначейское сопровождение госконтрактов</title>
+<meta name="description" content="КазнаЭксперт — практика казначейского сопровождения госконтрактов по всей РФ. Опыт изнутри Федерального казначейства с 2009 года. ИП Михайлов Я.А., проверка в открытых реестрах.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#141310" media="(prefers-color-scheme: dark)">
 <!-- PROD: canonical и og:url ОБЯЗАТЕЛЬНО менять под URL каждой статьи -->
-<link rel="canonical" href="https://kaznaexpert.ru/regiony/penza/">
+<link rel="canonical" href="https://kaznaexpert.ru/o-kompanii/">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
@@ -23,16 +23,12 @@
 <!-- Метрика 94305898 грузится из /js/cookie-consent.js (по согласию, единый счётчик сайта) -->
 <!-- ╚════════════════════════════════════════════════════════════════════════════╝ -->
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
-<script>window.YM_PARAMS = {page_type:"region", cluster:"regiony"};</script>
-
+<script>window.YM_PARAMS = {page_type:"about", cluster:"company"};</script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Service", "name": "Казначейское сопровождение в Пензе", "serviceType": "Казначейское сопровождение госконтрактов", "description": "Казначейское сопровождение госконтрактов в Пензе: открытие лицевого счёта в УФК по Пензенской области, ведение платежей, санкционирование, спасение контрактов. Дистанционно по всему региону.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png"}, "areaServed": {"@type": "AdministrativeArea", "name": "Пензенская область"}, "url": "https://kaznaexpert.ru/regiony/penza/"}
+{"@context":"https://schema.org","@type":"AboutPage","name":"О компании КазнаЭксперт","url":"https://kaznaexpert.ru/o-kompanii/","mainEntity":{"@type":"ProfessionalService","name":"КазнаЭксперт","description":"Казначейское сопровождение госконтрактов под ключ по всей России: открытие и резервирование лицевых счетов в ТОФК, ведение операций, ГОЗ, спасение проблемных контрактов.","url":"https://kaznaexpert.ru","telephone":"+7-981-833-10-10","email":"manager@kaznaexpert.ru","areaServed":{"@type":"Country","name":"Россия"},"founder":{"@type":"Person","name":"Ярослав Михайлов","url":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/"},"knowsAbout":["Казначейское сопровождение","Гособоронзаказ","Лицевые счета в казначействе","Санкционирование расходов","Раздельный учёт по ГОЗ"],"identifier":[{"@type":"PropertyValue","name":"ОГРНИП","value":"321784700367672"},{"@type":"PropertyValue","name":"ИНН","value":"781428314589"}]}}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Регионы", "item": "https://kaznaexpert.ru/regiony/"}, {"@type": "ListItem", "position": 3, "name": "Казначейское сопровождение в Пензе"}]}
-</script>
-<script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Вы работаете в Пензе?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Ведём казначейское сопровождение для подрядчиков из Пенза и всего региона дистанционно — открываем и ведём счёт в УФК по Пензенской области через «Электронный бюджет»."}}, {"@type": "Question", "name": "Какой код у казначейства в Пензе?", "acceptedAnswer": {"@type": "Answer", "text": "УФК по Пензенской области имеет код КОФК 5500. Адрес: 440008, г. Пенза, ул. Ставского, 11. Лицевой счёт открываем и ведём дистанционно."}}, {"@type": "Question", "name": "Где находится УФК по Пензенской области?", "acceptedAnswer": {"@type": "Answer", "text": "Адрес: 440008, г. Пенза, ул. Ставского, 11. Приезжать не нужно — счёт и документооборот ведём дистанционно через «Электронный бюджет»."}}, {"@type": "Question", "name": "Нужно ли приезжать в казначейство?", "acceptedAnswer": {"@type": "Answer", "text": "Нет. Весь документооборот идёт электронно через «Электронный бюджет». Работаем со всеми регионами РФ удалённо."}}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"О компании"}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -66,23 +62,23 @@
 <link rel="preload" href="/css/v2.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/v2.css') ?>" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/css/v2.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/v2.css') ?>"></noscript>
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="profile">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Казначейское сопровождение в Пензе">
-<meta property="og:description" content="Казначейское сопровождение госконтрактов в Пензе: открытие счёта в УФК, платежи, санкционирование, спасение контрактов. Дистанционно, фикс-цены.">
-<meta property="og:url" content="https://kaznaexpert.ru/regiony/penza/">
+<meta property="og:title" content="О компании КазнаЭксперт">
+<meta property="og:description" content="Практика казначейского сопровождения госконтрактов. Опыт изнутри Федерального казначейства с 2009 года, вся РФ, проверка в реестрах.">
+<meta property="og:url" content="https://kaznaexpert.ru/o-kompanii/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
+<meta property="og:image:alt" content="КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-06-03T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Казначейское сопровождение в Пензе">
-<meta name="twitter:description" content="Казначейское сопровождение госконтрактов в Пензе: открытие счёта в УФК, платежи, санкционирование, спасение контрактов. Дистанционно, фикс-цены.">
+<meta name="twitter:title" content="Ярослав Михайлов — Основатель · главный эксперт">
+<meta name="twitter:description" content="Ярослав Михайлов — основатель КазнаЭксперт, эксперт по казначейскому сопровождению. Окончил СПбГУ, в Федеральном казначействе с 2009 по 2019 год. Ведёт сложные кейсы, ГОЗ и спасение контрактов.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <style>
@@ -505,214 +501,123 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
           </nav>
         </header>
 
-<div class="v2">
 <style>
-@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}
-.v2 .v2-bc{border-bottom:1px solid var(--hair,rgba(26,26,26,.08))}
-.v2 .v2-bc ol{list-style:none;display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:0;padding:14px 0;font-size:13.5px}
-.v2 .v2-bc li{display:flex;align-items:center;gap:8px;color:var(--mute,#6E6B66)}
-.v2 .v2-bc li+li::before{content:'/';color:var(--hair,rgba(26,26,26,.35))}
-.v2 .v2-bc a{color:var(--mute,#6E6B66);text-decoration:none}
-.v2 .v2-bc a:hover{color:var(--accent,#8B6F47)}
-.v2 .v2-bc [aria-current]{color:var(--ink,#1A1A1A);font-weight:500}
-.v2 .reg-split{display:grid;grid-template-columns:1fr;gap:26px}
-@media(min-width:901px){.v2 .reg-split{grid-template-columns:2fr 1fr;gap:40px;align-items:start}}
-.v2 .reg-copy{font-size:16.5px;line-height:1.7;color:var(--ink-soft,#3A3A3A)}
-.v2 .reg-copy p{margin:0 0 16px}
-.v2 .reg-copy h3{font-family:var(--font-display,'Playfair Display',serif);font-weight:500;font-size:20px;margin:24px 0 10px;color:var(--ink,#1A1A1A)}
-.v2 .reg-facts{background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.1));border-radius:16px;padding:24px}
-.v2 .reg-facts h3{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--mute,#6E6B66);margin:0 0 14px;font-weight:600}
-.v2 .reg-facts dl{margin:0;display:grid;gap:13px}
-.v2 .reg-facts dt{font-size:12.5px;color:var(--mute,#6E6B66)}
-.v2 .reg-facts dd{margin:3px 0 0;font-size:15px;color:var(--ink,#1A1A1A);font-weight:500;line-height:1.4}
-.v2 .cmp-wrap{overflow-x:auto}
-.v2 .cmp{width:100%;border-collapse:collapse;font-size:15px;background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.1));border-radius:14px;overflow:hidden}
-.v2 .cmp th,.v2 .cmp td{text-align:left;padding:14px 18px;border-bottom:1px solid var(--hair,rgba(26,26,26,.08));vertical-align:top;line-height:1.45}
-.v2 .cmp thead th{font-size:12.5px;text-transform:uppercase;letter-spacing:.05em;color:var(--mute,#6E6B66);font-weight:600}
-.v2 .cmp tbody tr:last-child td{border-bottom:none}
-.v2 .cmp .cmp-us{color:var(--ink,#1A1A1A);font-weight:500}
+.ok{--g:var(--accent,#8B6F47)}
+.ok-wrap{max-width:1240px;margin:0 auto;padding:0 24px}
+.ok-crumbs{font-size:13px;color:var(--mute,#6E6B66);margin:26px auto 0;max-width:1240px;padding:0 24px}
+.ok-crumbs a{color:var(--g);text-decoration:none}
+.ok-hero{padding:40px 0 8px}
+.ok-eyebrow{font-family:var(--font-body);font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--g);font-weight:600;margin-bottom:14px}
+.ok-h1{font-family:var(--font-display);font-weight:500;font-size:clamp(2rem,3.4vw+1rem,3.2rem);line-height:1.08;letter-spacing:-.01em;color:var(--ink,#1A1A1A);margin:0 0 18px;max-width:18ch}
+.ok-h1 em{font-style:italic;color:var(--g)}
+.ok-lead{font-size:clamp(1.05rem,.6vw+1rem,1.2rem);line-height:1.6;color:var(--ink-soft,#3A3A3A);max-width:62ch}
+.ok-stats{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;margin:40px auto 8px}
+.ok-stat{border:1px solid var(--accent-soft,rgba(139,111,71,.18));border-radius:16px;padding:22px;background:var(--paper,#FBF9F4)}
+.ok-stat b{display:block;font-family:var(--font-display);font-weight:500;font-size:2rem;color:var(--ink);line-height:1}
+.ok-stat span{display:block;margin-top:8px;font-size:14px;color:var(--mute,#6E6B66)}
+.ok-sec{padding:54px 0;border-top:1px solid rgba(26,26,26,.07)}
+.ok-sec h2{font-family:var(--font-display);font-weight:500;font-size:clamp(1.6rem,2vw+1rem,2.2rem);letter-spacing:-.01em;color:var(--ink);margin:0 0 8px}
+.ok-sec h2 em{font-style:italic;color:var(--g)}
+.ok-sec p.lede{color:var(--mute,#6E6B66);max-width:64ch;margin:0 0 26px;font-size:1.05rem;line-height:1.6}
+.ok-prose p{font-size:1.06rem;line-height:1.7;color:var(--ink-soft,#3A3A3A);max-width:68ch;margin:0 0 16px}
+.ok-cards{display:grid;grid-template-columns:repeat(2,1fr);gap:18px}
+.ok-card{border:1px solid var(--accent-soft,rgba(139,111,71,.18));border-radius:16px;padding:24px;background:#fff}
+.ok-card h3{font-family:var(--font-display);font-weight:500;font-size:1.22rem;color:var(--ink);margin:0 0 8px}
+.ok-card p{font-size:.98rem;line-height:1.6;color:var(--mute,#6E6B66);margin:0}
+.ok-expert{display:flex;gap:20px;align-items:center;border:1px solid var(--accent-soft,rgba(139,111,71,.22));border-radius:18px;padding:22px 26px;background:var(--paper,#FBF9F4);text-decoration:none;color:inherit;max-width:640px;transition:transform .2s,border-color .2s}
+.ok-expert:hover{transform:translateY(-3px);border-color:rgba(139,111,71,.5)}
+.ok-mono{width:60px;height:60px;border-radius:50%;flex-shrink:0;display:flex;align-items:center;justify-content:center;background:rgba(139,111,71,.12);color:var(--g);font-family:var(--font-display);font-size:22px;font-weight:600}
+.ok-expert b{font-family:var(--font-display);font-weight:500;font-size:1.2rem;color:var(--ink);display:block}
+.ok-expert span{font-size:14px;color:var(--mute,#6E6B66);display:block;margin-top:3px}
+.ok-req{border:1px solid var(--accent-soft,rgba(139,111,71,.2));border-radius:16px;padding:24px 26px;background:var(--paper,#FBF9F4)}
+.ok-req .row{display:flex;flex-wrap:wrap;gap:8px 28px;font-size:15px;color:var(--ink-soft,#3A3A3A);margin-bottom:16px}
+.ok-req .row b{color:var(--ink)}
+.ok-badges{display:flex;flex-wrap:wrap;gap:12px}
+.ok-badge{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--accent-soft,rgba(139,111,71,.28));border-radius:10px;padding:9px 14px;font-size:14px;color:var(--ink);text-decoration:none;transition:background .2s}
+.ok-badge:hover{background:rgba(139,111,71,.07)}
+.ok-cta{display:flex;flex-wrap:wrap;gap:14px;margin-top:26px}
+.ok-btn{display:inline-flex;align-items:center;padding:14px 26px;border-radius:12px;font-weight:600;font-size:15px;text-decoration:none}
+.ok-btn--solid{background:var(--ink,#1A1A1A);color:#fff}
+.ok-btn--ghost{border:1px solid rgba(26,26,26,.2);color:var(--ink)}
+@media(max-width:860px){.ok-stats{grid-template-columns:repeat(2,1fr)}.ok-cards{grid-template-columns:1fr}}
 </style>
-<nav class="v2-bc" aria-label="Хлебные крошки"><div class="v2-container"><ol><li><a href="/">Главная</a></li><li><a href="/regiony/">Регионы</a></li><li aria-current="page">Пенза</li></ol></div></nav>
-<section class="v2-hero">
-  <div class="v2-container">
-    <div class="v2-hero-grid">
-      <div class="v2-hero-main">
-        <div class="v2-hero-eyebrow-row"><span class="v2-eyebrow">Казначейское сопровождение · Пенза</span><span class="v2-hero-eyebrow-dash" aria-hidden="true"></span></div>
-        <h1>Казначейское сопровождение<br><em>в Пензе</em></h1>
-        <p class="v2-hero-lede"><strong>Берём казначейское сопровождение госконтракта в Пензе на себя:</strong> открытие лицевого счёта в УФК по Пензенской области, ведение платежей и санкционирование, раздельный учёт и спасение проблемных контрактов. Дистанционно по всему региону, без возвратов и срыва сроков.</p>
-        <div class="v2-hero-trust">
-          <div class="v2-trust-item"><div class="v2-trust-num">2<span class="v2-trust-suffix">&nbsp;рабочих&nbsp;дня</span></div><div class="v2-trust-label">до открытия счёта</div></div>
-          <div class="v2-trust-item"><div class="v2-trust-num">7 000<span class="v2-trust-suffix">+</span></div><div class="v2-trust-label">контрактов</div></div>
-          <div class="v2-trust-item"><div class="v2-trust-num">90<span class="v2-trust-suffix">&nbsp;млрд&nbsp;₽</span></div><div class="v2-trust-label">проведено</div></div>
-          <div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div>
-        </div>
-        <div class="v2-hero-expert">
-          <div class="v2-expert-name">Михайлов Ярослав</div>
-          <div class="v2-expert-role">Главный эксперт · 15 лет в Казначействе</div>
-          <p class="v2-expert-quote">«Пензенская область ведём дистанционно: знаем требования УФК по Пензенской области и доводим платежи до санкционирования с первой подачи».</p>
-        </div>
+
+<nav class="ok-crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <span>О компании</span></nav>
+
+<header class="ok-hero ok-wrap">
+  <div class="ok-eyebrow">О компании</div>
+  <h1 class="ok-h1">КазнаЭксперт — казначейское сопровождение <em>под ключ</em></h1>
+  <p class="ok-lead">Специализированная практика по казначейскому сопровождению государственных контрактов. Берём на себя всю операционную работу с казначейством — от открытия лицевого счёта в ТОФК до проведения каждого платежа — по всей России. Экспертиза изнутри Федерального казначейства с 2009 года.</p>
+
+  <div class="ok-stats">
+    <div class="ok-stat"><b>с&nbsp;2009</b><span>опыт в сфере казначейства</span></div>
+    <div class="ok-stat"><b>7000+</b><span>сопровождённых контрактов</span></div>
+    <div class="ok-stat"><b>Вся&nbsp;РФ</b><span>работаем дистанционно</span></div>
+    <div class="ok-stat"><b>ИП</b><span>проверка в открытых реестрах</span></div>
+  </div>
+</header>
+
+<section class="ok-sec">
+  <div class="ok-wrap">
+    <h2>Кто <em>ведёт ваши контракты</em></h2>
+    <div class="ok-prose">
+      <p>За проектом стоит <b>Ярослав Михайлов</b> — основатель КазнаЭксперт. С 2009 по 2019 год работал в системе Федерального казначейства: изнутри изучил логику санкционирования платежей, типовые причины отказов и реальные требования территориальных органов к документам. После казначейства перешёл на сторону бизнеса и занялся поддержкой компаний по казначейскому сопровождению.</p>
+      <p>Так появился КазнаЭксперт — практика, где казначейское сопровождение ведут, зная работу УФК не по инструкциям, а изнутри. Лично контролируются самые сложные ситуации: спасение проблемных контрактов, расширенное сопровождение и нестандартные кейсы по ГОЗ.</p>
+    </div>
+    <a class="ok-expert" href="/komanda/mihailov-yaroslav/">
+      <span class="ok-mono">ЯМ</span>
+      <span><b>Ярослав Михайлов</b><span>Основатель · эксперт по казначейскому сопровождению →</span></span>
+    </a>
+  </div>
+</section>
+
+<section class="ok-sec">
+  <div class="ok-wrap">
+    <h2>Как <em>мы работаем</em></h2>
+    <p class="lede">Премиум-подход: не самые дешёвые, но берём ответственность за результат и закрываем задачу целиком.</p>
+    <div class="ok-cards">
+      <div class="ok-card"><h3>Под ключ</h3><p>Полностью ведём казначейскую часть контракта: счёт, сведения, коды, распоряжения, отчётность. Вам не нужно разбираться в процедурах УФК.</p></div>
+      <div class="ok-card"><h3>Быстро</h3><p>Открытие лицевого счёта в ТОФК — за два рабочих дня. Платежи проводим с первой подачи, без типовых причин отказа.</p></div>
+      <div class="ok-card"><h3>Экспертиза изнутри</h3><p>Знаем требования казначейства со стороны регулятора, а не из пересказов. Это снимает большинство возвратов ещё до подачи.</p></div>
+      <div class="ok-card"><h3>Без лимитов на поддержку</h3><p>Сопровождаем операции и вопросы по контракту без ограничений по количеству обращений — пока задача не закрыта.</p></div>
+      <div class="ok-card"><h3>По первоисточникам</h3><p>Работаем строго по действующим нормам (БК РФ, 275-ФЗ, приказы Минфина и Казначейства), отслеживаем изменения редакций.</p></div>
+      <div class="ok-card"><h3>Конфиденциально</h3><p>Данные клиентов под NDA, кейсы публикуем только обезличенно. Без обещаний гарантированного результата — только реальная работа.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="ok-sec">
+  <div class="ok-wrap">
+    <h2>С чем <em>помогаем</em></h2>
+    <p class="lede">Полный цикл казначейского сопровождения госконтрактов — 44-ФЗ, 223-ФЗ, ГОЗ (275-ФЗ), субсидии.</p>
+    <div class="ok-cards">
+      <div class="ok-card"><h3><a href="/uslugi/otkrytie-scheta/" style="color:inherit;text-decoration:none">Открытие счёта →</a></h3><p>Полный пакет документов и открытие лицевого счёта в ТОФК с первой подачи.</p></div>
+      <div class="ok-card"><h3><a href="/uslugi/rezervirovanie-scheta/" style="color:inherit;text-decoration:none">Резервирование счёта →</a></h3><p>Бронирование счёта по ГОЗ заранее, чтобы не срывать сроки контракта.</p></div>
+      <div class="ok-card"><h3><a href="/uslugi/soprovozhdenie-avans/" style="color:inherit;text-decoration:none">Сопровождение с авансом →</a></h3><p>Контроль целевого использования, цепочка кооперации, безлимит операций.</p></div>
+      <div class="ok-card"><h3><a href="/uslugi/spasenie-kontrakta/" style="color:inherit;text-decoration:none">Спасение контракта →</a></h3><p>Аудит проблемной ситуации и вывод контракта из тупика по отказам и срокам.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="ok-sec">
+  <div class="ok-wrap">
+    <h2>Реквизиты <em>и проверка</em></h2>
+    <p class="lede">Мы — реальный исполнитель с публичной историей. Проверьте нас в открытых государственных и коммерческих реестрах.</p>
+    <div class="ok-req">
+      <div class="row"><span><b>Организация:</b> ИП Михайлов Ярослав Алексеевич</span><span><b>ИНН:</b> 781428314589</span><span><b>ОГРНИП:</b> 321784700367672</span></div>
+      <div class="row"><span><b>Телефон:</b> <a href="tel:+79818331010" style="color:var(--g);text-decoration:none">+7 981 833-10-10</a></span><span><b>E-mail:</b> <a href="mailto:manager@kaznaexpert.ru" style="color:var(--g);text-decoration:none">manager@kaznaexpert.ru</a></span><span><b>География:</b> вся Россия, дистанционно</span></div>
+      <div class="ok-badges">
+        <a class="ok-badge" href="https://www.rusprofile.ru/ip/321784700367672" target="_blank" rel="noopener">Rusprofile</a>
+        <a class="ok-badge" href="https://zachestnyibiznes.ru/company/ip/321784700367672_781428314589" target="_blank" rel="noopener">За честный бизнес</a>
+        <a class="ok-badge" href="https://www.audit-it.ru/contragent/fl/781428314589_mikhailov-iaroslav-alekseevich" target="_blank" rel="noopener">Audit-it</a>
       </div>
-      <aside class="v2-hero-action">
-        <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
-        <h2>Разберём ваш контракт</h2>
-        <p class="v2-hero-action-sub">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт ваш контракт в Пензе и назовёт точную стоимость. NDA — до анализа документов.</p>
-        <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="region-penza">
-          <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
-          <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
-          <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
-          <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-          <button class="submit" type="submit">Получить расчёт →</button>
-          <div class="formmsg" id="formMsg" hidden></div>
-          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
-          <div class="success" id="leadSuccess" role="status" aria-live="polite">
-            <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
-            <h3>Заявка принята</h3><p>Эксперт перезвонит <b>в течение 15 минут</b> (9:00–21:00 МСК) и разберёт ваш контракт.</p>
-            <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
-          </div>
-        </form>
-        <div class="v2-hero-alt">Или напишите — ответим за 5 минут<div class="v2-hero-alt-links"><a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a><a href="tel:+79818331010">+7 981 833-10-10</a></div></div>
-      </aside>
+    </div>
+    <div class="ok-cta">
+      <a class="ok-btn ok-btn--solid" href="/#contacts">Обсудить контракт</a>
+      <a class="ok-btn ok-btn--ghost" href="/keysy/">Посмотреть кейсы</a>
     </div>
   </div>
 </section>
-
-<section class="v2-section v2-screen" id="region">
-  <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Пенза</div><h2 class="v2-section-title">Сопровождение в Пензе — <em>дистанционно и под ключ</em></h2></div>
-    <div class="reg-split">
-      <div class="reg-copy">
-        <p>Пензенская область — центр приборостроения и точного машиностроения: предприятия ОПК для атомной энергетики, радиоэлектроники и связи, развитая пищевая промышленность и АПК. Ведём казначейское сопровождение через УФК по Пензенской области для подрядчиков из Пензы и области, включая гособоронзаказ.</p>
-        <p>Услуга оказывается по всей России: открываем и ведём лицевые счета в любом территориальном органе казначейства, в том числе в УФК по Пензенской области. Весь документооборот — через «Электронный бюджет», поэтому ваше местонахождение и загруженность регионального УФК не мешают работе. Реквизиты под рукой: УФК по Пензенской области — код КОФК 5500, 440008, г. Пенза, ул. Ставского, 11; официальный сайт и коды всех ТОФК — в <a href="/baza-znaniy/tofk/">справочнике казначейств по регионам</a>.</p>
-        <h3>Когда нужно казначейское сопровождение</h3>
-        <p>Расчёты идут через лицевой счёт в казначействе, если вы выиграли госконтракт по 44-ФЗ или 223-ФЗ с условием казначейского сопровождения, получаете целевой аванс или бюджетную субсидию либо работаете по гособоронзаказу (275-ФЗ). Без открытого счёта и санкционирования оплата невозможна, а каждая ошибка в документах оборачивается возвратом и потерей срока.</p>
-        <p>Мы закрываем весь этот блок: открываем счёт в УФК по Пензенской области, ведём раздельный учёт, готовим распоряжения и проводим санкционирование, а при возвратах и блокировках — восстанавливаем контракт до исполнения.</p>
-      </div>
-      <aside class="reg-facts">
-        <h3>Коротко о регионе</h3>
-        <dl>
-          <div><dt>Субъект РФ</dt><dd>Пензенская область</dd></div>
-          <div><dt>Орган казначейства</dt><dd>УФК по Пензенской области</dd></div>
-          <div><dt>Код казначейства (КОФК)</dt><dd>5500</dd></div><div><dt>Адрес УФК</dt><dd>440008, г. Пенза, ул. Ставского, 11</dd></div><div><dt>Официальный сайт</dt><dd><a href="https://penza.roskazna.gov.ru/" target="_blank" rel="noopener nofollow">penza.roskazna.gov.ru</a></dd></div>
-          <div><dt>Формат работы</dt><dd>Дистанционно, по всей РФ</dd></div>
-          <div><dt>Открытие счёта</dt><dd>2 рабочих дня</dd></div>
-          <div><dt>Документооборот</dt><dd>«Электронный бюджет»</dd></div>
-        </dl>
-      </aside>
-    </div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="region-deep"><div class="v2-container"><div class="v2-section-head"><div class="v2-section-eyebrow">Специфика региона</div><h2 class="v2-section-title">Казначейское сопровождение госзаказа в Пензенской области</h2></div><div class="reg-copy reg-deep" style="max-width:920px"><style>.v2 .reg-deep .reg-scen{margin:14px 0 0;padding:0;list-style:none;display:grid;gap:10px}.v2 .reg-deep .reg-scen li{position:relative;padding-left:26px;font-size:16px;line-height:1.6;color:var(--ink-soft,#3A3A3A)}.v2 .reg-deep .reg-scen li::before{content:"";position:absolute;left:4px;top:9px;width:8px;height:8px;border-radius:50%;background:var(--accent,#8B6F47)}</style><p>В Пензенской области казначейское сопровождение прежде всего связано с гособоронзаказом. Регион — центр приборостроения и спецтехники: в Заречном работает ФНПЦ «ПО «Старт» им. Проценко» — одно из ведущих предприятий атомной промышленности, выпускающее спецтехнику по заказу Росатома, технические средства охраны и приборы автоматики. Вокруг таких предприятий выстроен приборостроительный кластер, и для подрядчиков кооперации это означает работу по 275-ФЗ: отдельный счёт, раздельный учёт затрат и контроль каждого платежа казначейством обязательны для всей цепочки исполнителей.</p><p>Параллельно в регионе развиваются пищевая промышленность, АПК и биомедицинское направление с фармацевтическими проектами полного цикла. Эти контракты идут по 44-ФЗ и 223-ФЗ — чаще с целевым авансом на закупку сырья и оборудования, где казначейство контролирует целевой характер расхода. На практике подрядчик нередко ведёт оба типа контрактов сразу, и потоки нужно разводить по отдельным счетам, чтобы логика санкционирования не путалась.</p><p>Лицевой счёт ведём в УФК по Пензенской области (код КОФК 5500, 440008, г. Пенза, ул. Ставского, 11, penza.roskazna.gov.ru) полностью дистанционно через «Электронный бюджет». Знаем требования к основаниям платежа по гособоронзаказу и доводим санкционирование до первой подачи, а при блокировке счёта или возврате распоряжения подключаемся срочно.</p><h3>Типовые обращения из Пензенской области</h3><ul class="reg-scen"><li>Субподряд по гособоронзаказу в приборостроении и производстве спецтехники — отдельный счёт и раздельный учёт по 275-ФЗ.</li><li>Перевод цены контракта из ориентировочной в фиксированную — корректный учёт фактических затрат для ГОЗ.</li><li>Фармацевтический или АПК-контракт под закупку сырья с целевым авансом — подтверждение целевого характера расходов.</li><li>Параллельные контракты по 275-ФЗ и 44-ФЗ у одного подрядчика — разделение потоков по счетам и единый контроль сроков.</li></ul></div></div></section>
-
-<section class="v2-section v2-screen" id="uslugi">
-  <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Услуги</div><h2 class="v2-section-title">Что берём на себя в Пензе</h2><p class="v2-section-lede">Полный цикл казначейского сопровождения — от открытия счёта до спасения контракта.</p></div>
-    <div class="v2-process-grid lp-3col">
-      <article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Открытие счёта</h3><p class="v2-process-desc">Пакет документов и открытие лицевого счёта в УФК по Пензенской области с первой подачи за два рабочих дня. <a href="/uslugi/otkrytie-scheta/">Подробнее →</a></p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Ведение и платежи</h3><p class="v2-process-desc">Сведения, распоряжения, санкционирование, постоплата и аванс — безлимит операций до закрытия контракта. <a href="/uslugi/soprovozhdenie-avans/">Подробнее →</a></p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Спасение контракта</h3><p class="v2-process-desc">Возвраты, блокировки, отказы казначейства — срочная диагностика и восстановление до исполнения. <a href="/uslugi/spasenie-kontrakta/">Подробнее →</a></p></article>
-    </div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="process">
-  <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Процесс</div><h2 class="v2-section-title">Как начинаем работу в Пензе</h2><p class="v2-section-lede">Каждый шаг — конкретное действие на нашей стороне. Прозрачно и дистанционно.</p></div>
-    <div class="v2-process-grid lp-3col">
-      <article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">Сегодня · 15 минут</div><h3>Заявка и старт</h3><p class="v2-process-desc">Перезваниваем за 15 минут, разбираем контракт, подписываем договор и NDA.</p><ul class="v2-process-checks"><li>Договор подписан</li></ul></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">1–2 дня</div><h3>Документы и счёт</h3><p class="v2-process-desc">Готовим пакет, включаем в сводный реестр, открываем счёт в УФК по Пензенской области.</p><ul class="v2-process-checks"><li>Счёт открыт</li></ul></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">До закрытия</div><h3>Ведём контракт</h3><p class="v2-process-desc">Платежи, сведения, санкционирование — до исполнения контракта без возвратов.</p><ul class="v2-process-checks"><li>Платежи проходят</li></ul></article>
-    </div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="sravnenie">
-  <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Сравнение</div><h2 class="v2-section-title">Своими силами или <em>с экспертом</em></h2><p class="v2-section-lede">Казначейское сопровождение — это процедуры с жёсткими требованиями УФК по Пензенской области. Цена ошибки — возврат документов и сорванный срок исполнения.</p></div>
-    <div class="cmp-wrap">
-      <table class="cmp">
-        <thead><tr><th>Этап</th><th>Своими силами</th><th>С КазнаЭксперт</th></tr></thead>
-        <tbody>
-          <tr><td>Открытие лицевого счёта</td><td>1–3 недели, частые возвраты пакета</td><td class="cmp-us">2 рабочих дня, подача с первого раза</td></tr>
-          <tr><td>Санкционирование платежей</td><td>Отказы из-за оснований платежа и раздельного учёта</td><td class="cmp-us">Документы готовим под требования казначейства</td></tr>
-          <tr><td>Раздельный учёт и отчётность</td><td>Нужен отдельный обученный специалист</td><td class="cmp-us">Ведём за вас, без расширения штата</td></tr>
-          <tr><td>Возврат или блокировка</td><td>Контракт встаёт, сроки горят</td><td class="cmp-us">Срочная диагностика и восстановление</td></tr>
-          <tr><td>Цена ошибки</td><td>Штрафы, риск РНП, срыв исполнения</td><td class="cmp-us">Фиксированная цена и прогнозируемый результат</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="tarif">
-  <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Стоимость</div><h2 class="v2-section-title">Фиксированные цены — <em>по всей России</em></h2><p class="v2-section-lede">Цена не зависит от региона. Конкретный объём и стоимость прописаны в договоре.</p></div>
-    <div class="v2-tariffs-grid lp-3col">
-      <article class="v2-tariff is-featured"><div class="v2-tariff-no">01</div><div class="v2-tariff-stage">Старт</div><h3>Открытие счёта за два дня</h3><p class="v2-tariff-desc">Полный пакет документов и открытие счёта в УФК по Пензенской области с первой подачи.</p><div class="v2-tariff-price"><div class="v2-tariff-price-num">39 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div></article>
-      <article class="v2-tariff"><div class="v2-tariff-no">02</div><div class="v2-tariff-stage">Ведение</div><h3>Сопровождение контракта</h3><p class="v2-tariff-desc">Постоплата и аванс: контроль целевого использования, санкционирование, безлимит операций.</p><div class="v2-tariff-price"><div class="v2-tariff-price-num">от 59 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу / 79 000 ₽/мес</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div></article>
-      <article class="v2-tariff"><div class="v2-tariff-no">03</div><div class="v2-tariff-stage">Срочно</div><h3>Спасение контракта</h3><p class="v2-tariff-desc">Возвраты, блокировки, отказы — срочная диагностика и восстановление.</p><div class="v2-tariff-price"><div class="v2-tariff-price-num">от 29 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Аудит · восстановление от 99 000 ₽</div><a href="/uslugi/spasenie-kontrakta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div></article>
-    </div>
-    <p class="v2-tariffs-footnote">Точная стоимость — после анализа вашего контракта.</p>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="faq">
-  <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Вопросы</div><h2 class="v2-section-title">Отвечаем <em>прямо</em></h2></div>
-    <div class="faq">
-      <details open><summary>Вы работаете в Пензе?</summary><p>Да. Ведём казначейское сопровождение для подрядчиков из Пенза и всего региона дистанционно — открываем и ведём счёт в УФК по Пензенской области через «Электронный бюджет», личное присутствие не требуется.</p></details>
-      <details><summary>Какой код у казначейства в Пензе?</summary><p>УФК по Пензенской области имеет код КОФК <strong>5500</strong>. Адрес: 440008, г. Пенза, ул. Ставского, 11. Лицевой счёт в этом ТОФК открываем и ведём дистанционно — полный справочник кодов в <a href="/baza-znaniy/tofk/">базе ТОФК</a>.</p></details><details><summary>Где находится УФК по Пензенской области?</summary><p>Адрес: 440008, г. Пенза, ул. Ставского, 11. Приезжать туда не нужно — открытие лицевого счёта и весь документооборот в Пензе ведём дистанционно через «Электронный бюджет».</p></details>
-      <details><summary>Нужно ли приезжать в казначейство?</summary><p>Нет. Весь документооборот идёт электронно через «Электронный бюджет». Мы работаем со всеми регионами РФ удалённо.</p></details>
-      <details><summary>За сколько откроете счёт?</summary><p>За два рабочих дня с момента получения документов при стандартных требованиях. Срок фиксируем в договоре.</p></details>
-      <details><summary>Сколько стоит сопровождение?</summary><p>Цены фиксированные и не зависят от региона: открытие счёта — 39 000 ₽, ведение — от 59 000 ₽, спасение контракта — от 29 000 ₽. Точная стоимость — после анализа.</p></details>
-      <details><summary>Что если казначейство вернёт документы?</summary><p>Устраняем замечания без доплат — это входит в услугу. Цель — пройти санкционирование с первой подачи.</p></details>
-      <details><summary>Поможете со спасением проблемного контракта?</summary><p>Да. Срочно подключаемся: находим причину возвратов и блокировок, восстанавливаем учёт и доводим контракт до исполнения.</p></details>
-    </div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="zayavka">
-  <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Заявка</div><h2 class="v2-section-title">Казначейское сопровождение в Пензе</h2><p class="v2-section-lede">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт ваш контракт и назовёт точную стоимость.</p></div>
-    <div style="max-width:520px;margin:0 auto">
-      <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="region-penza-cta">
-        <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
-        <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
-        <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
-        <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-        <button class="submit" type="submit">Получить расчёт →</button>
-        <div class="formmsg" id="formMsgBottom" hidden></div>
-        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
-        <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
-          <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
-          <h3>Заявка принята</h3><p>Эксперт перезвонит <b>в течение 15 минут</b> (9:00–21:00 МСК).</p>
-        </div>
-      </form>
-    </div>
-  </div>
-</section>
-</div>
-
-<section class="kb-strip" aria-labelledby="kbRegTitle">
-<style>.kb-strip{--i:var(--ink,#1A1A1A);--s:var(--sepia,#8B6F47);--l:var(--line,#e4ddd0);--c:var(--card,#fffdf8);--m:var(--ink-mute,#8a8170);max-width:1240px;margin:40px auto;padding:0 24px;font-family:'Inter',system-ui,sans-serif}.kb-strip__head{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin-bottom:18px}.kb-strip__title{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:clamp(1.3rem,1.4vw+1rem,1.7rem);margin:0;color:var(--i)}.kb-strip__all{font-size:14px;font-weight:500;color:var(--s);text-decoration:none;white-space:nowrap}.kb-strip__all:hover{text-decoration:underline}.kb-strip__grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}.kb-card{display:flex;flex-direction:column;gap:8px;background:var(--c);border:1px solid var(--l);border-radius:14px;padding:18px 20px;text-decoration:none;color:inherit;transition:transform .18s,box-shadow .18s,border-color .18s}.kb-card:hover{transform:translateY(-3px);box-shadow:0 16px 32px -22px rgba(26,26,26,.3);border-color:rgba(139,111,71,.45)}.kb-card__cat{font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--s)}.kb-card__t{font-size:15px;font-weight:600;line-height:1.35;color:var(--i)}.kb-card__m{margin-top:auto;font-size:12.5px;color:var(--m)}@media(max-width:960px){.kb-strip__grid{grid-template-columns:1fr 1fr}}@media(max-width:560px){.kb-strip__grid{grid-template-columns:1fr}.kb-strip__head{flex-direction:column;gap:6px}}</style>
-<div class="kb-strip__head"><h2 class="kb-strip__title" id="kbRegTitle">Полезное по теме — пригодится при работе в Пензе</h2><a class="kb-strip__all" href="/baza-znaniy/">Вся база знаний →</a></div>
-<div class="kb-strip__grid"><a class="kb-card" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><span class="kb-card__cat">Основы</span><span class="kb-card__t">Казначейское сопровождение: что это и как работает</span><span class="kb-card__m">18 мин</span></a><a class="kb-card" href="/baza-znaniy/svodnyy-reestr/"><span class="kb-card__cat">Шаг 0</span><span class="kb-card__t">Сводный реестр: включение организации и код</span><span class="kb-card__m">15 мин</span></a><a class="kb-card" href="/baza-znaniy/licevoy-schet-71-kak-otkryt/"><span class="kb-card__cat">Счета</span><span class="kb-card__t">Лицевой счёт 71 в ТОФК: как открыть</span><span class="kb-card__m">15 мин</span></a><a class="kb-card" href="/baza-znaniy/tofk/"><span class="kb-card__cat">Справочник</span><span class="kb-card__t">Коды ТОФК по регионам: код, сайт, адрес УФК</span><span class="kb-card__m">88 УФК</span></a></div>
-</section>
-
-<section class="trust" aria-label="Проверка в реестрах">
-  <div class="trust__box">
-    <div class="trust__lead"><b>Проверьте нас в открытых реестрах</b>ИП Михайлов Я.А. · ИНН 781428314589 · ОГРНИП 321784700367672</div>
-    <div class="trust__badges">
-      <a class="badge" href="https://www.rusprofile.ru/ip/321784700367672" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg><b>Rusprofile</b></a>
-      <a class="badge" href="https://zachestnyibiznes.ru/company/ip/321784700367672_781428314589" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg>За честный <b>бизнес</b></a>
-      <a class="badge" href="https://www.audit-it.ru/contragent/fl/781428314589_mikhailov-iaroslav-alekseevich" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg><b>Audit-it</b></a>
-    </div>
-  </div>
-</section>
-
-<script>
-(function(){var f=document.getElementById('leadFormBottom'); if(!f) return;var msg=document.getElementById('formMsgBottom'), ok=document.getElementById('leadSuccessBottom');function show(t){ if(msg){msg.hidden=false;msg.textContent=t;} }f.addEventListener('submit',function(e){e.preventDefault();if(f.company_extra && f.company_extra.value) return;var name=(f.name.value||'').trim(), phone=(f.phone.value||'').trim();if(name.length<2){show('Введите имя');return;}if(!/\d[\s\d().-]*\d{3}/.test(phone)||phone.replace(/\D/g,'').length<10){show('Проверьте телефон');return;}if(!f.consent.checked){show('Подтвердите согласие');return;}var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})}).then(function(r){ if(!r.ok) throw 0; return r; }).then(function(){ [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; }); if(ok) ok.style.display='block'; try{ if(typeof ym==='function') ym(94305898,'reachGoal','lead',{source:f.dataset.source}); }catch(_){ } }).catch(function(){ btn.disabled=false; btn.textContent=orig; show('Не удалось отправить. Попробуйте ещё раз.'); });});})();
-</script>
 
 <footer class="v2-footer" id="footer">
         <div class="v2-container">

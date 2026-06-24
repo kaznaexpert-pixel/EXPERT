@@ -386,6 +386,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
               <a href="/keysy/">Кейсы</a>
               <a href="/regiony/">Регионы</a>
               <a href="/baza-znaniy/">База знаний</a>
+              <a href="/o-kompanii/">О компании</a>
               <a href="#faq">FAQ</a>
               <a href="#contacts">Связаться</a>
             </nav>
@@ -407,6 +408,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
             <a href="/keysy/">Кейсы</a>
               <a href="/regiony/">Регионы</a>
               <a href="/baza-znaniy/">База знаний</a>
+              <a href="/o-kompanii/">О компании</a>
             <a href="#faq">FAQ</a>
             <a class="v2-mobile-cta" href="#contacts">Получить расчёт</a>
           </nav>
@@ -1468,6 +1470,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
             <nav class="v2-footer-col" aria-label="Разделы сайта">
               <h3 class="v2-footer-h">Разделы</h3>
               <a href="/baza-znaniy/">База знаний</a>
+              <a href="/o-kompanii/">О компании</a>
               <a href="/baza-znaniy/kody/">Коды направлений расходования</a>
               <a href="/baza-znaniy/kody-postupleniy/">Коды источников поступлений</a>
               <a href="/baza-znaniy/normativnaya-baza/">Нормативная база</a>
