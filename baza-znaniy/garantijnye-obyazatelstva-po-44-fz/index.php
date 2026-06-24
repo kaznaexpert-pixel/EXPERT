@@ -723,6 +723,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Связаны ли гарантийные обязательства с казначейским сопровождением?</summary><p>Гарантийные обязательства существуют независимо от казначейского сопровождения. Но при сопровождаемом контракте обеспечение гарантийных обязательств обычно предоставляют независимой гарантией, чтобы не резервировать целевые средства на лицевом счёте на весь гарантийный срок.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:obespechenie-zayavki-44-fz">Обеспечение гарантийных обязательств не нужно путать с обеспечением этапа торгов — про него отдельный материал <a href="/baza-znaniy/obespechenie-zayavki-44-fz/">обеспечение заявки на участие в закупке по 44-ФЗ</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -780,6 +781,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-44-fz/"><div class="card__cover"><span>44-ФЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение по 44-ФЗ в 2026</h3><div class="card__meta">казначейское сопровождение · 18 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Аванс</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Аванс при казначейском сопровождении</h3><div class="card__meta">казначейское сопровождение · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Пиллар</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение: что это и кому нужно</h3><div class="card__meta">Пиллар · 20 мин</div></div></a>
+    <!-- auto-related:obespechenie-zayavki-44-fz --><a class="card reveal" href="/baza-znaniy/obespechenie-zayavki-44-fz/"><div class="card__cover"><span>Заявка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Обеспечение заявки на участие в закупке по 44-ФЗ</h3><div class="card__meta">Закупки 44-ФЗ · 16 мин</div></div></a>
   </div>
 </section>
 

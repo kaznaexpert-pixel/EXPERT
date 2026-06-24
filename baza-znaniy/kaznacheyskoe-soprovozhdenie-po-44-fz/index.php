@@ -707,6 +707,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Что будет в конце контракта с казначейским сопровождением?</summary><p>По завершении контракта неиспользованные остатки целевых средств возвращают, а лицевой счёт закрывают. Порядок завершения сопровождения отличается от обычного контракта.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:obespechenie-zayavki-44-fz">Отдельный инструмент этапа торгов — обеспечение заявки: когда оно требуется, размер и возврат разобраны в материале <a href="/baza-znaniy/obespechenie-zayavki-44-fz/">обеспечение заявки по 44-ФЗ</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -765,6 +766,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-223-fz/"><div class="card__cover"><span>223-ФЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение по 223-ФЗ</h3><div class="card__meta">казначейское сопровождение · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Аванс</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Аванс при казначейском сопровождении</h3><div class="card__meta">казначейское сопровождение · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte/"><div class="card__cover"><span>Контракт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Условие о казначейском сопровождении в контракте</h3><div class="card__meta">казначейское сопровождение · 15 мин</div></div></a>
+    <!-- auto-related:obespechenie-zayavki-44-fz --><a class="card reveal" href="/baza-znaniy/obespechenie-zayavki-44-fz/"><div class="card__cover"><span>Заявка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Обеспечение заявки на участие в закупке по 44-ФЗ</h3><div class="card__meta">Закупки 44-ФЗ · 16 мин</div></div></a>
   </div>
 </section>
 

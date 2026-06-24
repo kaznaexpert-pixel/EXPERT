@@ -681,6 +681,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-grantov">Разновидность субсидии — грант в форме субсидии по пункту 4 статьи 78.1 БК, который выдают по результатам отбора. Об особенностях его сопровождения — в статье о <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-grantov/">казначейском сопровождении грантов</a>.</p>
     <p data-ctx="auto-ctx:otchet-o-rashodah-celevyh-sredstv">По полученной субсидии придётся отчитываться о расходах целевых средств — отдельно от сведений об операциях. Как заполнить и сдать такой отчёт, показываем в материале об <a href="/baza-znaniy/otchet-o-rashodah-celevyh-sredstv/">отчёте о расходах целевых средств</a>.</p>
+    <p data-ctx="auto-ctx:byudzhetnye-investicii-yuridicheskomu-licu">В отличие от субсидии, при бюджетной инвестиции у государства возникает доля в капитале получателя — подробнее в материале <a href="/baza-znaniy/byudzhetnye-investicii-yuridicheskomu-licu/">бюджетные инвестиции юридическому лицу по статье 80 БК</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -774,6 +775,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Кто</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Кто попадает под казначейское сопровождение</h3><div class="card__meta">Сопровождение · 15 мин</div></div></a>
     <!-- auto-related:kaznacheyskoe-soprovozhdenie-grantov --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-grantov/"><div class="card__cover"><span>Гранты</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение грантов в форме субсидий</h3><div class="card__meta">Сопровождение · 16 мин</div></div></a>
     <!-- auto-related:otchet-o-rashodah-celevyh-sredstv --><a class="card reveal" href="/baza-znaniy/otchet-o-rashodah-celevyh-sredstv/"><div class="card__cover"><span>Отчётность</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отчёт о расходах целевых средств при казначейском сопровождении</h3><div class="card__meta">Операции · 16 мин</div></div></a>
+    <!-- auto-related:byudzhetnye-investicii-yuridicheskomu-licu --><a class="card reveal" href="/baza-znaniy/byudzhetnye-investicii-yuridicheskomu-licu/"><div class="card__cover"><span>Инвестиции</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Бюджетные инвестиции юридическому лицу (ст. 80 БК)</h3><div class="card__meta">Субсидии · 15 мин</div></div></a>
   </div>
 </section>
 
