@@ -1163,4 +1163,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie-dlya-ooo/</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/uslugi/autsorsing-kaznacheyskogo-soprovozhdeniya/</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
 </urlset>
