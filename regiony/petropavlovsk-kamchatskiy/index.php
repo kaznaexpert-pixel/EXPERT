@@ -4,14 +4,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Казначейское сопровождение в Омске — под ключ | КазнаЭксперт</title>
-<meta name="description" content="Казначейское сопровождение госконтрактов в Омске: открытие счёта в УФК по Омской области, платежи, санкционирование, спасение контрактов. Дистанционно, фикс-цены.">
+<title>Казначейское сопровождение в Петропавловске-Камчатском | КазнаЭксперт</title>
+<meta name="description" content="Казначейское сопровождение госконтрактов в Петропавловске-Камчатском: открытие счёта в УФК, платежи, санкционирование, спасение контрактов. Дистанционно, фикс-цены.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#141310" media="(prefers-color-scheme: dark)">
 <!-- PROD: canonical и og:url ОБЯЗАТЕЛЬНО менять под URL каждой статьи -->
-<link rel="canonical" href="https://kaznaexpert.ru/regiony/omsk/">
+<link rel="canonical" href="https://kaznaexpert.ru/regiony/petropavlovsk-kamchatskiy/">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
@@ -26,13 +26,13 @@
 <script>window.YM_PARAMS = {page_type:"region", cluster:"regiony"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Service", "name": "Казначейское сопровождение в Омске", "serviceType": "Казначейское сопровождение госконтрактов", "description": "Казначейское сопровождение госконтрактов в Омске: открытие лицевого счёта в УФК по Омской области, ведение платежей, санкционирование, спасение контрактов. Дистанционно по всему региону.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png"}, "areaServed": {"@type": "AdministrativeArea", "name": "Омская область"}, "url": "https://kaznaexpert.ru/regiony/omsk/"}
+{"@context": "https://schema.org", "@type": "Service", "name": "Казначейское сопровождение в Петропавловске-Камчатском", "serviceType": "Казначейское сопровождение госконтрактов", "description": "Казначейское сопровождение госконтрактов в Петропавловске-Камчатском: открытие лицевого счёта в УФК по Камчатскому краю, ведение платежей, санкционирование, спасение контрактов. Дистанционно по всему региону.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png"}, "areaServed": {"@type": "AdministrativeArea", "name": "Камчатский край"}, "url": "https://kaznaexpert.ru/regiony/petropavlovsk-kamchatskiy/"}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Регионы", "item": "https://kaznaexpert.ru/regiony/"}, {"@type": "ListItem", "position": 3, "name": "Казначейское сопровождение в Омске"}]}
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Регионы", "item": "https://kaznaexpert.ru/regiony/"}, {"@type": "ListItem", "position": 3, "name": "Казначейское сопровождение в Петропавловске-Камчатском"}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Вы работаете в Омске?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Ведём казначейское сопровождение для подрядчиков из Омск и всего региона дистанционно — открываем и ведём счёт в УФК по Омской области через «Электронный бюджет»."}}, {"@type": "Question", "name": "Какой код у казначейства в Омске?", "acceptedAnswer": {"@type": "Answer", "text": "УФК по Омской области имеет код КОФК 5200. Адрес: 644099, г. Омск, ул. Красногвардейская, 9. Лицевой счёт открываем и ведём дистанционно."}}, {"@type": "Question", "name": "Где находится УФК по Омской области?", "acceptedAnswer": {"@type": "Answer", "text": "Адрес: 644099, г. Омск, ул. Красногвардейская, 9. Приезжать не нужно — счёт и документооборот ведём дистанционно через «Электронный бюджет»."}}, {"@type": "Question", "name": "Нужно ли приезжать в казначейство?", "acceptedAnswer": {"@type": "Answer", "text": "Нет. Весь документооборот идёт электронно через «Электронный бюджет». Работаем со всеми регионами РФ удалённо."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Вы работаете в Петропавловске-Камчатском?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Ведём казначейское сопровождение для подрядчиков из Петропавловск-Камчатский и всего региона дистанционно — открываем и ведём счёт в УФК по Камчатскому краю через «Электронный бюджет»."}}, {"@type": "Question", "name": "Какой код у казначейства в Петропавловске-Камчатском?", "acceptedAnswer": {"@type": "Answer", "text": "УФК по Камчатскому краю имеет код КОФК 3800. Адрес: 683003, г. Петропавловск-Камчатский, ул. Ленинградская, д. 89. Лицевой счёт открываем и ведём дистанционно."}}, {"@type": "Question", "name": "Где находится УФК по Камчатскому краю?", "acceptedAnswer": {"@type": "Answer", "text": "Адрес: 683003, г. Петропавловск-Камчатский, ул. Ленинградская, д. 89. Приезжать не нужно — счёт и документооборот ведём дистанционно через «Электронный бюджет»."}}, {"@type": "Question", "name": "Нужно ли приезжать в казначейство?", "acceptedAnswer": {"@type": "Answer", "text": "Нет. Весь документооборот идёт электронно через «Электронный бюджет». Работаем со всеми регионами РФ удалённо."}}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -69,9 +69,9 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Казначейское сопровождение в Омске">
-<meta property="og:description" content="Казначейское сопровождение госконтрактов в Омске: открытие счёта в УФК по Омской области, платежи, санкционирование, спасение контрактов. Дистанционно, фикс-цены.">
-<meta property="og:url" content="https://kaznaexpert.ru/regiony/omsk/">
+<meta property="og:title" content="Казначейское сопровождение в Петропавловске-Камчатском">
+<meta property="og:description" content="Казначейское сопровождение госконтрактов в Петропавловске-Камчатском: открытие счёта в УФК, платежи, санкционирование, спасение контрактов. Дистанционно, фикс-цены.">
+<meta property="og:url" content="https://kaznaexpert.ru/regiony/petropavlovsk-kamchatskiy/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -81,8 +81,8 @@
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Казначейское сопровождение в Омске">
-<meta name="twitter:description" content="Казначейское сопровождение госконтрактов в Омске: открытие счёта в УФК по Омской области, платежи, санкционирование, спасение контрактов. Дистанционно, фикс-цены.">
+<meta name="twitter:title" content="Казначейское сопровождение в Петропавловске-Камчатском">
+<meta name="twitter:description" content="Казначейское сопровождение госконтрактов в Петропавловске-Камчатском: открытие счёта в УФК, платежи, санкционирование, спасение контрактов. Дистанционно, фикс-цены.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <style>
@@ -534,14 +534,14 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 .v2 .cmp tbody tr:last-child td{border-bottom:none}
 .v2 .cmp .cmp-us{color:var(--ink,#1A1A1A);font-weight:500}
 </style>
-<nav class="v2-bc" aria-label="Хлебные крошки"><div class="v2-container"><ol><li><a href="/">Главная</a></li><li><a href="/regiony/">Регионы</a></li><li aria-current="page">Омск</li></ol></div></nav>
+<nav class="v2-bc" aria-label="Хлебные крошки"><div class="v2-container"><ol><li><a href="/">Главная</a></li><li><a href="/regiony/">Регионы</a></li><li aria-current="page">Петропавловск-Камчатский</li></ol></div></nav>
 <section class="v2-hero">
   <div class="v2-container">
     <div class="v2-hero-grid">
       <div class="v2-hero-main">
-        <div class="v2-hero-eyebrow-row"><span class="v2-eyebrow">Казначейское сопровождение · Омск</span><span class="v2-hero-eyebrow-dash" aria-hidden="true"></span></div>
-        <h1>Казначейское сопровождение<br><em>в Омске</em></h1>
-        <p class="v2-hero-lede"><strong>Берём казначейское сопровождение госконтракта в Омске на себя:</strong> открытие лицевого счёта в УФК по Омской области, ведение платежей и санкционирование, раздельный учёт и спасение проблемных контрактов. Дистанционно по всему региону, без возвратов и срыва сроков.</p>
+        <div class="v2-hero-eyebrow-row"><span class="v2-eyebrow">Казначейское сопровождение · Петропавловск-Камчатский</span><span class="v2-hero-eyebrow-dash" aria-hidden="true"></span></div>
+        <h1>Казначейское сопровождение<br><em>в Петропавловске-Камчатском</em></h1>
+        <p class="v2-hero-lede"><strong>Берём казначейское сопровождение госконтракта в Петропавловске-Камчатском на себя:</strong> открытие лицевого счёта в УФК по Камчатскому краю, ведение платежей и санкционирование, раздельный учёт и спасение проблемных контрактов. Дистанционно по всему региону, без возвратов и срыва сроков.</p>
         <div class="v2-hero-trust">
           <div class="v2-trust-item"><div class="v2-trust-num">2<span class="v2-trust-suffix">&nbsp;рабочих&nbsp;дня</span></div><div class="v2-trust-label">до открытия счёта</div></div>
           <div class="v2-trust-item"><div class="v2-trust-num">7 000<span class="v2-trust-suffix">+</span></div><div class="v2-trust-label">контрактов</div></div>
@@ -551,14 +551,14 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
         <div class="v2-hero-expert">
           <div class="v2-expert-name">Михайлов Ярослав</div>
           <div class="v2-expert-role">Главный эксперт · 15 лет в Казначействе</div>
-          <p class="v2-expert-quote">«Омская область ведём дистанционно: знаем требования УФК по Омской области и доводим платежи до санкционирования с первой подачи».</p>
+          <p class="v2-expert-quote">«Камчатский край ведём дистанционно: знаем требования УФК по Камчатскому краю и доводим платежи до санкционирования с первой подачи».</p>
         </div>
       </div>
       <aside class="v2-hero-action">
         <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
         <h2>Разберём ваш контракт</h2>
-        <p class="v2-hero-action-sub">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт ваш контракт в Омске и назовёт точную стоимость. NDA — до анализа документов.</p>
-        <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="region-omsk">
+        <p class="v2-hero-action-sub">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт ваш контракт в Петропавловске-Камчатском и назовёт точную стоимость. NDA — до анализа документов.</p>
+        <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="region-petropavlovsk-kamchatskiy">
           <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
           <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
           <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
@@ -580,21 +580,21 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
 <section class="v2-section v2-screen" id="region">
   <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Омск</div><h2 class="v2-section-title">Сопровождение в Омске — <em>дистанционно и под ключ</em></h2></div>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Петропавловск-Камчатский</div><h2 class="v2-section-title">Сопровождение в Петропавловске-Камчатском — <em>дистанционно и под ключ</em></h2></div>
     <div class="reg-split">
       <div class="reg-copy">
-        <p>Омск — крупный промышленный центр Сибири: нефтепереработка (один из крупнейших НПЗ страны), нефтехимия, оборонное и аэрокосмическое машиностроение формируют поток госконтрактов и оборонной кооперации. Ведём казначейское сопровождение через УФК по Омской области для подрядчиков из Омска и области, включая контракты с авансом, раздельный учёт и гособоронзаказ.</p>
-        <p>Услуга оказывается по всей России: открываем и ведём лицевые счета в любом территориальном органе казначейства, в том числе в УФК по Омской области. Весь документооборот — через «Электронный бюджет», поэтому ваше местонахождение и загруженность регионального УФК не мешают работе. Реквизиты под рукой: УФК по Омской области — код КОФК 5200, 644099, г. Омск, ул. Красногвардейская, 9; официальный сайт и коды всех ТОФК — в <a href="/baza-znaniy/tofk/">справочнике казначейств по регионам</a>.</p>
+        <p>Камчатский край — рыбопромышленный комплекс, портовая инфраструктура, энергетика и северный завоз формируют специфику госзаказа; удалённость и девять часов разницы с Москвой делают дистанционный формат единственно рациональным. Ведём казначейское сопровождение через УФК по Камчатскому краю для подрядчиков из Петропавловска-Камчатского и края удалённо.</p>
+        <p>Услуга оказывается по всей России: открываем и ведём лицевые счета в любом территориальном органе казначейства, в том числе в УФК по Камчатскому краю. Весь документооборот — через «Электронный бюджет», поэтому ваше местонахождение и загруженность регионального УФК не мешают работе. Реквизиты под рукой: УФК по Камчатскому краю — код КОФК 3800, 683003, г. Петропавловск-Камчатский, ул. Ленинградская, д. 89; официальный сайт и коды всех ТОФК — в <a href="/baza-znaniy/tofk/">справочнике казначейств по регионам</a>.</p>
         <h3>Когда нужно казначейское сопровождение</h3>
         <p>Расчёты идут через лицевой счёт в казначействе, если вы выиграли госконтракт по 44-ФЗ или 223-ФЗ с условием казначейского сопровождения, получаете целевой аванс или бюджетную субсидию либо работаете по гособоронзаказу (275-ФЗ). Без открытого счёта и санкционирования оплата невозможна, а каждая ошибка в документах оборачивается возвратом и потерей срока.</p>
-        <p>Мы закрываем весь этот блок: открываем счёт в УФК по Омской области, ведём раздельный учёт, готовим распоряжения и проводим санкционирование, а при возвратах и блокировках — восстанавливаем контракт до исполнения.</p>
+        <p>Мы закрываем весь этот блок: открываем счёт в УФК по Камчатскому краю, ведём раздельный учёт, готовим распоряжения и проводим санкционирование, а при возвратах и блокировках — восстанавливаем контракт до исполнения.</p>
       </div>
       <aside class="reg-facts">
         <h3>Коротко о регионе</h3>
         <dl>
-          <div><dt>Субъект РФ</dt><dd>Омская область</dd></div>
-          <div><dt>Орган казначейства</dt><dd>УФК по Омской области</dd></div>
-          <div><dt>Код казначейства (КОФК)</dt><dd>5200</dd></div><div><dt>Адрес УФК</dt><dd>644099, г. Омск, ул. Красногвардейская, 9</dd></div><div><dt>Официальный сайт</dt><dd><a href="https://omsk.roskazna.gov.ru/" target="_blank" rel="noopener nofollow">omsk.roskazna.gov.ru</a></dd></div>
+          <div><dt>Субъект РФ</dt><dd>Камчатский край</dd></div>
+          <div><dt>Орган казначейства</dt><dd>УФК по Камчатскому краю</dd></div>
+          <div><dt>Код казначейства (КОФК)</dt><dd>3800</dd></div><div><dt>Адрес УФК</dt><dd>683003, г. Петропавловск-Камчатский, ул. Ленинградская, д. 89</dd></div><div><dt>Официальный сайт</dt><dd><a href="https://kamchatka.roskazna.gov.ru/" target="_blank" rel="noopener nofollow">kamchatka.roskazna.gov.ru</a></dd></div>
           <div><dt>Формат работы</dt><dd>Дистанционно, по всей РФ</dd></div>
           <div><dt>Открытие счёта</dt><dd>2 рабочих дня</dd></div>
           <div><dt>Документооборот</dt><dd>«Электронный бюджет»</dd></div>
@@ -604,13 +604,13 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="region-deep"><div class="v2-container"><div class="v2-section-head"><div class="v2-section-eyebrow">Специфика региона</div><h2 class="v2-section-title">Казначейское сопровождение госзаказа в Омской области</h2></div><div class="reg-copy reg-deep" style="max-width:920px"><style>.v2 .reg-deep .reg-scen{margin:14px 0 0;padding:0;list-style:none;display:grid;gap:10px}.v2 .reg-deep .reg-scen li{position:relative;padding-left:26px;font-size:16px;line-height:1.6;color:var(--ink-soft,#3A3A3A)}.v2 .reg-deep .reg-scen li::before{content:"";position:absolute;left:4px;top:9px;width:8px;height:8px;border-radius:50%;background:var(--accent,#8B6F47)}</style><p>Омск — крупный промышленный центр Сибири с сильным оборонным сектором: производство ракетных двигателей и космической техники, бронетехники и радиоэлектроники, а также один из крупнейших в стране нефтеперерабатывающих заводов. Для подрядчиков это значит, что большая доля госконтрактов идёт по 275-ФЗ (гособоронзаказ), где казначейское сопровождение, отдельный счёт и раздельный учёт обязательны для головных исполнителей и всей кооперации.</p><p>Лицевой счёт открываем и ведём в УФК по Омской области (код КОФК 5200, г. Омск, ул. Красногвардейская, 9) полностью дистанционно через «Электронный бюджет» — личные визиты не нужны. Знаем требования омского казначейства к основаниям платежа и доводим санкционирование до первой подачи.</p><p>Помимо гособоронзаказа через лицевой счёт проходят контракты нефтехимического и строительного профиля под целевой аванс, а также поставки оборудования и услуг для нефтепереработки. Берём весь цикл: открытие счёта, санкционирование расходов, раздельный учёт и спасение контракта при возвратах распоряжений.</p><h3>С чем к нам приходят из Омской области</h3><ul class="reg-scen"><li>Субподряд по гособоронзаказу в ракетно-космическом и оборонном машиностроении — отдельный счёт и раздельный учёт по 275-ФЗ.</li><li>Поставка оборудования для НПЗ или нефтехимии с целевым авансом — санкционирование целевых расходов.</li><li>Перевод цены контракта из ориентировочной в фиксированную — допсоглашение и пересчёт по ГОЗ.</li><li>Возврат распоряжения из-за расхождения в основаниях платежа — срочная диагностика и повторная подача.</li></ul></div></div></section>
+
 
 <section class="v2-section v2-screen" id="uslugi">
   <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Услуги</div><h2 class="v2-section-title">Что берём на себя в Омске</h2><p class="v2-section-lede">Полный цикл казначейского сопровождения — от открытия счёта до спасения контракта.</p></div>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Услуги</div><h2 class="v2-section-title">Что берём на себя в Петропавловске-Камчатском</h2><p class="v2-section-lede">Полный цикл казначейского сопровождения — от открытия счёта до спасения контракта.</p></div>
     <div class="v2-process-grid lp-3col">
-      <article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Открытие счёта</h3><p class="v2-process-desc">Пакет документов и открытие лицевого счёта в УФК по Омской области с первой подачи за два рабочих дня. <a href="/uslugi/otkrytie-scheta/">Подробнее →</a></p></article>
+      <article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Открытие счёта</h3><p class="v2-process-desc">Пакет документов и открытие лицевого счёта в УФК по Камчатскому краю с первой подачи за два рабочих дня. <a href="/uslugi/otkrytie-scheta/">Подробнее →</a></p></article>
       <article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Ведение и платежи</h3><p class="v2-process-desc">Сведения, распоряжения, санкционирование, постоплата и аванс — безлимит операций до закрытия контракта. <a href="/uslugi/soprovozhdenie-avans/">Подробнее →</a></p></article>
       <article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Спасение контракта</h3><p class="v2-process-desc">Возвраты, блокировки, отказы казначейства — срочная диагностика и восстановление до исполнения. <a href="/uslugi/spasenie-kontrakta/">Подробнее →</a></p></article>
     </div>
@@ -619,10 +619,10 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
 <section class="v2-section v2-screen" id="process">
   <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Процесс</div><h2 class="v2-section-title">Как начинаем работу в Омске</h2><p class="v2-section-lede">Каждый шаг — конкретное действие на нашей стороне. Прозрачно и дистанционно.</p></div>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Процесс</div><h2 class="v2-section-title">Как начинаем работу в Петропавловске-Камчатском</h2><p class="v2-section-lede">Каждый шаг — конкретное действие на нашей стороне. Прозрачно и дистанционно.</p></div>
     <div class="v2-process-grid lp-3col">
       <article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">Сегодня · 15 минут</div><h3>Заявка и старт</h3><p class="v2-process-desc">Перезваниваем за 15 минут, разбираем контракт, подписываем договор и NDA.</p><ul class="v2-process-checks"><li>Договор подписан</li></ul></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">1–2 дня</div><h3>Документы и счёт</h3><p class="v2-process-desc">Готовим пакет, включаем в сводный реестр, открываем счёт в УФК по Омской области.</p><ul class="v2-process-checks"><li>Счёт открыт</li></ul></article>
+      <article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">1–2 дня</div><h3>Документы и счёт</h3><p class="v2-process-desc">Готовим пакет, включаем в сводный реестр, открываем счёт в УФК по Камчатскому краю.</p><ul class="v2-process-checks"><li>Счёт открыт</li></ul></article>
       <article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">До закрытия</div><h3>Ведём контракт</h3><p class="v2-process-desc">Платежи, сведения, санкционирование — до исполнения контракта без возвратов.</p><ul class="v2-process-checks"><li>Платежи проходят</li></ul></article>
     </div>
   </div>
@@ -630,7 +630,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
 <section class="v2-section v2-screen" id="sravnenie">
   <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Сравнение</div><h2 class="v2-section-title">Своими силами или <em>с экспертом</em></h2><p class="v2-section-lede">Казначейское сопровождение — это процедуры с жёсткими требованиями УФК по Омской области. Цена ошибки — возврат документов и сорванный срок исполнения.</p></div>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Сравнение</div><h2 class="v2-section-title">Своими силами или <em>с экспертом</em></h2><p class="v2-section-lede">Казначейское сопровождение — это процедуры с жёсткими требованиями УФК по Камчатскому краю. Цена ошибки — возврат документов и сорванный срок исполнения.</p></div>
     <div class="cmp-wrap">
       <table class="cmp">
         <thead><tr><th>Этап</th><th>Своими силами</th><th>С КазнаЭксперт</th></tr></thead>
@@ -650,7 +650,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   <div class="v2-container">
     <div class="v2-section-head"><div class="v2-section-eyebrow">Стоимость</div><h2 class="v2-section-title">Фиксированные цены — <em>по всей России</em></h2><p class="v2-section-lede">Цена не зависит от региона. Конкретный объём и стоимость прописаны в договоре.</p></div>
     <div class="v2-tariffs-grid lp-3col">
-      <article class="v2-tariff is-featured"><div class="v2-tariff-no">01</div><div class="v2-tariff-stage">Старт</div><h3>Открытие счёта за два дня</h3><p class="v2-tariff-desc">Полный пакет документов и открытие счёта в УФК по Омской области с первой подачи.</p><div class="v2-tariff-price"><div class="v2-tariff-price-num">39 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div></article>
+      <article class="v2-tariff is-featured"><div class="v2-tariff-no">01</div><div class="v2-tariff-stage">Старт</div><h3>Открытие счёта за два дня</h3><p class="v2-tariff-desc">Полный пакет документов и открытие счёта в УФК по Камчатскому краю с первой подачи.</p><div class="v2-tariff-price"><div class="v2-tariff-price-num">39 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div></article>
       <article class="v2-tariff"><div class="v2-tariff-no">02</div><div class="v2-tariff-stage">Ведение</div><h3>Сопровождение контракта</h3><p class="v2-tariff-desc">Постоплата и аванс: контроль целевого использования, санкционирование, безлимит операций.</p><div class="v2-tariff-price"><div class="v2-tariff-price-num">от 59 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу / 79 000 ₽/мес</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div></article>
       <article class="v2-tariff"><div class="v2-tariff-no">03</div><div class="v2-tariff-stage">Срочно</div><h3>Спасение контракта</h3><p class="v2-tariff-desc">Возвраты, блокировки, отказы — срочная диагностика и восстановление.</p><div class="v2-tariff-price"><div class="v2-tariff-price-num">от 29 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Аудит · восстановление от 99 000 ₽</div><a href="/uslugi/spasenie-kontrakta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div></article>
     </div>
@@ -662,8 +662,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   <div class="v2-container">
     <div class="v2-section-head"><div class="v2-section-eyebrow">Вопросы</div><h2 class="v2-section-title">Отвечаем <em>прямо</em></h2></div>
     <div class="faq">
-      <details open><summary>Вы работаете в Омске?</summary><p>Да. Ведём казначейское сопровождение для подрядчиков из Омск и всего региона дистанционно — открываем и ведём счёт в УФК по Омской области через «Электронный бюджет», личное присутствие не требуется.</p></details>
-      <details><summary>Какой код у казначейства в Омске?</summary><p>УФК по Омской области имеет код КОФК <strong>5200</strong>. Адрес: 644099, г. Омск, ул. Красногвардейская, 9. Лицевой счёт в этом ТОФК открываем и ведём дистанционно — полный справочник кодов в <a href="/baza-znaniy/tofk/">базе ТОФК</a>.</p></details><details><summary>Где находится УФК по Омской области?</summary><p>Адрес: 644099, г. Омск, ул. Красногвардейская, 9. Приезжать туда не нужно — открытие лицевого счёта и весь документооборот в Омске ведём дистанционно через «Электронный бюджет».</p></details>
+      <details open><summary>Вы работаете в Петропавловске-Камчатском?</summary><p>Да. Ведём казначейское сопровождение для подрядчиков из Петропавловск-Камчатский и всего региона дистанционно — открываем и ведём счёт в УФК по Камчатскому краю через «Электронный бюджет», личное присутствие не требуется.</p></details>
+      <details><summary>Какой код у казначейства в Петропавловске-Камчатском?</summary><p>УФК по Камчатскому краю имеет код КОФК <strong>3800</strong>. Адрес: 683003, г. Петропавловск-Камчатский, ул. Ленинградская, д. 89. Лицевой счёт в этом ТОФК открываем и ведём дистанционно — полный справочник кодов в <a href="/baza-znaniy/tofk/">базе ТОФК</a>.</p></details><details><summary>Где находится УФК по Камчатскому краю?</summary><p>Адрес: 683003, г. Петропавловск-Камчатский, ул. Ленинградская, д. 89. Приезжать туда не нужно — открытие лицевого счёта и весь документооборот в Петропавловске-Камчатском ведём дистанционно через «Электронный бюджет».</p></details>
       <details><summary>Нужно ли приезжать в казначейство?</summary><p>Нет. Весь документооборот идёт электронно через «Электронный бюджет». Мы работаем со всеми регионами РФ удалённо.</p></details>
       <details><summary>За сколько откроете счёт?</summary><p>За два рабочих дня с момента получения документов при стандартных требованиях. Срок фиксируем в договоре.</p></details>
       <details><summary>Сколько стоит сопровождение?</summary><p>Цены фиксированные и не зависят от региона: открытие счёта — 39 000 ₽, ведение — от 59 000 ₽, спасение контракта — от 29 000 ₽. Точная стоимость — после анализа.</p></details>
@@ -675,9 +675,9 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
 <section class="v2-section v2-screen" id="zayavka">
   <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Заявка</div><h2 class="v2-section-title">Казначейское сопровождение в Омске</h2><p class="v2-section-lede">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт ваш контракт и назовёт точную стоимость.</p></div>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Заявка</div><h2 class="v2-section-title">Казначейское сопровождение в Петропавловске-Камчатском</h2><p class="v2-section-lede">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт ваш контракт и назовёт точную стоимость.</p></div>
     <div style="max-width:520px;margin:0 auto">
-      <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="region-omsk-cta">
+      <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="region-petropavlovsk-kamchatskiy-cta">
         <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
         <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
         <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
@@ -697,7 +697,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
 <section class="kb-strip" aria-labelledby="kbRegTitle">
 <style>.kb-strip{--i:var(--ink,#1A1A1A);--s:var(--sepia,#8B6F47);--l:var(--line,#e4ddd0);--c:var(--card,#fffdf8);--m:var(--ink-mute,#8a8170);max-width:1240px;margin:40px auto;padding:0 24px;font-family:'Inter',system-ui,sans-serif}.kb-strip__head{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin-bottom:18px}.kb-strip__title{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:clamp(1.3rem,1.4vw+1rem,1.7rem);margin:0;color:var(--i)}.kb-strip__all{font-size:14px;font-weight:500;color:var(--s);text-decoration:none;white-space:nowrap}.kb-strip__all:hover{text-decoration:underline}.kb-strip__grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}.kb-card{display:flex;flex-direction:column;gap:8px;background:var(--c);border:1px solid var(--l);border-radius:14px;padding:18px 20px;text-decoration:none;color:inherit;transition:transform .18s,box-shadow .18s,border-color .18s}.kb-card:hover{transform:translateY(-3px);box-shadow:0 16px 32px -22px rgba(26,26,26,.3);border-color:rgba(139,111,71,.45)}.kb-card__cat{font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--s)}.kb-card__t{font-size:15px;font-weight:600;line-height:1.35;color:var(--i)}.kb-card__m{margin-top:auto;font-size:12.5px;color:var(--m)}@media(max-width:960px){.kb-strip__grid{grid-template-columns:1fr 1fr}}@media(max-width:560px){.kb-strip__grid{grid-template-columns:1fr}.kb-strip__head{flex-direction:column;gap:6px}}</style>
-<div class="kb-strip__head"><h2 class="kb-strip__title" id="kbRegTitle">Полезное по теме — пригодится при работе в Омске</h2><a class="kb-strip__all" href="/baza-znaniy/">Вся база знаний →</a></div>
+<div class="kb-strip__head"><h2 class="kb-strip__title" id="kbRegTitle">Полезное по теме — пригодится при работе в Петропавловске-Камчатском</h2><a class="kb-strip__all" href="/baza-znaniy/">Вся база знаний →</a></div>
 <div class="kb-strip__grid"><a class="kb-card" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><span class="kb-card__cat">Основы</span><span class="kb-card__t">Казначейское сопровождение: что это и как работает</span><span class="kb-card__m">18 мин</span></a><a class="kb-card" href="/baza-znaniy/svodnyy-reestr/"><span class="kb-card__cat">Шаг 0</span><span class="kb-card__t">Сводный реестр: включение организации и код</span><span class="kb-card__m">15 мин</span></a><a class="kb-card" href="/baza-znaniy/licevoy-schet-71-kak-otkryt/"><span class="kb-card__cat">Счета</span><span class="kb-card__t">Лицевой счёт 71 в ТОФК: как открыть</span><span class="kb-card__m">15 мин</span></a><a class="kb-card" href="/baza-znaniy/tofk/"><span class="kb-card__cat">Справочник</span><span class="kb-card__t">Коды ТОФК по регионам: код, сайт, адрес УФК</span><span class="kb-card__m">88 УФК</span></a></div>
 </section>
 
