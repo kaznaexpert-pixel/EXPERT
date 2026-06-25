@@ -508,7 +508,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 .ok-wrap{max-width:1240px;margin:0 auto;padding:0 24px}
 .ok-crumbs{font-size:13px;color:var(--mute,#6E6B66);margin:26px auto 0;max-width:1240px;padding:0 24px}
 .ok-crumbs a{color:var(--g);text-decoration:none}
-.ok-hero{padding:40px 0 8px}
+.ok-hero{padding:40px 24px 8px}
 .ok-eyebrow{font-family:var(--font-body);font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--g);font-weight:600;margin-bottom:14px}
 .ok-h1{font-family:var(--font-display);font-weight:500;font-size:clamp(2rem,3.4vw+1rem,3.2rem);line-height:1.08;letter-spacing:-.01em;color:var(--ink,#1A1A1A);margin:0 0 18px;max-width:18ch}
 .ok-h1 em{font-style:italic;color:var(--g)}
