@@ -512,6 +512,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
               <a href="/keysy/">Кейсы</a>
               <a href="/regiony/">Регионы</a>
               <a href="/baza-znaniy/">База знаний</a>
+              <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a>
               <a href="/o-kompanii/">О компании</a>
               <a href="/#faq">FAQ</a>
               <a href="/#contacts">Связаться</a>
@@ -534,6 +535,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
             <a href="/keysy/">Кейсы</a>
               <a href="/regiony/">Регионы</a>
               <a href="/baza-znaniy/">База знаний</a>
+              <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a>
               <a href="/o-kompanii/">О компании</a>
             <a href="/#faq">FAQ</a>
             <a class="v2-mobile-cta" href="/#contacts">Получить расчёт</a>
@@ -1046,6 +1048,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
             <nav class="v2-footer-col" aria-label="Разделы сайта">
               <h3 class="v2-footer-h">Разделы</h3>
               <a href="/baza-znaniy/">База знаний</a>
+              <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a>
               <a href="/o-kompanii/">О компании</a>
               <a href="/baza-znaniy/kody/">Коды направлений расходования</a>
               <a href="/baza-znaniy/kody-postupleniy/">Коды источников поступлений</a>

@@ -546,6 +546,7 @@ a.kx-card__val:hover{color:var(--sep)}
             <nav class="v2-footer-col" aria-label="Разделы сайта">
               <h3 class="v2-footer-h">Разделы</h3>
               <a href="/baza-znaniy/">База знаний</a>
+              <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a>
               <a href="/o-kompanii/">О компании</a>
               <a href="/baza-znaniy/kody/">Коды направлений расходования</a>
               <a href="/baza-znaniy/kody-postupleniy/">Коды источников поступлений</a>

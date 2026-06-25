@@ -477,6 +477,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
               <a href="/keysy/">Кейсы</a>
               <a href="/regiony/">Регионы</a>
               <a href="/baza-znaniy/">База знаний</a>
+              <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a>
               <a href="/o-kompanii/">О компании</a>
               <a href="/#faq">FAQ</a>
               <a href="/#contacts">Связаться</a>
@@ -499,6 +500,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
             <a href="/keysy/">Кейсы</a>
               <a href="/regiony/">Регионы</a>
               <a href="/baza-znaniy/">База знаний</a>
+              <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a>
               <a href="/o-kompanii/">О компании</a>
             <a href="/#faq">FAQ</a>
             <a class="v2-mobile-cta" href="/#contacts">Получить расчёт</a>
@@ -593,7 +595,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <div class="success" id="leadSuccess" role="status" aria-live="polite"><div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div><h3>Заявка принята</h3><p>Эксперт перезвонит <b>в течение 1 часа</b> (9:00–21:00 МСК).</p></div>
     </form>
   <!-- rail-svc -->
-<a class="rail-svc" href="/uslugi/soprovozhdenie-postoplata/"><span class="rail-svc__k">Поможем под ключ</span><span class="rail-svc__n">Сопровождение контракта (постоплата) →</span></a>
+<a class="rail-svc" href="/uslugi/audit-kaznacheyskogo-soprovozhdeniya/"><span class="rail-svc__k">Поможем под ключ</span><span class="rail-svc__n">Аудит казначейского сопровождения →</span></a>
 </aside>
 </div>
 
@@ -625,6 +627,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
             <nav class="v2-footer-col" aria-label="Разделы сайта">
               <h3 class="v2-footer-h">Разделы</h3>
               <a href="/baza-znaniy/">База знаний</a>
+              <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a>
               <a href="/o-kompanii/">О компании</a>
               <a href="/baza-znaniy/kody/">Коды направлений расходования</a>
               <a href="/baza-znaniy/kody-postupleniy/">Коды источников поступлений</a>

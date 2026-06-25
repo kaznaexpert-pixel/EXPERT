@@ -487,6 +487,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
               <a href="/keysy/">Кейсы</a>
               <a href="/regiony/">Регионы</a>
               <a href="/baza-znaniy/">База знаний</a>
+              <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a>
               <a href="/o-kompanii/">О компании</a>
               <a href="/#faq">FAQ</a>
               <a href="/#contacts">Связаться</a>
@@ -509,6 +510,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
             <a href="/keysy/">Кейсы</a>
               <a href="/regiony/">Регионы</a>
               <a href="/baza-znaniy/">База знаний</a>
+              <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a>
               <a href="/o-kompanii/">О компании</a>
             <a href="/#faq">FAQ</a>
             <a class="v2-mobile-cta" href="/#contacts">Получить расчёт</a>
@@ -616,6 +618,80 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <tr><td>База расчёта</td><td>От НМЦК, а при закупке у единственного поставщика — от цены контракта</td></tr>
     </table>
     <p>Антидемпинговые меры по статье 37 Закона № 44-ФЗ — отдельная ловушка для тех, кто заходит в торги с большим снижением. Если поставщик опустил цену на четверть и более от НМЦК, обеспечение нужно предоставить в полуторном размере (либо подтвердить добросовестность сведениями из реестра контрактов). Для контрактов с авансом повышенное обеспечение особенно чувствительно, поэтому экономику снижения стоит просчитывать вместе с размером обеспечения, а не отдельно.</p>
+
+<!-- osec-calc -->
+<div class="osec-calc" id="osecCalc">
+<style>
+.osec-calc{margin:30px 0;background:#26241d;color:#e8e2d6;border-radius:16px;padding:26px 28px;border:1px solid #3a382f}
+.osec-calc h3{font-family:var(--font-display,Georgia,serif);color:#fff;font-weight:500;font-size:20px;margin:0 0 4px}
+.osec-calc .osc__sub{font-size:13px;color:#b3ada0;margin:0 0 18px;line-height:1.45}
+.osec-calc .osc__row{display:grid;grid-template-columns:1fr 1fr 1fr;gap:14px 18px;margin-bottom:12px}
+.osec-calc label{display:block;font-size:12px;color:#cfc8ba;margin-bottom:6px}
+.osec-calc input[type=number]{width:100%;font:inherit;font-size:15px;padding:11px 13px;border-radius:10px;border:1px solid #3a382f;background:#1f1d17;color:#fff}
+.osec-calc input:focus{outline:none;border-color:#d8bd92}
+.osec-calc .osc__checks{display:flex;flex-wrap:wrap;gap:16px;margin:4px 0 16px}
+.osec-calc .osc__check{display:flex;align-items:center;gap:8px;font-size:13px;color:#cfc8ba;cursor:pointer}
+.osec-calc .osc__check input{width:17px;height:17px;accent-color:#d8bd92}
+.osec-calc .osc__out{margin-top:6px;padding:18px;border-radius:12px;border:1px solid #3a382f;background:#1f1d17}
+.osec-calc .osc__sum{font-family:var(--font-display,Georgia,serif);font-size:30px;color:#7ee0a7;line-height:1;margin:0 0 10px;font-variant-numeric:tabular-nums}
+.osec-calc .osc__grid{display:grid;grid-template-columns:1fr 1fr;gap:8px 22px}
+.osec-calc .osc__grid div{font-size:13px;color:#cfc8ba}
+.osec-calc .osc__grid b{color:#fff;font-weight:600;font-variant-numeric:tabular-nums}
+.osec-calc .osc__note{font-size:12.5px;color:#d8bd92;margin:12px 0 0;line-height:1.5}
+.osec-calc .osc__law{font-size:11.5px;color:#9a9489;margin-top:10px}
+@media(max-width:560px){.osec-calc .osc__row,.osec-calc .osc__grid{grid-template-columns:1fr}}
+</style>
+<h3>Калькулятор обеспечения исполнения контракта</h3>
+<p class="osc__sub">Расчёт по статье 96 Закона № 44-ФЗ с учётом сопровождаемого аванса и антидемпинга. Меняйте параметры — сумма пересчитывается мгновенно.</p>
+<div class="osc__row">
+<div><label>НМЦК / цена контракта, &#8381;</label><input id="oscNmck" type="number" min="0" step="1000" value="10000000"></div>
+<div><label>Обеспечение, % (0,5&#8211;30)</label><input id="oscPct" type="number" min="0.5" max="30" step="0.5" value="5"></div>
+<div><label>Аванс, % (0 &#8212; если нет)</label><input id="oscAvans" type="number" min="0" max="100" step="1" value="0"></div>
+</div>
+<div class="osc__checks">
+<label class="osc__check"><input id="oscKs" type="checkbox"> Аванс под казначейским сопровождением</label>
+<label class="osc__check"><input id="oscAd" type="checkbox"> Антидемпинг: снижение цены &#8805; 25%</label>
+</div>
+<div class="osc__out">
+<p class="osc__sum" id="oscSum">&#8212;</p>
+<div class="osc__grid">
+<div>База расчёта: <b id="oscBase">&#8212;</b></div>
+<div>Сумма аванса: <b id="oscAvSum">&#8212;</b></div>
+<div>Обеспечение по %: <b id="oscRaw">&#8212;</b></div>
+<div>С учётом антидемпинга: <b id="oscAdv">&#8212;</b></div>
+</div>
+<p class="osc__note" id="oscNote"></p>
+<p class="osc__law">Расчёт справочный. Точный размер устанавливает заказчик в извещении в пределах ст. 96 и ст. 37 Закона № 44-ФЗ.</p>
+</div>
+<script>
+(function(){
+var ids=['oscNmck','oscPct','oscAvans','oscKs','oscAd'];
+var f=ids.map(function(i){return document.getElementById(i)});
+function fmt(n){return Math.round(n).toLocaleString('ru-RU')+' ₽'}
+function calc(){
+var nmck=+f[0].value||0,pct=+f[1].value||0,av=+f[2].value||0,ks=f[3].checked,ad=f[4].checked;
+var avSum=nmck*av/100;
+var base=(ks&&avSum>0)?Math.max(0,nmck-avSum):nmck;
+var raw=base*pct/100;var sec=raw;
+if(av>0&&!ks)sec=Math.max(sec,avSum);
+var adv=ad?sec*1.5:sec;
+document.getElementById('oscBase').textContent=fmt(base);
+document.getElementById('oscAvSum').textContent=fmt(avSum);
+document.getElementById('oscRaw').textContent=fmt(raw);
+document.getElementById('oscAdv').textContent=ad?fmt(adv):'—';
+document.getElementById('oscSum').textContent=fmt(adv);
+var n='';
+if(ks&&avSum>0)n='Аванс под сопровождением: обеспечение считается от цены за вычетом аванса (ч. 6 ст. 96).';
+else if(av>0)n='Аванс без сопровождения: обеспечение не меньше суммы аванса (ч. 6 ст. 96).';
+if(ad)n+=(n?' ':'')+'Антидемпинг (ст. 37): обеспечение в 1,5 раза либо подтверждение добросовестности.';
+if(ks)n+=(n?' ':'')+'Если расчёты идут под сопровождением, заказчик вправе не устанавливать обеспечение (ч. 8 ст. 96).';
+document.getElementById('oscNote').textContent=n;
+}
+f.forEach(function(el){el.addEventListener('input',calc);el.addEventListener('change',calc)});
+calc();
+})();
+</script>
+</div>
 
     <h2 id="avans-i-obespechenie">Обеспечение и аванс под казначейским сопровождением</h2>
     <p>Связка «аванс плюс обеспечение» — самая частая причина путаницы. Разберём по шагам. Если контракт предусматривает аванс, общее правило статьи 96 требует, чтобы обеспечение было не меньше суммы этого аванса: иначе заказчик рискует выдать деньги вперёд без покрытия. Но когда аванс подлежит казначейскому сопровождению, ситуация меняется. Сопровождаемый аванс зачисляется на лицевой счёт в казначействе и тратится только под санкционированием — значит, он уже защищён, и страховать его обеспечением второй раз не нужно.</p>
@@ -912,6 +988,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
             <nav class="v2-footer-col" aria-label="Разделы сайта">
               <h3 class="v2-footer-h">Разделы</h3>
               <a href="/baza-znaniy/">База знаний</a>
+              <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a>
               <a href="/o-kompanii/">О компании</a>
               <a href="/baza-znaniy/kody/">Коды направлений расходования</a>
               <a href="/baza-znaniy/kody-postupleniy/">Коды источников поступлений</a>
