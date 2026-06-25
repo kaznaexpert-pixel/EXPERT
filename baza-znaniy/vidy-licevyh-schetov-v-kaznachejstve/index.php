@@ -713,6 +713,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <p class="muted">Пример обобщённый и иллюстративный, не описывает конкретного клиента и не гарантирует результата: вид счёта зависит от статуса организации и характера средств в каждом случае.</p>
 
     <p data-ctx="auto-ctx:kniga-registracii-kaznacheyskih-schetov">Лицевые счета открывают на казначейских счетах, факт открытия которых отражается в <a href="/baza-znaniy/kniga-registracii-kaznacheyskih-schetov/">Книге регистрации казначейских счетов</a>.</p>
+    <p data-ctx="auto-ctx:kaznacheyskiy-schet-i-raschetnyy-schet">Чем лицевой счёт в казначействе принципиально отличается от обычного банковского счёта, наглядно показано в сравнении <a href="/baza-znaniy/kaznacheyskiy-schet-i-raschetnyy-schet/">казначейского и расчётного счёта</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>

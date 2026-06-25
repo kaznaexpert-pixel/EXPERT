@@ -788,6 +788,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/licevoy-schet-71-kak-otkryt/"><div class="card__cover"><span>Счёт 71</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Как открыть лицевой счёт 71 в ТОФК</h3><div class="card__meta">Счета · 13 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha/"><div class="card__cover"><span>Платежи</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Распоряжение о совершении казначейского платежа</h3><div class="card__meta">Операции · 14 мин</div></div></a>
     <!-- auto-related:sistema-kaznacheyskih-platezhey --><a class="card reveal" href="/baza-znaniy/sistema-kaznacheyskih-platezhey/"><div class="card__cover"><span>СКП</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Система казначейских платежей: что это и как работает</h3><div class="card__meta">Основы · 16 мин</div></div></a>
+    <!-- auto-related:kaznacheyskiy-schet-i-raschetnyy-schet --><a class="card reveal" href="/baza-znaniy/kaznacheyskiy-schet-i-raschetnyy-schet/"><div class="card__cover"><span>Сравнение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейский счёт и расчётный счёт: в чём разница</h3><div class="card__meta">Счета · 14 мин</div></div></a>
   </div>
 </section>
 

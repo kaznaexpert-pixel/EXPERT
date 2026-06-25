@@ -825,6 +825,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-municipalnyh-kontraktov">Отдельная история — муниципальные контракты: для них случаи казначейского сопровождения определяет не федеральный закон, а муниципальный акт о местном бюджете. Подробно об этом — в статье о <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-municipalnyh-kontraktov/">казначейском сопровождении муниципальных контрактов</a>.</p>
     <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-po-44-fz">Как применяется и исполняется контракт именно по 44-ФЗ — отдельно разобрано в материале <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-44-fz/">казначейское сопровождение по 44-ФЗ</a>.</p>
     <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-v-2026-godu">Актуальные на текущий год пороги и перечень случаев задаёт закон о бюджете — сводка по статье 5 Закона № 426-ФЗ собрана в материале <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-v-2026-godu/">казначейское сопровождение в 2026 году</a>.</p>
+    <p data-ctx="auto-ctx:kaznacheyskiy-schet-i-raschetnyy-schet">Если сопровождение применяется, расчёты по контракту пойдут не через банк, а через лицевой счёт — мы сравнили <a href="/baza-znaniy/kaznacheyskiy-schet-i-raschetnyy-schet/">казначейский и расчётный счёт</a>, чтобы было видно, что меняется для подрядчика на практике.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div>

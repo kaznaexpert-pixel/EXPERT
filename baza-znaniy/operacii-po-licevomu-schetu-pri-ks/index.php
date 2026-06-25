@@ -785,6 +785,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>Отказы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Причины отказа казначейства в санкционировании</h3><div class="card__meta">Контроль · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kaznacheyskiy-schet-subpodryadchika/"><div class="card__cover"><span>Субподряд</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Нужен ли казначейский счёт субподрядчику</h3><div class="card__meta">Счета · 17 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Целевые</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Целевые средства при казначейском сопровождении</h3><div class="card__meta">Операции · 15 мин</div></div></a>
+    <!-- auto-related:kaznacheyskiy-schet-i-raschetnyy-schet --><a class="card reveal" href="/baza-znaniy/kaznacheyskiy-schet-i-raschetnyy-schet/"><div class="card__cover"><span>Сравнение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейский счёт и расчётный счёт: в чём разница</h3><div class="card__meta">Счета · 14 мин</div></div></a>
   </div>
 </section>
 

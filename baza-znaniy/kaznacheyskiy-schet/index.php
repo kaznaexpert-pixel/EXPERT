@@ -684,6 +684,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <p data-ctx="auto-ctx:vidy-licevyh-schetov-v-kaznachejstve">Лицевой счёт «71» — не единственный: казначейство ведёт целый ряд видов лицевых счетов со своими кодами. Их полную расшифровку мы привели в материале о <a href="/baza-znaniy/vidy-licevyh-schetov-v-kaznachejstve/">видах лицевых счетов в казначействе</a>.</p>
     <p data-ctx="auto-ctx:kniga-registracii-kaznacheyskih-schetov">Где фиксируется факт открытия счёта и откуда берутся его реквизиты — в материале о том, что такое <a href="/baza-znaniy/kniga-registracii-kaznacheyskih-schetov/">Книга регистрации казначейских счетов</a>.</p>
+    <p data-ctx="auto-ctx:kaznacheyskiy-schet-i-raschetnyy-schet">Чтобы не путать казначейский счёт с обычным банковским счётом бизнеса, мы отдельно разобрали, <a href="/baza-znaniy/kaznacheyskiy-schet-i-raschetnyy-schet/">чем казначейский счёт отличается от расчётного</a> — где открывается каждый, кто распоряжается деньгами и когда по контракту нужен лицевой счёт в казначействе.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -782,6 +783,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:svodnyy-reestr --><a class="card reveal" href="/baza-znaniy/svodnyy-reestr/"><div class="card__cover"><span>Реестр</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Сводный реестр: код организации, проверка, включение</h3><div class="card__meta">Счета · 15 мин</div></div></a>
     <!-- auto-related:vidy-licevyh-schetov-v-kaznachejstve --><a class="card reveal" href="/baza-znaniy/vidy-licevyh-schetov-v-kaznachejstve/"><div class="card__cover"><span>Счета</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Виды лицевых счетов в казначействе: коды</h3><div class="card__meta">Счета · 16 мин</div></div></a>
     <!-- auto-related:kniga-registracii-kaznacheyskih-schetov --><a class="card reveal" href="/baza-znaniy/kniga-registracii-kaznacheyskih-schetov/"><div class="card__cover"><span>Счета</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Книга регистрации казначейских счетов</h3><div class="card__meta">Счета · 16 мин</div></div></a>
+    <!-- auto-related:kaznacheyskiy-schet-i-raschetnyy-schet --><a class="card reveal" href="/baza-znaniy/kaznacheyskiy-schet-i-raschetnyy-schet/"><div class="card__cover"><span>Сравнение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейский счёт и расчётный счёт: в чём разница</h3><div class="card__meta">Счета · 14 мин</div></div></a>
   </div>
 </section>
 
