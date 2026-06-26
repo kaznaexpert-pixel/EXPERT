@@ -21,6 +21,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup SSH
         run: |
@@ -33,3 +35,26 @@ jobs:
         run: |
           ssh -i ~/.ssh/id_ed25519 -p 20022 "${{ secrets.FORNEX_USER }}@${{ secrets.FORNEX_HOST }}" \
             "${{ secrets.FORNEX_DEPLOY_CMD }}"
+
+      - name: Reset OPcache
+        run: |
+          curl -fsS --max-time 30 "https://kaznaexpert.ru/opcache-reset.php?key=f866fb8e8c3b90b3df10bd6bd2472e66" || echo "opcache reset call failed (non-fatal)"
+
+      - name: IndexNow - submit changed pages
+        run: |
+          KEY=2573174835e1132625600007910356f3
+          BEFORE='${{ github.event.before }}'
+          if ! git cat-file -e "${BEFORE}^{commit}" 2>/dev/null; then BEFORE="${{ github.sha }}~1"; fi
+          mapfile -t files < <(git diff --name-only "$BEFORE" "${{ github.sha }}" | grep 'index\.php$' || true)
+          urls=()
+          for f in "${files[@]}"; do
+            d=$(dirname "$f")
+            case "$d" in architecture*|*_build*|php*|cms*) continue;; esac
+            if [ "$d" = "." ]; then urls+=('"https://kaznaexpert.ru/"'); else urls+=("\"https://kaznaexpert.ru/$d/\""); fi
+          done
+          if [ ${#urls[@]} -eq 0 ]; then echo "Нет изменённых страниц - IndexNow не нужен"; exit 0; fi
+          list=$(IFS=,; echo "${urls[*]}")
+          body="{\"host\":\"kaznaexpert.ru\",\"key\":\"$KEY\",\"keyLocation\":\"https://kaznaexpert.ru/$KEY.txt\",\"urlList\":[$list]}"
+          echo "Отправляю в IndexNow ${#urls[@]} URL:"; printf '%s\n' "${urls[@]}"
+          code=$(curl -s -o /dev/null -w '%{http_code}' -X POST 'https://api.indexnow.org/indexnow' -H 'Content-Type: application/json' -d "$body")
+          echo "IndexNow HTTP $code"
