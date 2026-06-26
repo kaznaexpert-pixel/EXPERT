@@ -70,7 +70,14 @@ Allow: /
 User-agent: GoogleOther
 Allow: /
 
-# Яндекс GPT, Алиса, Нейро
+# Яндекс AI: Нейро, Алиса (AI-ответы строятся отдельным краулером YandexAdditional)
+User-agent: YandexAdditional
+Allow: /
+
+User-agent: YandexAdditionalBot
+Allow: /
+
+# YandexGPT — оставляем на всякий случай (не документированный UA, но не вредит)
 User-agent: YandexGPT
 Allow: /
 
