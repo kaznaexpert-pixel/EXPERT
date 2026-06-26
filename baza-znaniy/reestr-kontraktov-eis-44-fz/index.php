@@ -695,6 +695,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Нужно ли подрядчику что-то вносить в реестр самому?</summary><p>Нет. Внесение сведений — обязанность заказчика. Подрядчику достаточно следить за корректностью записи и своевременно передавать заказчику документы об исполнении.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:identifikacionnyy-kod-zakupki-ikz">Идентификационный код закупки, который попадает в реестровую запись, — это сквозной 36-значный код; как он устроен и чем отличается от ИГК, разобрано в материале об <a href="/baza-znaniy/identifikacionnyy-kod-zakupki-ikz/">идентификационном коде закупки (ИКЗ)</a>.</p>
+    <p data-ctx="auto-ctx:reestr-nedobrosovestnyh-postavshchikov-44-fz">Реестр контрактов нельзя путать с «чёрным списком» — <a href="/baza-znaniy/reestr-nedobrosovestnyh-postavshchikov-44-fz/">реестром недобросовестных поставщиков (РНП)</a>, который ведёт ФАС и попадание в который на два года закрывает доступ к закупкам.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -755,6 +757,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Кто</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Кто попадает под казначейское сопровождение в 2026</h3><div class="card__meta">Применимость · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-44-fz/"><div class="card__cover"><span>44-ФЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение по 44-ФЗ в 2026</h3><div class="card__meta">Применимость · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznachejstvo-i-tofk/"><div class="card__cover"><span>Казначейство</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Что такое Федеральное казначейство и ТОФК</h3><div class="card__meta">Основы · 14 мин</div></div></a>
+    <!-- auto-related:reestr-nedobrosovestnyh-postavshchikov-44-fz --><a class="card reveal" href="/baza-znaniy/reestr-nedobrosovestnyh-postavshchikov-44-fz/"><div class="card__cover"><span>РНП</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Реестр недобросовестных поставщиков (РНП) по 44-ФЗ</h3><div class="card__meta">Применимость · 14 мин</div></div></a>
+    <!-- auto-related:identifikacionnyy-kod-zakupki-ikz --><a class="card reveal" href="/baza-znaniy/identifikacionnyy-kod-zakupki-ikz/"><div class="card__cover"><span>ИКЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Идентификационный код закупки (ИКЗ) по 44-ФЗ</h3><div class="card__meta">Операции · 13 мин</div></div></a>
   </div>
 </section>
 

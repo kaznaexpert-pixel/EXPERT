@@ -800,6 +800,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/svedeniya-ob-operaciyah-s-celevymi-sredstvami/"><div class="card__cover"><span>Сведения</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Сведения об операциях с целевыми средствами</h3><div class="card__meta">Операции · 17 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>Отказы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Причины отказа казначейства в санкционировании</h3><div class="card__meta">Санкционирование · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Пиллар</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение: что это и кому нужно</h3><div class="card__meta">Пиллар · 20 мин</div></div></a>
+    <!-- auto-related:identifikacionnyy-kod-zakupki-ikz --><a class="card reveal" href="/baza-znaniy/identifikacionnyy-kod-zakupki-ikz/"><div class="card__cover"><span>ИКЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Идентификационный код закупки (ИКЗ) по 44-ФЗ</h3><div class="card__meta">Операции · 13 мин</div></div></a>
   </div>
 </section>
 

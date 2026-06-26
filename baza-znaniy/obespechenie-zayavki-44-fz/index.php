@@ -736,6 +736,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Какой срок действия независимой гарантии для заявки?</summary><p>Не менее месяца с даты окончания срока подачи заявок. Для электронных процедур гарантия должна быть включена в реестр независимых гарантий в ЕИС.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:registraciya-v-eis-eruz-44-fz">Чтобы вообще подать заявку и внести обеспечение, поставщик должен быть зарегистрирован в ЕИС — порядок регистрации и попадания в <a href="/baza-znaniy/registraciya-v-eis-eruz-44-fz/">единый реестр участников закупок (ЕРУЗ)</a> описан отдельно.</p>
+    <p data-ctx="auto-ctx:reestr-nedobrosovestnyh-postavshchikov-44-fz">Заказчик вправе требовать отсутствия участника в <a href="/baza-znaniy/reestr-nedobrosovestnyh-postavshchikov-44-fz/">реестре недобросовестных поставщиков</a> (часть 1.1 статьи 31): заявку участника из РНП отклонят независимо от обеспечения.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -792,6 +794,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/garantijnye-obyazatelstva-po-44-fz/"><div class="card__cover"><span>Гарантия</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Гарантийные обязательства по 44-ФЗ</h3><div class="card__meta">Закупки 44-ФЗ · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-44-fz/"><div class="card__cover"><span>44-ФЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение по 44-ФЗ</h3><div class="card__meta">Сопровождение · 17 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/peni-i-shtrafy-po-44-fz/"><div class="card__cover"><span>Неустойка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Пени и штрафы по 44-ФЗ: расчёт неустойки</h3><div class="card__meta">Закупки 44-ФЗ · 15 мин</div></div></a>
+    <!-- auto-related:registraciya-v-eis-eruz-44-fz --><a class="card reveal" href="/baza-znaniy/registraciya-v-eis-eruz-44-fz/"><div class="card__cover"><span>ЕРУЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Регистрация в ЕИС и ЕРУЗ по 44-ФЗ</h3><div class="card__meta">Основы · 13 мин</div></div></a>
+    <!-- auto-related:reestr-nedobrosovestnyh-postavshchikov-44-fz --><a class="card reveal" href="/baza-znaniy/reestr-nedobrosovestnyh-postavshchikov-44-fz/"><div class="card__cover"><span>РНП</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Реестр недобросовестных поставщиков (РНП) по 44-ФЗ</h3><div class="card__meta">Применимость · 14 мин</div></div></a>
   </div>
 </section>
 

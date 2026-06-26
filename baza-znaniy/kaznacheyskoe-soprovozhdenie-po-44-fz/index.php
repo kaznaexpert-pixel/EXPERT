@@ -711,6 +711,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <p data-ctx="auto-ctx:obespechenie-zayavki-44-fz">Отдельный инструмент этапа торгов — обеспечение заявки: когда оно требуется, размер и возврат разобраны в материале <a href="/baza-znaniy/obespechenie-zayavki-44-fz/">обеспечение заявки по 44-ФЗ</a>.</p>
     <p data-ctx="auto-ctx:reestr-kontraktov-eis-44-fz">Контракт по 44-ФЗ ставится на учёт и отражается в <a href="/baza-znaniy/reestr-kontraktov-eis-44-fz/">реестре контрактов в ЕИС</a>; именно его данные казначейство проверяет перед оплатой.</p>
+    <p data-ctx="auto-ctx:reestr-nedobrosovestnyh-postavshchikov-44-fz">Срыв сроков по сопровождаемому контракту может привести к одностороннему отказу заказчика и попаданию в <a href="/baza-znaniy/reestr-nedobrosovestnyh-postavshchikov-44-fz/">реестр недобросовестных поставщиков</a>, поэтому расчёты через лицевой счёт важно вести аккуратно.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -770,6 +771,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Аванс</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Аванс при казначейском сопровождении</h3><div class="card__meta">казначейское сопровождение · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte/"><div class="card__cover"><span>Контракт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Условие о казначейском сопровождении в контракте</h3><div class="card__meta">казначейское сопровождение · 15 мин</div></div></a>
     <!-- auto-related:obespechenie-zayavki-44-fz --><a class="card reveal" href="/baza-znaniy/obespechenie-zayavki-44-fz/"><div class="card__cover"><span>Заявка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Обеспечение заявки на участие в закупке по 44-ФЗ</h3><div class="card__meta">Закупки 44-ФЗ · 16 мин</div></div></a>
+    <!-- auto-related:reestr-nedobrosovestnyh-postavshchikov-44-fz --><a class="card reveal" href="/baza-znaniy/reestr-nedobrosovestnyh-postavshchikov-44-fz/"><div class="card__cover"><span>РНП</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Реестр недобросовестных поставщиков (РНП) по 44-ФЗ</h3><div class="card__meta">Применимость · 14 мин</div></div></a>
+    <!-- auto-related:registraciya-v-eis-eruz-44-fz --><a class="card reveal" href="/baza-znaniy/registraciya-v-eis-eruz-44-fz/"><div class="card__cover"><span>ЕРУЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Регистрация в ЕИС и ЕРУЗ по 44-ФЗ</h3><div class="card__meta">Основы · 13 мин</div></div></a>
   </div>
 </section>
 

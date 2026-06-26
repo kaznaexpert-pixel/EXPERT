@@ -721,6 +721,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>Типовая ситуация: по контракту на работы был перечислен аванс на целевой счёт, выполнена примерно половина объёма, после чего стороны решили расторгнуть контракт по соглашению. Исполнитель сначала подписал акты на принятую часть, затем вернул на счёт неотработанный аванс соисполнителя, сверил исходящий остаток по выписке и перечислил неотработанную сумму заказчику по реквизитам из соглашения. Только после обнуления остатка подал заявление на закрытие счёта — ТОФК закрыл его без вопросов, попадания в РНП удалось избежать благодаря расторжению по соглашению. Пример обобщённый: конкретные суммы, доля отработанного аванса и реквизиты возврата зависят от условий контракта и фактического исполнения.</p>
     </div>
 
+    <p data-ctx="auto-ctx:reestr-nedobrosovestnyh-postavshchikov-44-fz">Расторжение по инициативе заказчика — прямой путь к <a href="/baza-znaniy/reestr-nedobrosovestnyh-postavshchikov-44-fz/">реестру недобросовестных поставщиков</a>; защищать позицию нужно уже на заседании комиссии ФАС.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -814,6 +815,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/vypiska-iz-licevogo-scheta-kaznachejstva/"><div class="card__cover"><span>Выписка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Выписка из лицевого счёта казначейства</h3><div class="card__meta">Операции · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/peni-i-shtrafy-po-44-fz/"><div class="card__cover"><span>Пени</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Пени и штрафы по 44-ФЗ: расчёт неустойки</h3><div class="card__meta">Санкции · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>Отказы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Причины отказа казначейства в санкционировании</h3><div class="card__meta">Санкционирование · 16 мин</div></div></a>
+    <!-- auto-related:reestr-nedobrosovestnyh-postavshchikov-44-fz --><a class="card reveal" href="/baza-znaniy/reestr-nedobrosovestnyh-postavshchikov-44-fz/"><div class="card__cover"><span>РНП</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Реестр недобросовестных поставщиков (РНП) по 44-ФЗ</h3><div class="card__meta">Применимость · 14 мин</div></div></a>
   </div>
 </section>
 
