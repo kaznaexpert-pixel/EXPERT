@@ -710,6 +710,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <p data-ctx="auto-ctx:obespechenie-zayavki-44-fz">Отдельный инструмент этапа торгов — обеспечение заявки: когда оно требуется, размер и возврат разобраны в материале <a href="/baza-znaniy/obespechenie-zayavki-44-fz/">обеспечение заявки по 44-ФЗ</a>.</p>
+    <p data-ctx="auto-ctx:reestr-kontraktov-eis-44-fz">Контракт по 44-ФЗ ставится на учёт и отражается в <a href="/baza-znaniy/reestr-kontraktov-eis-44-fz/">реестре контрактов в ЕИС</a>; именно его данные казначейство проверяет перед оплатой.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">

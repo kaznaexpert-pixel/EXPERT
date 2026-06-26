@@ -1175,4 +1175,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/reestr-kontraktov-eis-44-fz/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/nalogi-pri-kaznacheyskom-soprovozhdenii/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

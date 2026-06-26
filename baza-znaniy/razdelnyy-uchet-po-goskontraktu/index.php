@@ -693,6 +693,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <p data-ctx="auto-ctx:otvetstvennost-za-narusheniya-goz">Для контрактов по гособоронзаказу действует отдельный состав — часть 11 статьи 7.30.3 КоАП РФ, тогда как при казначейском сопровождении применяется статья 15.37.1. Полный разбор административной и уголовной ответственности в сфере ГОЗ — в материале об <a href="/baza-znaniy/otvetstvennost-za-narusheniya-goz/">ответственности за нарушения в сфере ГОЗ</a>.</p>
+    <p data-ctx="auto-ctx:nalogi-pri-kaznacheyskom-soprovozhdenii">Раздельный учёт не заменяет налоговый: как считаются НДС, налог на прибыль и УСН при работе через лицевой счёт, показано в статье <a href="/baza-znaniy/nalogi-pri-kaznacheyskom-soprovozhdenii/">о налогах при казначейском сопровождении</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>

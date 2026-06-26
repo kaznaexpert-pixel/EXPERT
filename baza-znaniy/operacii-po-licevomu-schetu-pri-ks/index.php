@@ -727,6 +727,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Действует ли режим счёта в 2026 году без изменений?</summary><p>В 2025–2027 годах часть положений приостановлена: в установленных случаях расчёты с поставщиками по контрактам ведутся на их банковские счета без открытия лицевого счёта (ФЗ № 367-ФЗ и № 431-ФЗ). Целевой характер средств на самом лицевом счёте и санкционирование при этом сохраняются.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:nalogi-pri-kaznacheyskom-soprovozhdenii">Можно ли платить налоги с лицевого счёта и облагается ли аванс НДС — разобрано в материале <a href="/baza-znaniy/nalogi-pri-kaznacheyskom-soprovozhdenii/">о налогах при казначейском сопровождении</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
