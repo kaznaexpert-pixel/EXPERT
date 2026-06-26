@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"article", cluster:"glossary"};</script>
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"DefinedTermSet","name":"Глоссарий терминов казначейского сопровождения","url":"https://kaznaexpert.ru/baza-znaniy/glossary/","hasDefinedTerm":[
+{"@context":"https://schema.org","@type":"DefinedTermSet", "datePublished": "2026-06-25", "dateModified": "2026-06-25","name":"Глоссарий терминов казначейского сопровождения","url":"https://kaznaexpert.ru/baza-znaniy/glossary/","hasDefinedTerm":[
 {"@type":"DefinedTerm","name":"ТОФК","description":"Территориальный орган Федерального казначейства, который ведёт счёт и санкционирует операции по контракту."},
 {"@type":"DefinedTerm","name":"УФК","description":"Управление Федерального казначейства по субъекту РФ — региональное подразделение Федерального казначейства."},
 {"@type":"DefinedTerm","name":"Лицевой счёт 71","description":"Счёт получателя средств, открытый в ТОФК; через него идут расчёты по контракту под казначейским сопровождением."},
