@@ -787,6 +787,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Просрочка с открытием казначейского счёта тоже грозит пенями?</summary><p>Косвенно — да. Пока счёт не открыт, расчёты по контракту невозможны, а срок исполнения идёт. Чтобы не терять дни, счёт открывают сразу после заключения контракта.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:srok-oplaty-po-kontraktu-44-fz">Неустойка возникает не только у поставщика: за нарушение <a href="/baza-znaniy/srok-oplaty-po-kontraktu-44-fz/">срока оплаты по контракту</a> заказчик платит пеню 1/300 ключевой ставки за каждый день, а его должностное лицо отвечает по статье 7.32.5 КоАП.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div>
@@ -842,6 +843,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/"><div class="card__cover"><span>казначейское сопровождение ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение ГОЗ по 275-ФЗ</h3><div class="card__meta">Гособоронзаказ · 17 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/licevoy-schet-71-kak-otkryt/"><div class="card__cover"><span>Счёт 71</span></div><div class="card__body"><span class="card__cat">Инструкция</span><h3 class="card__title">Как открыть лицевой счёт 71 в ТОФК</h3><div class="card__meta">Открытие счёта · 9 мин</div></div></a>
     <a class="card reveal" href="/uslugi/otkrytie-scheta/"><div class="card__cover"><span>Под ключ</span></div><div class="card__body"><span class="card__cat">Услуга</span><h3 class="card__title">Открытие казначейского счёта за 2 дня</h3><div class="card__meta">Услуга · фикс-цена</div></div></a>
+    <!-- auto-related:srok-oplaty-po-kontraktu-44-fz --><a class="card reveal" href="/baza-znaniy/srok-oplaty-po-kontraktu-44-fz/"><div class="card__cover"><span>Оплата</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Срок оплаты по контракту 44-ФЗ: 7 и 10 дней</h3><div class="card__meta">Применимость · 13 мин</div></div></a>
   </div>
 </section>
 

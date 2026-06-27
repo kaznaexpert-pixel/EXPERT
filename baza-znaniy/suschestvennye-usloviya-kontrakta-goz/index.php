@@ -697,6 +697,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <p data-ctx="auto-ctx:uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte">Если контракт идёт под казначейским сопровождением, в нём появляется отдельное <a href="/baza-znaniy/uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte/">условие о казначейском сопровождении</a> с обязательным набором положений — его проверяют до подписания.</p>
+    <p data-ctx="auto-ctx:izmenenie-sushchestvennyh-usloviy-kontrakta-44-fz">Менять существенные условия контракта при исполнении по общему правилу нельзя; допустимые случаи и правило десяти процентов разобраны в материале об <a href="/baza-znaniy/izmenenie-sushchestvennyh-usloviy-kontrakta-44-fz/">изменении существенных условий контракта по 44-ФЗ</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -788,6 +789,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/"><div class="card__cover"><span>Учёт ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по ГОЗ: как вести, образец, штрафы</h3><div class="card__meta">Учёт · 17 мин</div></div></a>
     <!-- auto-related:ast-goz-elektronnaya-ploschadka --><a class="card reveal" href="/baza-znaniy/ast-goz-elektronnaya-ploschadka/"><div class="card__cover"><span>АСТ ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">АСТ ГОЗ: электронная площадка</h3><div class="card__meta">ГОЗ · 13 мин</div></div></a>
     <!-- auto-related:uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte --><a class="card reveal" href="/baza-znaniy/uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte/"><div class="card__cover"><span>Условие</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Условие о казначейском сопровождении в контракте</h3><div class="card__meta">Сопровождение · 15 мин</div></div></a>
+    <!-- auto-related:izmenenie-sushchestvennyh-usloviy-kontrakta-44-fz --><a class="card reveal" href="/baza-znaniy/izmenenie-sushchestvennyh-usloviy-kontrakta-44-fz/"><div class="card__cover"><span>Изменение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Изменение существенных условий контракта по 44-ФЗ</h3><div class="card__meta">Применимость · 14 мин</div></div></a>
   </div>
 </section>
 

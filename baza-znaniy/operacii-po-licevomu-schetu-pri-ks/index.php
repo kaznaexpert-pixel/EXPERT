@@ -728,6 +728,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <p data-ctx="auto-ctx:nalogi-pri-kaznacheyskom-soprovozhdenii">Можно ли платить налоги с лицевого счёта и облагается ли аванс НДС — разобрано в материале <a href="/baza-znaniy/nalogi-pri-kaznacheyskom-soprovozhdenii/">о налогах при казначейском сопровождении</a>.</p>
+    <p data-ctx="auto-ctx:elektronnoe-aktirovanie-priyomka-44-fz">Платёж по лицевому счёту проходит после приёмки результата — её оформляют <a href="/baza-znaniy/elektronnoe-aktirovanie-priyomka-44-fz/">электронным актированием</a>, а данные документа о приёмке должны совпадать с распоряжением о платеже.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -787,6 +788,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kaznacheyskiy-schet-subpodryadchika/"><div class="card__cover"><span>Субподряд</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Нужен ли казначейский счёт субподрядчику</h3><div class="card__meta">Счета · 17 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Целевые</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Целевые средства при казначейском сопровождении</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <!-- auto-related:kaznacheyskiy-schet-i-raschetnyy-schet --><a class="card reveal" href="/baza-znaniy/kaznacheyskiy-schet-i-raschetnyy-schet/"><div class="card__cover"><span>Сравнение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейский счёт и расчётный счёт: в чём разница</h3><div class="card__meta">Счета · 14 мин</div></div></a>
+    <!-- auto-related:elektronnoe-aktirovanie-priyomka-44-fz --><a class="card reveal" href="/baza-znaniy/elektronnoe-aktirovanie-priyomka-44-fz/"><div class="card__cover"><span>Приёмка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Электронное актирование и приёмка в ЕИС по 44-ФЗ</h3><div class="card__meta">Операции · 14 мин</div></div></a>
   </div>
 </section>
 

@@ -728,6 +728,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <p data-ctx="auto-ctx:obespechenie-ispolneniya-kontrakta-pri-ks">Сопровождаемый аванс влияет и на обеспечение контракта: его размер считают от цены, уменьшенной на сумму такого аванса. Как это работает — в материале об <a href="/baza-znaniy/obespechenie-ispolneniya-kontrakta-pri-ks/">обеспечении исполнения контракта при казначейском сопровождении</a>.</p>
     <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-avansovyh-platezhey">Как устроен сам режим аванса на лицевом счёте — санкционирование, отработка и возврат — подробно в материале <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-avansovyh-platezhey/">казначейское сопровождение авансовых платежей</a>.</p>
+    <p data-ctx="auto-ctx:izmenenie-sushchestvennyh-usloviy-kontrakta-44-fz">Размер аванса можно скорректировать только в порядке <a href="/baza-znaniy/izmenenie-sushchestvennyh-usloviy-kontrakta-44-fz/">изменения существенных условий контракта</a> по статье 95 — допсоглашением, с отражением новых сумм в реестре и платёжных документах.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div>
@@ -782,6 +783,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:obespechenie-ispolneniya-kontrakta-pri-ks --><a class="card reveal" href="/baza-znaniy/obespechenie-ispolneniya-kontrakta-pri-ks/"><div class="card__cover"><span>Обеспечение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Обеспечение исполнения контракта при казначейском сопровождении</h3><div class="card__meta">Сопровождение · 17 мин</div></div></a>
     <!-- auto-related:kaznacheyskoe-soprovozhdenie-avansovyh-platezhey --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-avansovyh-platezhey/"><div class="card__cover"><span>Авансы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение авансовых платежей</h3><div class="card__meta">казначейское сопровождение · 16 мин</div></div></a>
     <!-- auto-related:nalogi-pri-kaznacheyskom-soprovozhdenii --><a class="card reveal" href="/baza-znaniy/nalogi-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Налоги</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Налоги при казначейском сопровождении: НДС, прибыль, УСН</h3><div class="card__meta">Учёт · 14 мин</div></div></a>
+    <!-- auto-related:izmenenie-sushchestvennyh-usloviy-kontrakta-44-fz --><a class="card reveal" href="/baza-znaniy/izmenenie-sushchestvennyh-usloviy-kontrakta-44-fz/"><div class="card__cover"><span>Изменение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Изменение существенных условий контракта по 44-ФЗ</h3><div class="card__meta">Применимость · 14 мин</div></div></a>
+    <!-- auto-related:srok-oplaty-po-kontraktu-44-fz --><a class="card reveal" href="/baza-znaniy/srok-oplaty-po-kontraktu-44-fz/"><div class="card__cover"><span>Оплата</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Срок оплаты по контракту 44-ФЗ: 7 и 10 дней</h3><div class="card__meta">Применимость · 13 мин</div></div></a>
   </div>
 </section>
 

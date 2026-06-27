@@ -722,6 +722,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <p data-ctx="auto-ctx:reestr-nedobrosovestnyh-postavshchikov-44-fz">Расторжение по инициативе заказчика — прямой путь к <a href="/baza-znaniy/reestr-nedobrosovestnyh-postavshchikov-44-fz/">реестру недобросовестных поставщиков</a>; защищать позицию нужно уже на заседании комиссии ФАС.</p>
+    <p data-ctx="auto-ctx:izmenenie-sushchestvennyh-usloviy-kontrakta-44-fz">Прежде чем расторгать контракт, стоит проверить, нельзя ли сохранить его через <a href="/baza-znaniy/izmenenie-sushchestvennyh-usloviy-kontrakta-44-fz/">изменение существенных условий по статье 95</a>, в том числе по антикризисной норме до 2027 года.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -816,6 +817,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/peni-i-shtrafy-po-44-fz/"><div class="card__cover"><span>Пени</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Пени и штрафы по 44-ФЗ: расчёт неустойки</h3><div class="card__meta">Санкции · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>Отказы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Причины отказа казначейства в санкционировании</h3><div class="card__meta">Санкционирование · 16 мин</div></div></a>
     <!-- auto-related:reestr-nedobrosovestnyh-postavshchikov-44-fz --><a class="card reveal" href="/baza-znaniy/reestr-nedobrosovestnyh-postavshchikov-44-fz/"><div class="card__cover"><span>РНП</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Реестр недобросовестных поставщиков (РНП) по 44-ФЗ</h3><div class="card__meta">Применимость · 14 мин</div></div></a>
+    <!-- auto-related:izmenenie-sushchestvennyh-usloviy-kontrakta-44-fz --><a class="card reveal" href="/baza-znaniy/izmenenie-sushchestvennyh-usloviy-kontrakta-44-fz/"><div class="card__cover"><span>Изменение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Изменение существенных условий контракта по 44-ФЗ</h3><div class="card__meta">Применимость · 14 мин</div></div></a>
   </div>
 </section>
 
