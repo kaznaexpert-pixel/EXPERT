@@ -699,6 +699,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <p data-ctx="auto-ctx:reestr-nedobrosovestnyh-postavshchikov-44-fz">Реестр контрактов нельзя путать с «чёрным списком» — <a href="/baza-znaniy/reestr-nedobrosovestnyh-postavshchikov-44-fz/">реестром недобросовестных поставщиков (РНП)</a>, который ведёт ФАС и попадание в который на два года закрывает доступ к закупкам.</p>
     <p data-ctx="auto-ctx:elektronnoe-aktirovanie-priyomka-44-fz">Сведения об исполнении контракта попадают в реестр после приёмки, а саму приёмку теперь оформляют <a href="/baza-znaniy/elektronnoe-aktirovanie-priyomka-44-fz/">электронным актированием в ЕИС</a> — структурированным документом о приёмке, подписанным электронной подписью.</p>
     <p data-ctx="auto-ctx:srok-oplaty-po-kontraktu-44-fz">От даты подписания документа о приёмке отсчитывается <a href="/baza-znaniy/srok-oplaty-po-kontraktu-44-fz/">срок оплаты по контракту</a> — семь рабочих дней, а при казначейском сопровождении десять.</p>
+    <p data-ctx="auto-ctx:zaklyuchenie-kontrakta-44-fz">Запись в реестр контрактов появляется после того, как стороны прошли <a href="/baza-znaniy/zaklyuchenie-kontrakta-44-fz/">заключение контракта по статье 51</a>: контракт считается заключённым в день размещения подписи заказчика.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -763,6 +764,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:identifikacionnyy-kod-zakupki-ikz --><a class="card reveal" href="/baza-znaniy/identifikacionnyy-kod-zakupki-ikz/"><div class="card__cover"><span>ИКЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Идентификационный код закупки (ИКЗ) по 44-ФЗ</h3><div class="card__meta">Операции · 13 мин</div></div></a>
     <!-- auto-related:elektronnoe-aktirovanie-priyomka-44-fz --><a class="card reveal" href="/baza-znaniy/elektronnoe-aktirovanie-priyomka-44-fz/"><div class="card__cover"><span>Приёмка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Электронное актирование и приёмка в ЕИС по 44-ФЗ</h3><div class="card__meta">Операции · 14 мин</div></div></a>
     <!-- auto-related:srok-oplaty-po-kontraktu-44-fz --><a class="card reveal" href="/baza-znaniy/srok-oplaty-po-kontraktu-44-fz/"><div class="card__cover"><span>Оплата</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Срок оплаты по контракту 44-ФЗ: 7 и 10 дней</h3><div class="card__meta">Применимость · 13 мин</div></div></a>
+    <!-- auto-related:zaklyuchenie-kontrakta-44-fz --><a class="card reveal" href="/baza-znaniy/zaklyuchenie-kontrakta-44-fz/"><div class="card__cover"><span>Заключение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Заключение контракта по 44-ФЗ: сроки и протокол разногласий</h3><div class="card__meta">Основы · 16 мин</div></div></a>
   </div>
 </section>
 

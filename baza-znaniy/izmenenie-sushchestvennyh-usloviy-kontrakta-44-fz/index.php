@@ -688,6 +688,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Можно ли изменить предмет контракта?</summary><p>Нет. Замена предмета на принципиально иной выходит за рамки допустимого изменения и расценивается как обход конкурентных процедур.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:odnostoronniy-otkaz-ot-ispolneniya-kontrakta-44-fz">Если сохранить контракт изменением условий не удаётся, у стороны остаётся <a href="/baza-znaniy/odnostoronniy-otkaz-ot-ispolneniya-kontrakta-44-fz/">односторонний отказ от исполнения</a> по основаниям Гражданского кодекса, предусмотренным контрактом.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -747,6 +748,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/rastorzhenie-kontrakta-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Расторжение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Расторжение контракта при казначейском сопровождении</h3><div class="card__meta">Применимость · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-44-fz/"><div class="card__cover"><span>44-ФЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение по 44-ФЗ в 2026</h3><div class="card__meta">Применимость · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/srok-oplaty-po-kontraktu-44-fz/"><div class="card__cover"><span>Оплата</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Срок оплаты по контракту 44-ФЗ: 7 и 10 дней</h3><div class="card__meta">Применимость · 13 мин</div></div></a>
+    <!-- auto-related:odnostoronniy-otkaz-ot-ispolneniya-kontrakta-44-fz --><a class="card reveal" href="/baza-znaniy/odnostoronniy-otkaz-ot-ispolneniya-kontrakta-44-fz/"><div class="card__cover"><span>Отказ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Односторонний отказ от исполнения контракта по 44-ФЗ</h3><div class="card__meta">Применимость · 16 мин</div></div></a>
   </div>
 </section>
 

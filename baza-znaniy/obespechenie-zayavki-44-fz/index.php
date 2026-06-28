@@ -738,6 +738,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <p data-ctx="auto-ctx:registraciya-v-eis-eruz-44-fz">Чтобы вообще подать заявку и внести обеспечение, поставщик должен быть зарегистрирован в ЕИС — порядок регистрации и попадания в <a href="/baza-znaniy/registraciya-v-eis-eruz-44-fz/">единый реестр участников закупок (ЕРУЗ)</a> описан отдельно.</p>
     <p data-ctx="auto-ctx:reestr-nedobrosovestnyh-postavshchikov-44-fz">Заказчик вправе требовать отсутствия участника в <a href="/baza-znaniy/reestr-nedobrosovestnyh-postavshchikov-44-fz/">реестре недобросовестных поставщиков</a> (часть 1.1 статьи 31): заявку участника из РНП отклонят независимо от обеспечения.</p>
+    <p data-ctx="auto-ctx:zaklyuchenie-kontrakta-44-fz">Обеспечение заявки не возвращается, если победитель уклонился от <a href="/baza-znaniy/zaklyuchenie-kontrakta-44-fz/">заключения контракта</a> — не подписал проект или не внёс обеспечение исполнения в срок.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -796,6 +797,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/peni-i-shtrafy-po-44-fz/"><div class="card__cover"><span>Неустойка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Пени и штрафы по 44-ФЗ: расчёт неустойки</h3><div class="card__meta">Закупки 44-ФЗ · 15 мин</div></div></a>
     <!-- auto-related:registraciya-v-eis-eruz-44-fz --><a class="card reveal" href="/baza-znaniy/registraciya-v-eis-eruz-44-fz/"><div class="card__cover"><span>ЕРУЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Регистрация в ЕИС и ЕРУЗ по 44-ФЗ</h3><div class="card__meta">Основы · 13 мин</div></div></a>
     <!-- auto-related:reestr-nedobrosovestnyh-postavshchikov-44-fz --><a class="card reveal" href="/baza-znaniy/reestr-nedobrosovestnyh-postavshchikov-44-fz/"><div class="card__cover"><span>РНП</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Реестр недобросовестных поставщиков (РНП) по 44-ФЗ</h3><div class="card__meta">Применимость · 14 мин</div></div></a>
+    <!-- auto-related:zaklyuchenie-kontrakta-44-fz --><a class="card reveal" href="/baza-znaniy/zaklyuchenie-kontrakta-44-fz/"><div class="card__cover"><span>Заключение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Заключение контракта по 44-ФЗ: сроки и протокол разногласий</h3><div class="card__meta">Основы · 16 мин</div></div></a>
+    <!-- auto-related:antidempingovye-mery-44-fz --><a class="card reveal" href="/baza-znaniy/antidempingovye-mery-44-fz/"><div class="card__cover"><span>Антидемпинг</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Антидемпинговые меры по 44-ФЗ: снижение цены на 25%</h3><div class="card__meta">Применимость · 15 мин</div></div></a>
   </div>
 </section>
 

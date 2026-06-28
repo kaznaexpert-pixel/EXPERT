@@ -698,6 +698,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Связан ли отказ казначейства в санкционировании с РНП?</summary><p>Напрямую нет: отказ в санкционировании сам по себе в реестр не ведёт. Но он может затормозить исполнение и привести к срыву сроков, а уже срыв сроков — к расторжению контракта и риску попадания в РНП.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:odnostoronniy-otkaz-ot-ispolneniya-kontrakta-44-fz">Самое частое основание для РНП — <a href="/baza-znaniy/odnostoronniy-otkaz-ot-ispolneniya-kontrakta-44-fz/">односторонний отказ заказчика</a> из-за неисполнения обязательств: сведения направляются в реестр в течение двух рабочих дней.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -757,6 +758,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/garantijnye-obyazatelstva-po-44-fz/"><div class="card__cover"><span>Гарантия</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Гарантийные обязательства по 44-ФЗ и их обеспечение</h3><div class="card__meta">Применимость · 13 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-44-fz/"><div class="card__cover"><span>44-ФЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение по 44-ФЗ в 2026</h3><div class="card__meta">Применимость · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>Отказы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Причины отказа казначейства в санкционировании</h3><div class="card__meta">Операции · 15 мин</div></div></a>
+    <!-- auto-related:odnostoronniy-otkaz-ot-ispolneniya-kontrakta-44-fz --><a class="card reveal" href="/baza-znaniy/odnostoronniy-otkaz-ot-ispolneniya-kontrakta-44-fz/"><div class="card__cover"><span>Отказ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Односторонний отказ от исполнения контракта по 44-ФЗ</h3><div class="card__meta">Применимость · 16 мин</div></div></a>
   </div>
 </section>
 

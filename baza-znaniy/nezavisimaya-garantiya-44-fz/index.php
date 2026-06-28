@@ -749,6 +749,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>В какой срок гарант платит по гарантии?</summary><p>Не позднее десяти рабочих дней со дня, следующего за днём получения требования заказчика, при отсутствии оснований для отказа по Гражданскому кодексу. За просрочку гарант платит неустойку 0,1% суммы за каждый день.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:antidempingovye-mery-44-fz">При срабатывании <a href="/baza-znaniy/antidempingovye-mery-44-fz/">антидемпинговых мер</a> независимую гарантию оформляют в полуторном размере — это нужно учесть заранее, чтобы успеть в пятидневный срок на подписание.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -805,6 +806,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/garantijnye-obyazatelstva-po-44-fz/"><div class="card__cover"><span>Гарантия</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Гарантийные обязательства по 44-ФЗ</h3><div class="card__meta">Закупки 44-ФЗ · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-obespechenie-obyazatelstv/"><div class="card__cover"><span>КОО</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское обеспечение обязательств (КОО)</h3><div class="card__meta">Операции · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-44-fz/"><div class="card__cover"><span>44-ФЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение по 44-ФЗ</h3><div class="card__meta">Сопровождение · 17 мин</div></div></a>
+    <!-- auto-related:antidempingovye-mery-44-fz --><a class="card reveal" href="/baza-znaniy/antidempingovye-mery-44-fz/"><div class="card__cover"><span>Антидемпинг</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Антидемпинговые меры по 44-ФЗ: снижение цены на 25%</h3><div class="card__meta">Применимость · 15 мин</div></div></a>
   </div>
 </section>
 
