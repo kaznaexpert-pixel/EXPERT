@@ -743,6 +743,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Как прописать номер ИГК в документах?</summary><p>Номер ИГК прописывают в строке 8 счёта-фактуры и в УПД, в распоряжениях на платёж и в Сведениях об операциях с целевыми средствами. Берут его из контракта — идентификатор присваивает заказчик. Если ИГК контракту не присвоен, строку 8 оставляют пустой. О структуре номера — на странице об <a href="/baza-znaniy/identifikator-gosudarstvennogo-kontrakta-igk/">идентификаторе государственного контракта</a>.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:naznachenie-platezha-kaznachejstvo">Идентификатор контракта указывают не только в документах, но и в <a href="/baza-znaniy/naznachenie-platezha-kaznachejstvo/">назначении платежа при сопровождении</a> — без него распоряжение возвращают.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -801,6 +802,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>Отказы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Причины отказа казначейства в санкционировании</h3><div class="card__meta">Санкционирование · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Пиллар</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение: что это и кому нужно</h3><div class="card__meta">Пиллар · 20 мин</div></div></a>
     <!-- auto-related:identifikacionnyy-kod-zakupki-ikz --><a class="card reveal" href="/baza-znaniy/identifikacionnyy-kod-zakupki-ikz/"><div class="card__cover"><span>ИКЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Идентификационный код закупки (ИКЗ) по 44-ФЗ</h3><div class="card__meta">Операции · 13 мин</div></div></a>
+    <!-- auto-related:naznachenie-platezha-kaznachejstvo --><a class="card reveal" href="/baza-znaniy/naznachenie-platezha-kaznachejstvo/"><div class="card__cover"><span>Назначение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Назначение платежа при казначейском сопровождении: образец</h3><div class="card__meta">Операции · 14 мин</div></div></a>
   </div>
 </section>
 

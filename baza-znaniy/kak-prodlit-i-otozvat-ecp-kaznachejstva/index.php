@@ -693,6 +693,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>Типовая ситуация: у ответственного сотрудника сертификат для «Электронного бюджета» истекает в конце месяца, а в этот же период нужно подписать сведения и провести платежи. О сроке вспомнили за пару дней, рабочее место за это время «переехало» на новый компьютер без настроенного СКЗИ — в итоге перевыпуск и платежи сдвинулись. Правильный порядок обратный: дату окончания отслеживают заранее, перевыпуск запускают за несколько недель, а после выпуска сразу проверяют вход в систему. Тогда смена сертификата проходит незаметно и не останавливает операции по контракту.</p>
     </div>
 
+    <p data-ctx="auto-ctx:mashinochitaemaya-doverennost-kaznachejstvo">Наряду со сроком сертификата важно следить и за сроком <a href="/baza-znaniy/mashinochitaemaya-doverennost-kaznachejstvo/">машиночитаемой доверенности</a>: по её истечении подписант теряет право подписывать документы от имени организации.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -785,6 +786,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Основы казначейского сопровождения</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение: что это и как работает в 2026</h3><div class="card__meta">Основы · 18 мин</div></div></a>
     <!-- auto-related:kornevye-sertifikaty-kaznachejstva --><a class="card reveal" href="/baza-znaniy/kornevye-sertifikaty-kaznachejstva/"><div class="card__cover"><span>Сертификаты</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Корневые сертификаты УЦ казначейства</h3><div class="card__meta">Подпись · 13 мин</div></div></a>
     <!-- auto-related:portal-zayavitelya-kaznachejstva --><a class="card reveal" href="/baza-znaniy/portal-zayavitelya-kaznachejstva/"><div class="card__cover"><span>ФЗС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Портал заявителя казначейства (ФЗС): вход и заявка на сертификат</h3><div class="card__meta">ЭЦП · 15 мин</div></div></a>
+    <!-- auto-related:mashinochitaemaya-doverennost-kaznachejstvo --><a class="card reveal" href="/baza-znaniy/mashinochitaemaya-doverennost-kaznachejstvo/"><div class="card__cover"><span>МЧД</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Машиночитаемая доверенность (МЧД) для казначейства</h3><div class="card__meta">Сертификаты · 15 мин</div></div></a>
   </div>
 </section>
 

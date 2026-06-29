@@ -734,6 +734,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <p data-ctx="auto-ctx:nastroyka-arm-elektronnyy-byudzhet">Прежде чем войти в систему, рабочее место нужно настроить: установить КриптоПро, плагин, «Континент TLS» и цепочку сертификатов — пошагово в материале <a href="/baza-znaniy/nastroyka-arm-elektronnyy-byudzhet/">настройка рабочего места (АРМ) для «Электронного бюджета»</a>.</p>
     <p data-ctx="auto-ctx:poib-sobi-elektronnyy-byudzhet">Полномочия на работу в подсистемах «Электронного бюджета» назначаются отдельно — через <a href="/baza-znaniy/poib-sobi-elektronnyy-byudzhet/">подсистему ПОИБ/СОБИ казначейства</a>.</p>
+    <p data-ctx="auto-ctx:mashinochitaemaya-doverennost-kaznachejstvo">Чтобы уполномоченный работник мог подписывать документы в системе, ему нужна <a href="/baza-znaniy/mashinochitaemaya-doverennost-kaznachejstvo/">машиночитаемая доверенность для казначейства</a>, оформленная руководителем.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -828,6 +829,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kornevye-sertifikaty-kaznachejstva/"><div class="card__cover"><span>Сертификаты</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Корневые сертификаты УЦ казначейства</h3><div class="card__meta">ЭЦП · 11 мин</div></div></a>
     <!-- auto-related:nastroyka-arm-elektronnyy-byudzhet --><a class="card reveal" href="/baza-znaniy/nastroyka-arm-elektronnyy-byudzhet/"><div class="card__cover"><span>АРМ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Настройка рабочего места для «Электронного бюджета»</h3><div class="card__meta">ГИИС · 17 мин</div></div></a>
     <!-- auto-related:poib-sobi-elektronnyy-byudzhet --><a class="card reveal" href="/baza-znaniy/poib-sobi-elektronnyy-byudzhet/"><div class="card__cover"><span>ПОИБ/СОБИ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">ПОИБ/СОБИ «Электронного бюджета»: вход в защищённый контур</h3><div class="card__meta">ГИИС · 12 мин</div></div></a>
+    <!-- auto-related:mashinochitaemaya-doverennost-kaznachejstvo --><a class="card reveal" href="/baza-znaniy/mashinochitaemaya-doverennost-kaznachejstvo/"><div class="card__cover"><span>МЧД</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Машиночитаемая доверенность (МЧД) для казначейства</h3><div class="card__meta">Сертификаты · 15 мин</div></div></a>
   </div>
 </section>
 

@@ -729,6 +729,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <p data-ctx="auto-ctx:vypiska-iz-licevogo-scheta-kaznachejstva">Прошёл платёж или завис — видно в <a href="/baza-znaniy/vypiska-iz-licevogo-scheta-kaznachejstva/">выписке из лицевого счёта</a>: там же, в справке о неисполненных распоряжениях, ищут причину задержки.</p>
     <p data-ctx="auto-ctx:igk-v-schete-fakture-i-upd">Где ещё проставляют идентификатор кроме распоряжения — в строке 8 счёта-фактуры и УПД: см. <a href="/baza-znaniy/igk-v-schete-fakture-i-upd/">ИГК в счёте-фактуре и УПД</a>.</p>
     <p data-ctx="auto-ctx:ufk-zaderzhivaet-platezh">Ошибки в распоряжении — главная причина, по которой <a href="/baza-znaniy/ufk-zaderzhivaet-platezh/">казначейство задерживает платёж</a>: выверенные реквизиты и полный пакет документов проводят операцию в нормативный срок.</p>
+    <p data-ctx="auto-ctx:vozvrat-platezha-kaznachejstvo">Когда же средства ушли ошибочно или попали в невыясненные поступления, вместо распоряжения применяется <a href="/baza-znaniy/vozvrat-platezha-kaznachejstvo/">заявление на возврат платежа через казначейство</a>.</p>
+    <p data-ctx="auto-ctx:naznachenie-platezha-kaznachejstvo">Особое внимание — полю назначения: как его заполнить, чтобы операция прошла санкционирование, разобрано в материале <a href="/baza-znaniy/naznachenie-platezha-kaznachejstvo/">назначение платежа при казначейском сопровождении</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -825,6 +827,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:igk-v-schete-fakture-i-upd --><a class="card reveal" href="/baza-znaniy/igk-v-schete-fakture-i-upd/"><div class="card__cover"><span>ИГК</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">ИГК в счёте-фактуре, счёте и УПД</h3><div class="card__meta">Операции · 16 мин</div></div></a>
     <!-- auto-related:elektronnoe-aktirovanie-priyomka-44-fz --><a class="card reveal" href="/baza-znaniy/elektronnoe-aktirovanie-priyomka-44-fz/"><div class="card__cover"><span>Приёмка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Электронное актирование и приёмка в ЕИС по 44-ФЗ</h3><div class="card__meta">Операции · 14 мин</div></div></a>
     <!-- auto-related:ufk-zaderzhivaet-platezh --><a class="card reveal" href="/baza-znaniy/ufk-zaderzhivaet-platezh/"><div class="card__cover"><span>Задержка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">УФК задерживает платёж: причины, сроки и что делать</h3><div class="card__meta">Операции · 15 мин</div></div></a>
+    <!-- auto-related:vozvrat-platezha-kaznachejstvo --><a class="card reveal" href="/baza-znaniy/vozvrat-platezha-kaznachejstvo/"><div class="card__cover"><span>Возврат платежа</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Возврат платежа через казначейство: порядок и заявление</h3><div class="card__meta">Операции · 15 мин</div></div></a>
+    <!-- auto-related:naznachenie-platezha-kaznachejstvo --><a class="card reveal" href="/baza-znaniy/naznachenie-platezha-kaznachejstvo/"><div class="card__cover"><span>Назначение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Назначение платежа при казначейском сопровождении: образец</h3><div class="card__meta">Операции · 14 мин</div></div></a>
   </div>
 </section>
 

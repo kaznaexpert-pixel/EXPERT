@@ -732,6 +732,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <p data-ctx="auto-ctx:udostoveryayushchiy-centr-kaznachejstva">Какой именно центр выдаёт подпись и кому, зависит от категории заявителя. Разбор института, который выдаёт сертификаты получателям бюджетных средств, — в статье об <a href="/baza-znaniy/udostoveryayushchiy-centr-kaznachejstva/">удостоверяющем центре Федерального казначейства</a>.</p>
+    <p data-ctx="auto-ctx:mashinochitaemaya-doverennost-kaznachejstvo">Если документы подписывает не руководитель, а сотрудник своим личным сертификатом, дополнительно нужна <a href="/baza-znaniy/mashinochitaemaya-doverennost-kaznachejstvo/">машиночитаемая доверенность (МЧД)</a> — в «Электронном бюджете» она обязательна.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div>
@@ -792,6 +793,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:portal-zayavitelya-kaznachejstva --><a class="card reveal" href="/baza-znaniy/portal-zayavitelya-kaznachejstva/"><div class="card__cover"><span>ФЗС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Портал заявителя казначейства (ФЗС): вход и заявка на сертификат</h3><div class="card__meta">ЭЦП · 15 мин</div></div></a>
     <!-- auto-related:udostoveryayushchiy-centr-kaznachejstva --><a class="card reveal" href="/baza-znaniy/udostoveryayushchiy-centr-kaznachejstva/"><div class="card__cover"><span>УЦ ФК</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Удостоверяющий центр Федерального казначейства</h3><div class="card__meta">Сертификаты · 16 мин</div></div></a>
     <!-- auto-related:registraciya-v-eis-eruz-44-fz --><a class="card reveal" href="/baza-znaniy/registraciya-v-eis-eruz-44-fz/"><div class="card__cover"><span>ЕРУЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Регистрация в ЕИС и ЕРУЗ по 44-ФЗ</h3><div class="card__meta">Основы · 13 мин</div></div></a>
+    <!-- auto-related:mashinochitaemaya-doverennost-kaznachejstvo --><a class="card reveal" href="/baza-znaniy/mashinochitaemaya-doverennost-kaznachejstvo/"><div class="card__cover"><span>МЧД</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Машиночитаемая доверенность (МЧД) для казначейства</h3><div class="card__meta">Сертификаты · 15 мин</div></div></a>
   </div>
 </section>
 

@@ -660,6 +660,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <p data-ctx="auto-ctx:elektronnoe-aktirovanie-priyomka-44-fz">Основанием для санкционирования оплаты служит подписанный документ о приёмке, который формируется через <a href="/baza-znaniy/elektronnoe-aktirovanie-priyomka-44-fz/">электронное актирование в ЕИС</a>; расхождение его данных с распоряжением — частая причина возврата.</p>
     <p data-ctx="auto-ctx:necelevoe-rashodovanie-celevyh-sredstv">Чаще всего отказ в санкционировании как раз и предотвращает <a href="/baza-znaniy/necelevoe-rashodovanie-celevyh-sredstv/">нецелевое расходование целевых средств</a>: казначейство не пропускает платёж, не соответствующий цели контракта.</p>
     <p data-ctx="auto-ctx:ufk-zaderzhivaet-platezh">Если же платёж не отклонён, а просто «не идёт», смотрите, в каком он статусе: чаще это возврат на доработку — разбор сроков и действий в материале о том, <a href="/baza-znaniy/ufk-zaderzhivaet-platezh/">почему УФК задерживает платёж и что делать</a>.</p>
+    <p data-ctx="auto-ctx:naznachenie-platezha-kaznachejstvo">Частая причина отказа — дефект назначения платежа: как заполнить его правильно, разобрано в материале <a href="/baza-znaniy/naznachenie-platezha-kaznachejstvo/">назначение платежа при казначейском сопровождении</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -768,6 +769,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:elektronnoe-aktirovanie-priyomka-44-fz --><a class="card reveal" href="/baza-znaniy/elektronnoe-aktirovanie-priyomka-44-fz/"><div class="card__cover"><span>Приёмка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Электронное актирование и приёмка в ЕИС по 44-ФЗ</h3><div class="card__meta">Операции · 14 мин</div></div></a>
     <!-- auto-related:necelevoe-rashodovanie-celevyh-sredstv --><a class="card reveal" href="/baza-znaniy/necelevoe-rashodovanie-celevyh-sredstv/"><div class="card__cover"><span>Нецелевое</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Нецелевое расходование целевых средств при КС</h3><div class="card__meta">Контроль · 16 мин</div></div></a>
     <!-- auto-related:ufk-zaderzhivaet-platezh --><a class="card reveal" href="/baza-znaniy/ufk-zaderzhivaet-platezh/"><div class="card__cover"><span>Задержка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">УФК задерживает платёж: причины, сроки и что делать</h3><div class="card__meta">Операции · 15 мин</div></div></a>
+    <!-- auto-related:naznachenie-platezha-kaznachejstvo --><a class="card reveal" href="/baza-znaniy/naznachenie-platezha-kaznachejstvo/"><div class="card__cover"><span>Назначение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Назначение платежа при казначейском сопровождении: образец</h3><div class="card__meta">Операции · 14 мин</div></div></a>
   </div>
 </section>
 

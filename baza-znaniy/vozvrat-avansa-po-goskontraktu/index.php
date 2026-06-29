@@ -670,6 +670,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Связан ли возврат аванса с закрытием лицевого счёта?</summary><p>Да, при завершении контракта под сопровождением возврат неотработанного аванса увязывается с возвратом остатков целевых средств и закрытием лицевого счёта в казначействе.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:vozvrat-platezha-kaznachejstvo">Возврат аванса не нужно путать с возвратом ошибочно перечисленных денег: для последнего действует <a href="/baza-znaniy/vozvrat-platezha-kaznachejstvo/">отдельный порядок возврата платежа через казначейство</a> по заявлению.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -729,6 +730,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/rastorzhenie-kontrakta-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Расторжение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Расторжение контракта при казначейском сопровождении</h3><div class="card__meta">Применимость · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/obespechenie-ispolneniya-kontrakta-pri-ks/"><div class="card__cover"><span>Обеспечение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Обеспечение исполнения контракта при казначейском сопровождении</h3><div class="card__meta">Применимость · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/nalogi-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Налоги</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Налоги при казначейском сопровождении: НДС, прибыль и УСН</h3><div class="card__meta">Операции · 14 мин</div></div></a>
+    <!-- auto-related:vozvrat-platezha-kaznachejstvo --><a class="card reveal" href="/baza-znaniy/vozvrat-platezha-kaznachejstvo/"><div class="card__cover"><span>Возврат платежа</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Возврат платежа через казначейство: порядок и заявление</h3><div class="card__meta">Операции · 15 мин</div></div></a>
   </div>
 </section>
 
