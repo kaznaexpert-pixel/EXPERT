@@ -677,6 +677,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>Типовая ситуация: подрядчик выигрывает крупный инфраструктурный контракт и обнаруживает в нём сразу два контура — банковское сопровождение по 44-ФЗ и казначейское сопровождение аванса. Финансовая служба готовит один комплект документов «для банка» и считает вопрос закрытым — а первый же платёж с лицевого счёта возвращается: для санкционирования в ТОФК нужны свои документы-основания и сведения об операциях с целевыми средствами. После того как под каждый контур выстроен свой документооборот (и назначен ответственный за сверку реквизитов и ИГК), платежи идут штатно. Вывод: при сочетании режимов требования не «зачитываются» друг в друга — их выполняют параллельно. Пример обобщённый; состав документов зависит от условий конкретного контракта.</p>
     </div>
 
+    <p data-ctx="auto-ctx:bankovskoe-soprovozhdenie-kontrakta-44-fz">Подробно о механике именно банковского контроля — когда его устанавливают, чем обычное сопровождение отличается от расширенного и какой банк его ведёт — в отдельном разборе <a href="/baza-znaniy/bankovskoe-soprovozhdenie-kontrakta-44-fz/">банковского сопровождения контракта по статье 35</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -770,6 +771,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-obespechenie-obyazatelstv/"><div class="card__cover"><span>КОО</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское обеспечение обязательств (КОО)</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/"><div class="card__cover"><span>ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение ГОЗ по 275-ФЗ</h3><div class="card__meta">ГОЗ · 20 мин</div></div></a>
     <!-- auto-related:otdelnyy-schet-po-goz --><a class="card reveal" href="/baza-znaniy/otdelnyy-schet-po-goz/"><div class="card__cover"><span>Отдельный счёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отдельный счёт по ГОЗ: режим, запреты, вывод прибыли</h3><div class="card__meta">ГОЗ · 18 мин</div></div></a>
+    <!-- auto-related:bankovskoe-soprovozhdenie-kontrakta-44-fz --><a class="card reveal" href="/baza-znaniy/bankovskoe-soprovozhdenie-kontrakta-44-fz/"><div class="card__cover"><span>Банк. сопр.</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Банковское сопровождение контракта по 44-ФЗ</h3><div class="card__meta">Применимость · 16 мин</div></div></a>
   </div>
 </section>
 

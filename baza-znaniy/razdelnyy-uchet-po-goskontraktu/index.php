@@ -694,6 +694,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <p data-ctx="auto-ctx:otvetstvennost-za-narusheniya-goz">Для контрактов по гособоронзаказу действует отдельный состав — часть 11 статьи 7.30.3 КоАП РФ, тогда как при казначейском сопровождении применяется статья 15.37.1. Полный разбор административной и уголовной ответственности в сфере ГОЗ — в материале об <a href="/baza-znaniy/otvetstvennost-za-narusheniya-goz/">ответственности за нарушения в сфере ГОЗ</a>.</p>
     <p data-ctx="auto-ctx:nalogi-pri-kaznacheyskom-soprovozhdenii">Раздельный учёт не заменяет налоговый: как считаются НДС, налог на прибыль и УСН при работе через лицевой счёт, показано в статье <a href="/baza-znaniy/nalogi-pri-kaznacheyskom-soprovozhdenii/">о налогах при казначейском сопровождении</a>.</p>
+    <p data-ctx="auto-ctx:shtrafy-pri-kaznacheyskom-soprovozhdenii-2026">С 1 января 2026 года за отсутствие раздельного учёта по контракту под сопровождением штрафуют по новой норме — см. <a href="/baza-znaniy/shtrafy-pri-kaznacheyskom-soprovozhdenii-2026/">штрафы при казначейском сопровождении (статьи 15.37.1 и 15.49 КоАП)</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -787,6 +788,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>Отказы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Причины отказа казначейства в санкционировании</h3><div class="card__meta">Санкционирование · 14 мин</div></div></a>
     <!-- auto-related:uchetnaya-politika-razdelnyy-uchet-goz --><a class="card reveal" href="/baza-znaniy/uchetnaya-politika-razdelnyy-uchet-goz/"><div class="card__cover"><span>Учётная политика</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Учётная политика по раздельному учёту ГОЗ</h3><div class="card__meta">Учёт · 15 мин</div></div></a>
     <!-- auto-related:otvetstvennost-za-narusheniya-goz --><a class="card reveal" href="/baza-znaniy/otvetstvennost-za-narusheniya-goz/"><div class="card__cover"><span>Штрафы ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Ответственность за нарушения в сфере ГОЗ</h3><div class="card__meta">Ответственность · 18 мин</div></div></a>
+    <!-- auto-related:shtrafy-pri-kaznacheyskom-soprovozhdenii-2026 --><a class="card reveal" href="/baza-znaniy/shtrafy-pri-kaznacheyskom-soprovozhdenii-2026/"><div class="card__cover"><span>Штрафы 2026</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Штрафы при казначейском сопровождении: 15.37.1 и 15.49 КоАП</h3><div class="card__meta">Применимость · 15 мин</div></div></a>
   </div>
 </section>
 

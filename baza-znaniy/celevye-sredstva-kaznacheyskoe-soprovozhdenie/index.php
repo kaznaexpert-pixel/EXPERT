@@ -720,6 +720,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>Типовая ситуация: исполнитель получил аванс по госконтракту на целевой счёт и попытался оплатить с него общехозяйственные расходы, не связанные с контрактом. Казначейство вернуло распоряжение — расход не соответствовал цели. Компания пересмотрела подход: завела отдельный счёт под контракт, заложила направления расходования в сведениях об операциях, проставляла ИГК и корректные коды в каждом распоряжении и оплачивала с целевого счёта только закупки под контракт, а текущие расходы вела с расчётного счёта. После этого платежи стали проходить санкционирование с первого раза. Пример обобщённый; конкретный состав допустимых расходов зависит от условий контракта и правил года.</p>
     </div>
 
+    <p data-ctx="auto-ctx:necelevoe-rashodovanie-celevyh-sredstv">Обратная сторона целевого режима — ответственность за его нарушение: что считается <a href="/baza-znaniy/necelevoe-rashodovanie-celevyh-sredstv/">нецелевым расходованием целевых средств</a> и чем оно грозит исполнителю, разобрано отдельно.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -815,6 +816,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kody/"><div class="card__cover"><span>Коды</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Коды целевых средств: справочник по 214н</h3><div class="card__meta">Справочник · 12 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Кто</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Кто попадает под казначейское сопровождение</h3><div class="card__meta">Сопровождение · 16 мин</div></div></a>
     <!-- auto-related:nalogi-pri-kaznacheyskom-soprovozhdenii --><a class="card reveal" href="/baza-znaniy/nalogi-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Налоги</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Налоги при казначейском сопровождении: НДС, прибыль, УСН</h3><div class="card__meta">Учёт · 14 мин</div></div></a>
+    <!-- auto-related:necelevoe-rashodovanie-celevyh-sredstv --><a class="card reveal" href="/baza-znaniy/necelevoe-rashodovanie-celevyh-sredstv/"><div class="card__cover"><span>Нецелевое</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Нецелевое расходование целевых средств при КС</h3><div class="card__meta">Контроль · 16 мин</div></div></a>
   </div>
 </section>
 

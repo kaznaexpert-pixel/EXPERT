@@ -770,6 +770,7 @@ calc();
     <p data-ctx="auto-ctx:garantijnye-obyazatelstva-po-44-fz">Помимо обеспечения исполнения контракта заказчик может потребовать обеспечение под <a href="/baza-znaniy/garantijnye-obyazatelstva-po-44-fz/">гарантийные обязательства по 44-ФЗ</a> — это отдельная сумма со своим сроком и порядком возврата.</p>
     <p data-ctx="auto-ctx:nezavisimaya-garantiya-44-fz">Подробно про сам инструмент — кто его выдаёт, обязательные условия и реестр — в материале <a href="/baza-znaniy/nezavisimaya-garantiya-44-fz/">независимая гарантия по 44-ФЗ</a>.</p>
     <p data-ctx="auto-ctx:antidempingovye-mery-44-fz">Если победитель снизил цену на 25% и более, размер обеспечения растёт: действуют <a href="/baza-znaniy/antidempingovye-mery-44-fz/">антидемпинговые меры по статье 37</a> — обеспечение в полтора раза или подтверждение добросовестности.</p>
+    <p data-ctx="auto-ctx:bankovskoe-soprovozhdenie-kontrakta-44-fz">Сопровождение расчётов и обеспечение исполнения — разные институты: помимо казначейского встречается и <a href="/baza-znaniy/bankovskoe-soprovozhdenie-kontrakta-44-fz/">банковское сопровождение контракта по статье 35</a>, при котором банк ведёт мониторинг операций по счёту.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -865,6 +866,7 @@ calc();
     <!-- auto-related:garantijnye-obyazatelstva-po-44-fz --><a class="card reveal" href="/baza-znaniy/garantijnye-obyazatelstva-po-44-fz/"><div class="card__cover"><span>Гарантии</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Гарантийные обязательства по 44-ФЗ</h3><div class="card__meta">Госконтракты · 17 мин</div></div></a>
     <!-- auto-related:nezavisimaya-garantiya-44-fz --><a class="card reveal" href="/baza-znaniy/nezavisimaya-garantiya-44-fz/"><div class="card__cover"><span>Гарантия</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Независимая гарантия по 44-ФЗ: требования и реестр</h3><div class="card__meta">Закупки 44-ФЗ · 16 мин</div></div></a>
     <!-- auto-related:antidempingovye-mery-44-fz --><a class="card reveal" href="/baza-znaniy/antidempingovye-mery-44-fz/"><div class="card__cover"><span>Антидемпинг</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Антидемпинговые меры по 44-ФЗ: снижение цены на 25%</h3><div class="card__meta">Применимость · 15 мин</div></div></a>
+    <!-- auto-related:bankovskoe-soprovozhdenie-kontrakta-44-fz --><a class="card reveal" href="/baza-znaniy/bankovskoe-soprovozhdenie-kontrakta-44-fz/"><div class="card__cover"><span>Банк. сопр.</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Банковское сопровождение контракта по 44-ФЗ</h3><div class="card__meta">Применимость · 16 мин</div></div></a>
   </div>
 </section>
 

@@ -658,6 +658,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <p data-ctx="auto-ctx:operacii-po-licevomu-schetu-pri-ks">Чтобы платёж не остановили, важно заранее понимать, <a href="/baza-znaniy/operacii-po-licevomu-schetu-pri-ks/">какие операции можно проводить по лицевому счёту при казначейском сопровождении</a> и что прямо запрещено режимом счёта.</p>
     <p data-ctx="auto-ctx:kaznacheyskiy-monitoring">Кроме отказа в санкционировании конкретного платежа операцию может приостановить <a href="/baza-znaniy/kaznacheyskiy-monitoring/">казначейский мониторинг</a> — отдельный риск-контроль внутри системы казначейских платежей.</p>
     <p data-ctx="auto-ctx:elektronnoe-aktirovanie-priyomka-44-fz">Основанием для санкционирования оплаты служит подписанный документ о приёмке, который формируется через <a href="/baza-znaniy/elektronnoe-aktirovanie-priyomka-44-fz/">электронное актирование в ЕИС</a>; расхождение его данных с распоряжением — частая причина возврата.</p>
+    <p data-ctx="auto-ctx:necelevoe-rashodovanie-celevyh-sredstv">Чаще всего отказ в санкционировании как раз и предотвращает <a href="/baza-znaniy/necelevoe-rashodovanie-celevyh-sredstv/">нецелевое расходование целевых средств</a>: казначейство не пропускает платёж, не соответствующий цели контракта.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -764,6 +765,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:kaznacheyskiy-monitoring --><a class="card reveal" href="/baza-znaniy/kaznacheyskiy-monitoring/"><div class="card__cover"><span>Мониторинг</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейский мониторинг: меры реагирования и риски</h3><div class="card__meta">Контроль · 15 мин</div></div></a>
     <!-- auto-related:reestr-nedobrosovestnyh-postavshchikov-44-fz --><a class="card reveal" href="/baza-znaniy/reestr-nedobrosovestnyh-postavshchikov-44-fz/"><div class="card__cover"><span>РНП</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Реестр недобросовестных поставщиков (РНП) по 44-ФЗ</h3><div class="card__meta">Применимость · 14 мин</div></div></a>
     <!-- auto-related:elektronnoe-aktirovanie-priyomka-44-fz --><a class="card reveal" href="/baza-znaniy/elektronnoe-aktirovanie-priyomka-44-fz/"><div class="card__cover"><span>Приёмка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Электронное актирование и приёмка в ЕИС по 44-ФЗ</h3><div class="card__meta">Операции · 14 мин</div></div></a>
+    <!-- auto-related:necelevoe-rashodovanie-celevyh-sredstv --><a class="card reveal" href="/baza-znaniy/necelevoe-rashodovanie-celevyh-sredstv/"><div class="card__cover"><span>Нецелевое</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Нецелевое расходование целевых средств при КС</h3><div class="card__meta">Контроль · 16 мин</div></div></a>
   </div>
 </section>
 

@@ -1241,4 +1241,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/bankovskoe-soprovozhdenie-kontrakta-44-fz/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/necelevoe-rashodovanie-celevyh-sredstv/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/shtrafy-pri-kaznacheyskom-soprovozhdenii-2026/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
