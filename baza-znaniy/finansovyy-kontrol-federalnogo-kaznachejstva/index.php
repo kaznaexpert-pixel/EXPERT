@@ -708,6 +708,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <p data-ctx="auto-ctx:kaznacheyskiy-monitoring">Помимо последующих ревизий казначейство ведёт превентивный <a href="/baza-znaniy/kaznacheyskiy-monitoring/">казначейский мониторинг</a> операций в системе казначейских платежей с мерами реагирования (статья 242.13-1 Бюджетного кодекса).</p>
+    <p data-ctx="auto-ctx:kak-proyti-proverku-kaznachejstva">Практическая сторона вопроса — подготовка: что собрать, на какие права опираться и как подать возражения на акт — в материале о том, <a href="/baza-znaniy/kak-proyti-proverku-kaznachejstva/">как пройти проверку казначейства</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -804,6 +805,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/otvetstvennost-za-narusheniya-goz/"><div class="card__cover"><span>Ответственность</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Ответственность за нарушения в сфере ГОЗ и казначейского сопровождения</h3><div class="card__meta">Сопровождение · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-po-goskontraktu/"><div class="card__cover"><span>Учёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по госконтракту: когда вести, штрафы</h3><div class="card__meta">Учёт · 17 мин</div></div></a>
     <!-- auto-related:kaznacheyskiy-monitoring --><a class="card reveal" href="/baza-znaniy/kaznacheyskiy-monitoring/"><div class="card__cover"><span>Мониторинг</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейский мониторинг: меры реагирования и риски</h3><div class="card__meta">Контроль · 15 мин</div></div></a>
+    <!-- auto-related:kak-proyti-proverku-kaznachejstva --><a class="card reveal" href="/baza-znaniy/kak-proyti-proverku-kaznachejstva/"><div class="card__cover"><span>Проверка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Как пройти проверку казначейства: подготовка и права</h3><div class="card__meta">Контроль · 16 мин</div></div></a>
   </div>
 </section>
 

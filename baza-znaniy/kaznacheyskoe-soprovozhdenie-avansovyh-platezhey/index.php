@@ -715,6 +715,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <p data-ctx="auto-ctx:srok-oplaty-po-kontraktu-44-fz">Сроки расчётов по контракту, включая авансовые, подчиняются общим правилам — подробно о том, когда заказчик обязан заплатить, в материале про <a href="/baza-znaniy/srok-oplaty-po-kontraktu-44-fz/">срок оплаты по контракту 44-ФЗ</a>.</p>
     <p data-ctx="auto-ctx:antidempingovye-mery-44-fz">По контракту, заключённому со снижением цены на 25% и более, аванс запрещён (часть 13 статьи 37) — см. <a href="/baza-znaniy/antidempingovye-mery-44-fz/">антидемпинговые меры</a>, поэтому и сопровождение авансовых платежей по такому контракту не возникает.</p>
+    <p data-ctx="auto-ctx:vozvrat-avansa-po-goskontraktu">Когда аванс не отработан, наступает <a href="/baza-znaniy/vozvrat-avansa-po-goskontraktu/">возврат аванса с лицевого счёта</a> на счёт заказчика — по распоряжению исполнителя или обращению заказчика.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -777,6 +778,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Применимость</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Кто попадает под казначейское сопровождение</h3><div class="card__meta">казначейское сопровождение · 17 мин</div></div></a>
     <!-- auto-related:srok-oplaty-po-kontraktu-44-fz --><a class="card reveal" href="/baza-znaniy/srok-oplaty-po-kontraktu-44-fz/"><div class="card__cover"><span>Оплата</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Срок оплаты по контракту 44-ФЗ: 7 и 10 дней</h3><div class="card__meta">Применимость · 13 мин</div></div></a>
     <!-- auto-related:antidempingovye-mery-44-fz --><a class="card reveal" href="/baza-znaniy/antidempingovye-mery-44-fz/"><div class="card__cover"><span>Антидемпинг</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Антидемпинговые меры по 44-ФЗ: снижение цены на 25%</h3><div class="card__meta">Применимость · 15 мин</div></div></a>
+    <!-- auto-related:vozvrat-avansa-po-goskontraktu --><a class="card reveal" href="/baza-znaniy/vozvrat-avansa-po-goskontraktu/"><div class="card__cover"><span>Возврат аванса</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Возврат аванса по госконтракту при КС: порядок и сроки</h3><div class="card__meta">Операции · 15 мин</div></div></a>
   </div>
 </section>
 

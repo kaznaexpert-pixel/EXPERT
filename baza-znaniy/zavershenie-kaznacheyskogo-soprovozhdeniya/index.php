@@ -731,6 +731,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <p data-ctx="auto-ctx:rastorzhenie-kontrakta-pri-kaznacheyskom-soprovozhdenii">Если контракт не доведён до конца, а прекращается досрочно, действует похожий, но более жёсткий сценарий — <a href="/baza-znaniy/rastorzhenie-kontrakta-pri-kaznacheyskom-soprovozhdenii/">расторжение контракта под казначейским сопровождением</a>: возвращается не только остаток, но и неотработанный аванс.</p>
+    <p data-ctx="auto-ctx:vozvrat-avansa-po-goskontraktu">Перед закрытием лицевого счёта закрывается и вопрос аванса: <a href="/baza-znaniy/vozvrat-avansa-po-goskontraktu/">возврат неотработанного аванса</a> увязывается с возвратом остатков целевых средств.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -823,6 +824,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/otdelnyy-schet-po-goz/"><div class="card__cover"><span>ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отдельный счёт по ГОЗ: режим и вывод прибыли</h3><div class="card__meta">ГОЗ · 18 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/svodnyy-reestr/"><div class="card__cover"><span>Реестр</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Сводный реестр: код, проверка, включение</h3><div class="card__meta">Счета · 15 мин</div></div></a>
     <!-- auto-related:rastorzhenie-kontrakta-pri-kaznacheyskom-soprovozhdenii --><a class="card reveal" href="/baza-znaniy/rastorzhenie-kontrakta-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Расторжение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Расторжение контракта при казначейском сопровождении</h3><div class="card__meta">Сопровождение · 16 мин</div></div></a>
+    <!-- auto-related:vozvrat-avansa-po-goskontraktu --><a class="card reveal" href="/baza-znaniy/vozvrat-avansa-po-goskontraktu/"><div class="card__cover"><span>Возврат аванса</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Возврат аванса по госконтракту при КС: порядок и сроки</h3><div class="card__meta">Операции · 15 мин</div></div></a>
   </div>
 </section>
 

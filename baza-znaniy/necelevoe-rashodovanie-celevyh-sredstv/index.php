@@ -680,6 +680,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Чем нецелевое расходование отличается от штрафов 2026 года?</summary><p>Нецелевое расходование — это нарушение целевого характера средств (статья 306.4 БК, статья 15.14 КоАП). Новые штрафы 2026 года по статьям 15.37.1 и 15.49 КоАП касаются раздельного учёта и сроков утверждения сведений — это отдельные составы, образующие общий контур ответственности при КС.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:kak-proyti-proverku-kaznachejstva">Именно нецелевое расходование чаще всего ищут при контроле, поэтому к нему стоит готовиться заранее — см. <a href="/baza-znaniy/kak-proyti-proverku-kaznachejstva/">как пройти проверку казначейства</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -739,6 +740,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/finansovyy-kontrol-federalnogo-kaznachejstva/"><div class="card__cover"><span>Контроль</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Финансовый контроль Федерального казначейства: проверки и предписания</h3><div class="card__meta">Контроль · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/operacii-po-licevomu-schetu-pri-ks/"><div class="card__cover"><span>Операции</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Какие операции можно проводить по лицевому счёту при КС</h3><div class="card__meta">Операции · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-po-goskontraktu/"><div class="card__cover"><span>Учёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по госконтракту в 2026: когда вести и штрафы</h3><div class="card__meta">Учёт · 14 мин</div></div></a>
+    <!-- auto-related:kak-proyti-proverku-kaznachejstva --><a class="card reveal" href="/baza-znaniy/kak-proyti-proverku-kaznachejstva/"><div class="card__cover"><span>Проверка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Как пройти проверку казначейства: подготовка и права</h3><div class="card__meta">Контроль · 16 мин</div></div></a>
   </div>
 </section>
 

@@ -693,6 +693,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-avansovyh-platezhey">Особенности санкционирования предоплаты разобраны отдельно — см. <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-avansovyh-platezhey/">казначейское сопровождение авансовых платежей</a>.</p>
+    <p data-ctx="auto-ctx:ufk-zaderzhivaet-platezh">Нормативные сроки санкционирования по приказу 214н и порядок действий, если <a href="/baza-znaniy/ufk-zaderzhivaet-platezh/">платёж застрял в казначействе</a>, разобраны отдельно.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div>
@@ -752,6 +753,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/uslugi/soprovozhdenie-postoplata/"><div class="card__cover"><span>Под ключ</span></div><div class="card__body"><span class="card__cat">Услуга</span><h3 class="card__title">Сопровождение постоплаты без возвратов</h3><div class="card__meta">Услуга · от 59 000 ₽</div></div></a>
     <!-- auto-related:poryadok-kaznacheyskogo-soprovozhdeniya-sredstv --><a class="card reveal" href="/baza-znaniy/poryadok-kaznacheyskogo-soprovozhdeniya-sredstv/"><div class="card__cover"><span>Порядок казначейского сопровождения</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Порядок казначейского сопровождения средств</h3><div class="card__meta">Основы · 16 мин</div></div></a>
     <!-- auto-related:kaznacheyskoe-soprovozhdenie-avansovyh-platezhey --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-avansovyh-platezhey/"><div class="card__cover"><span>Авансы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение авансовых платежей</h3><div class="card__meta">казначейское сопровождение · 16 мин</div></div></a>
+    <!-- auto-related:ufk-zaderzhivaet-platezh --><a class="card reveal" href="/baza-znaniy/ufk-zaderzhivaet-platezh/"><div class="card__cover"><span>Задержка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">УФК задерживает платёж: причины, сроки и что делать</h3><div class="card__meta">Операции · 15 мин</div></div></a>
   </div>
 </section>
 
