@@ -654,6 +654,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <p data-ctx="auto-ctx:sistema-kaznacheyskih-platezhey">Именно Федеральное казначейство выступает оператором <a href="/baza-znaniy/sistema-kaznacheyskih-platezhey/">системы казначейских платежей</a> — инфраструктуры, через которую с 2021 года проходят все платежи бюджетной системы.</p>
+    <p data-ctx="auto-ctx:schet-v-departamente-finansov-moskvy">Помимо территориальных органов федерального казначейства, средства региональных бюджетов сопровождают финансовые органы субъектов — например, <a href="/baza-znaniy/schet-v-departamente-finansov-moskvy/">Департамент финансов Москвы ведёт лицевые счета с кодом 44</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -745,6 +746,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Основы казначейского сопровождения</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение: что это и как работает в 2026</h3><div class="card__meta">Основы · 18 мин</div></div></a>
     <!-- auto-related:svodnyy-reestr --><a class="card reveal" href="/baza-znaniy/svodnyy-reestr/"><div class="card__cover"><span>Реестр</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Сводный реестр: код организации, проверка, включение</h3><div class="card__meta">Счета · 15 мин</div></div></a>
     <!-- auto-related:sistema-kaznacheyskih-platezhey --><a class="card reveal" href="/baza-znaniy/sistema-kaznacheyskih-platezhey/"><div class="card__cover"><span>СКП</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Система казначейских платежей: что это и как работает</h3><div class="card__meta">Основы · 16 мин</div></div></a>
+    <!-- auto-related:schet-v-departamente-finansov-moskvy --><a class="card reveal" href="/baza-znaniy/schet-v-departamente-finansov-moskvy/"><div class="card__cover"><span>ДепФин Москвы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Счёт в Департаменте финансов Москвы: открытие и сопровождение</h3><div class="card__meta">Регионы · 15 мин</div></div></a>
   </div>
 </section>
 

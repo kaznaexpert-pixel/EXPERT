@@ -802,6 +802,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>Типичная ситуация: компания выигрывает контракт на поставку оборудования для государственного заказчика на сумму выше порога. В контракте есть условие о казначейском сопровождении, но исполнитель планирует расчёты как по обычному коммерческому договору — получить аванс и свободно платить поставщикам. На практике это приводит к первому же возврату платежа: средства «окрашены», и без утверждённых сведений об операциях, корректного кода направления и подтверждающих документов казначейство расход не пропускает. После того как заранее настроены счёт (или режим банковских расчётов), сведения об операциях и комплект документов под каждый код, платежи начинают проходить штатно. Вывод, который подтверждается на практике: режим казначейского сопровождения выгоднее настроить до получения первого аванса, а не разбираться с ним после первого отказа.</p>
     </div>
 
+    <p data-ctx="auto-ctx:neuchastnik-byudzhetnogo-processa">Исполнитель контракта, которому открывают лицевой счёт под сопровождение, выступает <a href="/baza-znaniy/neuchastnik-byudzhetnogo-processa/">неучастником бюджетного процесса</a> — это не делает его бюджетным учреждением.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -929,6 +930,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:poryadok-kaznacheyskogo-soprovozhdeniya-sredstv --><a class="card reveal" href="/baza-znaniy/poryadok-kaznacheyskogo-soprovozhdeniya-sredstv/"><div class="card__cover"><span>Порядок казначейского сопровождения</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Порядок казначейского сопровождения средств</h3><div class="card__meta">Основы · 16 мин</div></div></a>
     <!-- auto-related:kaznacheyskoe-obespechenie-obyazatelstv --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-obespechenie-obyazatelstv/"><div class="card__cover"><span>КОО</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское обеспечение обязательств (КОО)</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <!-- auto-related:kaznacheyskiy-kontrakt --><a class="card reveal" href="/baza-znaniy/kaznacheyskiy-kontrakt/"><div class="card__cover"><span>Контракт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейский контракт: что это и как работать</h3><div class="card__meta">Основы · 14 мин</div></div></a>
+    <!-- auto-related:neuchastnik-byudzhetnogo-processa --><a class="card reveal" href="/baza-znaniy/neuchastnik-byudzhetnogo-processa/"><div class="card__cover"><span>Неучастник</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Неучастник бюджетного процесса: кто это и лицевой счёт</h3><div class="card__meta">Основы · 15 мин</div></div></a>
   </div>
 </section>
 

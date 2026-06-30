@@ -694,6 +694,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <p data-ctx="auto-ctx:mashinochitaemaya-doverennost-kaznachejstvo">Наряду со сроком сертификата важно следить и за сроком <a href="/baza-znaniy/mashinochitaemaya-doverennost-kaznachejstvo/">машиночитаемой доверенности</a>: по её истечении подписант теряет право подписывать документы от имени организации.</p>
+    <p data-ctx="auto-ctx:pereoformlenie-licevogo-scheta-v-kaznachejstve">Смена подписанта затрагивает не только сертификат: одновременно меняют и <a href="/baza-znaniy/pereoformlenie-licevogo-scheta-v-kaznachejstve/">карточку образцов подписей при переоформлении лицевого счёта</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -787,6 +788,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:kornevye-sertifikaty-kaznachejstva --><a class="card reveal" href="/baza-znaniy/kornevye-sertifikaty-kaznachejstva/"><div class="card__cover"><span>Сертификаты</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Корневые сертификаты УЦ казначейства</h3><div class="card__meta">Подпись · 13 мин</div></div></a>
     <!-- auto-related:portal-zayavitelya-kaznachejstva --><a class="card reveal" href="/baza-znaniy/portal-zayavitelya-kaznachejstva/"><div class="card__cover"><span>ФЗС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Портал заявителя казначейства (ФЗС): вход и заявка на сертификат</h3><div class="card__meta">ЭЦП · 15 мин</div></div></a>
     <!-- auto-related:mashinochitaemaya-doverennost-kaznachejstvo --><a class="card reveal" href="/baza-znaniy/mashinochitaemaya-doverennost-kaznachejstvo/"><div class="card__cover"><span>МЧД</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Машиночитаемая доверенность (МЧД) для казначейства</h3><div class="card__meta">Сертификаты · 15 мин</div></div></a>
+    <!-- auto-related:pereoformlenie-licevogo-scheta-v-kaznachejstve --><a class="card reveal" href="/baza-znaniy/pereoformlenie-licevogo-scheta-v-kaznachejstve/"><div class="card__cover"><span>Переоформление</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Переоформление лицевого счёта в казначействе: порядок 2026</h3><div class="card__meta">Лицевой счёт · 15 мин</div></div></a>
   </div>
 </section>
 

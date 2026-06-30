@@ -724,6 +724,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Как субподрядчику открыть лицевой счёт?</summary><p>Нужно быть включённым в сводный реестр, получить сертификат электронной подписи казначейства и подать заявление на открытие лицевого счёта (обычно код 71) в территориальный орган казначейства через ГИИС «Электронный бюджет».</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:neuchastnik-byudzhetnogo-processa">По цепочке кооперации лицевые счета могут открывать и соисполнителям: каждый из них в части целевых средств выступает <a href="/baza-znaniy/neuchastnik-byudzhetnogo-processa/">неучастником бюджетного процесса</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -782,6 +783,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/operacii-po-licevomu-schetu-pri-ks/"><div class="card__cover"><span>Операции</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Какие операции можно проводить по лицевому счёту при казначейском сопровождении</h3><div class="card__meta">Операции · 17 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/identifikator-gosudarstvennogo-kontrakta-igk/"><div class="card__cover"><span>ИГК</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Идентификатор государственного контракта (ИГК)</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Пиллар</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение: что это и кому нужно</h3><div class="card__meta">Пиллар · 20 мин</div></div></a>
+    <!-- auto-related:neuchastnik-byudzhetnogo-processa --><a class="card reveal" href="/baza-znaniy/neuchastnik-byudzhetnogo-processa/"><div class="card__cover"><span>Неучастник</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Неучастник бюджетного процесса: кто это и лицевой счёт</h3><div class="card__meta">Основы · 15 мин</div></div></a>
   </div>
 </section>
 
