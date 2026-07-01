@@ -828,6 +828,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-v-2026-godu">Актуальные на текущий год пороги и перечень случаев задаёт закон о бюджете — сводка по статье 5 Закона № 426-ФЗ собрана в материале <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-v-2026-godu/">казначейское сопровождение в 2026 году</a>.</p>
     <p data-ctx="auto-ctx:kaznacheyskiy-schet-i-raschetnyy-schet">Если сопровождение применяется, расчёты по контракту пойдут не через банк, а через лицевой счёт — мы сравнили <a href="/baza-znaniy/kaznacheyskiy-schet-i-raschetnyy-schet/">казначейский и расчётный счёт</a>, чтобы было видно, что меняется для подрядчика на практике.</p>
     <p data-ctx="auto-ctx:schet-v-departamente-finansov-moskvy">Если средства идут из регионального бюджета, сопровождает их финорган субъекта — например, по контрактам Москвы открывают <a href="/baza-znaniy/schet-v-departamente-finansov-moskvy/">счёт в Департаменте финансов Москвы</a>.</p>
+    <p data-ctx="auto-ctx:regionalnoe-kaznacheyskoe-soprovozhdenie">Если средства идут не из федерального, а из регионального бюджета, применяется <a href="/baza-znaniy/regionalnoe-kaznacheyskoe-soprovozhdenie/">региональное казначейское сопровождение</a>: сопровождает их финансовый орган субъекта по своему порядку.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div>
@@ -888,6 +889,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:kaznacheyskoe-soprovozhdenie-v-2026-godu --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-v-2026-godu/"><div class="card__cover"><span>2026</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение в 2026 году</h3><div class="card__meta">Сопровождение · 17 мин</div></div></a>
     <!-- auto-related:reestr-kontraktov-eis-44-fz --><a class="card reveal" href="/baza-znaniy/reestr-kontraktov-eis-44-fz/"><div class="card__cover"><span>Реестр</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Реестр контрактов в ЕИС по 44-ФЗ: что это и сроки</h3><div class="card__meta">Основы · 13 мин</div></div></a>
     <!-- auto-related:schet-v-departamente-finansov-moskvy --><a class="card reveal" href="/baza-znaniy/schet-v-departamente-finansov-moskvy/"><div class="card__cover"><span>ДепФин Москвы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Счёт в Департаменте финансов Москвы: открытие и сопровождение</h3><div class="card__meta">Регионы · 15 мин</div></div></a>
+    <!-- auto-related:regionalnoe-kaznacheyskoe-soprovozhdenie --><a class="card reveal" href="/baza-znaniy/regionalnoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Регионы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Региональное казначейское сопровождение: финорганы субъектов РФ</h3><div class="card__meta">Регионы · 16 мин</div></div></a>
   </div>
 </section>
 

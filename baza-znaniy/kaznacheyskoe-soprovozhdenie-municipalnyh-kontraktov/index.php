@@ -708,6 +708,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <p class="muted">Пример обобщённый и иллюстративный, не описывает конкретного клиента и не гарантирует результата: условия казначейского сопровождения муниципального контракта определяются местными актами в каждом случае.</p>
 
     <p data-ctx="auto-ctx:schet-v-departamente-finansov-moskvy">На уровне города Москвы средства бюджета сопровождает финансовый орган: исполнителю открывают <a href="/baza-znaniy/schet-v-departamente-finansov-moskvy/">счёт в Департаменте финансов Москвы с кодом 44</a>, а не счёт 71 в ТОФК.</p>
+    <p data-ctx="auto-ctx:regionalnoe-kaznacheyskoe-soprovozhdenie">Муниципальный уровень встроен в общую логику: как средства бюджетов субъектов и муниципалитетов сопровождают их финансовые органы, разобрано в материале о <a href="/baza-znaniy/regionalnoe-kaznacheyskoe-soprovozhdenie/">региональном казначейском сопровождении</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -800,6 +801,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/vidy-licevyh-schetov-v-kaznachejstve/"><div class="card__cover"><span>Счета</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Виды лицевых счетов в казначействе: коды</h3><div class="card__meta">Счета · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>Отказы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Причины отказа казначейства в санкционировании</h3><div class="card__meta">Контроль · 16 мин</div></div></a>
     <!-- auto-related:schet-v-departamente-finansov-moskvy --><a class="card reveal" href="/baza-znaniy/schet-v-departamente-finansov-moskvy/"><div class="card__cover"><span>ДепФин Москвы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Счёт в Департаменте финансов Москвы: открытие и сопровождение</h3><div class="card__meta">Регионы · 15 мин</div></div></a>
+    <!-- auto-related:regionalnoe-kaznacheyskoe-soprovozhdenie --><a class="card reveal" href="/baza-znaniy/regionalnoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Регионы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Региональное казначейское сопровождение: финорганы субъектов РФ</h3><div class="card__meta">Регионы · 16 мин</div></div></a>
   </div>
 </section>
 

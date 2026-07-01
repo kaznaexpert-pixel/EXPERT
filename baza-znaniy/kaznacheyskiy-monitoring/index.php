@@ -726,6 +726,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Что меняется с 1 сентября 2026 года?</summary><p>Статья 242.13-1 действует в новой редакции (Федеральный закон от 24.06.2025 № 158-ФЗ). До этой даты установлены переходные особенности информирования о мерах реагирования (часть 9 статьи 5 Закона о бюджете на 2026 год).</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:priostanovlenie-operaciy-po-licevomu-schetu">Как приостановление операции выглядит со стороны исполнителя и что делать, чтобы возобновить платежи, подробно разобрано в материале <a href="/baza-znaniy/priostanovlenie-operaciy-po-licevomu-schetu/">«казначейство приостановило операции по лицевому счёту»</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -784,6 +785,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/finansovyy-kontrol-federalnogo-kaznachejstva/"><div class="card__cover"><span>Контроль</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Финансовый контроль Федерального казначейства</h3><div class="card__meta">Контроль · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/operacii-po-licevomu-schetu-pri-ks/"><div class="card__cover"><span>Операции</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Какие операции можно проводить по лицевому счёту</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-v-2026-godu/"><div class="card__cover"><span>2026</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение в 2026 году</h3><div class="card__meta">Сопровождение · 17 мин</div></div></a>
+    <!-- auto-related:priostanovlenie-operaciy-po-licevomu-schetu --><a class="card reveal" href="/baza-znaniy/priostanovlenie-operaciy-po-licevomu-schetu/"><div class="card__cover"><span>Приостановление</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейство приостановило операции по счёту: что делать</h3><div class="card__meta">Контроль · 15 мин</div></div></a>
   </div>
 </section>
 

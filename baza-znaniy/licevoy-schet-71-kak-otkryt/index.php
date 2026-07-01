@@ -682,6 +682,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <p data-ctx="auto-ctx:kaznacheyskiy-schet-subpodryadchika">Если лицевой счёт открывает субподрядчик по контракту с казначейским сопровождением, порядок тот же — нюансы разобраны в материале о том, <a href="/baza-znaniy/kaznacheyskiy-schet-subpodryadchika/">нужен ли казначейский счёт субподрядчику</a>.</p>
     <p data-ctx="auto-ctx:operacii-po-licevomu-schetu-pri-ks">После открытия счёта пригодится памятка о том, <a href="/baza-znaniy/operacii-po-licevomu-schetu-pri-ks/">какие операции можно проводить по лицевому счёту при казначейском сопровождении</a>.</p>
     <p data-ctx="auto-ctx:pereoformlenie-licevogo-scheta-v-kaznachejstve">Если после открытия счёта у организации сменится руководитель или наименование, счёт не открывают заново — действует <a href="/baza-znaniy/pereoformlenie-licevogo-scheta-v-kaznachejstve/">отдельный порядок переоформления лицевого счёта</a>.</p>
+    <p data-ctx="auto-ctx:schet-v-komitete-finansov-sankt-peterburga">Счёт с кодом 71 открывают в казначействе для федеральных средств; по контрактам из бюджета города на Неве счёт открывают иначе — <a href="/baza-znaniy/schet-v-komitete-finansov-sankt-peterburga/">в Комитете финансов Санкт-Петербурга</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -794,6 +795,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:kaznacheyskiy-schet-i-raschetnyy-schet --><a class="card reveal" href="/baza-znaniy/kaznacheyskiy-schet-i-raschetnyy-schet/"><div class="card__cover"><span>Сравнение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейский счёт и расчётный счёт: в чём разница</h3><div class="card__meta">Счета · 14 мин</div></div></a>
     <!-- auto-related:pereoformlenie-licevogo-scheta-v-kaznachejstve --><a class="card reveal" href="/baza-znaniy/pereoformlenie-licevogo-scheta-v-kaznachejstve/"><div class="card__cover"><span>Переоформление</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Переоформление лицевого счёта в казначействе: порядок 2026</h3><div class="card__meta">Лицевой счёт · 15 мин</div></div></a>
     <!-- auto-related:neuchastnik-byudzhetnogo-processa --><a class="card reveal" href="/baza-znaniy/neuchastnik-byudzhetnogo-processa/"><div class="card__cover"><span>Неучастник</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Неучастник бюджетного процесса: кто это и лицевой счёт</h3><div class="card__meta">Основы · 15 мин</div></div></a>
+    <!-- auto-related:schet-v-komitete-finansov-sankt-peterburga --><a class="card reveal" href="/baza-znaniy/schet-v-komitete-finansov-sankt-peterburga/"><div class="card__cover"><span>Комитет финансов СПб</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Счёт в Комитете финансов Санкт-Петербурга: сопровождение</h3><div class="card__meta">Регионы · 15 мин</div></div></a>
   </div>
 </section>
 
