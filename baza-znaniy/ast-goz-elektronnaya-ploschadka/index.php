@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Article","headline":"АСТ ГОЗ: что это и как работает электронная площадка в 2026","description":"АСТ ГОЗ — специализированная электронная площадка для закрытых закупок по ГОЗ. Оператор ООО «АСТ ГОЗ», основание — распоряжение № 1447-р, требования к участникам и связь с казначейским сопровождением.","inLanguage":"ru-RU","datePublished":"2026-06-10","dateModified":"2026-06-10","author":{"@type":"Person","name":"Ярослав Михайлов","jobTitle":"Главный эксперт по казначейскому сопровождению","url":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/"},"publisher":{"@type":"Organization","name":"КазнаЭксперт","url":"https://kaznaexpert.ru","logo":{"@type":"ImageObject","url":"https://kaznaexpert.ru/img/logogold.png"}},"image":"https://kaznaexpert.ru/img/og-image.png","mainEntityOfPage":{"@type":"WebPage","@id":"https://kaznaexpert.ru/baza-znaniy/ast-goz-elektronnaya-ploschadka/"}}
+{"@context":"https://schema.org","@type":"Article","headline":"АСТ ГОЗ: что это и как работает электронная площадка в 2026","description":"АСТ ГОЗ — специализированная электронная площадка для закрытых закупок по ГОЗ. Оператор ООО «АСТ ГОЗ», основание — распоряжение № 1447-р, требования к участникам и связь с казначейским сопровождением.","inLanguage":"ru-RU","datePublished":"2026-06-10","dateModified":"2026-07-02","author":{"@type":"Person","name":"Ярослав Михайлов","jobTitle":"Главный эксперт по казначейскому сопровождению","url":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/"},"publisher":{"@type":"Organization","name":"КазнаЭксперт","url":"https://kaznaexpert.ru","logo":{"@type":"ImageObject","url":"https://kaznaexpert.ru/img/logogold.png"}},"image":"https://kaznaexpert.ru/img/og-image.png","mainEntityOfPage":{"@type":"WebPage","@id":"https://kaznaexpert.ru/baza-znaniy/ast-goz-elektronnaya-ploschadka/"}}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"АСТ ГОЗ: электронная площадка"}]}
@@ -550,6 +550,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <li><a href="#procedury">Виды закрытых процедур</a></li>
       <li><a href="#ploschadki">Система площадок</a></li>
       <li><a href="#oshibki">Частые заблуждения</a></li>
+      <li><a href="#problemy">Типичные проблемы и решения</a></li>
       <li><a href="#keys">Пример из практики</a></li>
       <li><a href="#glossary">Глоссарий</a></li>
       <li><a href="#faq">Частые вопросы</a></li>
@@ -562,7 +563,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · ГОЗ <span class="fresh">Актуально на 2026</span></div>
     <h1>АСТ ГОЗ: что это и как работает электронная площадка в 2026</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 10 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 2 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -707,6 +708,23 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <tr><td>«Достаточно обычной ЭП и интернета»</td><td>Нужны СКЗИ, аттестованное рабочее место, часто — допуск к гостайне</td></tr>
       <tr><td>«После победы расчёты идут как обычно»</td><td>Исполнение контракта ГОЗ подпадает под сопровождение</td></tr>
     </table>
+
+    <h2 id="problemy">Типичные проблемы при подключении — из практики</h2>
+    <div class="answer reveal">
+      <p>По опыту сопровождения контрактов гособоронзаказа большинство срывов на АСТ ГОЗ происходит не на торгах, а на этапе подготовки. Ниже — проблемы, с которыми поставщики сталкиваются чаще всего, и что с ними делать.</p>
+    </div>
+    <table>
+      <caption>Частые проблемы и решения</caption>
+      <tr><th>Проблема</th><th>В чём причина</th><th>Что делать</th></tr>
+      <tr><td>Аккредитация затягивается</td><td>Проверка заявителя оператором и неполный комплект документов</td><td>Подавать заявку заранее, не под конкретную процедуру; сверить комплект по регламенту оператора</td></tr>
+      <tr><td>Электронная подпись не проходит</td><td>Площадка требует квалифицированную подпись и совместимые СКЗИ</td><td>Выпустить подпись на руководителя, установить криптопровайдер по инструкции оператора</td></tr>
+      <tr><td>Рабочее место не соответствует</td><td>Закрытый контур работает только с защищённым АРМ</td><td>Заказать комплект защищённого рабочего места заблаговременно — поставка и настройка занимают время</td></tr>
+      <tr><td>Не видно закупку в личном кабинете</td><td>Закрытые процедуры доступны только приглашённым участникам</td><td>Убедиться, что заказчик направил приглашение; проверить раздел приглашений</td></tr>
+      <tr><td>Контракт выигран, а платежи не проходят</td><td>Исполнение контракта гособоронзаказа идёт через счёт с особым режимом</td><td>Открыть <a href="/baza-znaniy/otdelnyy-schet-po-goz/">отдельный счёт по гособоронзаказу</a> или <a href="/baza-znaniy/licevoy-schet-71-kak-otkryt/">лицевой счёт в казначействе</a>, указывать ИГК в каждой платёжке, вести <a href="/baza-znaniy/razdelnyy-uchet-po-goskontraktu/">раздельный учёт</a></td></tr>
+    </table>
+    <div class="answer reveal">
+      <p>Первые четыре пункта закрываются подготовкой за 3–4 недели до участия. Пятый — это уже казначейское сопровождение исполнения контракта: режим счёта, санкционирование каждой операции и отчётность, и здесь ошибки стоят дороже, чем на этапе торгов.</p>
+    </div>
 
     <h2 id="keys">Пример из практики</h2>
     <div class="answer reveal">

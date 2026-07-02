@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Целевые средства при казначейском сопровождении: что это, виды, режим и коды", "description": "Что такое целевые средства, какие средства относятся к целевым в 2026 году по ст. 5 Закона № 426-ФЗ, как они маркируются ИГК и кодами и в каком режиме расходуются с лицевого счёта 71.", "inLanguage": "ru-RU", "datePublished": "2026-06-14", "dateModified": "2026-06-25T10:00:00+03:00", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Целевые средства при казначейском сопровождении: что это, виды, режим и коды", "description": "Что такое целевые средства, какие средства относятся к целевым в 2026 году по ст. 5 Закона № 426-ФЗ, как они маркируются ИГК и кодами и в каком режиме расходуются с лицевого счёта 71.", "inLanguage": "ru-RU", "datePublished": "2026-06-14", "dateModified": "2026-07-02T10:00:00+03:00", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Целевые средства", "item": "https://kaznaexpert.ru/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/"}]}
@@ -549,6 +549,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <li><a href="#kooperaciya">Целевые средства в кооперации</a></li>
       <li><a href="#hranenie">Хранение остатка и проценты</a></li>
       <li><a href="#oshibki">Частые ошибки</a></li>
+      <li><a href="#otkazy">Частые отказы из практики</a></li>
       <li><a href="#keys">Пример из практики</a></li>
       <li><a href="#glossary">Глоссарий</a></li>
       <li><a href="#faq">Частые вопросы</a></li>
@@ -561,7 +562,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Операции <span class="fresh">Актуально на 2026</span></div>
     <h1>Целевые средства при казначейском сопровождении: что это, виды, режим и коды</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>17 мин чтения</span><span class="dot">·</span><span>Обновлено 14 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>17 мин чтения</span><span class="dot">·</span><span>Обновлено 2 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -714,6 +715,23 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <tr><td>Попытка вывести «прибыль» до приёмки</td><td>Отказ казначейства</td><td>Выводить заработок только после подтверждения исполнения</td></tr>
       <tr><td>Игнорирование годового закона о бюджете</td><td>Неверная оценка, попадает ли контракт под казначейское сопровождение</td><td>Сверять перечень со ст. 5 действующего закона (на 2026 — № 426-ФЗ)</td></tr>
     </table>
+
+    <h2 id="otkazy">Частые отказы при расходовании целевых средств — из практики</h2>
+    <div class="answer reveal">
+      <p>Территориальный орган казначейства проверяет каждый платёж за счёт целевых средств. Ниже — формулировки отказов, которые встречаются в практике чаще всего, и как их исправлять.</p>
+    </div>
+    <table>
+      <caption>Отказы и исправления</caption>
+      <tr><th>Формулировка отказа</th><th>Что не так</th><th>Как исправить</th></tr>
+      <tr><td>Не соответствует коду направления расходования</td><td>Код в платёжке не отвечает содержанию операции или Сведениям</td><td>Сверить код по приложению к приказу Минфина № 214н, при необходимости изменить Сведения об операциях</td></tr>
+      <tr><td>Отсутствует или неверен ИГК в назначении платежа</td><td>Идентификатор госконтракта не указан либо указан с ошибкой</td><td>Указывать ИГК в назначении платежа строго в установленном формате</td></tr>
+      <tr><td>Не представлены документы-основания</td><td>К платёжке не приложены контракт, накладная, акт или счёт</td><td>Прикладывать полный комплект подтверждающих документов к каждой операции</td></tr>
+      <tr><td>Операция не предусмотрена Сведениями</td><td>Направление расходов не заведено в Сведения об операциях с целевыми средствами</td><td>Дополнить Сведения, дождаться утверждения заказчиком, затем повторить платёж</td></tr>
+      <tr><td>Операция запрещена режимом счёта</td><td>Попытка провести платёж из перечня запретов: взнос в уставный капитал, депозит и т.п.</td><td>Такие операции за счёт целевых средств не проводятся — оплачивать за счёт собственных средств с расчётного счёта</td></tr>
+    </table>
+    <div class="answer reveal">
+      <p>Каждый отказ — это минимум день задержки платежа. Полный разбор всех десяти причин с чек-листом перед отправкой — в статье <a href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/">о причинах отказа казначейства в санкционировании</a>.</p>
+    </div>
 
     <h2 id="keys">Пример из практики</h2>
     <div class="answer reveal">

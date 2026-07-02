@@ -25,7 +25,7 @@
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"sankcionirovanie"};</script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Article","headline":"Причины отказа казначейства в санкционировании: 10 причин и как их избежать в 2026","description":"10 типичных причин отказа казначейства в санкционировании операций (ИГК, код направления расходования, документы, сведения об операциях) и чек-лист, как их избежать в 2026 году.","inLanguage":"ru-RU","datePublished":"2026-06-04","dateModified": "2026-06-25T10:00:00+03:00","author":{"@type":"Person","name":"Ярослав Михайлов","jobTitle":"Главный эксперт по казначейскому сопровождению","url":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/"},"publisher":{"@type":"Organization","name":"КазнаЭксперт","url":"https://kaznaexpert.ru","logo":{"@type":"ImageObject","url":"https://kaznaexpert.ru/img/logogold.png"}},"image":"https://kaznaexpert.ru/img/og-image.png","mainEntityOfPage":{"@type":"WebPage","@id":"https://kaznaexpert.ru/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"}}
+{"@context":"https://schema.org","@type":"Article","headline":"Причины отказа казначейства в санкционировании: 10 причин и как их избежать в 2026","description":"10 типичных причин отказа казначейства в санкционировании операций (ИГК, код направления расходования, документы, сведения об операциях) и чек-лист, как их избежать в 2026 году.","inLanguage":"ru-RU","datePublished":"2026-06-04","dateModified": "2026-07-02T10:00:00+03:00","author":{"@type":"Person","name":"Ярослав Михайлов","jobTitle":"Главный эксперт по казначейскому сопровождению","url":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/"},"publisher":{"@type":"Organization","name":"КазнаЭксперт","url":"https://kaznaexpert.ru","logo":{"@type":"ImageObject","url":"https://kaznaexpert.ru/img/logogold.png"}},"image":"https://kaznaexpert.ru/img/og-image.png","mainEntityOfPage":{"@type":"WebPage","@id":"https://kaznaexpert.ru/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"}}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Причины отказа казначейства в санкционировании"}]}
@@ -536,6 +536,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <li><a href="#svedeniya">Сведения об операциях</a></li>
       <li><a href="#chek-list">Чек-лист перед платежом</a></li>
       <li><a href="#chto-delat">Что делать при отказе</a></li>
+      <li><a href="#sroki">Сроки исправления</a></li>
       <li><a href="#keys">Пример из практики</a></li>
       <li><a href="#glossary">Глоссарий</a></li>
       <li><a href="#faq">Частые вопросы</a></li>
@@ -548,7 +549,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Санкционирование <span class="fresh">Актуально на 2026</span></div>
     <h1>Причины отказа казначейства в санкционировании: 10 причин и как их избежать в 2026</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 4 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 2 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -645,6 +646,23 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <h2 id="chto-delat">Что делать, если казначейство отказало</h2>
     <div class="answer reveal">
       <p>Отказ всегда сопровождается протоколом с указанием причины. Алгоритм действий простой: установить причину по протоколу, исправить конкретную ошибку (код, документ, реквизит, сведения), при необходимости обновить сведения об операциях и направить платёж повторно. Если отказы повторяются системно — это сигнал, что проблема не в отдельном платеже, а в настройке работы с казначейским счётом и раздельным учётом; в этом случае целесообразен аудит сопровождения. Подробно про раздельный учёт — в материале <a href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/">«Раздельный учёт по ГОЗ»</a>, а про режим в целом — в разборе <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/">«Казначейское сопровождение ГОЗ»</a>. Что такое казначейское сопровождение в целом и кому оно нужно — в базовом разборе <a href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/">«Казначейское сопровождение: что это и как работает»</a>.</p>
+    </div>
+
+    <h2 id="sroki">Сколько занимает исправление — ориентиры из практики</h2>
+    <div class="answer reveal">
+      <p>Отказ казначейства — не приговор, а возврат платёжки на доработку. Реальные сроки исправления зависят от причины: одни закрываются в тот же день, другие требуют согласования с заказчиком.</p>
+    </div>
+    <table>
+      <caption>Сроки исправления по типам отказов</caption>
+      <tr><th>Причина отказа</th><th>Что исправлять</th><th>Реалистичный срок</th></tr>
+      <tr><td>Ошибка в назначении платежа</td><td>Переоформить платёжное поручение</td><td>В тот же день</td></tr>
+      <tr><td>Неверный код направления расходования</td><td>Исправить код, сверить со Сведениями</td><td>1–2 рабочих дня</td></tr>
+      <tr><td>Сведения не соответствуют операции</td><td>Внести изменения в <a href="/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/">Сведения об операциях с целевыми средствами</a>, согласовать с заказчиком</td><td>От 2–3 дней до недели</td></tr>
+      <tr><td>Нет документов-оснований</td><td>Собрать и приложить комплект документов</td><td>1–3 рабочих дня</td></tr>
+      <tr><td>Отказ повторяется по одной операции</td><td>Письменный запрос в территориальный орган казначейства с разбором ситуации</td><td>Ответ — до 30 дней</td></tr>
+    </table>
+    <div class="answer reveal">
+      <p>Если платёж срочный — подрядчики ждут, а сроки контракта горят, — каждая итерация «отказ → исправление → повторная подача» съедает неделю. Дешевле проверить платёж до отправки, чем разбирать отказ после.</p>
     </div>
 
     <h2 id="keys">Пример из практики</h2>
