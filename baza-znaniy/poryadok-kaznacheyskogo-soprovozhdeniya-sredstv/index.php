@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"osnovy"};</script>
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Article","headline":"Порядок казначейского сопровождения средств в 2026: этапы и правила","description":"Порядок казначейского сопровождения: правовая база (гл. 24.4 БК РФ, ПП № 2024, приказ № 214н, ст. 5 ФЗ № 426-ФЗ), этапы, санкционирование, режим счёта, расширенное казначейское сопровождение и пороги 2026.","inLanguage":"ru-RU","datePublished":"2026-06-10","dateModified":"2026-06-10","author":{"@type":"Person","name":"Ярослав Михайлов","jobTitle":"Главный эксперт по казначейскому сопровождению","url":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/"},"publisher":{"@type":"Organization","name":"КазнаЭксперт","url":"https://kaznaexpert.ru","logo":{"@type":"ImageObject","url":"https://kaznaexpert.ru/img/logogold.png"}},"image":"https://kaznaexpert.ru/img/og-image.png","mainEntityOfPage":{"@type":"WebPage","@id":"https://kaznaexpert.ru/baza-znaniy/poryadok-kaznacheyskogo-soprovozhdeniya-sredstv/"}}
+{"@context":"https://schema.org","@type":"Article","headline":"Порядок казначейского сопровождения средств в 2026: этапы и правила","description":"Порядок казначейского сопровождения: правовая база (гл. 24.4 БК РФ, ПП № 2024, приказ № 214н, ст. 5 ФЗ № 426-ФЗ), этапы, санкционирование, режим счёта, расширенное казначейское сопровождение и пороги 2026.","inLanguage":"ru-RU","datePublished":"2026-06-10","dateModified":"2026-07-02","author":{"@type":"Person","name":"Ярослав Михайлов","jobTitle":"Главный эксперт по казначейскому сопровождению","url":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/"},"publisher":{"@type":"Organization","name":"КазнаЭксперт","url":"https://kaznaexpert.ru","logo":{"@type":"ImageObject","url":"https://kaznaexpert.ru/img/logogold.png"}},"image":"https://kaznaexpert.ru/img/og-image.png","mainEntityOfPage":{"@type":"WebPage","@id":"https://kaznaexpert.ru/baza-znaniy/poryadok-kaznacheyskogo-soprovozhdeniya-sredstv/"}}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Порядок казначейского сопровождения средств"}]}
@@ -549,6 +549,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <li><a href="#poshagovo">Пошаговый чек-лист</a></li>
       <li><a href="#izmeneniya">Что изменилось к 2026</a></li>
       <li><a href="#oshibki">Частые ошибки</a></li>
+      <li><a href="#marshrut">Маршрут и задержки</a></li>
       <li><a href="#keys">Пример из практики</a></li>
       <li><a href="#glossary">Глоссарий</a></li>
       <li><a href="#faq">Частые вопросы</a></li>
@@ -561,7 +562,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Основы <span class="fresh">Актуально на 2026</span></div>
     <h1>Порядок казначейского сопровождения средств в 2026: этапы, правила, актуальная редакция</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 10 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 2 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -734,6 +735,23 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <tr><td>Расход не соответствует целям</td><td>Сверять каждый платёж с контрактом и документами</td></tr>
       <tr><td>Не настроен раздельный учёт</td><td>Закрепить аналитику по контракту до первых операций</td></tr>
     </table>
+
+    <h2 id="marshrut">Маршрут исполнителя: где теряют время — из практики</h2>
+    <div class="answer reveal">
+      <p>Формальный порядок казначейского сопровождения описан в правилах, но время теряется в конкретных точках маршрута. Пять этапов и типичные задержки на каждом.</p>
+    </div>
+    <table>
+      <caption>Этапы и задержки</caption>
+      <tr><th>Этап</th><th>Типичная задержка</th><th>Как ускорить</th></tr>
+      <tr><td>Открытие лицевого счёта</td><td>Возврат документов из-за неполного комплекта</td><td>Сверить комплект по <a href="/baza-znaniy/licevoy-schet-71-kak-otkryt/">инструкции об открытии счёта</a> до подачи</td></tr>
+      <tr><td>Сведения об операциях</td><td>Согласование с заказчиком затягивается</td><td>Направлять проект Сведений сразу после подписания контракта</td></tr>
+      <tr><td>Первый платёж</td><td>Серия отказов на «обкатке» назначений платежа</td><td>Прогнать первую платёжку по регламенту самопроверки до отправки</td></tr>
+      <tr><td>Исполнение</td><td>Дополнение Сведений под новые расходы</td><td>Планировать направления расходов на шаг вперёд, не заводить по одному</td></tr>
+      <tr><td>Закрытие контракта</td><td>Остатки и отчётность в конце срока</td><td>Сверять остатки по кодам заранее, не в последнюю неделю</td></tr>
+    </table>
+    <div class="answer reveal">
+      <p>Каждый пункт маршрута разобран в профильных статьях: <a href="/baza-znaniy/poryadok-sankcionirovaniya-rashodov/">санкционирование</a>, <a href="/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/">целевые средства</a>, <a href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/">причины отказов</a>.</p>
+    </div>
 
     <h2 id="keys">Пример из практики</h2>
     <div class="answer reveal">

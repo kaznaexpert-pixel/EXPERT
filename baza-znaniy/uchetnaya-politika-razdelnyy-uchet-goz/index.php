@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"uchet"};</script>
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Article","headline":"Учётная политика по раздельному учёту ГОЗ в 2026: что закрепить, структура, образец","description":"Учётная политика по раздельному учёту ГОЗ: зачем нужна, правовая база (275-ФЗ, ПП № 47, приказ Минфина № 210н, 402-ФЗ), что закрепить, структура документа и распределение косвенных расходов.","inLanguage":"ru-RU","datePublished":"2026-06-09","dateModified":"2026-06-09","author":{"@type":"Person","name":"Ярослав Михайлов","jobTitle":"Главный эксперт по казначейскому сопровождению","url":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/"},"publisher":{"@type":"Organization","name":"КазнаЭксперт","url":"https://kaznaexpert.ru","logo":{"@type":"ImageObject","url":"https://kaznaexpert.ru/img/logogold.png"}},"image":"https://kaznaexpert.ru/img/og-image.png","mainEntityOfPage":{"@type":"WebPage","@id":"https://kaznaexpert.ru/baza-znaniy/uchetnaya-politika-razdelnyy-uchet-goz/"}}
+{"@context":"https://schema.org","@type":"Article","headline":"Учётная политика по раздельному учёту ГОЗ в 2026: что закрепить, структура, образец","description":"Учётная политика по раздельному учёту ГОЗ: зачем нужна, правовая база (275-ФЗ, ПП № 47, приказ Минфина № 210н, 402-ФЗ), что закрепить, структура документа и распределение косвенных расходов.","inLanguage":"ru-RU","datePublished":"2026-06-09","dateModified":"2026-07-02","author":{"@type":"Person","name":"Ярослав Михайлов","jobTitle":"Главный эксперт по казначейскому сопровождению","url":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/"},"publisher":{"@type":"Organization","name":"КазнаЭксперт","url":"https://kaznaexpert.ru","logo":{"@type":"ImageObject","url":"https://kaznaexpert.ru/img/logogold.png"}},"image":"https://kaznaexpert.ru/img/og-image.png","mainEntityOfPage":{"@type":"WebPage","@id":"https://kaznaexpert.ru/baza-znaniy/uchetnaya-politika-razdelnyy-uchet-goz/"}}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Учётная политика по раздельному учёту ГОЗ"}]}
@@ -547,6 +547,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <li><a href="#struktura">Структура документа</a></li>
       <li><a href="#raspredelenie">Распределение косвенных</a></li>
       <li><a href="#oshibki">Частые ошибки</a></li>
+      <li><a href="#formulirovki">Формулировки для проверки</a></li>
       <li><a href="#keys">Пример из практики</a></li>
       <li><a href="#glossary">Глоссарий</a></li>
       <li><a href="#faq">Частые вопросы</a></li>
@@ -559,7 +560,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Учёт <span class="fresh">Актуально на 2026</span></div>
     <h1>Учётная политика по раздельному учёту ГОЗ в 2026: что закрепить, структура, образец</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 9 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 2 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -677,6 +678,23 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <tr><td>Нет аналитики по контрактам (ИГК)</td><td>Ввести субсчета и признак контракта</td></tr>
       <tr><td>Политику не обновляют</td><td>Актуализировать при новых контрактах и изменениях</td></tr>
     </table>
+
+    <h2 id="formulirovki">Какие формулировки снимают вопросы проверяющих — из практики</h2>
+    <div class="answer reveal">
+      <p>Проверяющий оценивает не факт наличия учётной политики, а конкретику: можно ли по её тексту воспроизвести учёт. Пять разделов, которые должны быть прописаны предметно.</p>
+    </div>
+    <table>
+      <caption>Разделы учётной политики по раздельному учёту</caption>
+      <tr><th>Раздел</th><th>Что закрепить</th><th>Ошибка, которую находят</th></tr>
+      <tr><td>Перечень прямых затрат</td><td>Какие статьи относятся на контракт напрямую: материалы, зарплата исполнителей, услуги соисполнителей</td><td>Перечень «открытый» — прямые и косвенные затраты смешиваются от месяца к месяцу</td></tr>
+      <tr><td>База распределения накладных</td><td>Конкретная база (зарплата основного персонала, прямые затраты) и периодичность распределения</td><td>Указано «пропорционально обоснованной базе» без самой базы</td></tr>
+      <tr><td>Регистры раздельного учёта</td><td>Формы регистров, периодичность заполнения, ответственный</td><td>Регистры упомянуты, но формы не утверждены — каждый отчёт собирается заново</td></tr>
+      <tr><td>Незавершённое производство</td><td>Порядок оценки остатков по контракту на отчётную дату</td><td>Незавершёнка по всем заказам оценивается котлом</td></tr>
+      <tr><td>Ответственный</td><td>Должность, на которую возложено ведение раздельного учёта</td><td>Обязанность ни за кем не закреплена — спросить не с кого</td></tr>
+    </table>
+    <div class="answer reveal">
+      <p>Как устроен сам раздельный учёт и что именно проверяют — в статьях о <a href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/">раздельном учёте по 275-ФЗ</a> и <a href="/baza-znaniy/razdelnyy-uchet-po-goskontraktu/">раздельном учёте по госконтракту</a>. Если период уже упущен — <a href="/uslugi/vosstanovlenie-razdelnogo-ucheta/">восстановление раздельного учёта</a>.</p>
+    </div>
 
     <h2 id="keys">Пример из практики</h2>
     <div class="answer reveal">

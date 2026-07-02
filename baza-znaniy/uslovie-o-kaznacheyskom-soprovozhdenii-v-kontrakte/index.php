@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Условие о казначейском сопровождении в контракте: формулировка и образец", "description": "Когда условие о казначейском сопровождении обязательно в контракте по 44-ФЗ, какие положения должны быть в тексте (лицевой счёт, идентификатор, санкционирование, отчётность) и образец формулировки.", "inLanguage": "ru-RU", "datePublished": "2026-06-15", "dateModified": "2026-06-15", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Условие о казначейском сопровождении в контракте: формулировка и образец", "description": "Когда условие о казначейском сопровождении обязательно в контракте по 44-ФЗ, какие положения должны быть в тексте (лицевой счёт, идентификатор, санкционирование, отчётность) и образец формулировки.", "inLanguage": "ru-RU", "datePublished": "2026-06-15", "dateModified": "2026-07-02", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Условие о казначейском сопровождении в контракте", "item": "https://kaznaexpert.ru/baza-znaniy/uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte/"}]}
@@ -559,6 +559,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <li><a href="#cheklist">Чек-лист: что проверить в условии</a></li>
       <li><a href="#otvetstvennost">Условие о сопровождении и режим расходования</a></li>
       <li><a href="#oshibki">Частые ошибки</a></li>
+      <li><a href="#formulirovki">Разбор формулировок</a></li>
       <li><a href="#keys">Пример из практики</a></li>
       <li><a href="#glossary">Глоссарий</a></li>
       <li><a href="#faq">Частые вопросы</a></li>
@@ -571,7 +572,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Сопровождение <span class="fresh">Актуально на 2026</span></div>
     <h1>Условие о казначейском сопровождении в контракте: формулировка и образец</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 15 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 2 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -734,6 +735,23 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <p>Условие о казначейском сопровождении не заканчивается на открытии счёта — оно задаёт режим, в котором исполнитель тратит деньги до самого завершения контракта. Поэтому читать его нужно не как формальность при подписании, а как описание правил работы с целевыми средствами на весь срок исполнения.</p>
     <p>Главное ограничение режима — целевой характер расходов: с лицевого счёта можно платить только на цели контракта и только после санкционирования. Деньги нельзя свободно вывести на расчётный счёт и распорядиться ими по своему усмотрению; запрет перечисления на обычные расчётные счета — базовое правило, скорректированное на 2026 год переходными нормами. Нарушение целевого назначения средств влечёт ответственность вплоть до административной по статье 15.14 КоАП РФ, а также возврат средств. Именно поэтому условие о сопровождении обычно прямо отсылает к режиму целевых средств и к обязанности вести <a href="/baza-znaniy/svedeniya-ob-operaciyah-s-celevymi-sredstvami/">сведения об операциях</a>.</p>
     <p>Для исполнителя практический смысл такой: подписывая контракт с условием о сопровождении, он соглашается работать в контуре, где каждый платёж обоснован и проверяем. Это требует дисциплины в документах, но взамен снимает споры о целевом расходовании, если всё проведено корректно. Понимание режима до подписания помогает заранее спланировать расходы и не столкнуться с отказом в санкционировании уже в ходе исполнения.</p>
+
+    <h2 id="formulirovki">Формулировки из реальных контрактов — что они означают на деле</h2>
+    <div class="answer reveal">
+      <p>Одно и то же условие о казначейском сопровождении формулируется в контрактах по-разному, и от редакции зависит объём обязанностей исполнителя.</p>
+    </div>
+    <table>
+      <caption>Разбор типовых редакций</caption>
+      <tr><th>Формулировка в контракте</th><th>Что означает на деле</th><th>На что смотреть</th></tr>
+      <tr><td>«Расчёты по контракту подлежат казначейскому сопровождению»</td><td>Все средства контракта идут через лицевой счёт</td><td>Где открывается счёт и в какой срок после подписания</td></tr>
+      <tr><td>«Казначейскому сопровождению подлежит аванс»</td><td>Режим распространяется только на аванс, постоплата — на расчётный счёт</td><td>Порядок подтверждения отработки аванса и его зачёта</td></tr>
+      <tr><td>«Расширенное казначейское сопровождение»</td><td>Дополнительно: проверка факта поставки, фотофиксация, допконтроль</td><td>Трудозатраты на подтверждение каждого этапа — <a href="/baza-znaniy/normativnaya-baza/bk-242-24-rasshirennoe/">статья 242.24 БК РФ</a></td></tr>
+      <tr><td>«Исполнитель обязан включить условие в договоры соисполнителей»</td><td>Трансляция режима вниз по кооперации</td><td>Соисполнители должны открыть счета до первых расчётов</td></tr>
+      <tr><td>Условия нет, но контракт попадает под критерии закона</td><td>Режим действует в силу закона о бюджете и норм БК РФ</td><td>Инициировать дополнительное соглашение, не дожидаясь блокировки расчётов</td></tr>
+    </table>
+    <div class="answer reveal">
+      <p>Как выглядит работа по такому контракту от подписания до оплаты — в разборе <a href="/baza-znaniy/kaznacheyskiy-kontrakt/">казначейского контракта</a>.</p>
+    </div>
 
     <h2 id="keys">Пример из практики</h2>
     <div class="answer reveal">
