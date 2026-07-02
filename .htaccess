@@ -31,6 +31,8 @@ RewriteRule ^blog/article_02\.html$ /baza-znaniy/poryadok-kaznacheyskogo-soprovo
 # --- Удалённые страницы экспертов → /komanda/ (301) ---
 RewriteRule ^komanda/(anton|elena|natalya|stella|yuliya|anna)/?$ /komanda/mihailov-yaroslav/ [R=301,L]
 RewriteRule ^komanda/?$ /komanda/mihailov-yaroslav/ [R=301,L]
+# --- Дубль статьи об авансе → каноническая (301, склейка МПК 02.07.2026) ---
+RewriteRule ^baza-znaniy/kaznacheyskoe-soprovozhdenie-avansovyh-platezhey/?$ /baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/ [R=301,L]
 
 # --- 4. Защитные паттерны: убираем index.php из URL ---
 # Когда пользователь вбивает kaznaexpert.ru/index.php — редирект на /

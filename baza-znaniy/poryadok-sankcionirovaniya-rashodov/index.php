@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"article", cluster:"sankcionirovanie"};</script>
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Article","headline":"Санкционирование расходов при казначейском сопровождении","description":"Что такое санкционирование расходов: как ТОФК проверяет операции, правовая основа (ст. 242.23 БК РФ), сведения об операциях, основания отказа, сроки и расширенное санкционирование.","datePublished":"2026-06-05T10:00:00+03:00","dateModified":"2026-06-05T10:00:00+03:00","inLanguage":"ru-RU","author":{"@type":"Person","name":"Ярослав Михайлов","jobTitle":"Главный эксперт","url":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/"},"publisher":{"@type":"Organization","name":"КазнаЭксперт","logo":{"@type":"ImageObject","url":"https://kaznaexpert.ru/img/logogold.png"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://kaznaexpert.ru/baza-znaniy/poryadok-sankcionirovaniya-rashodov/"},"image":"https://kaznaexpert.ru/img/og-image.png"}
+{"@context":"https://schema.org","@type":"Article","headline":"Санкционирование расходов при казначейском сопровождении","description":"Что такое санкционирование расходов: как ТОФК проверяет операции, правовая основа (ст. 242.23 БК РФ), сведения об операциях, основания отказа, сроки и расширенное санкционирование.","datePublished":"2026-06-05T10:00:00+03:00","dateModified":"2026-07-02T10:00:00+03:00","inLanguage":"ru-RU","author":{"@type":"Person","name":"Ярослав Михайлов","jobTitle":"Главный эксперт","url":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/"},"publisher":{"@type":"Organization","name":"КазнаЭксперт","logo":{"@type":"ImageObject","url":"https://kaznaexpert.ru/img/logogold.png"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://kaznaexpert.ru/baza-znaniy/poryadok-sankcionirovaniya-rashodov/"},"image":"https://kaznaexpert.ru/img/og-image.png"}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Санкционирование расходов"}]}
@@ -535,6 +535,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <li><a href="#sroki">Сроки</a></li>
       <li><a href="#rasshirennoe">Расширенное санкционирование</a></li>
       <li><a href="#bez-otkazov">Как пройти без отказов</a></li>
+      <li><a href="#samoproverka">Регламент самопроверки</a></li>
       <li><a href="#keys">Пример из практики</a></li>
       <li><a href="#faq">Частые вопросы</a></li>
     </ul>
@@ -546,7 +547,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Санкционирование <span class="fresh">Актуально на 2026</span></div>
     <h1>Санкционирование расходов при казначейском сопровождении</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 5 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 2 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -673,6 +674,22 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       </ul>
     </div>
 
+    <h2 id="samoproverka">Регламент самопроверки перед отправкой — из практики</h2>
+    <div class="answer reveal">
+      <p>Большинство отказов снимается прогоном платёжного пакета по четырём уровням до отправки. Регламент занимает 10–15 минут и экономит дни.</p>
+    </div>
+    <table>
+      <caption>Четыре уровня самопроверки</caption>
+      <tr><th>Уровень</th><th>Что проверить</th><th>Типичная ошибка</th></tr>
+      <tr><td>1. Платёжное поручение</td><td>ИГК в назначении платежа, код направления расходования, формулировка по правилам</td><td>Код не соответствует содержанию операции</td></tr>
+      <tr><td>2. Документы-основания</td><td>Контракт, накладные, акты приложены и соответствуют сумме</td><td>Сумма платёжки больше, чем закрыто документами</td></tr>
+      <tr><td>3. Сведения об операциях</td><td>Направление расходов заведено, остатка по коду достаточно</td><td>Операция не предусмотрена утверждённой редакцией Сведений</td></tr>
+      <tr><td>4. Режим счёта</td><td>Операция не входит в перечень запрещённых</td><td>Перечисление на депозит или взнос в уставный капитал</td></tr>
+    </table>
+    <div class="answer reveal">
+      <p>Если отказ уже получен — формулировки, сроки исправления и порядок повторной подачи разобраны в статье <a href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/">о причинах отказа казначейства</a>.</p>
+    </div>
+
     <h2 id="keys">Пример из практики</h2>
     <div class="answer reveal">
       <p>Ситуация типовая, детали обобщены. У подрядчика по 44-ФЗ платежи субподрядчикам зависали: казначейство дважды вернуло распоряжения — сначала из-за назначения платежа, в котором не читалась связь с контрактом, затем из-за кода расхода, не соответствующего операции.</p>
@@ -692,7 +709,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Можно ли ускорить санкционирование?</summary><p>Скорость зависит от качества документов. Корректные сведения, понятное назначение, верные коды и полный комплект оснований позволяют проходить санкционирование с первой подачи — этим и занимается сопровождение.</p></details>
     </div>
 
-    <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-avansovyh-platezhey">Особенности санкционирования предоплаты разобраны отдельно — см. <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-avansovyh-platezhey/">казначейское сопровождение авансовых платежей</a>.</p>
+    <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-avansovyh-platezhey">Особенности санкционирования предоплаты разобраны отдельно — см. <a href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/">казначейское сопровождение авансовых платежей</a>.</p>
     <p data-ctx="auto-ctx:ufk-zaderzhivaet-platezh">Нормативные сроки санкционирования по приказу 214н и порядок действий, если <a href="/baza-znaniy/ufk-zaderzhivaet-platezh/">платёж застрял в казначействе</a>, разобраны отдельно.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
@@ -752,7 +769,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/"><div class="card__cover"><span>казначейское сопровождение ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение ГОЗ по 275-ФЗ</h3><div class="card__meta">Гособоронзаказ · 17 мин</div></div></a>
     <a class="card reveal" href="/uslugi/soprovozhdenie-postoplata/"><div class="card__cover"><span>Под ключ</span></div><div class="card__body"><span class="card__cat">Услуга</span><h3 class="card__title">Сопровождение постоплаты без возвратов</h3><div class="card__meta">Услуга · от 59 000 ₽</div></div></a>
     <!-- auto-related:poryadok-kaznacheyskogo-soprovozhdeniya-sredstv --><a class="card reveal" href="/baza-znaniy/poryadok-kaznacheyskogo-soprovozhdeniya-sredstv/"><div class="card__cover"><span>Порядок казначейского сопровождения</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Порядок казначейского сопровождения средств</h3><div class="card__meta">Основы · 16 мин</div></div></a>
-    <!-- auto-related:kaznacheyskoe-soprovozhdenie-avansovyh-platezhey --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-avansovyh-platezhey/"><div class="card__cover"><span>Авансы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение авансовых платежей</h3><div class="card__meta">казначейское сопровождение · 16 мин</div></div></a>
+    <!-- auto-related:kaznacheyskoe-soprovozhdenie-avansovyh-platezhey --><a class="card reveal" href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Авансы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение авансовых платежей</h3><div class="card__meta">казначейское сопровождение · 16 мин</div></div></a>
     <!-- auto-related:ufk-zaderzhivaet-platezh --><a class="card reveal" href="/baza-znaniy/ufk-zaderzhivaet-platezh/"><div class="card__cover"><span>Задержка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">УФК задерживает платёж: причины, сроки и что делать</h3><div class="card__meta">Операции · 15 мин</div></div></a>
   </div>
 </section>

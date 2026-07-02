@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"subsidii"};</script>
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Article","headline":"Казначейское сопровождение субсидий в 2026: какие субсидии, счёт, порядок","description":"Казначейское сопровождение субсидий юрлицам в 2026: какие субсидии попадают (ст. 5 № 426-ФЗ), правовая база (гл. 24.4 БК РФ), лицевой счёт в ТОФК, санкционирование расходов и порядок для получателя.","inLanguage":"ru-RU","datePublished":"2026-06-09","dateModified":"2026-06-09","author":{"@type":"Person","name":"Ярослав Михайлов","jobTitle":"Главный эксперт по казначейскому сопровождению","url":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/"},"publisher":{"@type":"Organization","name":"КазнаЭксперт","url":"https://kaznaexpert.ru","logo":{"@type":"ImageObject","url":"https://kaznaexpert.ru/img/logogold.png"}},"image":"https://kaznaexpert.ru/img/og-image.png","mainEntityOfPage":{"@type":"WebPage","@id":"https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-subsidiy/"}}
+{"@context":"https://schema.org","@type":"Article","headline":"Казначейское сопровождение субсидий в 2026: какие субсидии, счёт, порядок","description":"Казначейское сопровождение субсидий юрлицам в 2026: какие субсидии попадают (ст. 5 № 426-ФЗ), правовая база (гл. 24.4 БК РФ), лицевой счёт в ТОФК, санкционирование расходов и порядок для получателя.","inLanguage":"ru-RU","datePublished":"2026-06-09","dateModified":"2026-07-02","author":{"@type":"Person","name":"Ярослав Михайлов","jobTitle":"Главный эксперт по казначейскому сопровождению","url":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/"},"publisher":{"@type":"Organization","name":"КазнаЭксперт","url":"https://kaznaexpert.ru","logo":{"@type":"ImageObject","url":"https://kaznaexpert.ru/img/logogold.png"}},"image":"https://kaznaexpert.ru/img/og-image.png","mainEntityOfPage":{"@type":"WebPage","@id":"https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-subsidiy/"}}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Казначейское сопровождение субсидий"}]}
@@ -546,6 +546,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <li><a href="#poryadok">Порядок для получателя</a></li>
       <li><a href="#otlichie">Отличие от обычной субсидии</a></li>
       <li><a href="#oshibki">Частые ошибки</a></li>
+      <li><a href="#otkazy">Частые отказы из практики</a></li>
       <li><a href="#keys">Пример из практики</a></li>
       <li><a href="#glossary">Глоссарий</a></li>
       <li><a href="#faq">Частые вопросы</a></li>
@@ -558,7 +559,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Субсидии <span class="fresh">Актуально на 2026</span></div>
     <h1>Казначейское сопровождение субсидий в 2026: какие субсидии, счёт, порядок</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 9 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 2 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -667,6 +668,23 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <tr><td>Попытка вывести средства на обычный счёт</td><td>Расходовать строго через лицевой счёт и санкционирование</td></tr>
       <tr><td>Игнор условия о сопровождении</td><td>Проверять условие в соглашении заранее</td></tr>
     </table>
+
+    <h2 id="otkazy">Частые отказы получателям субсидий — из практики</h2>
+    <div class="answer reveal">
+      <p>Субсидия зачислена на лицевой счёт, а платежи не проходят — самая частая жалоба получателей. Ниже — ситуации, из-за которых казначейство отказывает чаще всего.</p>
+    </div>
+    <table>
+      <caption>Отказы по субсидиям и исправления</caption>
+      <tr><th>Ситуация</th><th>Почему отказ</th><th>Что делать</th></tr>
+      <tr><td>Платёж контрагенту, которого нет в Сведениях</td><td>Операция не предусмотрена Сведениями об операциях с целевыми средствами</td><td>Дополнить Сведения, согласовать с распорядителем, затем повторить платёж</td></tr>
+      <tr><td>Возмещение собственных расходов без документов</td><td>Перечисление на свой расчётный счёт допускается только под фактически произведённые расходы</td><td>Собрать первичку — платёжные поручения, накладные, акты — и заявить возмещение с полным комплектом</td></tr>
+      <tr><td>Расход не предусмотрен соглашением о субсидии</td><td>Казначейство сверяет платёж с направлениями расходов соглашения</td><td>Внести изменения в соглашение до платежа, а не после</td></tr>
+      <tr><td>Аванс поставщику сверх условий</td><td>Авансирование ограничено соглашением и общими правилами казначейского сопровождения</td><td>Сверить размер аванса с соглашением; сверхлимитную часть оплачивать после поставки</td></tr>
+      <tr><td>Общехозяйственные нужды с лицевого счёта</td><td>Целевые средства расходуются только на цели субсидии</td><td>Такие расходы вести с расчётного счёта; возмещать за счёт субсидии — только если это предусмотрено</td></tr>
+    </table>
+    <div class="answer reveal">
+      <p>Механика отказов одинакова для всех участников казначейского сопровождения — полный разбор с чек-листом в статьях <a href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/">о причинах отказа в санкционировании</a> и <a href="/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/">о режиме целевых средств</a>.</p>
+    </div>
 
     <h2 id="keys">Пример из практики</h2>
     <div class="answer reveal">

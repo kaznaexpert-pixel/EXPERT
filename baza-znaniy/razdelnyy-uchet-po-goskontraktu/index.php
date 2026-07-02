@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"uchet"};</script>
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Article","headline":"Раздельный учёт по госконтракту в 2026: когда вести, как организовать, штрафы","description":"Раздельный учёт по госконтракту при казначейском сопровождении: когда обязателен, как организовать аналитику и учётную политику, что проверяет казначейство и штраф по статье 15.37.1 КоАП РФ (до 500 000 ₽).","inLanguage":"ru-RU","datePublished":"2026-06-08","dateModified":"2026-06-08","author":{"@type":"Person","name":"Ярослав Михайлов","jobTitle":"Главный эксперт по казначейскому сопровождению","url":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/"},"publisher":{"@type":"Organization","name":"КазнаЭксперт","url":"https://kaznaexpert.ru","logo":{"@type":"ImageObject","url":"https://kaznaexpert.ru/img/logogold.png"}},"image":"https://kaznaexpert.ru/img/og-image.png","mainEntityOfPage":{"@type":"WebPage","@id":"https://kaznaexpert.ru/baza-znaniy/razdelnyy-uchet-po-goskontraktu/"}}
+{"@context":"https://schema.org","@type":"Article","headline":"Раздельный учёт по госконтракту в 2026: когда вести, как организовать, штрафы","description":"Раздельный учёт по госконтракту при казначейском сопровождении: когда обязателен, как организовать аналитику и учётную политику, что проверяет казначейство и штраф по статье 15.37.1 КоАП РФ (до 500 000 ₽).","inLanguage":"ru-RU","datePublished":"2026-06-08","dateModified":"2026-07-02","author":{"@type":"Person","name":"Ярослав Михайлов","jobTitle":"Главный эксперт по казначейскому сопровождению","url":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/"},"publisher":{"@type":"Organization","name":"КазнаЭксперт","url":"https://kaznaexpert.ru","logo":{"@type":"ImageObject","url":"https://kaznaexpert.ru/img/logogold.png"}},"image":"https://kaznaexpert.ru/img/og-image.png","mainEntityOfPage":{"@type":"WebPage","@id":"https://kaznaexpert.ru/baza-znaniy/razdelnyy-uchet-po-goskontraktu/"}}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Раздельный учёт по госконтракту"}]}
@@ -545,6 +545,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <li><a href="#proverka">Что проверяет казначейство</a></li>
       <li><a href="#shtraf">Штраф по КоАП 15.37.1</a></li>
       <li><a href="#oshibki">Частые ошибки</a></li>
+      <li><a href="#narusheniya">Что находят проверки</a></li>
       <li><a href="#keys">Пример из практики</a></li>
       <li><a href="#glossary">Глоссарий</a></li>
       <li><a href="#faq">Частые вопросы</a></li>
@@ -557,7 +558,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Учёт <span class="fresh">Актуально на 2026</span></div>
     <h1>Раздельный учёт по госконтракту в 2026: когда вести, как организовать, штрафы</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>17 мин чтения</span><span class="dot">·</span><span>Обновлено 8 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>17 мин чтения</span><span class="dot">·</span><span>Обновлено 2 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -686,6 +687,23 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <tr><td>Затраты не подтверждены документами</td><td>Хранить первичку по каждой статье затрат контракта</td></tr>
       <tr><td>Учёт «задним числом» к проверке</td><td>Вести раздельный учёт с первого дня исполнения контракта</td></tr>
     </table>
+
+    <h2 id="narusheniya">Что находят проверки чаще всего — из практики</h2>
+    <div class="answer reveal">
+      <p>Раздельный учёт редко отсутствует полностью — обычно он «есть, но не выдерживает проверку». Ниже — типовые претензии проверяющих и как закрыть каждую.</p>
+    </div>
+    <table>
+      <caption>Типовые нарушения раздельного учёта</caption>
+      <tr><th>Нарушение</th><th>Как выглядит</th><th>Как закрыть</th></tr>
+      <tr><td>В учётной политике нет раздела о раздельном учёте</td><td>Методика нигде не закреплена — проверяющему нечего предъявить</td><td>Дополнить учётную политику: перечень статей затрат, база распределения, формы регистров — <a href="/baza-znaniy/uchetnaya-politika-razdelnyy-uchet-goz/">разбор с формулировками</a></td></tr>
+      <tr><td>Накладные расходы не распределяются</td><td>Косвенные затраты висят общей суммой, к контракту не привязаны</td><td>Закрепить базу распределения и применять её каждый месяц, а не в конце контракта</td></tr>
+      <tr><td>Первичка без привязки к контракту</td><td>В накладных и актах нет ИГК или номера контракта</td><td>Указывать идентификатор в первичных документах и в аналитике учёта</td></tr>
+      <tr><td>Учёт восстановлен задним числом</td><td>Регистры за весь период собраны накануне отчёта</td><td>Вести помесячно; если период уже упущен — <a href="/uslugi/vosstanovlenie-razdelnogo-ucheta/">восстановление раздельного учёта</a> как отдельная процедура</td></tr>
+      <tr><td>Ресурсы контракта смешаны с прочей деятельностью</td><td>Одни материалы и специалисты на всех заказах без разделения</td><td>Позаказная аналитика: отдельные субсчета и аналитики по каждому контракту</td></tr>
+    </table>
+    <div class="answer reveal">
+      <p>Ответственность за неведение раздельного учёта разобрана выше, в разделе о штрафах. Практическое правило: регистры должны собираться из текущего учёта нажатием кнопки, а не строиться вручную перед проверкой.</p>
+    </div>
 
     <h2 id="keys">Пример из практики</h2>
     <div class="answer reveal">
