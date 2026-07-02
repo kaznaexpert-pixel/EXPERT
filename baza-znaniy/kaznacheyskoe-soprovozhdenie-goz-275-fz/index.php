@@ -84,7 +84,7 @@
   "description":"Кто обязан, порог, отдельный и лицевой счёт, раздельный учёт, расширенное казначейское сопровождение, штрафы, отличие от банковского сопровождения.",
   "author":{"@type":"Person","@id":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person","name":"Ярослав Михайлов","jobTitle":"Главный эксперт по казначейскому сопровождению","worksFor":{"@id":"https://kaznaexpert.ru/#organization"}},
   "publisher":{"@type":"ProfessionalService","@id":"https://kaznaexpert.ru/#organization","name":"КазнаЭксперт"},
-  "datePublished":"2026-06-03","dateModified": "2026-06-26T12:00:00+03:00",
+  "datePublished":"2026-06-03","dateModified": "2026-06-26T14:00:00+03:00",
   "mainEntityOfPage":"https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/",
   "about":["казначейское сопровождение ГОЗ","275-ФЗ","раздельный учёт гособоронзаказа","отдельный счёт ГОЗ","расширенное казначейское сопровождение"],
   "citation":["ФЗ № 275-ФЗ от 29.12.2012","ФЗ № 426-ФЗ от 28.11.2025, ст. 5","БК РФ, ст. 242.23–242.27","ФЗ № 406-ФЗ от 04.11.2025","ст. 15.37.1, 15.49 КоАП РФ (введены ФЗ № 506-ФЗ от 28.12.2025)"],
@@ -718,7 +718,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <h2 id="pribyl-goz">Калькулятор допустимой прибыли по ГОЗ (ПП 1465)</h2>
     <div class="answer reveal">
-      <p>При затратном методе цена по гособоронзаказу ограничена правилом «1 % + 20 %» (п. 54 Постановления Правительства РФ № 1465): плановая прибыль — не более 1 % привнесённых затрат (покупные комплектующие, работы и услуги сторонних организаций) плюс не более 20 % собственных затрат, но не менее 10 % собственных. При обосновании направления прибыли на развитие производства — до 25–30 % собственных. Калькулятор даёт ориентир; точный расчёт оформляется в РКМ и согласуется с госзаказчиком.</p>
+      <p>При затратном методе цена по гособоронзаказу ограничена правилом «1 % + 20 %» (п. 54 Постановления Правительства РФ № 1465): плановая прибыль — не более 1 % привнесённых затрат (покупные комплектующие, работы и услуги сторонних организаций) плюс не более 20 % собственных затрат, но не менее 10 % собственных. При обосновании направления прибыли на развитие производства — до 25–30 % собственных. Потолок 25 % действует с 23.05.2022 (ранее было 20 %). Калькулятор даёт ориентир; точный расчёт оформляется в РКМ и согласуется с госзаказчиком.</p>
 <!-- goz-profit-calc -->
 <div class="gpc" id="gpc">
 <style>
@@ -746,7 +746,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 </div>
 <div class="gpc__note">Оценка по правилу 1 % + 20 %. Повышенная норма (развитие производства, 25–30 % собственных) и точный расчёт оформляются в РКМ. Не заменяет согласование цены с госзаказчиком.</div>
 </div>
-<script>(function(){var P=document.getElementById("gpcP"),S=document.getElementById("gpcS"),O=document.getElementById("gpcOut");if(!P||!S||!O)return;function f(x){return (Math.round(x*100)/100).toLocaleString("ru-RU");}function calc(){var p=parseFloat((P.value||"").replace(",","."))||0,s=parseFloat((S.value||"").replace(",","."))||0;if(p<=0&&s<=0){O.innerHTML='<div class="gpc__big">Введите затраты</div><div class="gpc__line">Посчитаем допустимую прибыль и предельную цену контракта.</div>';return;}var pmin=0.10*s,pmax=0.01*p+0.20*s,pdev=0.01*p+0.30*s,cost=p+s,price=cost+pmax;O.innerHTML='<div class="gpc__big">Прибыль: '+f(pmin)+' – '+f(pmax)+' млн ₽</div>'+'<div class="gpc__line">Себестоимость: <b>'+f(cost)+'</b> млн ₽ · предельная цена: <b>'+f(price)+'</b> млн ₽</div>'+'<div class="gpc__line">При обосновании развития производства (25–30 % собственных) — прибыль до <b>'+f(pdev)+'</b> млн ₽.</div>';}P.addEventListener("input",calc);S.addEventListener("input",calc);})();</script>
+<script>(function(){var P=document.getElementById("gpcP"),S=document.getElementById("gpcS"),O=document.getElementById("gpcOut");if(!P||!S||!O)return;function f(x){return (Math.round(x*100)/100).toLocaleString("ru-RU");}function calc(){var p=parseFloat((P.value||"").replace(",","."))||0,s=parseFloat((S.value||"").replace(",","."))||0;if(p<=0&&s<=0){O.innerHTML='<div class="gpc__big">Введите затраты</div><div class="gpc__line">Посчитаем допустимую прибыль и предельную цену контракта.</div>';return;}var pmin=0.10*s,pmax=0.01*p+0.25*s,pdev=0.01*p+0.30*s,cost=p+s,price=cost+pmax;O.innerHTML='<div class="gpc__big">Прибыль: '+f(pmin)+' – '+f(pmax)+' млн ₽</div>'+'<div class="gpc__line">Себестоимость: <b>'+f(cost)+'</b> млн ₽ · предельная цена: <b>'+f(price)+'</b> млн ₽</div>'+'<div class="gpc__line">При обосновании развития производства (25–30 % собственных) — прибыль до <b>'+f(pdev)+'</b> млн ₽.</div>';}P.addEventListener("input",calc);S.addEventListener("input",calc);})();</script>
     </div>
 
     <h2 id="izmeneniya">Что изменилось в казначейском сопровождении ГОЗ в 2026 году</h2>
