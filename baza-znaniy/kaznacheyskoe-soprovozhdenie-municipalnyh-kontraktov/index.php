@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение муниципальных контрактов в 2026 году", "description": "Казначейское сопровождение муниципальных контрактов: когда применяется, кто решает и кто сопровождает средства местного бюджета и чем отличается от федерального казначейского сопровождения.", "inLanguage": "ru-RU", "datePublished": "2026-06-19", "dateModified": "2026-06-19", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-municipalnyh-kontraktov/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение муниципальных контрактов в 2026 году", "description": "Казначейское сопровождение муниципальных контрактов: когда применяется, кто решает и кто сопровождает средства местного бюджета и чем отличается от федерального казначейского сопровождения.", "inLanguage": "ru-RU", "datePublished": "2026-06-19", "dateModified": "2026-07-02", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-municipalnyh-kontraktov/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "казначейское сопровождение муниципальных контрактов", "item": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-municipalnyh-kontraktov/"}]}
@@ -535,6 +535,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <li><a href="#howto">Что делать исполнителю: порядок</a></li>
       <li><a href="#region-munic">Региональный и муниципальный уровень</a></li>
       <li><a href="#oshibki">Частые вопросы и заблуждения</a></li>
+      <li><a href="#praktika">Муниципальная специфика</a></li>
       <li><a href="#keys">Пример из практики</a></li>
       <li><a href="#glossary">Глоссарий</a></li>
       <li><a href="#faq">Частые вопросы</a></li>
@@ -547,7 +548,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Казначейское сопровождение <span class="fresh">Актуально на 2026</span></div>
     <h1>Казначейское сопровождение муниципальных контрактов в 2026 году</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 19 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 2 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -701,6 +702,23 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <li><b>«Режим какой-то особый».</b> Механика та же: лицевой счёт, санкционирование, раздельный учёт.</li>
       <li><b>Игнорировать местный акт о бюджете.</b> Именно он определяет, какие контракты муниципалитета под казначейское сопровождение.</li>
     </ul>
+
+    <h2 id="praktika">Муниципальная специфика — из практики</h2>
+    <div class="answer reveal">
+      <p>На муниципальном уровне казначейское сопровождение устроено наименее единообразно: где-то счета ведёт территориальный орган казначейства, где-то — финансовый орган муниципалитета со своим порядком.</p>
+    </div>
+    <table>
+      <caption>Типичные ситуации</caption>
+      <tr><th>Ситуация</th><th>В чём причина</th><th>Что делать</th></tr>
+      <tr><td>Непонятно, где открывать счёт</td><td>Счёт может вести орган казначейства или финорган муниципалитета</td><td>Смотреть, кто указан в контракте; при неясности — письменный запрос заказчику до подписания</td></tr>
+      <tr><td>Финорган работает «по-своему»</td><td>Муниципалитеты утверждают собственные порядки санкционирования</td><td>Запросить у финоргана действующий порядок и формы документов до первого платежа</td></tr>
+      <tr><td>Платежи идут дольше ожидаемого</td><td>Малые финорганы проверяют документы дольше, чем управления казначейства</td><td>Закладывать запас по срокам оплаты поставщикам и не обещать кооперации «деньги завтра»</td></tr>
+      <tr><td>Субподрядчики не готовы к режиму</td><td>Кооперация узнаёт о сопровождении после подписания договоров</td><td>Уведомлять контрагентов о режиме расчётов на этапе согласования договоров</td></tr>
+      <tr><td>Условие о сопровождении появилось при софинансировании</td><td>Средства вышестоящего бюджета тянут режим за собой</td><td>Проверять источники финансирования контракта ещё на этапе закупки</td></tr>
+    </table>
+    <div class="answer reveal">
+      <p>Пороги и основания для муниципального уровня разобраны выше; общие правила — в статье о <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-44-fz/">казначейском сопровождении по 44-ФЗ</a>.</p>
+    </div>
 
     <h2 id="keys">Пример из практики</h2>
     <p>На практике встречается типовая ситуация. Подрядчик выигрывает муниципальный контракт на благоустройство, финансируемый из местного бюджета, и рассчитывает на обычную оплату на расчётный счёт. После заключения контракта выясняется, что решением о местном бюджете такие контракты с авансом отнесены к казначейскому сопровождению, а сопровождает их финансовый орган муниципалитета.</p>

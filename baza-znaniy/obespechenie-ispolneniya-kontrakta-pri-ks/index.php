@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Обеспечение исполнения контракта при казначейском сопровождении", "description": "Обеспечение исполнения контракта при казначейском сопровождении: когда заказчик вправе его не требовать, размер по ст. 96 44-ФЗ, гарантия и возврат.", "inLanguage": "ru-RU", "datePublished": "2026-06-17", "dateModified": "2026-06-17", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/obespechenie-ispolneniya-kontrakta-pri-ks/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Обеспечение исполнения контракта при казначейском сопровождении", "description": "Обеспечение исполнения контракта при казначейском сопровождении: когда заказчик вправе его не требовать, размер по ст. 96 44-ФЗ, гарантия и возврат.", "inLanguage": "ru-RU", "datePublished": "2026-06-17", "dateModified": "2026-07-02", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/obespechenie-ispolneniya-kontrakta-pri-ks/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Обеспечение контракта при казначейском сопровождении", "item": "https://kaznaexpert.ru/baza-znaniy/obespechenie-ispolneniya-kontrakta-pri-ks/"}]}
@@ -535,6 +535,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <li><a href="#garantiynye">Обеспечение гарантийных обязательств</a></li>
       <li><a href="#howto">Как определить обеспечение по контракту с казначейским сопровождением</a></li>
       <li><a href="#oshibki">Частые ошибки и как их избежать</a></li>
+      <li><a href="#vybor">Выбор формы обеспечения</a></li>
       <li><a href="#keys">Пример из практики</a></li>
       <li><a href="#glossary">Глоссарий</a></li>
       <li><a href="#faq">Частые вопросы</a></li>
@@ -547,7 +548,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Казначейское сопровождение <span class="fresh">Актуально на 2026</span></div>
     <h1>Обеспечение исполнения контракта при казначейском сопровождении</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>17 мин чтения</span><span class="dot">·</span><span>Обновлено 17 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>17 мин чтения</span><span class="dot">·</span><span>Обновлено 2 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -761,6 +762,23 @@ calc();
       <tr><td>Игнорируют антидемпинг при большом снижении цены</td><td>Недостаточный размер обеспечения, отклонение</td><td>При снижении на 25%+ закладывать полуторный размер</td></tr>
       <tr><td>Не читают, отказался ли заказчик от обеспечения</td><td>Лишняя гарантия там, где её не требуют</td><td>Внимательно изучать документацию сопровождаемой закупки</td></tr>
     </table>
+
+    <h2 id="vybor">Как выбирают форму обеспечения на практике</h2>
+    <div class="answer reveal">
+      <p>При казначейском сопровождении вопрос обеспечения стоит острее: оборотные средства и так связаны режимом лицевого счёта, и замораживать ещё и обеспечение деньгами — двойная нагрузка.</p>
+    </div>
+    <table>
+      <caption>Форма обеспечения: практические развилки</caption>
+      <tr><th>Ситуация</th><th>На что смотреть</th><th>Практическое решение</th></tr>
+      <tr><td>Деньги или независимая гарантия</td><td>Стоимость гарантии против заморозки собственных средств на весь срок контракта</td><td>При сопровождении гарантия чаще выгоднее: оборотка и так работает через лицевой счёт</td></tr>
+      <tr><td>Гарантию не приняли</td><td>Банк не входит в перечень Минфина либо текст не соответствует 44-ФЗ</td><td>Проверять банк в актуальном перечне и типовые требования к гарантии до оплаты комиссии</td></tr>
+      <tr><td>Антидемпинг</td><td>Снижение цены на четверть и больше включает повышенное обеспечение</td><td>Считать экономику до подачи ценового предложения — <a href="/baza-znaniy/antidempingovye-mery-44-fz/">разбор антидемпинговых мер</a></td></tr>
+      <tr><td>Обеспечение не возвращают</td><td>Просрочка возврата после исполнения контракта</td><td>Направить требование заказчику со ссылкой на условие контракта о сроке возврата</td></tr>
+      <tr><td>Изменилась потребность</td><td>Форму обеспечения можно менять в ходе исполнения</td><td>44-ФЗ допускает замену: гарантию на деньги и наоборот, в том числе при уменьшении обязательств</td></tr>
+    </table>
+    <div class="answer reveal">
+      <p>Выбор формы обеспечения — это управление ликвидностью: чем жёстче режим счёта, тем дороже каждая замороженная сумма. Экономику контракта под сопровождением стоит считать целиком, вместе с авансом и порядком зачёта.</p>
+    </div>
 
     <h2 id="keys">Пример из практики</h2>
     <div class="answer reveal">

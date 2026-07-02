@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"subsidii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение грантов в форме субсидий", "description": "Когда грант в форме субсидии попадает под казначейское сопровождение в 2026: правовая основа по ст. 78.1 БК, кто получатели, режим целевых средств и отчётность.", "inLanguage": "ru-RU", "datePublished": "2026-06-18", "dateModified": "2026-06-18", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-grantov/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение грантов в форме субсидий", "description": "Когда грант в форме субсидии попадает под казначейское сопровождение в 2026: правовая основа по ст. 78.1 БК, кто получатели, режим целевых средств и отчётность.", "inLanguage": "ru-RU", "datePublished": "2026-06-18", "dateModified": "2026-07-02", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-grantov/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Сопровождение грантов", "item": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-grantov/"}]}
@@ -536,6 +536,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <li><a href="#uchet">Раздельный учёт средств гранта</a></li>
       <li><a href="#vozvrat">Остатки и возврат неиспользованных средств</a></li>
       <li><a href="#oshibki">Частые ошибки получателей грантов</a></li>
+      <li><a href="#slozhnosti">Сложности из практики</a></li>
       <li><a href="#keys">Пример из практики</a></li>
       <li><a href="#glossary">Глоссарий</a></li>
       <li><a href="#faq">Частые вопросы</a></li>
@@ -548,7 +549,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Сопровождение субсидий <span class="fresh">Актуально на 2026</span></div>
     <h1>Казначейское сопровождение грантов в форме субсидий</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 18 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 2 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -679,6 +680,23 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <tr><td>Платежи без документов-оснований</td><td>Отказ в санкционировании</td><td>Готовить основания заранее под каждый расход</td></tr>
       <tr><td>Сорваны сроки отчётности</td><td>Претензии, риск возврата средств</td><td>Вести календарь отчётов по соглашению</td></tr>
     </table>
+
+    <h2 id="slozhnosti">Частые сложности грантополучателей — из практики</h2>
+    <div class="answer reveal">
+      <p>Грант в форме субсидии приходит с тем же режимом, что и целевые средства по контрактам, — но у грантополучателей своя специфика: сметы, софинансирование, отчётность перед грантодателем.</p>
+    </div>
+    <table>
+      <caption>Сложности и решения</caption>
+      <tr><th>Ситуация</th><th>В чём причина</th><th>Что делать</th></tr>
+      <tr><td>Грант зачислен, платежи не проходят</td><td>Сведения об операциях с целевыми средствами не утверждены</td><td>Утвердить Сведения до первых платежей — сразу после подписания соглашения</td></tr>
+      <tr><td>Софинансирование смешано с грантом</td><td>Собственные средства заведены на лицевой счёт без необходимости</td><td>Разделять источники: грант — на лицевом счёте, софинансирование — на расчётном, если соглашение не требует иного</td></tr>
+      <tr><td>Оплата не предусмотрена сметой</td><td>Казначейство сверяет платёж с направлениями расходов</td><td>Изменять смету и соглашение до расходов, а не подгонять документы после</td></tr>
+      <tr><td>Остаток гранта в конце года</td><td>Неиспользованные целевые средства подлежат возврату либо подтверждению потребности</td><td>Заранее готовить обоснование потребности на следующий год или планировать расходование в срок</td></tr>
+      <tr><td>Отчёт грантодателю не бьётся с выписками</td><td>Отчёт составлен из бухгалтерии, а не из операций по лицевому счёту</td><td>Сверять каждую строку отчёта с выписками по лицевому счёту до отправки</td></tr>
+    </table>
+    <div class="answer reveal">
+      <p>Механика санкционирования у грантов та же, что и у субсидий, — разбор режима в статьях о <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-subsidiy/">казначейском сопровождении субсидий</a> и <a href="/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/">целевых средствах</a>.</p>
+    </div>
 
     <h2 id="keys">Пример из практики</h2>
     <div class="answer reveal">

@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейский контракт: что это, как заключить и работать по нему в 2026", "description": "Казначейский контракт (договор): что означает условие о казначейском сопровождении, обязательные условия, работа от открытия лицевого счёта до вывода прибыли, риски и ошибки.", "inLanguage": "ru-RU", "datePublished": "2026-06-11", "dateModified": "2026-06-11", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskiy-kontrakt/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейский контракт: что это, как заключить и работать по нему в 2026", "description": "Казначейский контракт (договор): что означает условие о казначейском сопровождении, обязательные условия, работа от открытия лицевого счёта до вывода прибыли, риски и ошибки.", "inLanguage": "ru-RU", "datePublished": "2026-06-11", "dateModified": "2026-07-02", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskiy-kontrakt/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Казначейский контракт", "item": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskiy-kontrakt/"}]}
@@ -555,6 +555,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <li><a href="#zakony">44-ФЗ, 223-ФЗ и ГОЗ</a></li>
       <li><a href="#riski">Риски и ответственность</a></li>
       <li><a href="#oshibki">Частые ошибки</a></li>
+      <li><a href="#proverka">Проверка до подписания</a></li>
       <li><a href="#keys">Пример из практики</a></li>
       <li><a href="#glossary">Глоссарий</a></li>
       <li><a href="#faq">Частые вопросы</a></li>
@@ -567,7 +568,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Основы <span class="fresh">Актуально на 2026</span></div>
     <h1>Казначейский контракт: что это, как заключить и работать по нему в 2026</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 11 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 2 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -686,6 +687,23 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <tr><td>Кассовый план не учитывает сроки санкционирования</td><td>Кассовые разрывы, просрочки перед поставщиками</td><td>Закладывать рабочие дни на проверку каждого платежа</td></tr>
       <tr><td>«Казначейские» условия не включены в договоры субподряда</td><td>Цепочка расчётов блокируется</td><td>Транслировать условия казначейского сопровождения вниз по кооперации</td></tr>
     </table>
+
+    <h2 id="proverka">Проверка проекта контракта до подписания — из практики</h2>
+    <div class="answer reveal">
+      <p>Дешевле всего проблемы казначейского контракта решаются до подписания — на этапе проекта. Пять пунктов, которые стоит проверить в тексте.</p>
+    </div>
+    <table>
+      <caption>Чек-лист по проекту контракта</caption>
+      <tr><th>Пункт проекта</th><th>Что смотреть</th><th>Риск, если пропустить</th></tr>
+      <tr><td>Условие о казначейском сопровождении</td><td>Какой орган ведёт счёт, какие документы требует</td><td>Счёт открыт не там, первый платёж уходит в отказ</td></tr>
+      <tr><td>Аванс</td><td>Размер, срок перечисления, порядок зачёта при оплате этапов</td><td>Кассовый разрыв: аванс «съеден» зачётом раньше, чем ожидалось</td></tr>
+      <tr><td>Требования к платежам</td><td>ИГК, назначение платежа, документы-основания к каждому списанию</td><td>Серия отказов в санкционировании на ровном месте</td></tr>
+      <tr><td>Трансляция условия в кооперацию</td><td>Обязанность включать сопровождение в договоры с соисполнителями</td><td>Договор с субподрядчиком приходится переподписывать</td></tr>
+      <tr><td>Сроки оплаты</td><td>От акта до денег с учётом проверки казначейством</td><td>Обязательства перед поставщиками наступают раньше, чем приходит оплата</td></tr>
+    </table>
+    <div class="answer reveal">
+      <p>Как именно формулируется само условие и какие редакции встречаются в контрактах — в разборе <a href="/baza-znaniy/uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte/">условия о казначейском сопровождении в контракте</a>.</p>
+    </div>
 
     <h2 id="keys">Пример из практики</h2>
     <div class="answer reveal">

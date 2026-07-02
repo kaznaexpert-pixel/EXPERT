@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Отдельный счёт по ГОЗ: режим использования, запрещённые операции и вывод прибыли", "description": "Отдельный счёт по гособоронзаказу в уполномоченном банке: режим ст. 8.3 № 275-ФЗ, запрещённые операции ст. 8.4, лимит «иных расходов» с индексацией, мораторий по зарплате и порядок вывода прибыли.", "inLanguage": "ru-RU", "datePublished": "2026-06-12", "dateModified": "2026-06-12", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/otdelnyy-schet-po-goz/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Отдельный счёт по ГОЗ: режим использования, запрещённые операции и вывод прибыли", "description": "Отдельный счёт по гособоронзаказу в уполномоченном банке: режим ст. 8.3 № 275-ФЗ, запрещённые операции ст. 8.4, лимит «иных расходов» с индексацией, мораторий по зарплате и порядок вывода прибыли.", "inLanguage": "ru-RU", "datePublished": "2026-06-12", "dateModified": "2026-07-02", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/otdelnyy-schet-po-goz/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Отдельный счёт по ГОЗ", "item": "https://kaznaexpert.ru/baza-znaniy/otdelnyy-schet-po-goz/"}]}
@@ -559,6 +559,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <li><a href="#zakrytie">Закрытие счёта</a></li>
       <li><a href="#otvetstvennost">Ответственность за нарушения</a></li>
       <li><a href="#oshibki">Типичные ошибки платежей</a></li>
+      <li><a href="#problemy">Проблемы из практики</a></li>
       <li><a href="#keys">Пример из практики</a></li>
       <li><a href="#glossary">Глоссарий</a></li>
       <li><a href="#faq">Частые вопросы</a></li>
@@ -571,7 +572,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на 2026</span></div>
     <h1>Отдельный счёт по ГОЗ: режим использования, запрещённые операции и вывод прибыли</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>18 мин чтения</span><span class="dot">·</span><span>Обновлено 12 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>18 мин чтения</span><span class="dot">·</span><span>Обновлено 2 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -737,6 +738,23 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </table>
 
     <div class="note" data-ctx="dl-checklist"><b>Чек-лист · PDF.</b> Проверка платежа с отдельного счёта по ст. 8.3–8.4 — в формате для печати на стол бухгалтеру: <a href="/files/checklist-platezh-obs-goz.pdf" download>скачать чек-лист платежа по ГОЗ (PDF)</a>.</div>
+
+    <h2 id="problemy">Частые проблемы с отдельным счётом — из практики</h2>
+    <div class="answer reveal">
+      <p>Режим отдельного счёта по гособоронзаказу жёстче, чем у обычного лицевого счёта при казначейском сопровождении. Типичные ситуации, на которых теряют время исполнители.</p>
+    </div>
+    <table>
+      <caption>Проблемы и решения</caption>
+      <tr><th>Ситуация</th><th>В чём причина</th><th>Что делать</th></tr>
+      <tr><td>Банк не открывает отдельный счёт</td><td>Нет контракта с ИГК или неполный комплект документов</td><td>Открывать счёт в уполномоченном банке заказчика по контракту, комплект сверить с требованиями банка</td></tr>
+      <tr><td>Платёж контрагенту не проходит</td><td>В назначении платежа нет ИГК либо получатель не открыл свой отдельный счёт</td><td>Указывать ИГК в каждой платёжке; требовать от кооперации открытия отдельных счетов до первых расчётов</td></tr>
+      <tr><td>Не получается вывести прибыль</td><td>Вывод прибыли ограничен режимом счёта до выполнения условий 275-ФЗ</td><td>Планировать экономику контракта с учётом того, что прибыль доступна после исполнения, — и подтверждать её раздельным учётом</td></tr>
+      <tr><td>Отказ по «запрещённой» операции</td><td>Операция входит в перечень запретов статьи 8.4 275-ФЗ (займы, благотворительность и т.п.)</td><td>Такие платежи проводить с обычного расчётного счёта за счёт собственных средств</td></tr>
+      <tr><td>Нужно возместить собственные расходы</td><td>Списание с отдельного счёта на свой расчётный счёт проверяется особенно строго</td><td>Согласовать возмещение с головным исполнителем и банком, подготовить подтверждающую первичку</td></tr>
+    </table>
+    <div class="answer reveal">
+      <p>Прибыль и возмещение — два самых конфликтных сценария: оба упираются в качество <a href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/">раздельного учёта по гособоронзаказу</a>. Если счёт ещё не открыт — начните с <a href="/baza-znaniy/kak-zarezervirovat-schet-po-goz/">резервирования счёта</a>, это экономит недели.</p>
+    </div>
 
     <h2 id="keys">Пример из практики</h2>
     <div class="answer reveal">
