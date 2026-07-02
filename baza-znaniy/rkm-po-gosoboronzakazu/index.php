@@ -714,6 +714,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>Типовая ситуация: предприятие-соисполнитель готовит РКМ по шаблонам трёхлетней давности — формы старого приказа, себестоимость без разделения на привнесённые и собственные затраты, прибыль «общим процентом». ВП возвращает комплект, согласование цены сдвигается, а вместе с ним — и заключение контракта. После перехода на действующие формы № 995/22 с честной формой № 20 и пояснительной запиской, где каждая строка имеет источник, цикл согласования сокращается с нескольких месяцев до недель: проверяющему просто не о чем спрашивать. Пример обобщённый и иллюстративный; сроки согласования зависят от заказчика, ВП и сложности продукции.</p>
     </div>
 
+    <p data-ctx="auto-ctx:normy-pribyli-goz">Ключевая проверяемая величина в калькуляции — рентабельность: какие потолки и минимумы установлены пунктом 54 постановления № 1465, см. в разборе <a href="/baza-znaniy/normy-pribyli-goz/">норм прибыли по гособоронзаказу</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -808,6 +809,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/vidy-cen-goz/"><div class="card__cover"><span>Цены ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Виды цен на продукцию ГОЗ</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz/"><div class="card__cover"><span>Перевод цены</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Перевод ориентировочной цены в фиксированную по ГОЗ</h3><div class="card__meta">ГОЗ · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/uchetnaya-politika-razdelnyy-uchet-goz/"><div class="card__cover"><span>Учёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Учётная политика по раздельному учёту ГОЗ</h3><div class="card__meta">Учёт · 14 мин</div></div></a>
+    <!-- auto-related:normy-pribyli-goz --><a class="card reveal" href="/baza-znaniy/normy-pribyli-goz/"><div class="card__cover"><span>Прибыль ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Нормы прибыли по гособоронзаказу: правило «1% + 25%»</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
   </div>
 </section>
 

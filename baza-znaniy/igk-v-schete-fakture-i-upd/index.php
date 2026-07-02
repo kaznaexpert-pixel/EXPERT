@@ -744,6 +744,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <p data-ctx="auto-ctx:naznachenie-platezha-kaznachejstvo">Идентификатор контракта указывают не только в документах, но и в <a href="/baza-znaniy/naznachenie-platezha-kaznachejstvo/">назначении платежа при сопровождении</a> — без него распоряжение возвращают.</p>
+    <p data-ctx="auto-ctx:integraciya-eis-1s">Если счета-фактуры и УПД уходят в ЕИС через обмен из учётной системы, идентификатор подставляется из карточки договора — детали в разборе <a href="/baza-znaniy/integraciya-eis-1s/">интеграции ЕИС и 1С</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -803,6 +804,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Пиллар</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение: что это и кому нужно</h3><div class="card__meta">Пиллар · 20 мин</div></div></a>
     <!-- auto-related:identifikacionnyy-kod-zakupki-ikz --><a class="card reveal" href="/baza-znaniy/identifikacionnyy-kod-zakupki-ikz/"><div class="card__cover"><span>ИКЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Идентификационный код закупки (ИКЗ) по 44-ФЗ</h3><div class="card__meta">Операции · 13 мин</div></div></a>
     <!-- auto-related:naznachenie-platezha-kaznachejstvo --><a class="card reveal" href="/baza-znaniy/naznachenie-platezha-kaznachejstvo/"><div class="card__cover"><span>Назначение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Назначение платежа при казначейском сопровождении: образец</h3><div class="card__meta">Операции · 14 мин</div></div></a>
+    <!-- auto-related:integraciya-eis-1s --><a class="card reveal" href="/baza-znaniy/integraciya-eis-1s/"><div class="card__cover"><span>ЕИС и 1С</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Интеграция ЕИС и 1С: обмен для электронного актирования</h3><div class="card__meta">Системы · 16 мин</div></div></a>
   </div>
 </section>
 

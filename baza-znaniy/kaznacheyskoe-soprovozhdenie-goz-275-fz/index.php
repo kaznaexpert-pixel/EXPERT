@@ -869,6 +869,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <p data-ctx="auto-ctx:kak-zarezervirovat-schet-po-goz">Если расчёты по контракту идут через уполномоченный банк, первый практический шаг — <a href="/baza-znaniy/kak-zarezervirovat-schet-po-goz/">зарезервировать отдельный счёт по ГОЗ</a>, чтобы быстро получить реквизиты для кооперации.</p>
     <p data-ctx="auto-ctx:chto-takoe-gosudarstvennyy-oboronnyy-zakaz">Если вы только погружаетесь в тему, начните с обзора — <a href="/baza-znaniy/chto-takoe-gosudarstvennyy-oboronnyy-zakaz/">что такое гособоронзаказ простыми словами</a>: понятие по Закону № 275-ФЗ, участники и кооперация без юридического тумана.</p>
+    <p data-ctx="auto-ctx:normy-pribyli-goz">Сколько прибыли можно заложить в цену контракта и когда рентабельность повышается до 30%, подробно разобрано в статье о <a href="/baza-znaniy/normy-pribyli-goz/">нормах прибыли по гособоронзаказу (правило «1% + 25%»)</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -977,6 +978,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:otdelnyy-schet-po-goz --><a class="card reveal" href="/baza-znaniy/otdelnyy-schet-po-goz/"><div class="card__cover"><span>Отдельный счёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отдельный счёт по ГОЗ: режим, запреты, вывод прибыли</h3><div class="card__meta">ГОЗ · 18 мин</div></div></a>
     <!-- auto-related:kak-zarezervirovat-schet-po-goz --><a class="card reveal" href="/baza-znaniy/kak-zarezervirovat-schet-po-goz/"><div class="card__cover"><span>Резерв ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Как зарезервировать отдельный счёт по ГОЗ</h3><div class="card__meta">ГОЗ · 14 мин</div></div></a>
     <!-- auto-related:chto-takoe-gosudarstvennyy-oboronnyy-zakaz --><a class="card reveal" href="/baza-znaniy/chto-takoe-gosudarstvennyy-oboronnyy-zakaz/"><div class="card__cover"><span>ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Что такое гособоронзаказ простыми словами</h3><div class="card__meta">ГОЗ · 17 мин</div></div></a>
+    <!-- auto-related:normy-pribyli-goz --><a class="card reveal" href="/baza-znaniy/normy-pribyli-goz/"><div class="card__cover"><span>Прибыль ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Нормы прибыли по гособоронзаказу: правило «1% + 25%»</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
   </div>
 </section>
 

@@ -675,6 +675,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Что делать, если заказчик затягивает приёмку?</summary><p>Зафиксировать факт и дату сдачи результата в ЕИС, проверить обоснованность задержки и при необходимости направить претензию. Нарушение срока приёмки не освобождает заказчика от обязанности оплатить надлежаще исполненный контракт.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:integraciya-eis-1s">Формировать и отправлять документы о приёмке можно прямо из учётной системы — как это устроено, разобрано в материале об <a href="/baza-znaniy/integraciya-eis-1s/">интеграции ЕИС и 1С для электронного актирования</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -734,6 +735,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha/"><div class="card__cover"><span>Платёж</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Распоряжение о совершении казначейского платежа</h3><div class="card__meta">Операции · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-44-fz/"><div class="card__cover"><span>44-ФЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение по 44-ФЗ в 2026</h3><div class="card__meta">Применимость · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/igk-v-schete-fakture-i-upd/"><div class="card__cover"><span>ИГК</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">ИГК в счёте-фактуре, счёте и УПД</h3><div class="card__meta">Операции · 12 мин</div></div></a>
+    <!-- auto-related:integraciya-eis-1s --><a class="card reveal" href="/baza-znaniy/integraciya-eis-1s/"><div class="card__cover"><span>ЕИС и 1С</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Интеграция ЕИС и 1С: обмен для электронного актирования</h3><div class="card__meta">Системы · 16 мин</div></div></a>
   </div>
 </section>
 

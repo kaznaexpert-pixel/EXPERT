@@ -700,6 +700,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <p>Компания резервирует номер отдельного счёта, вносит его и ИГК в контракт, открывает счёт. Дальше выясняется, что один из её поставщиков комплектующих тоже должен открыть отдельный счёт в том же банке под тот же ИГК, иначе целевой платёж не пройдёт. После того как кооперация выстроена внутри единого контура, расчёты идут штатно.</p>
     <p class="muted">Пример обобщённый и иллюстративный, не описывает конкретного клиента и не гарантирует какого-либо результата: условия каждого контракта и решения заказчика индивидуальны.</p>
 
+    <p data-ctx="auto-ctx:uproshchennyy-poryadok-goz-2026">При контроле выплат на оплату труда банк в 2026 году не требует одновременных платёжек на налоги: действует <a href="/baza-znaniy/uproshchennyy-poryadok-goz-2026/">упрощённый порядок расчётов по гособоронзаказу, продлённый законом № 406-ФЗ</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -792,6 +793,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-i-bankovskoe-soprovozhdenie/"><div class="card__cover"><span>Сравнение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское и банковское сопровождение контрактов</h3><div class="card__meta">Сравнение · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/soispolniteli-kooperaciya-goz/"><div class="card__cover"><span>Кооперация</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Соисполнители и цепочка кооперации в ГОЗ</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/"><div class="card__cover"><span>ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение ГОЗ 275-ФЗ</h3><div class="card__meta">Пиллар · 22 мин</div></div></a>
+    <!-- auto-related:uproshchennyy-poryadok-goz-2026 --><a class="card reveal" href="/baza-znaniy/uproshchennyy-poryadok-goz-2026/"><div class="card__cover"><span>Упрощённый порядок</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Упрощённый порядок расчётов по ГОЗ в 2026 году: закон № 406-ФЗ</h3><div class="card__meta">ГОЗ · 15 мин</div></div></a>
   </div>
 </section>
 

@@ -716,6 +716,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <p data-ctx="auto-ctx:otvetstvennost-za-narusheniya-goz">Актуально на 2026 год: штрафы за нарушение раздельного учёта установлены частью 11 статьи 7.30.3 КоАП РФ вместо утратившей силу статьи 15.37 — какие именно санкции действуют для должностных и юридических лиц, разобрано в статье об <a href="/baza-znaniy/otvetstvennost-za-narusheniya-goz/">ответственности за нарушения в сфере ГОЗ</a>.</p>
     <p data-ctx="auto-ctx:shtrafy-pri-kaznacheyskom-soprovozhdenii-2026">Корректная настройка раздельного учёта в 1С закрывает не только требования закона, но и риск <a href="/baza-znaniy/shtrafy-pri-kaznacheyskom-soprovozhdenii-2026/">штрафа по статье 15.37.1 КоАП</a>, действующего с 2026 года для контрактов под казначейским сопровождением.</p>
+    <p data-ctx="auto-ctx:integraciya-eis-1s">1С у исполнителя контракта решает не только учётные задачи: про обмен с ЕИС для электронного актирования и границы автоматизации казначейского контура — в статье об <a href="/baza-znaniy/integraciya-eis-1s/">интеграции ЕИС и 1С</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -810,6 +811,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/otdelnyy-schet-po-goz/"><div class="card__cover"><span>Счёт ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отдельный счёт по ГОЗ: режим и вывод прибыли</h3><div class="card__meta">ГОЗ · 18 мин</div></div></a>
     <!-- auto-related:otvetstvennost-za-narusheniya-goz --><a class="card reveal" href="/baza-znaniy/otvetstvennost-za-narusheniya-goz/"><div class="card__cover"><span>Штрафы ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Ответственность за нарушения в сфере ГОЗ</h3><div class="card__meta">Ответственность · 18 мин</div></div></a>
     <!-- auto-related:shtrafy-pri-kaznacheyskom-soprovozhdenii-2026 --><a class="card reveal" href="/baza-znaniy/shtrafy-pri-kaznacheyskom-soprovozhdenii-2026/"><div class="card__cover"><span>Штрафы 2026</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Штрафы при казначейском сопровождении: 15.37.1 и 15.49 КоАП</h3><div class="card__meta">Применимость · 15 мин</div></div></a>
+    <!-- auto-related:integraciya-eis-1s --><a class="card reveal" href="/baza-znaniy/integraciya-eis-1s/"><div class="card__cover"><span>ЕИС и 1С</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Интеграция ЕИС и 1С: обмен для электронного актирования</h3><div class="card__meta">Системы · 16 мин</div></div></a>
   </div>
 </section>
 
