@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"npa", cluster:"normativka"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Article", "Legislation"], "headline": "Постановление № 2479 — казначейское обеспечение обязательств (КОО): зачем оно исполнителю", "description": "Порядок выдачи, перевода и отзыва казначейского обеспечения обязательств (КОО) по ст. 242.22 БК; сроки операций ФК.", "datePublished": "2026-06-06T10:00:00+03:00", "dateModified": "2026-06-06T10:00:00+03:00", "inLanguage": "ru-RU", "legislationIdentifier": "ПП № 2479", "about": "Постановление Правительства РФ от 25.12.2021 № 2479 «Об утверждении Правил выдачи (перевода, отзыва) казначейского обеспечения обязательств…»", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/pp-2479-koo/"}, "image": "https://kaznaexpert.ru/img/og-image.png"}
+{"@context": "https://schema.org", "@type": ["Article", "Legislation"], "headline": "Постановление № 2479 — казначейское обеспечение обязательств (КОО): зачем оно исполнителю", "description": "Порядок выдачи, перевода и отзыва казначейского обеспечения обязательств (КОО) по ст. 242.22 БК; сроки операций ФК.", "datePublished": "2026-06-06T10:00:00+03:00", "dateModified": "2026-07-02T10:00:00+03:00", "inLanguage": "ru-RU", "legislationIdentifier": "ПП № 2479", "about": "Постановление Правительства РФ от 25.12.2021 № 2479 «Об утверждении Правил выдачи (перевода, отзыва) казначейского обеспечения обязательств…»", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/pp-2479-koo/"}, "image": "https://kaznaexpert.ru/img/og-image.png"}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Нормативная база", "item": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/"}, {"@type": "ListItem", "position": 4, "name": "ПП № 2479 (КОО)"}]}
@@ -512,7 +512,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   <aside class="toc" aria-label="Содержание"><div class="toc__label">На странице</div><ul class="toc__list" id="tocList">
     <li><a href="#reg">Что регулирует</a></li><li><a href="#kak">Как это работает</a></li>
     <li><a href="#means">Что значит для исполнителя</a></li><li><a href="#norms">Ключевые нормы</a></li>
-    <li><a href="#oshibki">На что обратить внимание</a></li><li><a href="#sistema">Место в системе</a></li>
+    <li><a href="#oshibki">На что обратить внимание</a></li><li><a href="#praktika">Из практики</a></li><li><a href="#sistema">Место в системе</a></li>
     <li><a href="#changed">Актуальная редакция</a></li><li><a href="#faq">Вопросы</a></li>
   </ul></aside>
   <article class="content" id="main">
@@ -566,6 +566,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <h2 id="oshibki">На что обратить внимание</h2><div class="answer reveal"><ul class="ul"><li>Попытка перевести обеспечение сверх доведённых сумм.</li><li>Ошибки в документах на перевод КОО соисполнителю — задержка всей цепочки.</li><li>Смешение КОО с обычным авансом: это разные инструменты с разным порядком.</li></ul></div>
 
+    <h2 id="praktika">Из практики применения</h2><div class="answer reveal"><table class="ctab"><thead><tr><th>Ситуация</th><th>Как решается</th><th>На что опереться</th></tr></thead><tbody><tr><td>Заказчик предлагает КОО вместо аванса</td><td>Деньги не поступают на счёт до факта исполнения — оценить потребность в оборотных средствах заранее</td><td class="cd">ПП № 2479</td></tr><tr><td>Непонятно, как «раскрывается» казначейский аккредитив</td><td>Средства перечисляются после подтверждения исполнения обязательств по условиям аккредитива</td><td class="cd">ПП № 2479</td></tr><tr><td>КОО и казначейское сопровождение одновременно</td><td>Режимы сочетаются: КОО закрывает авансирование, сопровождение — расчёты</td><td class="cd">ПП № 2479, БК РФ</td></tr></tbody></table></div>
+
     <h2 id="sistema">Место в системе регулирования</h2><div class="answer reveal"><p>КОО опирается на ст. 242.22 БК и применяется в связке с расширенным КС (ст. 242.24) и Правилами (ПП № 2024). Для исполнителя это альтернатива денежному авансу в режиме сопровождения, особенно по крупным и оборонным контрактам.</p></div>
 
     <h2 id="changed">Актуальная редакция и изменения</h2>
@@ -594,9 +596,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span></div>
       <div class="success" id="leadSuccess" role="status" aria-live="polite"><div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div><h3>Заявка принята</h3><p>Эксперт перезвонит <b>в течение 1 часа</b> (9:00–21:00 МСК).</p></div>
     </form>
-  <!-- rail-svc -->
-<a class="rail-svc" href="/uslugi/soprovozhdenie-postoplata/"><span class="rail-svc__k">Поможем под ключ</span><span class="rail-svc__n">Сопровождение контракта (постоплата) →</span></a>
-</aside>
+  </aside>
 </div>
 
 <section class="trust" aria-label="Проверка в реестрах"><div class="trust__box"><div class="trust__lead"><b>Проверьте нас в открытых реестрах</b>ИП Михайлов Я.А. · ИНН 781428314589 · ОГРНИП 321784700367672</div><div class="trust__badges"><a class="badge" href="https://www.rusprofile.ru/ip/321784700367672" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg><b>Rusprofile</b></a><a class="badge" href="https://zachestnyibiznes.ru/company/ip/321784700367672_781428314589" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg>За честный <b>бизнес</b></a><a class="badge" href="https://www.audit-it.ru/contragent/fl/781428314589_mikhailov-iaroslav-alekseevich" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg><b>Audit-it</b></a></div></div></section>

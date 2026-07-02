@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"article", cluster:"glossary"};</script>
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"DefinedTermSet", "datePublished": "2026-06-25", "dateModified": "2026-06-25","name":"Глоссарий терминов казначейского сопровождения","url":"https://kaznaexpert.ru/baza-znaniy/glossary/","hasDefinedTerm":[
+{"@context":"https://schema.org","@type":"DefinedTermSet", "datePublished": "2026-06-25", "dateModified": "2026-07-02","name":"Глоссарий терминов казначейского сопровождения","url":"https://kaznaexpert.ru/baza-znaniy/glossary/","hasDefinedTerm":[
 {"@type":"DefinedTerm","name":"ТОФК","description":"Территориальный орган Федерального казначейства, который ведёт счёт и санкционирует операции по контракту."},
 {"@type":"DefinedTerm","name":"УФК","description":"Управление Федерального казначейства по субъекту РФ — региональное подразделение Федерального казначейства."},
 {"@type":"DefinedTerm","name":"Лицевой счёт 71","description":"Счёт получателя средств, открытый в ТОФК; через него идут расчёты по контракту под казначейским сопровождением."},
@@ -537,7 +537,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Глоссарий <span class="fresh">Актуально на 2026</span></div>
     <h1>Глоссарий терминов казначейского сопровождения</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>8 мин чтения</span><span class="dot">·</span><span>Обновлено 5 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>8 мин чтения</span><span class="dot">·</span><span>Обновлено 2 июля 2026</span></div>
     </div>
 
     <div class="tldr">Короткий словарь ключевых терминов казначейского сопровождения госконтрактов: <b>ИГК, ТОФК, УФК, КОСГУ, КВР, санкционирование, ГИИС «Электронный бюджет», лицевой счёт, сводный реестр, раздельный учёт</b> и другие. Определения простыми словами, со ссылками на подробные разборы.</div>
@@ -762,7 +762,22 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
 <!-- kb-faq -->
 <section class="kb-faq" aria-labelledby="faqH"><style>.kb-faq{max-width:1240px;margin:48px auto;padding:0 24px;font-family:'Inter',system-ui,sans-serif}.kb-faq>h2{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:clamp(1.5rem,2vw+1rem,2rem);letter-spacing:-.01em;margin:0 0 18px;color:var(--ink,#1A1A1A)}</style>
-  <h2 id="faq">Частые вопросы</h2>
+  <h2 id="putanica">Пары терминов, которые чаще всего путают — из практики</h2>
+    <div class="answer reveal">
+      <p>Половина вопросов на консультациях начинается с подмены понятий. Эти пары стоит различать в первую очередь.</p>
+    </div>
+    <table>
+      <caption>Термины-двойники</caption>
+      <tr><th>Путают</th><th>В чём разница</th></tr>
+      <tr><td>Казначейское и банковское сопровождение</td><td>Казначейское — лицевой счёт в органе казначейства и санкционирование; банковское — отдельный счёт в уполномоченном банке (характерно для гособоронзаказа). Подробнее: <a href="/baza-znaniy/kaznacheyskoe-i-bankovskoe-soprovozhdenie/">сравнение режимов</a></td></tr>
+      <tr><td>Лицевой счёт и отдельный счёт</td><td>Лицевой — в территориальном органе казначейства при казначейском сопровождении; отдельный — в уполномоченном банке по 275-ФЗ</td></tr>
+      <tr><td>УФК и ТОФК</td><td>УФК — управление по субъекту; ТОФК — общее название территориальных органов. Коды — в <a href="/baza-znaniy/tofk/">справочнике ТОФК</a></td></tr>
+      <tr><td>Санкционирование и казначейский мониторинг</td><td>Санкционирование — проверка каждого платежа до списания; мониторинг — наблюдение за операциями и участниками</td></tr>
+      <tr><td>ИГК и номер контракта</td><td>ИГК — отдельный идентификатор госконтракта для платежей и документов; номер контракта его не заменяет</td></tr>
+      <tr><td>Целевые и собственные средства</td><td>Целевые — на лицевом счёте под режимом; собственные — на расчётном счёте, режимом не связаны. Подробнее: <a href="/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/">целевые средства</a></td></tr>
+    </table>
+
+    <h2 id="faq">Частые вопросы</h2>
   <div class="faq">
       <details><summary>Что такое глоссарий казначейского сопровождения?</summary><p>Это справочник ключевых терминов казначейского сопровождения с краткими и точными определениями.</p></details>
       <details><summary>Какие термины здесь собраны?</summary><p>Казначейское сопровождение, казначейский счёт, лицевой счёт, ИГК, целевые средства, санкционирование, раздельный учёт и другие понятия.</p></details>
