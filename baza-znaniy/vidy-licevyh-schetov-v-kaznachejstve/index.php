@@ -715,6 +715,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <p data-ctx="auto-ctx:kniga-registracii-kaznacheyskih-schetov">Лицевые счета открывают на казначейских счетах, факт открытия которых отражается в <a href="/baza-znaniy/kniga-registracii-kaznacheyskih-schetov/">Книге регистрации казначейских счетов</a>.</p>
     <p data-ctx="auto-ctx:kaznacheyskiy-schet-i-raschetnyy-schet">Чем лицевой счёт в казначействе принципиально отличается от обычного банковского счёта, наглядно показано в сравнении <a href="/baza-znaniy/kaznacheyskiy-schet-i-raschetnyy-schet/">казначейского и расчётного счёта</a>.</p>
     <p data-ctx="auto-ctx:pereoformlenie-licevogo-scheta-v-kaznachejstve">Когда у клиента меняются наименование, реквизиты или состав подписантов, сведения по счёту приводят в соответствие — как это сделать, разобрано в материале <a href="/baza-znaniy/pereoformlenie-licevogo-scheta-v-kaznachejstve/">переоформление лицевого счёта в казначействе</a>.</p>
+    <p data-ctx="auto-ctx:kartochka-obrazcov-podpisey-kaznachejstvo">Для части лицевых счетов при открытии оформляется карточка образцов подписей по форме 0531753 — кому она обязательна, а кому нет, разобрано в статье о <a href="/baza-znaniy/kartochka-obrazcov-podpisey-kaznachejstvo/">карточке образцов подписей для казначейства</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -809,6 +810,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:kniga-registracii-kaznacheyskih-schetov --><a class="card reveal" href="/baza-znaniy/kniga-registracii-kaznacheyskih-schetov/"><div class="card__cover"><span>Счета</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Книга регистрации казначейских счетов</h3><div class="card__meta">Счета · 16 мин</div></div></a>
     <!-- auto-related:pereoformlenie-licevogo-scheta-v-kaznachejstve --><a class="card reveal" href="/baza-znaniy/pereoformlenie-licevogo-scheta-v-kaznachejstve/"><div class="card__cover"><span>Переоформление</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Переоформление лицевого счёта в казначействе: порядок 2026</h3><div class="card__meta">Лицевой счёт · 15 мин</div></div></a>
     <!-- auto-related:neuchastnik-byudzhetnogo-processa --><a class="card reveal" href="/baza-znaniy/neuchastnik-byudzhetnogo-processa/"><div class="card__cover"><span>Неучастник</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Неучастник бюджетного процесса: кто это и лицевой счёт</h3><div class="card__meta">Основы · 15 мин</div></div></a>
+    <!-- auto-related:kartochka-obrazcov-podpisey-kaznachejstvo --><a class="card reveal" href="/baza-znaniy/kartochka-obrazcov-podpisey-kaznachejstvo/"><div class="card__cover"><span>Карточка подписей</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Карточка образцов подписей для казначейства: нужна ли в 2026</h3><div class="card__meta">Счета · 15 мин</div></div></a>
   </div>
 </section>
 

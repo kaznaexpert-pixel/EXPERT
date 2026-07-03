@@ -685,6 +685,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Что будет, если не обновить карточку вовремя?</summary><p>Распоряжения и документы, подписанные лицом, которого нет в действующей карточке образцов подписей, казначейство не примет. То есть платежи по счёту фактически встанут до тех пор, пока не будет представлена актуальная карточка.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:kartochka-obrazcov-podpisey-kaznachejstvo">Сама карточка — отдельный документ со своими правилами заполнения и заверения: форма 0531753, случаи представления и типовые ошибки разобраны в статье о <a href="/baza-znaniy/kartochka-obrazcov-podpisey-kaznachejstvo/">карточке образцов подписей для казначейства</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -744,6 +745,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/neuchastnik-byudzhetnogo-processa/"><div class="card__cover"><span>Неучастник</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Неучастник бюджетного процесса: кто это и лицевой счёт</h3><div class="card__meta">Основы · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/mashinochitaemaya-doverennost-kaznachejstvo/"><div class="card__cover"><span>МЧД</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Машиночитаемая доверенность (МЧД) для казначейства</h3><div class="card__meta">Сертификаты · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/sertifikat-ecp-kaznachejstvo/"><div class="card__cover"><span>ЭЦП</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Сертификат и ЭЦП казначейства: как получить в 2026</h3><div class="card__meta">Сертификаты · 15 мин</div></div></a>
+    <!-- auto-related:kartochka-obrazcov-podpisey-kaznachejstvo --><a class="card reveal" href="/baza-znaniy/kartochka-obrazcov-podpisey-kaznachejstvo/"><div class="card__cover"><span>Карточка подписей</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Карточка образцов подписей для казначейства: нужна ли в 2026</h3><div class="card__meta">Счета · 15 мин</div></div></a>
   </div>
 </section>
 

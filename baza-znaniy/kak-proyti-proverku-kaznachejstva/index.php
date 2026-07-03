@@ -671,6 +671,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Чем проверка отличается от санкционирования?</summary><p>Санкционирование — это текущий контроль при проведении операций, когда казначейство не пропускает нецелевые платежи. Проверка — последующий контроль уже состоявшегося расходования, поэтому к ней готовятся заранее, выстраивая документооборот.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:predstavlenie-i-predpisanie-kaznachejstva">Если по итогам проверки всё же вынесено представление или предписание, у объекта контроля есть право на досудебную жалобу и суд — порядок и сроки в разборе <a href="/baza-znaniy/predstavlenie-i-predpisanie-kaznachejstva/">«Представление и предписание казначейства: как обжаловать»</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -731,6 +732,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-po-goskontraktu/"><div class="card__cover"><span>Учёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по госконтракту в 2026: когда вести и штрафы</h3><div class="card__meta">Учёт · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/otchet-o-rashodah-celevyh-sredstv/"><div class="card__cover"><span>Отчёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отчёт о расходах целевых средств: как заполнить и сдать при КС</h3><div class="card__meta">Операции · 14 мин</div></div></a>
     <!-- auto-related:priostanovlenie-operaciy-po-licevomu-schetu --><a class="card reveal" href="/baza-znaniy/priostanovlenie-operaciy-po-licevomu-schetu/"><div class="card__cover"><span>Приостановление</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейство приостановило операции по счёту: что делать</h3><div class="card__meta">Контроль · 15 мин</div></div></a>
+    <!-- auto-related:predstavlenie-i-predpisanie-kaznachejstva --><a class="card reveal" href="/baza-znaniy/predstavlenie-i-predpisanie-kaznachejstva/"><div class="card__cover"><span>Предписание ФК</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Представление и предписание казначейства: как обжаловать</h3><div class="card__meta">Контроль · 16 мин</div></div></a>
   </div>
 </section>
 

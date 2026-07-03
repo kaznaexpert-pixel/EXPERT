@@ -681,6 +681,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <p data-ctx="auto-ctx:kak-proyti-proverku-kaznachejstva">Именно нецелевое расходование чаще всего ищут при контроле, поэтому к нему стоит готовиться заранее — см. <a href="/baza-znaniy/kak-proyti-proverku-kaznachejstva/">как пройти проверку казначейства</a>.</p>
+    <p data-ctx="auto-ctx:predstavlenie-i-predpisanie-kaznachejstva">Требование вернуть средства оформляется представлением или предписанием органа контроля — как их исполнить или оспорить, см. статью о <a href="/baza-znaniy/predstavlenie-i-predpisanie-kaznachejstva/">представлении и предписании казначейства</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -741,6 +742,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/operacii-po-licevomu-schetu-pri-ks/"><div class="card__cover"><span>Операции</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Какие операции можно проводить по лицевому счёту при КС</h3><div class="card__meta">Операции · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-po-goskontraktu/"><div class="card__cover"><span>Учёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по госконтракту в 2026: когда вести и штрафы</h3><div class="card__meta">Учёт · 14 мин</div></div></a>
     <!-- auto-related:kak-proyti-proverku-kaznachejstva --><a class="card reveal" href="/baza-znaniy/kak-proyti-proverku-kaznachejstva/"><div class="card__cover"><span>Проверка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Как пройти проверку казначейства: подготовка и права</h3><div class="card__meta">Контроль · 16 мин</div></div></a>
+    <!-- auto-related:predstavlenie-i-predpisanie-kaznachejstva --><a class="card reveal" href="/baza-znaniy/predstavlenie-i-predpisanie-kaznachejstva/"><div class="card__cover"><span>Предписание ФК</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Представление и предписание казначейства: как обжаловать</h3><div class="card__meta">Контроль · 16 мин</div></div></a>
   </div>
 </section>
 

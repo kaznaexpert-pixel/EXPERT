@@ -761,6 +761,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <p>Типовая ситуация: подрядчик выигрывает первый контракт с казначейским сопровождением и за неделю до аванса подаёт документы на лицевой счёт. ТОФК документы не принимает: организации нет в сводном реестре, а в ЕГРЮЛ к тому же «висит» старый юридический адрес. В итоге цепочка растягивается: изменения в ФНС, затем включение в реестр, затем счёт — аванс приходит на месяц позже, и график работ сдвигается с самого старта. При следующем контракте компания делает всё параллельно заранее: реестровая запись уже есть, подпись действует, счёт открывается в штатные сроки. Пример обобщённый; сроки зависят от региона, состояния ЕГРЮЛ и комплекта документов, но сама логика «реестр и подпись — параллельно и заранее» универсальна для любого первого контракта с сопровождением.</p>
     </div>
 
+    <p data-ctx="auto-ctx:otkaz-v-otkrytii-licevogo-scheta">Отсутствие записи в реестре — одна из типовых причин, по которым документы на счёт возвращают: полный разбор причин и порядок повторной подачи — в статье об <a href="/baza-znaniy/otkaz-v-otkrytii-licevogo-scheta/">отказе в открытии лицевого счёта</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -857,6 +858,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kaznacheyskiy-schet/"><div class="card__cover"><span>Счета</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейский счёт: что это, виды, реквизиты</h3><div class="card__meta">Счета · 17 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznachejstvo-i-tofk/"><div class="card__cover"><span>ТОФК</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Что такое Федеральное казначейство и ТОФК</h3><div class="card__meta">Основы · 13 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/portal-zayavitelya-kaznachejstva/"><div class="card__cover"><span>ФЗС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Портал заявителя казначейства (ФЗС)</h3><div class="card__meta">ЭЦП · 15 мин</div></div></a>
+    <!-- auto-related:otkaz-v-otkrytii-licevogo-scheta --><a class="card reveal" href="/baza-znaniy/otkaz-v-otkrytii-licevogo-scheta/"><div class="card__cover"><span>Отказ в открытии</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отказ в открытии лицевого счёта в казначействе: что делать</h3><div class="card__meta">Счета · 16 мин</div></div></a>
+    <!-- auto-related:kartochka-obrazcov-podpisey-kaznachejstvo --><a class="card reveal" href="/baza-znaniy/kartochka-obrazcov-podpisey-kaznachejstvo/"><div class="card__cover"><span>Карточка подписей</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Карточка образцов подписей для казначейства: нужна ли в 2026</h3><div class="card__meta">Счета · 15 мин</div></div></a>
   </div>
 </section>
 
