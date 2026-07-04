@@ -691,6 +691,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <p data-ctx="auto-ctx:vozvrat-platezha-kaznachejstvo">Если же платёж не задержан, а ушёл по ошибке или завис как невыясненное поступление, действует другой порядок — <a href="/baza-znaniy/vozvrat-platezha-kaznachejstvo/">возврат платежа через казначейство</a> по заявлению плательщика.</p>
     <p data-ctx="auto-ctx:priostanovlenie-operaciy-po-licevomu-schetu">Если платёж не просто задержан, а операция официально <a href="/baza-znaniy/priostanovlenie-operaciy-po-licevomu-schetu/">приостановлена в рамках мониторинга</a>, включается отдельная процедура с участием заказчика.</p>
+    <p data-ctx="auto-ctx:ispolnitelnyy-list-v-kaznachejstvo">Другое дело — просроченный долг заказчика: он взыскивается через суд и предъявление исполнительного документа по главе 24.1 БК — порядок в статье об <a href="/baza-znaniy/ispolnitelnyy-list-v-kaznachejstvo/">исполнительном листе в казначейство</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -753,6 +754,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:vozvrat-platezha-kaznachejstvo --><a class="card reveal" href="/baza-znaniy/vozvrat-platezha-kaznachejstvo/"><div class="card__cover"><span>Возврат платежа</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Возврат платежа через казначейство: порядок и заявление</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <!-- auto-related:naznachenie-platezha-kaznachejstvo --><a class="card reveal" href="/baza-znaniy/naznachenie-platezha-kaznachejstvo/"><div class="card__cover"><span>Назначение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Назначение платежа при казначейском сопровождении: образец</h3><div class="card__meta">Операции · 14 мин</div></div></a>
     <!-- auto-related:priostanovlenie-operaciy-po-licevomu-schetu --><a class="card reveal" href="/baza-znaniy/priostanovlenie-operaciy-po-licevomu-schetu/"><div class="card__cover"><span>Приостановление</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейство приостановило операции по счёту: что делать</h3><div class="card__meta">Контроль · 15 мин</div></div></a>
+    <!-- auto-related:ispolnitelnyy-list-v-kaznachejstvo --><a class="card reveal" href="/baza-znaniy/ispolnitelnyy-list-v-kaznachejstvo/"><div class="card__cover"><span>Взыскание долга</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Исполнительный лист в казначейство: взыскание с заказчика</h3><div class="card__meta">Контракты · 16 мин</div></div></a>
   </div>
 </section>
 

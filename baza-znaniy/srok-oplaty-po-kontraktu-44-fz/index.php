@@ -673,6 +673,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Как считается срок при поэтапной оплате?</summary><p>Отдельно по каждому этапу — от даты подписания документа о приёмке результатов соответствующего этапа. Ждать завершения всего контракта не нужно.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:ustupka-prava-trebovaniya-po-goskontraktu">Если ждать оплату по нормативным срокам бизнес не может, дебиторскую задолженность по контракту можно превратить в деньги раньше — как работают <a href="/baza-znaniy/ustupka-prava-trebovaniya-po-goskontraktu/">уступка права требования и факторинг по госконтракту</a>, разобрано отдельно.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -732,6 +733,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Аванс</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение авансовых платежей</h3><div class="card__meta">Применимость · 13 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>Отказы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Причины отказа казначейства в санкционировании</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha/"><div class="card__cover"><span>Платёж</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Распоряжение о совершении казначейского платежа</h3><div class="card__meta">Операции · 14 мин</div></div></a>
+    <!-- auto-related:ustupka-prava-trebovaniya-po-goskontraktu --><a class="card reveal" href="/baza-znaniy/ustupka-prava-trebovaniya-po-goskontraktu/"><div class="card__cover"><span>Цессия и факторинг</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Уступка права требования и факторинг по госконтракту</h3><div class="card__meta">Контракты · 16 мин</div></div></a>
+    <!-- auto-related:ispolnitelnyy-list-v-kaznachejstvo --><a class="card reveal" href="/baza-znaniy/ispolnitelnyy-list-v-kaznachejstvo/"><div class="card__cover"><span>Взыскание долга</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Исполнительный лист в казначейство: взыскание с заказчика</h3><div class="card__meta">Контракты · 16 мин</div></div></a>
   </div>
 </section>
 

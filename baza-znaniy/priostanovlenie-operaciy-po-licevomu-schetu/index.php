@@ -704,6 +704,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Приостановление означает, что нарушение доказано?</summary><p>Нет. Приостановление — это сигнал о наличии вопроса, а не установленный факт нарушения. Часто причина в устранимых несоответствиях или недостатке пояснений. Задача исполнителя — снять вопрос документами и пояснениями, а не оспаривать сам факт проверки.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:arest-sredstv-na-licevom-schete-kaznachejstva">Приостановление казначейством не стоит путать с арестом по долгам компании: могут ли вообще приставы и налоговая дотянуться до лицевого счёта — в материале об <a href="/baza-znaniy/arest-sredstv-na-licevom-schete-kaznachejstva/">аресте средств на лицевом счёте казначейства</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -763,6 +764,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kak-proyti-proverku-kaznachejstva/"><div class="card__cover"><span>Проверка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Как пройти проверку казначейства: подготовка и права</h3><div class="card__meta">Контроль · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/necelevoe-rashodovanie-celevyh-sredstv/"><div class="card__cover"><span>Нецелевое</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Нецелевое расходование целевых средств: последствия</h3><div class="card__meta">Контроль · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/operacii-po-licevomu-schetu-pri-ks/"><div class="card__cover"><span>Операции по счёту</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Какие операции можно проводить по лицевому счёту</h3><div class="card__meta">Операции · 15 мин</div></div></a>
+    <!-- auto-related:arest-sredstv-na-licevom-schete-kaznachejstva --><a class="card reveal" href="/baza-znaniy/arest-sredstv-na-licevom-schete-kaznachejstva/"><div class="card__cover"><span>Арест счёта</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Могут ли арестовать деньги на лицевом счёте в казначействе</h3><div class="card__meta">Счета · 16 мин</div></div></a>
   </div>
 </section>
 

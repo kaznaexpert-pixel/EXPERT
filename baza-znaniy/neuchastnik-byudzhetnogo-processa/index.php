@@ -677,6 +677,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Превращает ли сопровождение коммерческую компанию в бюджетную?</summary><p>Нет. Это распространённый миф. Статус неучастника лишь описывает положение компании по отношению к бюджетной системе и обосновывает открытие лицевого счёта. Организация остаётся коммерческой и не становится частью бюджетной системы.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:arest-sredstv-na-licevom-schete-kaznachejstva">Статус неучастника не делает компанию неприкасаемой для кредиторов, но её лицевой счёт защищён особым режимом — что могут приставы и налоговая, см. в разборе <a href="/baza-znaniy/arest-sredstv-na-licevom-schete-kaznachejstva/">ареста средств на лицевом счёте</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -736,6 +737,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kaznacheyskiy-schet-subpodryadchika/"><div class="card__cover"><span>Субподрядчик</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Нужен ли казначейский счёт субподрядчику</h3><div class="card__meta">Лицевой счёт · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Кто попадает</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Кто попадает под казначейское сопровождение в 2026</h3><div class="card__meta">Сопровождение · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/vidy-licevyh-schetov-v-kaznachejstve/"><div class="card__cover"><span>Виды счетов</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Виды лицевых счетов в казначействе: коды и назначение</h3><div class="card__meta">Лицевой счёт · 15 мин</div></div></a>
+    <!-- auto-related:arest-sredstv-na-licevom-schete-kaznachejstva --><a class="card reveal" href="/baza-znaniy/arest-sredstv-na-licevom-schete-kaznachejstva/"><div class="card__cover"><span>Арест счёта</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Могут ли арестовать деньги на лицевом счёте в казначействе</h3><div class="card__meta">Счета · 16 мин</div></div></a>
   </div>
 </section>
 
