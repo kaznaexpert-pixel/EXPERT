@@ -674,6 +674,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <p data-ctx="auto-ctx:ustupka-prava-trebovaniya-po-goskontraktu">Если ждать оплату по нормативным срокам бизнес не может, дебиторскую задолженность по контракту можно превратить в деньги раньше — как работают <a href="/baza-znaniy/ustupka-prava-trebovaniya-po-goskontraktu/">уступка права требования и факторинг по госконтракту</a>, разобрано отдельно.</p>
+    <p data-ctx="auto-ctx:konec-finansovogo-goda-pri-kaznacheyskom-soprovozhdenii">Особый режим у декабря: лимиты заказчика прекращают действие 31 декабря, а платёжные документы принимаются по уплотнённому графику — как пройти рубеж года без потери оплаты, разобрано в статье о <a href="/baza-znaniy/konec-finansovogo-goda-pri-kaznacheyskom-soprovozhdenii/">конце финансового года при казначейском сопровождении</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -735,6 +736,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha/"><div class="card__cover"><span>Платёж</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Распоряжение о совершении казначейского платежа</h3><div class="card__meta">Операции · 14 мин</div></div></a>
     <!-- auto-related:ustupka-prava-trebovaniya-po-goskontraktu --><a class="card reveal" href="/baza-znaniy/ustupka-prava-trebovaniya-po-goskontraktu/"><div class="card__cover"><span>Цессия и факторинг</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Уступка права требования и факторинг по госконтракту</h3><div class="card__meta">Контракты · 16 мин</div></div></a>
     <!-- auto-related:ispolnitelnyy-list-v-kaznachejstvo --><a class="card reveal" href="/baza-znaniy/ispolnitelnyy-list-v-kaznachejstvo/"><div class="card__cover"><span>Взыскание долга</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Исполнительный лист в казначейство: взыскание с заказчика</h3><div class="card__meta">Контракты · 16 мин</div></div></a>
+    <!-- auto-related:konec-finansovogo-goda-pri-kaznacheyskom-soprovozhdenii --><a class="card reveal" href="/baza-znaniy/konec-finansovogo-goda-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Конец года</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Конец финансового года: оплата контракта и лицевой счёт</h3><div class="card__meta">Основы · 16 мин</div></div></a>
   </div>
 </section>
 

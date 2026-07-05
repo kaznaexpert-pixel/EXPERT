@@ -676,6 +676,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <p data-ctx="auto-ctx:integraciya-eis-1s">Формировать и отправлять документы о приёмке можно прямо из учётной системы — как это устроено, разобрано в материале об <a href="/baza-znaniy/integraciya-eis-1s/">интеграции ЕИС и 1С для электронного актирования</a>.</p>
+    <p data-ctx="auto-ctx:konec-finansovogo-goda-pri-kaznacheyskom-soprovozhdenii">В декабре сроки актирования становятся критичными: акт, подписанный позже двадцатых чисел, уводит оплату в январь — календарь рубежа года собран в статье о <a href="/baza-znaniy/konec-finansovogo-goda-pri-kaznacheyskom-soprovozhdenii/">конце финансового года при казначейском сопровождении</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -736,6 +737,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-44-fz/"><div class="card__cover"><span>44-ФЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение по 44-ФЗ в 2026</h3><div class="card__meta">Применимость · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/igk-v-schete-fakture-i-upd/"><div class="card__cover"><span>ИГК</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">ИГК в счёте-фактуре, счёте и УПД</h3><div class="card__meta">Операции · 12 мин</div></div></a>
     <!-- auto-related:integraciya-eis-1s --><a class="card reveal" href="/baza-znaniy/integraciya-eis-1s/"><div class="card__cover"><span>ЕИС и 1С</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Интеграция ЕИС и 1С: обмен для электронного актирования</h3><div class="card__meta">Системы · 16 мин</div></div></a>
+    <!-- auto-related:konec-finansovogo-goda-pri-kaznacheyskom-soprovozhdenii --><a class="card reveal" href="/baza-znaniy/konec-finansovogo-goda-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Конец года</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Конец финансового года: оплата контракта и лицевой счёт</h3><div class="card__meta">Основы · 16 мин</div></div></a>
   </div>
 </section>
 

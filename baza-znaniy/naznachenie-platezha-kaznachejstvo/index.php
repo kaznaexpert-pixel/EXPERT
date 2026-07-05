@@ -679,6 +679,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Меняет ли казначейское сопровождение порядок НДС?</summary><p>Нет. Сопровождение определяет режим движения средств и требует корректно отразить налог в назначении, но порядок исчисления НДС не меняет. Налоговые вопросы при сопровождении рассматриваются отдельно.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:vozmeshchenie-rashodov-pri-kaznacheyskom-soprovozhdenii">Отдельная дисциплина — платежи самому себе: что написать в назначении и какие документы приложить, чтобы вернуть собственные затраты, — в разборе <a href="/baza-znaniy/vozmeshchenie-rashodov-pri-kaznacheyskom-soprovozhdenii/">возмещения произведённых расходов с лицевого счёта</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -738,6 +739,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/igk-v-schete-fakture-i-upd/"><div class="card__cover"><span>ИГК в документах</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">ИГК в счёте-фактуре, счёте и УПД: где указывать</h3><div class="card__meta">Операции · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>Отказы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Причины отказа казначейства в санкционировании</h3><div class="card__meta">Контроль · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/nalogi-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Налоги</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Налоги при казначейском сопровождении: НДС, прибыль и УСН</h3><div class="card__meta">Операции · 14 мин</div></div></a>
+    <!-- auto-related:vozmeshchenie-rashodov-pri-kaznacheyskom-soprovozhdenii --><a class="card reveal" href="/baza-znaniy/vozmeshchenie-rashodov-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Возмещение расходов</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Возмещение произведённых расходов: как вернуть свои деньги</h3><div class="card__meta">Операции · 16 мин</div></div></a>
   </div>
 </section>
 

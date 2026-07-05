@@ -688,6 +688,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Могут ли по одному исполнителю быть и федеральный, и региональный счёт?</summary><p>Да. По разным контрактам один исполнитель может работать и с территориальным органом Федерального казначейства (федеральные средства, счёт 71), и с финансовым органом субъекта (региональные средства). Контуры существуют параллельно, и путать их не следует.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-koncessiy-i-gchp">Заметная часть региональных денег под сопровождением — инфраструктурные проекты: как устроен контроль капитального гранта и платы концедента, см. в статье о <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-koncessiy-i-gchp/">казначейском сопровождении концессий и ГЧП</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -748,6 +749,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Кто попадает</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Кто попадает под казначейское сопровождение: пороги и случаи</h3><div class="card__meta">Основы · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/licevoy-schet-71-kak-otkryt/"><div class="card__cover"><span>Счёт 71</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Как открыть лицевой счёт 71 в ТОФК: пошагово и документы</h3><div class="card__meta">Лицевой счёт · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Что это</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение: что это и как работает</h3><div class="card__meta">Основы · 16 мин</div></div></a>
+    <!-- auto-related:kaznacheyskoe-soprovozhdenie-koncessiy-i-gchp --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-koncessiy-i-gchp/"><div class="card__cover"><span>Концессии и ГЧП</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение концессий и ГЧП в 2026 году</h3><div class="card__meta">Субсидии · 17 мин</div></div></a>
   </div>
 </section>
 

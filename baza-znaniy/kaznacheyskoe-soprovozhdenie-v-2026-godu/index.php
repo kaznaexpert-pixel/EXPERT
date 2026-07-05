@@ -708,6 +708,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>На что сопровождение не распространяется?</summary><p>На средства из федерального бюджета организациям кинематографии, региональным и муниципальным СМИ, а также политическим партиям в целях компенсации затрат по итогам участия в выборах.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-koncessiy-i-gchp">Для инфраструктурных инвесторов включение концессий в перечень — самое чувствительное новшество года: как капитальный грант и плата концедента проходят через лицевой счёт, разобрано в статье о <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-koncessiy-i-gchp/">казначейском сопровождении концессий и ГЧП</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -768,6 +769,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kaznacheyskiy-monitoring/"><div class="card__cover"><span>Мониторинг</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейский мониторинг: как работает и меры реагирования</h3><div class="card__meta">Контроль · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Средства</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Целевые средства: что это, виды и режим</h3><div class="card__meta">Операции · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Пиллар</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение: что это и кому нужно</h3><div class="card__meta">Пиллар · 20 мин</div></div></a>
+    <!-- auto-related:kaznacheyskoe-soprovozhdenie-koncessiy-i-gchp --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-koncessiy-i-gchp/"><div class="card__cover"><span>Концессии и ГЧП</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение концессий и ГЧП в 2026 году</h3><div class="card__meta">Субсидии · 17 мин</div></div></a>
+    <!-- auto-related:konec-finansovogo-goda-pri-kaznacheyskom-soprovozhdenii --><a class="card reveal" href="/baza-znaniy/konec-finansovogo-goda-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Конец года</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Конец финансового года: оплата контракта и лицевой счёт</h3><div class="card__meta">Основы · 16 мин</div></div></a>
   </div>
 </section>
 

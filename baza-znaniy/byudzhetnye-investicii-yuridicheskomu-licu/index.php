@@ -723,6 +723,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Нужно ли вести обособленный учёт инвестиций?</summary><p>Да. Как целевые средства, бюджетные инвестиции учитываются обособленно, расходы подтверждаются документами и проходят проверку целевого характера, а по итогам формируется отчётность об использовании.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-koncessiy-i-gchp">Частный случай с собственной механикой — бюджетное участие в концессионных соглашениях и проектах государственно-частного партнёрства: формы, каскад на подрядчиков и режим счёта — в отраслевом разборе <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-koncessiy-i-gchp/">сопровождения концессий и ГЧП</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -779,6 +780,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-v-2026-godu/"><div class="card__cover"><span>2026</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение в 2026 году</h3><div class="card__meta">Сопровождение · 17 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Средства</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Целевые средства: что это, виды и режим</h3><div class="card__meta">Операции · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Пиллар</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение: что это и кому нужно</h3><div class="card__meta">Пиллар · 20 мин</div></div></a>
+    <!-- auto-related:kaznacheyskoe-soprovozhdenie-koncessiy-i-gchp --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-koncessiy-i-gchp/"><div class="card__cover"><span>Концессии и ГЧП</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение концессий и ГЧП в 2026 году</h3><div class="card__meta">Субсидии · 17 мин</div></div></a>
   </div>
 </section>
 

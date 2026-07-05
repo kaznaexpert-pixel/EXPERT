@@ -673,6 +673,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <p data-ctx="auto-ctx:kartochka-obrazcov-podpisey-kaznachejstvo">Бумажные атрибуты у двух счетов тоже различаются: когда нужна карточка образцов подписей в банке и в казначействе — в материале о <a href="/baza-znaniy/kartochka-obrazcov-podpisey-kaznachejstvo/">карточке образцов подписей</a>.</p>
     <p data-ctx="auto-ctx:arest-sredstv-na-licevom-schete-kaznachejstva">Разница проявляется и в исполнительном производстве: инкассо и аресты работают по банковским счетам, а лицевой счёт живёт по другим правилам — разбор в статье <a href="/baza-znaniy/arest-sredstv-na-licevom-schete-kaznachejstva/">«Могут ли арестовать деньги на лицевом счёте в казначействе»</a>.</p>
+    <p data-ctx="auto-ctx:vozmeshchenie-rashodov-pri-kaznacheyskom-soprovozhdenii">Мост между двумя счетами существует: потраченные на контракт собственные средства можно законно вернуть с лицевого счёта на расчётный — механизм описан в статье о <a href="/baza-znaniy/vozmeshchenie-rashodov-pri-kaznacheyskom-soprovozhdenii/">возмещении произведённых расходов</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -738,6 +739,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:nalogi-pri-kaznacheyskom-soprovozhdenii --><a class="card reveal" href="/baza-znaniy/nalogi-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Налоги</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Налоги при казначейском сопровождении: НДС, прибыль, УСН</h3><div class="card__meta">Учёт · 14 мин</div></div></a>
     <!-- auto-related:kartochka-obrazcov-podpisey-kaznachejstvo --><a class="card reveal" href="/baza-znaniy/kartochka-obrazcov-podpisey-kaznachejstvo/"><div class="card__cover"><span>Карточка подписей</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Карточка образцов подписей для казначейства: нужна ли в 2026</h3><div class="card__meta">Счета · 15 мин</div></div></a>
     <!-- auto-related:arest-sredstv-na-licevom-schete-kaznachejstva --><a class="card reveal" href="/baza-znaniy/arest-sredstv-na-licevom-schete-kaznachejstva/"><div class="card__cover"><span>Арест счёта</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Могут ли арестовать деньги на лицевом счёте в казначействе</h3><div class="card__meta">Счета · 16 мин</div></div></a>
+    <!-- auto-related:vozmeshchenie-rashodov-pri-kaznacheyskom-soprovozhdenii --><a class="card reveal" href="/baza-znaniy/vozmeshchenie-rashodov-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Возмещение расходов</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Возмещение произведённых расходов: как вернуть свои деньги</h3><div class="card__meta">Операции · 16 мин</div></div></a>
   </div>
 </section>
 
