@@ -84,7 +84,7 @@
   "description":"Кто обязан, порог, отдельный и лицевой счёт, раздельный учёт, расширенное казначейское сопровождение, штрафы, отличие от банковского сопровождения.",
   "author":{"@type":"Person","@id":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person","name":"Ярослав Михайлов","jobTitle":"Главный эксперт по казначейскому сопровождению","worksFor":{"@id":"https://kaznaexpert.ru/#organization"}},
   "publisher":{"@type":"ProfessionalService","@id":"https://kaznaexpert.ru/#organization","name":"КазнаЭксперт"},
-  "datePublished":"2026-06-03","dateModified": "2026-06-26T14:00:00+03:00",
+  "datePublished":"2026-06-03","dateModified": "2026-07-05",
   "mainEntityOfPage":"https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/",
   "about":["казначейское сопровождение ГОЗ","275-ФЗ","раздельный учёт гособоронзаказа","отдельный счёт ГОЗ","расширенное казначейское сопровождение"],
   "citation":["ФЗ № 275-ФЗ от 29.12.2012","ФЗ № 426-ФЗ от 28.11.2025, ст. 5","БК РФ, ст. 242.23–242.27","ФЗ № 406-ФЗ от 04.11.2025","ст. 15.37.1, 15.49 КоАП РФ (введены ФЗ № 506-ФЗ от 28.12.2025)"],
