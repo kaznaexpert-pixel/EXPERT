@@ -807,7 +807,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
     <form class="kz-sub__form" id="kzSubForm" novalidate data-endpoint="/php/subscribe.php">
       <h3>Получить календарь на почту</h3>
-      <p>Пришлём PDF после подтверждения подписки. Без спама, отписка в один клик.</p>
+      <p>Пришлём PDF после подтверждения подписки. Без спама, отписка в один клик. Расчёт санкций разобран в материале о <a href="/baza-znaniy/peni-i-shtrafy-po-44-fz/">пенях и штрафах по 44-ФЗ</a>.</p>
       <input class="kz-sub__fld" type="email" name="email" placeholder="Ваш e-mail" required autocomplete="email" inputmode="email">
       <input class="kz-sub__hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
       <label class="kz-sub__policy"><input type="checkbox" name="consent" required><span>Даю согласие на обработку персональных данных и на получение информационных и рекламных писем на указанный e-mail в соответствии с <a href="/privacy/" target="_blank" rel="noopener">политикой</a>. Отписаться можно в один клик в любом письме.</span></label>

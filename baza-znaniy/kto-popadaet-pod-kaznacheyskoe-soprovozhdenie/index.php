@@ -572,7 +572,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       .ks-quiz__step{font-size:12px;color:var(--m);letter-spacing:.04em;text-transform:uppercase;margin-bottom:8px}
       </style>
       <h2 id="ksQuizTitle">Проверьте за 30 секунд: попадает ли ваш контракт под сопровождение</h2>
-      <p class="ks-quiz__sub">Мини-тест по статье 5 Закона № 426-ФЗ о федеральном бюджете на 2026 год</p>
+      <p class="ks-quiz__sub">Мини-тест по статье 5 Закона № 426-ФЗ о федеральном бюджете на 2026 год Порядок закреплён в <a href="/baza-znaniy/normativnaya-baza/pp-2024-pravila-ks/">Правилах казначейского сопровождения (ПП № 2024)</a>.</p>
       <div id="ksqBody">
         <div class="ks-quiz__step" id="ksqStep">Вопрос 1</div>
         <p class="ks-quiz__q" id="ksqQ"></p>
