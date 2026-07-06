@@ -678,6 +678,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <p data-ctx="auto-ctx:arest-sredstv-na-licevom-schete-kaznachejstva">Статус неучастника не делает компанию неприкасаемой для кредиторов, но её лицевой счёт защищён особым режимом — что могут приставы и налоговая, см. в разборе <a href="/baza-znaniy/arest-sredstv-na-licevom-schete-kaznachejstva/">ареста средств на лицевом счёте</a>.</p>
+    <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-dlya-ip">Статус неучастника распространяется и на предпринимателей: какие документы готовит ИП и чем его порядок отличается от ООО — в статье о <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-dlya-ip/">казначейском сопровождении для ИП</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -738,6 +739,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Кто попадает</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Кто попадает под казначейское сопровождение в 2026</h3><div class="card__meta">Сопровождение · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/vidy-licevyh-schetov-v-kaznachejstve/"><div class="card__cover"><span>Виды счетов</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Виды лицевых счетов в казначействе: коды и назначение</h3><div class="card__meta">Лицевой счёт · 15 мин</div></div></a>
     <!-- auto-related:arest-sredstv-na-licevom-schete-kaznachejstva --><a class="card reveal" href="/baza-znaniy/arest-sredstv-na-licevom-schete-kaznachejstva/"><div class="card__cover"><span>Арест счёта</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Могут ли арестовать деньги на лицевом счёте в казначействе</h3><div class="card__meta">Счета · 16 мин</div></div></a>
+    <!-- auto-related:kaznacheyskoe-soprovozhdenie-dlya-ip --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-dlya-ip/"><div class="card__cover"><span>Для ИП</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение для ИП: документы и отличия от ООО</h3><div class="card__meta">Сопровождение · 14 мин</div></div></a>
   </div>
 </section>
 

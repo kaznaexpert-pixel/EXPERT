@@ -803,6 +803,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <p data-ctx="auto-ctx:neuchastnik-byudzhetnogo-processa">Исполнитель контракта, которому открывают лицевой счёт под сопровождение, выступает <a href="/baza-znaniy/neuchastnik-byudzhetnogo-processa/">неучастником бюджетного процесса</a> — это не делает его бюджетным учреждением.</p>
+    <p data-ctx="auto-ctx:soprovozhdenie-goskontraktov-pod-kluch">Если вести казначейский контур некому, операционную работу — от открытия счёта до отчётности — передают профильной команде: формат, этапы и цены разобраны в статье о <a href="/baza-znaniy/soprovozhdenie-goskontraktov-pod-kluch/">сопровождении госконтрактов под ключ</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -931,6 +932,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:kaznacheyskoe-obespechenie-obyazatelstv --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-obespechenie-obyazatelstv/"><div class="card__cover"><span>КОО</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское обеспечение обязательств (КОО)</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <!-- auto-related:kaznacheyskiy-kontrakt --><a class="card reveal" href="/baza-znaniy/kaznacheyskiy-kontrakt/"><div class="card__cover"><span>Контракт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейский контракт: что это и как работать</h3><div class="card__meta">Основы · 14 мин</div></div></a>
     <!-- auto-related:neuchastnik-byudzhetnogo-processa --><a class="card reveal" href="/baza-znaniy/neuchastnik-byudzhetnogo-processa/"><div class="card__cover"><span>Неучастник</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Неучастник бюджетного процесса: кто это и лицевой счёт</h3><div class="card__meta">Основы · 15 мин</div></div></a>
+    <!-- auto-related:soprovozhdenie-goskontraktov-pod-kluch --><a class="card reveal" href="/baza-znaniy/soprovozhdenie-goskontraktov-pod-kluch/"><div class="card__cover"><span>Под ключ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Сопровождение госконтрактов под ключ: этапы, сроки и цены</h3><div class="card__meta">Сопровождение · 15 мин</div></div></a>
   </div>
 </section>
 
