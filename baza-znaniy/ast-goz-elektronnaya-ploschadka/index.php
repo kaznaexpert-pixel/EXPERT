@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Article","headline":"АСТ ГОЗ: что это и как работает электронная площадка в 2026","description":"АСТ ГОЗ — специализированная электронная площадка для закрытых закупок по ГОЗ. Оператор ООО «АСТ ГОЗ», основание — распоряжение № 1447-р, требования к участникам и связь с казначейским сопровождением.","inLanguage":"ru-RU","datePublished":"2026-06-10","dateModified":"2026-07-02","author":{"@type":"Person","name":"Ярослав Михайлов","jobTitle":"Главный эксперт по казначейскому сопровождению","url":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/"},"publisher":{"@type":"Organization","name":"КазнаЭксперт","url":"https://kaznaexpert.ru","logo":{"@type":"ImageObject","url":"https://kaznaexpert.ru/img/logogold.png"}},"image":"https://kaznaexpert.ru/img/og-image.png","mainEntityOfPage":{"@type":"WebPage","@id":"https://kaznaexpert.ru/baza-znaniy/ast-goz-elektronnaya-ploschadka/"}}
+{"@context":"https://schema.org","@type":"Article","headline":"АСТ ГОЗ: что это и как работает электронная площадка в 2026","description":"АСТ ГОЗ — специализированная электронная площадка для закрытых закупок по ГОЗ. Оператор ООО «АСТ ГОЗ», основание — распоряжение № 1447-р, требования к участникам и связь с казначейским сопровождением.","inLanguage":"ru-RU","datePublished":"2026-06-10","dateModified": "2026-07-06","author":{"@type":"Person","name":"Ярослав Михайлов","jobTitle":"Главный эксперт по казначейскому сопровождению","url":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/"},"publisher":{"@type":"Organization","name":"КазнаЭксперт","url":"https://kaznaexpert.ru","logo":{"@type":"ImageObject","url":"https://kaznaexpert.ru/img/logogold.png"}},"image":"https://kaznaexpert.ru/img/og-image.png","mainEntityOfPage":{"@type":"WebPage","@id":"https://kaznaexpert.ru/baza-znaniy/ast-goz-elektronnaya-ploschadka/"}}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"АСТ ГОЗ: электронная площадка"}]}
@@ -563,7 +563,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · ГОЗ <span class="fresh">Актуально на 2026</span></div>
     <h1>АСТ ГОЗ: что это и как работает электронная площадка в 2026</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 2 июля 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 6 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -753,7 +753,27 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <div><dt>ИГК</dt><dd>Идентификатор государственного контракта — для учёта при сопровождении.</dd></div>
     </dl>
 
-    <h2 id="faq">Частые вопросы</h2>
+    <!-- astgoz-deep -->
+<h2 id="registraciya-ast-goz">Регистрация на АСТ ГОЗ: пошаговый порядок</h2>
+<p>Аккредитация на закрытой площадке отличается от регистрации на обычных электронных торговых площадках: доступ выдаётся под гособоронзаказ и требует квалифицированной подписи с нужными полномочиями. Порядок по шагам.</p>
+<ol class="steps">
+<li>Получить усиленную квалифицированную электронную подпись, пригодную для работы с гособоронзаказом, на уполномоченное лицо организации.</li>
+<li>Настроить рабочее место: средство криптозащиты, браузерный плагин и корневые сертификаты удостоверяющего центра.</li>
+<li>Подать заявление на аккредитацию оператору площадки с уставными документами и сведениями из ЕГРЮЛ.</li>
+<li>Дождаться проверки и подтверждения аккредитации оператором — доступ открывается к закрытым процедурам ГОЗ.</li>
+<li>Проверить полномочия и роли пользователей перед первой процедурой, чтобы подпись принималась площадкой.</li>
+</ol>
+<table class="ctab">
+<caption>Типовые ошибки при регистрации на АСТ ГОЗ и решение</caption>
+<tr><th>Ошибка</th><th>Последствие</th><th>Решение</th></tr>
+<tr><td>Сертификат подписи без нужных для гособоронзаказа полномочий</td><td>Площадка не принимает подпись</td><td>Выпустить подпись с корректным набором полномочий на уполномоченное лицо</td></tr>
+<tr><td>Не настроены криптопровайдер и плагин браузера</td><td>Ошибка входа и подписания</td><td>Установить средство криптозащиты, плагин и корневые сертификаты</td></tr>
+<tr><td>Данные не совпадают со сведениями ЕГРЮЛ</td><td>Отказ в аккредитации</td><td>Сверить реквизиты и актуализировать сведения до подачи</td></tr>
+</table>
+<h2 id="astgoz-otdelnyy-schet">После торгов: отдельный счёт и казначейское сопровождение ГОЗ</h2>
+<p>Победа в закрытой процедуре на АСТ ГОЗ — только начало: контракт исполняется в режиме гособоронзаказа. Расчёты идут через <a href="/baza-znaniy/otdelnyy-schet-po-goz/">отдельный счёт по ГОЗ</a> в уполномоченном банке либо через лицевой счёт при <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/">казначейском сопровождении ГОЗ</a>, а по каждому платежу ведётся <a href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/">раздельный учёт</a>. Идентификатор государственного контракта (ИГК) присваивается заказчиком и указывается во всех расчётах.</p>
+
+<h2 id="faq">Частые вопросы</h2>
     <div class="faq">
       <details open><summary>Что такое АСТ ГОЗ?</summary><p>Это специализированная электронная площадка для проведения закрытых конкурентных закупок в электронной форме, в том числе по гособоронзаказу и закупкам со сведениями гостайны. Включена в перечень операторов специализированных площадок распоряжением Правительства РФ от 12.07.2018 № 1447-р.</p></details>
       <details><summary>Кто оператор АСТ ГОЗ?</summary><p>Оператор — ООО «Автоматизированная система торгов государственного оборонного заказа» (ООО «АСТ ГОЗ»). Организационно-правовая форма — общество с ограниченной ответственностью, а не акционерное общество.</p></details>

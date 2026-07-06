@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Налоги при казначейском сопровождении: НДС, прибыль и УСН", "description": "Меняет ли казначейское сопровождение налоги: НДС с аванса на лицевом счёте, налог на прибыль и УСН, можно ли платить налоги с лицевого счёта и зачем раздельный учёт.", "inLanguage": "ru-RU", "datePublished": "2026-06-25", "dateModified": "2026-06-25", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/nalogi-pri-kaznacheyskom-soprovozhdenii/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Налоги при казначейском сопровождении: НДС, прибыль и УСН", "description": "Меняет ли казначейское сопровождение налоги: НДС с аванса на лицевом счёте, налог на прибыль и УСН, можно ли платить налоги с лицевого счёта и зачем раздельный учёт.", "inLanguage": "ru-RU", "datePublished": "2026-06-25", "dateModified": "2026-07-06", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/nalogi-pri-kaznacheyskom-soprovozhdenii/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Налоги при казначейском сопровождении", "item": "https://kaznaexpert.ru/baza-znaniy/nalogi-pri-kaznacheyskom-soprovozhdenii/"}]}
@@ -545,7 +545,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Учёт <span class="fresh">Актуально на 2026</span></div>
     <h1>Налоги при казначейском сопровождении: НДС, прибыль и УСН</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 25 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 6 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -691,7 +691,39 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <div><dt>Разрешённые операции</dt><dd>Платежи, допустимые по лицевому счёту участника сопровождения, включая уплату налогов, взносов и заработной платы.</dd></div>
     </dl>
 
-    <h2 id="faq">Частые вопросы</h2>
+    <!-- nalogi-deep -->
+<h2 id="moment-naloga">Когда возникает налог: момент начисления при казначейском сопровождении</h2>
+<p>Зачисление денег на лицевой счёт в казначействе не переносит момент возникновения налога — он определяется Налоговым кодексом, а не маршрутом платежа. Ниже — опорная таблица по каждому налогу.</p>
+<table class="ctab">
+<caption>Момент возникновения налога по операциям сопровождаемого контракта</caption>
+<tr><th>Налог</th><th>Когда возникает</th><th>Основание</th></tr>
+<tr><td>НДС с аванса</td><td>На дату зачисления аванса на лицевой счёт</td><td>п. 1 ст. 167 НК РФ</td></tr>
+<tr><td>НДС с реализации</td><td>На дату отгрузки или подписания акта приёмки</td><td>п. 1 ст. 167 НК РФ</td></tr>
+<tr><td>Налог на прибыль (метод начисления)</td><td>На дату реализации (акта), независимо от поступления денег</td><td>ст. 271 НК РФ</td></tr>
+<tr><td>Доход при УСН (кассовый метод)</td><td>На дату поступления оплаты на лицевой счёт</td><td>п. 1 ст. 346.17 НК РФ</td></tr>
+<tr><td>НДФЛ и страховые взносы</td><td>При выплате зарплаты с лицевого счёта</td><td>гл. 23, гл. 34 НК РФ</td></tr>
+</table>
+<p>Подробнее о режиме операций — в статье <a href="/baza-znaniy/operacii-po-licevomu-schetu-pri-ks/">какие операции можно проводить по лицевому счёту</a>, а о зачёте авансового НДС при возврате — в разборе <a href="/baza-znaniy/vozvrat-avansa-po-goskontraktu/">возврата аванса по госконтракту</a>.</p>
+<h2 id="osno-usn">ОСНО и УСН на сопровождаемом контракте: что отличается</h2>
+<table class="ctab">
+<caption>Сравнение налоговых режимов при казначейском сопровождении</caption>
+<tr><th>Параметр</th><th>ОСНО</th><th>УСН</th></tr>
+<tr><td>НДС</td><td>Начисляется с аванса и реализации</td><td>Не начисляется (кроме случаев ст. 161, 174.1 НК РФ)</td></tr>
+<tr><td>Момент признания дохода</td><td>По начислению — на дату акта</td><td>Кассовый — на дату зачисления на лицевой счёт</td></tr>
+<tr><td>Вычет НДС по расходам</td><td>Да</td><td>Нет</td></tr>
+<tr><td>Счёт-фактура на аванс</td><td>Обязательна в 5 дней</td><td>Не выставляется</td></tr>
+</table>
+<h2 id="oshibki-nalogi">Частые ошибки по налогам и последствия</h2>
+<table class="ctab">
+<caption>Ошибка → последствие → как правильно</caption>
+<tr><th>Ошибка</th><th>Последствие</th><th>Как правильно</th></tr>
+<tr><td>Не начислить НДС с аванса, потому что деньги «заморожены» на лицевом счёте</td><td>Доначисление НДС, пени и штраф по ст. 122 НК РФ</td><td>Начислить НДС на дату зачисления аванса (ст. 167 НК РФ)</td></tr>
+<tr><td>Считать поступление на лицевой счёт «не выручкой»</td><td>Занижение базы по прибыли или УСН</td><td>Признать доход по правилам гл. 25 или 26.2 НК РФ</td></tr>
+<tr><td>Ждать оплаты «живыми» деньгами на расчётный счёт для уплаты налогов</td><td>Кассовый разрыв и просрочка платежей в бюджет</td><td>Платить налоги и взносы прямо с лицевого счёта — это разрешённая операция</td></tr>
+</table>
+<p>Как эти операции проходят у бухгалтера на практике — в <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-dlya-buhgaltera/">памятке для бухгалтера</a>; по гособоронзаказу структуру затрат и прибыли смотрите в разборе <a href="/baza-znaniy/normy-pribyli-goz/">норм прибыли ГОЗ</a>.</p>
+
+<h2 id="faq">Частые вопросы</h2>
     <div class="faq">
       <details open><summary>Меняет ли казначейское сопровождение налоги?</summary><p>Нет. Оно меняет маршрут целевых денег и режим их расходования, но не систему налогообложения. Налоги исполнитель платит по своей системе — общей или упрощённой — как по обычному контракту.</p></details>
       <details><summary>Нужно ли платить НДС с аванса, зачисленного на лицевой счёт?</summary><p>Да. По статье 167 НК налоговая база по НДС определяется на дату получения аванса независимо от того, на какой счёт он поступил. При отгрузке авансовый НДС принимается к вычету.</p></details>

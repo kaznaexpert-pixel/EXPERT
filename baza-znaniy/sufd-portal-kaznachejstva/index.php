@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"giis"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "СУФД-портал казначейства: что это, как подключиться и работать", "description": "СУФД — система удалённого финансового документооборота Федерального казначейства: возможности портала, пошаговое подключение через УФК, требования к рабочему месту и типовые ошибки.", "inLanguage": "ru-RU", "datePublished": "2026-06-11", "dateModified": "2026-06-11", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/sufd-portal-kaznachejstva/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "СУФД-портал казначейства: что это, как подключиться и работать", "description": "СУФД — система удалённого финансового документооборота Федерального казначейства: возможности портала, пошаговое подключение через УФК, требования к рабочему месту и типовые ошибки.", "inLanguage": "ru-RU", "datePublished": "2026-06-11", "dateModified": "2026-07-06", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/sufd-portal-kaznachejstva/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "СУФД-портал казначейства", "item": "https://kaznaexpert.ru/baza-znaniy/sufd-portal-kaznachejstva/"}]}
@@ -566,7 +566,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · ГИС <span class="fresh">Актуально на 2026</span></div>
     <h1>СУФД-портал казначейства: что это, как подключиться и работать</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 11 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 6 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -715,7 +715,21 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <div><dt>КЭП</dt><dd>Квалифицированная электронная подпись — придаёт документам юридическую силу по 63-ФЗ.</dd></div>
     </dl>
 
-    <h2 id="faq">Частые вопросы</h2>
+    <!-- sufd-deep -->
+<h2 id="sufd-vs-eb">СУФД-портал и «Электронный бюджет»: что для чего</h2>
+<p>Две системы часто путают. СУФД-портал — это канал удалённого документооборота с территориальным органом Федерального казначейства; ГИИС «Электронный бюджет» — единая система Минфина, через которую ведётся казначейское сопровождение госконтрактов. Ниже — сравнение по назначению.</p>
+<table class="ctab">
+<caption>СУФД-портал против «Электронного бюджета»</caption>
+<tr><th>Критерий</th><th>СУФД-портал</th><th>«Электронный бюджет»</th></tr>
+<tr><td>Оператор</td><td>Территориальный орган Федерального казначейства</td><td>Министерство финансов РФ</td></tr>
+<tr><td>Основные пользователи</td><td>Получатели и администраторы бюджетных средств, отдельные операции по лицевым счетам</td><td>Участники казначейского сопровождения — исполнители госконтрактов</td></tr>
+<tr><td>Ключевые документы</td><td>Платёжные документы, заявки, выписки по лицевому счёту</td><td>Сведения об операциях с целевыми средствами, распоряжения, санкционирование</td></tr>
+<tr><td>Вход</td><td>По сертификату электронной подписи через средство криптозащиты</td><td>По сертификату электронной подписи</td></tr>
+<tr><td>Роль при сопровождении контракта</td><td>Вспомогательная — доступ к части операций и выпискам</td><td>Основная рабочая система исполнителя</td></tr>
+</table>
+<p>Как настроить основную систему исполнителя — в статье <a href="/baza-znaniy/elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta/">«Электронный бюджет» для исполнителя контракта</a>; про подпись для входа — в разборе <a href="/baza-znaniy/sertifikat-ecp-kaznachejstvo/">сертификата электронной подписи казначейства</a>.</p>
+
+<h2 id="faq">Частые вопросы</h2>
     <div class="faq">
       <details open><summary>Что такое СУФД простыми словами?</summary><p>Это «интернет-банк» Федерального казначейства: веб-портал, через который клиенты казначейства отправляют платёжные документы, получают выписки по лицевым счетам и отчётность.</p></details>
       <details><summary>Чем СУФД отличается от «Электронного бюджета»?</summary><p>СУФД — система финансового документооборота с органом казначейства (платёжки, выписки). ГИИС «Электронный бюджет» — более широкая система управления общественными финансами, куда казначейство поэтапно переводит клиентов. Какой канал использует ваша организация, определяет ваше УФК.</p></details>

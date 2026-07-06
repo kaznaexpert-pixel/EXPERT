@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение по 44-ФЗ в 2026 году: когда применяется и как исполнять контракт", "description": "Казначейское сопровождение по 44-ФЗ в 2026: пороги по закону № 426-ФЗ, какие контракты и авансы подпадают, лицевой счёт, ИГК и обеспечение контракта.", "inLanguage": "ru-RU", "datePublished": "2026-06-21", "dateModified": "2026-07-02", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-44-fz/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение по 44-ФЗ в 2026 году: когда применяется и как исполнять контракт", "description": "Казначейское сопровождение по 44-ФЗ в 2026: пороги по закону № 426-ФЗ, какие контракты и авансы подпадают, лицевой счёт, ИГК и обеспечение контракта.", "inLanguage": "ru-RU", "datePublished": "2026-06-21", "dateModified": "2026-07-06", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-44-fz/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Казначейское сопровождение по 44-ФЗ", "item": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-44-fz/"}]}
@@ -547,7 +547,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Казначейское сопровождение <span class="fresh">Актуально на 2026</span></div>
     <h1>Казначейское сопровождение по 44-ФЗ в 2026 году: когда применяется и как исполнять контракт</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>18 мин чтения</span><span class="dot">·</span><span>Обновлено 2 июля 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>18 мин чтения</span><span class="dot">·</span><span>Обновлено 6 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -697,7 +697,20 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <div><dt>Санкционирование</dt><dd>Проверка казначейством суммы и направления расхода до оплаты на соответствие контракту и документам.</dd></div>
     </dl>
 
-    <h2 id="faq">Частые вопросы</h2>
+    <!-- minfin-grbs -->
+<h2 id="kontrakty-s-minfinom">Контракты с Минфином и федеральными ГРБС под казначейским сопровождением</h2>
+<p>Когда заказчиком выступает Минфин России или другой федеральный орган, госконтракт финансируется из федерального бюджета через главного распорядителя бюджетных средств (ГРБС). Само заключение идёт по общим правилам 44-ФЗ через ЕИС, но при достижении порога расчёты переводятся на лицевой счёт в территориальном органе Федерального казначейства, и каждый платёж проходит санкционирование.</p>
+<table class="ctab">
+<caption>Что происходит с контрактом федерального ГРБС по шагам</caption>
+<tr><th>Этап</th><th>Что происходит</th></tr>
+<tr><td>Заключение</td><td>Контракт подписывается по 44-ФЗ в ЕИС; в него включается условие о казначейском сопровождении</td></tr>
+<tr><td>Открытие счёта</td><td>Исполнитель открывает лицевой счёт в ТОФК по идентификатору государственного контракта (ИГК)</td></tr>
+<tr><td>Финансирование</td><td>Средства федерального бюджета доводятся через ГРБС и зачисляются на лицевой счёт как целевые</td></tr>
+<tr><td>Расходование</td><td>Каждый платёж санкционируется; ведётся раздельный учёт целевых средств</td></tr>
+</table>
+<p>Порог, с которого включается сопровождение, и перечень случаев разобраны в статье <a href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/">кто попадает под казначейское сопровождение</a>, а общий порядок движения средств — в разборе <a href="/baza-znaniy/poryadok-kaznacheyskogo-soprovozhdeniya-sredstv/">порядка казначейского сопровождения средств</a>.</p>
+
+<h2 id="faq">Частые вопросы</h2>
     <div class="faq">
       <details open><summary>С какой суммы контракт по 44-ФЗ попадает под казначейское сопровождение в 2026?</summary><p>Пороги задаёт статья 5 закона о федеральном бюджете № 426-ФЗ. Под казначейское сопровождение попадают, в частности, авансы по госконтрактам от 100 млн рублей (кроме ГОЗ), расчёты у единственного поставщика по пункту 2 части 1 статьи 93 от 3 млн рублей, контракты за счёт целевых субсидий и инвестиций, а также договоры соисполнителей от 3 млн в составе сопровождаемого контракта.</p></details>
       <details><summary>Казначейское сопровождение устанавливает сам 44-ФЗ?</summary><p>Нет. 44-ФЗ лишь требует включить условие о сопровождении в контракт (статьи 34 и 42). Перечень случаев и суммовые пороги устанавливает ежегодный закон о бюджете, а механику — статья 242.23 Бюджетного кодекса.</p></details>

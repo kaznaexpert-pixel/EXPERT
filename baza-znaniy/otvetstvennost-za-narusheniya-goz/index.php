@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Ответственность за нарушения в сфере ГОЗ и казначейского сопровождения", "description": "Ответственность за нарушения в ГОЗ в 2026: новая ст. 7.30.3 КоАП с 01.03.2025, штрафы за учёт и завышение цены, уголовные ст. 201.1 и 285.4 УК РФ.", "inLanguage": "ru-RU", "datePublished": "2026-06-16", "dateModified": "2026-06-16", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/otvetstvennost-za-narusheniya-goz/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Ответственность за нарушения в сфере ГОЗ и казначейского сопровождения", "description": "Ответственность за нарушения в ГОЗ в 2026: новая ст. 7.30.3 КоАП с 01.03.2025, штрафы за учёт и завышение цены, уголовные ст. 201.1 и 285.4 УК РФ.", "inLanguage": "ru-RU", "datePublished": "2026-06-16", "dateModified": "2026-07-06", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/otvetstvennost-za-narusheniya-goz/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Ответственность за нарушения в ГОЗ", "item": "https://kaznaexpert.ru/baza-znaniy/otvetstvennost-za-narusheniya-goz/"}]}
@@ -544,7 +544,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Ответственность <span class="fresh">Актуально на 2026</span></div>
     <h1>Ответственность за нарушения в сфере ГОЗ и казначейского сопровождения</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>18 мин чтения</span><span class="dot">·</span><span>Обновлено 16 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>18 мин чтения</span><span class="dot">·</span><span>Обновлено 6 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -686,7 +686,27 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <div><dt>Санкционирование</dt><dd>Проверка казначейством оснований платежа перед его проведением; при нарушениях следует отказ.</dd></div>
     </dl>
 
-    <h2 id="faq">Частые вопросы</h2>
+    <!-- otv-deep -->
+<h2 id="vidy-otvetstvennosti">Виды ответственности в сфере ГОЗ: кто применяет и сроки давности</h2>
+<table class="ctab">
+<caption>Административная, уголовная и казначейская ответственность — сравнение</caption>
+<tr><th>Вид</th><th>Норма</th><th>Кто применяет</th><th>Срок давности</th></tr>
+<tr><td>Административная</td><td>ст. 7.30.3, 15.37.1, 15.49 КоАП РФ</td><td>ФАС, органы контроля, суд</td><td>Один год со дня совершения (ст. 4.5 КоАП РФ)</td></tr>
+<tr><td>Уголовная</td><td>ст. 201.1, 285.4 УК РФ</td><td>Следственные органы, суд</td><td>По тяжести деяния (ст. 78 УК РФ)</td></tr>
+<tr><td>Казначейская (нефинансовая санкция)</td><td>Порядок по приказу Минфина № 214н, ПП № 2024</td><td>Территориальный орган Федерального казначейства</td><td>Применяется в ходе санкционирования</td></tr>
+</table>
+<h2 id="chto-delat-predpisanie">Что делать при получении представления или предписания казначейства</h2>
+<p>Представление и предписание — разные документы: представление информирует о нарушении и требует принять меры, предписание обязывает устранить нарушение в срок. Порядок действий по шагам:</p>
+<ol class="steps">
+<li>Зафиксировать дату вручения и срок исполнения, указанный в документе, — от него считаются все дальнейшие сроки.</li>
+<li>Сверить существо претензии с первоисточником — <a href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/">причинами отказа казначейства</a> и режимом операций по контракту.</li>
+<li>Устранить нарушение и подготовить подтверждающие документы либо направить мотивированные возражения в установленный срок.</li>
+<li>При несогласии — обжаловать в вышестоящий орган или суд; неисполнение предписания влечёт административную ответственность.</li>
+<li>Проверить раздельный учёт по контракту, чтобы то же нарушение не повторилось, — см. <a href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/">раздельный учёт по ГОЗ</a>.</li>
+</ol>
+<p>Полномочия проверяющих и виды актов реагирования разобраны в статье о <a href="/baza-znaniy/predstavlenie-i-predpisanie-kaznachejstva/">представлении и предписании казначейства</a>.</p>
+
+<h2 id="faq">Частые вопросы</h2>
     <div class="faq">
       <details open><summary>Какая ответственность за нарушения в ГОЗ в 2026 году?</summary><p>Административная — по новой статье 7.30.3 КоАП РФ (действует с 1 марта 2025 года), уголовная за злоупотребления — по статьям 201.1 и 285.4 УК РФ, плюс казначейские последствия: отказ в санкционировании и приостановка операций.</p></details>
       <details><summary>Действует ли ещё статья 15.37 КоАП?</summary><p>Нет. Статья 15.37, как и статьи 14.55–14.55.2 КоАП, утратила силу с 1 марта 2025 года. Ответственность за раздельный учёт теперь в части 11 статьи 7.30.3 КоАП РФ.</p></details>
