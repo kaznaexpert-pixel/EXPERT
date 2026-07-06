@@ -507,7 +507,7 @@ a.kx-card__val:hover{color:var(--sep)}
         <h2>Реквизиты</h2>
         <p>Исполнитель — <b>ИП Михайлов Ярослав Алексеевич</b> (бренд «КазнаЭксперт»). ИНН <b>781428314589</b> · ОГРНИП <b>321784700367672</b>.<br>Адрес: 199106, Санкт-Петербург, Средний пр. В.О., д. 88, лит. А, офис 330 (3 этаж).</p>
         <p>Проверьте нас в открытых реестрах: <a href="https://www.rusprofile.ru/ip/321784700367672" target="_blank" rel="noopener">Rusprofile</a> · <a href="https://zachestnyibiznes.ru/company/ip/321784700367672_781428314589" target="_blank" rel="noopener">За честный бизнес</a> · <a href="https://www.audit-it.ru/contragent/fl/781428314589_mikhailov-iaroslav-alekseevich" target="_blank" rel="noopener">Audit-it</a>.</p>
-        <p>Что входит в услугу и как мы работаем — в <a href="/baza-znaniy/">базе знаний</a> и на странице <a href="/komanda/">команды</a>. Начать знакомство с темой удобно с разбора <a href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/">что такое казначейское сопровождение</a>.</p>
+        <p>Что входит в услугу и как мы работаем — в <a href="/baza-znaniy/">базе знаний</a> и на странице <a href="/komanda/mihailov-yaroslav/">команды</a>. Начать знакомство с темой удобно с разбора <a href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/">что такое казначейское сопровождение</a>.</p>
       </div>
     </div>
     <aside class="kx-map" aria-label="Карта: офис КазнаЭксперт">
