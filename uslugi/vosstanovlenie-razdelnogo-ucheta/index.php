@@ -190,7 +190,7 @@ h1{font-family:var(--font-display);font-weight:500;font-size:clamp(2rem,3.4vw + 
 .keyfacts h2{font-family:var(--font-display);color:#fff;font-size:17px;font-weight:500;margin:0 0 14px;letter-spacing:.01em}
 .keyfacts__grid{display:grid;grid-template-columns:1fr 1fr;gap:14px 26px}
 .kf{display:flex;gap:12px;align-items:flex-start}
-.kf__n{font-family:var(--font-display);font-size:26px;color:#d8bd92;line-height:1;flex-shrink:0;min-width:96px}
+.kf__n{font-family:var(--font-display);font-size:26px;color:#d8bd92;line-height:1.05;flex-shrink:0;min-width:96px;max-width:160px;overflow-wrap:anywhere;word-break:break-word;hyphens:none}
 .kf__t{font-size:13px;color:#b9b3a7;line-height:1.4}
 .kf__t b{color:#fff;font-weight:500}
 @media(max-width:560px){.keyfacts__grid{grid-template-columns:1fr}}
