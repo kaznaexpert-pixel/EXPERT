@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Возврат платежа через казначейство: порядок и заявление</title>
-<meta name="description" content="Как вернуть платёж через казначейство: возврат ошибочных и невыясненных поступлений по заявлению (137н, 66н) и возврат средств с лицевого счёта при КС.">
+<meta name="description" content="Как вернуть платёж через казначейство: возврат ошибочных и невыясненных поступлений по заявлению (137н, 66н) при казначейском сопровождении.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Возврат платежа через казначейство: ошибочный платёж, невыясненные поступления и возврат с лицевого счёта", "description": "Как вернуть платёж через казначейство: возврат ошибочных и невыясненных поступлений по заявлению (137н, 66н) и возврат средств с лицевого счёта при КС.", "inLanguage": "ru-RU", "datePublished": "2026-06-29", "dateModified": "2026-06-29", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/vozvrat-platezha-kaznachejstvo/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Возврат платежа через казначейство: ошибочный платёж, невыясненные поступления и возврат с лицевого счёта", "description": "Как вернуть платёж через казначейство: возврат ошибочных и невыясненных поступлений по заявлению (137н, 66н) при казначейском сопровождении.", "inLanguage": "ru-RU", "datePublished": "2026-06-29", "dateModified": "2026-06-29", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/vozvrat-platezha-kaznachejstvo/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Возврат платежа через казначейство", "item": "https://kaznaexpert.ru/baza-znaniy/vozvrat-platezha-kaznachejstvo/"}]}
@@ -79,7 +79,7 @@
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
 <meta property="og:title" content="Возврат платежа через казначейство: порядок и заявление">
-<meta property="og:description" content="Как вернуть ошибочно перечисленный или невыясненный платёж через казначейство: порядок, заявление плательщика, нормы 137н и 66н и возврат средств с лицевого счёта при КС.">
+<meta property="og:description" content="Как вернуть ошибочно перечисленный или невыясненный платёж через казначейство: порядок, заявление плательщика, нормы 137н и 66н и возврат средств с лицевого счёта при казначейском сопровождении.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/vozvrat-platezha-kaznachejstvo/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
@@ -91,7 +91,7 @@
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Возврат платежа через казначейство: порядок и заявление">
-<meta name="twitter:description" content="Как вернуть ошибочно перечисленный или невыясненный платёж через казначейство: порядок, заявление плательщика, нормы 137н и 66н и возврат средств с лицевого счёта при КС.">
+<meta name="twitter:description" content="Как вернуть ошибочно перечисленный или невыясненный платёж через казначейство: порядок, заявление плательщика, нормы 137н и 66н и возврат средств с лицевого счёта при казначейском сопровождении.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 
@@ -528,7 +528,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <li><a href="#nevyyasnennye">Невыясненные поступления и их возврат</a></li>
       <li><a href="#zayavlenie">Заявление на возврат: что указать</a></li>
       <li><a href="#sroki-sposob">Сроки и способы подачи заявления</a></li>
-      <li><a href="#s-licevogo">Возврат средств с лицевого счёта при КС</a></li>
+      <li><a href="#s-licevogo">Возврат средств с лицевого счёта при казначейском сопровождении</a></li>
       <li><a href="#otlichiya">Разные ситуации возврата: чем они отличаются</a></li>
       <li><a href="#oshibki">Типичные ошибки при возврате</a></li>
       <li><a href="#chek-list">Чек-лист: возврат платежа через казначейство</a></li>
@@ -555,7 +555,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <details class="mtoc"><summary>Содержание статьи</summary>
       <ol>
-        <li><a href="#kogda">Когда возникает вопрос о возврате платежа</a></li><li><a href="#oshibochnyy">Возврат ошибочно перечисленного платежа</a></li><li><a href="#nevyyasnennye">Невыясненные поступления и их возврат</a></li><li><a href="#zayavlenie">Заявление на возврат: что указать</a></li><li><a href="#sroki-sposob">Сроки и способы подачи заявления</a></li><li><a href="#s-licevogo">Возврат средств с лицевого счёта при КС</a></li><li><a href="#otlichiya">Разные ситуации возврата: чем они отличаются</a></li><li><a href="#oshibki">Типичные ошибки при возврате</a></li><li><a href="#chek-list">Чек-лист: возврат платежа через казначейство</a></li><li><a href="#glossary">Глоссарий</a></li><li><a href="#faq">Частые вопросы</a></li>
+        <li><a href="#kogda">Когда возникает вопрос о возврате платежа</a></li><li><a href="#oshibochnyy">Возврат ошибочно перечисленного платежа</a></li><li><a href="#nevyyasnennye">Невыясненные поступления и их возврат</a></li><li><a href="#zayavlenie">Заявление на возврат: что указать</a></li><li><a href="#sroki-sposob">Сроки и способы подачи заявления</a></li><li><a href="#s-licevogo">Возврат средств с лицевого счёта при казначейском сопровождении</a></li><li><a href="#otlichiya">Разные ситуации возврата: чем они отличаются</a></li><li><a href="#oshibki">Типичные ошибки при возврате</a></li><li><a href="#chek-list">Чек-лист: возврат платежа через казначейство</a></li><li><a href="#glossary">Глоссарий</a></li><li><a href="#faq">Частые вопросы</a></li>
       </ol>
     </details>
 
@@ -607,7 +607,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <p>Практическая рекомендация — фиксировать дату и способ подачи заявления и сохранять подтверждение отправки. Если возврат затягивается, это позволит предметно обратиться в орган казначейства со ссылкой на конкретное обращение, а не начинать диалог с нуля.</p>
     <p>Отдельно стоит учитывать, что путь возврата зависит от того, куда фактически попал платёж. Если средства ещё учитываются как невыясненное поступление и не доведены до конкретного администратора дохода, вопрос решается на уровне органа казначейства. Если же платёж уже зачислен в бюджет и отражён администратором соответствующего дохода, в процедуру включается этот администратор, и заявление может потребоваться адресовать именно ему. Поэтому перед подачей полезно уточнить текущий статус платежа: на каком счёте он учтён и не доведён ли уже до получателя. Эта проверка экономит время — заявление сразу уходит по верному адресу, а не пересылается между ведомствами, что особенно важно, когда возврат нужен срочно для продолжения расчётов по контракту.</p>
 
-    <h2 id="s-licevogo">Возврат средств с лицевого счёта при КС</h2>
+    <h2 id="s-licevogo">Возврат средств с лицевого счёта при казначейском сопровождении</h2>
     <p>Совсем другая ситуация — когда речь о средствах, которые уже находятся на лицевом счёте участника казначейского сопровождения. Это не «ошибочный платёж в адрес казначейства», а целевые средства под сопровождением, и их возврат подчиняется правилам казначейского сопровождения — статье 242.23 Бюджетного кодекса и Правилам, утверждённым постановлением Правительства РФ № 2024.</p>
     <p>Типичные случаи здесь — возврат неотработанного аванса заказчику и возврат остатков целевых средств по завершении. В обоих случаях деньги возвращаются не «заявлением на возврат ошибочного платежа», а распоряжением о совершении казначейского платежа: средства уходят с лицевого счёта на счёт заказчика или в соответствующий бюджет. Казначейство проводит такую операцию в рамках обычного санкционирования.</p>
     <p>Поэтому, если контрагент или заказчик просит «вернуть платёж», а средства лежат на лицевом счёте под сопровождением, путь лежит через распоряжение, а не через заявление в окно казначейства. Подробно порядок возврата аванса и возврата остатков с закрытием лицевого счёта мы разбираем в отдельных материалах.</p>
@@ -620,8 +620,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <tbody>
         <tr><td>Ошибочно перечисленный платёж</td><td>заявление плательщика (137н, 66н)</td><td>на счёт плательщика по реквизитам в заявлении</td></tr>
         <tr><td>Невыясненное поступление</td><td>заявление на возврат или уточнение платежа</td><td>плательщику либо относится по назначению</td></tr>
-        <tr><td>Неотработанный аванс при КС</td><td>распоряжение о казначейском платеже</td><td>на счёт заказчика по контракту</td></tr>
-        <tr><td>Остатки целевых средств при КС</td><td>распоряжение, увязка с закрытием счёта</td><td>в соответствующий бюджет</td></tr>
+        <tr><td>Неотработанный аванс при казначейском сопровождении</td><td>распоряжение о казначейском платеже</td><td>на счёт заказчика по контракту</td></tr>
+        <tr><td>Остатки целевых средств при казначейском сопровождении</td><td>распоряжение, увязка с закрытием счёта</td><td>в соответствующий бюджет</td></tr>
       </tbody>
     </table>
     <p>Главная развилка проходит между «деньги ошибочно ушли в адрес казначейства» и «деньги уже на лицевом счёте под сопровождением». В первом случае инструмент — заявление, во втором — распоряжение. Правильно определив тип ситуации, вы выбираете верный порядок и не теряете время на неподходящую процедуру.</p>
@@ -640,12 +640,12 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <h2 id="chek-list">Чек-лист: возврат платежа через казначейство</h2>
     <p>Короткий порядок действий при возврате.</p>
     <ul>
-      <li>Определите тип платежа: ошибочный/невыясненный в адрес казначейства или средства на лицевом счёте при КС.</li>
+      <li>Определите тип платежа: ошибочный/невыясненный в адрес казначейства или средства на лицевом счёте при казначейском сопровождении.</li>
       <li>Для ошибочного и невыясненного — подготовьте заявление: номер и дата платёжки, сумма цифрами и прописью, назначение, причина, реквизиты возврата.</li>
       <li>Приложите копию платёжного поручения и подтверждающие документы.</li>
       <li>Сверьтесь с актуальным образцом заявления своего территориального управления казначейства.</li>
       <li>Подайте заявление удобным способом и сохраните подтверждение подачи.</li>
-      <li>Для средств на лицевом счёте при КС — оформляйте возврат распоряжением о казначейском платеже, а не заявлением.</li>
+      <li>Для средств на лицевом счёте при казначейском сопровождении — оформляйте возврат распоряжением о казначейском платеже, а не заявлением.</li>
       <li>Если возврат затягивается — обратитесь в орган казначейства со ссылкой на поданное заявление.</li>
     </ul>
 
@@ -726,12 +726,12 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 <section class="related" aria-labelledby="relTitle">
   <div class="related__head"><h2 id="relTitle">Что почитать ещё</h2><a href="/baza-znaniy/">Вся база знаний →</a></div>
   <div class="related__grid">
-    <a class="card reveal" href="/baza-znaniy/vozvrat-avansa-po-goskontraktu/"><div class="card__cover"><span>Аванс</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Возврат аванса по госконтракту при КС: порядок и сроки</h3><div class="card__meta">Операции · 15 мин</div></div></a>
+    <a class="card reveal" href="/baza-znaniy/vozvrat-avansa-po-goskontraktu/"><div class="card__cover"><span>Аванс</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Возврат аванса по госконтракту при казначейском сопровождении: порядок и сроки</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/zavershenie-kaznacheyskogo-soprovozhdeniya/"><div class="card__cover"><span>Завершение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Завершение казначейского сопровождения: возврат остатков и закрытие счёта</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/ufk-zaderzhivaet-platezh/"><div class="card__cover"><span>Задержка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">УФК задерживает платёж: причины, сроки и что делать</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha/"><div class="card__cover"><span>Распоряжение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Распоряжение о совершении казначейского платежа: заполнение и возврат</h3><div class="card__meta">Операции · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/naznachenie-platezha-kaznachejstvo/"><div class="card__cover"><span>Назначение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Назначение платежа при казначейском сопровождении: что указывать</h3><div class="card__meta">Операции · 14 мин</div></div></a>
-    <a class="card reveal" href="/baza-znaniy/operacii-po-licevomu-schetu-pri-ks/"><div class="card__cover"><span>Операции</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Какие операции можно проводить по лицевому счёту при КС</h3><div class="card__meta">Операции · 14 мин</div></div></a>
+    <a class="card reveal" href="/baza-znaniy/operacii-po-licevomu-schetu-pri-ks/"><div class="card__cover"><span>Операции</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Какие операции можно проводить по лицевому счёту при казначейском сопровождении</h3><div class="card__meta">Операции · 14 мин</div></div></a>
   </div>
 </section>
 

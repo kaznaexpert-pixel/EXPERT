@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Возврат аванса по госконтракту при КС: порядок и сроки</title>
-<meta name="description" content="Когда возвращают аванс по госконтракту под КС: неотработанный аванс, расторжение, порядок возврата с лицевого счёта и роль обеспечения аванса.">
+<meta name="description" content="Когда возвращают аванс по госконтракту под казначейское сопровождение: неотработанный аванс, расторжение, порядок возврата с лицевого счёта и обеспечение аванса.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Возврат аванса по госконтракту при казначейском сопровождении: когда нужен, порядок и сроки", "description": "Когда возвращают аванс по госконтракту под КС: неотработанный аванс, расторжение, порядок возврата с лицевого счёта и роль обеспечения аванса.", "inLanguage": "ru-RU", "datePublished": "2026-06-29", "dateModified": "2026-06-29", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/vozvrat-avansa-po-goskontraktu/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Возврат аванса по госконтракту при казначейском сопровождении: когда нужен, порядок и сроки", "description": "Когда возвращают аванс по госконтракту под казначейское сопровождение: неотработанный аванс, расторжение, порядок возврата с лицевого счёта и обеспечение аванса.", "inLanguage": "ru-RU", "datePublished": "2026-06-29", "dateModified": "2026-06-29", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/vozvrat-avansa-po-goskontraktu/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Возврат аванса по госконтракту", "item": "https://kaznaexpert.ru/baza-znaniy/vozvrat-avansa-po-goskontraktu/"}]}
