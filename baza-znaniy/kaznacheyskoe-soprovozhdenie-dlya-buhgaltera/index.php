@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение для бухгалтера: что нужно знать и делать", "description": "Что делает бухгалтер при казначейском сопровождении: раздельный учёт, коды расходования, сведения ф. 0501213, распоряжения и отчётность. Ошибки и штрафы 2026.", "inLanguage": "ru-RU", "datePublished": "2026-07-06", "dateModified": "2026-07-06", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-dlya-buhgaltera/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение для бухгалтера: что нужно знать и делать", "description": "Что делает бухгалтер при казначейском сопровождении: раздельный учёт, коды расходования, сведения ф. 0501213, распоряжения и отчётность. Ошибки и штрафы 2026.", "inLanguage": "ru-RU", "datePublished": "2026-07-06", "dateModified": "2026-07-07", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-dlya-buhgaltera/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Казначейское сопровождение для бухгалтера", "item": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-dlya-buhgaltera/"}]}
@@ -545,7 +545,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Операции по счёту <span class="fresh">Актуально на 2026</span></div>
     <h1>Казначейское сопровождение для бухгалтера: что нужно знать и делать</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 6 июля 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 7 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -568,7 +568,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <div class="keyfacts__grid">
         <div class="kf"><div class="kf__n">5 участков</div><div class="kf__t"><b>Зона бухгалтера</b> — раздельный учёт по контракту, коды направления расходования, сведения об операциях, распоряжения с документами-основаниями, отчёт о расходах целевых средств</div></div>
         <div class="kf"><div class="kf__n">Ф. 0501213</div><div class="kf__t"><b>Сведения об операциях</b> — плановый документ со структурой расходов контракта: платежи проходят только в рамках заявленных направлений, изменения — через корректировку сведений</div></div>
-        <div class="kf"><div class="kf__n">Прил. 3 к № 214н</div><div class="kf__t"><b>Коды расходования</b> — каждый платёж с лицевого счёта маркируется укрупнённым кодом направления расходования; правило первого разряда: 0 — прямая оплата, 9 — возмещение своих расходов</div></div>
+        <div class="kf"><div class="kf__n">214н</div><div class="kf__t"><b>Коды расходования</b> — каждый платёж с лицевого счёта маркируется укрупнённым кодом направления расходования; правило первого разряда: 0 — прямая оплата, 9 — возмещение своих расходов (приложение 3 к приказу № 214н)</div></div>
         <div class="kf"><div class="kf__n">До 500 тыс. ₽</div><div class="kf__t"><b>Штраф с 2026 года</b> — за отсутствие раздельного учёта по сопровождаемому контракту — ст. 15.37.1 КоАП: должностному лицу 10–50 тыс. ₽, организации 5–10 % цены контракта</div></div>
       </div>
     </section>

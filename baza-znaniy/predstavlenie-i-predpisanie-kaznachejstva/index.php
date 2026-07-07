@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"kontrol"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Представление и предписание казначейства: сроки исполнения и как обжаловать", "description": "Чем представление отличается от предписания по ст. 270.2 БК: сроки исполнения, штраф по ч. 20 ст. 19.5 КоАП, досудебная жалоба по ПП № 1237 и суд по гл. 24 АПК.", "inLanguage": "ru-RU", "datePublished": "2026-07-03", "dateModified": "2026-07-03", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/predstavlenie-i-predpisanie-kaznachejstva/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Представление и предписание казначейства: сроки исполнения и как обжаловать", "description": "Чем представление отличается от предписания по ст. 270.2 БК: сроки исполнения, штраф по ч. 20 ст. 19.5 КоАП, досудебная жалоба по ПП № 1237 и суд по гл. 24 АПК.", "inLanguage": "ru-RU", "datePublished": "2026-07-03", "dateModified": "2026-07-07", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/predstavlenie-i-predpisanie-kaznachejstva/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Представление и предписание казначейства", "item": "https://kaznaexpert.ru/baza-znaniy/predstavlenie-i-predpisanie-kaznachejstva/"}]}
@@ -546,7 +546,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Контроль <span class="fresh">Актуально на 2026</span></div>
     <h1>Представление и предписание казначейства: сроки исполнения и как обжаловать</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 3 июля 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 7 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -569,7 +569,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <div class="keyfacts__grid">
         <div class="kf"><div class="kf__n">Ст. 270.2 БК</div><div class="kf__t"><b>Два документа</b> — представление требует устранить нарушения (срок — в документе или 30 календарных дней с получения); предписание выносится при неустранении и требует возместить ущерб публично-правовому образованию</div></div>
         <div class="kf"><div class="kf__n">10 рабочих дней</div><div class="kf__t"><b>Жалоба на предписание</b> — срок подачи досудебной жалобы на предписание по постановлению № 1237 — 10 рабочих дней со дня получения; на остальные решения и действия — 30 календарных дней</div></div>
-        <div class="kf"><div class="kf__n">Ч. 20 ст. 19.5 КоАП</div><div class="kf__t"><b>Цена неисполнения</b> — невыполнение предписания органа внутреннего государственного финансового контроля — штраф на должностных лиц 20 000–50 000 ₽ или дисквалификация на 1–2 года</div></div>
+        <div class="kf"><div class="kf__n">19.5 КоАП</div><div class="kf__t"><b>Цена неисполнения</b> — невыполнение предписания органа внутреннего государственного финансового контроля — штраф на должностных лиц 20 000–50 000 ₽ или дисквалификация на 1–2 года (ч. 20 ст. 19.5 КоАП)</div></div>
         <div class="kf"><div class="kf__n">3 месяца</div><div class="kf__t"><b>Суд</b> — срок оспаривания представления или предписания в арбитражном суде по главе 24 АПК — три месяца со дня, когда стало известно о нарушении прав; можно просить приостановить действие акта</div></div>
       </div>
     </section>

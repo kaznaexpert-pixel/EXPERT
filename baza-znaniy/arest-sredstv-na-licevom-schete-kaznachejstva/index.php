@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"schet"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Могут ли арестовать деньги на лицевом счёте в казначействе: приставы, налоговая, банкротство", "description": "Могут ли приставы и налоговая списать деньги с лицевого счёта участника казначейского сопровождения: почему лицевой счёт не банковский, дебиторка, ГОЗ и банкротство.", "inLanguage": "ru-RU", "datePublished": "2026-07-04", "dateModified": "2026-07-04", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/arest-sredstv-na-licevom-schete-kaznachejstva/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Могут ли арестовать деньги на лицевом счёте в казначействе: приставы, налоговая, банкротство", "description": "Могут ли приставы и налоговая списать деньги с лицевого счёта участника казначейского сопровождения: почему лицевой счёт не банковский, дебиторка, ГОЗ и банкротство.", "inLanguage": "ru-RU", "datePublished": "2026-07-04", "dateModified": "2026-07-07", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/arest-sredstv-na-licevom-schete-kaznachejstva/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Арест средств на лицевом счёте", "item": "https://kaznaexpert.ru/baza-znaniy/arest-sredstv-na-licevom-schete-kaznachejstva/"}]}
@@ -544,7 +544,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Казначейский счёт <span class="fresh">Актуально на 2026</span></div>
     <h1>Могут ли арестовать деньги на лицевом счёте в казначействе: приставы, налоговая, банкротство</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 4 июля 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 7 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -567,8 +567,8 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <div class="keyfacts__grid">
         <div class="kf"><div class="kf__n">Не банковский счёт</div><div class="kf__t"><b>Ключевой факт</b> — лицевой счёт участника казначейского сопровождения открыт в ТОФК без договора банковского счёта — механизмы ареста и инкассо, адресованные банкам (ст. 70, 81 Закона № 229-ФЗ, ст. 46, 76 НК), к нему напрямую не применяются</div></div>
         <div class="kf"><div class="kf__n">Целевой режим</div><div class="kf__t"><b>Почему средства защищены</b> — деньги на лицевом счёте расходуются только в рамках контракта после санкционирования (ст. 242.23 БК, Порядок № 214н) — это не свободные средства должника</div></div>
-        <div class="kf"><div class="kf__n">Ст. 75–76 Закона № 229-ФЗ</div><div class="kf__t"><b>Слабое место</b> — приставы вправе обратить взыскание на дебиторскую задолженность и на деньги, выведенные с лицевого счёта на расчётный, — защищённость контура не означает иммунитета бизнеса</div></div>
-        <div class="kf"><div class="kf__n">Ст. 8.4 Закона № 275-ФЗ</div><div class="kf__t"><b>Гособоронзаказ</b> — по отдельному счёту исполнение исполнительных документов прямо запрещено, кроме возмещения вреда жизни и здоровью, выплат работникам и взыскания в доход РФ</div></div>
+        <div class="kf"><div class="kf__n">229-ФЗ</div><div class="kf__t"><b>Слабое место</b> — приставы вправе обратить взыскание на дебиторскую задолженность и на деньги, выведенные с лицевого счёта на расчётный, — защищённость контура не означает иммунитета бизнеса (ст. 75–76 Закона № 229-ФЗ)</div></div>
+        <div class="kf"><div class="kf__n">275-ФЗ</div><div class="kf__t"><b>Гособоронзаказ</b> — по отдельному счёту исполнение исполнительных документов прямо запрещено, кроме возмещения вреда жизни и здоровью, выплат работникам и взыскания в доход РФ (ст. 8.4 Закона № 275-ФЗ)</div></div>
       </div>
     </section>
 

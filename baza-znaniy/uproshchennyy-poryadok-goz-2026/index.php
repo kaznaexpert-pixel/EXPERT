@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Упрощённый порядок расчётов по гособоронзаказу в 2026 году: что продлил закон № 406-ФЗ", "description": "Закон № 406-ФЗ продлил до 31.12.2026 приостановление подп. «а» п. 3 ст. 8.4 № 275-ФЗ: зарплату с отдельного счёта ГОЗ платят без одновременной уплаты налогов.", "inLanguage": "ru-RU", "datePublished": "2026-07-02", "dateModified": "2026-07-02", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/uproshchennyy-poryadok-goz-2026/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Упрощённый порядок расчётов по гособоронзаказу в 2026 году: что продлил закон № 406-ФЗ", "description": "Закон № 406-ФЗ продлил до 31.12.2026 приостановление подп. «а» п. 3 ст. 8.4 № 275-ФЗ: зарплату с отдельного счёта ГОЗ платят без одновременной уплаты налогов.", "inLanguage": "ru-RU", "datePublished": "2026-07-02", "dateModified": "2026-07-07", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/uproshchennyy-poryadok-goz-2026/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Упрощённый порядок расчётов по ГОЗ в 2026 году", "item": "https://kaznaexpert.ru/baza-znaniy/uproshchennyy-poryadok-goz-2026/"}]}
@@ -545,7 +545,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на 2026</span></div>
     <h1>Упрощённый порядок расчётов по гособоронзаказу в 2026 году: что продлил закон № 406-ФЗ</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 2 июля 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 7 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -567,7 +567,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <h2>Коротко о главном</h2>
       <div class="keyfacts__grid">
         <div class="kf"><div class="kf__n">406-ФЗ</div><div class="kf__t"><b>Что за закон</b> — Федеральный закон от 04.11.2025 № 406-ФЗ продлил приостановление «правила одновременной уплаты» ещё на год — по 31 декабря 2026 года включительно</div></div>
-        <div class="kf"><div class="kf__n">Подп. «а» п. 3 ст. 8.4</div><div class="kf__t"><b>Что приостановлено</b> — условие списания средств с отдельного счёта на оплату труда только при одновременной уплате налогов и страховых взносов — не применяется</div></div>
+        <div class="kf"><div class="kf__n">ст. 8.4</div><div class="kf__t"><b>Что приостановлено</b> — условие списания средств с отдельного счёта на оплату труда только при одновременной уплате налогов и страховых взносов — не применяется (подп. «а» п. 3 ст. 8.4 № 275-ФЗ)</div></div>
         <div class="kf"><div class="kf__n">ЕНП</div><div class="kf__t"><b>Причина</b> — с 2023 года налоги платятся единым налоговым платежом на единый налоговый счёт в свои сроки — «одновременная» уплата при выплате зарплаты стала технически невозможной</div></div>
         <div class="kf"><div class="kf__n">Налоги платить нужно</div><div class="kf__t"><b>Что не изменилось</b> — обязанность полной и своевременной уплаты налогов и взносов сохраняется — в общем порядке и в сроки Налогового кодекса</div></div>
       </div>

@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"kontrol"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейство приостановило операции по лицевому счёту: причины и что делать", "description": "Почему казначейство приостанавливает операции по лицевому счёту, меры по ПП № 2483, сроки и как возобновить платежи — что делать исполнителю.", "inLanguage": "ru-RU", "datePublished": "2026-07-01", "dateModified": "2026-07-01", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/priostanovlenie-operaciy-po-licevomu-schetu/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейство приостановило операции по лицевому счёту: причины и что делать", "description": "Почему казначейство приостанавливает операции по лицевому счёту, меры по ПП № 2483, сроки и как возобновить платежи — что делать исполнителю.", "inLanguage": "ru-RU", "datePublished": "2026-07-01", "dateModified": "2026-07-07", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/priostanovlenie-operaciy-po-licevomu-schetu/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Приостановление операций по счёту", "item": "https://kaznaexpert.ru/baza-znaniy/priostanovlenie-operaciy-po-licevomu-schetu/"}]}
@@ -545,7 +545,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Контроль <span class="fresh">Актуально на 2026</span></div>
     <h1>Казначейство приостановило операции по лицевому счёту: причины и что делать</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 1 июля 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 7 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -567,7 +567,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <h2>Коротко о главном</h2>
       <div class="keyfacts__grid">
         <div class="kf"><div class="kf__n">ПП № 2483</div><div class="kf__t"><b>Основной документ</b> — меры реагирования, включая приостановление операции на лицевом счёте, установлены Правилами казначейского мониторинга (постановление Правительства РФ № 2483 от 25.12.2021, ред. от 09.06.2025)</div></div>
-        <div class="kf"><div class="kf__n">Статья 242.13-1 БК</div><div class="kf__t"><b>Правовая рамка</b> — приостановление применяется в рамках казначейского мониторинга в системе казначейских платежей по статье 242.13-1 Бюджетного кодекса</div></div>
+        <div class="kf"><div class="kf__n">242.13-1 БК</div><div class="kf__t"><b>Правовая рамка</b> — приостановление применяется в рамках казначейского мониторинга в системе казначейских платежей по статье 242.13-1 Бюджетного кодекса</div></div>
         <div class="kf"><div class="kf__n">Роль заказчика</div><div class="kf__t"><b>Кто подтверждает</b> — при приостановлении казначейство информирует заказчика; заказчик подтверждает обоснованность или необоснованность приостановления в установленный срок</div></div>
         <div class="kf"><div class="kf__n">Не отказ</div><div class="kf__t"><b>Важно различать</b> — приостановление операции в рамках мониторинга — не то же самое, что отказ в санкционировании расхода или возврат распоряжения на доработку</div></div>
       </div>

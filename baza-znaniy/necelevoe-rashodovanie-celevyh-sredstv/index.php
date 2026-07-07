@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"kontrol"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Нецелевое расходование целевых средств при казначейском сопровождении: что считается, последствия и как избежать", "description": "Нецелевое расходование целевых средств при КС: статья 306.4 БК, отказ в санкционировании, возврат средств и ответственность по статье 15.14 КоАП.", "inLanguage": "ru-RU", "datePublished": "2026-06-29", "dateModified": "2026-06-29", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/necelevoe-rashodovanie-celevyh-sredstv/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Нецелевое расходование целевых средств при казначейском сопровождении: что считается, последствия и как избежать", "description": "Нецелевое расходование целевых средств при КС: статья 306.4 БК, отказ в санкционировании, возврат средств и ответственность по статье 15.14 КоАП.", "inLanguage": "ru-RU", "datePublished": "2026-06-29", "dateModified": "2026-07-07", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/necelevoe-rashodovanie-celevyh-sredstv/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Нецелевое расходование целевых средств", "item": "https://kaznaexpert.ru/baza-znaniy/necelevoe-rashodovanie-celevyh-sredstv/"}]}
@@ -545,7 +545,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Контроль <span class="fresh">Актуально на 2026</span></div>
     <h1>Нецелевое расходование целевых средств при казначейском сопровождении: что считается, последствия и как избежать</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 29 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 7 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -568,7 +568,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <div class="keyfacts__grid">
         <div class="kf"><div class="kf__n">Статья 306.4 БК</div><div class="kf__t"><b>Определение</b> — нецелевое использование — направление средств и оплата обязательств в целях, не соответствующих документу-основанию их предоставления</div></div>
         <div class="kf"><div class="kf__n">Отказ + возврат</div><div class="kf__t"><b>При КС</b> — нецелевую операцию казначейство не санкционирует, а уже проведённые не по назначению средства подлежат возврату на лицевой счёт или в бюджет</div></div>
-        <div class="kf"><div class="kf__n">Статья 15.14 КоАП</div><div class="kf__t"><b>Штраф</b> — за нецелевое использование бюджетных средств — для должностных лиц 20-50 тыс ₽ или дисквалификация, для юрлиц 5-25% суммы, потраченной не по назначению</div></div>
+        <div class="kf"><div class="kf__n">15.14 КоАП</div><div class="kf__t"><b>Штраф</b> — за нецелевое использование бюджетных средств — для должностных лиц 20-50 тыс ₽ или дисквалификация, для юрлиц 5-25% суммы, потраченной не по назначению (статья 15.14 КоАП)</div></div>
         <div class="kf"><div class="kf__n">Статья 285.1 УК</div><div class="kf__t"><b>Крупный размер</b> — нецелевое расходование бюджетных средств свыше 1,5 млн ₽ образует состав уголовного преступления</div></div>
       </div>
     </section>

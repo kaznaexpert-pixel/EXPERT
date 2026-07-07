@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"schet"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Счёт в Комитете финансов Санкт-Петербурга: казначейское сопровождение средств бюджета города", "description": "Как открыть лицевой счёт в Комитете финансов Санкт-Петербурга для сопровождения средств бюджета города: порядок по Распоряжению № 10-р и отличие от счёта 71.", "inLanguage": "ru-RU", "datePublished": "2026-07-01", "dateModified": "2026-07-01", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/schet-v-komitete-finansov-sankt-peterburga/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Счёт в Комитете финансов Санкт-Петербурга: казначейское сопровождение средств бюджета города", "description": "Как открыть лицевой счёт в Комитете финансов Санкт-Петербурга для сопровождения средств бюджета города: порядок по Распоряжению № 10-р и отличие от счёта 71.", "inLanguage": "ru-RU", "datePublished": "2026-07-01", "dateModified": "2026-07-07", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/schet-v-komitete-finansov-sankt-peterburga/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Счёт в Комитете финансов Санкт-Петербурга", "item": "https://kaznaexpert.ru/baza-znaniy/schet-v-komitete-finansov-sankt-peterburga/"}]}
@@ -544,7 +544,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Регионы <span class="fresh">Актуально на 2026</span></div>
     <h1>Счёт в Комитете финансов Санкт-Петербурга: казначейское сопровождение средств бюджета города</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 1 июля 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 7 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -565,10 +565,10 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <section class="keyfacts grain" aria-label="Ключевые факты">
       <h2>Коротко о главном</h2>
       <div class="keyfacts__grid">
-        <div class="kf"><div class="kf__n">Распоряжение № 10-р</div><div class="kf__t"><b>Основной документ</b> — порядок открытия и ведения лицевых счетов участников казначейского сопровождения и санкционирования операций в Санкт-Петербурге утверждён распоряжением Комитета финансов от 10.02.2022 № 10-р</div></div>
+        <div class="kf"><div class="kf__n">№ 10-р</div><div class="kf__t"><b>Основной документ</b> — порядок открытия и ведения лицевых счетов участников казначейского сопровождения и санкционирования операций в Санкт-Петербурге утверждён распоряжением Комитета финансов от 10.02.2022 № 10-р</div></div>
         <div class="kf"><div class="kf__n">Комитет финансов</div><div class="kf__t"><b>Кто сопровождает</b> — средства бюджета Санкт-Петербурга под казначейским сопровождением ведёт Комитет финансов города, а не территориальный орган Федерального казначейства</div></div>
         <div class="kf"><div class="kf__n">Не счёт 71</div><div class="kf__t"><b>Отличие</b> — счёт с кодом 71 открывают в ТОФК для федеральных средств; для средств городского бюджета лицевой счёт открывают в Комитете финансов Санкт-Петербурга</div></div>
-        <div class="kf"><div class="kf__n">Статья 242.23 БК</div><div class="kf__t"><b>Правовая рамка</b> — право субъекта сопровождать средства своего бюджета закреплено в статье 242.23 Бюджетного кодекса — в случаях и порядке, которые устанавливает сам субъект</div></div>
+        <div class="kf"><div class="kf__n">242.23 БК</div><div class="kf__t"><b>Правовая рамка</b> — право субъекта сопровождать средства своего бюджета закреплено в статье 242.23 Бюджетного кодекса — в случаях и порядке, которые устанавливает сам субъект</div></div>
       </div>
     </section>
 

@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"osnovy"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Неучастник бюджетного процесса: кто это, статус и лицевой счёт в казначействе", "description": "Кто такой неучастник бюджетного процесса: чем отличается от участника, почему подрядчику открывают лицевой счёт (код 71 или 44) и меняется ли налоговый статус.", "inLanguage": "ru-RU", "datePublished": "2026-06-30", "dateModified": "2026-06-30", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/neuchastnik-byudzhetnogo-processa/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Неучастник бюджетного процесса: кто это, статус и лицевой счёт в казначействе", "description": "Кто такой неучастник бюджетного процесса: чем отличается от участника, почему подрядчику открывают лицевой счёт (код 71 или 44) и меняется ли налоговый статус.", "inLanguage": "ru-RU", "datePublished": "2026-06-30", "dateModified": "2026-07-07", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/neuchastnik-byudzhetnogo-processa/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Неучастник бюджетного процесса", "item": "https://kaznaexpert.ru/baza-znaniy/neuchastnik-byudzhetnogo-processa/"}]}
@@ -544,7 +544,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Основы <span class="fresh">Актуально на 2026</span></div>
     <h1>Неучастник бюджетного процесса: кто это, статус и лицевой счёт в казначействе</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 30 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 7 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -567,7 +567,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <div class="keyfacts__grid">
         <div class="kf"><div class="kf__n">Коммерческая организация</div><div class="kf__t"><b>Кто это</b> — неучастник бюджетного процесса — обычное юрлицо или ИП, исполняющее контракт; оно не входит в систему участников бюджетного процесса</div></div>
         <div class="kf"><div class="kf__n">Лицевой счёт</div><div class="kf__t"><b>Зачем статус</b> — под казначейское сопровождение неучастнику открывают лицевой счёт для учёта целевых средств — код 71 в ТОФК или код 44 в финоргане</div></div>
-        <div class="kf"><div class="kf__n">Статья 242.23 БК</div><div class="kf__t"><b>Норма</b> — лицевые счета неучастникам бюджетного процесса под сопровождение открываются на основании Бюджетного кодекса и Правил сопровождения</div></div>
+        <div class="kf"><div class="kf__n">242.23 БК</div><div class="kf__t"><b>Норма</b> — лицевые счета неучастникам бюджетного процесса под сопровождение открываются на основании Бюджетного кодекса и Правил сопровождения (статья 242.23 Бюджетного кодекса)</div></div>
         <div class="kf"><div class="kf__n">Статус не меняется</div><div class="kf__t"><b>Налоги</b> — открытие лицевого счёта не делает организацию бюджетным учреждением и не меняет её налоговый режим</div></div>
       </div>
     </section>
