@@ -207,7 +207,7 @@ h2[id]:hover .anchor{opacity:1}
 @media(max-width:1080px){.anchor{display:none}}
 h3{font-weight:600;font-size:19.5px;margin:44px 0 14px}
 .answer{margin:10px 0 14px}
-p{margin:0 0 20px}
+p{margin:0 0 20px}.content>p+p:not([class]){text-indent:1.6em}
 /* выравнивание основного текста по ширине блока + переносы (против «рек» и дыр) */
 .content .answer,.content .answer p,.content p.answer,.content .lead-p,.tldr{text-align:left;hyphens:none}
 @media(max-width:560px){.content .answer,.content .answer p,.content p.answer,.content .lead-p,.tldr{text-align:left}}

@@ -203,7 +203,7 @@ h2[id]:hover .anchor{opacity:1}
 @media(max-width:1080px){.anchor{display:none}}
 h3{font-weight:600;font-size:19.5px;margin:44px 0 14px}
 .answer{margin:10px 0 14px}
-p{margin:0 0 20px}
+p{margin:0 0 20px}.content>p+p:not([class]){text-indent:1.6em}
 /* выравнивание основного текста по ширине блока + переносы (против «рек» и дыр) */
 .content .answer,.content .answer p,.content p.answer,.content .lead-p,.tldr{text-align:left;hyphens:none}
 @media(max-width:560px){.content .answer,.content .answer p,.content p.answer,.content .lead-p,.tldr{text-align:left}}
@@ -558,7 +558,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <p class="answer lead-p">Ориентировочная цена в гособоронзаказе — это временная конструкция. Её допускают, когда твёрдую цену посчитать пока не из чего, но рано или поздно её обязаны заменить фиксированной. Сделать это нужно вовремя и по правилам: с расчётно-калькуляционными материалами, в установленные сроки и через дополнительное соглашение. Ошибка в этой процедуре оборачивается отказом в оплате «дельты» и претензиями ФАС. Разберём порядок по первоисточникам.</p>
 
     <h2 id="vidy">Виды цен на продукцию ГОЗ</h2>
-    <p>Видов цен три, и подробное сравнение — <a href="/baza-znaniy/vidy-cen-goz/#orient-vs-fiks">чем отличается ориентировочная цена от фиксированной</a> — вынесено в отдельный разбор видов цен. Здесь разбираем сам перевод: порядок, сроки и допсоглашение.</p>
+    <p class="lead-p">Видов цен три, и подробное сравнение — <a href="/baza-znaniy/vidy-cen-goz/#orient-vs-fiks">чем отличается ориентировочная цена от фиксированной</a> — вынесено в отдельный разбор видов цен. Здесь разбираем сам перевод: порядок, сроки и допсоглашение.</p>
     <div class="answer reveal">
       <p>Государственное регулирование цен на продукцию ГОЗ строится вокруг нескольких видов цен. Их задаёт Постановление Правительства РФ от 02.12.2017 № 1465<a class="fn" href="#ref-2" aria-label="Источник 2">[2]</a>:</p>
       <ul>

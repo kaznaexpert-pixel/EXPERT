@@ -207,7 +207,7 @@ h2[id]:hover .anchor{opacity:1}
 @media(max-width:1080px){.anchor{display:none}}
 h3{font-weight:600;font-size:19.5px;margin:44px 0 14px}
 .answer{margin:10px 0 14px}
-p{margin:0 0 20px}
+p{margin:0 0 20px}.content>p+p:not([class]){text-indent:1.6em}
 /* выравнивание основного текста по ширине блока + переносы (против «рек» и дыр) */
 .content .answer,.content .answer p,.content p.answer,.content .lead-p,.tldr{text-align:left;hyphens:none}
 @media(max-width:560px){.content .answer,.content .answer p,.content p.answer,.content .lead-p,.tldr{text-align:left}}
@@ -574,7 +574,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </section>
 
     <h2 id="chto">Что такое ПОИБ и СОБИ</h2>
-    <p>За аббревиатурами, которые встречаются при подключении к «Электронному бюджету», стоит инфраструктура информационной безопасности Федерального казначейства.</p>
+    <p class="lead-p">За аббревиатурами, которые встречаются при подключении к «Электронному бюджету», стоит инфраструктура информационной безопасности Федерального казначейства.</p>
     <ul>
       <li><b>СОБИ</b> — Система обеспечения безопасности информации Федерального казначейства. Это название системы и одноимённого раздела на сайте roskazna.gov.ru.</li>
       <li><b>ПОИБ</b> — подсистема обеспечения информационной безопасности в составе СОБИ (термин приводится по терминологии Федерального казначейства). Именно через неё пользователи получают и меняют полномочия для работы в подсистемах ГИИС «Электронный бюджет».</li>
