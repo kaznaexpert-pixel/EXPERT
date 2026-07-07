@@ -674,6 +674,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Как кредитору реально взыскать долг с подрядчика на казначейском сопровождении?</summary><p>Работать по классике: исполнительные листы на банковские счета, арест имущества, взыскание на дебиторскую задолженность, контроль вывода прибыли из казначейского контура. Гнаться за самим лицевым счётом бесперспективно — деньги ловят на входе в банк.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:bankrotstvo-ispolnitelya-goskontrakta-pri-ks">Банкротство — не то же самое, что арест: это отдельная процедура со своими последствиями для счёта и целевых средств, разобранная в статье про <a href="/baza-znaniy/bankrotstvo-ispolnitelya-goskontrakta-pri-ks/">банкротство исполнителя госконтракта при сопровождении</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -737,6 +738,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/otdelnyy-schet-po-goz/"><div class="card__cover"><span>Счёт ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отдельный счёт по ГОЗ: режим и запрещённые операции</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/neuchastnik-byudzhetnogo-processa/"><div class="card__cover"><span>Статус</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Неучастник бюджетного процесса: кто это и лицевой счёт</h3><div class="card__meta">Основы · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/zavershenie-kaznacheyskogo-soprovozhdeniya/"><div class="card__cover"><span>Завершение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Завершение казначейского сопровождения: возврат остатков</h3><div class="card__meta">Счета · 15 мин</div></div></a>
+    <!-- auto-related:bankrotstvo-ispolnitelya-goskontrakta-pri-ks --><a class="card reveal" href="/baza-znaniy/bankrotstvo-ispolnitelya-goskontrakta-pri-ks/"><div class="card__cover"><span>Банкротство</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Банкротство исполнителя госконтракта при сопровождении</h3><div class="card__meta">Сопровождение · 16 мин</div></div></a>
   </div>
 </section>
 

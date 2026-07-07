@@ -702,6 +702,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <p data-ctx="auto-ctx:razdelnyy-uchet-goz-v-1s">Закреплённую в учётной политике методику затем переносят в программу: настройка аналитики и баз распределения описана в материале о <a href="/baza-znaniy/razdelnyy-uchet-goz-v-1s/">раздельном учёте по ГОЗ в 1С</a> — настройка должна совпадать с политикой один в один.</p>
+    <p data-ctx="auto-ctx:vosstanovlenie-razdelnogo-ucheta-po-goskontraktu">Учётную политику меняют только на будущее, а вот регистры за прошлый период можно реконструировать: как восстановить учёт задним числом, не переписывая политику, — в статье о <a href="/baza-znaniy/vosstanovlenie-razdelnogo-ucheta-po-goskontraktu/">восстановлении раздельного учёта по госконтракту</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -792,6 +793,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-po-goskontraktu/"><div class="card__cover"><span>Учёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по госконтракту: когда вести, штрафы</h3><div class="card__meta">Учёт · 17 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/vidy-cen-goz/"><div class="card__cover"><span>Цена ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Виды цен на продукцию ГОЗ: ориентировочная, фиксированная</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
     <!-- auto-related:razdelnyy-uchet-goz-v-1s --><a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-goz-v-1s/"><div class="card__cover"><span>1С ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по ГОЗ в 1С: настройка и ведение</h3><div class="card__meta">Учёт · 18 мин</div></div></a>
+    <!-- auto-related:vosstanovlenie-razdelnogo-ucheta-po-goskontraktu --><a class="card reveal" href="/baza-znaniy/vosstanovlenie-razdelnogo-ucheta-po-goskontraktu/"><div class="card__cover"><span>Восстановление</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Восстановление раздельного учёта по госконтракту</h3><div class="card__meta">Раздельный учёт · 15 мин</div></div></a>
   </div>
 </section>
 

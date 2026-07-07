@@ -1418,4 +1418,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/vosstanovlenie-razdelnogo-ucheta-po-goskontraktu/</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/bankrotstvo-ispolnitelya-goskontrakta-pri-ks/</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/obzhalovanie-deystviy-kaznachejstva/</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

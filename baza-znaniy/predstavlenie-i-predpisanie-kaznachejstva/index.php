@@ -718,6 +718,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Можно ли остановить исполнение предписания на время судебного спора?</summary><p>Да, через суд: по ходатайству заявителя арбитражный суд вправе приостановить действие оспариваемого акта (ч. 3 ст. 199 АПК). Ходатайство мотивируйте последствиями немедленного исполнения — изъятием оборотных средств, риском срыва государственных контрактов. Досудебная жалоба такого эффекта не даёт.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:obzhalovanie-deystviy-kaznachejstva">Обжалование предписания финконтроля и обжалование отказа в санкционировании платежа — разные институты с разными сроками: чем именно они отличаются, разобрано в статье об <a href="/baza-znaniy/obzhalovanie-deystviy-kaznachejstva/">обжаловании действий казначейства</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -777,6 +778,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/shtrafy-pri-kaznacheyskom-soprovozhdenii-2026/"><div class="card__cover"><span>Штрафы 2026</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Штрафы при казначейском сопровождении с 2026 года</h3><div class="card__meta">Штрафы · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/otvetstvennost-za-narusheniya-goz/"><div class="card__cover"><span>Ответственность</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Ответственность за нарушения в сфере гособоронзаказа</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/priostanovlenie-operaciy-po-licevomu-schetu/"><div class="card__cover"><span>Приостановление</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейство приостановило операции по лицевому счёту</h3><div class="card__meta">Контроль · 15 мин</div></div></a>
+    <!-- auto-related:obzhalovanie-deystviy-kaznachejstva --><a class="card reveal" href="/baza-znaniy/obzhalovanie-deystviy-kaznachejstva/"><div class="card__cover"><span>Обжалование</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Как обжаловать отказ казначейства в санкционировании</h3><div class="card__meta">Контроль · 15 мин</div></div></a>
   </div>
 </section>
 

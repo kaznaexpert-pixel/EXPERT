@@ -681,6 +681,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Можно ли подать документы в казначейство в электронном виде?</summary><p>Базовый порядок — подлинник листа на бумаге, лично или почтой. Суд по ходатайству взыскателя может направить лист на исполнение самостоятельно. Уточняйте актуальные каналы подачи в своём ТОФК или финоргане — практика электронного взаимодействия расширяется.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:bankrotstvo-ispolnitelya-goskontrakta-pri-ks">Если финансовые трудности не у заказчика, а у исполнителя, вопрос решается по-другому — через процедуру несостоятельности: что происходит с лицевым счётом и целевыми средствами, показано в разборе <a href="/baza-znaniy/bankrotstvo-ispolnitelya-goskontrakta-pri-ks/">банкротства исполнителя госконтракта</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -744,6 +745,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznachejstvo-i-tofk/"><div class="card__cover"><span>Казначейство</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Что такое Федеральное казначейство и ТОФК</h3><div class="card__meta">Основы · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/elektronnoe-aktirovanie-priyomka-44-fz/"><div class="card__cover"><span>Актирование</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Электронное актирование и приёмка в ЕИС по 44-ФЗ</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/rastorzhenie-kontrakta-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Расторжение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Расторжение контракта при казначейском сопровождении</h3><div class="card__meta">Контракты · 15 мин</div></div></a>
+    <!-- auto-related:bankrotstvo-ispolnitelya-goskontrakta-pri-ks --><a class="card reveal" href="/baza-znaniy/bankrotstvo-ispolnitelya-goskontrakta-pri-ks/"><div class="card__cover"><span>Банкротство</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Банкротство исполнителя госконтракта при сопровождении</h3><div class="card__meta">Сопровождение · 16 мин</div></div></a>
   </div>
 </section>
 

@@ -680,6 +680,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <p data-ctx="auto-ctx:ufk-zaderzhivaet-platezh">Если же платёж не отклонён, а просто «не идёт», смотрите, в каком он статусе: чаще это возврат на доработку — разбор сроков и действий в материале о том, <a href="/baza-znaniy/ufk-zaderzhivaet-platezh/">почему УФК задерживает платёж и что делать</a>.</p>
     <p data-ctx="auto-ctx:naznachenie-platezha-kaznachejstvo">Частая причина отказа — дефект назначения платежа: как заполнить его правильно, разобрано в материале <a href="/baza-znaniy/naznachenie-platezha-kaznachejstvo/">назначение платежа при казначейском сопровождении</a>.</p>
     <p data-ctx="auto-ctx:priostanovlenie-operaciy-po-licevomu-schetu">Отказ в санкционировании не стоит путать с <a href="/baza-znaniy/priostanovlenie-operaciy-po-licevomu-schetu/">приостановлением операции в рамках казначейского мониторинга</a> — это разные механизмы с разной процедурой.</p>
+    <p data-ctx="auto-ctx:obzhalovanie-deystviy-kaznachejstva">Когда причина отказа устранима — её исправляют; но если требование казначейства не основано на законе, отказ обжалуют: ведомственный и судебный порядок разобраны в статье о том, <a href="/baza-znaniy/obzhalovanie-deystviy-kaznachejstva/">как обжаловать отказ казначейства в санкционировании</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -790,6 +791,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <!-- auto-related:ufk-zaderzhivaet-platezh --><a class="card reveal" href="/baza-znaniy/ufk-zaderzhivaet-platezh/"><div class="card__cover"><span>Задержка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">УФК задерживает платёж: причины, сроки и что делать</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <!-- auto-related:naznachenie-platezha-kaznachejstvo --><a class="card reveal" href="/baza-znaniy/naznachenie-platezha-kaznachejstvo/"><div class="card__cover"><span>Назначение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Назначение платежа при казначейском сопровождении: образец</h3><div class="card__meta">Операции · 14 мин</div></div></a>
     <!-- auto-related:priostanovlenie-operaciy-po-licevomu-schetu --><a class="card reveal" href="/baza-znaniy/priostanovlenie-operaciy-po-licevomu-schetu/"><div class="card__cover"><span>Приостановление</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейство приостановило операции по счёту: что делать</h3><div class="card__meta">Контроль · 15 мин</div></div></a>
+    <!-- auto-related:obzhalovanie-deystviy-kaznachejstva --><a class="card reveal" href="/baza-znaniy/obzhalovanie-deystviy-kaznachejstva/"><div class="card__cover"><span>Обжалование</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Как обжаловать отказ казначейства в санкционировании</h3><div class="card__meta">Контроль · 15 мин</div></div></a>
   </div>
 </section>
 
