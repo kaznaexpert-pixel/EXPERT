@@ -789,6 +789,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 
     <p data-ctx="auto-ctx:srok-oplaty-po-kontraktu-44-fz">Неустойка возникает не только у поставщика: за нарушение <a href="/baza-znaniy/srok-oplaty-po-kontraktu-44-fz/">срока оплаты по контракту</a> заказчик платит пеню 1/300 ключевой ставки за каждый день, а его должностное лицо отвечает по статье 7.32.5 КоАП.</p>
     <p data-ctx="auto-ctx:ispolnitelnyy-list-v-kaznachejstvo">Если заказчик не платит и после претензии с расчётом неустойки, долг взыскивается через суд с предъявлением листа не приставам, а в казначейство — маршрут разобран в статье об <a href="/baza-znaniy/ispolnitelnyy-list-v-kaznachejstvo/">исполнительном листе в казначейство</a>.</p>
+    <p data-ctx="auto-ctx:uderzhanie-neustoyki-pri-kaznacheyskom-soprovozhdenii">Рассчитать неустойку — половина дела; вторая половина в том, как заказчик её получает: удержанием из обеспечения или зачётом из оплаты. Эти механизмы и их особенности на лицевом счёте разобраны в статье про <a href="/baza-znaniy/uderzhanie-neustoyki-pri-kaznacheyskom-soprovozhdenii/">удержание и зачёт неустойки при казначейском сопровождении</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div>
@@ -846,6 +847,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/uslugi/otkrytie-scheta/"><div class="card__cover"><span>Под ключ</span></div><div class="card__body"><span class="card__cat">Услуга</span><h3 class="card__title">Открытие казначейского счёта за 2 дня</h3><div class="card__meta">Услуга · фикс-цена</div></div></a>
     <!-- auto-related:srok-oplaty-po-kontraktu-44-fz --><a class="card reveal" href="/baza-znaniy/srok-oplaty-po-kontraktu-44-fz/"><div class="card__cover"><span>Оплата</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Срок оплаты по контракту 44-ФЗ: 7 и 10 дней</h3><div class="card__meta">Применимость · 13 мин</div></div></a>
     <!-- auto-related:ispolnitelnyy-list-v-kaznachejstvo --><a class="card reveal" href="/baza-znaniy/ispolnitelnyy-list-v-kaznachejstvo/"><div class="card__cover"><span>Взыскание долга</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Исполнительный лист в казначейство: взыскание с заказчика</h3><div class="card__meta">Контракты · 16 мин</div></div></a>
+    <!-- auto-related:uderzhanie-neustoyki-pri-kaznacheyskom-soprovozhdenii --><a class="card reveal" href="/baza-znaniy/uderzhanie-neustoyki-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Неустойка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Удержание и зачёт неустойки при казначейском сопровождении</h3><div class="card__meta">Сопровождение · 15 мин</div></div></a>
   </div>
 </section>
 

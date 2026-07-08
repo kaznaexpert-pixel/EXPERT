@@ -1436,4 +1436,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/uderzhanie-neustoyki-pri-kaznacheyskom-soprovozhdenii/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/garantiynoe-uderzhanie-po-kontraktu/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/kredit-i-zalog-prav-po-goskontraktu/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

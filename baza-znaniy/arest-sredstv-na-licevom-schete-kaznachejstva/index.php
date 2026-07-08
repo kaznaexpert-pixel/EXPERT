@@ -675,6 +675,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     </div>
 
     <p data-ctx="auto-ctx:bankrotstvo-ispolnitelya-goskontrakta-pri-ks">Банкротство — не то же самое, что арест: это отдельная процедура со своими последствиями для счёта и целевых средств, разобранная в статье про <a href="/baza-znaniy/bankrotstvo-ispolnitelya-goskontrakta-pri-ks/">банкротство исполнителя госконтракта при сопровождении</a>.</p>
+    <p data-ctx="auto-ctx:kredit-i-zalog-prav-po-goskontraktu">По той же причине, по которой лицевой счёт защищён от взыскания, целевые средства нельзя и заложить под кредит — это не свободное имущество исполнителя: подробно об этом в статье про <a href="/baza-znaniy/kredit-i-zalog-prav-po-goskontraktu/">кредит под госконтракт и залог прав требования</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -739,6 +740,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/neuchastnik-byudzhetnogo-processa/"><div class="card__cover"><span>Статус</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Неучастник бюджетного процесса: кто это и лицевой счёт</h3><div class="card__meta">Основы · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/zavershenie-kaznacheyskogo-soprovozhdeniya/"><div class="card__cover"><span>Завершение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Завершение казначейского сопровождения: возврат остатков</h3><div class="card__meta">Счета · 15 мин</div></div></a>
     <!-- auto-related:bankrotstvo-ispolnitelya-goskontrakta-pri-ks --><a class="card reveal" href="/baza-znaniy/bankrotstvo-ispolnitelya-goskontrakta-pri-ks/"><div class="card__cover"><span>Банкротство</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Банкротство исполнителя госконтракта при сопровождении</h3><div class="card__meta">Сопровождение · 16 мин</div></div></a>
+    <!-- auto-related:kredit-i-zalog-prav-po-goskontraktu --><a class="card reveal" href="/baza-znaniy/kredit-i-zalog-prav-po-goskontraktu/"><div class="card__cover"><span>Кредит</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Кредит под госконтракт и залог прав требования</h3><div class="card__meta">Сопровождение · 15 мин</div></div></a>
   </div>
 </section>
 

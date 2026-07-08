@@ -677,6 +677,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <details><summary>Уступка помогает, если заказчик просто не платит?</summary><p>Это разные инструменты. Если долг просрочен и заказчик не платит, работают претензия, неустойка и взыскание через суд с последующим предъявлением исполнительного листа в казначейство. Уступка — способ получить деньги раньше срока, а не заставить должника платить.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:kredit-i-zalog-prav-po-goskontraktu">Уступку требования легко перепутать с его залогом под кредит: при залоге право остаётся у исполнителя и срабатывает лишь при нарушении кредита. Как работает кредит под госконтракт и что можно заложить, показано в статье про <a href="/baza-znaniy/kredit-i-zalog-prav-po-goskontraktu/">кредит под госконтракт и залог прав требования</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -740,6 +741,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
     <a class="card reveal" href="/baza-znaniy/otdelnyy-schet-po-goz/"><div class="card__cover"><span>Счёт ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отдельный счёт по ГОЗ: режим и запрещённые операции</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/nalogi-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Налоги</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Налоги при казначейском сопровождении: НДС, прибыль, УСН</h3><div class="card__meta">Операции · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Целевые средства</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Целевые средства: что это, виды, режим и коды</h3><div class="card__meta">Операции · 16 мин</div></div></a>
+    <!-- auto-related:kredit-i-zalog-prav-po-goskontraktu --><a class="card reveal" href="/baza-znaniy/kredit-i-zalog-prav-po-goskontraktu/"><div class="card__cover"><span>Кредит</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Кредит под госконтракт и залог прав требования</h3><div class="card__meta">Сопровождение · 15 мин</div></div></a>
   </div>
 </section>
 
