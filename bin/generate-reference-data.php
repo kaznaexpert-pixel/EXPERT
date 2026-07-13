@@ -15,7 +15,7 @@
 declare(strict_types=1);
 
 $ROOT = dirname(__DIR__);
-$TOOLS = ['kody', 'kody-postupleniy', 'normativnaya-baza', 'tofk', 'glossary'];
+$TOOLS = ['kody', 'kody-postupleniy', 'normativnaya-baza', 'tofk', 'glossary', 'kalkulyator-ks'];
 $CAT_ORDER = ['Основы','Гособоронзаказ','Счета в казначействе','Санкционирование и контроль',
     'Операции и отчётность','Раздельный учёт','Ответственность и штрафы','ГИИС и ЭЦП',
     'Субсидии и инвестиции','Закупки по 44-ФЗ','Регионы и ТОФК'];

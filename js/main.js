@@ -156,13 +156,9 @@ if (contactsform) {
         .then(function(response) {
             if (response.ok) {
                 try { if (typeof ym === 'function') ym(94305898, 'reachGoal', 'lead', { source: 'contacts' }); } catch (_) {}
-                kzToast('Заявка принята', 'Перезвоним в течение рабочего дня.', 'success');
-                contactsform.reset();
-                if (submitBtn) submitBtn.value = 'Получить расчёт';
-                syncSubmit();
+                window.location.href = '/spasibo/';
             } else if (response.status === 429) {
-                if (submitBtn) submitBtn.value = 'Получить расчёт';
-                kzToast('Заявка уже у нас', 'Перезвоним в течение рабочего дня. Срочно — +7 981 833-10-10.', 'success');
+                window.location.href = '/spasibo/';
             } else {
                 if (submitBtn) { submitBtn.disabled = false; submitBtn.value = 'Получить расчёт'; }
                 kzToast('Не удалось отправить', 'Позвоните: +7 981 833-10-10 или напишите в Telegram.', 'error');
@@ -246,10 +242,10 @@ if (contactsform) {
 
       if (res.ok) {
         try { if (typeof ym === 'function') ym(94305898, 'reachGoal', 'lead', { source: 'hero' }); } catch (_) {}
-        showThanks(phone);
+        window.location.href = '/spasibo/';
       } else if (res.status === 429) {
-        // rate-limit: заявка уже принята недавно — показываем «спасибо», не ошибку
-        showThanks(phone);
+        // rate-limit: заявка уже принята недавно — тоже на «спасибо», не ошибка
+        window.location.href = '/spasibo/';
       } else {
         var data = await res.json().catch(function() { return {}; });
         throw new Error(data.error || 'Server error ' + res.status);

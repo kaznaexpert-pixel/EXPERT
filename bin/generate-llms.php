@@ -19,7 +19,7 @@ $ROOT = dirname(__DIR__);
 $BASE = 'https://kaznaexpert.ru';
 
 /** Справочники (не статьи) — тот же список, что в хабе базы знаний. */
-$TOOLS = ['kody', 'kody-postupleniy', 'normativnaya-baza', 'tofk', 'glossary'];
+$TOOLS = ['kody', 'kody-postupleniy', 'normativnaya-baza', 'tofk', 'glossary', 'kalkulyator-ks'];
 
 function extract_page(string $file): ?array
 {
