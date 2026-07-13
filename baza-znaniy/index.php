@@ -527,6 +527,13 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   .bz-search svg{position:absolute;left:16px;top:50%;transform:translateY(-50%);opacity:.5;color:var(--ink)}
   .bz-search input{width:100%;box-sizing:border-box;padding:13px 16px 13px 46px;font-size:16px;font-family:inherit;border:1px solid var(--hair,rgba(26,26,26,.18));border-radius:13px;background:#FFFDF9;color:var(--ink)}
   .bz-search input:focus{outline:none;border-color:rgba(139,111,71,.55);box-shadow:0 0 0 3px rgba(139,111,71,.12)}
+  .bz-catnav{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 28px}
+  .bz-catnav a{font-size:13px;color:var(--ink);background:#FFFDF9;border:1px solid var(--hair,rgba(26,26,26,.14));border-radius:100px;padding:7px 14px;text-decoration:none;transition:border-color .2s,background .2s}
+  .bz-catnav a:hover{border-color:rgba(139,111,71,.55);background:#FDF9F1}
+  .bz-catnav a b{font-weight:500;color:var(--mute,#6E6B66);margin-left:3px}
+  .bz-cath{font-family:var(--font-display,serif);font-weight:500;font-size:24px;letter-spacing:-.01em;margin:36px 0 14px;scroll-margin-top:96px}
+  .bz-cath span{font-family:var(--font-body,sans-serif);font-size:13px;font-weight:400;color:var(--mute,#6E6B66);vertical-align:2px;margin-left:6px}
+  .bz-catsec:first-child .bz-cath{margin-top:8px}
   .bz-art{display:flex;flex-direction:column;gap:9px;padding:22px 24px;background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.09));border-radius:16px;text-decoration:none;color:inherit;transition:transform .22s ease,box-shadow .22s ease,border-color .22s ease}
   .bz-art:hover{transform:translateY(-3px);box-shadow:0 20px 40px -26px rgba(26,26,26,.3);border-color:rgba(139,111,71,.4)}
   .bz-art__cat{font-size:11px;text-transform:uppercase;letter-spacing:.11em;font-weight:600;color:var(--sepia,#8B6F47)}
@@ -562,6 +569,17 @@ foreach (glob(__DIR__.'/*', GLOB_ONLYDIR) as $d) {
 }
 $articles=[]; foreach($all as $slug=>$c){ if(!isset($TOOLS[$slug])) $articles[]=$c; }
 usort($articles, function($a,$b){ return $b['mtime'] <=> $a['mtime']; });
+
+// Рубрикация: канонический порядок; внутри рубрики — свежие сверху (порядок $articles сохраняется)
+$CAT_ORDER = ['Основы','Гособоронзаказ','Счета в казначействе','Санкционирование и контроль',
+  'Операции и отчётность','Раздельный учёт','Ответственность и штрафы','ГИИС и ЭЦП',
+  'Субсидии и инвестиции','Закупки по 44-ФЗ','Регионы и ТОФК'];
+$byCat = [];
+foreach ($articles as $c) { $byCat[$c['cat']][] = $c; }
+uksort($byCat, function($x,$y) use ($CAT_ORDER) {
+  $ix = array_search($x, $CAT_ORDER); $iy = array_search($y, $CAT_ORDER);
+  return ($ix === false ? PHP_INT_MAX : $ix) <=> ($iy === false ? PHP_INT_MAX : $iy);
+});
 $tools_n=0; foreach($TOOLS as $sl=>$t){ if(isset($all[$sl])) $tools_n++; }
 ?>
 <div class="v2 bz">
@@ -586,25 +604,59 @@ $tools_n=0; foreach($TOOLS as $sl=>$t){ if(isset($all[$sl])) $tools_n++; }
       <?php endforeach; ?>
     </div>
 
-    <div class="bz-sechead"><h2>Статьи и инструкции</h2><p><?= count($articles) ?> материалов</p></div>
+    <div class="bz-sechead"><h2>Статьи и инструкции</h2><p><?= count($articles) ?> материалов в <?= count($byCat) ?> рубриках</p></div>
     <div class="bz-search">
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
       <input id="bzSearch" type="search" placeholder="Поиск по статьям — например, ГОЗ, счёт или аванс" autocomplete="off" aria-label="Поиск по статьям">
     </div>
-    <div class="bz-grid" id="bzArts">
-      <?php foreach ($articles as $c): ?>
-      <a class="bz-art" href="/baza-znaniy/<?= htmlspecialchars($c['slug']) ?>/" data-t="<?= htmlspecialchars(mb_strtolower($c['title'].' '.$c['cat'],'UTF-8')) ?>">
-        <span class="bz-art__cat"><?= htmlspecialchars($c['cat']) ?></span>
-        <span class="bz-art__t"><?= htmlspecialchars($c['title']) ?></span>
-        <span class="bz-art__m"><?= $c['read']?htmlspecialchars($c['read']):'Статья' ?></span>
-      </a>
+
+    <nav class="bz-catnav" id="bzCatNav" aria-label="Рубрики базы знаний">
+      <?php $ci = 0; foreach ($byCat as $cat => $list): $ci++; ?>
+      <a href="#rubrika-<?= $ci ?>"><?= htmlspecialchars($cat) ?> <b><?= count($list) ?></b></a>
+      <?php endforeach; ?>
+    </nav>
+
+    <div id="bzArts">
+      <?php $ci = 0; foreach ($byCat as $cat => $list): $ci++; ?>
+      <section class="bz-catsec" aria-labelledby="rubrika-<?= $ci ?>">
+        <h3 class="bz-cath" id="rubrika-<?= $ci ?>"><?= htmlspecialchars($cat) ?> <span><?= count($list) ?></span></h3>
+        <div class="bz-grid">
+          <?php foreach ($list as $c): ?>
+          <a class="bz-art" href="/baza-znaniy/<?= htmlspecialchars($c['slug']) ?>/" data-t="<?= htmlspecialchars(mb_strtolower($c['title'].' '.$c['cat'],'UTF-8')) ?>">
+            <span class="bz-art__cat"><?= htmlspecialchars($c['cat']) ?></span>
+            <span class="bz-art__t"><?= htmlspecialchars($c['title']) ?></span>
+            <span class="bz-art__m"><?= $c['read']?htmlspecialchars($c['read']):'Статья' ?></span>
+          </a>
+          <?php endforeach; ?>
+        </div>
+      </section>
       <?php endforeach; ?>
     </div>
     <div class="bz-empty" id="bzEmpty">По запросу ничего не нашлось. Попробуйте другое слово или загляните в справочники выше.</div>
   </div>
 </div>
 <script>
-(function(){var inp=document.getElementById('bzSearch'),grid=document.getElementById('bzArts'),emp=document.getElementById('bzEmpty');if(!inp||!grid)return;var cards=[].slice.call(grid.querySelectorAll('.bz-art'));function norm(s){return (s||'').toLowerCase().replace(/ё/g,'е').trim();}inp.addEventListener('input',function(){var q=norm(inp.value),n=0;cards.forEach(function(a){var ok=!q||norm(a.getAttribute('data-t')).indexOf(q)>-1;a.style.display=ok?'':'none';if(ok)n++;});emp.style.display=n?'none':'block';});})();
+(function(){
+  var inp=document.getElementById('bzSearch'),wrap=document.getElementById('bzArts'),emp=document.getElementById('bzEmpty'),nav=document.getElementById('bzCatNav');
+  if(!inp||!wrap)return;
+  var secs=[].slice.call(wrap.querySelectorAll('.bz-catsec'));
+  function norm(s){return (s||'').toLowerCase().replace(/ё/g,'е').trim();}
+  inp.addEventListener('input',function(){
+    var q=norm(inp.value),total=0;
+    secs.forEach(function(sec){
+      var n=0;
+      [].slice.call(sec.querySelectorAll('.bz-art')).forEach(function(a){
+        var ok=!q||norm(a.getAttribute('data-t')).indexOf(q)>-1;
+        a.style.display=ok?'':'none';
+        if(ok)n++;
+      });
+      sec.style.display=n?'':'none';
+      total+=n;
+    });
+    if(nav)nav.style.display=q?'none':'';
+    emp.style.display=total?'none':'block';
+  });
+})();
 </script>
 
 
