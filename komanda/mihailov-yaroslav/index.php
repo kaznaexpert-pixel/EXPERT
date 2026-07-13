@@ -557,7 +557,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
           <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
           <button class="submit" type="submit">Получить расчёт →</button>
           <div class="formmsg" id="formMsg" hidden></div>
-          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
+          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
           <div class="success" id="leadSuccess" role="status" aria-live="polite">
             <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
             <h3>Заявка принята</h3><p>Перезвоним <b>в течение 15 минут</b> (9:00–21:00 МСК).</p>
@@ -601,7 +601,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
           <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
           <button class="submit" type="submit">Получить расчёт →</button>
           <div class="formmsg" id="formMsgBottom" hidden></div>
-          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
+          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
           <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
             <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
             <h3>Заявка принята</h3><p>Перезвоним <b>в течение 15 минут</b> (9:00–21:00 МСК).</p>
@@ -633,14 +633,14 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   <h2 id="faq">Частые вопросы</h2>
   <div class="faq">
       <details><summary>Кто такой Ярослав Михайлов?</summary><p>Основатель и главный эксперт КазнаЭксперт. Знает казначейское сопровождение с двух сторон — изнутри Федерального казначейства и со стороны бизнеса.</p></details>
-      <details><summary>Какой у Ярослава опыт?</summary><p>Более 15 лет в сфере. Под его руководством команда сопроводила свыше 7000 контрактов на 90 млрд рублей.</p></details>
+      <details><summary>Какой у Ярослава опыт?</summary><p>Более 15 лет в сфере. За последние 5 лет лично сопроводил свыше 7000 контрактов на 90 млрд рублей.</p></details>
       <details><summary>Какие вопросы он ведёт лично?</summary><p>Сложные кейсы и эскалации: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p></details>
       <details><summary>С какими законами он работает?</summary><p>Казначейское сопровождение по 44-ФЗ, 223-ФЗ и гособоронзаказу (275-ФЗ), а также раздельный учёт и нормативная база.</p></details>
       <details><summary>Как связаться с Ярославом?</summary><p>Через форму на сайте или Telegram <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a> — эксперт перезванивает в течение часа.</p></details>
   </div>
 </section>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Кто такой Ярослав Михайлов?", "acceptedAnswer": {"@type": "Answer", "text": "Основатель и главный эксперт КазнаЭксперт. Знает казначейское сопровождение с двух сторон — изнутри Федерального казначейства и со стороны бизнеса."}}, {"@type": "Question", "name": "Какой у Ярослава опыт?", "acceptedAnswer": {"@type": "Answer", "text": "Более 15 лет в сфере. Под его руководством команда сопроводила свыше 7000 контрактов на 90 млрд рублей."}}, {"@type": "Question", "name": "Какие вопросы он ведёт лично?", "acceptedAnswer": {"@type": "Answer", "text": "Сложные кейсы и эскалации: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства."}}, {"@type": "Question", "name": "С какими законами он работает?", "acceptedAnswer": {"@type": "Answer", "text": "Казначейское сопровождение по 44-ФЗ, 223-ФЗ и гособоронзаказу (275-ФЗ), а также раздельный учёт и нормативная база."}}, {"@type": "Question", "name": "Как связаться с Ярославом?", "acceptedAnswer": {"@type": "Answer", "text": "Через форму на сайте или Telegram @Kaznaexpert — эксперт перезванивает в течение часа."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Кто такой Ярослав Михайлов?", "acceptedAnswer": {"@type": "Answer", "text": "Основатель и главный эксперт КазнаЭксперт. Знает казначейское сопровождение с двух сторон — изнутри Федерального казначейства и со стороны бизнеса."}}, {"@type": "Question", "name": "Какой у Ярослава опыт?", "acceptedAnswer": {"@type": "Answer", "text": "Более 15 лет в сфере. За последние 5 лет лично сопроводил свыше 7000 контрактов на 90 млрд рублей."}}, {"@type": "Question", "name": "Какие вопросы он ведёт лично?", "acceptedAnswer": {"@type": "Answer", "text": "Сложные кейсы и эскалации: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства."}}, {"@type": "Question", "name": "С какими законами он работает?", "acceptedAnswer": {"@type": "Answer", "text": "Казначейское сопровождение по 44-ФЗ, 223-ФЗ и гособоронзаказу (275-ФЗ), а также раздельный учёт и нормативная база."}}, {"@type": "Question", "name": "Как связаться с Ярославом?", "acceptedAnswer": {"@type": "Answer", "text": "Через форму на сайте или Telegram @Kaznaexpert — эксперт перезванивает в течение часа."}}]}
 </script>
 <footer class="v2-footer" id="footer">
         <div class="v2-container">

@@ -713,7 +713,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <div class="author__body">
         <div class="author__name">Ярослав Михайлов</div>
         <div class="author__role">Основатель и главный эксперт КазнаЭксперт</div>
-        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Команда под руководством Ярослава сопроводила более 7000 контрактов на 90 млрд ₽ по 44-ФЗ, 223-ФЗ и ГОЗ. Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
+        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. За 5 лет личной практики Ярослав сопроводил более 7000 контрактов на 90 млрд ₽ по 44-ФЗ, 223-ФЗ и ГОЗ. Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
         <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
       </div>
     </div>
@@ -746,7 +746,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <button class="submit" type="submit">Получить расчёт →</button>
       <div class="formmsg" id="formMsg" hidden></div>
       <div class="railform__trust">
-        <span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span>
+        <span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span>
         <span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span>
       </div>
       <div class="success" id="leadSuccess" role="status" aria-live="polite">

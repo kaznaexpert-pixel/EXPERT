@@ -578,7 +578,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
       <button class="submit" type="submit">Получить разбор →</button>
       <div class="formmsg" id="formMsg" hidden></div>
-      <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span></div>
+      <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span><span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span></div>
       <div class="success" id="leadSuccess" role="status" aria-live="polite"><div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div><h3>Заявка принята</h3><p>Эксперт перезвонит <b>в течение 1 часа</b> (9:00–21:00 МСК).</p></div>
     </form>
   </aside>

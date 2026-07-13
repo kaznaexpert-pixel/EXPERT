@@ -824,7 +824,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
       <button class="submit" type="submit">Получить разбор →</button>
       <div class="formmsg" id="formMsg" hidden></div>
       <div class="railform__trust">
-        <span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span>
+        <span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span>
         <span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span>
       </div>
       <div class="success" id="leadSuccess" role="status" aria-live="polite">

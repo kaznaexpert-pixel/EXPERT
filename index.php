@@ -453,11 +453,11 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                   </div>
                   <div class="v2-trust-item">
                     <div class="v2-trust-num">7 000<span class="v2-trust-suffix">+</span></div>
-                    <div class="v2-trust-label">контрактов</div>
+                    <div class="v2-trust-label">контрактов за 5 лет</div>
                   </div>
                   <div class="v2-trust-item">
                     <div class="v2-trust-num">90<span class="v2-trust-suffix">&nbsp;млрд&nbsp;₽</span></div>
-                    <div class="v2-trust-label">проведено</div>
+                    <div class="v2-trust-label">проведено за 5 лет</div>
                   </div>
                   <div class="v2-trust-item">
                     <div class="v2-trust-num">2<span class="v2-trust-suffix">&nbsp;рабочих&nbsp;дня</span></div>
@@ -866,8 +866,8 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                 <p class="v2-expert-bio" itemprop="description">15+ лет в системе Федерального Казначейства. Знаю требования УФК изнутри: причины отказов, санкционирование платежей, раздельный учёт по 44-ФЗ, 223-ФЗ и ГОЗ.</p>
                 <p class="v2-expert-bio">Со мной работает специалист по казначейскому сопровождению — ведём контракты вместе, отвечаем в тот же день и не зависим от одного человека.</p>
                 <div class="v2-expert-stats">
-                  <div class="v2-expert-stat"><b>7000+</b><span>контрактов сопровождено</span></div>
-                  <div class="v2-expert-stat"><b>90 млрд ₽</b><span>прошло через счета</span></div>
+                  <div class="v2-expert-stat"><b>7000+</b><span>контрактов лично за 5 лет</span></div>
+                  <div class="v2-expert-stat"><b>90 млрд ₽</b><span>через счета за 5 лет</span></div>
                   <div class="v2-expert-stat"><b>15+ лет</b><span>внутри Казначейства</span></div>
                 </div>
                 <a href="#contacts" class="v2-expert-cta">Обсудить ваш контракт <span aria-hidden="true">→</span></a>
