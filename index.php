@@ -69,7 +69,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
   font-size: 11px;
   letter-spacing: 0.22em;
   text-transform: uppercase;
-  color: var(--accent);
+  color: var(--accent-text, #7A5F3B);
 }
 /* ============================================================
  * HERO v2 — компактный, конверсионный, с формой
@@ -187,7 +187,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
   font-weight: 500;
   letter-spacing: 0.22em;
   text-transform: uppercase;
-  color: var(--accent);
+  color: var(--accent-text, #7A5F3B);
   margin-bottom: 10px;
 }
 .v2 .v2-hero-action h2 {

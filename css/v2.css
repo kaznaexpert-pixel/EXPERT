@@ -114,7 +114,7 @@
   font-size: 11px;
   letter-spacing: 0.22em;
   text-transform: uppercase;
-  color: var(--accent);
+  color: var(--accent-text, #7A5F3B);
 }
 
 .v2-meta {
@@ -408,7 +408,7 @@
   font-weight: 500;
   letter-spacing: 0.22em;
   text-transform: uppercase;
-  color: var(--accent);
+  color: var(--accent-text, #7A5F3B);
   margin-bottom: 10px;
 }
 
@@ -450,7 +450,7 @@
 }
 
 .v2 .v2-form-field input::placeholder {
-  color: var(--mute-soft);
+  color: var(--mute);
 }
 
 .v2 .v2-form-field input:focus {
@@ -734,7 +734,7 @@
   font-weight: 500;
   letter-spacing: 0.24em;
   text-transform: uppercase;
-  color: var(--accent);
+  color: var(--accent-text, #7A5F3B);
   margin-bottom: 18px;
   display: flex;
   align-items: center;
@@ -820,7 +820,7 @@
   font-weight: 500;
   letter-spacing: 0.2em;
   text-transform: uppercase;
-  color: var(--accent);
+  color: var(--accent-text, #7A5F3B);
   margin-bottom: 16px;
   display: flex;
   align-items: center;
@@ -1286,7 +1286,7 @@
   font-weight: 600;
   letter-spacing: 0.18em;
   text-transform: uppercase;
-  color: var(--accent);
+  color: #C9A24B; /* светлое золото на тёмном подвале: 7.6:1 */;
   margin: 0 0 6px;
 }
 
@@ -1508,7 +1508,7 @@
   font-weight: 500;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  color: var(--mute-soft);
+  color: var(--mute);
   white-space: nowrap;
   padding-top: 2px;
 }
@@ -1735,7 +1735,7 @@
   font-size: 13px;
   font-weight: 500;
   letter-spacing: 0.04em;
-  color: var(--accent);
+  color: var(--accent-text, #7A5F3B);
   margin-bottom: 22px;
 }
 .v2 .v2-expert-bio {
@@ -1893,7 +1893,7 @@
 .v2 .v2-review-author { margin-top: auto; }
 .v2 .v2-review-author strong { font-family: var(--font-body); font-weight: 600; font-size: 14px; color: var(--ink); display: block; }
 .v2 .v2-review-author span { font-family: var(--font-body); font-size: 12px; line-height: 1.45; color: var(--mute); display: block; }
-.v2 .v2-review-tag { font-family: var(--font-body); font-size: 11px; font-weight: 500; color: var(--accent); margin-top: 8px; }
+.v2 .v2-review-tag { font-family: var(--font-body); font-size: 11px; font-weight: 500; color: var(--accent-text, #7A5F3B); margin-top: 8px; }
 
 /* ============================================================
  * 17. FAQ — accordion (native <details>), 2 колонки
@@ -2064,7 +2064,7 @@
   font-weight: 400;
   letter-spacing: 0;
   text-transform: none;
-  color: var(--mute-soft);
+  color: var(--mute);
 }
 .v2 .contacts-form .v2-field .form-select,
 .v2 .contacts-form .v2-field input { margin-bottom: 0; }
@@ -2307,7 +2307,7 @@
   font-weight: 600;
   letter-spacing: 0.16em;
   text-transform: uppercase;
-  color: var(--accent);
+  color: var(--accent-text, #7A5F3B);
   margin-bottom: 4px;
 }
 .v2 .v2-trust-bar-check {
@@ -2492,7 +2492,7 @@
   font-weight: 600;
   letter-spacing: 0.2em;
   text-transform: uppercase;
-  color: var(--accent);
+  color: #C9A24B; /* светлое золото на тёмном подвале: 7.6:1 */;
   margin-bottom: 12px;
 }
 .v2-footer-cta-title {
@@ -3027,7 +3027,7 @@
   font-weight: 500;
   letter-spacing: 0.24em;
   text-transform: uppercase;
-  color: var(--accent);
+  color: var(--accent-text, #7A5F3B);
   margin-bottom: 14px;
   display: flex;
   align-items: center;
@@ -3146,7 +3146,7 @@
   font-weight: 500;
   letter-spacing: 0.18em;
   text-transform: uppercase;
-  color: var(--accent);
+  color: var(--accent-text, #7A5F3B);
   margin-bottom: 10px;
 }
 
@@ -3424,7 +3424,7 @@
 /* Контекстная ссылка на услугу в рельсе статьи (перелинковка на /uslugi/) */
 .rail-svc{display:flex;flex-direction:column;gap:3px;margin-top:14px;padding:13px 16px;border:1px solid var(--accent-soft);border-radius:12px;background:rgba(139,111,71,.05);text-decoration:none;transition:background .2s ease,border-color .2s ease}
 .rail-svc:hover{background:rgba(139,111,71,.10);border-color:rgba(139,111,71,.45)}
-.rail-svc__k{font-family:var(--font-body);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);font-weight:600}
+.rail-svc__k{font-family:var(--font-body);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent-text, #7A5F3B);font-weight:600}
 .rail-svc__n{font-family:var(--font-display);font-size:17px;line-height:1.25;color:var(--ink);font-weight:500}
 
 /* === Мобильная защита (аудит 22.06.2026) === */
