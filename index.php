@@ -521,64 +521,8 @@ header("Cache-Control: public, max-age=300, must-revalidate");
     <!-- SCHEMA.ORG: Organization                                      -->
     <!-- ============================================================ -->
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Organization",
-      "@id": "https://kaznaexpert.ru/#organization",
-      "name": "КазнаЭксперт",
-      "alternateName": "Kaznaexpert",
-      "url": "https://kaznaexpert.ru/",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://kaznaexpert.ru/img/icon.png",
-        "width": 512,
-        "height": 512
-      },
-      "image": "https://kaznaexpert.ru/img/og-image.png",
-      "description": "Полный аутсорсинг казначейского сопровождения государственных контрактов по 44-ФЗ и 223-ФЗ.",
-      "telephone": "+7-981-833-10-10",
-      "email": "manager@kaznaexpert.ru",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Средний пр. В.О., 88, литера А, оф. 330",
-        "addressLocality": "Санкт-Петербург",
-        "postalCode": "199106",
-        "addressCountry": "RU"
-      },
-      "areaServed": {
-        "@type": "Country",
-        "name": "Российская Федерация"
-      },
-      "founder": {
-        "@type": "Person",
-        "name": "Михайлов Ярослав",
-        "jobTitle": "Эксперт по казначейскому сопровождению"
-      },
-      "foundingDate": "2021",
-      "sameAs": [
-        "https://t.me/Kazna_Expert",
-        "https://dzen.ru/kazna_expert",
-        "https://tenchat.ru/Kazna-gov",
-        "https://www.klerk.ru/user/2692943/",
-        "https://www.rusprofile.ru/ip/321784700367672"
-      ],
-      "contactPoint": [{
-        "@type": "ContactPoint",
-        "telephone": "+7-981-833-10-10",
-        "contactType": "customer service",
-        "email": "manager@kaznaexpert.ru",
-        "areaServed": "RU",
-        "availableLanguage": ["ru"]
-      }],
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.9",
-        "bestRating": "5",
-        "worstRating": "1",
-        "reviewCount": "7"
-      }
-    }
-    </script>
+{"@context": "https://schema.org", "@type": "Organization", "@id": "https://kaznaexpert.ru/#organization", "name": "КазнаЭксперт", "alternateName": "Kaznaexpert", "url": "https://kaznaexpert.ru/", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/icon.png", "width": 512, "height": 512}, "image": "https://kaznaexpert.ru/img/og-image.png", "description": "Полный аутсорсинг казначейского сопровождения государственных контрактов по 44-ФЗ и 223-ФЗ.", "telephone": "+7-981-833-10-10", "email": "manager@kaznaexpert.ru", "address": {"@type": "PostalAddress", "streetAddress": "Средний пр. В.О., 88, литера А, оф. 330", "addressLocality": "Санкт-Петербург", "postalCode": "199106", "addressCountry": "RU"}, "areaServed": {"@type": "Country", "name": "Российская Федерация"}, "founder": {"@type": "Person", "name": "Михайлов Ярослав", "jobTitle": "Эксперт по казначейскому сопровождению", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "foundingDate": "2021", "sameAs": ["https://t.me/Kazna_Expert", "https://dzen.ru/kazna_expert", "https://tenchat.ru/Kazna-gov", "https://www.klerk.ru/user/2692943/", "https://www.rusprofile.ru/ip/321784700367672"], "contactPoint": [{"@type": "ContactPoint", "telephone": "+7-981-833-10-10", "contactType": "customer service", "email": "manager@kaznaexpert.ru", "areaServed": "RU", "availableLanguage": ["ru"]}], "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "bestRating": "5", "worstRating": "1", "reviewCount": "7"}}
+</script>
 
     <!-- ============================================================ -->
     <!-- SCHEMA.ORG: ProfessionalService                               -->
@@ -675,32 +619,8 @@ header("Cache-Control: public, max-age=300, must-revalidate");
 
     <!-- Schema.org: Person — Михайлов Ярослав (эксперт E-E-A-T) -->
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Person",
-      "@id": "https://kaznaexpert.ru/#mikhaylov",
-      "name": "Михайлов Ярослав",
-      "jobTitle": "Основатель и эксперт по казначейскому сопровождению",
-      "description": "Эксперт по казначейскому сопровождению государственных контрактов по 44-ФЗ и 223-ФЗ. Опыт работы в системе Федерального Казначейства — 15+ лет. Основатель компании КазнаЭксперт. Знает требования УФК изнутри: причины отказов, нюансы КОСГУ и КВР, раздельный учёт, санкционирование платежей.",
-      "knowsAbout": [
-        "Казначейское сопровождение",
-        "ГИИС Электронный бюджет",
-        "Открытие лицевого счёта в Казначействе",
-        "Раздельный учёт по госконтракту",
-        "Санкционирование платежей УФК",
-        "44-ФЗ",
-        "223-ФЗ",
-        "Гособоронзаказ"
-      ],
-      "worksFor": {
-        "@id": "https://kaznaexpert.ru/#organization"
-      },
-      "url": "https://kaznaexpert.ru/",
-      "sameAs": [
-        "https://t.me/Kaznaexpert"
-      ]
-    }
-    </script>
+{"@context": "https://schema.org", "@type": "Person", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "name": "Михайлов Ярослав", "jobTitle": "Основатель и эксперт по казначейскому сопровождению", "description": "Эксперт по казначейскому сопровождению государственных контрактов по 44-ФЗ и 223-ФЗ. Опыт работы в системе Федерального Казначейства — 15+ лет. Основатель компании КазнаЭксперт. Знает требования УФК изнутри: причины отказов, нюансы КОСГУ и КВР, раздельный учёт, санкционирование платежей.", "knowsAbout": ["Казначейское сопровождение", "ГИИС Электронный бюджет", "Открытие лицевого счёта в Казначействе", "Раздельный учёт по госконтракту", "Санкционирование платежей УФК", "44-ФЗ", "223-ФЗ", "Гособоронзаказ"], "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/", "sameAs": ["https://t.me/Kaznaexpert"]}
+</script>
 
     <!-- Schema.org: ItemList — кейсы клиентов -->
     <script type="application/ld+json">

@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"tool", cluster:"kalkulyator"};</script>
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebApplication","name":"Калькулятор казначейского сопровождения 2026","url":"https://kaznaexpert.ru/baza-znaniy/kalkulyator-ks/","applicationCategory":"FinanceApplication","operatingSystem":"Web","offers":{"@type":"Offer","price":"0","priceCurrency":"RUB"},"description":"Проверка, попадает ли контракт под казначейское сопровождение по порогам ст. 5 ФЗ № 426-ФЗ","publisher":{"@type":"Organization","name":"КазнаЭксперт","url":"https://kaznaexpert.ru"}}
+{"@context": "https://schema.org", "@type": "WebApplication", "name": "Калькулятор казначейского сопровождения 2026", "url": "https://kaznaexpert.ru/baza-znaniy/kalkulyator-ks/", "applicationCategory": "FinanceApplication", "operatingSystem": "Web", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "RUB"}, "description": "Проверка, попадает ли контракт под казначейское сопровождение по порогам ст. 5 ФЗ № 426-ФЗ", "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "@id": "https://kaznaexpert.ru/#organization"}}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[

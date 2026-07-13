@@ -444,7 +444,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 {"@context": "https://schema.org", "@type": "ContactPage", "name": "Контакты КазнаЭксперт", "url": "https://kaznaexpert.ru/kontakty/", "inLanguage": "ru-RU", "isPartOf": {"@type": "WebSite", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru/"}}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru/", "email": "manager@kaznaexpert.ru", "telephone": "+7-981-833-10-10", "sameAs": ["https://t.me/Kaznaexpert"], "contactPoint": {"@type": "ContactPoint", "telephone": "+7-981-833-10-10", "email": "manager@kaznaexpert.ru", "contactType": "customer service", "areaServed": "RU", "availableLanguage": "Russian"}}
+{"@context": "https://schema.org", "@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru/", "email": "manager@kaznaexpert.ru", "telephone": "+7-981-833-10-10", "sameAs": ["https://t.me/Kaznaexpert"], "contactPoint": {"@type": "ContactPoint", "telephone": "+7-981-833-10-10", "email": "manager@kaznaexpert.ru", "contactType": "customer service", "areaServed": "RU", "availableLanguage": "Russian"}, "@id": "https://kaznaexpert.ru/#organization"}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Контакты", "item": "https://kaznaexpert.ru/kontakty/"}]}
