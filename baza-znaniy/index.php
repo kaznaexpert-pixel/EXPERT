@@ -665,6 +665,7 @@ $tools_n=0; foreach($TOOLS as $sl=>$t){ if(isset($all[$sl])) $tools_n++; }
 <!-- kb-faq -->
 <section class="kb-faq" aria-labelledby="faqH"><style>.kb-faq{max-width:1240px;margin:48px auto;padding:0 24px;font-family:'Inter',system-ui,sans-serif}.kb-faq>h2{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:clamp(1.5rem,2vw+1rem,2rem);letter-spacing:-.01em;margin:0 0 18px;color:var(--ink,#1A1A1A)}</style>
   <h2 id="faq">Частые вопросы</h2>
+  <p style="margin:-6px 0 14px"><a href="/faq/" style="text-decoration:underline">Все 160+ вопросов по рубрикам →</a></p>
   <div class="faq">
       <details><summary>Что такое казначейское сопровождение простыми словами?</summary><p>Это режим, при котором расчёты по государственному контракту проходят через лицевой счёт исполнителя в Федеральном казначействе, а каждый платёж санкционируется. Подробно — в материале <a href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/">что такое казначейское сопровождение</a>.</p></details>
       <details><summary>С какой суммы контракт попадает под казначейское сопровождение в 2026 году?</summary><p>Пороги задаёт закон о федеральном бюджете № 426-ФЗ: авансы по государственным контрактам от 100 млн рублей, расчёты у единственного поставщика и по гособоронзаказу от 3 млн рублей, а также контракты за счёт целевых субсидий. Разбор — в статье <a href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/">кто попадает под казначейское сопровождение</a>.</p></details>

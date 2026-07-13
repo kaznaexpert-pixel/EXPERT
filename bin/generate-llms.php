@@ -110,7 +110,7 @@ foreach ($articles as $a) {
 }
 // фиксированный порядок кластеров
 uksort($byCat, fn($x, $y) => array_search($x, $CAT_ORDER) <=> array_search($y, $CAT_ORDER));
-foreach ($byCat as &$list) usort($list, fn($x, $y) => strnatcasecmp($x['title'], $y['title']));
+foreach ($byCat as &$list) usort($list, fn($x, $y) => strcmp($x['title'], $y['title']));
 unset($list);
 ksort($services, SORT_NATURAL);
 ksort($regions, SORT_NATURAL);
@@ -154,6 +154,7 @@ $mains = [
     ['/keysy/', 'Кейсы', 'обезличенные истории клиентов'],
     ['/o-kompanii/', 'О компании', 'кто мы и как работаем'],
     ['/kontakty/', 'Контакты', 'все способы связи'],
+    ['/faq/', 'Частые вопросы (FAQ)', '160+ ответов эксперта по рубрикам: счета, санкционирование, ГОЗ, раздельный учёт, услуги и цены'],
     ['/privacy/', 'Политика конфиденциальности', 'обработка ПДн по 152-ФЗ'],
 ];
 foreach ($mains as [$u, $t, $d]) $L[] = "- [$t]($BASE$u): $d";

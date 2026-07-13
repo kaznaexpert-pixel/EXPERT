@@ -1112,7 +1112,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
             <div class="v2-section-head v2-reveal">
               <div class="v2-section-eyebrow">FAQ</div>
               <h2 class="v2-section-title">Частые вопросы о <em>казначейском счёте</em></h2>
-              <p class="v2-section-lede">Коротко о счёте, сопровождении, сроках и стоимости.</p>
+              <p class="v2-section-lede">Коротко о счёте, сопровождении, сроках и стоимости. Больше ответов — <a href="/faq/" style="text-decoration:underline">160+ вопросов по рубрикам</a>.</p>
             </div>
 
             <div class="v2-faq v2-reveal">
@@ -1482,6 +1482,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
               <a href="/baza-znaniy/normativnaya-baza/">Нормативная база</a>
               <a href="/baza-znaniy/tofk/">Справочник ТОФК</a>
               <a href="/baza-znaniy/glossary/">Глоссарий</a>
+              <a href="/faq/">Частые вопросы</a>
               <a href="/regiony/">Регионы</a>
             </nav>
 

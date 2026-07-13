@@ -4,14 +4,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Глоссарий терминов казначейского сопровождения</title>
-<meta name="description" content="Словарь терминов казначейского сопровождения: ИГК, ТОФК, КОСГУ, КВР, санкционирование, ГИИС «Электронный бюджет», лицевой счёт, раздельный учёт и другие — простыми.">
+<title>Частые вопросы о казначейском сопровождении — FAQ</title>
+<meta name="description" content="Ответы эксперта на частые вопросы о казначейском сопровождении: счета, санкционирование, ГОЗ, раздельный учёт, ГИИС «Электронный бюджет», услуги и цены. 160+ вопросов по рубрикам.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#141310" media="(prefers-color-scheme: dark)">
 <!-- PROD: canonical и og:url ОБЯЗАТЕЛЬНО менять под URL каждой статьи -->
-<link rel="canonical" href="https://kaznaexpert.ru/baza-znaniy/glossary/">
+<link rel="canonical" href="https://kaznaexpert.ru/faq/">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
@@ -23,26 +23,25 @@
 <!-- Метрика 94305898 грузится из /js/cookie-consent.js (по согласию, единый счётчик сайта) -->
 <!-- ╚════════════════════════════════════════════════════════════════════════════╝ -->
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
-<script>window.YM_PARAMS = {page_type:"article", cluster:"glossary"};</script>
+<script>window.YM_PARAMS = {page_type:"faq", cluster:"faq"};</script>
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"DefinedTermSet", "datePublished": "2026-06-25", "dateModified": "2026-07-02","name":"Глоссарий терминов казначейского сопровождения","url":"https://kaznaexpert.ru/baza-znaniy/glossary/","hasDefinedTerm":[
-{"@type":"DefinedTerm","name":"ТОФК","description":"Территориальный орган Федерального казначейства, который ведёт счёт и санкционирует операции по контракту."},
-{"@type":"DefinedTerm","name":"УФК","description":"Управление Федерального казначейства по субъекту РФ — региональное подразделение Федерального казначейства."},
-{"@type":"DefinedTerm","name":"Лицевой счёт 71","description":"Счёт получателя средств, открытый в ТОФК; через него идут расчёты по контракту под казначейским сопровождением."},
-{"@type":"DefinedTerm","name":"Санкционирование","description":"Проверка казначейством законности и обоснованности расхода перед проведением платежа."},
-{"@type":"DefinedTerm","name":"Сведения об операциях с целевыми средствами","description":"Утверждаемый документ с плановыми операциями по целевым средствам; по нему идёт санкционирование."},
-{"@type":"DefinedTerm","name":"ИГК","description":"Идентификатор государственного контракта — 25-значный код, связывающий операции и счёт с конкретным контрактом."},
-{"@type":"DefinedTerm","name":"КВР","description":"Код вида расходов — классифицирует направление расходования бюджетных средств."},
-{"@type":"DefinedTerm","name":"КОСГУ","description":"Классификация операций сектора государственного управления — детализирует экономическое содержание операции."},
-{"@type":"DefinedTerm","name":"Раздельный учёт","description":"Учёт доходов и расходов в разрезе каждого контракта; обязателен по ГОЗ."},
-{"@type":"DefinedTerm","name":"ГИИС «Электронный бюджет»","description":"Государственная система, через которую ведутся казначейские операции и документооборот по контракту."},
-{"@type":"DefinedTerm","name":"КЭП","description":"Квалифицированная электронная подпись; для «Электронного бюджета» выдаётся УЦ казначейства."},
-{"@type":"DefinedTerm","name":"Сводный реестр","description":"Реестр участников и неучастников бюджетного процесса; без включения в него казначейские операции невозможны."}
-]}
+<?php
+$faqData = include $_SERVER['DOCUMENT_ROOT'] . '/php/data/faq-data.php';
+$ent = [];
+foreach ($faqData as $rubric => $qs) {
+    foreach ($qs as $q) {
+        if (count($ent) >= 60) break 2;
+        $ent[] = ['@type' => 'Question', 'name' => $q['q'],
+                  'acceptedAnswer' => ['@type' => 'Answer', 'text' => $q['a']]];
+    }
+}
+echo json_encode(['@context' => 'https://schema.org', '@type' => 'FAQPage',
+    'mainEntity' => $ent], JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
+?>
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Глоссарий"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"Частые вопросы"}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -148,17 +147,14 @@
         </header>
 
 <div class="layout">
-  <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/baza-znaniy/">База знаний</a> › Глоссарий</nav>
+  <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › Частые вопросы</nav>
 
   <aside class="toc" aria-label="Содержание">
-    <div class="toc__label">Разделы</div>
+    <div class="toc__label">Рубрики</div>
     <ul class="toc__list" id="tocList">
-      <li><a href="#scheta">Счета и регистрация</a></li>
-      <li><a href="#platezhi">Платежи и санкционирование</a></li>
-      <li><a href="#uchet">Учёт и коды</a></li>
-      <li><a href="#goz">ГОЗ</a></li>
-      <li><a href="#sistemy">Подпись и системы</a></li>
-      <li><a href="#iz-statey">Термины из статей</a></li>
+      <?php $ri = 0; foreach (array_keys($faqData) as $r): $ri++; ?>
+      <li><a href="#r<?= $ri ?>"><?= htmlspecialchars($r) ?></a></li>
+      <?php endforeach; ?>
     </ul>
   </aside>
 
@@ -166,99 +162,31 @@
     <div class="hero">
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
-      <div class="eyebrow">База знаний · Глоссарий <span class="fresh">Актуально на 2026</span></div>
-    <h1>Глоссарий терминов казначейского сопровождения</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>8 мин чтения</span><span class="dot">·</span><span>Обновлено 2 июля 2026</span></div>
+      <div class="eyebrow">КазнаЭксперт · FAQ <span class="fresh">Актуально на 2026</span></div>
+    <h1>Частые вопросы о казначейском сопровождении</h1>
+    <div class="byline"><span class="av">ЯМ</span><span>Отвечает: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>Обновлено <?= date('d.m.Y', filemtime($_SERVER['DOCUMENT_ROOT'] . '/php/data/faq-data.php')) ?></span></div>
     </div>
 
-    <div class="tldr">Короткий словарь ключевых терминов казначейского сопровождения госконтрактов: <b>ИГК, ТОФК, УФК, КОСГУ, КВР, санкционирование, ГИИС «Электронный бюджет», лицевой счёт, сводный реестр, раздельный учёт</b> и другие. Определения простыми словами, со ссылками на подробные разборы. Ниже — расширенный раздел: <b>390+ терминов</b> из экспертных статей базы знаний.</div>
+    <div class="tldr">Собрали в одном месте <b><?= array_sum(array_map('count', $faqData)) ?> ответов</b> на вопросы о казначейском сопровождении: от «что это такое» до нюансов ГОЗ, санкционирования и раздельного учёта. У каждого ответа — ссылка на подробный разбор в <a href="/baza-znaniy/">базе знаний</a>. Не нашли свой вопрос — <a href="/#contacts">спросите эксперта напрямую</a>.</div>
 
-    <h2 id="scheta">Счета и регистрация</h2>
-    <div class="answer reveal">
-      <dl class="gloss">
-        <div><dt>УФК</dt><dd>Управление Федерального казначейства по субъекту РФ — региональное подразделение Федерального казначейства. <a href="/baza-znaniy/tofk/">Код и сайт вашего УФК →</a></dd></div>
-        <div><dt>ТОФК</dt><dd>Территориальный орган Федерального казначейства, который ведёт счёт и санкционирует операции по контракту. <a href="/baza-znaniy/tofk/">Справочник ТОФК по регионам →</a></dd></div>
-        <div><dt>Лицевой счёт (71)</dt><dd>Счёт получателя средств, открытый в ТОФК; через него идут расчёты по контракту под казначейским сопровождением. <a href="/baza-znaniy/licevoy-schet-71-kak-otkryt/">Как открыть →</a></dd></div>
-        <div><dt>Отдельный счёт</dt><dd>Счёт в уполномоченном банке при банковском сопровождении — альтернатива казначейскому счёту.</dd></div>
-        <div><dt>Сводный реестр</dt><dd>Реестр участников и неучастников бюджетного процесса; без включения в него казначейские операции невозможны.</dd></div>
-        <div><dt>ЕИС</dt><dd>Единая информационная система в сфере закупок (zakupki.gov.ru), где размещаются контракты по 44-ФЗ.</dd></div>
-      </dl>
-    </div>
-
-    <h2 id="platezhi">Платежи и санкционирование</h2>
-    <div class="answer reveal">
-      <dl class="gloss">
-        <div><dt>Казначейское сопровождение (казначейского сопровождения)</dt><dd>Режим, при котором расчёты по контракту идут через лицевой счёт в казначействе, а каждый платёж санкционируется. <a href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/">Подробнее →</a></dd></div>
-        <div><dt>Санкционирование</dt><dd>Проверка казначейством законности и обоснованности расхода перед проведением платежа. <a href="/baza-znaniy/poryadok-sankcionirovaniya-rashodov/">Порядок →</a></dd></div>
-        <div><dt>Целевые средства</dt><dd>Средства, доведённые по контракту и расходуемые строго на его исполнение.</dd></div>
-        <div><dt>Сведения об операциях</dt><dd>Утверждаемый документ с плановыми операциями по целевым средствам; по нему идёт санкционирование.</dd></div>
-        <div><dt>Распоряжение о казначейском платеже</dt><dd>Документ, которым исполнитель инициирует платёж по контракту; направляется в ТОФК на санкционирование.</dd></div>
-        <div><dt>Расширенное казначейское сопровождение</dt><dd>Режим для крупных контрактов и ГОЗ: дополнительно проверяется обоснованность затрат и структура цены.</dd></div>
-      </dl>
-    </div>
-
-    <h2 id="uchet">Учёт и коды</h2>
-    <div class="answer reveal">
-      <dl class="gloss">
-        <div><dt>КВР</dt><dd>Код вида расходов — классифицирует направление расходования бюджетных средств.</dd></div>
-        <div><dt>КОСГУ</dt><dd>Классификация операций сектора государственного управления — детализирует экономическое содержание операции.</dd></div>
-        <div><dt>Раздельный учёт</dt><dd>Учёт доходов и расходов в разрезе каждого контракта; обязателен по ГОЗ. <a href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/">Методика →</a></dd></div>
-        <div><dt>Неустойка</dt><dd>Санкция за нарушение контракта: пени за просрочку и штрафы за иные нарушения. <a href="/baza-znaniy/peni-i-shtrafy-po-44-fz/">Калькулятор →</a></dd></div>
-      </dl>
-    </div>
-
-    <h2 id="goz">Гособоронзаказ</h2>
-    <div class="answer reveal">
-      <dl class="gloss">
-        <div><dt>ГОЗ</dt><dd>Государственный оборонный заказ; регулируется 275-ФЗ. <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/">казначейское сопровождение ГОЗ →</a></dd></div>
-        <div><dt>ИГК</dt><dd>Идентификатор государственного контракта — 25-значный код, связывающий операции и счёт с конкретным контрактом.</dd></div>
-        <div><dt>Цепочка кооперации</dt><dd>Головной исполнитель и соисполнители ГОЗ; расчёты по каждому звену проходят санкционирование.</dd></div>
-        <div><dt>Структура цены</dt><dd>Состав затрат, формирующих цену контракта ГОЗ; проверяется при расширенном сопровождении.</dd></div>
-      </dl>
-    </div>
-
-    <h2 id="sistemy">Подпись и системы</h2>
-    <div class="answer reveal">
-      <dl class="gloss">
-        <div><dt>ГИИС «Электронный бюджет»</dt><dd>Государственная система, через которую ведутся казначейские операции и документооборот по контракту.</dd></div>
-        <div><dt>КЭП (ЭЦП)</dt><dd>Квалифицированная электронная подпись; для «Электронного бюджета» выдаётся УЦ казначейства. <a href="/baza-znaniy/sertifikat-ecp-kaznachejstvo/">Как получить →</a></dd></div>
-        <div><dt>УЦ ФК</dt><dd>Удостоверяющий центр Федерального казначейства, выпускающий сертификаты подписи.</dd></div>
-        <div><dt>Токен</dt><dd>Защищённый носитель (Рутокен, JaCarta) для хранения закрытого ключа подписи.</dd></div>
-      </dl>
-    </div>
-
-    <div class="note">Не нашли термин? Напишите нам — добавим в глоссарий и поможем разобраться с вашим контрактом.</div>
-
-    <section class="refs" aria-label="Источники">
-      <h2>Источники</h2>
-      <ol>
-        <li id="ref-1">Бюджетный кодекс РФ (казначейское сопровождение, ст. 242.23–242.27). <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
-        <li id="ref-2">Казначейство России — термины и системы. <a href="https://roskazna.gov.ru/" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
-      </ol>
-      <p class="refs__note">Определения даны в справочных целях; формулировки нормативных актов могут отличаться. Сверяйтесь с действующей редакцией НПА.</p>
-    </section>
-
-    <h2 id="iz-statey">Термины из экспертных разборов</h2>
-    <div class="answer reveal">
-      <p>Ниже — расширенный словарь: термины, которые разобраны в статьях базы знаний.
-      У каждого — ссылка на материал с полным контекстом. Раздел обновляется автоматически
-      по мере выхода новых разборов.</p>
-    </div>
-    <?php
-    $glossaryTerms = include $_SERVER['DOCUMENT_ROOT'] . '/php/data/glossary-terms.php';
-    foreach ($glossaryTerms as $letter => $items): ?>
-    <h3 class="gl-letter" id="l-<?= rawurlencode($letter) ?>"><?= htmlspecialchars($letter) ?></h3>
-    <dl class="terms">
-      <?php foreach ($items as $t): ?>
-      <div><dt><?= htmlspecialchars($t['t']) ?></dt><dd><?= htmlspecialchars($t['d']) ?> <a href="<?= htmlspecialchars($t['url']) ?>">Разбор: <?= htmlspecialchars(mb_strimwidth($t['title'], 0, 60, '…')) ?> →</a></dd></div>
+    <?php $ri = 0; foreach ($faqData as $rubric => $qs): $ri++; ?>
+    <h2 id="r<?= $ri ?>"><?= htmlspecialchars($rubric) ?></h2>
+    <div class="faq">
+      <?php foreach ($qs as $q): ?>
+      <details>
+        <summary><?= htmlspecialchars($q['q']) ?></summary>
+        <p><?= htmlspecialchars($q['a']) ?></p>
+        <?php if ($q['url'] !== '/'): ?>
+        <p><a href="<?= htmlspecialchars($q['url']) ?>">Подробный разбор: <?= htmlspecialchars($q['title']) ?> →</a></p>
+        <?php endif; ?>
+      </details>
       <?php endforeach; ?>
-    </dl>
+    </div>
     <?php endforeach; ?>
-
   </article>
 
   <aside class="rail">
-    <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="glossary">
+    <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="faq">
       <div class="railform__badge">Разбор эксперта</div>
       <h3 class="railform__title">Разберём ваш контракт</h3>
       <p class="railform__sub">Объясним по вашей ситуации без терминов и возьмём казначейство на себя.</p>
@@ -279,165 +207,7 @@
       </div>
     </form>
   </aside>
-</div>
 
-<section class="trust" aria-label="Проверка в реестрах">
-  <div class="trust__box">
-    <div class="trust__lead"><b>Проверьте нас в открытых реестрах</b>ИП Михайлов Я.А. · ИНН 781428314589 · ОГРНИП 321784700367672</div>
-    <div class="trust__badges">
-      <a class="badge" href="https://www.rusprofile.ru/ip/321784700367672" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg><b>Rusprofile</b></a>
-      <a class="badge" href="https://zachestnyibiznes.ru/company/ip/321784700367672_781428314589" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg>За честный <b>бизнес</b></a>
-      <a class="badge" href="https://www.audit-it.ru/contragent/fl/781428314589_mikhailov-iaroslav-alekseevich" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg><b>Audit-it</b></a>
-    </div>
-  </div>
-</section>
-
-
-<style id="mtrStyle">
-.mtr{position:fixed;left:10px;top:50%;transform:translateY(-50%);z-index:60;display:flex;align-items:center;gap:8px}
-.mtr__ticks{display:flex;flex-direction:column;gap:7px;padding:12px 8px;cursor:pointer}
-.mtr__tick{display:block;width:14px;height:2px;background:var(--line,#d8d0c0);border-radius:2px;transition:width .25s,background .25s}
-.mtr__tick.on{width:24px;background:var(--sepia,#8B6F47)}
-.mtr:hover .mtr__tick{background:var(--sepia,#8B6F47);opacity:.75}
-.mtr__panel{position:absolute;left:42px;top:50%;transform:translateY(-50%) translateX(-10px);opacity:0;pointer-events:none;background:#FBF8F1;border:1px solid #e4ddd0;border-radius:14px;padding:16px 8px 16px 20px;width:300px;max-height:72vh;overflow:auto;box-shadow:0 26px 52px -26px rgba(26,26,26,.4);transition:opacity .25s ease,transform .25s ease}
-.mtr:hover .mtr__panel,.mtr:focus-within .mtr__panel,.mtr--peek .mtr__panel{opacity:1;pointer-events:auto;transform:translateY(-50%) translateX(0)}
-.mtr--peek{pointer-events:none}
-.mtr__panel b{display:block;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:#8B6F47;margin:0 0 8px}
-.mtr__panel ol{list-style:none;margin:0;padding:0 12px 0 0}
-.mtr__panel a{display:block;font-size:13.5px;line-height:1.35;color:#56524b;text-decoration:none;padding:5px 8px;border-radius:7px;border-left:2px solid transparent}
-.mtr__panel a:hover{background:rgba(139,111,71,.08);color:#1A1A1A}
-.mtr__panel a.on{border-left-color:#8B6F47;color:#1A1A1A;font-weight:600}
-@keyframes mtrHello{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}
-.mtr--hello .mtr__ticks{animation:mtrHello 1.1s ease 2 .6s}
-@media(max-width:1319px),(pointer:coarse){.mtr{display:none}}
-@media print{.mtr{display:none}}
-</style>
-<div class="mtr mtr--hello" id="mtr" hidden>
-  <div class="mtr__ticks" id="mtrTicks" tabindex="0" role="button" aria-label="Открыть содержание" title="Содержание"></div>
-  <nav class="mtr__panel" aria-label="Содержание статьи"><b>Содержание</b><ol id="mtrList"></ol></nav>
-</div>
-<script>
-(function(){
-  var src=document.querySelectorAll('.toc__list a'); if(!src.length) return;
-  var box=document.getElementById('mtr'), list=document.getElementById('mtrList'), ticks=document.getElementById('mtrTicks');
-  var items=[];
-  src.forEach(function(a){
-    var id=(a.getAttribute('href')||'').slice(1), h=id&&document.getElementById(id); if(!h) return;
-    var t=document.createElement('span'); t.className='mtr__tick'; ticks.appendChild(t);
-    var li=document.createElement('li'), l=document.createElement('a'); l.href='#'+id; l.textContent=a.textContent; li.appendChild(l); list.appendChild(li);
-    items.push({h:h,t:t,l:l});
-  });
-  if(!items.length) return;
-  box.hidden=false;
-  function spy(){
-    var y=window.scrollY+140, cur=items[0];
-    items.forEach(function(it){ if(it.h.offsetTop<=y) cur=it; });
-    items.forEach(function(it){ var on=it===cur; it.t.classList.toggle('on',on); it.l.classList.toggle('on',on); });
-  }
-  var tm; window.addEventListener('scroll',function(){ if(tm) return; tm=setTimeout(function(){tm=null;spy();},120); },{passive:true});
-  spy();
-  try{
-    if(!sessionStorage.getItem('mtrPeek')){
-      sessionStorage.setItem('mtrPeek','1');
-      setTimeout(function(){ box.classList.add('mtr--peek'); },900);
-      setTimeout(function(){ box.classList.remove('mtr--peek'); },3400);
-    }
-  }catch(_){}
-  setTimeout(function(){ box.classList.remove('mtr--hello'); },4200);
-})();
-</script>
-
-<style id="edt2026">
-/* ===== Editorial 2026: режим чтения (одна колонка, журнальная типографика) ===== */
-.layout{display:block!important;max-width:840px!important;padding:46px 30px 90px!important}
-.content{max-width:none!important}
-/* типографика: тёмный текст, крупный кегль, высокий интерлиньяж */
-.content p,.content li{color:var(--ink,#1A1A1A);font-size:17px;line-height:1.78}
-.content p{margin:0 0 22px}
-.content ul,.content ol{margin:0 0 26px;padding-left:22px}
-.content li{margin:0 0 10px}
-.lead-p{font-size:19px;line-height:1.72}
-.tldr{font-size:17px;line-height:1.72;padding:24px 28px;margin:30px 0 34px}
-.content h2{margin:84px 0 26px;line-height:1.14}
-.content h3{margin:52px 0 16px}
-.content h2+p,.content h3+p{margin-top:0}
-.byline{margin-top:18px}
-/* таблицы — редакционные: только горизонтальные линейки, высокие строки */
-.content table{margin:56px 0 64px;font-size:15px;border-top:2px solid var(--ink,#1A1A1A)}
-.content caption{font-style:normal;font-size:11.5px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-mute,#8a8170);padding:16px 0 14px}
-.content th{background:none;border-bottom:1.5px solid var(--ink,#1A1A1A);padding:10px 22px 12px 0;font-size:11px}
-.content td{padding:18px 22px 18px 0;border-bottom:1px solid var(--line,#e4ddd0);line-height:1.6;font-size:15px;color:var(--ink,#1A1A1A)}
-.content td+td,.content th+th{border-left:none}
-.content tr:nth-child(even) td{background:none}
-.content tr:last-child td{border-bottom:1px solid var(--line,#e4ddd0)}
-.content td:first-child{font-weight:600}
-/* note/answer — врезки с воздухом */
-.note{margin:34px 0;padding:20px 24px;line-height:1.7}
-/* вехи содержания — у кромки колонки текста */
-.mtr{left:max(14px,calc(50% - 530px))}
-/* кнопка «наверх» поднимается над CTA */
-.totop{bottom:96px!important}
-/* ===== форма: выдвижная панель + постоянная CTA-кнопка ===== */
-@media(min-width:861px){
-  .rail{position:fixed!important;top:0;right:0;height:100vh;width:min(430px,94vw);margin:0;padding:74px 28px 30px;background:var(--paper,#FAF7F0);box-shadow:-34px 0 64px -30px rgba(26,26,26,.4);transform:translateX(112%);transition:transform .32s cubic-bezier(.22,.8,.3,1);z-index:95;overflow:auto}
-  body.rail-open .rail{transform:none}
-  body.rail-open::before{content:'';position:fixed;inset:0;background:rgba(26,26,26,.34);z-index:94}
-  .rail-close{position:absolute;top:18px;right:18px;width:38px;height:38px;border:1px solid var(--line,#e4ddd0);border-radius:50%;background:none;color:var(--ink,#1A1A1A);font-size:17px;line-height:1;cursor:pointer}
-}
-.rail-toggle{position:fixed;right:22px;bottom:26px;z-index:93;display:inline-flex;align-items:center;gap:9px;background:var(--ink,#1A1A1A);color:#fff;border:none;border-radius:999px;padding:10px 22px;font:600 14.5px/1.2 'Inter',system-ui,sans-serif;box-shadow:0 18px 38px -16px rgba(26,26,26,.55);cursor:pointer;transition:background .2s,transform .2s}
-.rail-toggle:hover{background:var(--sepia,#8B6F47);transform:translateY(-2px)}
-.rail-toggle .dot{width:7px;height:7px;border-radius:50%;background:#7ad07a}
-@media(max-width:860px){.rail-toggle,.rail-close{display:none}}
-@media print{.rail-toggle,.rail{display:none!important}}
-</style>
-<script>
-(function(){
-  var r=document.querySelector('.rail'); if(!r) return;
-  if(window.matchMedia&&window.matchMedia('(min-width:861px)').matches){
-    var b=document.createElement('button'); b.className='rail-toggle'; b.type='button';
-    b.innerHTML='<span class="dot"></span>Разбор эксперта';
-    document.body.appendChild(b);
-    var x=document.createElement('button'); x.className='rail-close'; x.type='button'; x.setAttribute('aria-label','Закрыть'); x.innerHTML='✕'; r.appendChild(x);
-    function open(){ document.body.classList.add('rail-open'); try{ if(typeof ym==='function') ym(94305898,'reachGoal','rail_open'); }catch(_){ } }
-    function close(){ document.body.classList.remove('rail-open'); }
-    b.addEventListener('click',function(){ document.body.classList.contains('rail-open')?close():open(); });
-    x.addEventListener('click',close);
-    document.addEventListener('keydown',function(e){ if(e.key==='Escape') close(); });
-    document.addEventListener('click',function(e){ if(document.body.classList.contains('rail-open')&&!r.contains(e.target)&&!b.contains(e.target)) close(); });
-  }
-})();
-</script>
-
-
-<!-- kb-faq -->
-<section class="kb-faq" aria-labelledby="faqH"><style>.kb-faq{max-width:1240px;margin:48px auto;padding:0 24px;font-family:'Inter',system-ui,sans-serif}.kb-faq>h2{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:clamp(1.5rem,2vw+1rem,2rem);letter-spacing:-.01em;margin:0 0 18px;color:var(--ink,#1A1A1A)}</style>
-  <h2 id="putanica">Пары терминов, которые чаще всего путают — из практики</h2>
-    <div class="answer reveal">
-      <p>Половина вопросов на консультациях начинается с подмены понятий. Эти пары стоит различать в первую очередь.</p>
-    </div>
-    <table>
-      <caption>Термины-двойники</caption>
-      <tr><th>Путают</th><th>В чём разница</th></tr>
-      <tr><td>Казначейское и банковское сопровождение</td><td>Казначейское — лицевой счёт в органе казначейства и санкционирование; банковское — отдельный счёт в уполномоченном банке (характерно для гособоронзаказа). Подробнее: <a href="/baza-znaniy/kaznacheyskoe-i-bankovskoe-soprovozhdenie/">сравнение режимов</a></td></tr>
-      <tr><td>Лицевой счёт и отдельный счёт</td><td>Лицевой — в территориальном органе казначейства при казначейском сопровождении; отдельный — в уполномоченном банке по 275-ФЗ</td></tr>
-      <tr><td>УФК и ТОФК</td><td>УФК — управление по субъекту; ТОФК — общее название территориальных органов. Коды — в <a href="/baza-znaniy/tofk/">справочнике ТОФК</a></td></tr>
-      <tr><td>Санкционирование и казначейский мониторинг</td><td>Санкционирование — проверка каждого платежа до списания; мониторинг — наблюдение за операциями и участниками</td></tr>
-      <tr><td>ИГК и номер контракта</td><td>ИГК — отдельный идентификатор госконтракта для платежей и документов; номер контракта его не заменяет</td></tr>
-      <tr><td>Целевые и собственные средства</td><td>Целевые — на лицевом счёте под режимом; собственные — на расчётном счёте, режимом не связаны. Подробнее: <a href="/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/">целевые средства</a></td></tr>
-    </table>
-
-    <h2 id="faq">Частые вопросы</h2>
-  <div class="faq">
-      <details><summary>Что такое глоссарий казначейского сопровождения?</summary><p>Это справочник ключевых терминов казначейского сопровождения с краткими и точными определениями.</p></details>
-      <details><summary>Какие термины здесь собраны?</summary><p>Казначейское сопровождение, казначейский счёт, лицевой счёт, ИГК, целевые средства, санкционирование, раздельный учёт и другие понятия.</p></details>
-      <details><summary>Где почитать подробнее по каждому термину?</summary><p>В <a href="/baza-znaniy/">базе знаний</a> по большинству терминов есть отдельные статьи с разбором процессов.</p></details>
-      <details><summary>На что опираются определения?</summary><p>На Бюджетный кодекс, приказ Минфина № 214н и постановление Правительства № 2024 — с учётом действующих редакций.</p></details>
-      <details><summary>Что такое казначейское сопровождение простыми словами?</summary><p>Казначейское сопровождение — это контроль Федерального казначейства за расходованием целевых средств по госконтракту, субсидии или гранту: деньги идут через лицевой счёт в Казначействе, и каждый платёж проходит санкционирование на соответствие цели и подтверждающим документам.</p></details>
-  </div>
-</section>
-<script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что такое глоссарий казначейского сопровождения?", "acceptedAnswer": {"@type": "Answer", "text": "Это справочник ключевых терминов казначейского сопровождения с краткими и точными определениями."}}, {"@type": "Question", "name": "Какие термины здесь собраны?", "acceptedAnswer": {"@type": "Answer", "text": "Казначейское сопровождение, казначейский счёт, лицевой счёт, ИГК, целевые средства, санкционирование, раздельный учёт и другие понятия."}}, {"@type": "Question", "name": "Где почитать подробнее по каждому термину?", "acceptedAnswer": {"@type": "Answer", "text": "В базе знаний по большинству терминов есть отдельные статьи с разбором процессов."}}, {"@type": "Question", "name": "На что опираются определения?", "acceptedAnswer": {"@type": "Answer", "text": "На Бюджетный кодекс, приказ Минфина № 214н и постановление Правительства № 2024 — с учётом действующих редакций."}}, {"@type": "Question", "name": "Что такое казначейское сопровождение простыми словами?", "acceptedAnswer": {"@type": "Answer", "text": "Казначейское сопровождение — это контроль Федерального казначейства за расходованием целевых средств по госконтракту, субсидии или гранту: деньги идут через лицевой счёт в Казначействе, и каждый платёж проходит санкционирование на соответствие цели и подтверждающим документам."}}]}
-</script>
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
 
