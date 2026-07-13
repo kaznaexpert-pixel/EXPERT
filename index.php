@@ -1553,7 +1553,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
             <div class="v2-section-head v2-reveal">
               <div class="v2-section-eyebrow">FAQ</div>
               <h2 class="v2-section-title">Частые вопросы о <em>казначейском счёте</em></h2>
-              <p class="v2-section-lede">Коротко о счёте, сопровождении, сроках и стоимости. Больше ответов — <a href="/faq/" style="text-decoration:underline">160+ вопросов по рубрикам</a>.</p>
+              <p class="v2-section-lede">Коротко о счёте, сопровождении, сроках и стоимости. Больше ответов — <a href="/faq/" style="text-decoration:underline">160+ вопросов по рубрикам</a> · Не уверены, нужен ли счёт? <a href="/baza-znaniy/kalkulyator-ks/" style="text-decoration:underline">Проверьте контракт калькулятором</a>.</p>
             </div>
 
             <div class="v2-faq v2-reveal">
