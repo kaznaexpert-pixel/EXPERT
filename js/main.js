@@ -134,9 +134,11 @@ if (contactsform) {
         var telEl     = document.getElementById('tel');
         var consentEl = contactsform.querySelector('.checkbox input[type="checkbox"]');
 
+        var hpEl = contactsform.querySelector('input[name="hp"]');
         var data = {
             name            : nameEl ? nameEl.value.trim() : '',
             phone           : telEl  ? telEl.value.trim()  : '',
+            hp              : hpEl ? hpEl.value : '',
             source          : 'contacts',
             consent_pd      : consentEl ? consentEl.checked : false,
             consent_pd_text : 'Согласие на обработку ПДн (форма «Контакты»)',
@@ -233,6 +235,7 @@ if (contactsform) {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           phone: phone,
+          hp: (form.querySelector('input[name="hp"]') || {}).value || '',
           source: 'hero',
           consent_pd: true,
           consent_pd_text: consent.closest('.v2-form-consent') ? consent.closest('.v2-form-consent').textContent.trim() : 'Согласен на обработку персональных данных согласно Политике',

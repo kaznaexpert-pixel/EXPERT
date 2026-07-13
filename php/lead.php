@@ -47,7 +47,8 @@ if (!is_array($input)) {
 }
 
 // === HONEYPOT ===
-if (!empty($input['hp'])) {
+// hp — формы главной (main.js); company_extra — railform статей базы знаний (127 форм)
+if (!empty($input['hp']) || !empty($input['company_extra'])) {
     echo json_encode(['success' => true]);
     exit;
 }

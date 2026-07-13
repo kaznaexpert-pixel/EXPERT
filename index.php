@@ -479,6 +479,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                 </p>
 
                 <form id="hero-form" method="post" action="#contacts" novalidate>
+                  <input type="text" name="hp" value="" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
                   <div class="v2-form-field">
                     <input
                       type="tel"
@@ -1288,6 +1289,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
             <div class="v2-contacts-split v2-reveal">
               <div class="v2-contacts-form">
               <form class="contacts-form" id="contacts-form" action="#" novalidate>
+                  <input type="text" name="hp" value="" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;height:0;width:0;opacity:0">
                 <div class="v2-field">
                   <label for="name">Имя</label>
                   <input type="text" id="name" name="name" autocomplete="name" placeholder="Как к вам обращаться">
