@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"author", cluster:"komanda"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "ProfilePage", "mainEntity": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Основатель · главный эксперт", "description": "Ярослав Михайлов — основатель КазнаЭксперт, эксперт по казначейскому сопровождению. Окончил СПбГУ, в Федеральном казначействе с 2009 по 2019 год. Ведёт сложные кейсы, ГОЗ и спасение контрактов.", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10"}, "knowsAbout": ["Спасение проблемных контрактов", "Расширенное казначейское сопровождение", "ГОЗ и нестандартные кейсы", "Методология работы с УФК", "Сложные эскалации и спорные платежи", "Контроль качества по проектам"], "alumniOf": {"@type": "CollegeOrUniversity", "name": "Санкт-Петербургский государственный университет"}, "founder": {"@type": "Organization", "name": "КазнаЭксперт"}}}
+{"@context": "https://schema.org", "@type": "ProfilePage", "mainEntity": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Основатель · главный эксперт", "description": "Ярослав Михайлов — основатель КазнаЭксперт, эксперт по казначейскому сопровождению. Окончил СПбГУ, в Федеральном казначействе с 2009 по 2019 год. Ведёт сложные кейсы, ГОЗ и спасение контрактов.", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/mihailov-768.jpg", "sameAs": ["https://t.me/Kaznaexpert", "https://dzen.ru/kazna_expert", "https://tenchat.ru/Kazna-gov", "https://www.klerk.ru/user/2692943/", "https://www.rusprofile.ru/ip/321784700367672"], "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10"}, "knowsAbout": ["Спасение проблемных контрактов", "Расширенное казначейское сопровождение", "ГОЗ и нестандартные кейсы", "Методология работы с УФК", "Сложные эскалации и спорные платежи", "Контроль качества по проектам"], "alumniOf": {"@type": "CollegeOrUniversity", "name": "Санкт-Петербургский государственный университет"}, "founder": {"@type": "Organization", "name": "КазнаЭксперт"}}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Ярослав Михайлов"}]}
@@ -573,6 +573,17 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   <div class="v2-container">
     <div class="v2-section-head"><div class="v2-section-eyebrow">Об эксперте</div><h2 class="v2-section-title">Путь <em>в профессии</em></h2></div>
     <div class="bio-prose"><p>Окончил Санкт-Петербургский государственный университет по специальности «Экономика предприятия». С 2009 по 2019 год работал в системе Федерального казначейства — изнутри изучил логику санкционирования платежей, типовые причины отказов и реальные требования территориальных органов к документам.</p><p>После казначейства перешёл на сторону бизнеса и занялся поддержкой компаний по казначейскому сопровождению. Так появился КазнаЭксперт — практика, где казначейское сопровождение ведут люди, знающие работу УФК не по инструкциям, а изнутри.</p><p>Лично контролирует самые сложные ситуации: спасение проблемных контрактов, расширенное казначейское сопровождение, ГОЗ и нестандартные кейсы. По текущим контактам и заявкам отвечает быстро — без длинных цепочек согласований.</p></div>
+
+    <div class="bio-prose" style="margin-top:28px">
+      <p style="font-size:11px;font-weight:500;letter-spacing:.16em;text-transform:uppercase;color:var(--mute);margin-bottom:12px">Профили и публикации эксперта</p>
+      <p style="display:flex;flex-wrap:wrap;gap:12px">
+        <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener" style="font-size:14px;color:var(--ink);background:var(--bg-alt);border:1px solid var(--hair);border-radius:8px;padding:9px 15px">Telegram</a>
+        <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener" style="font-size:14px;color:var(--ink);background:var(--bg-alt);border:1px solid var(--hair);border-radius:8px;padding:9px 15px">Дзен — статьи</a>
+        <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener" style="font-size:14px;color:var(--ink);background:var(--bg-alt);border:1px solid var(--hair);border-radius:8px;padding:9px 15px">Клерк — публикации</a>
+        <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener" style="font-size:14px;color:var(--ink);background:var(--bg-alt);border:1px solid var(--hair);border-radius:8px;padding:9px 15px">TenChat</a>
+        <a href="https://www.rusprofile.ru/ip/321784700367672" target="_blank" rel="noopener nofollow" style="font-size:14px;color:var(--ink);background:var(--bg-alt);border:1px solid var(--hair);border-radius:8px;padding:9px 15px">Rusprofile — проверка ИП</a>
+      </p>
+    </div>
   </div>
 </section>
 
