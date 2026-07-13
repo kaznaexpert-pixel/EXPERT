@@ -375,6 +375,13 @@
       <ol><li id="ref-1">Федеральный закон от 28.11.2025 № 426-ФЗ «О федеральном бюджете на 2026 год…», ст. 5 (в т.ч. ч. 6–8 — казначейское обеспечение обязательств). <a href="https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/" target="_blank" rel="noopener">КонсультантПлюс</a></li><li id="ref-2">Бюджетный кодекс РФ, ст. 242.22 (казначейское обеспечение обязательств), глава 24.4. <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/" target="_blank" rel="noopener">КонсультантПлюс</a></li><li id="ref-3">Постановление Правительства РФ от 24.11.2021 № 2024 «О Правилах казначейского сопровождения». <a href="https://www.consultant.ru/document/cons_doc_LAW_401819/" target="_blank" rel="noopener">КонсультантПлюс</a></li><li id="ref-4">Федеральный закон от 05.04.2013 № 44-ФЗ «О контрактной системе…», ст. 96 (обеспечение исполнения контракта), ст. 34. <a href="https://www.consultant.ru/document/cons_doc_LAW_144624/" target="_blank" rel="noopener">КонсультантПлюс</a></li></ol>
       <p class="refs__note">Материал носит справочный характер и не является юридической консультацией. Нормы и пороговые значения устанавливаются законом о федеральном бюджете и подзаконными актами и могут уточняться; перед применением сверяйтесь с актуальной редакцией НПА на дату операции.</p>
     </section>
+  
+    <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">
+      <span style="font-size:15px">Помогла ли статья?</span>
+      <button type="button" data-fb="yes" style="font-family:inherit;font-size:14px;padding:8px 18px;border:1px solid var(--line,#e4ddd0);border-radius:100px;background:var(--card,#fffdf8);cursor:pointer;color:inherit">👍 Да</button>
+      <button type="button" data-fb="no" style="font-family:inherit;font-size:14px;padding:8px 18px;border:1px solid var(--line,#e4ddd0);border-radius:100px;background:var(--card,#fffdf8);cursor:pointer;color:inherit">👎 Нет</button>
+    </div>
+    <script>(function(){var w=document.getElementById('artFb');if(!w)return;w.addEventListener('click',function(e){var b=e.target.closest('button[data-fb]');if(!b)return;try{window.ym&&ym(window.YM_ID||0,'reachGoal','article_feedback_'+b.dataset.fb);}catch(_){}w.innerHTML='<span style="font-size:15px">'+(b.dataset.fb==='yes'?'Спасибо! Рады, что пригодилось.':'Спасибо! Напишите в <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener" style="text-decoration:underline">Telegram</a>, чего не хватило — доработаем.')+'</span>';});})();</script>
   </article>
 
   <aside class="rail">
@@ -806,7 +813,7 @@
     var href=(a.getAttribute&&a.getAttribute('href'))||'';
     if(href.indexOf('tel:')===0)g('click_phone');
     else if(/t\.me\//.test(href)&&href.indexOf('/share')<0)g('click_telegram');
-    else if(href.indexOf('mailto:')===0)g('click_email');
+    else if(href.indexOf('mailto:')===0)g('click_email');else if(/\.pdf($|[?#])/.test(href))g('download_pdf');
     else if(a.classList&&a.classList.contains('badge'))g('click_registry');
   },true);
   var lf=document.getElementById('leadForm');

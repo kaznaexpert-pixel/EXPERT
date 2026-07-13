@@ -370,6 +370,13 @@
       </ol>
       <p class="refs__note">Материал актуален на 18 июня 2026 года и носит справочный характер, не являясь юридической консультацией. Состав, форма и сроки отчётности определяются нормативными актами и условиями конкретного соглашения; перед сдачей отчёта сверяйтесь с текстом соглашения, актуальной редакцией приказа № 214н и требованиями вашего распорядителя средств.</p>
     </div>
+  
+    <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">
+      <span style="font-size:15px">Помогла ли статья?</span>
+      <button type="button" data-fb="yes" style="font-family:inherit;font-size:14px;padding:8px 18px;border:1px solid var(--line,#e4ddd0);border-radius:100px;background:var(--card,#fffdf8);cursor:pointer;color:inherit">👍 Да</button>
+      <button type="button" data-fb="no" style="font-family:inherit;font-size:14px;padding:8px 18px;border:1px solid var(--line,#e4ddd0);border-radius:100px;background:var(--card,#fffdf8);cursor:pointer;color:inherit">👎 Нет</button>
+    </div>
+    <script>(function(){var w=document.getElementById('artFb');if(!w)return;w.addEventListener('click',function(e){var b=e.target.closest('button[data-fb]');if(!b)return;try{window.ym&&ym(window.YM_ID||0,'reachGoal','article_feedback_'+b.dataset.fb);}catch(_){}w.innerHTML='<span style="font-size:15px">'+(b.dataset.fb==='yes'?'Спасибо! Рады, что пригодилось.':'Спасибо! Напишите в <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener" style="text-decoration:underline">Telegram</a>, чего не хватило — доработаем.')+'</span>';});})();</script>
   </article>
 
   <aside class="rail">
@@ -763,7 +770,7 @@
     var href=(a.getAttribute&&a.getAttribute('href'))||'';
     if(href.indexOf('tel:')===0)g('click_phone');
     else if(/t\.me\//.test(href)&&href.indexOf('/share')<0)g('click_telegram');
-    else if(href.indexOf('mailto:')===0)g('click_email');
+    else if(href.indexOf('mailto:')===0)g('click_email');else if(/\.pdf($|[?#])/.test(href))g('download_pdf');
     else if(a.classList&&a.classList.contains('badge'))g('click_registry');
   },true);
   var lf=document.getElementById('leadForm');

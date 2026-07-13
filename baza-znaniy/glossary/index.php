@@ -696,7 +696,7 @@
     var href=(a.getAttribute&&a.getAttribute('href'))||'';
     if(href.indexOf('tel:')===0)g('click_phone');
     else if(/t\.me\//.test(href)&&href.indexOf('/share')<0)g('click_telegram');
-    else if(href.indexOf('mailto:')===0)g('click_email');
+    else if(href.indexOf('mailto:')===0)g('click_email');else if(/\.pdf($|[?#])/.test(href))g('download_pdf');
     else if(a.classList&&a.classList.contains('badge'))g('click_registry');
   },true);
   var lf=document.getElementById('leadForm');

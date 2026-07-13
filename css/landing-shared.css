@@ -368,3 +368,11 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 /* mobile TOC */
 .mtoc{display:none}
 @media(max-width:1080px){.mtoc{display:block;margin:0 0 26px}.mtoc summary{cursor:pointer;font-size:13px;font-weight:600;color:var(--sepia);padding:13px 16px;background:var(--soft);border:1px solid var(--line);border-radius:10px;list-style:none}.mtoc ol{margin:12px 0 0 20px;font-size:14.5px}.mtoc a{color:var(--ink-soft);text-decoration:none}}
+
+/* ══ Печать ══ */
+@media print {
+  .v2-header, .v2-mobile-menu, .railform, .kz-sub, .v2-footer, .cookie-banner,
+  .cookie-modal, .messenger-float, .crumbs { display: none !important; }
+  body { background: #fff !important; color: #000 !important; }
+  a { color: #000 !important; }
+}

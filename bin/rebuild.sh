@@ -94,6 +94,29 @@ if err: sys.exit(1)
 print(f'  ✅ {len(sm_urls)} URL: все существуют, noindex в sitemap нет')
 EOF
 
+step "6/6 Свежесть годов в тайтлах (предупреждение, не блокирует)"
+python3 - <<'EOF'
+import re, pathlib, datetime
+year = datetime.date.today().year
+stale = []
+for p in pathlib.Path('.').rglob('index.php'):
+    s = str(p)
+    if any(x in s for x in ('222/','cms/','build/')): continue
+    h = p.read_text(errors='ignore')
+    m = re.search(r'<title>([^<]*)</title>', h)
+    if not m: continue
+    # только реальные годы 2020+: не номера НПА («№ 2024») и не коды («2000»)
+    years = [int(y) for y in re.findall(r'(?<!№ )(?<!№)\b(202\d)\b(?!\s*»)', m.group(1))]
+    years = [y for y in years if 2020 <= y]
+    if years and max(years) < year:
+        stale.append(f'{max(years)} {s}')
+if stale:
+    print(f'  ⚠️  тайтлов с устаревшим годом (<{year}): {len(stale)}')
+    for x in stale[:8]: print('     ', x)
+else:
+    print(f'  ✅ устаревших годов в тайтлах нет (текущий: {year})')
+EOF
+
 echo ""
 if [ "$FAIL" -eq 0 ]; then
   echo "════ ✅ REBUILD OK — можно коммитить и пушить ════"
