@@ -494,7 +494,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
             </nav>
 
             <div class="v2-header-aside">
-              <span class="v2-phone-label">С 2009 · Вся РФ</span>
+              <span class="v2-phone-label">Эксперт с 2009 · Вся РФ</span>
               <a class="v2-phone" href="tel:+79818331010">+7 981 833-10-10</a>
               <button class="v2-burger" id="v2Burger" type="button" aria-label="Открыть меню" aria-expanded="false" aria-controls="v2MobileMenu">
                 <span></span><span></span><span></span>
@@ -858,7 +858,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
               <a href="/" class="v2-footer-logo" aria-label="КазнаЭксперт — на главную">
                 <img src="/img/logo-footer.webp" alt="КазнаЭксперт" width="180" height="54" loading="lazy">
               </a>
-              <p class="v2-footer-tagline">Полное казначейское сопровождение под ключ. Работа с УФК по всей России с 2009 года.</p>
+              <p class="v2-footer-tagline">Полное казначейское сопровождение под ключ. Экспертная работа с УФК по всей России — с 2009 года.</p>
             </div>
 
             <nav class="v2-footer-col" aria-label="Разделы сайта">

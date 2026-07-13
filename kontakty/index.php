@@ -540,7 +540,7 @@ a.kx-card__val:hover{color:var(--sep)}
               <a href="/" class="v2-footer-logo" aria-label="КазнаЭксперт — на главную">
                 <img src="/img/logo-footer.webp" alt="КазнаЭксперт" width="180" height="54" loading="lazy">
               </a>
-              <p class="v2-footer-tagline">Полное казначейское сопровождение под ключ. Работа с УФК по всей России с 2009 года.</p>
+              <p class="v2-footer-tagline">Полное казначейское сопровождение под ключ. Экспертная работа с УФК по всей России — с 2009 года.</p>
             </div>
 
             <nav class="v2-footer-col" aria-label="Разделы сайта">
