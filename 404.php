@@ -1,4 +1,13 @@
-<?php http_response_code(404); ?>
+<?php
+http_response_code(404);
+// Лог 404 — понять, куда бьются входящие битые ссылки (ротация не нужна: пишем компактно)
+$logLine = sprintf("%s\t%s\t%s\t%s\n",
+    date('Y-m-d H:i'),
+    substr($_SERVER['REQUEST_URI'] ?? '-', 0, 200),
+    substr($_SERVER['HTTP_REFERER'] ?? '-', 0, 200),
+    substr($_SERVER['HTTP_USER_AGENT'] ?? '-', 0, 80));
+@file_put_contents(dirname(__DIR__) . '/404.log', $logLine, FILE_APPEND | LOCK_EX);
+?>
 <!DOCTYPE html>
 <html lang="ru">
 <head>
