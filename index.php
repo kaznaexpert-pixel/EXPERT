@@ -8,6 +8,8 @@ header("Cache-Control: public, max-age=300, must-revalidate");
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#141310" media="(prefers-color-scheme: dark)">
 
     <!-- ============================================================ -->
     <!-- SEO META                                                      -->
