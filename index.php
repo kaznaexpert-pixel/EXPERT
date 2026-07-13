@@ -36,8 +36,449 @@ header("Cache-Control: public, max-age=300, must-revalidate");
     <!-- (152-ФЗ: без трансграничной передачи в Google Fonts). -->
     <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
     <link rel="preload" as="font" type="font/woff2" href="/fonts/playfairdisplay-normal-500-cyrillic.woff2" crossorigin>
-    <link rel="stylesheet" href="/css/fonts.css?v=<?= @filemtime(__DIR__ . '/css/fonts.css') ?>">
-    <link rel="stylesheet" href="/css/v2.css?v=<?= @filemtime(__DIR__ . '/css/v2.css') ?>">
+    <style id="fonts-crit">/* критические @font-face (кириллица, выше первого экрана): H1 Playfair 500 + body Inter 400. Остальные начертания — из fonts.css (async). */
+@font-face{font-family:'Inter';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/inter-normal-400-cyrillic.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:'Playfair Display';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/playfairdisplay-normal-500-cyrillic.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}</style>
+    <link rel="preload" href="/css/fonts.css?v=<?= @filemtime(__DIR__ . '/css/fonts.css') ?>" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/css/fonts.css?v=<?= @filemtime(__DIR__ . '/css/fonts.css') ?>"></noscript>
+    <style id="v2-crit">/* critical: v2-шапка (above-the-fold); полный v2.css грузится асинхронно */
+.v2{--bg:#F4F1EB;--bg-alt:#EDE9E1;--paper:#FBF9F4;--ink:#1A1A1A;--ink-soft:#3A3A3A;--mute:#6E6B66;--mute-soft:#A8A39B;--hair:rgba(26,26,26,.10);--hair-strong:rgba(26,26,26,.18);--accent:#8B6F47;--font-display:"Playfair Display","Times New Roman",serif;--font-body:"Inter",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;--container:1280px;--gutter:80px;--space-5:24px}
+.v2,.v2 *{box-sizing:border-box;margin:0;padding:0}
+.v2{background:var(--bg);color:var(--ink);font-family:var(--font-body);font-size:17px;line-height:1.6;font-weight:400;letter-spacing:-.005em;-webkit-font-smoothing:antialiased}
+.v2 a{color:inherit;text-decoration:none}
+.v2-container{max-width:var(--container);margin:0 auto;padding:0 var(--gutter)}
+.v2 .v2-header{position:sticky;top:0;z-index:100;padding:22px 0;background:rgba(244,241,235,.62);-webkit-backdrop-filter:saturate(180%) blur(20px);backdrop-filter:saturate(180%) blur(20px);border-bottom:1px solid var(--hair);overflow:visible}
+.v2 .v2-header *{color:inherit}
+.v2 .v2-header-inner{display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:var(--space-5)}
+.v2 .v2-brand{display:inline-flex;align-items:center;color:var(--ink)}
+.v2 .v2-brand-mark{height:44px;width:auto;display:block}
+.v2 .v2-brand-mark img{height:100%;width:auto;display:block;object-fit:contain}
+.v2 .v2-nav{display:flex;justify-content:center;gap:36px;list-style:none}
+.v2 .v2-nav a{font-family:var(--font-body);font-size:14px;font-weight:400;color:var(--ink);letter-spacing:-.005em}
+.v2 .v2-header-aside{display:flex;align-items:center;gap:22px}
+.v2 .v2-header-aside .v2-phone-label{font-family:var(--font-body);font-size:11px;font-weight:500;letter-spacing:.18em;text-transform:uppercase;color:var(--mute)}
+.v2 .v2-header-aside .v2-phone{font-family:var(--font-display);font-weight:500;font-size:19px;letter-spacing:-.005em;color:var(--ink)}
+.v2 .v2-burger{display:none;flex-direction:column;justify-content:center;gap:5px;width:44px;height:44px;padding:0;border:0;background:transparent;cursor:pointer;margin-left:2px}
+.v2 .v2-burger span{display:block;width:24px;height:1.5px;margin:0 auto;background:var(--ink)}
+.v2 .v2-mobile-menu{display:none}
+@media(max-width:920px){.v2 .v2-header{padding:14px 0}.v2 .v2-header-inner{grid-template-columns:1fr auto}.v2 .v2-nav,.v2 .v2-header-aside .v2-phone-label{display:none}.v2 .v2-brand-mark{height:36px}.v2 .v2-header-aside .v2-phone{font-size:16px}.v2 .v2-burger{display:flex}}</style>
+    <style id="home-hero-crit">/* критика первого экрана главной (hero+форма+trust) — полный v2.css асинхронно */
+.v2-eyebrow {
+  font-family: var(--font-body);
+  font-weight: 500;
+  font-size: 11px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+/* ============================================================
+ * HERO v2 — компактный, конверсионный, с формой
+ * ============================================================ */
+
+.v2 .v2-hero {
+  padding: 56px 0 64px;
+  position: relative;
+}
+.v2 .v2-hero-grid {
+  display: grid;
+  grid-template-columns: 1fr 440px;
+  column-gap: 64px;
+  align-items: start;
+}
+.v2 .v2-hero-main {
+  max-width: 720px;
+}
+.v2 .v2-hero-eyebrow-row {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+.v2 .v2-hero-eyebrow-row .v2-eyebrow {
+  letter-spacing: 0.24em;
+  white-space: nowrap;
+}
+.v2 .v2-hero-eyebrow-dash {
+  flex: 1;
+  height: 1px;
+  background: var(--accent);
+  max-width: 80px;
+}
+.v2 .v2-hero h1 {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: clamp(40px, 4.6vw, 64px);
+  line-height: 1.04;
+  letter-spacing: -0.025em;
+  color: var(--ink);
+  margin: 0 0 22px;
+}
+.v2 .v2-hero h1 em {
+  font-style: italic;
+  font-weight: 500;
+  color: var(--accent);
+  letter-spacing: -0.02em;
+}
+.v2 .v2-hero-lede {
+  font-family: var(--font-body);
+  font-size: clamp(17px, 1.4vw, 20px);
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.005em;
+  color: var(--ink-soft);
+  max-width: 580px;
+  margin: 0 0 36px;
+}
+.v2 .v2-hero-lede strong {
+  color: var(--ink);
+  font-weight: 500;
+}
+/* Trust strip ВНУТРИ Hero — editorial layout */
+.v2 .v2-hero-trust {
+  margin-top: 16px;
+  padding-top: 28px;
+  border-top: 1px solid var(--hair-strong);
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  column-gap: 32px;
+}
+.v2 .v2-trust-item {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.v2 .v2-trust-num {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: clamp(28px, 2.6vw, 36px);
+  line-height: 1;
+  letter-spacing: -0.025em;
+  color: var(--ink);
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  white-space: nowrap;
+}
+.v2 .v2-trust-num .v2-trust-suffix {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: 13px;
+  color: var(--ink-soft);
+  letter-spacing: 0;
+}
+.v2 .v2-trust-label {
+  font-family: var(--font-body);
+  font-size: 10.5px;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--mute);
+  line-height: 1.4;
+}
+/* RIGHT column: action card */
+.v2 .v2-hero-action {
+  background: var(--paper);
+  border: 1px solid var(--hair-strong);
+  padding: 32px 32px;
+}
+.v2 .v2-hero-action-eyebrow {
+  font-family: var(--font-body);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 10px;
+}
+.v2 .v2-hero-action h2 {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.15;
+  letter-spacing: -0.015em;
+  color: var(--ink);
+  margin: 0 0 8px;
+}
+.v2 .v2-hero-action-sub {
+  font-family: var(--font-body);
+  font-size: 13px;
+  color: var(--mute);
+  line-height: 1.5;
+  margin: 0 0 22px;
+}
+.v2 .v2-form-field {
+  margin-bottom: 14px;
+}
+.v2 .v2-form-field input[type="tel"],
+.v2 .v2-form-field input[type="text"] {
+  width: 100%;
+  font-family: var(--font-body);
+  font-size: 16px;
+  color: var(--ink);
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid var(--hair-strong);
+  padding: 10px 0;
+  outline: none;
+  transition: border-color .2s ease;
+  letter-spacing: -0.005em;
+}
+.v2 .v2-form-field input::placeholder {
+  color: var(--mute-soft);
+}
+.v2 .v2-form-field input:focus {
+  border-bottom-color: var(--ink);
+}
+.v2 .v2-form-consent {
+  display: flex;
+  align-items: flex-start;
+  gap: 9px;
+  margin: 14px 0 20px;
+  cursor: pointer;
+}
+.v2 .v2-form-consent input {
+  flex-shrink: 0;
+  margin-top: 2px;
+  accent-color: var(--ink);
+}
+.v2 .v2-form-consent span {
+  font-family: var(--font-body);
+  font-size: 11.5px;
+  line-height: 1.45;
+  color: var(--mute);
+}
+.v2 .v2-form-consent a {
+  color: var(--ink);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-thickness: 1px;
+}
+.v2 .v2-form-submit {
+  width: 100%;
+  font-family: var(--font-body);
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--bg);
+  background: var(--ink);
+  border: 0;
+  padding: 16px 24px;
+  cursor: pointer;
+  transition: background .2s ease;
+}
+.v2 .v2-form-submit:hover {
+  background: var(--accent);
+}
+.v2 .v2-hero-alt {
+  margin-top: 18px;
+  padding-top: 18px;
+  border-top: 1px solid var(--hair);
+  font-family: var(--font-body);
+  font-size: 11.5px;
+  color: var(--mute);
+  text-align: center;
+}
+.v2 .v2-hero-alt-links {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 10px;
+}
+.v2 .v2-hero-alt-links a {
+  color: var(--ink);
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  text-decoration: none;
+  border-bottom: 1px solid var(--ink);
+  padding-bottom: 1px;
+}
+.v2 .v2-hero-alt-links a:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+@media (max-width: 920px) {
+.v2 .v2-hero {
+    padding: 40px 0 48px;
+  }
+.v2 .v2-hero-grid {
+    grid-template-columns: 1fr;
+    row-gap: 40px;
+  }
+.v2 .v2-hero-eyebrow-row {
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+.v2 .v2-hero-eyebrow-dash {
+    display: none;
+  }
+.v2 .v2-hero h1 {
+    font-size: clamp(32px, 8vw, 48px);
+    margin-bottom: 16px;
+  }
+.v2 .v2-hero-lede {
+    font-size: 16px;
+    margin-bottom: 24px;
+  }
+.v2 .v2-hero-trust {
+    margin-top: 8px;
+    padding-top: 20px;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 20px;
+    row-gap: 24px;
+  }
+.v2 .v2-trust-num {
+    font-size: 24px;
+  }
+.v2 .v2-trust-num .v2-trust-suffix {
+    font-size: 12px;
+  }
+.v2 .v2-trust-label {
+    font-size: 9.5px;
+  }
+.v2 .v2-hero-action {
+    padding: 28px 22px;
+  }
+.v2 .v2-hero-action h2 {
+    font-size: 20px;
+  }
+}
+.v2 .v2-form-error {
+  background: #FFF5F0;
+  border-left: 2px solid #C04A2B;
+  color: #6B2014;
+  font-family: var(--font-body);
+  font-size: 13px;
+  padding: 12px 14px;
+  margin-bottom: 14px;
+  line-height: 1.5;
+}
+/* ============================================================
+ * 19. ПОЛИРОВКА — 1 экран на блок, вход Hero, премиум-маркеры, сильнее reveal
+ * ============================================================ */
+
+/* Hero — ровно один экран, контент по центру */
+.v2 .v2-hero {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  padding: 96px 0 48px;
+}
+.v2 .v2-hero-grid { width: 100%; align-items: center; }
+.v2 .v2-hero h1 { font-size: clamp(34px, 3.7vw, 54px); margin: 0 0 18px; }
+.v2 .v2-hero-lede { font-size: 16px; margin-bottom: 0; }
+.v2 .v2-hero-trust { margin-top: 34px; }
+@media (max-width: 900px) {
+/* Hero — обычный поток, без 100vh и flex-центровки */
+  .v2 .v2-hero { min-height: 0; display: block; padding: 84px 0 40px; }
+.v2 .v2-hero-grid { display: block; }
+.v2 .v2-hero h1 { font-size: clamp(25px, 6.4vw, 34px); white-space: normal; }
+.v2 .v2-hero-lede { margin-bottom: 0; }
+.v2 .v2-hero-action { margin-top: 32px; }
+}
+/* КРУПНАЯ уверенная типографика */
+.v2 .v2-hero h1 {
+  font-size: clamp(40px, 5.4vw, 76px);
+  line-height: 1.0;
+  letter-spacing: -0.03em;
+}
+/* ============================================================
+ * 28. СРОЧНЫЕ ФИКСЫ — Hero / Процесс / Сравнение
+ * ============================================================ */
+
+/* --- HERO: реально 1 экран (учёт sticky-хедера сверху) --- */
+.v2 .v2-hero {
+  min-height: calc(100vh - 84px);
+  padding: 64px 0 40px;
+}
+.v2 .v2-hero h1 {
+  font-size: clamp(34px, 4.2vw, 62px);   /* крупно, но влезает с формой */
+  margin: 0 0 16px;
+}
+.v2 .v2-hero-lede { margin-bottom: 0; }
+.v2 .v2-hero-trust { margin-top: 28px; }
+@media (max-width: 900px) {
+.v2 .v2-hero { min-height: 0; }
+}
+/* ============================================================
+ * 30. СРОЧНЫЕ ФИКСЫ 2 — Hero / форма / буллиты / cookie / прогресс / ховеры
+ * ============================================================ */
+
+/* --- HERO: колонки выровнены по верху, контент идёт от верха (без дыры сверху),
+       секция ровно 1 экран --- */
+.v2 .v2-hero-grid { align-items: start; width: 100%; }
+@media (min-width: 901px) {
+.v2 .v2-hero {
+    display: block;
+    min-height: calc(100vh - 84px);
+    padding-top: 56px;
+    padding-bottom: 40px;
+  }
+}
+/* ============================================================
+ * §35. HERO — баланс правой колонки + приветственное слово эксперта
+ *      Карточка-форма растягивается на высоту левой колонки;
+ *      под формой — личное обращение Михайлова Ярослава.
+ * ============================================================ */
+.v2 .v2-hero-grid { align-items: stretch; }
+.v2 .v2-hero-action {
+  display: flex;
+  flex-direction: column;
+}
+/* Левая колонка: питч сверху, цифры доверия — у низа (выравниваем
+   высоту с правой карточкой, без пустоты). */
+.v2 .v2-hero-main {
+  display: flex;
+  flex-direction: column;
+}
+.v2 .v2-hero-main .v2-hero-trust {
+  margin-top: auto;
+}
+/* Список-«гарантии» наполняет правую карточку */
+.v2 .v2-hero-action-points {
+  list-style: none;
+  margin: 22px 0 0;
+  padding: 22px 0 0;
+  border-top: 1px solid var(--hair);
+  display: grid;
+  gap: 13px;
+}
+.v2 .v2-hero-action-points li {
+  position: relative;
+  padding-left: 27px;
+  font-family: var(--font-body);
+  font-size: 13.5px;
+  line-height: 1.4;
+  color: var(--ink-soft);
+}
+.v2 .v2-hero-action-points li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 3px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: rgba(139, 111, 71, 0.14);
+}
+.v2 .v2-hero-action-points li::after {
+  content: '';
+  position: absolute;
+  left: 5px;
+  top: 6px;
+  width: 4px;
+  height: 8px;
+  border: solid var(--accent);
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+/* «Или напишите …» прижимаем к низу растянутой карточки */
+.v2 .v2-hero-action .v2-hero-alt {
+  margin-top: auto;
+}</style>
+    <link rel="preload" href="/css/v2.css?v=<?= @filemtime(__DIR__ . '/css/v2.css') ?>" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/css/v2.css?v=<?= @filemtime(__DIR__ . '/css/v2.css') ?>"></noscript>
     <link rel="preconnect" href="https://mc.yandex.ru" crossorigin>
     <link rel="dns-prefetch" href="https://t.me">
     <link rel="dns-prefetch" href="https://max.ru">

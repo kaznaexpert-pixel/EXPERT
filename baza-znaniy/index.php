@@ -641,6 +641,7 @@ $tools_n=0; foreach($TOOLS as $sl=>$t){ if(isset($all[$sl])) $tools_n++; }
   if(!inp||!wrap)return;
   var secs=[].slice.call(wrap.querySelectorAll('.bz-catsec'));
   function norm(s){return (s||'').toLowerCase().replace(/ё/g,'е').trim();}
+  var q0=new URLSearchParams(location.search).get('q');if(q0){inp.value=q0;setTimeout(function(){inp.dispatchEvent(new Event('input'));inp.scrollIntoView({block:'center'});},0);}
   inp.addEventListener('input',function(){
     var q=norm(inp.value),total=0;
     secs.forEach(function(sec){
