@@ -43,7 +43,6 @@ header("Cache-Control: public, max-age=300, must-revalidate");
     <!-- ============================================================ -->
     <!-- STYLES                                                        -->
     <!-- ============================================================ -->
-    <link rel="stylesheet" href="/css/style.css?v=<?= @filemtime(__DIR__ . '/css/style.css') ?>" type="text/css">
 
     <!-- ============================================================ -->
     <!-- OPEN GRAPH                                                    -->
