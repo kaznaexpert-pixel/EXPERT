@@ -23,6 +23,24 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://kaznaexpert.ru/materialy/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/materialy/checklist-pervyy-kontrakt/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/materialy/checklist-platezh-goz/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/kalkulyator-ks/</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>monthly</changefreq>

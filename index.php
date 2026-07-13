@@ -1673,6 +1673,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
               <a href="/baza-znaniy/tofk/">Справочник ТОФК</a>
               <a href="/baza-znaniy/glossary/">Глоссарий</a>
               <a href="/faq/">Частые вопросы</a>
+              <a href="/materialy/">Материалы и чек-листы</a>
               <a href="/regiony/">Регионы</a>
             </nav>
 
