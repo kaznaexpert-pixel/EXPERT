@@ -7,7 +7,7 @@
 <title>Казначейское сопровождение во Владикавказе — под ключ | КазнаЭксперт</title>
 <meta name="description" content="Казначейское сопровождение госконтрактов во Владикавказе: открытие счёта в УФК, платежи, санкционирование, спасение контрактов. Дистанционно, фикс-цены.">
 <meta name="author" content="Ярослав Михайлов">
-<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<meta name="robots" content="noindex, follow">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#141310" media="(prefers-color-scheme: dark)">
 <!-- PROD: canonical и og:url ОБЯЗАТЕЛЬНО менять под URL каждой статьи -->
