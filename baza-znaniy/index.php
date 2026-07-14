@@ -554,7 +554,7 @@ $TOOLS = [
     '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-5.2-7-11a7 7 0 0 1 14 0c0 5.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>'],
   'normativnaya-baza' => ['Нормативная база','Законы, постановления, приказы и письма по казначейскому сопровождению + разборы простым языком','21 акт',
     '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h9l4 4v14H6z"/><path d="M14 3v5h5"/><path d="M9 13h7"/><path d="M9 17h7"/></svg>'],
-  'kalkulyator-ks' => ['Калькулятор КС','Попадает ли контракт под казначейское сопровождение: проверка по порогам 2026','10 секунд',
+  'kalkulyator-ks' => ['Калькулятор казначейского сопровождения','Попадает ли контракт под казначейское сопровождение: проверка по порогам 2026','10 секунд',
     '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="2" width="16" height="20" rx="2"/><path d="M8 6h8"/><path d="M8 11h.01M12 11h.01M16 11h.01M8 15h.01M12 15h.01M16 15h.01M8 19h.01M12 19h.01M16 19h.01"/></svg>'],
   'glossary' => ['Глоссарий','Ключевые термины казначейского сопровождения простыми словами',null,
     '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5a2 2 0 0 1 2-2h7v18H6a2 2 0 0 0-2 2z"/><path d="M13 3h5a2 2 0 0 1 2 2v16a2 2 0 0 0-2-2h-5"/></svg>'],

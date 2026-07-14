@@ -36,7 +36,7 @@
 ]}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Калькулятор КС"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Калькулятор казначейского сопровождения"}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -142,7 +142,7 @@
         </header>
 
 <div class="layout">
-  <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/baza-znaniy/">База знаний</a> › Калькулятор КС</nav>
+  <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/baza-znaniy/">База знаний</a> › Калькулятор казначейского сопровождения</nav>
 
   <aside class="toc" aria-label="Содержание">
     <div class="toc__label">На странице</div>
@@ -206,7 +206,7 @@
       <tr><td>Субсидии юрлицам · инвестиции ст. 80 БК · гранты</td><td>без порога</td><td>пп. 1–4 ч. 2 ст. 5</td></tr>
     </table>
     <div class="answer reveal">
-      <p>Подробные разборы: <a href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/">кто попадает под КС</a>, <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/">казначейское сопровождение ГОЗ</a>, <a href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/">аванс при КС</a>, <a href="/baza-znaniy/celevaya-subsidiya-yuridicheskomu-licu/">субсидии юрлицам</a>.</p>
+      <p>Подробные разборы: <a href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/">кто попадает под казначейское сопровождение</a>, <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/">казначейское сопровождение ГОЗ</a>, <a href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/">аванс при казначейском сопровождении</a>, <a href="/baza-znaniy/celevaya-subsidiya-yuridicheskomu-licu/">субсидии юрлицам</a>.</p>
     </div>
 
     <h2 id="chto-dalshe">Контракт попадает под сопровождение — что дальше</h2>
