@@ -389,3 +389,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
   .hero__crest { display: none !important; }
   .tldr { border: 1px solid #000; padding: 12px; }
 }
+
+/* мини-навигатор (.mtr) прячется на «Что почитать ещё» и в подвале, чтобы не налезать */
+.mtr{transition:opacity .28s ease, visibility .28s ease}
+.mtr.mtr--tail{opacity:0;visibility:hidden;pointer-events:none}

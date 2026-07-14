@@ -89,7 +89,7 @@
 .v2 .v2-burger{display:none;flex-direction:column;justify-content:center;gap:5px;width:44px;height:44px;padding:0;border:0;background:transparent;cursor:pointer;margin-left:2px}
 .v2 .v2-burger span{display:block;width:24px;height:1.5px;margin:0 auto;background:var(--ink)}
 .v2 .v2-mobile-menu{display:none}
-@media(max-width:920px){.v2 .v2-header{padding:14px 0}.v2 .v2-header-inner{grid-template-columns:1fr auto}.v2 .v2-nav,.v2 .v2-header-aside .v2-phone-label{display:none}.v2 .v2-brand-mark{height:36px}.v2 .v2-header-aside .v2-phone{font-size:16px}.v2 .v2-burger{display:flex}}</style>
+@media(max-width:920px){.v2 .v2-header{padding:14px 0}.v2 .v2-header-inner{grid-template-columns:1fr auto}.v2 .v2-nav,.v2 .v2-header-aside .v2-phone-label{display:none}.v2 .v2-brand-mark{height:36px}.v2 .v2-header-aside .v2-phone{font-size:16px}.v2 .v2-burger{display:flex}}/* header: КазнаЭксперт под логотипом + номер/подпись в одну строку */.v2 .v2-brand{flex-direction:column;align-items:flex-start;gap:4px}.v2 .v2-brand::after{content:"КазнаЭксперт";font-family:var(--font-display);font-weight:500;font-size:16px;line-height:1;letter-spacing:.01em;color:var(--ink);white-space:nowrap}.v2 .v2-header-aside{flex-direction:column;align-items:flex-end;gap:2px}.v2 .v2-header-aside .v2-phone-label,.v2 .v2-header-aside .v2-phone{white-space:nowrap}.v2 .v2-nav{gap:26px}@media(max-width:920px){.v2 .v2-brand{flex-direction:row;align-items:center}.v2 .v2-brand::after{display:none}.v2 .v2-header-aside{flex-direction:row;align-items:center;gap:14px}}</style>
 <link rel="preload" href="/css/v2.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/v2.css') ?>" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/css/v2.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/v2.css') ?>"></noscript>
 
@@ -1009,5 +1009,11 @@
   if(h){var u=function(){h.classList.toggle('is-scrolled',(window.scrollY||0)>12);};addEventListener('scroll',u,{passive:true});u();}
 })();
 </script>
+<script>/* mtr-tail-controller: прячем мини-навигатор на related/footer (scroll-based) */
+(function(){var m=document.getElementById('mtr');if(!m)return;
+var tail=document.querySelector('.related')||document.querySelector('.v2-footer');if(!tail)return;
+function upd(){m.classList.toggle('mtr--tail', tail.getBoundingClientRect().top < window.innerHeight*0.65);}
+var t;window.addEventListener('scroll',function(){if(t)return;t=setTimeout(function(){t=null;upd();},100);},{passive:true});
+window.addEventListener('resize',upd,{passive:true});upd();})();</script>
 </body>
 </html>

@@ -3623,3 +3623,5 @@ body {
   70%  { transform: scale(1.55); opacity: 0; }
   100% { transform: scale(1.55); opacity: 0; }
 }
+
+/* header: КазнаЭксперт под логотипом + номер/подпись в одну строку */.v2 .v2-brand{flex-direction:column;align-items:flex-start;gap:4px}.v2 .v2-brand::after{content:"КазнаЭксперт";font-family:var(--font-display);font-weight:500;font-size:16px;line-height:1;letter-spacing:.01em;color:var(--ink);white-space:nowrap}.v2 .v2-header-aside{flex-direction:column;align-items:flex-end;gap:2px}.v2 .v2-header-aside .v2-phone-label,.v2 .v2-header-aside .v2-phone{white-space:nowrap}.v2 .v2-nav{gap:26px}@media(max-width:920px){.v2 .v2-brand{flex-direction:row;align-items:center}.v2 .v2-brand::after{display:none}.v2 .v2-header-aside{flex-direction:row;align-items:center;gap:14px}}
