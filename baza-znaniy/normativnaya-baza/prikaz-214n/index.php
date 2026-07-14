@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Приказ Минфина № 214н — санкционирование операций при казначейском</title>
+<title>Приказ Минфина № 214н: санкционирование при сопровождении</title>
 <meta name="description" content="Главный приказ о санкционировании: сам Порядок, форма Сведений об операциях (ОКУД 0501213, Прил. 1) и перечни кодов направлений расходования.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -69,7 +69,7 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Приказ Минфина № 214н — санкционирование операций при казначейском">
+<meta property="og:title" content="Приказ Минфина № 214н: санкционирование при сопровождении">
 <meta property="og:description" content="Главный приказ о санкционировании: сам Порядок, форма Сведений об операциях (ОКУД 0501213, Прил. 1) и перечни кодов направлений расходования.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/prikaz-214n/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">

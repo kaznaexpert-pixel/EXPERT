@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Приостановление операций по лицевому счёту в казначействе: что делать</title>
+<title>Приостановление операций по лицевому счёту в казначействе</title>
 <meta name="description" content="Почему казначейство приостанавливает операции по лицевому счёту, меры по ПП № 2483, сроки и как возобновить платежи — что делать исполнителю.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">

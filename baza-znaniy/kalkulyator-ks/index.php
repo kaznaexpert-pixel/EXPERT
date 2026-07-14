@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Калькулятор казначейского сопровождения 2026 — проверить контракт</title>
-<meta name="description" content="Калькулятор: попадает ли ваш контракт под казначейское сопровождение в 2026 году. Пороги по ст. 5 ФЗ № 426-ФЗ: ГОЗ, госконтракты, субподряд, субсидии. Ответ за 10 секунд.">
+<meta name="description" content="Калькулятор: попадает ли ваш контракт под казначейское сопровождение в 2026. Пороги по ст. 5 № 426-ФЗ: ГОЗ, госконтракты, субподряд, субсидии. Ответ за 10 секунд.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">

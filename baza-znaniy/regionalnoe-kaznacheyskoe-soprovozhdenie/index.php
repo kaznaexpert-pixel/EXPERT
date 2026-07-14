@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Региональное казначейское сопровождение средств бюджетов субъектов РФ</title>
+<title>Региональное казначейское сопровождение средств бюджетов регионов</title>
 <meta name="description" content="Казначейское сопровождение средств региональных бюджетов: кто сопровождает, где лицевой счёт, отличие от федерального счёта 71, примеры Москвы и Петербурга.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -78,7 +78,7 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Региональное казначейское сопровождение средств бюджетов субъектов РФ">
+<meta property="og:title" content="Региональное казначейское сопровождение средств бюджетов регионов">
 <meta property="og:description" content="Кто сопровождает средства региональных бюджетов, где исполнителю открывают лицевой счёт и чем региональное казначейское сопровождение отличается от федерального — на примерах Москвы и Санкт-Петербурга.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/regionalnoe-kaznacheyskoe-soprovozhdenie/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
@@ -90,7 +90,7 @@
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Региональное казначейское сопровождение средств бюджетов субъектов РФ">
+<meta name="twitter:title" content="Региональное казначейское сопровождение средств бюджетов регионов">
 <meta name="twitter:description" content="Кто сопровождает средства региональных бюджетов, где исполнителю открывают лицевой счёт и чем региональное казначейское сопровождение отличается от федерального — на примерах Москвы и Санкт-Петербурга.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 

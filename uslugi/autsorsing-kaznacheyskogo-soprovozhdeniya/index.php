@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Аутсорсинг казначейского сопровождения: что входит и сколько стоит</title>
-<meta name="description" content="Аутсорсинг казначейского сопровождения: передаём весь цикл эксперту — счёт, санкционирование, раздельный учёт, отчётность. Дешевле штатного специалиста, гарантия в договоре. Вся Россия.">
+<title>Аутсорсинг казначейского сопровождения: что входит, цены</title>
+<meta name="description" content="Аутсорсинг казначейского сопровождения: весь цикл — счёт, санкционирование, раздельный учёт, отчётность. Фиксированная цена, гарантия в договоре. Вся Россия.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">

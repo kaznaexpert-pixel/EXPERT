@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>О компании КазнаЭксперт — казначейское сопровождение госконтрактов</title>
-<meta name="description" content="КазнаЭксперт — практика казначейского сопровождения госконтрактов по всей РФ. Опыт изнутри Федерального казначейства с 2009 года. ИП Михайлов Я.А., проверка в открытых реестрах.">
+<title>О компании КазнаЭксперт: казначейское сопровождение</title>
+<meta name="description" content="КазнаЭксперт — практика казначейского сопровождения госконтрактов по всей РФ. Опыт изнутри Федерального казначейства с 2009 года. ИП Михайлов Я.А.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">

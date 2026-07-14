@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>УФК и ТОФК: что это, расшифровка и коды по регионам 2026</title>
-<meta name="description" content="УФК — это Управление Федерального казначейства, ТОФК — его территориальный орган. Объясняем простыми словами, чем отличаются, как узнать код (КОФК) и реквизиты вашего УФК. Справочник по всем регионам России + разбор эксперта.">
+<meta name="description" content="УФК — Управление Федерального казначейства, ТОФК — его территориальный орган. Чем отличаются, как узнать код (КОФК) и реквизиты вашего УФК. Справочник по регионам.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">

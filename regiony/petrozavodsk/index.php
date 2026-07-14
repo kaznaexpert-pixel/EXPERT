@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Казначейское сопровождение в Петрозаводске — под ключ | КазнаЭксперт</title>
+<title>Казначейское сопровождение в Петрозаводске | КазнаЭксперт</title>
 <meta name="description" content="Казначейское сопровождение госконтрактов в Петрозаводске: открытие счёта в УФК, платежи, санкционирование, спасение контрактов. Дистанционно, фикс-цены.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="noindex, follow">

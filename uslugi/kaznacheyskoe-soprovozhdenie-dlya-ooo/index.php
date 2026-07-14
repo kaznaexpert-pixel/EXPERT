@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Казначейское сопровождение для ООО: когда нужно, что входит, цены</title>
-<meta name="description" content="Казначейское сопровождение для ООО: когда общество попадает под сопровождение, открытие казначейского счёта, санкционирование, раздельный учёт и отчётность под ключ. Фиксированные цены, вся Россия.">
+<meta name="description" content="Казначейское сопровождение для ООО: когда общество попадает под режим, открытие счёта, санкционирование, раздельный учёт и отчётность под ключ. Вся Россия.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">

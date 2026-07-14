@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>426-ФЗ о федеральном бюджете на 2026 год: какие контракты попадают</title>
+<title>426-ФЗ о бюджете на 2026: какие контракты под сопровождением</title>
 <meta name="description" content="Задаёт на 2026 год конкретные случаи и стоимостные пороги обязательного казначейском сопровождении средств федерального бюджета, включая авансы по госконтрактам.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -69,7 +69,7 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="426-ФЗ о федеральном бюджете на 2026 год: какие контракты попадают">
+<meta property="og:title" content="426-ФЗ о бюджете на 2026: какие контракты под сопровождением">
 <meta property="og:description" content="Задаёт на 2026 год конкретные случаи и стоимостные пороги обязательного казначейском сопровождении средств федерального бюджета, включая авансы по госконтрактам.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/fz-426-byudzhet-2026/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
