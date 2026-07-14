@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Что такое гособоронзаказ (ГОЗ): простыми словами в 2026 году", "description": "Гособоронзаказ (ГОЗ) — задания государства на поставки для обороны по Закону № 275-ФЗ: понятие, участники, кооперация, цены, сопровождение и ответственность.", "inLanguage": "ru-RU", "datePublished": "2026-06-16", "dateModified": "2026-06-16", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/chto-takoe-gosudarstvennyy-oboronnyy-zakaz/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_140175/", "https://www.consultant.ru/document/cons_doc_LAW_144624/", "https://www.consultant.ru/document/cons_doc_LAW_284546/", "https://www.consultant.ru/document/cons_doc_LAW_19702/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Что такое гособоронзаказ (ГОЗ): простыми словами в 2026 году", "description": "Гособоронзаказ (ГОЗ) — задания государства на поставки для обороны по Закону № 275-ФЗ: понятие, участники, кооперация, цены, сопровождение и ответственность.", "inLanguage": "ru-RU", "datePublished": "2026-06-16", "dateModified": "2026-07-14", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/chto-takoe-gosudarstvennyy-oboronnyy-zakaz/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_140175/", "https://www.consultant.ru/document/cons_doc_LAW_144624/", "https://www.consultant.ru/document/cons_doc_LAW_284546/", "https://www.consultant.ru/document/cons_doc_LAW_19702/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Что такое гособоронзаказ", "item": "https://kaznaexpert.ru/baza-znaniy/chto-takoe-gosudarstvennyy-oboronnyy-zakaz/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Что такое гособоронзаказ (ГОЗ): простыми словами в 2026 году — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-05T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-07-14T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -173,9 +173,9 @@
     <div class="hero">
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
-      <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на 2026</span></div>
+      <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на июль 2026</span></div>
     <h1>Что такое гособоронзаказ (ГОЗ): простыми словами в 2026 году</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>17 мин чтения</span><span class="dot">·</span><span>Обновлено 16 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>17 мин чтения</span><span class="dot">·</span><span>Обновлено 14 июля 2026 · нормы 275-ФЗ (с учётом изменений № 555-ФЗ) действуют в редакции на июль 2026</span></div>
     </div>
 
     <div class="share">

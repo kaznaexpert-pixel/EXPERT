@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Калькулятор казначейского сопровождения 2026 — проверить контракт</title>
-<meta name="description" content="Бесплатный калькулятор: попадает ли ваш контракт под казначейское сопровождение в 2026 году. Пороги по ст. 5 ФЗ № 426-ФЗ: ГОЗ, госконтракты, субподряд, субсидии. Ответ за 10 секунд.">
+<meta name="description" content="Калькулятор: попадает ли ваш контракт под казначейское сопровождение в 2026 году. Пороги по ст. 5 ФЗ № 426-ФЗ: ГОЗ, госконтракты, субподряд, субсидии. Ответ за 10 секунд.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -26,12 +26,12 @@
 <script>window.YM_PARAMS = {page_type:"tool", cluster:"kalkulyator"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "WebApplication", "name": "Калькулятор казначейского сопровождения 2026", "url": "https://kaznaexpert.ru/baza-znaniy/kalkulyator-ks/", "applicationCategory": "FinanceApplication", "operatingSystem": "Web", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "RUB"}, "description": "Проверка, попадает ли контракт под казначейское сопровождение по порогам ст. 5 ФЗ № 426-ФЗ", "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "@id": "https://kaznaexpert.ru/#organization"}}
+{"@context": "https://schema.org", "@type": "WebApplication", "name": "Калькулятор казначейского сопровождения 2026", "url": "https://kaznaexpert.ru/baza-znaniy/kalkulyator-ks/", "datePublished": "2026-06-05", "dateModified": "2026-07-14", "applicationCategory": "FinanceApplication", "operatingSystem": "Web", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "RUB"}, "description": "Проверка, попадает ли контракт под казначейское сопровождение по порогам ст. 5 ФЗ № 426-ФЗ", "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "@id": "https://kaznaexpert.ru/#organization"}}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
 {"@type":"Question","name":"Как узнать, попадает ли контракт под казначейское сопровождение?","acceptedAnswer":{"@type":"Answer","text":"Выберите тип средств и укажите сумму контракта — калькулятор сверит её с порогами статьи 5 ФЗ № 426-ФЗ на 2026 год: 3 млн ₽ для ГОЗ, единственного поставщика и субподряда, 100 млн ₽ для аванса по обычному госконтракту, 10 млн ₽ для контрактов БУ/АУ. Субсидии и бюджетные инвестиции сопровождаются без порога."}},
-{"@type":"Question","name":"Насколько точен результат калькулятора?","acceptedAnswer":{"@type":"Answer","text":"Калькулятор даёт ориентировочную оценку по суммовым порогам закона о бюджете. Обязанность казначейского сопровождения окончательно определяется текстом контракта и решением заказчика — для точного ответа закажите бесплатный анализ контракта."}},
+{"@type":"Question","name":"Насколько точен результат калькулятора?","acceptedAnswer":{"@type":"Answer","text":"Калькулятор даёт ориентировочную оценку по суммовым порогам закона о бюджете. Обязанность казначейского сопровождения окончательно определяется текстом контракта и решением заказчика — для точного ответа закажите экспертный анализ контракта."}},
 {"@type":"Question","name":"Что делать, если контракт попадает под сопровождение?","acceptedAnswer":{"@type":"Answer","text":"Нужно открыть лицевой счёт в ТОФК, подключиться к ГИИС «Электронный бюджет» и проводить расчёты через санкционирование. КазнаЭксперт делает это под ключ: счёт за 2 рабочих дня, сопровождение до закрытия контракта."}}
 ]}
 </script>
@@ -73,20 +73,20 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Глоссарий терминов казначейского сопровождения">
-<meta property="og:description" content="ИГК, ТОФК, КОСГУ, КВР, санкционирование, ГИИС, лицевой счёт, раздельный учёт — ключевые термины простыми словами.">
-<meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/glossary/">
+<meta property="og:title" content="Калькулятор казначейского сопровождения 2026 — проверить контракт">
+<meta property="og:description" content="Проверьте за 10 секунд, попадает ли контракт под казначейское сопровождение в 2026 году. Пороги по ст. 5 ФЗ № 426-ФЗ.">
+<meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/kalkulyator-ks/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Глоссарий терминов казначейского сопровождения">
+<meta property="og:image:alt" content="Калькулятор казначейского сопровождения 2026">
 <meta property="article:published_time" content="2026-06-05T10:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-05T10:00:00+03:00">
+<meta property="article:modified_time" content="2026-07-14T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Глоссарий терминов казначейского сопровождения">
-<meta name="twitter:description" content="ИГК, ТОФК, КОСГУ, КВР, санкционирование, ГИИС, лицевой счёт, раздельный учёт — ключевые термины простыми словами.">
+<meta name="twitter:title" content="Калькулятор казначейского сопровождения 2026 — проверить контракт">
+<meta name="twitter:description" content="Проверьте за 10 секунд, попадает ли контракт под казначейское сопровождение в 2026 году. Пороги по ст. 5 ФЗ № 426-ФЗ.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
@@ -160,10 +160,10 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Инструмент <span class="fresh">Пороги 2026</span></div>
     <h1>Калькулятор: попадает ли контракт под казначейское сопровождение</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Методика: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>по ст. 5 ФЗ № 426-ФЗ</span><span class="dot">·</span><span>Актуально на 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Методика: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>по ст. 5 ФЗ № 426-ФЗ</span><span class="dot">·</span><span>Актуально на июль 2026</span><span class="dot">·</span><span>Обновлено 14 июля 2026</span></div>
     </div>
 
-    <div class="tldr">Выберите тип средств, укажите сумму — и узнайте за 10 секунд, обязательно ли <b>казначейское сопровождение</b> для вашего контракта и по какой норме закона. Бесплатно, без регистрации.</div>
+    <div class="tldr">Выберите тип средств, укажите сумму — и узнайте за 10 секунд, обязательно ли <b>казначейское сопровождение</b> для вашего контракта и по какой норме закона. Без регистрации. <span class="fresh-note">Пороги действуют по ст. 5 ФЗ № 426-ФЗ от 28.11.2025; проверено в июле 2026.</span></div>
 
     <div class="calc" id="calc">
       <h3>Проверка контракта на казначейское сопровождение — 2026</h3>
@@ -217,7 +217,7 @@
     <h2 id="faq">Частые вопросы</h2>
   <div class="faq">
       <details><summary>Как узнать, попадает ли контракт под казначейское сопровождение?</summary><p>Выберите тип средств и укажите сумму — калькулятор сверит её с порогами ст. 5 ФЗ № 426-ФЗ на 2026 год. Субсидии и бюджетные инвестиции сопровождаются без порога.</p></details>
-      <details><summary>Насколько точен результат?</summary><p>Это ориентир по суммовым порогам. Окончательно режим определяется текстом контракта и решением заказчика — для точного ответа закажите бесплатный анализ контракта.</p></details>
+      <details><summary>Насколько точен результат?</summary><p>Это ориентир по суммовым порогам. Окончательно режим определяется текстом контракта и решением заказчика — для точного ответа закажите экспертный анализ контракта.</p></details>
       <details><summary>Контракт попал под сопровождение — что делать?</summary><p>Открыть лицевой счёт в ТОФК, подключиться к ГИИС «Электронный бюджет», настроить санкционирование. <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Сделаем под ключ</a> — счёт за 2 рабочих дня.</p></details>
   </div>
   </article>
