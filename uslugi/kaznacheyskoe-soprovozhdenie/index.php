@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Казначейское сопровождение: услуги и цены под ключ</title>
-<meta name="description" content="Казначейское сопровождение контрактов под ключ: резерв и открытие счёта, ведение, отчётность. Фиксированные цены 25–79 тыс ₽, без «от». 15 лет в Казначействе.">
+<meta name="description" content="Казначейское сопровождение контрактов под ключ: резерв и открытие счёта, ведение, отчётность. Фиксированные цены 19–89 тыс ₽, без «от». 15 лет в Казначействе.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -81,7 +81,7 @@
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Казначейское сопровождение под ключ — услуги и цены">
-<meta name="twitter:description" content="Резерв и открытие счёта, ведение, отчётность. Фиксированные цены 25–79 тыс ₽. Эксперт 15 лет в Казначействе.">
+<meta name="twitter:description" content="Резерв и открытие счёта, ведение, отчётность. Фиксированные цены 19–89 тыс ₽. Эксперт 15 лет в Казначействе.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <!-- Schema: Article -->
