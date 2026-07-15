@@ -243,7 +243,9 @@
         <p>Эксперт перезвонит <b>в течение 1 часа</b> (9:00–21:00 МСК).</p>
       </div>
     </form>
-  </aside>
+  <!-- rail-svc -->
+<a class="rail-svc" href="/uslugi/soprovozhdenie-postoplata/"><span class="rail-svc__k">Поможем под ключ</span><span class="rail-svc__n">Сопровождение контракта (постоплата) →</span></a>
+</aside>
 <script>
 (function(){
   var type=document.getElementById('calcType'),sum=document.getElementById('calcSum'),out=document.getElementById('calcOut');

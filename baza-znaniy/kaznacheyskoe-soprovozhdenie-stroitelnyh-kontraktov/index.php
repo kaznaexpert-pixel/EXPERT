@@ -329,6 +329,9 @@
       <details><summary>Почему казначейство возвращает платёж по строительному контракту?</summary><p>Чаще всего — из-за неполных или неверно оформленных документов: расхождений в КС-2 и КС-3, ошибок в кодах направления расходования, отсутствия перечня материалов для аванса, небрежного назначения платежа. Это возврат на доработку, а не отказ; после исправления распоряжение подают заново.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:avans-na-stroitelnye-materialy-pri-ks">Самый частый повод для аванса в стройке — закупка материалов, и с 2026 года для него действует специальное правило: перечисление поставщику по перечню из проектной документации. Как это оформить без возврата, разобрано в статье про <a href="/baza-znaniy/avans-na-stroitelnye-materialy-pri-ks/">аванс на строительные материалы при казначейском сопровождении</a>.</p>
+    <p data-ctx="auto-ctx:priyomka-rabot-ks-2-ks-3">Оплату выполненных работ казначейство пропускает по акту о приёмке (КС-2) и справке о стоимости (КС-3): как заполнить их без расхождений, показано в материале про <a href="/baza-znaniy/priyomka-rabot-ks-2-ks-3/">приёмку работ по формам КС-2 и КС-3</a>.</p>
+    <p data-ctx="auto-ctx:stroitelnyy-kontrol-pri-kaznacheyskom-soprovozhdenii">Отдельный договор нужен и на технический надзор за стройкой — он тоже может попасть под сопровождение и оплачивается по своим правилам, о чём статья про <a href="/baza-znaniy/stroitelnyy-kontrol-pri-kaznacheyskom-soprovozhdenii/">строительный контроль при казначейском сопровождении</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -395,6 +398,9 @@
     <a class="card reveal" href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Пороги</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Кто попадает под казначейское сопровождение в 2026</h3><div class="card__meta">Сопровождение · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Аванс</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Аванс при казначейском сопровождении в 2026</h3><div class="card__meta">Сопровождение · 13 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/obespechenie-ispolneniya-kontrakta-pri-ks/"><div class="card__cover"><span>Обеспечение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Обеспечение исполнения контракта при казначейском сопровождении</h3><div class="card__meta">Сопровождение · 15 мин</div></div></a>
+    <!-- auto-related:avans-na-stroitelnye-materialy-pri-ks --><a class="card reveal" href="/baza-znaniy/avans-na-stroitelnye-materialy-pri-ks/"><div class="card__cover"><span>Аванс</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Аванс на строительные материалы при казначейском сопровождении 2026</h3><div class="card__meta">Сопровождение · 14 мин</div></div></a>
+    <!-- auto-related:priyomka-rabot-ks-2-ks-3 --><a class="card reveal" href="/baza-znaniy/priyomka-rabot-ks-2-ks-3/"><div class="card__cover"><span>КС-2/КС-3</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Приёмка работ по формам КС-2 и КС-3 при сопровождении</h3><div class="card__meta">Приёмка · 13 мин</div></div></a>
+    <!-- auto-related:stroitelnyy-kontrol-pri-kaznacheyskom-soprovozhdenii --><a class="card reveal" href="/baza-znaniy/stroitelnyy-kontrol-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Технадзор</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Строительный контроль при казначейском сопровождении 2026</h3><div class="card__meta">Сопровождение · 13 мин</div></div></a>
   </div>
 </section>
 

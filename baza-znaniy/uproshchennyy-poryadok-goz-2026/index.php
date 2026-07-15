@@ -308,6 +308,7 @@
       <details><summary>Что будет с 1 января 2027 года?</summary><p>Если приостановление не продлят и не внесут постоянную поправку в статью 8.4, условие одновременной уплаты формально вернётся. Практически при действующем едином налоговом платеже это невыполнимо, поэтому ожидается либо очередное продление, либо системная поправка. Проверьте статус нормы в конце 2026 года.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:avans-na-stroitelnye-materialy-pri-ks">Упрощённый порядок расчётов 2026 года касается не только оплаты труда, но и аванса на строительные материалы — он идёт поставщику на банковский счёт по перечню из проектной документации, о чём материал про <a href="/baza-znaniy/avans-na-stroitelnye-materialy-pri-ks/">аванс на строительные материалы</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -374,6 +375,7 @@
     <a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/"><div class="card__cover"><span>Раздельный учёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по ГОЗ: как вести, образец, штрафы</h3><div class="card__meta">ГОЗ · 17 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/"><div class="card__cover"><span>ГОЗ 275-ФЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение ГОЗ по 275-ФЗ: полный разбор</h3><div class="card__meta">ГОЗ · 20 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/soispolniteli-kooperaciya-goz/"><div class="card__cover"><span>Кооперация</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Соисполнители и цепочка кооперации в ГОЗ</h3><div class="card__meta">ГОЗ · 15 мин</div></div></a>
+    <!-- auto-related:avans-na-stroitelnye-materialy-pri-ks --><a class="card reveal" href="/baza-znaniy/avans-na-stroitelnye-materialy-pri-ks/"><div class="card__cover"><span>Аванс</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Аванс на строительные материалы при казначейском сопровождении 2026</h3><div class="card__meta">Сопровождение · 14 мин</div></div></a>
   </div>
 </section>
 

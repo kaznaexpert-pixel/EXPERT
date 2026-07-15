@@ -308,6 +308,7 @@
     <p data-ctx="auto-ctx:integraciya-eis-1s">Формировать и отправлять документы о приёмке можно прямо из учётной системы — как это устроено, разобрано в материале об <a href="/baza-znaniy/integraciya-eis-1s/">интеграции ЕИС и 1С для электронного актирования</a>.</p>
     <p data-ctx="auto-ctx:konec-finansovogo-goda-pri-kaznacheyskom-soprovozhdenii">В декабре сроки актирования становятся критичными: акт, подписанный позже двадцатых чисел, уводит оплату в январь — календарь рубежа года собран в статье о <a href="/baza-znaniy/konec-finansovogo-goda-pri-kaznacheyskom-soprovozhdenii/">конце финансового года при казначейском сопровождении</a>.</p>
     <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-stroitelnyh-kontraktov">В строительстве приёмку и оплату оформляют актами КС-2 и справками КС-3 — именно по ним казначейство санкционирует оплату работ: как проходит сопровождение стройки, разобрано в статье про <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-stroitelnyh-kontraktov/">казначейское сопровождение строительных контрактов</a>.</p>
+    <p data-ctx="auto-ctx:priyomka-rabot-ks-2-ks-3">В строительстве данные приёмки традиционно оформляют актом о приёмке выполненных работ (КС-2) и справкой о стоимости (КС-3); как они соотносятся с электронным документом о приёмке — в статье про <a href="/baza-znaniy/priyomka-rabot-ks-2-ks-3/">приёмку работ по формам КС-2 и КС-3</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -377,6 +378,7 @@
     <!-- auto-related:integraciya-eis-1s --><a class="card reveal" href="/baza-znaniy/integraciya-eis-1s/"><div class="card__cover"><span>ЕИС и 1С</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Интеграция ЕИС и 1С: обмен для электронного актирования</h3><div class="card__meta">Системы · 16 мин</div></div></a>
     <!-- auto-related:konec-finansovogo-goda-pri-kaznacheyskom-soprovozhdenii --><a class="card reveal" href="/baza-znaniy/konec-finansovogo-goda-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Конец года</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Конец финансового года: оплата контракта и лицевой счёт</h3><div class="card__meta">Основы · 16 мин</div></div></a>
     <!-- auto-related:kaznacheyskoe-soprovozhdenie-stroitelnyh-kontraktov --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-stroitelnyh-kontraktov/"><div class="card__cover"><span>Стройка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение строительных контрактов в 2026</h3><div class="card__meta">Сопровождение · 16 мин</div></div></a>
+    <!-- auto-related:priyomka-rabot-ks-2-ks-3 --><a class="card reveal" href="/baza-znaniy/priyomka-rabot-ks-2-ks-3/"><div class="card__cover"><span>КС-2/КС-3</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Приёмка работ по формам КС-2 и КС-3 при сопровождении</h3><div class="card__meta">Приёмка · 13 мин</div></div></a>
   </div>
 </section>
 
