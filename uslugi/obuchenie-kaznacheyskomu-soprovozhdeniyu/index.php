@@ -4,14 +4,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Открытие казначейского счёта за 2 дня под ключ</title>
-<meta name="description" content="Откроем казначейский счёт в УФК за два рабочих дня под ключ: документы, сводный реестр, настройка «Электронного бюджета». Фикс 29 000 ₽, гарантия в договоре.">
+<title>Обучение казначейскому сопровождению: курс от практика</title>
+<meta name="description" content="Индивидуальное обучение казначейскому сопровождению госконтрактов: 9 академических часов с экспертом Федерального казначейства на ваших контрактах. Цена 120 000 ₽.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#141310" media="(prefers-color-scheme: dark)">
 <!-- PROD: canonical и og:url ОБЯЗАТЕЛЬНО менять под URL каждой статьи -->
-<link rel="canonical" href="https://kaznaexpert.ru/uslugi/otkrytie-scheta/">
+<link rel="canonical" href="https://kaznaexpert.ru/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
@@ -24,23 +24,6 @@
 <!-- ╚════════════════════════════════════════════════════════════════════════════╝ -->
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
-<script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Service", "datePublished": "2026-06-25", "dateModified": "2026-07-14", "name": "Открытие казначейского счёта под ключ", "serviceType": "Открытие лицевого счёта в Федеральном казначействе (УФК)", "description": "Открытие казначейского счёта за два рабочих дня: анализ контракта, пакет документов, включение в сводный реестр, открытие счёта в УФК и настройка «Электронного бюджета». Без возвратов, гарантия в договоре.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "29000", "priceCurrency": "RUB", "description": "Открытие казначейского счёта под ключ, разово", "url": "https://kaznaexpert.ru/uslugi/otkrytie-scheta/"}, "url": "https://kaznaexpert.ru/uslugi/otkrytie-scheta/"}
-</script>
-<script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Открытие казначейского счёта"}]}
-</script>
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-{"@type":"Question","name":"За сколько откроете казначейский счёт?","acceptedAnswer":{"@type":"Answer","text":"За два рабочих дня с момента получения документов при стандартных требованиях. Срок открытия фиксируем в договоре."}},
-{"@type":"Question","name":"Что потребуется от меня?","acceptedAnswer":{"@type":"Answer","text":"Госконтракт, ИНН и ОГРН организации, СНИЛС руководителя и контакт для связи. Пересылка занимает 5 минут — остальное делаем мы."}},
-{"@type":"Question","name":"Что если казначейство вернёт документы?","acceptedAnswer":{"@type":"Answer","text":"Устраняем замечания казначейства без доплат — это входит в услугу. Цель — открыть счёт с первой подачи."}},
-{"@type":"Question","name":"Сколько стоит открытие счёта?","acceptedAnswer":{"@type":"Answer","text":"29 000 ₽ разово. Это фиксированная цена под ключ, прописанная в договоре, без «от» и скрытых доплат."}},
-{"@type":"Question","name":"Работаете по всей России?","acceptedAnswer":{"@type":"Answer","text":"Да. Работаем удалённо со всеми регионами РФ — весь документооборот ведётся электронно через «Электронный бюджет»."}},
-{"@type":"Question","name":"Какие гарантии?","acceptedAnswer":{"@type":"Answer","text":"Гарантия результата прописана в договоре. Сопровождаем до открытия счёта и первой операции."}}
-]}
-</script>
-
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
 <link rel="preload" as="font" type="font/woff2" href="/fonts/playfairdisplay-normal-500-cyrillic.woff2" crossorigin>
 <style id="fonts-crit">/* критические @font-face (кириллица, выше первого экрана): H1 Playfair 500 + body Inter 400. Остальные начертания — из fonts.css (async). */
@@ -75,9 +58,9 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Открытие казначейского счёта за 2 рабочих дня — под ключ">
-<meta property="og:description" content="Документы, сводный реестр, открытие счёта в УФК и настройка Электронного бюджета. Без возвратов, гарантия в договоре.">
-<meta property="og:url" content="https://kaznaexpert.ru/uslugi/otkrytie-scheta/">
+<meta property="og:title" content="Обучение казначейскому сопровождению: курс от практика">
+<meta property="og:description" content="Индивидуальное обучение казначейскому сопровождению госконтрактов: 9 академических часов с экспертом Федерального казначейства на ваших контрактах. Цена 120 000 ₽.">
+<meta property="og:url" content="https://kaznaexpert.ru/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -87,8 +70,8 @@
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Казначейское сопровождение ГОЗ в 2026 году: разбор по 275-ФЗ">
-<meta name="twitter:description" content="Кто обязан, порог 3 млн ₽, счёт, раздельный учёт, штрафы. Со ссылками на НПА.">
+<meta name="twitter:title" content="Обучение казначейскому сопровождению: курс от практика">
+<meta name="twitter:description" content="Индивидуальное обучение казначейскому сопровождению госконтрактов: 9 академических часов с экспертом Федерального казначейства на ваших контрактах. Цена 120 000 ₽.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <!-- Schema: Article -->
@@ -150,226 +133,15 @@
 
 <div class="v2">
 <style>@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}</style>
-<section class="v2-hero">
-  <div class="v2-container">
-    <div class="v2-hero-grid">
-      <div class="v2-hero-main">
-        <div class="v2-hero-eyebrow-row">
-          <span class="v2-eyebrow">Услуга · 44-ФЗ · 223-ФЗ · ГОЗ</span>
-          <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
-        </div>
-        <h1>Откроем казначейский счёт под ключ<br><em>за два рабочих дня</em></h1>
-        <p class="v2-hero-lede"><strong>Берём всю работу с УФК на себя:</strong> анализ контракта, пакет документов, включение в сводный реестр, открытие счёта и настройку «Электронного бюджета». Без возвратов и срыва сроков. По всей России.</p>
-        <div class="v2-hero-trust">
-          <div class="v2-trust-item"><div class="v2-trust-num">2<span class="v2-trust-suffix">&nbsp;рабочих&nbsp;дня</span></div><div class="v2-trust-label">до открытия счёта</div></div>
-          <div class="v2-trust-item"><div class="v2-trust-num">7 000<span class="v2-trust-suffix">+</span></div><div class="v2-trust-label">контрактов</div></div>
-          <div class="v2-trust-item"><div class="v2-trust-num">90<span class="v2-trust-suffix">&nbsp;млрд&nbsp;₽</span></div><div class="v2-trust-label">проведено</div></div>
-          <div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div>
-        </div>
-        <div class="v2-hero-expert">
-          <div class="v2-expert-name">Михайлов Ярослав</div>
-          <div class="v2-expert-role">Эксперт · 15 лет в Казначействе</div>
-          <p class="v2-expert-quote">«Открытие счёта — рутина, в которой легко потерять две недели на возвратах. Мы делаем это с первой подачи и под гарантию в договоре».</p>
-        </div>
-      </div>
-
-      <aside class="v2-hero-action">
-        <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
-        <h2>Откроем счёт за вас</h2>
-        <p class="v2-hero-action-sub">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт ваш контракт и назовёт точную стоимость. NDA — до анализа документов.</p>
-        <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="otkrytie-scheta">
-          <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
-          <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
-          <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
-          <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-          <button class="submit" type="submit">Получить расчёт →</button>
-          <div class="formmsg" id="formMsg" hidden></div>
-          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
-          <div class="success" id="leadSuccess" role="status" aria-live="polite">
-            <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
-            <h3>Заявка принята</h3>
-            <p>Эксперт перезвонит <b>в течение 15 минут</b> (9:00–21:00 МСК) и разберёт ваш контракт.</p>
-            <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
-          </div>
-        </form>
-        <div class="v2-hero-alt">Или напишите — ответим за 5 минут<div class="v2-hero-alt-links"><a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a><a href="tel:+79818331010">+7 981 833-10-10</a></div></div>
-      </aside>
-    </div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="komu">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Для кого</div>
-      <h2 class="v2-section-title">Когда вам нужна <em>наша помощь</em></h2>
-      <p class="v2-section-lede">Четыре ситуации, в которых мы берём открытие счёта на себя и закрываем вопрос за два дня.</p>
-    </div>
-    <div class="v2-process-grid">
-      <article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Выиграли контракт</h3><p class="v2-process-desc">Госконтракт требует казначейский счёт, а сроки поджимают. Разберёмся в требованиях и откроем счёт за два рабочих дня.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Заказчик требует счёт</h3><p class="v2-process-desc">Пришло официальное требование открыть счёт в УФК, срок ограничен. Подключаемся сразу и ведём процесс до открытия.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Прошлый счёт с ошибками</h3><p class="v2-process-desc">Неверная карточка или реквизиты приводят к возвратам платежей. Переоткроем счёт правильно — без повторов проблем.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Нет времени разбираться</h3><p class="v2-process-desc">Казначейство — не ваша специализация. Делегируйте открытие счёта эксперту и занимайтесь основным бизнесом.</p></article>
-    </div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="pod-kluch">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Что входит</div>
-      <h2 class="v2-section-title">Всё под ключ — <em>от документов до первой операции</em></h2>
-      <p class="v2-section-lede">Делаем всё сами. Вы получаете готовый счёт и настроенный «Электронный бюджет».</p>
-    </div>
-    <div class="v2-process-grid lp-3col">
-      <article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Анализ контракта</h3><p class="v2-process-desc">Проверяем условия и требования к счёту: реквизиты, параметры раздельного учёта, ограничения по операциям.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Пакет документов</h3><p class="v2-process-desc">Готовим полный пакет в точном соответствии с требованиями казначейства — без замечаний при подаче.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Сводный реестр</h3><p class="v2-process-desc">Включаем компанию в сводный реестр получателей средств — без этого казначейские операции невозможны.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Подача и контроль</h3><p class="v2-process-desc">Подаём документы в УФК, ведём процесс, устраняем замечания казначейства — без вашего участия.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Настройка «Электронного бюджета»</h3><p class="v2-process-desc">Настраиваем роли и параметры в ГИИС для бесперебойного проведения платежей с первого дня.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Поддержка после открытия</h3><p class="v2-process-desc">Консультации до проведения первой операции. Не бросаем после открытия счёта.</p></article>
-    </div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="ot-vas">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Что от вас</div>
-      <h2 class="v2-section-title">Что потребуется <em>от вас</em></h2>
-      <p class="v2-section-lede">Список минимальный — 5 минут на пересылку. Всё остальное берём на себя.</p>
-    </div>
-    <div class="v2-process-grid">
-      <article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Госконтракт</h3><p class="v2-process-desc">Текст и реквизиты контракта — для анализа требований к счёту.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>ИНН и ОГРН</h3><p class="v2-process-desc">Регистрационные данные организации.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>СНИЛС руководителя</h3><p class="v2-process-desc">Для оформления доступа и электронной подписи.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Контакт для связи</h3><p class="v2-process-desc">Телефон ответственного — держим в курсе каждого шага.</p></article>
-    </div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="process">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Процесс</div>
-      <h2 class="v2-section-title">От заявки до открытого счёта — <em>два рабочих дня</em></h2>
-      <p class="v2-section-lede">Каждый шаг — конкретное действие на нашей стороне. Прозрачно и без неожиданностей.</p>
-    </div>
-    <div class="v2-process-grid lp-3col">
-      <article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">Сегодня · 15 минут</div><h3>Заявка и старт</h3><p class="v2-process-desc">Перезваниваем за 15 минут, уточняем детали, подписываем договор и NDA, начинаем подготовку.</p><ul class="v2-process-checks"><li>Договор подписан</li></ul></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">День 1</div><h3>Документы и реестр</h3><p class="v2-process-desc">Готовим пакет документов, подаём запрос в УФК, включаем компанию в сводный реестр получателей средств.</p><ul class="v2-process-checks"><li>Пакет собран</li><li>Запрос подан</li></ul></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">День 2</div><h3>Счёт открыт</h3><p class="v2-process-desc">Казначейский счёт активирован, «Электронный бюджет» настроен, реквизиты у вас. Готово к первому платежу.</p><ul class="v2-process-checks"><li>Счёт активен</li><li>Реквизиты переданы</li></ul></article>
-    </div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="riski">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Цена ошибки</div>
-      <h2 class="v2-section-title">Что идёт не так <em>без специалиста</em></h2>
-      <p class="v2-section-lede">Ошибки при самостоятельном открытии обходятся дорого — деньгами и сроком контракта.</p>
-    </div>
-    <div class="v2-process-grid lp-3col">
-      <article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Возврат документов</h3><p class="v2-process-desc">Замечания казначейства — потеря 2–3 недель на переоформление, пока срок контракта горит.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Неверная настройка ГИИС</h3><p class="v2-process-desc">Неправильные параметры в «Электронном бюджете» приводят к автоматическому возврату платежей.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Заказчик не принимает счёт</h3><p class="v2-process-desc">Ошибка в реквизитах или типе счёта — заказчик вернёт на доработку, риск потери контракта.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Аванс зависает</h3><p class="v2-process-desc">Аванс по госконтракту не пройдёт на счёт с ошибочными реквизитами — деньги зависнут или вернутся.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Неверный раздельный учёт</h3><p class="v2-process-desc">Без правильной настройки раздельного учёта — налоговые риски и претензии при проверке.</p></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Потерянное время</h3><p class="v2-process-desc">20–40 часов на самостоятельное освоение матчасти вместо профильной работы по контракту.</p></article>
-    </div>
-    <div class="related-inline"><b>Почему срок важен</b>
-      <a href="/baza-znaniy/peni-i-shtrafy-po-44-fz/">→ Пени за просрочку по 44-ФЗ: как они считаются и сколько стоит каждый день задержки</a>
-    </div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="compare">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Сравнение</div>
-      <h2 class="v2-section-title">Самостоятельно, штатный спец или <em>с нами</em></h2>
-      <p class="v2-section-lede">Шесть критериев, по которым клиенты выбирают, как открывать казначейский счёт.</p>
-    </div>
-    <div class="v2-compare">
-      <div class="v2-compare-head">
-        <div class="v2-compare-head-cell">Параметр</div>
-        <div class="v2-compare-head-cell">Самостоятельно</div>
-        <div class="v2-compare-head-cell">Штатный спец</div>
-        <div class="v2-compare-head-cell is-us">С КазнаЭксперт</div>
-      </div>
-      <div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Срок открытия</div><div class="v2-compare-cell" data-label="Самостоятельно">2–4 недели на освоение</div><div class="v2-compare-cell" data-label="Штатный спец">1–2 месяца на подбор</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>2 рабочих дня</strong></div></div>
-      <div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Риск возврата документов</div><div class="v2-compare-cell" data-label="Самостоятельно">Высокий — ошибки без опыта</div><div class="v2-compare-cell" data-label="Штатный спец">Зависит от уровня сотрудника</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Минимальный</strong> · с первой подачи</div></div>
-      <div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Настройка «Электронного бюджета»</div><div class="v2-compare-cell" data-label="Самостоятельно">Сами, без поддержки</div><div class="v2-compare-cell" data-label="Штатный спец">По компетенциям сотрудника</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт">Включено в стоимость</div></div>
-      <div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Стоимость</div><div class="v2-compare-cell" data-label="Самостоятельно">Ваше время + риск ошибок</div><div class="v2-compare-cell" data-label="Штатный спец">120–180 тыс ₽/мес + взносы</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>29 000 ₽</strong> разово</div></div>
-      <div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Гарантия в договоре</div><div class="v2-compare-cell" data-label="Самостоятельно">Нет</div><div class="v2-compare-cell" data-label="Штатный спец">Нет</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Прописана в договоре</strong></div></div>
-      <div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Ваши затраты времени</div><div class="v2-compare-cell" data-label="Самостоятельно">20–40 часов</div><div class="v2-compare-cell" data-label="Штатный спец">Контроль сотрудника</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>5 минут</strong></div></div>
-    </div>
-    <div class="v2-compare-cta"><a href="#zayavka">Обсудить ваш контракт <span aria-hidden="true">→</span></a></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="tarif">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Стоимость</div>
-      <h2 class="v2-section-title">Открытие счёта — <em>фиксированная цена</em></h2>
-      <p class="v2-section-lede">Конкретный объём работ и стоимость прописаны в договоре. Без «от» и скрытых доплат.</p>
-    </div>
-    <div class="v2-tariffs-grid lp-3col">
-      <article class="v2-tariff is-featured">
-        <div class="v2-tariff-no">02</div>
-        <div class="v2-tariff-stage">Победа в тендере</div>
-        <h3>Открытие счёта за два дня</h3>
-        <p class="v2-tariff-desc">Анализ контракта, полный пакет документов, включение в сводный реестр, открытие счёта в УФК с первой подачи и настройка «Электронного бюджета».</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">29 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня · гарантия в договоре</div><a href="#zayavka" class="v2-tariff-link">Обсудить контракт <span aria-hidden="true">→</span></a></div>
-      </article>
-      <article class="v2-tariff">
-        <div class="v2-tariff-no">01</div>
-        <div class="v2-tariff-stage">До тендера</div>
-        <h3>Резерв счёта к дате тендера</h3>
-        <p class="v2-tariff-desc">Резервируем счёт заранее — реквизиты готовы к моменту победы. Не выиграли — закрываем без расходов.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">25 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · к дате тендера</div><a href="/uslugi/rezervirovanie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
-      </article>
-      <article class="v2-tariff">
-        <div class="v2-tariff-no">03</div>
-        <div class="v2-tariff-stage">После открытия</div>
-        <h3>Полное сопровождение контракта</h3>
-        <p class="v2-tariff-desc">Ведём контракт после открытия счёта: платежи, сведения, отчётность — до закрытия и вывода средств.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 59 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу контракта</div><a href="#zayavka" class="v2-tariff-link">Обсудить <span aria-hidden="true">→</span></a></div>
-      </article>
-    </div>
-    <p class="v2-tariffs-footnote">Точная стоимость — после анализа вашего контракта.</p>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="faq">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Вопросы</div>
-      <h2 class="v2-section-title">Отвечаем <em>прямо</em></h2>
-    </div>
-    <div class="faq">
-      <details open><summary>За сколько откроете казначейский счёт?</summary><p>За два рабочих дня с момента получения документов — при стандартных требованиях. Срок открытия фиксируем в договоре.</p></details>
-      <details><summary>Что потребуется от меня?</summary><p>Госконтракт, ИНН и ОГРН организации, СНИЛС руководителя и контакт для связи. Пересылка занимает 5 минут — всё остальное делаем мы.</p></details>
-      <details><summary>Что если казначейство вернёт документы?</summary><p>Устраняем замечания казначейства без доплат — это входит в услугу. Наша цель — открыть счёт с первой подачи.</p></details>
-      <details><summary>Сколько стоит открытие счёта?</summary><p>29 000 ₽ разово. Это фиксированная цена под ключ, прописанная в договоре, без «от» и скрытых доплат.</p></details>
-      <details><summary>Работаете по всей России?</summary><p>Да. Работаем удалённо со всеми регионами РФ — весь документооборот ведётся электронно через «Электронный бюджет».</p></details>
-      <details><summary>Нужна ли электронная подпись?</summary><p>Да, для работы в «Электронном бюджете» нужна квалифицированная ЭП. Поможем оформить и настроить доступ.</p></details>
-      <details><summary>Какие гарантии?</summary><p>Гарантия результата прописана в договоре. Сопровождаем до открытия счёта и первой операции.</p></details>
-    </div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="zayavka">
+<section class="v2-hero"><div class="v2-container"><nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a> › Обучение</nav><h1>Обучение казначейскому сопровождению: индивидуальный курс от практика</h1><p class="v2-lede">9 академических часов один на один с экспертом Федерального казначейства. Разбираем ваши контракты и процессы: открытие лицевого счёта, ГИИС «Электронный бюджет», санкционирование, раздельный учёт. После курса вы ведёте казначейское сопровождение самостоятельно — без отказов и срыва сроков.</p><div class="v2-hero-cta"><a href="#zayavka" class="v2-btn">Записаться на обучение <span aria-hidden="true">→</span></a><span class="v2-hero-note">9 ак. часов · индивидуально · 120 000 ₽</span></div></div></section><section class="v2-section v2-screen"><div class="v2-container"><h2>Для кого это обучение</h2><p>Курс — для тех, кто ведёт государственные контракты с казначейским сопровождением и хочет разобраться в процессе до автономии: бухгалтеров и финансистов подрядчиков, руководителей и специалистов по госзакупкам, сотрудников, которых назначили ответственными за лицевой счёт и «Электронный бюджет». Подойдёт и как ввод в тему с нуля, и как разбор конкретных проблем на действующем контракте.</p></div></section><section class="v2-section v2-screen"><div class="v2-container"><h2>Программа: 9 академических часов</h2><table style="width:100%;border-collapse:collapse;margin:8px 0 0"><caption style="text-align:left;font-size:13px;color:#7A7263;font-style:italic;padding:0 0 10px">Каждый блок — на ваших документах и контрактах</caption><tr><th style="text-align:left;padding:12px 14px;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;border-bottom:2px solid #8B6F47">Блок</th><th style="text-align:left;padding:12px 14px;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;border-bottom:2px solid #8B6F47">Что разбираем</th></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-weight:600">Счёт и доступы</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0">Открытие лицевого счёта «71», Сводный реестр, электронная подпись и машиночитаемая доверенность</td></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-weight:600">Электронный бюджет</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0">Настройка рабочего места, вход по сертификату, личный кабинет исполнителя</td></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-weight:600">Сведения и коды</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0">Формирование Сведений об операциях, коды направлений расходования целевых средств</td></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-weight:600">Санкционирование</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0">Как проходит проверка платежа, частые причины отказов и как их избегать</td></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-weight:600">Учёт и отчётность</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0">Раздельный учёт целевых средств, отчётность, закрытие лицевого счёта</td></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-weight:600">Разбор ваших кейсов</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0">Ответы на вопросы и разбор ситуаций по вашим действующим контрактам</td></tr></table></div></section><section class="v2-section v2-screen"><div class="v2-container"><h2>Формат обучения</h2><p>Занятия проходят индивидуально и онлайн, на ваших реальных документах и контрактах, а не на абстрактных примерах. Учит практик с 15+ годами работы в Федеральном казначействе и опытом более 7000 сопровождённых контрактов. График подстраиваем под вас; после курса остаются материалы и чек-листы, к которым можно возвращаться.</p></div></section><section class="v2-section v2-screen"><div class="v2-container"><h2>Что вы получите</h2><p>По итогам обучения вы самостоятельно открываете лицевой счёт, работаете в «Электронном бюджете», формируете Сведения об операциях, проводите платежи через санкционирование без лишних возвратов и ведёте раздельный учёт. На руках — понятный алгоритм и чек-листы под ваши контракты.</p></div></section><section class="v2-section v2-screen"><div class="v2-container"><h2>Стоимость обучения</h2><div style="max-width:420px;border:1px solid #E4DDD0;border-radius:14px;padding:24px 26px;background:#FFFDF8"><div style="font-family:'Playfair Display',serif;font-size:20px;margin:0 0 4px">Обучение · 9 академических часов</div><div style="font-family:'Playfair Display',serif;font-size:34px;color:#1A1A1A;margin:6px 0">120 000 ₽</div><div style="font-size:14px;color:#7A7263;margin:0 0 16px">Индивидуально · онлайн · на ваших документах · фиксированная цена</div><a href="#zayavka" class="v2-btn">Записаться <span aria-hidden="true">→</span></a></div></div></section><section class="v2-section v2-screen"><div class="v2-container"><h2 id="faq">Отвечаем прямо</h2><div class="faq"><details><summary>Сколько длится обучение казначейскому сопровождению?</summary><p>Курс рассчитан на 9 академических часов. График гибкий: занятия можно распределить на несколько сессий и подстроить под вашу загрузку.</p></details><details><summary>В каком формате проходит обучение?</summary><p>Индивидуально и онлайн, на ваших реальных контрактах и документах. Учит эксперт с 15+ годами в Федеральном казначействе; после курса остаются материалы и чек-листы.</p></details><details><summary>Кому подходит курс?</summary><p>Бухгалтерам и финансистам подрядчиков, специалистам по госзакупкам и ответственным за лицевой счёт и «Электронный бюджет» — как для старта с нуля, так и для разбора проблем на действующем контракте.</p></details><details><summary>Что нужно для обучения?</summary><p>Достаточно доступа к вашим контрактам и рабочему месту с электронной подписью. Программу и примеры адаптируем под ваши задачи.</p></details></div></div></section><section class="v2-section v2-screen" id="zayavka">
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Заявка</div>
-      <h2 class="v2-section-title">Откроем счёт за <em>два рабочих дня</em></h2>
-      <p class="v2-section-lede">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт ваш контракт и назовёт точную стоимость.</p>
+      <h2 class="v2-section-title">Записаться на <em>обучение</em></h2>
+      <p class="v2-section-lede">Оставьте контакты — эксперт перезвонит за 15 минут, ответит на вопросы и подберёт удобный график обучения.</p>
     </div>
     <div style="max-width:520px;margin:0 auto">
-      <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="otkrytie-scheta-cta">
+      <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="obuchenie-cta">
         <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
         <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
         <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
@@ -427,6 +199,15 @@
 
 
 
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Service", "name": "Обучение казначейскому сопровождению", "serviceType": "Индивидуальное обучение", "description": "Индивидуальное обучение казначейскому сопровождению госконтрактов: 9 академических часов с экспертом Федерального казначейства на ваших контрактах. Цена 120 000 ₽.", "areaServed": "RU", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru/"}, "offers": {"@type": "Offer", "name": "Обучение · 9 академических часов", "price": "120000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/"}}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Сколько длится обучение казначейскому сопровождению?", "acceptedAnswer": {"@type": "Answer", "text": "Курс рассчитан на 9 академических часов. График гибкий: занятия можно распределить на несколько сессий и подстроить под вашу загрузку."}}, {"@type": "Question", "name": "В каком формате проходит обучение?", "acceptedAnswer": {"@type": "Answer", "text": "Индивидуально и онлайн, на ваших реальных контрактах и документах. Учит эксперт с 15+ годами в Федеральном казначействе; после курса остаются материалы и чек-листы."}}, {"@type": "Question", "name": "Кому подходит курс?", "acceptedAnswer": {"@type": "Answer", "text": "Бухгалтерам и финансистам подрядчиков, специалистам по госзакупкам и ответственным за лицевой счёт и «Электронный бюджет» — как для старта с нуля, так и для разбора проблем на действующем контракте."}}, {"@type": "Question", "name": "Что нужно для обучения?", "acceptedAnswer": {"@type": "Answer", "text": "Достаточно доступа к вашим контрактам и рабочему месту с электронной подписью. Программу и примеры адаптируем под ваши задачи."}}]}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Услуги", "item": "https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie/"}, {"@type": "ListItem", "position": 3, "name": "Обучение казначейскому сопровождению"}]}
+</script>
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
 
