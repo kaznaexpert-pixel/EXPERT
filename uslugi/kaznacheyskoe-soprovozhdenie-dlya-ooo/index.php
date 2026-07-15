@@ -275,25 +275,25 @@
         <div class="v2-tariff-stage">До тендера</div>
         <h3>Резерв счёта к дате тендера</h3>
         <p class="v2-tariff-desc">Резервируем казначейский счёт заранее — реквизиты готовы к моменту победы. Не выиграли — закрываем без расходов.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">25 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · к дате тендера</div><a href="/uslugi/rezervirovanie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">19 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · к дате тендера</div><a href="/uslugi/rezervirovanie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff is-featured">
         <div class="v2-tariff-no">02</div>
         <div class="v2-tariff-stage">Победа в тендере</div>
         <h3>Открытие счёта за два дня</h3>
         <p class="v2-tariff-desc">Анализ контракта, пакет документов, включение в сводный реестр, открытие счёта в УФК и настройка «Электронного бюджета».</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">39 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">29 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">03</div>
         <div class="v2-tariff-stage">Постоплата</div>
         <h3>Контракт с постоплатой под ключ</h3>
         <p class="v2-tariff-desc">Ведём контракт без аванса: платежи, сведения, раздельный учёт и отчётность — до закрытия счёта.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">59 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · за контракт</div><a href="/uslugi/soprovozhdenie-postoplata/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">55 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · за контракт</div><a href="/uslugi/soprovozhdenie-postoplata/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">04</div>
         <div class="v2-tariff-stage">Аванс</div>
         <h3>Контракт с авансом под ключ</h3>
         <p class="v2-tariff-desc">Полное сопровождение контракта с авансом: санкционирование предоплаты, обеспечение, отработка аванса, отчётность.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">79 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Под ключ · весь срок</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">89 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Под ключ · весь срок</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article></div>
     <p class="v2-tariffs-footnote">Точная стоимость — после анализа вашего контракта.</p>
   </div>

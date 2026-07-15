@@ -276,13 +276,13 @@
         <div class="v2-tariff-stage">С авансом</div>
         <h3>Сопровождение с авансом</h3>
         <p class="v2-tariff-desc">Контракт с авансированием: контроль целевого использования, цепочка кооперации, безлимит операций.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">79 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Чаще выбирают</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">89 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Чаще выбирают</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">03</div>
         <div class="v2-tariff-stage">Старт</div>
         <h3>Открытие счёта за два дня</h3>
         <p class="v2-tariff-desc">Если счёт ещё не открыт — полный пакет документов и открытие в УФК с первой подачи.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">39 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">29 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article></div>
     <p class="v2-tariffs-footnote">Точная стоимость — после анализа вашего контракта.</p>
   </div>

@@ -282,7 +282,7 @@
         <div class="v2-tariff-stage">Чтобы не повторилось</div>
         <h3>Сопровождение контракта</h3>
         <p class="v2-tariff-desc">После спасения берём контракт на сопровождение — безлимит операций, контроль до закрытия.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">79 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Чтобы не повторилось</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">89 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Чтобы не повторилось</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article></div>
     <p class="v2-tariffs-footnote">Точная стоимость — после анализа вашего контракта.</p>
   </div>

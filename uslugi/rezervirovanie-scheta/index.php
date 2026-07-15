@@ -276,13 +276,13 @@
         <div class="v2-tariff-stage">Победа в тендере</div>
         <h3>Открытие счёта за два дня</h3>
         <p class="v2-tariff-desc">Следующий шаг после победы: полный пакет документов и открытие счёта в УФК с первой подачи.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">39 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">29 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">03</div>
         <div class="v2-tariff-stage">После открытия</div>
         <h3>Сопровождение контракта</h3>
         <p class="v2-tariff-desc">Ведём контракт после открытия счёта: платежи, сведения, отчётность — до закрытия.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 59 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу контракта</div><a href="/uslugi/soprovozhdenie-postoplata/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 55 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу контракта</div><a href="/uslugi/soprovozhdenie-postoplata/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article></div>
     <p class="v2-tariffs-footnote">Точная стоимость — после анализа вашего контракта.</p>
   </div>

@@ -781,7 +781,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                 <h3>Резерв счёта к дате тендера</h3>
                 <p class="v2-tariff-desc">Резервируем казначейский счёт заранее — реквизиты готовы к моменту победы. Если контракт не достанется, закрываем счёт без расходов.</p>
                 <div class="v2-tariff-price">
-                  <div class="v2-tariff-price-num">25 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div>
+                  <div class="v2-tariff-price-num">19 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div>
                   <div class="v2-tariff-price-note">Разово · к дате тендера</div>
                   <a href="#contacts" class="v2-tariff-link" data-tariff="rezerv">Обсудить контракт <span aria-hidden="true">→</span></a>
                   <a href="/uslugi/rezervirovanie-scheta/" class="v2-tariff-more">Подробнее об услуге →</a>
@@ -794,7 +794,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                 <h3>Открытие счёта за два дня</h3>
                 <p class="v2-tariff-desc">Готовим пакет документов, проводим включение в сводный реестр получателей средств и открываем счёт в УФК с первой подачи.</p>
                 <div class="v2-tariff-price">
-                  <div class="v2-tariff-price-num">39 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div>
+                  <div class="v2-tariff-price-num">29 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div>
                   <div class="v2-tariff-price-note">Разово · 2 рабочих дня</div>
                   <a href="#contacts" class="v2-tariff-link" data-tariff="otkrytie">Обсудить контракт <span aria-hidden="true">→</span></a>
                   <a href="/uslugi/otkrytie-scheta/" class="v2-tariff-more">Подробнее об услуге →</a>
@@ -807,7 +807,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                 <h3>Контракт с постоплатой</h3>
                 <p class="v2-tariff-desc">Полный цикл: открытие счёта, утверждение сведений, проведение платежей по актам и УПД — до закрытия контракта.</p>
                 <div class="v2-tariff-price">
-                  <div class="v2-tariff-price-num">59 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div>
+                  <div class="v2-tariff-price-num">55 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div>
                   <div class="v2-tariff-price-note">Разово · до закрытия контракта</div>
                   <a href="#contacts" class="v2-tariff-link" data-tariff="postoplata">Обсудить контракт <span aria-hidden="true">→</span></a>
                   <a href="/uslugi/soprovozhdenie-postoplata/" class="v2-tariff-more">Подробнее об услуге →</a>
@@ -823,7 +823,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
                 <h3>Контракт с авансом — под ключ</h3>
                 <p class="v2-tariff-desc">Сопровождаем контракт от поступления аванса до исполнения обязательств. Без лимитов на операции и обращения.</p>
                 <div class="v2-tariff-price">
-                  <div class="v2-tariff-price-num">79 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div>
+                  <div class="v2-tariff-price-num">89 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div>
                   <div class="v2-tariff-price-note">Без лимитов на операции</div>
                   <a href="#contacts" class="v2-tariff-link" data-tariff="avans">Обсудить контракт <span aria-hidden="true">→</span></a>
                   <a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-more">Подробнее об услуге →</a>

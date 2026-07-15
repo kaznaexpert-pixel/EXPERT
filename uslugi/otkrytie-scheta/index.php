@@ -329,14 +329,14 @@
         <div class="v2-tariff-stage">До тендера</div>
         <h3>Резерв счёта к дате тендера</h3>
         <p class="v2-tariff-desc">Резервируем счёт заранее — реквизиты готовы к моменту победы. Не выиграли — закрываем без расходов.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">25 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · к дате тендера</div><a href="/uslugi/rezervirovanie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">19 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · к дате тендера</div><a href="/uslugi/rezervirovanie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article>
       <article class="v2-tariff">
         <div class="v2-tariff-no">03</div>
         <div class="v2-tariff-stage">После открытия</div>
         <h3>Полное сопровождение контракта</h3>
         <p class="v2-tariff-desc">Ведём контракт после открытия счёта: платежи, сведения, отчётность — до закрытия и вывода средств.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 59 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу контракта</div><a href="#zayavka" class="v2-tariff-link">Обсудить <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 55 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу контракта</div><a href="#zayavka" class="v2-tariff-link">Обсудить <span aria-hidden="true">→</span></a></div>
       </article>
     </div>
     <p class="v2-tariffs-footnote">Точная стоимость — после анализа вашего контракта.</p>

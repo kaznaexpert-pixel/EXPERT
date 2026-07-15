@@ -276,13 +276,13 @@
         <div class="v2-tariff-stage">Постоплата</div>
         <h3>Сопровождение постоплаты</h3>
         <p class="v2-tariff-desc">Если аванса нет, а нужна корректная постоплата — проведём без возвратов до зачисления средств.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 59 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу контракта</div><a href="/uslugi/soprovozhdenie-postoplata/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 55 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу контракта</div><a href="/uslugi/soprovozhdenie-postoplata/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">03</div>
         <div class="v2-tariff-stage">Старт</div>
         <h3>Открытие счёта за два дня</h3>
         <p class="v2-tariff-desc">Если счёт ещё не открыт — полный пакет документов и открытие в УФК с первой подачи.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">39 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">29 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article></div>
     <p class="v2-tariffs-footnote">Точная стоимость — после анализа вашего контракта.</p>
   </div>
