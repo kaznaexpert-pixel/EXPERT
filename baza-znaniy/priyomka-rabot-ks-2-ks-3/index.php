@@ -304,6 +304,7 @@
       <details><summary>Кто подписывает КС-2 и КС-3?</summary><p>Документы подписывают уполномоченные представители подрядчика и заказчика. Важно проверить полномочия подписантов, а при электронной приёмке — наличие действующей квалифицированной электронной подписи.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:smetnaya-stoimost-i-proverka-dostovernosti-pri-ks">Объёмы и стоимость в акте о приёмке и справке о стоимости казначейство сверяет со сметой, прошедшей экспертизу: почему смета — эталон для оплаты, объясняет статья про <a href="/baza-znaniy/smetnaya-stoimost-i-proverka-dostovernosti-pri-ks/">сметную стоимость и проверку достоверности при сопровождении</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -361,6 +362,7 @@
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-stroitelnyh-kontraktov/"><div class="card__cover"><span>Стройка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение строительных контрактов в 2026</h3><div class="card__meta">Сопровождение · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/avans-na-stroitelnye-materialy-pri-ks/"><div class="card__cover"><span>Аванс</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Аванс на строительные материалы при сопровождении 2026</h3><div class="card__meta">Сопровождение · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/elektronnoe-aktirovanie-priyomka-44-fz/"><div class="card__cover"><span>Приёмка ЕИС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Электронное актирование и приёмка в ЕИС по 44-ФЗ</h3><div class="card__meta">Госзакупки · 14 мин</div></div></a>
+    <!-- auto-related:smetnaya-stoimost-i-proverka-dostovernosti-pri-ks --><a class="card reveal" href="/baza-znaniy/smetnaya-stoimost-i-proverka-dostovernosti-pri-ks/"><div class="card__cover"><span>Смета</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Сметная стоимость и проверка достоверности при сопровождении</h3><div class="card__meta">Учёт · 14 мин</div></div></a>
   </div>
 </section>
 

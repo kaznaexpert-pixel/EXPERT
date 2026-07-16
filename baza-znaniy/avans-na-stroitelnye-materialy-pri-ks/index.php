@@ -313,6 +313,7 @@
       <details><summary>Действует ли это правило для капитального ремонта?</summary><p>Да. Правило распространяется на материалы и оборудование, включённые в проектную документацию на строительство, реконструкцию, техническое перевооружение и капитальный ремонт объектов капитального строительства.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:smetnaya-stoimost-i-proverka-dostovernosti-pri-ks">Перечень материалов и их стоимость для аванса берут из проектной документации и проверенной сметы — как устроена смета бюджетной стройки и её экспертиза, показано в материале про <a href="/baza-znaniy/smetnaya-stoimost-i-proverka-dostovernosti-pri-ks/">сметную стоимость и проверку достоверности</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -370,6 +371,7 @@
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-stroitelnyh-kontraktov/"><div class="card__cover"><span>Стройка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение строительных контрактов в 2026</h3><div class="card__meta">Сопровождение · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/priyomka-rabot-ks-2-ks-3/"><div class="card__cover"><span>КС-2/КС-3</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Приёмка работ по формам КС-2 и КС-3 при сопровождении</h3><div class="card__meta">Приёмка · 13 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Аванс</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Аванс при казначейском сопровождении в 2026</h3><div class="card__meta">Сопровождение · 13 мин</div></div></a>
+    <!-- auto-related:smetnaya-stoimost-i-proverka-dostovernosti-pri-ks --><a class="card reveal" href="/baza-znaniy/smetnaya-stoimost-i-proverka-dostovernosti-pri-ks/"><div class="card__cover"><span>Смета</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Сметная стоимость и проверка достоверности при сопровождении</h3><div class="card__meta">Учёт · 14 мин</div></div></a>
   </div>
 </section>
 
