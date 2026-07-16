@@ -6,7 +6,42 @@
   <atom:link href="https://kaznaexpert.ru/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Экспертные статьи о казначейском сопровождении госконтрактов: 44-ФЗ, 223-ФЗ, ГОЗ, лицевые счета, санкционирование, раздельный учёт.</description>
   <language>ru</language>
-  <lastBuildDate>Tue, 14 Jul 2026 15:47:26 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 16 Jul 2026 17:19:40 +0000</lastBuildDate>
+  <item>
+    <title>Обеспечительный платёж по госконтракту при сопровождении</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/obespechitelnyy-platezh-po-goskontraktu/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/obespechitelnyy-platezh-po-goskontraktu/</guid>
+    <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Что такое обеспечительный платёж по статье 381.1 ГК, как денежное обеспечение контракта работает в 44-ФЗ, чем отличается от задатка и неустойки и как его вернуть.</description>
+  </item>
+  <item>
+    <title>Сметная стоимость и проверка достоверности при сопровождении</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/smetnaya-stoimost-i-proverka-dostovernosti-pri-ks/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/smetnaya-stoimost-i-proverka-dostovernosti-pri-ks/</guid>
+    <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Как определяют сметную стоимость бюджетной стройки, когда обязательна проверка достоверности и как смета связана с авансом и санкционированием при сопровождении.</description>
+  </item>
+  <item>
+    <title>Аванс на строительные материалы при казначейском сопровождении 2026</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/avans-na-stroitelnye-materialy-pri-ks/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/avans-na-stroitelnye-materialy-pri-ks/</guid>
+    <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Как провести аванс на строительные материалы при казначейском сопровождении: перечень из проектной документации, перечень Минстроя 804/пр и документы для оплаты.</description>
+  </item>
+  <item>
+    <title>Приёмка работ по формам КС-2 и КС-3 при казначейском сопровождении</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/priyomka-rabot-ks-2-ks-3/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/priyomka-rabot-ks-2-ks-3/</guid>
+    <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Формы КС-2 и КС-3 при казначейском сопровождении: чем отличаются акт о приёмке и справка о стоимости, как заполнить и как казначейство санкционирует оплату работ.</description>
+  </item>
+  <item>
+    <title>Строительный контроль при казначейском сопровождении в 2026 году</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/stroitelnyy-kontrol-pri-kaznacheyskom-soprovozhdenii/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/stroitelnyy-kontrol-pri-kaznacheyskom-soprovozhdenii/</guid>
+    <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Строительный контроль (технадзор) при казначейском сопровождении: что это по ст. 53 ГрК, норматив по постановлению № 468 и как оплата проходит казначейство.</description>
+  </item>
   <item>
     <title>Что такое гособоронзаказ (ГОЗ): простыми словами 2026</title>
     <link>https://kaznaexpert.ru/baza-znaniy/chto-takoe-gosudarstvennyy-oboronnyy-zakaz/</link>
@@ -181,41 +216,6 @@
     <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/necelevoe-rashodovanie-celevyh-sredstv/</guid>
     <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
     <description>Нецелевое расходование целевых средств при казначейском сопровождении: ст. 306.4 БК, отказ в санкционировании, возврат средств и ответственность по ст. 15.14 КоАП.</description>
-  </item>
-  <item>
-    <title>Неучастник бюджетного процесса: кто это и лицевой счёт</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/neuchastnik-byudzhetnogo-processa/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/neuchastnik-byudzhetnogo-processa/</guid>
-    <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Кто такой неучастник бюджетного процесса: чем отличается от участника, почему подрядчику открывают лицевой счёт (код 71 или 44) и меняется ли налоговый статус.</description>
-  </item>
-  <item>
-    <title>Обжалование отказа казначейства в санкционировании: порядок</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/obzhalovanie-deystviy-kaznachejstva/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/obzhalovanie-deystviy-kaznachejstva/</guid>
-    <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Как обжаловать возврат распоряжения и отказ ТОФК в санкционировании платежа: когда исправить, а когда спорить, ведомственный порядок и суд по главе 24 АПК, сроки.</description>
-  </item>
-  <item>
-    <title>Представление и предписание казначейства: как обжаловать</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/predstavlenie-i-predpisanie-kaznachejstva/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/predstavlenie-i-predpisanie-kaznachejstva/</guid>
-    <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Чем представление отличается от предписания по ст. 270.2 БК: сроки исполнения, штраф по ч. 20 ст. 19.5 КоАП, досудебная жалоба по ПП № 1237 и суд по гл. 24 АПК.</description>
-  </item>
-  <item>
-    <title>Приостановление операций по лицевому счёту в казначействе</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/priostanovlenie-operaciy-po-licevomu-schetu/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/priostanovlenie-operaciy-po-licevomu-schetu/</guid>
-    <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Почему казначейство приостанавливает операции по лицевому счёту, меры по ПП № 2483, сроки и как возобновить платежи — что делать исполнителю.</description>
-  </item>
-  <item>
-    <title>Региональное казначейское сопровождение средств бюджетов регионов</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/regionalnoe-kaznacheyskoe-soprovozhdenie/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/regionalnoe-kaznacheyskoe-soprovozhdenie/</guid>
-    <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Казначейское сопровождение средств региональных бюджетов: кто сопровождает, где лицевой счёт, отличие от федерального счёта 71, примеры Москвы и Петербурга.</description>
   </item>
 </channel>
 </rss>

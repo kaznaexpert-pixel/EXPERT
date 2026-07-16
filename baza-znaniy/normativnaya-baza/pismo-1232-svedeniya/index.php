@@ -211,6 +211,21 @@
     <section class="refs" aria-label="Источники"><h2>Источник</h2><ol>
       <li id="ref-1">Письмо Минфина России и Федерального казначейства от 13.01.2025 № 02-12-10/1232, 07-04-05/04-344 «О порядке представления в 2025 году Сведений об операциях с целевыми средствами». <a href="https://www.garant.ru/products/ipo/prime/doc/411200695/" target="_blank" rel="noopener">Первоисточник</a></li>
     </ol><p class="refs__note">Редакция документа актуальна на дату обновления страницы; НПА периодически меняются — сверяйтесь с первоисточником. Материал справочный, не является юридической консультацией.</p></section>
+  
+    <div class="art-promo" style="margin:26px 0 6px;display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px">
+      <a href="/uslugi/soprovozhdenie-avans/" style="display:block;padding:20px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;text-decoration:none;color:inherit">
+        <span style="display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#9a7b4f;font-weight:600;margin-bottom:8px">Сопровождение под ключ</span>
+        <b style="display:block;font-size:16.5px;line-height:1.35;margin-bottom:6px">Казначейское сопровождение контракта — 89&nbsp;000&nbsp;&#8381;/мес</b>
+        <span style="display:block;font-size:14px;color:var(--mute,#6e6b66);line-height:1.55">Счёт, сведения, санкционирование платежей и отчётность — ведём контракт за вас, без лимитов на операции.</span>
+        <span style="display:inline-block;margin-top:10px;font-size:14px;color:#9a7b4f;font-weight:600">Обсудить контракт &rarr;</span>
+      </a>
+      <a href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" style="display:block;padding:20px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;text-decoration:none;color:inherit">
+        <span style="display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#9a7b4f;font-weight:600;margin-bottom:8px">Обучение</span>
+        <b style="display:block;font-size:16.5px;line-height:1.35;margin-bottom:6px">Курс казначейского сопровождения от практика — 120&nbsp;000&nbsp;&#8381;</b>
+        <span style="display:block;font-size:14px;color:var(--mute,#6e6b66);line-height:1.55">9 академических часов один на один с экспертом Казначейства — научитесь вести контракты самостоятельно.</span>
+        <span style="display:inline-block;margin-top:10px;font-size:14px;color:#9a7b4f;font-weight:600">Записаться на курс &rarr;</span>
+      </a>
+    </div>
   </article>
   <aside class="rail">
     <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="npa-pismo-1232-svedeniya">

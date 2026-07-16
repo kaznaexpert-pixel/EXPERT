@@ -44,7 +44,7 @@
 {"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Service", "name": "Сопровождение госконтрактов под ключ", "serviceType": "Казначейское сопровождение государственных контрактов", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie/", "offers": {"@type": "AggregateOffer", "priceCurrency": "RUB", "lowPrice": "25000", "highPrice": "79000", "offerCount": "4", "url": "https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie/"}}
+{"@context": "https://schema.org", "@type": "Service", "name": "Сопровождение госконтрактов под ключ", "serviceType": "Казначейское сопровождение государственных контрактов", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie/", "offers": {"@type": "AggregateOffer", "priceCurrency": "RUB", "lowPrice": "19000", "highPrice": "89000", "offerCount": "4", "url": "https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie/"}}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -375,6 +375,21 @@
       <button type="button" data-fb="no" style="font-family:inherit;font-size:14px;padding:8px 18px;border:1px solid var(--line,#e4ddd0);border-radius:100px;background:var(--card,#fffdf8);cursor:pointer;color:inherit">👎 Нет</button>
     </div>
     <script>(function(){var w=document.getElementById('artFb');if(!w)return;w.addEventListener('click',function(e){var b=e.target.closest('button[data-fb]');if(!b)return;try{window.ym&&ym(window.YM_ID||0,'reachGoal','article_feedback_'+b.dataset.fb);}catch(_){}w.innerHTML='<span style="font-size:15px">'+(b.dataset.fb==='yes'?'Спасибо! Рады, что пригодилось.':'Спасибо! Напишите в <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener" style="text-decoration:underline">Telegram</a>, чего не хватило — доработаем.')+'</span>';});})();</script>
+  
+    <div class="art-promo" style="margin:26px 0 6px;display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px">
+      <a href="/uslugi/soprovozhdenie-avans/" style="display:block;padding:20px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;text-decoration:none;color:inherit">
+        <span style="display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#9a7b4f;font-weight:600;margin-bottom:8px">Сопровождение под ключ</span>
+        <b style="display:block;font-size:16.5px;line-height:1.35;margin-bottom:6px">Казначейское сопровождение контракта — 89&nbsp;000&nbsp;&#8381;/мес</b>
+        <span style="display:block;font-size:14px;color:var(--mute,#6e6b66);line-height:1.55">Счёт, сведения, санкционирование платежей и отчётность — ведём контракт за вас, без лимитов на операции.</span>
+        <span style="display:inline-block;margin-top:10px;font-size:14px;color:#9a7b4f;font-weight:600">Обсудить контракт &rarr;</span>
+      </a>
+      <a href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" style="display:block;padding:20px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;text-decoration:none;color:inherit">
+        <span style="display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#9a7b4f;font-weight:600;margin-bottom:8px">Обучение</span>
+        <b style="display:block;font-size:16.5px;line-height:1.35;margin-bottom:6px">Курс казначейского сопровождения от практика — 120&nbsp;000&nbsp;&#8381;</b>
+        <span style="display:block;font-size:14px;color:var(--mute,#6e6b66);line-height:1.55">9 академических часов один на один с экспертом Казначейства — научитесь вести контракты самостоятельно.</span>
+        <span style="display:inline-block;margin-top:10px;font-size:14px;color:#9a7b4f;font-weight:600">Записаться на курс &rarr;</span>
+      </a>
+    </div>
   </article>
 
   <aside class="rail">
