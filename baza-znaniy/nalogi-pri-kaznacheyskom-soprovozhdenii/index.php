@@ -369,6 +369,7 @@
 
     <p data-ctx="auto-ctx:uproshchennyy-poryadok-goz-2026">Для исполнителей гособоронзаказа с отдельным счётом в уполномоченном банке действует ещё одна особенность — <a href="/baza-znaniy/uproshchennyy-poryadok-goz-2026/">упрощённый порядок расчётов: выплата зарплаты без одновременных налоговых платежей</a>.</p>
     <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-dlya-buhgaltera">Помимо налогов у учётной службы при сопровождении появляется целый операционный контур — коды, сведения, распоряжения и отчётность: рабочая карта собрана в статье <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-dlya-buhgaltera/">казначейское сопровождение для бухгалтера</a>.</p>
+    <p data-ctx="auto-ctx:oplata-samozanyatomu-pri-ks">Если работу по контракту выполняет плательщик налога на профессиональный доход, НДФЛ и страховые взносы у заказчика не возникают — как оплатить такого исполнителя с целевого лицевого счёта по чеку из «Мой налог», разобрано в статье про <a href="/baza-znaniy/oplata-samozanyatomu-pri-ks/">оплату самозанятому при казначейском сопровождении</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -454,6 +455,8 @@
     <a class="card reveal" href="/baza-znaniy/otdelnyy-schet-po-goz/"><div class="card__cover"><span>ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отдельный счёт по ГОЗ: режим и вывод прибыли</h3><div class="card__meta">ГОЗ · 15 мин</div></div></a>
     <!-- auto-related:uproshchennyy-poryadok-goz-2026 --><a class="card reveal" href="/baza-znaniy/uproshchennyy-poryadok-goz-2026/"><div class="card__cover"><span>Упрощённый порядок</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Упрощённый порядок расчётов по ГОЗ в 2026 году: закон № 406-ФЗ</h3><div class="card__meta">ГОЗ · 15 мин</div></div></a>
     <!-- auto-related:kaznacheyskoe-soprovozhdenie-dlya-buhgaltera --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-dlya-buhgaltera/"><div class="card__cover"><span>Для бухгалтера</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение для бухгалтера: что нужно знать</h3><div class="card__meta">Операции · 15 мин</div></div></a>
+    <!-- auto-related:oplata-samozanyatomu-pri-ks --><a class="card reveal" href="/baza-znaniy/oplata-samozanyatomu-pri-ks/"><div class="card__cover"><span>Самозанятый</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Оплата самозанятому при казначейском сопровождении</h3><div class="card__meta">Операции · 14 мин</div></div></a>
+    <!-- auto-related:dogovor-gph-pri-ks --><a class="card reveal" href="/baza-znaniy/dogovor-gph-pri-ks/"><div class="card__cover"><span>Договор ГПХ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Договор ГПХ при казначейском сопровождении: НДФЛ и взносы</h3><div class="card__meta">Операции · 15 мин</div></div></a>
   </div>
 </section>
 

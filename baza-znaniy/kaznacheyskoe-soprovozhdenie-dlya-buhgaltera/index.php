@@ -327,6 +327,7 @@
       <details><summary>С чего начать бухгалтеру, получившему первый контракт с сопровождением?</summary><p>С трёх шагов до первого платежа: прочитать условия контракта о сопровождении, закрепить методику раздельного учёта и завести аналитику, составить сведения об операциях. Платёжная работа без этих трёх шагов гарантированно начнётся с возвратов.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:oplata-samozanyatomu-pri-ks">Отдельный порядок бухгалтер применяет при расчётах с самозанятыми: чек из «Мой налог» вместо удержания НДФЛ и взносов, код направления 0200 — подробности в материале про <a href="/baza-znaniy/oplata-samozanyatomu-pri-ks/">оплату самозанятому при сопровождении</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -409,6 +410,8 @@
     <a class="card reveal" href="/baza-znaniy/kody/"><div class="card__cover"><span>Коды</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Коды направления расходования целевых средств: справочник</h3><div class="card__meta">Справочник · 12 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/shtrafy-pri-kaznacheyskom-soprovozhdenii-2026/"><div class="card__cover"><span>Штрафы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Штрафы при казначейском сопровождении с 2026 года</h3><div class="card__meta">Контроль · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/otchet-o-rashodah-celevyh-sredstv/"><div class="card__cover"><span>Отчёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отчёт о расходах целевых средств: как заполнить и сдать</h3><div class="card__meta">Операции · 14 мин</div></div></a>
+    <!-- auto-related:oplata-samozanyatomu-pri-ks --><a class="card reveal" href="/baza-znaniy/oplata-samozanyatomu-pri-ks/"><div class="card__cover"><span>Самозанятый</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Оплата самозанятому при казначейском сопровождении</h3><div class="card__meta">Операции · 14 мин</div></div></a>
+    <!-- auto-related:dogovor-gph-pri-ks --><a class="card reveal" href="/baza-znaniy/dogovor-gph-pri-ks/"><div class="card__cover"><span>Договор ГПХ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Договор ГПХ при казначейском сопровождении: НДФЛ и взносы</h3><div class="card__meta">Операции · 15 мин</div></div></a>
   </div>
 </section>
 
