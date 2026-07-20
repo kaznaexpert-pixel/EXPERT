@@ -335,6 +335,7 @@
       <details><summary>Можно ли перевести деньги с лицевого счёта себе на карту?</summary><p>Просто так — нет: перечисление средств себе допускается в предусмотренных правилами случаях, например при возмещении фактически произведённых расходов с подтверждающими документами или при перечислении прибыли после исполнения обязательств по контракту.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:uchet-rashodov-na-usn-pri-ks">Большинство ИП на госконтрактах применяют упрощённую систему, и учёт затрат по сопровождаемому контракту имеет свои особенности — закрытый перечень и кассовый метод: подробности в материале про <a href="/baza-znaniy/uchet-rashodov-na-usn-pri-ks/">учёт расходов на упрощёнке при сопровождении</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -418,6 +419,7 @@
     <a class="card reveal" href="/baza-znaniy/mashinochitaemaya-doverennost-kaznachejstvo/"><div class="card__cover"><span>МЧД</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Машиночитаемая доверенность для казначейства</h3><div class="card__meta">Подпись · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/nalogi-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Налоги</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Налоги при казначейском сопровождении: НДС, прибыль, УСН</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-po-goskontraktu/"><div class="card__cover"><span>Учёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по госконтракту: как организовать</h3><div class="card__meta">Учёт · 14 мин</div></div></a>
+    <!-- auto-related:uchet-rashodov-na-usn-pri-ks --><a class="card reveal" href="/baza-znaniy/uchet-rashodov-na-usn-pri-ks/"><div class="card__cover"><span>Расходы на УСН</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Расходы на УСН при казначейском сопровождении: учёт затрат</h3><div class="card__meta">Учёт · 15 мин</div></div></a>
   </div>
 </section>
 

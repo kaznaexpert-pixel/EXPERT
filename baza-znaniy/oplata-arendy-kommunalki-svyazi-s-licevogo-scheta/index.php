@@ -307,6 +307,7 @@
       <details><summary>Где посмотреть все коды направления расходования?</summary><p>Полный перечень кодов направления расходования целевых средств — в приложении № 3 к приказу Минфина России № 214н; удобный справочник с расшифровками собран на странице про коды направления расходования целевых средств.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:nakladnye-raskhody-pri-ks">Сама методика — какой базой делить общие затраты между контрактами, что закрепить в учётной политике и как оформить справку-расчёт — подробно разобрана в статье про <a href="/baza-znaniy/nakladnye-raskhody-pri-ks/">накладные расходы при казначейском сопровождении</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -362,6 +363,7 @@
     <a class="card reveal" href="/baza-znaniy/operacii-po-licevomu-schetu-pri-ks/"><div class="card__cover"><span>Операции</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Какие операции можно проводить по лицевому счёту при сопровождении</h3><div class="card__meta">Операции · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-po-goskontraktu/"><div class="card__cover"><span>Учёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по госконтракту: когда вести, штрафы</h3><div class="card__meta">Учёт · 17 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kody/"><div class="card__cover"><span>Коды</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Коды направления расходования целевых средств: справочник</h3><div class="card__meta">Операции · 12 мин</div></div></a>
+    <!-- auto-related:nakladnye-raskhody-pri-ks --><a class="card reveal" href="/baza-znaniy/nakladnye-raskhody-pri-ks/"><div class="card__cover"><span>Накладные расходы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Накладные расходы: распределение между контрактами</h3><div class="card__meta">Учёт · 14 мин</div></div></a>
   </div>
 </section>
 

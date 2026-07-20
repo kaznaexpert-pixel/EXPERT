@@ -331,6 +331,7 @@
       <details><summary>Можно ли возместить наличные расходы?</summary><p>Возмещение по статье 242.23 БК привязано к расходам, оплаченным со счетов в банке, и подтверждается копиями платёжных документов. Наличные расчёты в этот механизм не вписываются — расходы по контракту стоит проводить безналично с расчётного счёта.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:nakladnye-raskhody-pri-ks">Чаще всего возмещением проводят именно долю общефирменных затрат — аренды, связи, управленческих расходов: как эту долю рассчитать и обосновать перед казначейством, показано в материале про <a href="/baza-znaniy/nakladnye-raskhody-pri-ks/">распределение накладных расходов между контрактами</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -413,6 +414,7 @@
     <a class="card reveal" href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"><div class="card__cover"><span>Отказы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Причины отказа казначейства в санкционировании</h3><div class="card__meta">Контроль · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/otdelnyy-schet-po-goz/"><div class="card__cover"><span>Гособоронзаказ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отдельный счёт по гособоронзаказу: режим и запреты</h3><div class="card__meta">ГОЗ · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/nalogi-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Налоги</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Налоги при казначейском сопровождении: НДС, прибыль, УСН</h3><div class="card__meta">Операции · 15 мин</div></div></a>
+    <!-- auto-related:nakladnye-raskhody-pri-ks --><a class="card reveal" href="/baza-znaniy/nakladnye-raskhody-pri-ks/"><div class="card__cover"><span>Накладные расходы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Накладные расходы: распределение между контрактами</h3><div class="card__meta">Учёт · 14 мин</div></div></a>
   </div>
 </section>
 

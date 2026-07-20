@@ -316,6 +316,7 @@
     <p data-ctx="auto-ctx:schet-v-komitete-finansov-sankt-peterburga">Счёт с кодом 71 открывают в казначействе для федеральных средств; по контрактам из бюджета города на Неве счёт открывают иначе — <a href="/baza-znaniy/schet-v-komitete-finansov-sankt-peterburga/">в Комитете финансов Санкт-Петербурга</a>.</p>
     <p data-ctx="auto-ctx:otkaz-v-otkrytii-licevogo-scheta">Если ТОФК вернул документы или приостановил открытие счёта, порядок действий зависит от причины — сценарии возврата и отказа разобраны в статье об <a href="/baza-znaniy/otkaz-v-otkrytii-licevogo-scheta/">отказе в открытии лицевого счёта в казначействе</a>.</p>
     <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-dlya-ip">У индивидуальных предпринимателей комплект даже проще, чем у организаций: подписывает сам ИП и доверенность не нужна — особенности разобраны в статье о <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-dlya-ip/">казначейском сопровождении для ИП</a>.</p>
+    <p data-ctx="auto-ctx:neskolko-soprovozhdaemyh-kontraktov">Если контрактов несколько, новый счёт под каждый не открывают — на едином лицевом счёте заводятся обособленные разделы, но деньги контрактов смешивать нельзя: как это устроено, разобрано в материале про <a href="/baza-znaniy/neskolko-soprovozhdaemyh-kontraktov/">работу по нескольким сопровождаемым контрактам</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -456,6 +457,7 @@
     <!-- auto-related:schet-v-komitete-finansov-sankt-peterburga --><a class="card reveal" href="/baza-znaniy/schet-v-komitete-finansov-sankt-peterburga/"><div class="card__cover"><span>Комитет финансов СПб</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Счёт в Комитете финансов Санкт-Петербурга: сопровождение</h3><div class="card__meta">Регионы · 15 мин</div></div></a>
     <!-- auto-related:otkaz-v-otkrytii-licevogo-scheta --><a class="card reveal" href="/baza-znaniy/otkaz-v-otkrytii-licevogo-scheta/"><div class="card__cover"><span>Отказ в открытии</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отказ в открытии лицевого счёта в казначействе: что делать</h3><div class="card__meta">Счета · 16 мин</div></div></a>
     <!-- auto-related:kaznacheyskoe-soprovozhdenie-dlya-ip --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-dlya-ip/"><div class="card__cover"><span>Для ИП</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение для ИП: документы и отличия от ООО</h3><div class="card__meta">Сопровождение · 14 мин</div></div></a>
+    <!-- auto-related:neskolko-soprovozhdaemyh-kontraktov --><a class="card reveal" href="/baza-znaniy/neskolko-soprovozhdaemyh-kontraktov/"><div class="card__cover"><span>Несколько контрактов</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Несколько сопровождаемых контрактов: как разделить деньги и учёт</h3><div class="card__meta">Учёт · 14 мин</div></div></a>
   </div>
 </section>
 
