@@ -411,7 +411,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/</loc>
-    <lastmod>2026-07-03</lastmod>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
@@ -453,7 +453,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/prikaz-214n/</loc>
-    <lastmod>2026-07-03</lastmod>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
@@ -1253,5 +1253,11 @@
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/novyy-poryadok-sankcionirovaniya-2026/</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
   </url>
 </urlset>
