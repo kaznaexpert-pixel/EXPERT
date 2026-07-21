@@ -183,41 +183,49 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/regiony/ekaterinburg/</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
     <loc>https://kaznaexpert.ru/regiony/moskva/</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
     <loc>https://kaznaexpert.ru/regiony/sankt-peterburg/</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
     <loc>https://kaznaexpert.ru/regiony/novosibirsk/</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
     <loc>https://kaznaexpert.ru/regiony/nizhniy-novgorod/</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
     <loc>https://kaznaexpert.ru/regiony/kazan/</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
     <loc>https://kaznaexpert.ru/regiony/rostov-na-donu/</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
     <loc>https://kaznaexpert.ru/regiony/krasnodar/</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
@@ -345,62 +353,73 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/regiony/ufa/</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
     <loc>https://kaznaexpert.ru/regiony/samara/</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
     <loc>https://kaznaexpert.ru/regiony/chelyabinsk/</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
     <loc>https://kaznaexpert.ru/regiony/voronezh/</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
     <loc>https://kaznaexpert.ru/regiony/krasnoyarsk/</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
     <loc>https://kaznaexpert.ru/regiony/perm/</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
     <loc>https://kaznaexpert.ru/regiony/volgograd/</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
     <loc>https://kaznaexpert.ru/regiony/tyumen/</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
     <loc>https://kaznaexpert.ru/regiony/irkutsk/</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
     <loc>https://kaznaexpert.ru/regiony/habarovsk/</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
     <loc>https://kaznaexpert.ru/regiony/vladivostok/</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/tofk/</loc>
-    <lastmod>2026-07-02</lastmod>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
@@ -555,7 +574,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/ast-goz-elektronnaya-ploschadka/</loc>
-    <lastmod>2026-07-02</lastmod>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -615,7 +634,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/svodnyy-reestr/</loc>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -861,6 +880,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/regiony/omsk/</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>

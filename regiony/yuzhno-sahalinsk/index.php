@@ -4,10 +4,10 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Казначейское сопровождение в Южно-Сахалинске | КазнаЭксперт</title>
+<title>Казначейское сопровождение в Южно-Сахалинске — под ключ | КазнаЭксперт</title>
 <meta name="description" content="Казначейское сопровождение госконтрактов в Южно-Сахалинске: открытие счёта в УФК, платежи, санкционирование, спасение контрактов. Дистанционно, фикс-цены.">
 <meta name="author" content="Ярослав Михайлов">
-<meta name="robots" content="noindex, follow">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#141310" media="(prefers-color-scheme: dark)">
 <!-- PROD: canonical и og:url ОБЯЗАТЕЛЬНО менять под URL каждой статьи -->
@@ -26,13 +26,13 @@
 <script>window.YM_PARAMS = {page_type:"region", cluster:"regiony"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Service", "datePublished": "2026-06-25", "dateModified": "2026-07-13", "name": "Казначейское сопровождение в Южно-Сахалинске", "serviceType": "Казначейское сопровождение госконтрактов", "description": "Казначейское сопровождение госконтрактов в Южно-Сахалинске: открытие лицевого счёта в УФК по Сахалинской области, ведение платежей, санкционирование, спасение контрактов. Дистанционно по всему региону.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "AdministrativeArea", "name": "Сахалинская область"}, "url": "https://kaznaexpert.ru/regiony/yuzhno-sahalinsk/"}
+{"@context": "https://schema.org", "@type": "Service", "name": "Казначейское сопровождение в Южно-Сахалинске", "serviceType": "Казначейское сопровождение госконтрактов", "description": "Казначейское сопровождение госконтрактов в Южно-Сахалинске: открытие лицевого счёта в УФК по Сахалинской области, ведение платежей, санкционирование, спасение контрактов. Дистанционно по всему региону.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png"}, "areaServed": {"@type": "AdministrativeArea", "name": "Сахалинская область"}, "url": "https://kaznaexpert.ru/regiony/yuzhno-sahalinsk/"}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Регионы", "item": "https://kaznaexpert.ru/regiony/"}, {"@type": "ListItem", "position": 3, "name": "Казначейское сопровождение в Южно-Сахалинске"}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Кто осуществляет казначейское сопровождение в Южно-Сахалинске?", "acceptedAnswer": {"@type": "Answer", "text": "По федеральным госконтрактам — УФК по Сахалинской области (территориальный орган Федерального казначейства, sakhalin.roskazna.gov.ru). Исполнитель открывает лицевой счёт, проходит санкционирование и ведёт раздельный учёт целевых средств."}}, {"@type": "Question", "name": "Вы работаете в Южно-Сахалинске?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Ведём казначейское сопровождение для подрядчиков из Южно-Сахалинск и всего региона дистанционно — открываем и ведём счёт в УФК по Сахалинской области через «Электронный бюджет»."}}, {"@type": "Question", "name": "Какой код у казначейства в Южно-Сахалинске?", "acceptedAnswer": {"@type": "Answer", "text": "УФК по Сахалинской области имеет код КОФК 6100. Адрес: 693020, г. Южно-Сахалинск, ул. Имени Антона Буюклы, 34. Лицевой счёт открываем и ведём дистанционно."}}, {"@type": "Question", "name": "Где находится УФК по Сахалинской области?", "acceptedAnswer": {"@type": "Answer", "text": "Адрес: 693020, г. Южно-Сахалинск, ул. Имени Антона Буюклы, 34. Приезжать не нужно — счёт и документооборот ведём дистанционно через «Электронный бюджет»."}}, {"@type": "Question", "name": "Нужно ли приезжать в казначейство?", "acceptedAnswer": {"@type": "Answer", "text": "Нет. Весь документооборот идёт электронно через «Электронный бюджет». Работаем со всеми регионами РФ удалённо."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Вы работаете в Южно-Сахалинске?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Ведём казначейское сопровождение для подрядчиков из Южно-Сахалинск и всего региона дистанционно — открываем и ведём счёт в УФК по Сахалинской области через «Электронный бюджет»."}}, {"@type": "Question", "name": "Какой код у казначейства в Южно-Сахалинске?", "acceptedAnswer": {"@type": "Answer", "text": "УФК по Сахалинской области имеет код КОФК 6100. Адрес: 693020, г. Южно-Сахалинск, ул. Имени Антона Буюклы, 34. Лицевой счёт открываем и ведём дистанционно."}}, {"@type": "Question", "name": "Где находится УФК по Сахалинской области?", "acceptedAnswer": {"@type": "Answer", "text": "Адрес: 693020, г. Южно-Сахалинск, ул. Имени Антона Буюклы, 34. Приезжать не нужно — счёт и документооборот ведём дистанционно через «Электронный бюджет»."}}, {"@type": "Question", "name": "Нужно ли приезжать в казначейство?", "acceptedAnswer": {"@type": "Answer", "text": "Нет. Весь документооборот идёт электронно через «Электронный бюджет». Работаем со всеми регионами РФ удалённо."}}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -85,7 +85,7 @@
 <meta name="twitter:description" content="Казначейское сопровождение госконтрактов в Южно-Сахалинске: открытие счёта в УФК, платежи, санкционирование, спасение контрактов. Дистанционно, фикс-цены.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
-<link rel="stylesheet" href="/css/landing-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/landing-shared.css') ?>">
+<link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
 </head>
 <body>
 <a href="#main" class="skip">Перейти к содержанию</a>
@@ -171,7 +171,7 @@
       <div class="v2-hero-main">
         <div class="v2-hero-eyebrow-row"><span class="v2-eyebrow">Казначейское сопровождение · Южно-Сахалинск</span><span class="v2-hero-eyebrow-dash" aria-hidden="true"></span></div>
         <h1>Казначейское сопровождение<br><em>в Южно-Сахалинске</em></h1>
-        <p class="v2-hero-lede"><strong>Берём казначейское сопровождение госконтракта в Южно-Сахалинске на себя:</strong> открытие лицевого счёта в УФК по Сахалинской области, ведение платежей и санкционирование, раздельный учёт и спасение проблемных контрактов. Дистанционно по всему региону, без возвратов и срыва сроков.</p>
+        <p class="v2-hero-lede"><strong>Ваша команда занимается контрактом — мы занимаемся казначейством.</strong> Открываем лицевой счёт в УФК по Сахалинской области, готовим распоряжения и сведения, проводим санкционирование и вытаскиваем проблемные контракты после возвратов. Формат — дистанционный, для всего региона.</p>
         <div class="v2-hero-trust">
           <div class="v2-trust-item"><div class="v2-trust-num">2<span class="v2-trust-suffix">&nbsp;рабочих&nbsp;дня</span></div><div class="v2-trust-label">до открытия счёта</div></div>
           <div class="v2-trust-item"><div class="v2-trust-num">7 000<span class="v2-trust-suffix">+</span></div><div class="v2-trust-label">контрактов</div></div>
@@ -181,18 +181,12 @@
         <div class="v2-hero-expert">
           <div class="v2-expert-name">Михайлов Ярослав</div>
           <div class="v2-expert-role">Главный эксперт · 15 лет в Казначействе</div>
-          <p class="v2-expert-quote">«Сахалинская область ведём дистанционно: знаем требования УФК по Сахалинской области и доводим платежи до санкционирования с первой подачи».</p>
+          <p class="v2-expert-quote">«По контрактам в регионе главное — правильно собранные основания платежа. Готовим документы так, чтобы УФК по Сахалинской области принимало их с первого раза».</p>
         </div>
       </div>
       <aside class="v2-hero-action">
         <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
-        
-<!-- geo-fact -->
-<h2 id="kto-vedet">Кто осуществляет казначейское сопровождение в Южно-Сахалинске</h2>
-<p class="answer"><strong>Казначейское сопровождение в Южно-Сахалинске</strong> по федеральным государственным контрактам осуществляет УФК по Сахалинской области — территориальный орган Федерального казначейства (ТОФК). Исполнитель открывает лицевой счёт в этом управлении, проводит платежи через санкционирование и ведёт раздельный учёт целевых средств. Реквизиты и код ТОФК — на официальном сайте sakhalin.roskazna.gov.ru; справочник — в разделе <a href="/baza-znaniy/tofk/">территориальных органов казначейства</a>.</p>
-<p>Адрес управления: 693020, г. Южно-Сахалинск, ул. Имени Антона Буюклы, 34. Порядок открытия лицевого счёта: документ-основание (карточка контракта), машиночитаемая доверенность и включение в Сводный реестр; счёт открываем за 2 рабочих дня дистанционно через ГИИС «Электронный бюджет». Типовые отказы — в разборе <a href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/">причины отказа казначейства</a>. Возьмём сопровождение под ключ — <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">услуги казначейского сопровождения</a>.</p>
-<details><summary>Кто осуществляет казначейское сопровождение в Южно-Сахалинске?</summary><p>По федеральным госконтрактам — УФК по Сахалинской области (территориальный орган Федерального казначейства, sakhalin.roskazna.gov.ru). Исполнитель открывает лицевой счёт, проходит санкционирование и ведёт раздельный учёт целевых средств.</p></details>
-<h2>Разберём ваш контракт</h2>
+        <h2>Разберём ваш контракт</h2>
         <p class="v2-hero-action-sub">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт ваш контракт в Южно-Сахалинске и назовёт точную стоимость. NDA — до анализа документов.</p>
         <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="region-yuzhno-sahalinsk">
           <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
@@ -201,7 +195,7 @@
           <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
           <button class="submit" type="submit">Получить расчёт →</button>
           <div class="formmsg" id="formMsg" hidden></div>
-          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
+          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
           <div class="success" id="leadSuccess" role="status" aria-live="polite">
             <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
             <h3>Заявка принята</h3><p>Эксперт перезвонит <b>в течение 15 минут</b> (9:00–21:00 МСК) и разберёт ваш контракт.</p>
@@ -216,14 +210,14 @@
 
 <section class="v2-section v2-screen" id="region">
   <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Южно-Сахалинск</div><h2 class="v2-section-title">Сопровождение в Южно-Сахалинске — <em>дистанционно и под ключ</em></h2></div>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Южно-Сахалинск</div><h2 class="v2-section-title">Работа с УФК по Сахалинской области — <em>без визитов и возвратов</em></h2></div>
     <div class="reg-split">
       <div class="reg-copy">
         <p>Сахалинская область — нефтегазовый шельфовый регион: проекты «Сахалин-1» и «Сахалин-2», производство СПГ и мощный рыбохозяйственный комплекс. Ведём казначейское сопровождение через УФК по Сахалинской области для подрядчиков из Южно-Сахалинска и области, включая контракты с авансом и ГОЗ.</p>
         <p>Услуга оказывается по всей России: открываем и ведём лицевые счета в любом территориальном органе казначейства, в том числе в УФК по Сахалинской области. Весь документооборот — через «Электронный бюджет», поэтому ваше местонахождение и загруженность регионального УФК не мешают работе. Реквизиты под рукой: УФК по Сахалинской области — код КОФК 6100, 693020, г. Южно-Сахалинск, ул. Имени Антона Буюклы, 34; официальный сайт и коды всех ТОФК — в <a href="/baza-znaniy/tofk/">справочнике казначейств по регионам</a>.</p>
-        <h3>Когда нужно казначейское сопровождение</h3>
-        <p>Расчёты идут через лицевой счёт в казначействе, если вы выиграли госконтракт по 44-ФЗ или 223-ФЗ с условием казначейского сопровождения, получаете целевой аванс или бюджетную субсидию либо работаете по гособоронзаказу (275-ФЗ). Без открытого счёта и санкционирования оплата невозможна, а каждая ошибка в документах оборачивается возвратом и потерей срока.</p>
-        <p>Мы закрываем весь этот блок: открываем счёт в УФК по Сахалинской области, ведём раздельный учёт, готовим распоряжения и проводим санкционирование, а при возвратах и блокировках — восстанавливаем контракт до исполнения.</p>
+        <h3>В каких случаях расчёты идут через казначейство</h3>
+        <p>Лицевой счёт в казначействе обязателен, когда контракт по 44-ФЗ или 223-ФЗ содержит условие о казначейском сопровождении, когда заказчик перечисляет целевой аванс или субсидию и всегда — по гособоронзаказу в рамках 275-ФЗ. Деньги приходят не на расчётный счёт, а на лицевой, и каждый платёж проходит проверку оснований. Ошибка в документах — это возврат распоряжения и потерянные дни.</p>
+        <p>Этот контур мы берём на себя целиком — счёт в УФК по Сахалинской области, раздельный учёт, подготовка распоряжений и сведений, прохождение санкционирования. Если контракт уже «встал» из-за возвратов, подключаемся срочно и доводим его до исполнения.</p>
       </div>
       <aside class="reg-facts">
         <h3>Коротко о регионе</h3>
@@ -244,9 +238,9 @@
 
 <section class="v2-section v2-screen" id="uslugi">
   <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Услуги</div><h2 class="v2-section-title">Что берём на себя в Южно-Сахалинске</h2><p class="v2-section-lede">Полный цикл казначейского сопровождения — от открытия счёта до спасения контракта.</p></div>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Услуги</div><h2 class="v2-section-title">Что берём на себя в Южно-Сахалинске</h2><p class="v2-section-lede">От первого документа до последнего платежа — работаем на результат по каждому этапу.</p></div>
     <div class="v2-process-grid lp-3col">
-      <article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Открытие счёта</h3><p class="v2-process-desc">Пакет документов и открытие лицевого счёта в УФК по Сахалинской области с первой подачи за два рабочих дня. <a href="/uslugi/otkrytie-scheta/">Подробнее →</a></p></article>
+      <article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Открытие счёта</h3><p class="v2-process-desc">Сводный реестр, заявление, карточка образцов подписей — готовим всё сами и открываем лицевой счёт в УФК по Сахалинской области за два рабочих дня. <a href="/uslugi/otkrytie-scheta/">Подробнее →</a></p></article>
       <article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Ведение и платежи</h3><p class="v2-process-desc">Сведения, распоряжения, санкционирование, постоплата и аванс — безлимит операций до закрытия контракта. <a href="/uslugi/soprovozhdenie-avans/">Подробнее →</a></p></article>
       <article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Спасение контракта</h3><p class="v2-process-desc">Возвраты, блокировки, отказы казначейства — срочная диагностика и восстановление до исполнения. <a href="/uslugi/spasenie-kontrakta/">Подробнее →</a></p></article>
     </div>
@@ -258,7 +252,7 @@
     <div class="v2-section-head"><div class="v2-section-eyebrow">Процесс</div><h2 class="v2-section-title">Как начинаем работу в Южно-Сахалинске</h2><p class="v2-section-lede">Каждый шаг — конкретное действие на нашей стороне. Прозрачно и дистанционно.</p></div>
     <div class="v2-process-grid lp-3col">
       <article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">Сегодня · 15 минут</div><h3>Заявка и старт</h3><p class="v2-process-desc">Перезваниваем за 15 минут, разбираем контракт, подписываем договор и NDA.</p><ul class="v2-process-checks"><li>Договор подписан</li></ul></article>
-      <article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">1–2 дня</div><h3>Документы и счёт</h3><p class="v2-process-desc">Готовим пакет, включаем в сводный реестр, открываем счёт в УФК по Сахалинской области.</p><ul class="v2-process-checks"><li>Счёт открыт</li></ul></article>
+      <article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">1–2 дня</div><h3>Документы и счёт</h3><p class="v2-process-desc">Собираем пакет документов, проверяем включение в сводный реестр и подаём на открытие счёта в УФК по Сахалинской области.</p><ul class="v2-process-checks"><li>Счёт открыт</li></ul></article>
       <article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">До закрытия</div><h3>Ведём контракт</h3><p class="v2-process-desc">Платежи, сведения, санкционирование — до исполнения контракта без возвратов.</p><ul class="v2-process-checks"><li>Платежи проходят</li></ul></article>
     </div>
   </div>
@@ -266,16 +260,12 @@
 
 <section class="v2-section v2-screen" id="sravnenie">
   <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Сравнение</div><h2 class="v2-section-title">Своими силами или <em>с экспертом</em></h2><p class="v2-section-lede">Казначейское сопровождение — это процедуры с жёсткими требованиями УФК по Сахалинской области. Цена ошибки — возврат документов и сорванный срок исполнения.</p></div>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Сравнение</div><h2 class="v2-section-title">Самостоятельно или <em>с КазнаЭксперт</em></h2><p class="v2-section-lede">Казначейство проверяет каждый документ по регламенту. Сравните, во что обходится самостоятельное прохождение процедур и работа с экспертом.</p></div>
     <div class="cmp-wrap">
       <table class="cmp">
         <thead><tr><th>Этап</th><th>Своими силами</th><th>С КазнаЭксперт</th></tr></thead>
         <tbody>
-          <tr><td>Открытие лицевого счёта</td><td>1–3 недели, частые возвраты пакета</td><td class="cmp-us">2 рабочих дня, подача с первого раза</td></tr>
-          <tr><td>Санкционирование платежей</td><td>Отказы из-за оснований платежа и раздельного учёта</td><td class="cmp-us">Документы готовим под требования казначейства</td></tr>
-          <tr><td>Раздельный учёт и отчётность</td><td>Нужен отдельный обученный специалист</td><td class="cmp-us">Ведём за вас, без расширения штата</td></tr>
-          <tr><td>Возврат или блокировка</td><td>Контракт встаёт, сроки горят</td><td class="cmp-us">Срочная диагностика и восстановление</td></tr>
-          <tr><td>Цена ошибки</td><td>Штрафы, риск РНП, срыв исполнения</td><td class="cmp-us">Фиксированная цена и прогнозируемый результат</td></tr>
+          <tr><td>Открытие лицевого счёта</td><td>Возвраты пакета, срок уходит в недели</td><td class="cmp-us">2 рабочих дня, документы принимают с первого раза</td></tr><tr><td>Санкционирование платежей</td><td>Распоряжения возвращают из-за формулировок оснований</td><td class="cmp-us">Готовим основания под регламент казначейства</td></tr><tr><td>Раздельный учёт</td><td>Бухгалтерия учится на своих ошибках</td><td class="cmp-us">Настроенный учёт по 44-ФЗ и 275-ФЗ с первого дня</td></tr><tr><td>Блокировки и возвраты</td><td>Простой контракта, переписка с УФК месяцами</td><td class="cmp-us">Диагностика за день и план восстановления</td></tr><tr><td>Итог</td><td>Штрафы, риск РНП, нервы</td><td class="cmp-us">Предсказуемые сроки и фиксированная цена</td></tr>
         </tbody>
       </table>
     </div>
@@ -284,11 +274,11 @@
 
 <section class="v2-section v2-screen" id="tarif">
   <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Стоимость</div><h2 class="v2-section-title">Фиксированные цены — <em>по всей России</em></h2><p class="v2-section-lede">Цена не зависит от региона. Конкретный объём и стоимость прописаны в договоре.</p></div>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Стоимость</div><h2 class="v2-section-title">Фиксированные цены — <em>по всей России</em></h2><p class="v2-section-lede">Работаем по фиксированным ценам: без надбавок за регион и скрытых доплат — всё в договоре.</p></div>
     <div class="v2-tariffs-grid lp-3col">
       <article class="v2-tariff is-featured"><div class="v2-tariff-no">01</div><div class="v2-tariff-stage">Старт</div><h3>Открытие счёта за два дня</h3><p class="v2-tariff-desc">Полный пакет документов и открытие счёта в УФК по Сахалинской области с первой подачи.</p><div class="v2-tariff-price"><div class="v2-tariff-price-num">29 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div></article>
       <article class="v2-tariff"><div class="v2-tariff-no">02</div><div class="v2-tariff-stage">Ведение</div><h3>Сопровождение контракта</h3><p class="v2-tariff-desc">Постоплата и аванс: контроль целевого использования, санкционирование, безлимит операций.</p><div class="v2-tariff-price"><div class="v2-tariff-price-num">от 55 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу / 89 000 ₽/мес</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div></article>
-      <article class="v2-tariff"><div class="v2-tariff-no">03</div><div class="v2-tariff-stage">Срочно</div><h3>Спасение контракта</h3><p class="v2-tariff-desc">Возвраты, блокировки, отказы — срочная диагностика и восстановление.</p><div class="v2-tariff-price"><div class="v2-tariff-price-num">от 29 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Аудит · восстановление от 99 000 ₽</div><a href="/uslugi/spasenie-kontrakta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div></article>
+      <article class="v2-tariff"><div class="v2-tariff-no">03</div><div class="v2-tariff-stage">Срочно</div><h3>Спасение контракта</h3><p class="v2-tariff-desc">Когда платежи не проходят: находим причину и возвращаем контракт в работу.</p><div class="v2-tariff-price"><div class="v2-tariff-price-num">от 29 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Аудит · восстановление от 99 000 ₽</div><a href="/uslugi/spasenie-kontrakta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div></article>
     </div>
     <p class="v2-tariffs-footnote">Точная стоимость — после анализа вашего контракта.</p>
   </div>
@@ -296,22 +286,18 @@
 
 <section class="v2-section v2-screen" id="faq">
   <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Вопросы</div><h2 class="v2-section-title">Отвечаем <em>прямо</em></h2></div>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Вопросы</div><h2 class="v2-section-title">Вопросы и <em>ответы</em></h2></div>
     <div class="faq">
       <details open><summary>Вы работаете в Южно-Сахалинске?</summary><p>Да. Ведём казначейское сопровождение для подрядчиков из Южно-Сахалинск и всего региона дистанционно — открываем и ведём счёт в УФК по Сахалинской области через «Электронный бюджет», личное присутствие не требуется.</p></details>
       <details><summary>Какой код у казначейства в Южно-Сахалинске?</summary><p>УФК по Сахалинской области имеет код КОФК <strong>6100</strong>. Адрес: 693020, г. Южно-Сахалинск, ул. Имени Антона Буюклы, 34. Лицевой счёт в этом ТОФК открываем и ведём дистанционно — полный справочник кодов в <a href="/baza-znaniy/tofk/">базе ТОФК</a>.</p></details><details><summary>Где находится УФК по Сахалинской области?</summary><p>Адрес: 693020, г. Южно-Сахалинск, ул. Имени Антона Буюклы, 34. Приезжать туда не нужно — открытие лицевого счёта и весь документооборот в Южно-Сахалинске ведём дистанционно через «Электронный бюджет».</p></details>
-      <details><summary>Нужно ли приезжать в казначейство?</summary><p>Нет. Весь документооборот идёт электронно через «Электронный бюджет». Мы работаем со всеми регионами РФ удалённо.</p></details>
-      <details><summary>За сколько откроете счёт?</summary><p>За два рабочих дня с момента получения документов при стандартных требованиях. Срок фиксируем в договоре.</p></details>
-      <details><summary>Сколько стоит сопровождение?</summary><p>Цены фиксированные и не зависят от региона: открытие счёта — 29 000 ₽, ведение — от 55 000 ₽, спасение контракта — от 29 000 ₽. Точная стоимость — после анализа.</p></details>
-      <details><summary>Что если казначейство вернёт документы?</summary><p>Устраняем замечания без доплат — это входит в услугу. Цель — пройти санкционирование с первой подачи.</p></details>
-      <details><summary>Поможете со спасением проблемного контракта?</summary><p>Да. Срочно подключаемся: находим причину возвратов и блокировок, восстанавливаем учёт и доводим контракт до исполнения.</p></details>
+      <details><summary>Что если казначейство вернёт документы?</summary><p>Устраняем замечания без доплат — это входит в услугу. Цель — пройти санкционирование с первой подачи.</p></details><details><summary>Контракт уже заблокирован — возьмётесь?</summary><p>Да, это профильная задача. Диагностируем причину блокировки или возвратов, восстанавливаем раздельный учёт и документы, доводим контракт до исполнения.</p></details><details><summary>Можно ли пройти всё удалённо, без визита в УФК?</summary><p>Да. Открытие лицевого счёта, подача распоряжений и сведений идут через «Электронный бюджет» — личное присутствие не требуется ни на одном этапе.</p></details><details><summary>За сколько откроете счёт?</summary><p>За два рабочих дня с момента получения документов при стандартных требованиях. Срок фиксируем в договоре.</p></details><details><summary>Из чего складывается стоимость?</summary><p>Цены фиксированные по всей России: открытие счёта — 29 000 ₽, ведение контракта — от 55 000 ₽, спасение — от 29 000 ₽. Финальную стоимость называем после анализа контракта — без скрытых доплат.</p></details>
     </div>
   </div>
 </section>
 
 <section class="v2-section v2-screen" id="zayavka">
   <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Заявка</div><h2 class="v2-section-title">Казначейское сопровождение в Южно-Сахалинске</h2><p class="v2-section-lede">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт ваш контракт и назовёт точную стоимость.</p></div>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Заявка</div><h2 class="v2-section-title">Казначейское сопровождение в Южно-Сахалинске</h2><p class="v2-section-lede">Оставьте телефон — эксперт свяжется в течение 15 минут и разберёт вашу ситуацию по контракту.</p></div>
     <div style="max-width:520px;margin:0 auto">
       <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="region-yuzhno-sahalinsk-cta">
         <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
@@ -320,7 +306,7 @@
         <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
         <button class="submit" type="submit">Получить расчёт →</button>
         <div class="formmsg" id="formMsgBottom" hidden></div>
-        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
+        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
         <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
           <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
           <h3>Заявка принята</h3><p>Эксперт перезвонит <b>в течение 15 минут</b> (9:00–21:00 МСК).</p>
@@ -334,7 +320,7 @@
 <section class="kb-strip" aria-labelledby="kbRegTitle">
 <style>.kb-strip{--i:var(--ink,#1A1A1A);--s:var(--sepia,#8B6F47);--l:var(--line,#e4ddd0);--c:var(--card,#fffdf8);--m:var(--ink-mute,#8a8170);max-width:1240px;margin:40px auto;padding:0 24px;font-family:'Inter',system-ui,sans-serif}.kb-strip__head{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin-bottom:18px}.kb-strip__title{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:clamp(1.3rem,1.4vw+1rem,1.7rem);margin:0;color:var(--i)}.kb-strip__all{font-size:14px;font-weight:500;color:var(--s);text-decoration:none;white-space:nowrap}.kb-strip__all:hover{text-decoration:underline}.kb-strip__grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}.kb-card{display:flex;flex-direction:column;gap:8px;background:var(--c);border:1px solid var(--l);border-radius:14px;padding:18px 20px;text-decoration:none;color:inherit;transition:transform .18s,box-shadow .18s,border-color .18s}.kb-card:hover{transform:translateY(-3px);box-shadow:0 16px 32px -22px rgba(26,26,26,.3);border-color:rgba(139,111,71,.45)}.kb-card__cat{font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--s)}.kb-card__t{font-size:15px;font-weight:600;line-height:1.35;color:var(--i)}.kb-card__m{margin-top:auto;font-size:12.5px;color:var(--m)}@media(max-width:960px){.kb-strip__grid{grid-template-columns:1fr 1fr}}@media(max-width:560px){.kb-strip__grid{grid-template-columns:1fr}.kb-strip__head{flex-direction:column;gap:6px}}</style>
 <div class="kb-strip__head"><h2 class="kb-strip__title" id="kbRegTitle">Полезное по теме — пригодится при работе в Южно-Сахалинске</h2><a class="kb-strip__all" href="/baza-znaniy/">Вся база знаний →</a></div>
-<div class="kb-strip__grid"><a class="kb-card" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><span class="kb-card__cat">Основы</span><span class="kb-card__t">Казначейское сопровождение: что это и как работает</span><span class="kb-card__m">18 мин</span></a><a class="kb-card" href="/baza-znaniy/svodnyy-reestr/"><span class="kb-card__cat">Шаг 0</span><span class="kb-card__t">Сводный реестр: включение организации и код</span><span class="kb-card__m">15 мин</span></a><a class="kb-card" href="/baza-znaniy/licevoy-schet-71-kak-otkryt/"><span class="kb-card__cat">Счета</span><span class="kb-card__t">Лицевой счёт 71 в ТОФК: как открыть</span><span class="kb-card__m">15 мин</span></a><a class="kb-card" href="/baza-znaniy/tofk/"><span class="kb-card__cat">Справочник</span><span class="kb-card__t">Коды ТОФК по регионам: код, сайт, адрес УФК</span><span class="kb-card__m">88 УФК</span></a></div>
+<div class="kb-strip__grid"><a class="kb-card" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><span class="kb-card__cat">Основы</span><span class="kb-card__t">Казначейское сопровождение: что это и как работает</span><span class="kb-card__m">18 мин</span></a><a class="kb-card" href="/baza-znaniy/vozvrat-platezha-kaznachejstvo/"><span class="kb-card__cat">Возвраты</span><span class="kb-card__t">Возврат платежа казначейством: что делать</span><span class="kb-card__m">13 мин</span></a><a class="kb-card" href="/baza-znaniy/svodnyy-reestr/"><span class="kb-card__cat">Шаг 0</span><span class="kb-card__t">Сводный реестр: включение организации и код</span><span class="kb-card__m">15 мин</span></a><a class="kb-card" href="/baza-znaniy/poryadok-sankcionirovaniya-rashodov/"><span class="kb-card__cat">Платежи</span><span class="kb-card__t">Порядок санкционирования расходов</span><span class="kb-card__m">16 мин</span></a></div>
 </section>
 
 <section class="trust" aria-label="Проверка в реестрах">
@@ -352,10 +338,6 @@
 (function(){var f=document.getElementById('leadFormBottom'); if(!f) return;var msg=document.getElementById('formMsgBottom'), ok=document.getElementById('leadSuccessBottom');function show(t){ if(msg){msg.hidden=false;msg.textContent=t;} }f.addEventListener('submit',function(e){e.preventDefault();if(f.company_extra && f.company_extra.value) return;var name=(f.name.value||'').trim(), phone=(f.phone.value||'').trim();if(name.length<2){show('Введите имя');return;}if(!/\d[\s\d().-]*\d{3}/.test(phone)||phone.replace(/\D/g,'').length<10){show('Проверьте телефон');return;}if(!f.consent.checked){show('Подтвердите согласие');return;}var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})}).then(function(r){ if(!r.ok) throw 0; return r; }).then(function(){ [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; }); if(ok) ok.style.display='block'; try{ if(typeof ym==='function') ym(94305898,'reachGoal','lead',{source:f.dataset.source}); }catch(_){ } }).catch(function(){ btn.disabled=false; btn.textContent=orig; show('Не удалось отправить. Попробуйте ещё раз.'); });});})();
 </script>
 
-
-<!-- regiony-cross -->
-<style>.reg-cross{margin:34px 0 8px;padding:22px 24px;background:#f4f1ea;border:1px solid #e3ddcf;border-radius:14px}.reg-cross h2{margin:0 0 12px;font-size:1.05rem}.reg-cross ul{margin:0;padding:0;list-style:none;display:grid;grid-template-columns:repeat(2,1fr);gap:6px 18px}.reg-cross a{font-size:.92rem}@media(max-width:600px){.reg-cross ul{grid-template-columns:1fr}}</style>
-<section class="reg-cross"><h2>Казначейское сопровождение в других регионах</h2><ul><li><a href="/regiony/abakan/">Казначейское сопровождение в Абакане</a></li><li><a href="/regiony/anadyr/">Казначейское сопровождение в Анадыре</a></li><li><a href="/regiony/arhangelsk/">Казначейское сопровождение в Архангельске</a></li><li><a href="/regiony/astrahan/">Казначейское сопровождение в Астрахани</a></li><li><a href="/regiony/barnaul/">Казначейское сопровождение в Барнауле</a></li><li><a href="/regiony/belgorod/">Казначейское сопровождение в Белгороде</a></li><li><a href="/regiony/birobidzhan/">Казначейское сопровождение в Биробиджане</a></li><li><a href="/regiony/blagoveshchensk/">Казначейское сопровождение в Благовещенске</a></li></ul><p style="margin:12px 0 0;font-size:.9rem"><a href="/regiony/">Все регионы России →</a></p></section>
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
 
@@ -659,5 +641,11 @@
   if(h){var u=function(){h.classList.toggle('is-scrolled',(window.scrollY||0)>12);};addEventListener('scroll',u,{passive:true});u();}
 })();
 </script>
+<script>/* mtr-tail-controller: прячем мини-навигатор на related/footer (scroll-based) */
+(function(){var m=document.getElementById('mtr');if(!m)return;
+var tail=document.querySelector('.related')||document.querySelector('.v2-footer');if(!tail)return;
+function upd(){m.classList.toggle('mtr--tail', tail.getBoundingClientRect().top < window.innerHeight*0.65);}
+var t;window.addEventListener('scroll',function(){if(t)return;t=setTimeout(function(){t=null;upd();},100);},{passive:true});
+window.addEventListener('resize',upd,{passive:true});upd();})();</script>
 </body>
 </html>
