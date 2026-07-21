@@ -303,6 +303,7 @@
       <details><summary>Как не допустить зависания платежа в невыясненных?</summary><p>Указывать корректные реквизиты получателя, правильный код и понятное назначение платежа с нужным идентификатором. Это профилактика, которая избавляет от процедуры возврата или уточнения.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:vozvrat-deneg-ot-postavshchika-na-licevoy-schet">Обратная ситуация — когда деньги возвращает не орган казначейства, а ваш контрагент: переплату, неотработанный аванс или оплату возвращённого товара поставщик перечисляет на лицевой счёт; порядок разобран в статье про <a href="/baza-znaniy/vozvrat-deneg-ot-postavshchika-na-licevoy-schet/">возврат денег от поставщика на лицевой счёт</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -384,6 +385,7 @@
     <a class="card reveal" href="/baza-znaniy/rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha/"><div class="card__cover"><span>Распоряжение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Распоряжение о совершении казначейского платежа: заполнение и возврат</h3><div class="card__meta">Операции · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/naznachenie-platezha-kaznachejstvo/"><div class="card__cover"><span>Назначение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Назначение платежа при казначейском сопровождении: что указывать</h3><div class="card__meta">Операции · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/operacii-po-licevomu-schetu-pri-ks/"><div class="card__cover"><span>Операции</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Какие операции можно проводить по лицевому счёту при казначейском сопровождении</h3><div class="card__meta">Операции · 14 мин</div></div></a>
+    <!-- auto-related:vozvrat-deneg-ot-postavshchika-na-licevoy-schet --><a class="card reveal" href="/baza-znaniy/vozvrat-deneg-ot-postavshchika-na-licevoy-schet/"><div class="card__cover"><span>Возврат от поставщика</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Возврат денег от поставщика на лицевой счёт: как оформить</h3><div class="card__meta">Операции · 14 мин</div></div></a>
   </div>
 </section>
 

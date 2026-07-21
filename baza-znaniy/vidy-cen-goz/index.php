@@ -318,6 +318,7 @@
     </div>
 
     <p data-ctx="auto-ctx:normy-pribyli-goz">Размер прибыли внутри любого вида цены нормирован отдельно: формула «до 1% привнесённых + до 25% собственных затрат» разобрана в материале о <a href="/baza-znaniy/normy-pribyli-goz/">нормах прибыли по гособоронзаказу</a>.</p>
+    <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-niokr">Чаще всего ориентировочная цена применяется именно в исследовательских и конструкторских темах: как исполнителю подтверждать материалы, труд и испытания и что происходит при недостижении результата, разобрано в статье про <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-niokr/">казначейское сопровождение НИОКР</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -436,6 +437,7 @@
     <!-- auto-related:suschestvennye-usloviya-kontrakta-goz --><a class="card reveal" href="/baza-znaniy/suschestvennye-usloviya-kontrakta-goz/"><div class="card__cover"><span>Контракт ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Существенные условия контракта по ГОЗ</h3><div class="card__meta">ГОЗ · 15 мин</div></div></a>
     <!-- auto-related:rkm-po-gosoboronzakazu --><a class="card reveal" href="/baza-znaniy/rkm-po-gosoboronzakazu/"><div class="card__cover"><span>РКМ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">РКМ по гособоронзаказу: формы и заполнение</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
     <!-- auto-related:normy-pribyli-goz --><a class="card reveal" href="/baza-znaniy/normy-pribyli-goz/"><div class="card__cover"><span>Прибыль ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Нормы прибыли по гособоронзаказу: правило «1% + 25%»</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
+    <!-- auto-related:kaznacheyskoe-soprovozhdenie-niokr --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-niokr/"><div class="card__cover"><span>НИОКР</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение НИОКР: затраты, этапы, результат</h3><div class="card__meta">Сопровождение · 15 мин</div></div></a>
   </div>
 </section>
 

@@ -319,6 +319,7 @@
     </div>
 
     <p data-ctx="auto-ctx:kaznacheyskiy-schet-subpodryadchika">Отдельный практический вопрос — <a href="/baza-znaniy/kaznacheyskiy-schet-subpodryadchika/">нужен ли казначейский счёт субподрядчику</a> по контракту с казначейским сопровождением: ответ зависит от уровня в цепочке и от того, привлекает ли он других лиц.</p>
+    <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-niokr">Особый случай кооперации — составные части научно-исследовательских и опытно-конструкторских работ: правила привлечения третьих лиц там задаёт глава 38 ГК, а финансовый контур — лицевые счета; подробности в материале про <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-niokr/">сопровождение НИОКР</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -431,6 +432,7 @@
     <a class="card reveal" href="/baza-znaniy/otdelnyy-schet-po-goz/"><div class="card__cover"><span>Счёт ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отдельный счёт по ГОЗ: режим и вывод прибыли</h3><div class="card__meta">ГОЗ · 18 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-i-bankovskoe-soprovozhdenie/"><div class="card__cover"><span>Режимы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское и банковское сопровождение</h3><div class="card__meta">Сопровождение · 16 мин</div></div></a>
     <!-- auto-related:kaznacheyskiy-schet-subpodryadchika --><a class="card reveal" href="/baza-znaniy/kaznacheyskiy-schet-subpodryadchika/"><div class="card__cover"><span>Субподряд</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Нужен ли казначейский счёт субподрядчику</h3><div class="card__meta">Счета · 17 мин</div></div></a>
+    <!-- auto-related:kaznacheyskoe-soprovozhdenie-niokr --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-niokr/"><div class="card__cover"><span>НИОКР</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение НИОКР: затраты, этапы, результат</h3><div class="card__meta">Сопровождение · 15 мин</div></div></a>
   </div>
 </section>
 
