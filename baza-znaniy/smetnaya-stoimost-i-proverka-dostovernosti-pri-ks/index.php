@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"uchet"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Сметная стоимость и проверка достоверности при казначейском сопровождении", "description": "Как определяют сметную стоимость бюджетной стройки, когда обязательна проверка достоверности и как смета связана с авансом и санкционированием при сопровождении.", "inLanguage": "ru-RU", "datePublished": "2026-07-16", "dateModified": "2026-07-16", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/smetnaya-stoimost-i-proverka-dostovernosti-pri-ks/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Сметная стоимость и проверка достоверности при казначейском сопровождении", "description": "Как определяют сметную стоимость бюджетной стройки, когда обязательна проверка достоверности и как смета связана с авансом и санкционированием при сопровождении.", "inLanguage": "ru-RU", "datePublished": "2026-07-16", "dateModified": "2026-07-16", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/smetnaya-stoimost-i-proverka-dostovernosti-pri-ks/"}, "citation": ["Градостроительный кодекс РФ, ст. 8.3 (введена Федеральным законом от 03.07.2016 № 369-ФЗ) — ценообразование и сметное нормирование; определение сметной стоимости строек с бюджетным финансированием по сметным нормативам и сметным ценам строительных ресурсов.", "Градостроительный кодекс РФ, ст. 57.2 — ФГИС ЦС (федеральная государственная информационная система ценообразования в строительстве).", "Градостроительный кодекс РФ, ст. 49 — государственная экспертиза проектной документации и результатов инженерных изысканий.", "Постановление Правительства РФ от 05.03.2007 № 145 (в действующей редакции) — порядок организации и проведения государственной экспертизы проектной документации и результатов инженерных изысканий; проверка достоверности определения сметной стоимости в составе госэкспертизы (с 17.01.2020).", "Федеральный закон от 05.04.2013 № 44-ФЗ, ст. 22 — обоснование начальной (максимальной) цены контракта, в том числе проектно-сметным методом.", "Бюджетный кодекс РФ, глава 24.4, ст. 242.23; Постановление Правительства РФ от 24.11.2021 № 2024; приказ Минфина России от 17.12.2021 № 214н — казначейское сопровождение и санкционирование операций (проект нового порядка санкционирования — с 01.09.2026).", "Федеральный закон от 28.11.2025 № 431-ФЗ, ст. 15 — особенности расчётов по отдельным строительным контрактам в 2026 году, включая аванс на строительные материалы по перечню из проектной документации."]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Сметная стоимость и достоверность", "item": "https://kaznaexpert.ru/baza-znaniy/smetnaya-stoimost-i-proverka-dostovernosti-pri-ks/"}]}
@@ -85,8 +85,8 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Сметная стоимость и проверка достоверности при сопровождении — КазнаЭксперт">
-<meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-05T09:00:00+03:00">
+<meta property="article:published_time" content="2026-07-16T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-07-16T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -309,7 +309,7 @@
       <div class="author__body">
         <div class="author__name">Ярослав Михайлов</div>
         <div class="author__role">Основатель и главный эксперт КазнаЭксперт</div>
-        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Команда под руководством Ярослава сопроводила более 7000 контрактов на 90 млрд ₽ по 44-ФЗ, 223-ФЗ и ГОЗ. Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
+        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Команда под руководством Ярослава работает с контрактами по 44-ФЗ, 223-ФЗ и ГОЗ; ИП «КазнаЭксперт» зарегистрировано в 2021 году. Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
         <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
       </div>
     </div>
@@ -356,7 +356,7 @@
       <button class="submit" type="submit">Получить расчёт →</button>
       <div class="formmsg" id="formMsg" hidden></div>
       <div class="railform__trust">
-        <span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span>
+        <span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span>
         <span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span>
       </div>
       <div class="success" id="leadSuccess" role="status" aria-live="polite">
@@ -519,13 +519,14 @@
               <a href="mailto:manager@kaznaexpert.ru">manager@kaznaexpert.ru</a>
               <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
               <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+              <a href="/kontakty/">Все контакты</a>
             </nav>
 
             <nav class="v2-footer-col" aria-label="Мы в сети">
               <h3 class="v2-footer-h">Мы в сети</h3>
-              <a href="https://t.me/Kazna_Expert" target="_blank" rel="noopener">Telegram-канал</a>
+              <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram-канал</a>
               <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener">Дзен</a>
-              <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener">Клерк</a>
+              <a href="https://www.klerk.ru/user/2703999/" target="_blank" rel="noopener">Клерк</a>
               <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener">TenChat</a>
             </nav>
 

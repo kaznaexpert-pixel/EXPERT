@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"kontrol"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Представление и предписание казначейства: сроки исполнения и как обжаловать", "description": "Чем представление отличается от предписания по ст. 270.2 БК: сроки исполнения, штраф по ч. 20 ст. 19.5 КоАП, досудебная жалоба по ПП № 1237 и суд по гл. 24 АПК.", "inLanguage": "ru-RU", "datePublished": "2026-07-03", "dateModified": "2026-07-07", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/predstavlenie-i-predpisanie-kaznachejstva/"}, "citation": ["Бюджетный кодекс РФ, статья 270.2 «Представления и предписания органов государственного (муниципального) финансового контроля» и статья 269.2 «Полномочия органов внутреннего государственного (муниципа", "Постановление Правительства РФ от 17.08.2020 № 1237 «Об утверждении федерального стандарта внутреннего государственного (муниципального) финансового контроля „Правила досудебного обжалования решений и", "Постановление Правительства РФ от 23.07.2020 № 1095 «Об утверждении федерального стандарта внутреннего государственного (муниципального) финансового контроля „Реализация результатов проверок, ревизий ", "Кодекс РФ об административных правонарушениях, статья 19.5, части 20 и 20.1 — ответственность за невыполнение предписания органа внутреннего государственного (муниципального) финансового контроля.", "Арбитражный процессуальный кодекс РФ, глава 24 (статьи 198–201) — рассмотрение дел об оспаривании ненормативных правовых актов, решений и действий государственных органов."]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Представление и предписание казначейства: сроки исполнения и как обжаловать", "description": "Чем представление отличается от предписания по ст. 270.2 БК: сроки исполнения, штраф по ч. 20 ст. 19.5 КоАП, досудебная жалоба по ПП № 1237 и суд по гл. 24 АПК.", "inLanguage": "ru-RU", "datePublished": "2026-07-03", "dateModified": "2026-07-07", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/predstavlenie-i-predpisanie-kaznachejstva/"}, "citation": ["Бюджетный кодекс РФ, статья 270.2 «Представления и предписания органов государственного (муниципального) финансового контроля» и статья 269.2 «Полномочия органов внутреннего государственного (муниципального) финансового контроля» (consultant.ru/document/cons_doc_LAW_19702/).", "Постановление Правительства РФ от 17.08.2020 № 1237 «Об утверждении федерального стандарта внутреннего государственного (муниципального) финансового контроля „Правила досудебного обжалования решений и действий (бездействия) органов внутреннего государственного (муниципального) финансового контроля и их должностных лиц“» (consultant.ru/document/cons_doc_LAW_360483/).", "Постановление Правительства РФ от 23.07.2020 № 1095 «Об утверждении федерального стандарта внутреннего государственного (муниципального) финансового контроля „Реализация результатов проверок, ревизий и обследований“» (в редакции от 15.10.2025).", "Кодекс РФ об административных правонарушениях, статья 19.5, части 20 и 20.1 — ответственность за невыполнение предписания органа внутреннего государственного (муниципального) финансового контроля.", "Арбитражный процессуальный кодекс РФ, глава 24 (статьи 198–201) — рассмотрение дел об оспаривании ненормативных правовых актов, решений и действий государственных органов."]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Представление и предписание казначейства", "item": "https://kaznaexpert.ru/baza-znaniy/predstavlenie-i-predpisanie-kaznachejstva/"}]}
@@ -85,8 +85,8 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Представление и предписание казначейства: исполнить или обжаловать — КазнаЭксперт">
-<meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-05T09:00:00+03:00">
+<meta property="article:published_time" content="2026-07-03T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-07-07T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -354,7 +354,7 @@
       <div class="author__body">
         <div class="author__name">Ярослав Михайлов</div>
         <div class="author__role">Основатель и главный эксперт КазнаЭксперт</div>
-        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. За 5 лет личной практики Ярослав сопроводил более 7000 контрактов на 90 млрд ₽ по 44-ФЗ, 223-ФЗ и ГОЗ. Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
+        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Работает с контрактами по 44-ФЗ, 223-ФЗ и ГОЗ; с 2021 года ведёт клиентов как ИП «КазнаЭксперт». Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
         <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
       </div>
     </div>
@@ -406,7 +406,7 @@
       <button class="submit" type="submit">Получить расчёт →</button>
       <div class="formmsg" id="formMsg" hidden></div>
       <div class="railform__trust">
-        <span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span>
+        <span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span>
         <span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span>
       </div>
       <div class="success" id="leadSuccess" role="status" aria-live="polite">
@@ -572,13 +572,14 @@
               <a href="mailto:manager@kaznaexpert.ru">manager@kaznaexpert.ru</a>
               <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
               <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+              <a href="/kontakty/">Все контакты</a>
             </nav>
 
             <nav class="v2-footer-col" aria-label="Мы в сети">
               <h3 class="v2-footer-h">Мы в сети</h3>
-              <a href="https://t.me/Kazna_Expert" target="_blank" rel="noopener">Telegram-канал</a>
+              <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram-канал</a>
               <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener">Дзен</a>
-              <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener">Клерк</a>
+              <a href="https://www.klerk.ru/user/2703999/" target="_blank" rel="noopener">Клерк</a>
               <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener">TenChat</a>
             </nav>
 

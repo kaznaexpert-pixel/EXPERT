@@ -6,7 +6,105 @@
   <atom:link href="https://kaznaexpert.ru/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Экспертные статьи о казначейском сопровождении госконтрактов: 44-ФЗ, 223-ФЗ, ГОЗ, лицевые счета, санкционирование, раздельный учёт.</description>
   <language>ru</language>
-  <lastBuildDate>Thu, 16 Jul 2026 17:19:40 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 22 Jul 2026 15:03:53 +0000</lastBuildDate>
+  <item>
+    <title>Казначейское сопровождение проектных и изыскательских работ</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-proektnyh-rabot/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-proektnyh-rabot/</guid>
+    <pubDate>Wed, 22 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Казначейское сопровождение контракта на проектирование и инженерные изыскания: лицевой счёт, оплата экспертизы, приёмка по ст. 110.2 44-ФЗ и коды платежей.</description>
+  </item>
+  <item>
+    <title>Нет лимитов бюджетных обязательств: что делать исполнителю</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/limity-byudzhetnyh-obyazatelstv-i-oplata-kontrakta/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/limity-byudzhetnyh-obyazatelstv-i-oplata-kontrakta/</guid>
+    <pubDate>Wed, 22 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Заказчик не платит по контракту, ссылаясь на отсутствие лимитов бюджетных обязательств: что такое ЛБО, законна ли задержка и как исполнителю получить оплату.</description>
+  </item>
+  <item>
+    <title>Оплата иностранному поставщику при казначейском сопровождении</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/oplata-inostrannomu-postavshchiku-pri-ks/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/oplata-inostrannomu-postavshchiku-pri-ks/</guid>
+    <pubDate>Wed, 22 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Как платить иностранному поставщику при казначейском сопровождении: перевод с лицевого счёта на свой банковский счёт, валютный контроль по 181-И, риски отказов.</description>
+  </item>
+  <item>
+    <title>АСТ ГОЗ: что это и как работает площадка в 2026</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/ast-goz-elektronnaya-ploschadka/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/ast-goz-elektronnaya-ploschadka/</guid>
+    <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+    <description>АСТ ГОЗ — площадка для закрытых закупок по ГОЗ: оператор, основание (распоряжение № 1447-р), требования к участникам и связь с сопровождением ГОЗ.</description>
+  </item>
+  <item>
+    <title>Казначейское сопровождение IT-контракта: платежи и приёмка</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-it-kontrakta/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-it-kontrakta/</guid>
+    <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Казначейское сопровождение IT-контракта: этапная приёмка ПО, оплата лицензий и хостинга с лицевого счёта, права на результат, НДС-льгота на ПО из реестра.</description>
+  </item>
+  <item>
+    <title>Казначейское сопровождение НИОКР: затраты, этапы, результат</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-niokr/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-niokr/</guid>
+    <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Казначейское сопровождение НИОКР: договор по главе 38 ГК, этапность, подтверждение материалов, труда и испытаний, риск недостижения результата, права на РИД.</description>
+  </item>
+  <item>
+    <title>Сертификат и ЭЦП казначейства: как получить в 2026</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/sertifikat-ecp-kaznachejstvo/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/sertifikat-ecp-kaznachejstvo/</guid>
+    <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Как получить ЭЦП казначейства в 2026: кому нужен сертификат УЦ ФК, документы, Портал заявителя, экспортируемый ключ, подключение к «Электронному бюджету», продление.</description>
+  </item>
+  <item>
+    <title>Возврат денег от поставщика на лицевой счёт: как оформить</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/vozvrat-deneg-ot-postavshchika-na-licevoy-schet/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/vozvrat-deneg-ot-postavshchika-na-licevoy-schet/</guid>
+    <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Как поставщик возвращает деньги на лицевой счёт при казначейском сопровождении: переплата, неотработанный аванс, возврат товара, код 2002 и использование средств.</description>
+  </item>
+  <item>
+    <title>Накладные расходы при казначейском сопровождении: распределение</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/nakladnye-raskhody-pri-ks/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/nakladnye-raskhody-pri-ks/</guid>
+    <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Накладные расходы при казначейском сопровождении: что к ним относится, база распределения между контрактами, учётная политика, справка-расчёт, код 0888 и проверки.</description>
+  </item>
+  <item>
+    <title>Несколько сопровождаемых контрактов: как разделить деньги и учёт</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/neskolko-soprovozhdaemyh-kontraktov/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/neskolko-soprovozhdaemyh-kontraktov/</guid>
+    <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Несколько контрактов под казначейским сопровождением: разделы лицевого счёта по ИГК, запрет «котла», отдельные Сведения, разнесение первички и кодов.</description>
+  </item>
+  <item>
+    <title>Расходы на УСН при казначейском сопровождении: учёт затрат</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/uchet-rashodov-na-usn-pri-ks/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/uchet-rashodov-na-usn-pri-ks/</guid>
+    <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Как упрощенец учитывает расходы по сопровождаемому контракту: закрытый перечень ст. 346.16 НК, момент признания, первичка для ФНС и казначейства, раздельный учёт.</description>
+  </item>
+  <item>
+    <title>Договор ГПХ при казначейском сопровождении: НДФЛ и взносы</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/dogovor-gph-pri-ks/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/dogovor-gph-pri-ks/</guid>
+    <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Выплата физлицу по договору ГПХ с лицевого счёта: НДФЛ (заказчик — налоговый агент), страховые взносы, коды направления 0200, 0100 008 и 0813, санкционирование.</description>
+  </item>
+  <item>
+    <title>Оплата аренды, ЖКУ и связи с лицевого счёта при КС</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/oplata-arendy-kommunalki-svyazi-s-licevogo-scheta/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/oplata-arendy-kommunalki-svyazi-s-licevogo-scheta/</guid>
+    <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Оплата аренды, коммунальных услуг и связи с целевого лицевого счёта: прямые и накладные коды 0200 и 0888, документы-основания и когда их не требуют.</description>
+  </item>
+  <item>
+    <title>Оплата самозанятому при казначейском сопровождении</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/oplata-samozanyatomu-pri-ks/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/oplata-samozanyatomu-pri-ks/</guid>
+    <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Оплата самозанятому с лицевого счёта при казначейском сопровождении: договор, чек из «Мой налог», код направления 0200, отсутствие НДФЛ и взносов, санкционирование.</description>
+  </item>
   <item>
     <title>Обеспечительный платёж по госконтракту при сопровождении</title>
     <link>https://kaznaexpert.ru/baza-znaniy/obespechitelnyy-platezh-po-goskontraktu/</link>
@@ -118,104 +216,6 @@
     <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-v-2026-godu/</guid>
     <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
     <description>Казначейское сопровождение в 2026 году по статье 5 Закона № 426-ФЗ: какие средства подпадают, пороги 100/10/3 млн, остатки и что изменилось.</description>
-  </item>
-  <item>
-    <title>Кто попадает под казначейское сопровождение в 2026</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/</guid>
-    <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Кто попадает под казначейское сопровождение в 2026: пороги 100 / 10 / 3 млн ₽, какие контракты, авансы, субсидии и ГОЗ по статье 5 Закона № 426-ФЗ.</description>
-  </item>
-  <item>
-    <title>Раздельный учёт по ГОЗ в 1С: настройка 2026</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/razdelnyy-uchet-goz-v-1s/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/razdelnyy-uchet-goz-v-1s/</guid>
-    <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Как настроить и вести раздельный учёт по ГОЗ в 1С:Бухгалтерии КОРП: функциональность контрактов госзаказа, разрез по ИГК, отдельные счета и отчёт по контракту.</description>
-  </item>
-  <item>
-    <title>Сводный реестр: код организации, проверка, включение</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/svodnyy-reestr/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/svodnyy-reestr/</guid>
-    <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Сводный реестр участников и неучастников бюджетного процесса: 8-значный код, проверка по ИНН на budget.gov.ru, включение НУБП через ТОФК по приказу № 163н.</description>
-  </item>
-  <item>
-    <title>Виды цен ГОЗ: ориентировочная и фиксированная</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/vidy-cen-goz/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/vidy-cen-goz/</guid>
-    <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Чем отличается ориентировочная цена ГОЗ от фиксированной и какие ещё виды цен есть (ст. 11 № 275-ФЗ): сравнение, когда применяют и кто инициирует перевод.</description>
-  </item>
-  <item>
-    <title>Санкционирование расходов при казначейском сопровождении</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/poryadok-sankcionirovaniya-rashodov/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/poryadok-sankcionirovaniya-rashodov/</guid>
-    <pubDate>Fri, 10 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Санкционирование расходов при казначейском сопровождении: как ТОФК проверяет операции, ст. 242.23 БК РФ, сведения об операциях, основания отказа, сроки, расширенное.</description>
-  </item>
-  <item>
-    <title>Электронный бюджет для исполнителя: вход и работа</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta/</guid>
-    <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
-    <description>ГИИС «Электронный бюджет» для исполнителя контракта под казначейским сопровождением: чем отличается от СУФД и ФЗС, как подключиться через ТОФК и войти по подписи.</description>
-  </item>
-  <item>
-    <title>Гарантийное удержание по контракту при казначейском сопровождении</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/garantiynoe-uderzhanie-po-kontraktu/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/garantiynoe-uderzhanie-po-kontraktu/</guid>
-    <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Гарантийное удержание части оплаты по контракту: чем отличается от обеспечения гарантийных обязательств, когда возвращается и как работает на лицевом счёте.</description>
-  </item>
-  <item>
-    <title>Кредит под госконтракт и залог прав требования при сопровождении</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/kredit-i-zalog-prav-po-goskontraktu/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/kredit-i-zalog-prav-po-goskontraktu/</guid>
-    <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Кредит под госконтракт и залог прав требования: что можно заложить, почему целевые средства на лицевом счёте заложить нельзя и ограничения по гособоронзаказу.</description>
-  </item>
-  <item>
-    <title>МЧД для казначейства: когда нужна и как оформить</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/mashinochitaemaya-doverennost-kaznachejstvo/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/mashinochitaemaya-doverennost-kaznachejstvo/</guid>
-    <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Машиночитаемая доверенность (МЧД) для казначейства: когда обязательна в «Электронном бюджете», формат 003, как оформить и применять при подписании.</description>
-  </item>
-  <item>
-    <title>Удержание и зачёт неустойки при казначейском сопровождении</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/uderzhanie-neustoyki-pri-kaznacheyskom-soprovozhdenii/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/uderzhanie-neustoyki-pri-kaznacheyskom-soprovozhdenii/</guid>
-    <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Как заказчик удерживает и зачитывает неустойку при казначейском сопровождении: из обеспечения или из оплаты, зачёт по ст. 410 ГК и куда уходит неустойка.</description>
-  </item>
-  <item>
-    <title>Арест средств на лицевом счёте казначейства: приставы и налоговая</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/arest-sredstv-na-licevom-schete-kaznachejstva/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/arest-sredstv-na-licevom-schete-kaznachejstva/</guid>
-    <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Могут ли приставы и налоговая списать деньги с лицевого счёта участника казначейского сопровождения: почему лицевой счёт не банковский, дебиторка, ГОЗ и банкротство.</description>
-  </item>
-  <item>
-    <title>Банкротство исполнителя госконтракта: счёт и целевые средства</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/bankrotstvo-ispolnitelya-goskontrakta-pri-ks/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/bankrotstvo-ispolnitelya-goskontrakta-pri-ks/</guid>
-    <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Что происходит при банкротстве исполнителя госконтракта под казначейским сопровождением: судьба лицевого счёта, целевых средств, контракта и что делать сторонам.</description>
-  </item>
-  <item>
-    <title>Казначейское сопровождение для бухгалтера: обязанности и сроки</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-dlya-buhgaltera/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-dlya-buhgaltera/</guid>
-    <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Что делает бухгалтер при казначейском сопровождении: раздельный учёт, коды расходования, сведения ф. 0501213, распоряжения и отчётность. Ошибки и штрафы 2026.</description>
-  </item>
-  <item>
-    <title>Нецелевое расходование целевых средств при КС: последствия</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/necelevoe-rashodovanie-celevyh-sredstv/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/necelevoe-rashodovanie-celevyh-sredstv/</guid>
-    <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Нецелевое расходование целевых средств при казначейском сопровождении: ст. 306.4 БК, отказ в санкционировании, возврат средств и ответственность по ст. 15.14 КоАП.</description>
   </item>
 </channel>
 </rss>

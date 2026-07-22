@@ -32,7 +32,7 @@
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Регионы", "item": "https://kaznaexpert.ru/regiony/"}, {"@type": "ListItem", "position": 3, "name": "Казначейское сопровождение в Чебоксарах"}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Вы работаете в Чебоксарах?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Ведём казначейское сопровождение для подрядчиков из Чебоксары и всего региона дистанционно — открываем и ведём счёт в УФК по Чувашской Республике через «Электронный бюджет»."}}, {"@type": "Question", "name": "Какой код у казначейства в Чебоксарах?", "acceptedAnswer": {"@type": "Answer", "text": "УФК по Чувашской Республике имеет код КОФК 1500. Адрес: 428018, г. Чебоксары, ул. Нижегородская, д. 2, корп. 1. Лицевой счёт открываем и ведём дистанционно."}}, {"@type": "Question", "name": "Где находится УФК по Чувашской Республике?", "acceptedAnswer": {"@type": "Answer", "text": "Адрес: 428018, г. Чебоксары, ул. Нижегородская, д. 2, корп. 1. Приезжать не нужно — счёт и документооборот ведём дистанционно через «Электронный бюджет»."}}, {"@type": "Question", "name": "Нужно ли приезжать в казначейство?", "acceptedAnswer": {"@type": "Answer", "text": "Нет. Весь документооборот идёт электронно через «Электронный бюджет». Работаем со всеми регионами РФ удалённо."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Вы работаете в Чебоксарах?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Ведём казначейское сопровождение для подрядчиков из Чебоксары и всего региона дистанционно — открываем и ведём счёт в УФК по Чувашской Республике через «Электронный бюджет», личное присутствие не требуется."}}, {"@type": "Question", "name": "Какой код у казначейства в Чебоксарах?", "acceptedAnswer": {"@type": "Answer", "text": "УФК по Чувашской Республике имеет код КОФК 1500 . Адрес: 428018, г. Чебоксары, ул. Нижегородская, д. 2, корп. 1. Лицевой счёт в этом ТОФК открываем и ведём дистанционно — полный справочник кодов в базе ТОФК ."}}, {"@type": "Question", "name": "Где находится УФК по Чувашской Республике?", "acceptedAnswer": {"@type": "Answer", "text": "Адрес: 428018, г. Чебоксары, ул. Нижегородская, д. 2, корп. 1. Приезжать туда не нужно — открытие лицевого счёта и весь документооборот в Чебоксарах ведём дистанционно через «Электронный бюджет»."}}, {"@type": "Question", "name": "Из чего складывается стоимость?", "acceptedAnswer": {"@type": "Answer", "text": "Цены фиксированные по всей России: открытие счёта — 29 000 ₽, ведение контракта — от 55 000 ₽, спасение — от 29 000 ₽. Финальную стоимость называем после анализа контракта — без скрытых доплат."}}, {"@type": "Question", "name": "Кто отвечает за замечания казначейства?", "acceptedAnswer": {"@type": "Answer", "text": "Мы. Замечания устраняем без доплат — это часть услуги. Наша цель — санкционирование с первой подачи."}}, {"@type": "Question", "name": "Контракт уже заблокирован — возьмётесь?", "acceptedAnswer": {"@type": "Answer", "text": "Да, это профильная задача. Диагностируем причину блокировки или возвратов, восстанавливаем раздельный учёт и документы, доводим контракт до исполнения."}}, {"@type": "Question", "name": "Можно ли пройти всё удалённо, без визита в УФК?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Открытие лицевого счёта, подача распоряжений и сведений идут через «Электронный бюджет» — личное присутствие не требуется ни на одном этапе."}}, {"@type": "Question", "name": "За сколько откроете счёт?", "acceptedAnswer": {"@type": "Answer", "text": "За два рабочих дня с момента получения документов при стандартных требованиях. Срок фиксируем в договоре."}}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -174,8 +174,8 @@
         <p class="v2-hero-lede"><strong>Сопровождаем расчёты по госконтрактам в Чебоксарах под ключ:</strong> лицевой счёт в УФК по Чувашской Республике за два рабочих дня, платежи и раздельный учёт без отказов казначейства, срочная помощь при блокировках. Приезжать никуда не нужно — всё через «Электронный бюджет».</p>
         <div class="v2-hero-trust">
           <div class="v2-trust-item"><div class="v2-trust-num">2<span class="v2-trust-suffix">&nbsp;рабочих&nbsp;дня</span></div><div class="v2-trust-label">до открытия счёта</div></div>
-          <div class="v2-trust-item"><div class="v2-trust-num">7 000<span class="v2-trust-suffix">+</span></div><div class="v2-trust-label">контрактов</div></div>
-          <div class="v2-trust-item"><div class="v2-trust-num">90<span class="v2-trust-suffix">&nbsp;млрд&nbsp;₽</span></div><div class="v2-trust-label">проведено</div></div>
+          <div class="v2-trust-item"><div class="v2-trust-num">2021</div><div class="v2-trust-label">год регистрации ИП</div></div>
+          <div class="v2-trust-item"><div class="v2-trust-num">100<span class="v2-trust-suffix">%</span></div><div class="v2-trust-label">дистанционно, вся РФ</div></div>
           <div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div>
         </div>
         <div class="v2-hero-expert">
@@ -195,7 +195,7 @@
           <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
           <button class="submit" type="submit">Получить расчёт →</button>
           <div class="formmsg" id="formMsg" hidden></div>
-          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
+          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
           <div class="success" id="leadSuccess" role="status" aria-live="polite">
             <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
             <h3>Заявка принята</h3><p>Эксперт перезвонит <b>в течение 15 минут</b> (9:00–21:00 МСК) и разберёт ваш контракт.</p>
@@ -306,7 +306,7 @@
         <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
         <button class="submit" type="submit">Получить расчёт →</button>
         <div class="formmsg" id="formMsgBottom" hidden></div>
-        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
+        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
         <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
           <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
           <h3>Заявка принята</h3><p>Эксперт перезвонит <b>в течение 15 минут</b> (9:00–21:00 МСК).</p>
@@ -380,13 +380,14 @@
               <a href="mailto:manager@kaznaexpert.ru">manager@kaznaexpert.ru</a>
               <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
               <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+              <a href="/kontakty/">Все контакты</a>
             </nav>
 
             <nav class="v2-footer-col" aria-label="Мы в сети">
               <h3 class="v2-footer-h">Мы в сети</h3>
-              <a href="https://t.me/Kazna_Expert" target="_blank" rel="noopener">Telegram-канал</a>
+              <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram-канал</a>
               <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener">Дзен</a>
-              <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener">Клерк</a>
+              <a href="https://www.klerk.ru/user/2703999/" target="_blank" rel="noopener">Клерк</a>
               <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener">TenChat</a>
             </nav>
 

@@ -72,14 +72,14 @@
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
-<meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-03T09:00:00+03:00">
+<meta property="og:image:alt" content="База знаний по казначейскому сопровождению">
+<meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-06-25T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Казначейское сопровождение ГОЗ в 2026 году: разбор по 275-ФЗ">
-<meta name="twitter:description" content="Кто обязан, порог 3 млн ₽, счёт, раздельный учёт, штрафы. Со ссылками на НПА.">
+<meta name="twitter:title" content="База знаний по казначейскому сопровождению">
+<meta name="twitter:description" content="База знаний КазнаЭксперт: экспертные статьи и инструкции по казначейскому сопровождению госконтрактов, ГОЗ, раздельному учёту, лицевым счетам и санкционированию.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <!-- Schema: Article -->
@@ -568,10 +568,12 @@ foreach (glob(__DIR__.'/*', GLOB_ONLYDIR) as $d) {
   $title=trim(html_entity_decode(strip_tags($m[1]),ENT_QUOTES,'UTF-8'));
   $cat=''; if (preg_match('/class="eyebrow">(.*?)<span/su',$h,$em)){ $e=trim(strip_tags($em[1])); $p=explode('·',$e); $cat=trim(end($p)); }
   $read=''; if (preg_match('/(\d+)\s*мин чтения/u',$h,$rm)) $read=$rm[1].' мин чтения';
-  $all[basename($d)]=['slug'=>basename($d),'title'=>$title,'cat'=>($cat?:'База знаний'),'read'=>$read,'mtime'=>filemtime($f)];
+  $mod=''; if (preg_match('/"dateModified":\s*"(\d{4}-\d{2}-\d{2})/',$h,$dm)) $mod=$dm[1];
+  $all[basename($d)]=['slug'=>basename($d),'title'=>$title,'cat'=>($cat?:'База знаний'),'read'=>$read,'mtime'=>filemtime($f),'mod'=>$mod];
 }
 $articles=[]; foreach($all as $slug=>$c){ if(!isset($TOOLS[$slug])) $articles[]=$c; }
-usort($articles, function($a,$b){ return $b['mtime'] <=> $a['mtime']; });
+// Свежесть — по dateModified из JSON-LD статьи: mtime у файлов одинаковый после деплоя
+usort($articles, function($a,$b){ return [$b['mod'],$b['mtime']] <=> [$a['mod'],$a['mtime']]; });
 
 // Рубрикация: канонический порядок; внутри рубрики — свежие сверху (порядок $articles сохраняется)
 $CAT_ORDER = ['Основы','Гособоронзаказ','Счета в казначействе','Санкционирование и контроль',
@@ -736,13 +738,14 @@ $tools_n=0; foreach($TOOLS as $sl=>$t){ if(isset($all[$sl])) $tools_n++; }
               <a href="mailto:manager@kaznaexpert.ru">manager@kaznaexpert.ru</a>
               <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
               <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+              <a href="/kontakty/">Все контакты</a>
             </nav>
 
             <nav class="v2-footer-col" aria-label="Мы в сети">
               <h3 class="v2-footer-h">Мы в сети</h3>
-              <a href="https://t.me/Kazna_Expert" target="_blank" rel="noopener">Telegram-канал</a>
+              <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram-канал</a>
               <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener">Дзен</a>
-              <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener">Клерк</a>
+              <a href="https://www.klerk.ru/user/2703999/" target="_blank" rel="noopener">Клерк</a>
               <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener">TenChat</a>
             </nav>
 

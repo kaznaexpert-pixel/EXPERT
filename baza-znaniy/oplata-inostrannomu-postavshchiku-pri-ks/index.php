@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Оплата иностранному поставщику при казначейском сопровождении: валютный контракт и риски санкционирования", "description": "Как платить иностранному поставщику при казначейском сопровождении: перевод с лицевого счёта на свой банковский счёт, валютный контроль по 181-И, риски отказов.", "inLanguage": "ru-RU", "datePublished": "2026-07-22", "dateModified": "2026-07-22", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/oplata-inostrannomu-postavshchiku-pri-ks/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Оплата иностранному поставщику при казначейском сопровождении: валютный контракт и риски санкционирования", "description": "Как платить иностранному поставщику при казначейском сопровождении: перевод с лицевого счёта на свой банковский счёт, валютный контроль по 181-И, риски отказов.", "inLanguage": "ru-RU", "datePublished": "2026-07-22", "dateModified": "2026-07-22", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/oplata-inostrannomu-postavshchiku-pri-ks/"}, "citation": ["Бюджетный кодекс РФ, ст. 242.23 (п. 3, пп. 3 и 4) — режим лицевого счёта; исключение «оплата обязательств участника казначейского сопровождения в соответствии с валютным законодательством РФ» (в ред. ФЗ от 13.07.2024 № 177-ФЗ).", "Федеральный закон от 10.12.2003 № 173-ФЗ «О валютном регулировании и валютном контроле», ст. 1 (п. 9 ч. 1), ст. 14 — понятие валютной операции, расчёты резидентов через уполномоченные банки.", "Инструкция Банка России от 16.08.2017 № 181-И — учёт внешнеторговых контрактов (УНК), пороги 3 млн ₽ (импорт) и 10 млн ₽ (экспорт), формы учёта и подтверждающие документы.", "Постановление Правительства РФ от 24.11.2021 № 2024 (ред. от 15.10.2025) — Правила казначейского сопровождения.", "Приказ Минфина России от 17.12.2021 № 214н (ред. от 27.06.2025) — порядок санкционирования операций со средствами участников казначейского сопровождения; приложение № 3 — коды направления расходования.", "Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе» — режим отдельного счёта (для дизамбигуации контуров)."]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Оплата иностранному поставщику", "item": "https://kaznaexpert.ru/baza-znaniy/oplata-inostrannomu-postavshchiku-pri-ks/"}]}
@@ -85,8 +85,8 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Оплата иностранному поставщику при казначейском сопровождении — КазнаЭксперт">
-<meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-05T09:00:00+03:00">
+<meta property="article:published_time" content="2026-07-22T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-07-22T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -333,7 +333,7 @@
       <div class="author__body">
         <div class="author__name">Ярослав Михайлов</div>
         <div class="author__role">Основатель и главный эксперт КазнаЭксперт</div>
-        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Команда под руководством Ярослава сопроводила более 7000 контрактов на 90 млрд ₽ по 44-ФЗ, 223-ФЗ и ГОЗ. Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
+        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Команда под руководством Ярослава работает с контрактами по 44-ФЗ, 223-ФЗ и ГОЗ; ИП «КазнаЭксперт» зарегистрировано в 2021 году. Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
         <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
       </div>
     </div>
@@ -364,7 +364,7 @@
       <button class="submit" type="submit">Получить расчёт →</button>
       <div class="formmsg" id="formMsg" hidden></div>
       <div class="railform__trust">
-        <span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span>
+        <span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span>
         <span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span>
       </div>
       <div class="success" id="leadSuccess" role="status" aria-live="polite">
@@ -526,13 +526,14 @@
               <a href="mailto:manager@kaznaexpert.ru">manager@kaznaexpert.ru</a>
               <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
               <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+              <a href="/kontakty/">Все контакты</a>
             </nav>
 
             <nav class="v2-footer-col" aria-label="Мы в сети">
               <h3 class="v2-footer-h">Мы в сети</h3>
-              <a href="https://t.me/Kazna_Expert" target="_blank" rel="noopener">Telegram-канал</a>
+              <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram-канал</a>
               <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener">Дзен</a>
-              <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener">Клерк</a>
+              <a href="https://www.klerk.ru/user/2703999/" target="_blank" rel="noopener">Клерк</a>
               <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener">TenChat</a>
             </nav>
 

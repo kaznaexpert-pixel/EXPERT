@@ -31,14 +31,7 @@
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Открытие казначейского счёта"}]}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-{"@type":"Question","name":"За сколько откроете казначейский счёт?","acceptedAnswer":{"@type":"Answer","text":"За два рабочих дня с момента получения документов при стандартных требованиях. Срок открытия фиксируем в договоре."}},
-{"@type":"Question","name":"Что потребуется от меня?","acceptedAnswer":{"@type":"Answer","text":"Госконтракт, ИНН и ОГРН организации, СНИЛС руководителя и контакт для связи. Пересылка занимает 5 минут — остальное делаем мы."}},
-{"@type":"Question","name":"Что если казначейство вернёт документы?","acceptedAnswer":{"@type":"Answer","text":"Устраняем замечания казначейства без доплат — это входит в услугу. Цель — открыть счёт с первой подачи."}},
-{"@type":"Question","name":"Сколько стоит открытие счёта?","acceptedAnswer":{"@type":"Answer","text":"29 000 ₽ разово. Это фиксированная цена под ключ, прописанная в договоре, без «от» и скрытых доплат."}},
-{"@type":"Question","name":"Работаете по всей России?","acceptedAnswer":{"@type":"Answer","text":"Да. Работаем удалённо со всеми регионами РФ — весь документооборот ведётся электронно через «Электронный бюджет»."}},
-{"@type":"Question","name":"Какие гарантии?","acceptedAnswer":{"@type":"Answer","text":"Гарантия результата прописана в договоре. Сопровождаем до открытия счёта и первой операции."}}
-]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "За сколько откроете казначейский счёт?", "acceptedAnswer": {"@type": "Answer", "text": "За два рабочих дня с момента получения документов — при стандартных требованиях. Срок открытия фиксируем в договоре."}}, {"@type": "Question", "name": "Что потребуется от меня?", "acceptedAnswer": {"@type": "Answer", "text": "Госконтракт, ИНН и ОГРН организации, СНИЛС руководителя и контакт для связи. Пересылка занимает 5 минут — всё остальное делаем мы."}}, {"@type": "Question", "name": "Что если казначейство вернёт документы?", "acceptedAnswer": {"@type": "Answer", "text": "Устраняем замечания казначейства без доплат — это входит в услугу. Наша цель — открыть счёт с первой подачи."}}, {"@type": "Question", "name": "Сколько стоит открытие счёта?", "acceptedAnswer": {"@type": "Answer", "text": "29 000 ₽ разово. Это фиксированная цена под ключ, прописанная в договоре, без «от» и скрытых доплат."}}, {"@type": "Question", "name": "Работаете по всей России?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Работаем удалённо со всеми регионами РФ — весь документооборот ведётся электронно через «Электронный бюджет»."}}, {"@type": "Question", "name": "Нужна ли электронная подпись?", "acceptedAnswer": {"@type": "Answer", "text": "Да, для работы в «Электронном бюджете» нужна квалифицированная ЭП. Поможем оформить и настроить доступ."}}, {"@type": "Question", "name": "Какие гарантии?", "acceptedAnswer": {"@type": "Answer", "text": "Гарантия результата прописана в договоре. Сопровождаем до открытия счёта и первой операции."}}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,14 +74,14 @@
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
-<meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-03T09:00:00+03:00">
+<meta property="og:image:alt" content="Открытие казначейского счёта за 2 дня под ключ">
+<meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-07-14T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Казначейское сопровождение ГОЗ в 2026 году: разбор по 275-ФЗ">
-<meta name="twitter:description" content="Кто обязан, порог 3 млн ₽, счёт, раздельный учёт, штрафы. Со ссылками на НПА.">
+<meta name="twitter:title" content="Открытие казначейского счёта за 2 дня под ключ">
+<meta name="twitter:description" content="Откроем казначейский счёт в УФК за два рабочих дня под ключ: документы, сводный реестр, настройка «Электронного бюджета». Фикс 29 000 ₽, гарантия в договоре.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <!-- Schema: Article -->
@@ -162,8 +155,8 @@
         <p class="v2-hero-lede"><strong>Берём всю работу с УФК на себя:</strong> анализ контракта, пакет документов, включение в сводный реестр, открытие счёта и настройку «Электронного бюджета». Без возвратов и срыва сроков. По всей России.</p>
         <div class="v2-hero-trust">
           <div class="v2-trust-item"><div class="v2-trust-num">2<span class="v2-trust-suffix">&nbsp;рабочих&nbsp;дня</span></div><div class="v2-trust-label">до открытия счёта</div></div>
-          <div class="v2-trust-item"><div class="v2-trust-num">7 000<span class="v2-trust-suffix">+</span></div><div class="v2-trust-label">контрактов</div></div>
-          <div class="v2-trust-item"><div class="v2-trust-num">90<span class="v2-trust-suffix">&nbsp;млрд&nbsp;₽</span></div><div class="v2-trust-label">проведено</div></div>
+          <div class="v2-trust-item"><div class="v2-trust-num">2021</div><div class="v2-trust-label">год регистрации ИП</div></div>
+          <div class="v2-trust-item"><div class="v2-trust-num">100<span class="v2-trust-suffix">%</span></div><div class="v2-trust-label">дистанционно, вся РФ</div></div>
           <div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div>
         </div>
         <div class="v2-hero-expert">
@@ -184,7 +177,7 @@
           <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
           <button class="submit" type="submit">Получить расчёт →</button>
           <div class="formmsg" id="formMsg" hidden></div>
-          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
+          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
           <div class="success" id="leadSuccess" role="status" aria-live="polite">
             <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
             <h3>Заявка принята</h3>
@@ -376,7 +369,7 @@
         <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
         <button class="submit" type="submit">Получить расчёт →</button>
         <div class="formmsg" id="formMsgBottom" hidden></div>
-        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
+        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
         <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
           <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
           <h3>Заявка принята</h3>
@@ -469,13 +462,14 @@
               <a href="mailto:manager@kaznaexpert.ru">manager@kaznaexpert.ru</a>
               <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
               <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+              <a href="/kontakty/">Все контакты</a>
             </nav>
 
             <nav class="v2-footer-col" aria-label="Мы в сети">
               <h3 class="v2-footer-h">Мы в сети</h3>
-              <a href="https://t.me/Kazna_Expert" target="_blank" rel="noopener">Telegram-канал</a>
+              <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram-канал</a>
               <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener">Дзен</a>
-              <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener">Клерк</a>
+              <a href="https://www.klerk.ru/user/2703999/" target="_blank" rel="noopener">Клерк</a>
               <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener">TenChat</a>
             </nav>
 

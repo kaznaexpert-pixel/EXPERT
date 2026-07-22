@@ -32,16 +32,7 @@
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Учётная политика по раздельному учёту ГОЗ"}]}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-{"@type":"Question","name":"Что такое учётная политика по раздельному учёту ГОЗ?","acceptedAnswer":{"@type":"Answer","text":"Это внутренний документ (приказ), где организация закрепляет методику обособленного учёта доходов и затрат по каждому контракту ГОЗ: аналитику по контрактам, состав прямых затрат и базу распределения косвенных расходов."}},
-{"@type":"Question","name":"Обязательна ли учётная политика для раздельного учёта?","acceptedAnswer":{"@type":"Answer","text":"Да. Раздельный учёт по каждому контракту обязателен по статье 8 закона № 275-ФЗ, а методика этого учёта закрепляется в учётной политике по статье 8 закона № 402-ФЗ."}},
-{"@type":"Question","name":"Чем регулируется раздельный учёт по ГОЗ?","acceptedAnswer":{"@type":"Answer","text":"Без казначейского сопровождения — Правилами по ПП РФ от 19.01.1998 № 47. При казначейском сопровождении — порядком по приказу Минфина России от 10.12.2021 № 210н."}},
-{"@type":"Question","name":"Когда применять приказ № 210н, а когда ПП № 47?","acceptedAnswer":{"@type":"Answer","text":"Приказ № 210н — для контрактов под казначейским сопровождением. ПП № 47 — для контрактов ГОЗ без казначейского сопровождения. Сначала определите режим контракта."}},
-{"@type":"Question","name":"Что закрепить в учётной политике?","acceptedAnswer":{"@type":"Answer","text":"Рабочий план счетов с аналитикой по контрактам, состав прямых затрат, перечень косвенных расходов и базу их распределения, первичные документы и регистры, порядок формирования результата по контракту."}},
-{"@type":"Question","name":"Можно ли взять образец учётной политики из интернета?","acceptedAnswer":{"@type":"Answer","text":"Образец полезен как каркас структуры, но методику распределения затрат нужно адаптировать под реальные процессы организации. Иначе документ не выдержит проверки на применимость."}},
-{"@type":"Question","name":"Как распределять косвенные расходы?","acceptedAnswer":{"@type":"Answer","text":"По экономически обоснованной базе — например, пропорционально зарплате основных рабочих или прямым затратам. Базу закрепляют в учётной политике и применяют последовательно ко всем контрактам."}},
-{"@type":"Question","name":"Кто утверждает учётную политику?","acceptedAnswer":{"@type":"Answer","text":"Руководитель организации — приказом. Учётная политика вводится в действие до начала исполнения контракта и актуализируется при изменениях."}}
-]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что такое учётная политика по раздельному учёту ГОЗ?", "acceptedAnswer": {"@type": "Answer", "text": "Это внутренний документ (приказ), где организация закрепляет методику обособленного учёта доходов и затрат по каждому контракту ГОЗ: аналитику по контрактам, состав прямых затрат и базу распределения косвенных расходов."}}, {"@type": "Question", "name": "Обязательна ли учётная политика для раздельного учёта?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Раздельный учёт по каждому контракту обязателен по статье 8 закона № 275-ФЗ, а методика этого учёта закрепляется в учётной политике по статье 8 закона № 402-ФЗ."}}, {"@type": "Question", "name": "Чем регулируется раздельный учёт по ГОЗ?", "acceptedAnswer": {"@type": "Answer", "text": "Без казначейского сопровождения — Правилами по ПП РФ от 19.01.1998 № 47. При казначейском сопровождении — порядком по приказу Минфина России от 10.12.2021 № 210н."}}, {"@type": "Question", "name": "Когда применять приказ № 210н, а когда ПП № 47?", "acceptedAnswer": {"@type": "Answer", "text": "Приказ № 210н — для контрактов под казначейским сопровождением. ПП № 47 — для контрактов ГОЗ без казначейского сопровождения. Сначала определите режим контракта."}}, {"@type": "Question", "name": "Что закрепить в учётной политике?", "acceptedAnswer": {"@type": "Answer", "text": "Рабочий план счетов с аналитикой по контрактам (ИГК), состав прямых затрат, перечень косвенных расходов и базу их распределения, первичные документы и регистры, порядок формирования результата по контракту."}}, {"@type": "Question", "name": "Можно ли взять образец учётной политики из интернета?", "acceptedAnswer": {"@type": "Answer", "text": "Образец полезен как каркас структуры, но методику распределения затрат нужно адаптировать под реальные процессы организации. Иначе документ не выдержит проверки на применимость."}}, {"@type": "Question", "name": "Как распределять косвенные расходы?", "acceptedAnswer": {"@type": "Answer", "text": "По экономически обоснованной базе — например, пропорционально зарплате основных рабочих или прямым затратам. Базу закрепляют в учётной политике и применяют последовательно ко всем контрактам."}}, {"@type": "Question", "name": "Кто утверждает учётную политику?", "acceptedAnswer": {"@type": "Answer", "text": "Руководитель организации — приказом. Учётная политика вводится в действие до начала исполнения контракта и актуализируется при изменениях."}}, {"@type": "Question", "name": "Кто поможет с учётной политикой и раздельным учётом ГОЗ?", "acceptedAnswer": {"@type": "Answer", "text": "Разработку учётной политики и постановку раздельного учёта можно передать эксперту: настроим аналитику по контрактам и методику распределения под ваши процессы. Оставьте заявку — разберём вашу ситуацию."}}]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"HowTo","name":"Как составить учётную политику для раздельного учёта ГОЗ","inLanguage":"ru-RU","step":[
@@ -101,8 +92,8 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Учётная политика по раздельному учёту ГОЗ: что закрепить и структура — КазнаЭксперт">
-<meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-05T09:00:00+03:00">
+<meta property="article:published_time" content="2026-06-09T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-07-02T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -374,7 +365,7 @@
       <div class="author__body">
         <div class="author__name">Ярослав Михайлов</div>
         <div class="author__role">Основатель и главный эксперт КазнаЭксперт</div>
-        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. За 5 лет личной практики Ярослав сопроводил более 7000 контрактов на 90 млрд ₽ по 44-ФЗ, 223-ФЗ и ГОЗ. Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
+        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Работает с контрактами по 44-ФЗ, 223-ФЗ и ГОЗ; с 2021 года ведёт клиентов как ИП «КазнаЭксперт». Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
         <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
       </div>
     </div>
@@ -424,7 +415,7 @@
       <button class="submit" type="submit">Получить расчёт →</button>
       <div class="formmsg" id="formMsg" hidden></div>
       <div class="railform__trust">
-        <span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span>
+        <span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span>
         <span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span>
       </div>
       <div class="success" id="leadSuccess" role="status" aria-live="polite">
@@ -704,13 +695,14 @@
               <a href="mailto:manager@kaznaexpert.ru">manager@kaznaexpert.ru</a>
               <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
               <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+              <a href="/kontakty/">Все контакты</a>
             </nav>
 
             <nav class="v2-footer-col" aria-label="Мы в сети">
               <h3 class="v2-footer-h">Мы в сети</h3>
-              <a href="https://t.me/Kazna_Expert" target="_blank" rel="noopener">Telegram-канал</a>
+              <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram-канал</a>
               <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener">Дзен</a>
-              <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener">Клерк</a>
+              <a href="https://www.klerk.ru/user/2703999/" target="_blank" rel="noopener">Клерк</a>
               <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener">TenChat</a>
             </nav>
 

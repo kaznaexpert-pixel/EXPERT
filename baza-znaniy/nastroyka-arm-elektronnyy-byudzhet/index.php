@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"giis"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Настройка рабочего места (АРМ) для ГИИС «Электронный бюджет»: пошагово", "description": "Настройка рабочего места для ГИИС «Электронный бюджет»: КриптоПро CSP, плагин, Континент TLS, сертификаты, браузер. Требования к АРМ и частые ошибки входа.", "inLanguage": "ru-RU", "datePublished": "2026-06-22", "dateModified": "2026-06-22", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/nastroyka-arm-elektronnyy-byudzhet/"}, "citation": ["Федеральное казначейство (roskazna.gov.ru), разделы территориальных органов о ГИИС «Электронный бюджет» — официальные инструкции по установке и настройке рабочего места: состав ПО, КриптоПро CSP, «Кон", "ГИИС «Электронный бюджет» (budget.gov.ru) — единый портал бюджетной системы; вход по квалифицированному сертификату, защищённое соединение по ГОСТ. budget.gov.ru.", "Федеральный закон от 06.04.2011 № 63-ФЗ «Об электронной подписи» — усиленная квалифицированная электронная подпись, требования к средствам ЭП и сертификатам. consultant.ru, pravo.gov.ru."]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Настройка рабочего места (АРМ) для ГИИС «Электронный бюджет»: пошагово", "description": "Настройка рабочего места для ГИИС «Электронный бюджет»: КриптоПро CSP, плагин, Континент TLS, сертификаты, браузер. Требования к АРМ и частые ошибки входа.", "inLanguage": "ru-RU", "datePublished": "2026-06-22", "dateModified": "2026-06-22", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/nastroyka-arm-elektronnyy-byudzhet/"}, "citation": ["Федеральное казначейство (roskazna.gov.ru), разделы территориальных органов о ГИИС «Электронный бюджет» — официальные инструкции по установке и настройке рабочего места: состав ПО, КриптоПро CSP, «Континент TLS Клиент», плагин, сертификаты, сетевой доступ к budget.gov.ru. roskazna.gov.ru.", "ГИИС «Электронный бюджет» (budget.gov.ru) — единый портал бюджетной системы; вход по квалифицированному сертификату, защищённое соединение по ГОСТ. budget.gov.ru.", "Федеральный закон от 06.04.2011 № 63-ФЗ «Об электронной подписи» — усиленная квалифицированная электронная подпись, требования к средствам ЭП и сертификатам. consultant.ru, pravo.gov.ru."]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Настройка рабочего места для «Электронного бюджета»", "item": "https://kaznaexpert.ru/baza-znaniy/nastroyka-arm-elektronnyy-byudzhet/"}]}
@@ -85,8 +85,8 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Настройка рабочего места (АРМ) для ГИИС «Электронный бюджет» — КазнаЭксперт">
-<meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-05T09:00:00+03:00">
+<meta property="article:published_time" content="2026-06-22T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-06-22T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -384,7 +384,7 @@
       <div class="author__body">
         <div class="author__name">Ярослав Михайлов</div>
         <div class="author__role">Основатель и главный эксперт КазнаЭксперт</div>
-        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. За 5 лет личной практики Ярослав сопроводил более 7000 контрактов на 90 млрд ₽ по 44-ФЗ, 223-ФЗ и ГОЗ. Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
+        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Работает с контрактами по 44-ФЗ, 223-ФЗ и ГОЗ; с 2021 года ведёт клиентов как ИП «КазнаЭксперт». Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
         <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
       </div>
     </div>
@@ -434,7 +434,7 @@
       <button class="submit" type="submit">Получить расчёт →</button>
       <div class="formmsg" id="formMsg" hidden></div>
       <div class="railform__trust">
-        <span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span>
+        <span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span>
         <span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span>
       </div>
       <div class="success" id="leadSuccess" role="status" aria-live="polite">
@@ -599,13 +599,14 @@
               <a href="mailto:manager@kaznaexpert.ru">manager@kaznaexpert.ru</a>
               <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
               <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+              <a href="/kontakty/">Все контакты</a>
             </nav>
 
             <nav class="v2-footer-col" aria-label="Мы в сети">
               <h3 class="v2-footer-h">Мы в сети</h3>
-              <a href="https://t.me/Kazna_Expert" target="_blank" rel="noopener">Telegram-канал</a>
+              <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram-канал</a>
               <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener">Дзен</a>
-              <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener">Клерк</a>
+              <a href="https://www.klerk.ru/user/2703999/" target="_blank" rel="noopener">Клерк</a>
               <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener">TenChat</a>
             </nav>
 

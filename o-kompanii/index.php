@@ -183,7 +183,7 @@
 
   <div class="ok-stats">
     <div class="ok-stat"><b>с&nbsp;2009</b><span>опыт в сфере казначейства</span></div>
-    <div class="ok-stat"><b>7000+</b><span>сопровождённых контрактов</span></div>
+    <div class="ok-stat"><b>2021</b><span>год регистрации ИП</span></div>
     <div class="ok-stat"><b>Вся&nbsp;РФ</b><span>работаем дистанционно</span></div>
     <div class="ok-stat"><b>ИП</b><span>проверка в открытых реестрах</span></div>
   </div>
@@ -293,13 +293,14 @@
               <a href="mailto:manager@kaznaexpert.ru">manager@kaznaexpert.ru</a>
               <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
               <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+              <a href="/kontakty/">Все контакты</a>
             </nav>
 
             <nav class="v2-footer-col" aria-label="Мы в сети">
               <h3 class="v2-footer-h">Мы в сети</h3>
-              <a href="https://t.me/Kazna_Expert" target="_blank" rel="noopener">Telegram-канал</a>
+              <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram-канал</a>
               <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener">Дзен</a>
-              <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener">Клерк</a>
+              <a href="https://www.klerk.ru/user/2703999/" target="_blank" rel="noopener">Клерк</a>
               <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener">TenChat</a>
             </nav>
 

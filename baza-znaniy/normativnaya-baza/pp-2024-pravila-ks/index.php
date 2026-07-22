@@ -32,7 +32,7 @@
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Нормативная база", "item": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/"}, {"@type": "ListItem", "position": 4, "name": "ПП № 2024 (Правила казначейского сопровождения)"}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Какое постановление сейчас регулирует казначейское сопровождение?", "acceptedAnswer": {"@type": "Answer", "text": "Действующие Правила казначейского сопровождения — Постановление Правительства РФ № 2024 от 24.11.2021 в актуальной редакции."}}, {"@type": "Question", "name": "Правила казначейского сопровождения и расширенного сопровождения — это разные документы?", "acceptedAnswer": {"@type": "Answer", "text": "Они утверждены одним постановлением № 2024, но это два отдельных раздела Правил с разными требованиями."}}, {"@type": "Question", "name": "Как часто меняются Правила?", "acceptedAnswer": {"@type": "Answer", "text": "Регулярно (последние изменения — 2024–2025 гг.), поэтому ориентируйтесь на действующую редакцию."}}, {"@type": "Question", "name": "Как Правила связаны с приказом 214н?", "acceptedAnswer": {"@type": "Answer", "text": "Правила задают порядок операций, а приказ 214н детализирует, как казначейство санкционирует каждый платёж."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Какие Правила казначейского сопровождения действуют в 2026 году?", "acceptedAnswer": {"@type": "Answer", "text": "Правила, утверждённые постановлением Правительства РФ от 24.11.2021 № 2024, в редакции от 15.10.2025. Отдельные «правила на 2026 год» не принимались — меняются только пороги (426-ФЗ) и особенности года (ПП № 2201)."}}, {"@type": "Question", "name": "2024 в названии — это год или номер постановления?", "acceptedAnswer": {"@type": "Answer", "text": "Номер. Постановление № 2024 принято 24 ноября 2021 года; совпадение с календарным 2024 годом — случайность, из-за которой его часто ищут как «правила 2024»."}}, {"@type": "Question", "name": "Какое постановление сейчас регулирует казначейское сопровождение?", "acceptedAnswer": {"@type": "Answer", "text": "Действующие Правила казначейского сопровождения — Постановление Правительства РФ № 2024 от 24.11.2021 в актуальной редакции."}}, {"@type": "Question", "name": "Правила казначейского сопровождения и расширенного сопровождения — это разные документы?", "acceptedAnswer": {"@type": "Answer", "text": "Они утверждены одним постановлением № 2024, но это два отдельных раздела Правил с разными требованиями."}}, {"@type": "Question", "name": "Как часто меняются Правила?", "acceptedAnswer": {"@type": "Answer", "text": "Регулярно (последние изменения — 2024–2025 гг.), поэтому ориентируйтесь на действующую редакцию."}}, {"@type": "Question", "name": "Как Правила связаны с приказом 214н?", "acceptedAnswer": {"@type": "Answer", "text": "Правила задают порядок операций, а приказ 214н детализирует, как казначейство санкционирует каждый платёж."}}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -75,14 +75,14 @@
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
-<meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-03T09:00:00+03:00">
+<meta property="og:image:alt" content="Постановление № 2024 — Правила казначейского сопровождения: как">
+<meta property="article:published_time" content="2026-06-06T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-07-21T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Казначейское сопровождение ГОЗ в 2026 году: разбор по 275-ФЗ">
-<meta name="twitter:description" content="Кто обязан, порог 3 млн ₽, счёт, раздельный учёт, штрафы. Со ссылками на НПА.">
+<meta name="twitter:title" content="Постановление № 2024 — Правила казначейского сопровождения: как">
+<meta name="twitter:description" content="Действующие Правила казначейского сопровождения: порядок проведения операций, перечисления, документы. Заменило прежние ежегодные правила.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
@@ -262,7 +262,7 @@
       <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
       <button class="submit" type="submit">Получить разбор →</button>
       <div class="formmsg" id="formMsg" hidden></div>
-      <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span><span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span></div>
+      <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span></div>
       <div class="success" id="leadSuccess" role="status" aria-live="polite"><div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div><h3>Заявка принята</h3><p>Эксперт перезвонит <b>в течение 1 часа</b> (9:00–21:00 МСК).</p></div>
     </form>
   <!-- rail-svc -->
@@ -314,13 +314,14 @@
               <a href="mailto:manager@kaznaexpert.ru">manager@kaznaexpert.ru</a>
               <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
               <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+              <a href="/kontakty/">Все контакты</a>
             </nav>
 
             <nav class="v2-footer-col" aria-label="Мы в сети">
               <h3 class="v2-footer-h">Мы в сети</h3>
-              <a href="https://t.me/Kazna_Expert" target="_blank" rel="noopener">Telegram-канал</a>
+              <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram-канал</a>
               <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener">Дзен</a>
-              <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener">Клерк</a>
+              <a href="https://www.klerk.ru/user/2703999/" target="_blank" rel="noopener">Клерк</a>
               <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener">TenChat</a>
             </nav>
 

@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"author", cluster:"komanda"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "ProfilePage", "mainEntity": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Основатель · главный эксперт", "description": "Ярослав Михайлов — основатель КазнаЭксперт, эксперт по казначейскому сопровождению. Окончил СПбГУ, в Федеральном казначействе с 2009 по 2019 год. Ведёт сложные кейсы, ГОЗ и спасение контрактов.", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/mihailov-768.jpg", "sameAs": ["https://t.me/Kaznaexpert", "https://dzen.ru/kazna_expert", "https://tenchat.ru/Kazna-gov", "https://www.klerk.ru/user/2692943/", "https://www.rusprofile.ru/ip/321784700367672"], "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "knowsAbout": ["Спасение проблемных контрактов", "Расширенное казначейское сопровождение", "ГОЗ и нестандартные кейсы", "Методология работы с УФК", "Сложные эскалации и спорные платежи", "Контроль качества по проектам"], "alumniOf": {"@type": "CollegeOrUniversity", "name": "Санкт-Петербургский государственный университет"}, "founder": {"@type": "Organization", "name": "КазнаЭксперт", "@id": "https://kaznaexpert.ru/#organization"}, "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}}
+{"@context": "https://schema.org", "@type": "ProfilePage", "mainEntity": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Основатель · главный эксперт", "description": "Ярослав Михайлов — основатель КазнаЭксперт, эксперт по казначейскому сопровождению. Окончил СПбГУ, в Федеральном казначействе с 2009 по 2019 год. Ведёт сложные кейсы, ГОЗ и спасение контрактов.", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/mihailov-768.jpg", "sameAs": ["https://t.me/Kaznaexpert", "https://dzen.ru/kazna_expert", "https://www.klerk.ru/user/2703999/", "https://www.rusprofile.ru/ip/321784700367672"], "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "knowsAbout": ["Спасение проблемных контрактов", "Расширенное казначейское сопровождение", "ГОЗ и нестандартные кейсы", "Методология работы с УФК", "Сложные эскалации и спорные платежи", "Контроль качества по проектам"], "alumniOf": {"@type": "CollegeOrUniversity", "name": "Санкт-Петербургский государственный университет"}, "founder": {"@type": "Organization", "name": "КазнаЭксперт", "@id": "https://kaznaexpert.ru/#organization"}, "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Ярослав Михайлов"}]}
@@ -174,7 +174,7 @@
         <h1>Ярослав Михайлов</h1>
         <div class="author-hero__sub">Основатель · главный эксперт</div>
         <p class="v2-hero-lede" style="margin-top:14px">Основатель КазнаЭксперт. Знает казначейское сопровождение с двух сторон — изнутри Федерального казначейства и со стороны бизнеса. Лично ведёт сложные кейсы и эскалации.</p>
-        <div class="v2-hero-trust" style="margin-top:28px"><div class="v2-trust-item"><div class="v2-trust-num">15+<span class="v2-trust-suffix">&nbsp;лет</span></div><div class="v2-trust-label">в Казначействе</div></div><div class="v2-trust-item"><div class="v2-trust-num">7000+</div><div class="v2-trust-label">контрактов</div></div><div class="v2-trust-item"><div class="v2-trust-num">90<span class="v2-trust-suffix">&nbsp;млрд ₽</span></div><div class="v2-trust-label">проведено</div></div></div>
+        <div class="v2-hero-trust" style="margin-top:28px"><div class="v2-trust-item"><div class="v2-trust-num">15+<span class="v2-trust-suffix">&nbsp;лет</span></div><div class="v2-trust-label">в Казначействе</div></div><div class="v2-trust-item"><div class="v2-trust-num">2021</div><div class="v2-trust-label">год регистрации ИП</div></div><div class="v2-trust-item"><div class="v2-trust-num">100<span class="v2-trust-suffix">%</span></div><div class="v2-trust-label">дистанционно, вся РФ</div></div></div>
       </div>
       <aside class="v2-hero-action">
         <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
@@ -187,7 +187,7 @@
           <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
           <button class="submit" type="submit">Получить расчёт →</button>
           <div class="formmsg" id="formMsg" hidden></div>
-          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
+          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
           <div class="success" id="leadSuccess" role="status" aria-live="polite">
             <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
             <h3>Заявка принята</h3><p>Перезвоним <b>в течение 15 минут</b> (9:00–21:00 МСК).</p>
@@ -209,7 +209,7 @@
       <p style="display:flex;flex-wrap:wrap;gap:12px">
         <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener" style="font-size:14px;color:var(--ink);background:var(--bg-alt);border:1px solid var(--hair);border-radius:8px;padding:9px 15px">Telegram</a>
         <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener" style="font-size:14px;color:var(--ink);background:var(--bg-alt);border:1px solid var(--hair);border-radius:8px;padding:9px 15px">Дзен — статьи</a>
-        <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener" style="font-size:14px;color:var(--ink);background:var(--bg-alt);border:1px solid var(--hair);border-radius:8px;padding:9px 15px">Клерк — публикации</a>
+        <a href="https://www.klerk.ru/user/2703999/" target="_blank" rel="noopener" style="font-size:14px;color:var(--ink);background:var(--bg-alt);border:1px solid var(--hair);border-radius:8px;padding:9px 15px">Клерк — публикации</a>
         <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener" style="font-size:14px;color:var(--ink);background:var(--bg-alt);border:1px solid var(--hair);border-radius:8px;padding:9px 15px">TenChat</a>
         <a href="https://www.rusprofile.ru/ip/321784700367672" target="_blank" rel="noopener nofollow" style="font-size:14px;color:var(--ink);background:var(--bg-alt);border:1px solid var(--hair);border-radius:8px;padding:9px 15px">Rusprofile — проверка ИП</a>
       </p>
@@ -242,7 +242,7 @@
           <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
           <button class="submit" type="submit">Получить расчёт →</button>
           <div class="formmsg" id="formMsgBottom" hidden></div>
-          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
+          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
           <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
             <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
             <h3>Заявка принята</h3><p>Перезвоним <b>в течение 15 минут</b> (9:00–21:00 МСК).</p>
@@ -274,14 +274,14 @@
   <h2 id="faq">Частые вопросы</h2>
   <div class="faq">
       <details><summary>Кто такой Ярослав Михайлов?</summary><p>Основатель и главный эксперт КазнаЭксперт. Знает казначейское сопровождение с двух сторон — изнутри Федерального казначейства и со стороны бизнеса.</p></details>
-      <details><summary>Какой у Ярослава опыт?</summary><p>Более 15 лет в сфере. За последние 5 лет лично сопроводил свыше 7000 контрактов на 90 млрд рублей.</p></details>
+      <details><summary>Какой у Ярослава опыт?</summary><p>Более 15 лет в сфере: с 2009 года — в системе Федерального казначейства, с 2021 года ведёт клиентов как ИП «КазнаЭксперт».</p></details>
       <details><summary>Какие вопросы он ведёт лично?</summary><p>Сложные кейсы и эскалации: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p></details>
       <details><summary>С какими законами он работает?</summary><p>Казначейское сопровождение по 44-ФЗ, 223-ФЗ и гособоронзаказу (275-ФЗ), а также раздельный учёт и нормативная база.</p></details>
       <details><summary>Как связаться с Ярославом?</summary><p>Через форму на сайте или Telegram <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a> — эксперт перезванивает в течение часа.</p></details>
   </div>
 </section>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Кто такой Ярослав Михайлов?", "acceptedAnswer": {"@type": "Answer", "text": "Основатель и главный эксперт КазнаЭксперт. Знает казначейское сопровождение с двух сторон — изнутри Федерального казначейства и со стороны бизнеса."}}, {"@type": "Question", "name": "Какой у Ярослава опыт?", "acceptedAnswer": {"@type": "Answer", "text": "Более 15 лет в сфере. За последние 5 лет лично сопроводил свыше 7000 контрактов на 90 млрд рублей."}}, {"@type": "Question", "name": "Какие вопросы он ведёт лично?", "acceptedAnswer": {"@type": "Answer", "text": "Сложные кейсы и эскалации: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства."}}, {"@type": "Question", "name": "С какими законами он работает?", "acceptedAnswer": {"@type": "Answer", "text": "Казначейское сопровождение по 44-ФЗ, 223-ФЗ и гособоронзаказу (275-ФЗ), а также раздельный учёт и нормативная база."}}, {"@type": "Question", "name": "Как связаться с Ярославом?", "acceptedAnswer": {"@type": "Answer", "text": "Через форму на сайте или Telegram @Kaznaexpert — эксперт перезванивает в течение часа."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Кто такой Ярослав Михайлов?", "acceptedAnswer": {"@type": "Answer", "text": "Основатель и главный эксперт КазнаЭксперт. Знает казначейское сопровождение с двух сторон — изнутри Федерального казначейства и со стороны бизнеса."}}, {"@type": "Question", "name": "Какой у Ярослава опыт?", "acceptedAnswer": {"@type": "Answer", "text": "Более 15 лет в сфере: с 2009 года — в системе Федерального казначейства, с 2021 года ведёт клиентов как ИП «КазнаЭксперт»."}}, {"@type": "Question", "name": "Какие вопросы он ведёт лично?", "acceptedAnswer": {"@type": "Answer", "text": "Сложные кейсы и эскалации: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства."}}, {"@type": "Question", "name": "С какими законами он работает?", "acceptedAnswer": {"@type": "Answer", "text": "Казначейское сопровождение по 44-ФЗ, 223-ФЗ и гособоронзаказу (275-ФЗ), а также раздельный учёт и нормативная база."}}, {"@type": "Question", "name": "Как связаться с Ярославом?", "acceptedAnswer": {"@type": "Answer", "text": "Через форму на сайте или Telegram @Kaznaexpert — эксперт перезванивает в течение часа."}}]}
 </script>
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
@@ -325,13 +325,14 @@
               <a href="mailto:manager@kaznaexpert.ru">manager@kaznaexpert.ru</a>
               <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
               <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+              <a href="/kontakty/">Все контакты</a>
             </nav>
 
             <nav class="v2-footer-col" aria-label="Мы в сети">
               <h3 class="v2-footer-h">Мы в сети</h3>
-              <a href="https://t.me/Kazna_Expert" target="_blank" rel="noopener">Telegram-канал</a>
+              <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram-канал</a>
               <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener">Дзен</a>
-              <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener">Клерк</a>
+              <a href="https://www.klerk.ru/user/2703999/" target="_blank" rel="noopener">Клерк</a>
               <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener">TenChat</a>
             </nav>
 

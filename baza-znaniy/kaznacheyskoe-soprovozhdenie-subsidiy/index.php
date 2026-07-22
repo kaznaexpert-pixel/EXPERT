@@ -32,16 +32,7 @@
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Казначейское сопровождение субсидий"}]}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-{"@type":"Question","name":"Что такое казначейское сопровождение субсидий?","acceptedAnswer":{"@type":"Answer","text":"Это режим, при котором субсидия юрлицу поступает на лицевой счёт в казначействе, а каждый расход с неё проходит санкционирование. Так контролируется целевое использование средств."}},
-{"@type":"Question","name":"Какие субсидии попадают под сопровождение?","acceptedAnswer":{"@type":"Answer","text":"Субсидии юридическим лицам, кроме субсидий федеральным бюджетным и автономным учреждениям, в том числе в рамках концессий и ГЧП. Конкретные случаи на 2026 год — статья 5 закона № 426-ФЗ."}},
-{"@type":"Question","name":"Чем регулируется сопровождение субсидий?","acceptedAnswer":{"@type":"Answer","text":"Общий механизм — главой 24.4 Бюджетного кодекса РФ (ст. 242.23–242.27). Случаи и пороги на год — законом о федеральном бюджете (на 2026 — ст. 5 № 426-ФЗ)."}},
-{"@type":"Question","name":"Куда поступает субсидия под сопровождением?","acceptedAnswer":{"@type":"Answer","text":"На лицевой счёт получателя в территориальном органе Федерального казначейства, а не на обычный банковский расчётный счёт."}},
-{"@type":"Question","name":"Можно ли свободно тратить субсидию под сопровождением?","acceptedAnswer":{"@type":"Answer","text":"Нет. Каждый расход проходит санкционирование: казначейство проверяет соответствие целям субсидии и наличие подтверждающих документов."}},
-{"@type":"Question","name":"Что нужно сделать получателю субсидии?","acceptedAnswer":{"@type":"Answer","text":"Проверить условие о сопровождении в соглашении, оформить электронную подпись, подключиться к Электронному бюджету, открыть лицевой счёт, получить субсидию и проводить расходы через санкционирование."}},
-{"@type":"Question","name":"Чем сопровождение отличается от обычной субсидии?","acceptedAnswer":{"@type":"Answer","text":"Обычная субсидия поступает на расчётный счёт и контролируется по отчётности. Субсидия под сопровождением идёт на лицевой счёт в казначействе, и контроль ведётся на каждом платеже."}},
-{"@type":"Question","name":"Сопровождаются ли субсидии из региональных бюджетов?","acceptedAnswer":{"@type":"Answer","text":"Средства субъектов РФ и местных бюджетов сопровождаются по аналогичной логике на основании соответствующих бюджетных решений и условий соглашений."}}
-]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что такое казначейское сопровождение субсидий?", "acceptedAnswer": {"@type": "Answer", "text": "Это режим, при котором субсидия юрлицу поступает на лицевой счёт в казначействе, а каждый расход с неё проходит санкционирование. Так контролируется целевое использование средств."}}, {"@type": "Question", "name": "Какие субсидии попадают под сопровождение?", "acceptedAnswer": {"@type": "Answer", "text": "Субсидии юридическим лицам, кроме субсидий федеральным бюджетным и автономным учреждениям, в том числе в рамках концессий и ГЧП. Конкретные случаи на 2026 год — статья 5 закона № 426-ФЗ."}}, {"@type": "Question", "name": "Чем регулируется сопровождение субсидий?", "acceptedAnswer": {"@type": "Answer", "text": "Общий механизм — главой 24.4 Бюджетного кодекса РФ (ст. 242.23–242.27). Случаи и пороги на год — законом о федеральном бюджете (на 2026 — ст. 5 № 426-ФЗ)."}}, {"@type": "Question", "name": "Куда поступает субсидия под сопровождением?", "acceptedAnswer": {"@type": "Answer", "text": "На лицевой счёт получателя в территориальном органе Федерального казначейства, а не на обычный банковский расчётный счёт."}}, {"@type": "Question", "name": "Можно ли свободно тратить субсидию под сопровождением?", "acceptedAnswer": {"@type": "Answer", "text": "Нет. Каждый расход проходит санкционирование: казначейство проверяет соответствие целям субсидии и наличие подтверждающих документов."}}, {"@type": "Question", "name": "Что нужно сделать получателю субсидии?", "acceptedAnswer": {"@type": "Answer", "text": "Проверить условие о сопровождении в соглашении, оформить электронную подпись, подключиться к «Электронному бюджету», открыть лицевой счёт, получить субсидию и проводить расходы через санкционирование."}}, {"@type": "Question", "name": "Чем сопровождение отличается от обычной субсидии?", "acceptedAnswer": {"@type": "Answer", "text": "Обычная субсидия поступает на расчётный счёт и контролируется по отчётности. Субсидия под сопровождением идёт на лицевой счёт в казначействе, и контроль ведётся на каждом платеже."}}, {"@type": "Question", "name": "Сопровождаются ли субсидии из региональных бюджетов?", "acceptedAnswer": {"@type": "Answer", "text": "Средства субъектов РФ и местных бюджетов сопровождаются по аналогичной логике на основании соответствующих бюджетных решений и условий соглашений."}}, {"@type": "Question", "name": "Кто поможет с субсидией под сопровождением?", "acceptedAnswer": {"@type": "Answer", "text": "Открытие счёта, подключение к «Электронному бюджету» и проведение расходов можно передать на сопровождение эксперту. Оставьте заявку — поможем получить и провести субсидию без задержек."}}]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"HowTo","name":"Порядок для получателя субсидии под казначейским сопровождением","inLanguage":"ru-RU","step":[
@@ -101,8 +92,8 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Казначейское сопровождение субсидий: какие субсидии и как работает — КазнаЭксперт">
-<meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-05T09:00:00+03:00">
+<meta property="article:published_time" content="2026-06-09T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-07-02T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -365,7 +356,7 @@
       <div class="author__body">
         <div class="author__name">Ярослав Михайлов</div>
         <div class="author__role">Основатель и главный эксперт КазнаЭксперт</div>
-        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. За 5 лет личной практики Ярослав сопроводил более 7000 контрактов на 90 млрд ₽ по 44-ФЗ, 223-ФЗ и ГОЗ. Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
+        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Работает с контрактами по 44-ФЗ, 223-ФЗ и ГОЗ; с 2021 года ведёт клиентов как ИП «КазнаЭксперт». Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
         <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
       </div>
     </div>
@@ -415,7 +406,7 @@
       <button class="submit" type="submit">Получить расчёт →</button>
       <div class="formmsg" id="formMsg" hidden></div>
       <div class="railform__trust">
-        <span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span>
+        <span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span>
         <span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span>
       </div>
       <div class="success" id="leadSuccess" role="status" aria-live="polite">
@@ -696,13 +687,14 @@
               <a href="mailto:manager@kaznaexpert.ru">manager@kaznaexpert.ru</a>
               <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
               <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+              <a href="/kontakty/">Все контакты</a>
             </nav>
 
             <nav class="v2-footer-col" aria-label="Мы в сети">
               <h3 class="v2-footer-h">Мы в сети</h3>
-              <a href="https://t.me/Kazna_Expert" target="_blank" rel="noopener">Telegram-канал</a>
+              <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram-канал</a>
               <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener">Дзен</a>
-              <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener">Клерк</a>
+              <a href="https://www.klerk.ru/user/2703999/" target="_blank" rel="noopener">Клерк</a>
               <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener">TenChat</a>
             </nav>
 

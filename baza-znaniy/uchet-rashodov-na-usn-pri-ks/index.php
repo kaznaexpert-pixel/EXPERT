@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"uchet"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Расходы на УСН при казначейском сопровождении: раздельный учёт и подтверждение затрат", "description": "Как упрощенец учитывает расходы по сопровождаемому контракту: закрытый перечень ст. 346.16 НК, момент признания, первичка для ФНС и казначейства, раздельный учёт.", "inLanguage": "ru-RU", "datePublished": "2026-07-20", "dateModified": "2026-07-20", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/uchet-rashodov-na-usn-pri-ks/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Расходы на УСН при казначейском сопровождении: раздельный учёт и подтверждение затрат", "description": "Как упрощенец учитывает расходы по сопровождаемому контракту: закрытый перечень ст. 346.16 НК, момент признания, первичка для ФНС и казначейства, раздельный учёт.", "inLanguage": "ru-RU", "datePublished": "2026-07-20", "dateModified": "2026-07-20", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/uchet-rashodov-na-usn-pri-ks/"}, "citation": ["Налоговый кодекс РФ, глава 26.2: ст. 346.16 (перечень расходов и порядок признания основных средств), ст. 346.17 (кассовый метод, моменты признания), ст. 346.18 (минимальный налог, перенос убытка), ст. 346.24 (учёт в КУДиР).", "Приказ ФНС России от 07.11.2023 № ЕА-7-3/816@ — форма и порядок заполнения Книги учёта доходов и расходов (применяется с 2024 года).", "Федеральный закон от 12.07.2024 № 176-ФЗ — отмена повышенных ставок УСН с 01.01.2025; НДС для упрощенцев.", "Федеральный закон от 28.11.2025 № 425-ФЗ — снижение порога доходов для НДС на УСН до 20 млн рублей с 01.01.2026.", "Приказ Минфина России от 10.12.2021 № 210н (ред. от 27.06.2025) — порядок ведения раздельного учёта доходов и затрат участниками казначейского сопровождения.", "Бюджетный кодекс РФ, глава 24.4, ст. 242.23; Постановление Правительства РФ от 24.11.2021 № 2024 — Правила казначейского сопровождения средств.", "КоАП РФ, ст. 15.37.1 — ответственность за нарушение правил раздельного учёта при казначейском сопровождении (с 01.01.2026)."]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Расходы на УСН при сопровождении", "item": "https://kaznaexpert.ru/baza-znaniy/uchet-rashodov-na-usn-pri-ks/"}]}
@@ -85,8 +85,8 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Расходы на УСН при казначейском сопровождении — КазнаЭксперт">
-<meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-05T09:00:00+03:00">
+<meta property="article:published_time" content="2026-07-20T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-07-20T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -335,7 +335,7 @@
       <div class="author__body">
         <div class="author__name">Ярослав Михайлов</div>
         <div class="author__role">Основатель и главный эксперт КазнаЭксперт</div>
-        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Команда под руководством Ярослава сопроводила более 7000 контрактов на 90 млрд ₽ по 44-ФЗ, 223-ФЗ и ГОЗ. Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
+        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Команда под руководством Ярослава работает с контрактами по 44-ФЗ, 223-ФЗ и ГОЗ; ИП «КазнаЭксперт» зарегистрировано в 2021 году. Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
         <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
       </div>
     </div>
@@ -367,7 +367,7 @@
       <button class="submit" type="submit">Получить расчёт →</button>
       <div class="formmsg" id="formMsg" hidden></div>
       <div class="railform__trust">
-        <span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span>
+        <span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span>
         <span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span>
       </div>
       <div class="success" id="leadSuccess" role="status" aria-live="polite">
@@ -529,13 +529,14 @@
               <a href="mailto:manager@kaznaexpert.ru">manager@kaznaexpert.ru</a>
               <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
               <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+              <a href="/kontakty/">Все контакты</a>
             </nav>
 
             <nav class="v2-footer-col" aria-label="Мы в сети">
               <h3 class="v2-footer-h">Мы в сети</h3>
-              <a href="https://t.me/Kazna_Expert" target="_blank" rel="noopener">Telegram-канал</a>
+              <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram-канал</a>
               <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener">Дзен</a>
-              <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener">Клерк</a>
+              <a href="https://www.klerk.ru/user/2703999/" target="_blank" rel="noopener">Клерк</a>
               <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener">TenChat</a>
             </nav>
 

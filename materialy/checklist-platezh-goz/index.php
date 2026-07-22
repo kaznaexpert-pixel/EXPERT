@@ -66,20 +66,20 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Глоссарий терминов казначейского сопровождения">
-<meta property="og:description" content="ИГК, ТОФК, КОСГУ, КВР, санкционирование, ГИИС, лицевой счёт, раздельный учёт — ключевые термины простыми словами.">
-<meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/glossary/">
+<meta property="og:title" content="Чек-лист платежа с отдельного счёта по ГОЗ (PDF)">
+<meta property="og:description" content="Бесплатный чек-лист PDF: проверка платежа с отдельного счёта по гособоронзаказу перед отправкой в банк — по ст. 8.3–8.4 закона № 275-ФЗ. Формат для печати бухгалтеру.">
+<meta property="og:url" content="https://kaznaexpert.ru/materialy/checklist-platezh-goz/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Глоссарий терминов казначейского сопровождения">
+<meta property="og:image:alt" content="Чек-лист платежа с отдельного счёта по ГОЗ (PDF)">
 <meta property="article:published_time" content="2026-06-05T10:00:00+03:00">
 <meta property="article:modified_time" content="2026-06-05T10:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Глоссарий терминов казначейского сопровождения">
-<meta name="twitter:description" content="ИГК, ТОФК, КОСГУ, КВР, санкционирование, ГИИС, лицевой счёт, раздельный учёт — ключевые термины простыми словами.">
+<meta name="twitter:title" content="Чек-лист платежа с отдельного счёта по ГОЗ (PDF)">
+<meta name="twitter:description" content="Бесплатный чек-лист PDF: проверка платежа с отдельного счёта по гособоронзаказу перед отправкой в банк — по ст. 8.3–8.4 закона № 275-ФЗ. Формат для печати бухгалтеру.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
@@ -172,7 +172,7 @@
       <button class="submit" type="submit">Получить разбор →</button>
       <div class="formmsg" id="formMsg" hidden></div>
       <div class="railform__trust">
-        <span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span>
+        <span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span>
         <span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span>
       </div>
       <div class="success" id="leadSuccess" role="status" aria-live="polite">
@@ -225,13 +225,14 @@
               <a href="mailto:manager@kaznaexpert.ru">manager@kaznaexpert.ru</a>
               <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
               <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+              <a href="/kontakty/">Все контакты</a>
             </nav>
 
             <nav class="v2-footer-col" aria-label="Мы в сети">
               <h3 class="v2-footer-h">Мы в сети</h3>
-              <a href="https://t.me/Kazna_Expert" target="_blank" rel="noopener">Telegram-канал</a>
+              <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram-канал</a>
               <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener">Дзен</a>
-              <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener">Клерк</a>
+              <a href="https://www.klerk.ru/user/2703999/" target="_blank" rel="noopener">Клерк</a>
               <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener">TenChat</a>
             </nav>
 

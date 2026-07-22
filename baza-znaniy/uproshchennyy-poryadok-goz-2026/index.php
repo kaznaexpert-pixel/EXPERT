@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Упрощённый порядок расчётов по гособоронзаказу в 2026 году: что продлил закон № 406-ФЗ", "description": "Закон № 406-ФЗ продлил до 31.12.2026 приостановление подп. «а» п. 3 ст. 8.4 № 275-ФЗ: зарплату с отдельного счёта ГОЗ платят без одновременной уплаты налогов.", "inLanguage": "ru-RU", "datePublished": "2026-07-02", "dateModified": "2026-07-07", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/uproshchennyy-poryadok-goz-2026/"}, "citation": ["Федеральный закон от 04.11.2025 № 406-ФЗ «О внесении изменения в статью 31 Федерального закона „О внесении изменений в отдельные законодательные акты Российской Федерации и приостановлении действия от", "Федеральный закон от 19.12.2022 № 519-ФЗ, часть 3 статьи 31 — приостановление действия подпункта «а» пункта 3 статьи 8.4 закона № 275-ФЗ в части условия одновременной уплаты налогов и страховых взносо", "Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе», статьи 8.3–8.5 — режим использования отдельного счёта, контроль уполномоченного банка.", "Федеральный закон от 14.07.2022 № 263-ФЗ «О внесении изменений в части первую и вторую Налогового кодекса Российской Федерации» — единый налоговый платёж и единый налоговый счёт с 01.01.2023.", "Налоговый кодекс РФ — сроки и порядок уплаты налогов и страховых взносов через единый налоговый счёт."]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Упрощённый порядок расчётов по гособоронзаказу в 2026 году: что продлил закон № 406-ФЗ", "description": "Закон № 406-ФЗ продлил до 31.12.2026 приостановление подп. «а» п. 3 ст. 8.4 № 275-ФЗ: зарплату с отдельного счёта ГОЗ платят без одновременной уплаты налогов.", "inLanguage": "ru-RU", "datePublished": "2026-07-02", "dateModified": "2026-07-07", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/uproshchennyy-poryadok-goz-2026/"}, "citation": ["Федеральный закон от 04.11.2025 № 406-ФЗ «О внесении изменения в статью 31 Федерального закона „О внесении изменений в отдельные законодательные акты Российской Федерации и приостановлении действия отдельных положений законодательных актов Российской Федерации“» (официальное опубликование 04.11.2025, № 0001202511040008, pravo.gov.ru).", "Федеральный закон от 19.12.2022 № 519-ФЗ, часть 3 статьи 31 — приостановление действия подпункта «а» пункта 3 статьи 8.4 закона № 275-ФЗ в части условия одновременной уплаты налогов и страховых взносов.", "Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе», статьи 8.3–8.5 — режим использования отдельного счёта, контроль уполномоченного банка.", "Федеральный закон от 14.07.2022 № 263-ФЗ «О внесении изменений в части первую и вторую Налогового кодекса Российской Федерации» — единый налоговый платёж и единый налоговый счёт с 01.01.2023.", "Налоговый кодекс РФ — сроки и порядок уплаты налогов и страховых взносов через единый налоговый счёт."]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Упрощённый порядок расчётов по ГОЗ в 2026 году", "item": "https://kaznaexpert.ru/baza-znaniy/uproshchennyy-poryadok-goz-2026/"}]}
@@ -85,8 +85,8 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Упрощённый порядок расчётов по гособоронзаказу в 2026 году — КазнаЭксперт">
-<meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-05T09:00:00+03:00">
+<meta property="article:published_time" content="2026-07-02T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-07-07T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -314,7 +314,7 @@
       <div class="author__body">
         <div class="author__name">Ярослав Михайлов</div>
         <div class="author__role">Основатель и главный эксперт КазнаЭксперт</div>
-        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. За 5 лет личной практики Ярослав сопроводил более 7000 контрактов на 90 млрд ₽ по 44-ФЗ, 223-ФЗ и ГОЗ. Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
+        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Работает с контрактами по 44-ФЗ, 223-ФЗ и ГОЗ; с 2021 года ведёт клиентов как ИП «КазнаЭксперт». Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
         <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
       </div>
     </div>
@@ -366,7 +366,7 @@
       <button class="submit" type="submit">Получить расчёт →</button>
       <div class="formmsg" id="formMsg" hidden></div>
       <div class="railform__trust">
-        <span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span>
+        <span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span>
         <span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span>
       </div>
       <div class="success" id="leadSuccess" role="status" aria-live="polite">
@@ -532,13 +532,14 @@
               <a href="mailto:manager@kaznaexpert.ru">manager@kaznaexpert.ru</a>
               <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
               <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+              <a href="/kontakty/">Все контакты</a>
             </nav>
 
             <nav class="v2-footer-col" aria-label="Мы в сети">
               <h3 class="v2-footer-h">Мы в сети</h3>
-              <a href="https://t.me/Kazna_Expert" target="_blank" rel="noopener">Telegram-канал</a>
+              <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram-канал</a>
               <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener">Дзен</a>
-              <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener">Клерк</a>
+              <a href="https://www.klerk.ru/user/2703999/" target="_blank" rel="noopener">Клерк</a>
               <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener">TenChat</a>
             </nav>
 

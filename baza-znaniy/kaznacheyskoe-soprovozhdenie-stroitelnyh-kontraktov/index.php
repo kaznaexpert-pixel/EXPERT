@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение строительных контрактов в 2026 году", "description": "Как проходит казначейское сопровождение строительных контрактов в 2026 году: пороги, лицевой счёт, авансы на материалы, акты КС-2 и КС-3, упрощённый порядок 431-ФЗ.", "inLanguage": "ru-RU", "datePublished": "2026-07-13", "dateModified": "2026-07-13", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-stroitelnyh-kontraktov/"}, "citation": ["Бюджетный кодекс РФ, глава 24.4, ст. 242.23 — казначейское сопровождение целевых средств; ст. 220.2.", "Федеральный закон от 26.11.2025 № 426-ФЗ, ст. 5 — средства, подлежащие казначейскому сопровождению в 2026 году, и пороги.", "Федеральный закон от 28.11.2025 № 431-ФЗ, ст. 15 (ч. 2–5, 8) — упрощённый порядок расчётов по контрактам, в том числе строительным, в 2026 году; обзор «Особенности казначейского сопровождения контракт", "Федеральный закон от 05.04.2013 № 44-ФЗ, ст. 96 (ч. 6, 6.1) — обеспечение исполнения контракта при авансе и казначейском сопровождении.", "Постановление Правительства РФ от 24.11.2021 № 2024 — Правила казначейского сопровождения.", "Приказ Минфина России от 17.12.2021 № 214н — Порядок санкционирования операций со средствами участников казначейского сопровождения (проект нового порядка — с 01.09.2026).", "Постановление Госкомстата России от 11.11.1999 № 100 — унифицированные формы первичной учётной документации в строительстве (КС-2, КС-3).", "Приказ Минстроя России от 16.12.2025 № 804/пр — перечень строительных материалов и оборудования (действует до 31.12.2026); ст. 8.3, 8.4 Федерального закона от 29.12.2012 № 275-ФЗ — режим отдельного сч"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение строительных контрактов в 2026 году", "description": "Как проходит казначейское сопровождение строительных контрактов в 2026 году: пороги, лицевой счёт, авансы на материалы, акты КС-2 и КС-3, упрощённый порядок 431-ФЗ.", "inLanguage": "ru-RU", "datePublished": "2026-07-13", "dateModified": "2026-07-13", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-stroitelnyh-kontraktov/"}, "citation": ["Бюджетный кодекс РФ, глава 24.4, ст. 242.23 — казначейское сопровождение целевых средств; ст. 220.2.", "Федеральный закон от 26.11.2025 № 426-ФЗ, ст. 5 — средства, подлежащие казначейскому сопровождению в 2026 году, и пороги.", "Федеральный закон от 28.11.2025 № 431-ФЗ, ст. 15 (ч. 2–5, 8) — упрощённый порядок расчётов по контрактам, в том числе строительным, в 2026 году; обзор «Особенности казначейского сопровождения контрактов в 2026 г.» (КонсультантПлюс).", "Федеральный закон от 05.04.2013 № 44-ФЗ, ст. 96 (ч. 6, 6.1) — обеспечение исполнения контракта при авансе и казначейском сопровождении.", "Постановление Правительства РФ от 24.11.2021 № 2024 — Правила казначейского сопровождения.", "Приказ Минфина России от 17.12.2021 № 214н — Порядок санкционирования операций со средствами участников казначейского сопровождения (проект нового порядка — с 01.09.2026).", "Постановление Госкомстата России от 11.11.1999 № 100 — унифицированные формы первичной учётной документации в строительстве (КС-2, КС-3).", "Приказ Минстроя России от 16.12.2025 № 804/пр — перечень строительных материалов и оборудования (действует до 31.12.2026); ст. 8.3, 8.4 Федерального закона от 29.12.2012 № 275-ФЗ — режим отдельного счёта в гособоронзаказе."]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Сопровождение строительных контрактов", "item": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-stroitelnyh-kontraktov/"}]}
@@ -85,8 +85,8 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Казначейское сопровождение строительных контрактов в 2026 — КазнаЭксперт">
-<meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-05T09:00:00+03:00">
+<meta property="article:published_time" content="2026-07-13T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-07-13T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -339,7 +339,7 @@
       <div class="author__body">
         <div class="author__name">Ярослав Михайлов</div>
         <div class="author__role">Основатель и главный эксперт КазнаЭксперт</div>
-        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. За 5 лет личной практики Ярослав сопроводил более 7000 контрактов на 90 млрд ₽ по 44-ФЗ, 223-ФЗ и ГОЗ. Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
+        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Работает с контрактами по 44-ФЗ, 223-ФЗ и ГОЗ; с 2021 года ведёт клиентов как ИП «КазнаЭксперт». Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
         <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
       </div>
     </div>
@@ -394,7 +394,7 @@
       <button class="submit" type="submit">Получить расчёт →</button>
       <div class="formmsg" id="formMsg" hidden></div>
       <div class="railform__trust">
-        <span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span>
+        <span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span>
         <span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span>
       </div>
       <div class="success" id="leadSuccess" role="status" aria-live="polite">
@@ -561,13 +561,14 @@
               <a href="mailto:manager@kaznaexpert.ru">manager@kaznaexpert.ru</a>
               <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
               <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+              <a href="/kontakty/">Все контакты</a>
             </nav>
 
             <nav class="v2-footer-col" aria-label="Мы в сети">
               <h3 class="v2-footer-h">Мы в сети</h3>
-              <a href="https://t.me/Kazna_Expert" target="_blank" rel="noopener">Telegram-канал</a>
+              <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram-канал</a>
               <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener">Дзен</a>
-              <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener">Клерк</a>
+              <a href="https://www.klerk.ru/user/2703999/" target="_blank" rel="noopener">Клерк</a>
               <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener">TenChat</a>
             </nav>
 

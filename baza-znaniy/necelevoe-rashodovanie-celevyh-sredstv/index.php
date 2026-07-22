@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"kontrol"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Нецелевое расходование целевых средств при казначейском сопровождении: что считается, последствия и как избежать", "description": "Нецелевое расходование целевых средств при казначейском сопровождении: ст. 306.4 БК, отказ в санкционировании, возврат средств и ответственность по ст. 15.14 КоАП.", "inLanguage": "ru-RU", "datePublished": "2026-06-29", "dateModified": "2026-07-07", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/necelevoe-rashodovanie-celevyh-sredstv/"}, "citation": ["Бюджетный кодекс РФ, статья 306.4 (нецелевое использование бюджетных средств — определение и последствия).", "Кодекс РФ об административных правонарушениях, статья 15.14 (нецелевое использование бюджетных средств: должностные лица — 20-50 тыс ₽ или дисквалификация, юридические лица — 5-25% суммы).", "Уголовный кодекс РФ, статья 285.1 (нецелевое расходование бюджетных средств в крупном размере — свыше 1,5 млн ₽).", "Кодекс РФ об административных правонарушениях, статьи 15.37.1 и 15.49 (введены Федеральным законом от 28.12.2025 № 506-ФЗ, действуют с 01.01.2026 — раздельный учёт и сроки утверждения сведений при каз", "Бюджетный кодекс РФ, статья 242.23 (казначейское сопровождение целевых средств; санкционирование операций)."]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Нецелевое расходование целевых средств при казначейском сопровождении: что считается, последствия и как избежать", "description": "Нецелевое расходование целевых средств при казначейском сопровождении: ст. 306.4 БК, отказ в санкционировании, возврат средств и ответственность по ст. 15.14 КоАП.", "inLanguage": "ru-RU", "datePublished": "2026-06-29", "dateModified": "2026-07-07", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/necelevoe-rashodovanie-celevyh-sredstv/"}, "citation": ["Бюджетный кодекс РФ, статья 306.4 (нецелевое использование бюджетных средств — определение и последствия).", "Кодекс РФ об административных правонарушениях, статья 15.14 (нецелевое использование бюджетных средств: должностные лица — 20-50 тыс ₽ или дисквалификация, юридические лица — 5-25% суммы).", "Уголовный кодекс РФ, статья 285.1 (нецелевое расходование бюджетных средств в крупном размере — свыше 1,5 млн ₽).", "Кодекс РФ об административных правонарушениях, статьи 15.37.1 и 15.49 (введены Федеральным законом от 28.12.2025 № 506-ФЗ, действуют с 01.01.2026 — раздельный учёт и сроки утверждения сведений при казначейском сопровождении).", "Бюджетный кодекс РФ, статья 242.23 (казначейское сопровождение целевых средств; санкционирование операций)."]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Нецелевое расходование целевых средств", "item": "https://kaznaexpert.ru/baza-znaniy/necelevoe-rashodovanie-celevyh-sredstv/"}]}
@@ -85,8 +85,8 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Нецелевое расходование целевых средств при казначейском сопровождении — КазнаЭксперт">
-<meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-05T09:00:00+03:00">
+<meta property="article:published_time" content="2026-06-29T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-07-07T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -317,7 +317,7 @@
       <div class="author__body">
         <div class="author__name">Ярослав Михайлов</div>
         <div class="author__role">Основатель и главный эксперт КазнаЭксперт</div>
-        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. За 5 лет личной практики Ярослав сопроводил более 7000 контрактов на 90 млрд ₽ по 44-ФЗ, 223-ФЗ и ГОЗ. Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
+        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Работает с контрактами по 44-ФЗ, 223-ФЗ и ГОЗ; с 2021 года ведёт клиентов как ИП «КазнаЭксперт». Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
         <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
       </div>
     </div>
@@ -369,7 +369,7 @@
       <button class="submit" type="submit">Получить расчёт →</button>
       <div class="formmsg" id="formMsg" hidden></div>
       <div class="railform__trust">
-        <span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span>
+        <span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span>
         <span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span>
       </div>
       <div class="success" id="leadSuccess" role="status" aria-live="polite">
@@ -536,13 +536,14 @@
               <a href="mailto:manager@kaznaexpert.ru">manager@kaznaexpert.ru</a>
               <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
               <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+              <a href="/kontakty/">Все контакты</a>
             </nav>
 
             <nav class="v2-footer-col" aria-label="Мы в сети">
               <h3 class="v2-footer-h">Мы в сети</h3>
-              <a href="https://t.me/Kazna_Expert" target="_blank" rel="noopener">Telegram-канал</a>
+              <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram-канал</a>
               <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener">Дзен</a>
-              <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener">Клерк</a>
+              <a href="https://www.klerk.ru/user/2703999/" target="_blank" rel="noopener">Клерк</a>
               <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener">TenChat</a>
             </nav>
 

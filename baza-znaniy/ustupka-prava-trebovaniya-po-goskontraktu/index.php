@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Уступка права требования и факторинг по госконтракту при казначейском сопровождении", "description": "Можно ли уступить право требования оплаты по контракту 44-ФЗ: позиция ВС РФ и Минфина, почему платёж цессионарию не проходит санкционирование, факторинг.", "inLanguage": "ru-RU", "datePublished": "2026-07-04", "dateModified": "2026-07-07", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/ustupka-prava-trebovaniya-po-goskontraktu/"}, "citation": ["Гражданский кодекс РФ, часть первая: ст. 382–390 (перемена лиц в обязательстве), ст. 383, п. 3 ст. 388 (consultant.ru/document/cons_doc_LAW_5142/).", "Гражданский кодекс РФ, часть вторая: глава 43 «Финансирование под уступку денежного требования», ст. 824–833 (consultant.ru/document/cons_doc_LAW_9027/).", "Федеральный закон от 05.04.2013 № 44-ФЗ «О контрактной системе…», ч. 5 ст. 95 (consultant.ru/document/cons_doc_LAW_144624/).", "Определение Верховного Суда РФ от 20.04.2017 № 307-ЭС16-19959; Обзор судебной практики применения законодательства РФ о контрактной системе (утв. Президиумом ВС РФ 28.06.2017).", "Решение Верховного Суда РФ от 23.04.2019 № АКПИ19-112 — письмо Минфина от 21.07.2017 № 09-04-04/46799 признано недействующим (garant.ru/products/ipo/prime/doc/72147556/).", "Письмо Минфина России от 14.12.2023 № 02-17-09/121366 «О заключении договора цессии по договору, подлежащему казначейскому сопровождению…».", "Письмо Казначейства России от 23.08.2019 № 07-04-05/05-18156 (о внесении изменений в контракт в части реквизитов получателя при уступке).", "Бюджетный кодекс РФ, ст. 242.23 (consultant.ru/document/cons_doc_LAW_19702/); приказ Минфина России от 17.12.2021 № 214н, подп. «е» п. 24, приложения с кодами направления расходования и источников пос", "Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе», ст. 8.3, 8.4 (consultant.ru/document/cons_doc_LAW_140175/)."]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Уступка права требования и факторинг по госконтракту при казначейском сопровождении", "description": "Можно ли уступить право требования оплаты по контракту 44-ФЗ: позиция ВС РФ и Минфина, почему платёж цессионарию не проходит санкционирование, факторинг.", "inLanguage": "ru-RU", "datePublished": "2026-07-04", "dateModified": "2026-07-07", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/ustupka-prava-trebovaniya-po-goskontraktu/"}, "citation": ["Гражданский кодекс РФ, часть первая: ст. 382–390 (перемена лиц в обязательстве), ст. 383, п. 3 ст. 388 (consultant.ru/document/cons_doc_LAW_5142/).", "Гражданский кодекс РФ, часть вторая: глава 43 «Финансирование под уступку денежного требования», ст. 824–833 (consultant.ru/document/cons_doc_LAW_9027/).", "Федеральный закон от 05.04.2013 № 44-ФЗ «О контрактной системе…», ч. 5 ст. 95 (consultant.ru/document/cons_doc_LAW_144624/).", "Определение Верховного Суда РФ от 20.04.2017 № 307-ЭС16-19959; Обзор судебной практики применения законодательства РФ о контрактной системе (утв. Президиумом ВС РФ 28.06.2017).", "Решение Верховного Суда РФ от 23.04.2019 № АКПИ19-112 — письмо Минфина от 21.07.2017 № 09-04-04/46799 признано недействующим (garant.ru/products/ipo/prime/doc/72147556/).", "Письмо Минфина России от 14.12.2023 № 02-17-09/121366 «О заключении договора цессии по договору, подлежащему казначейскому сопровождению…».", "Письмо Казначейства России от 23.08.2019 № 07-04-05/05-18156 (о внесении изменений в контракт в части реквизитов получателя при уступке).", "Бюджетный кодекс РФ, ст. 242.23 (consultant.ru/document/cons_doc_LAW_19702/); приказ Минфина России от 17.12.2021 № 214н, подп. «е» п. 24, приложения с кодами направления расходования и источников поступлений.", "Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе», ст. 8.3, 8.4 (consultant.ru/document/cons_doc_LAW_140175/)."]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Уступка требования по госконтракту", "item": "https://kaznaexpert.ru/baza-znaniy/ustupka-prava-trebovaniya-po-goskontraktu/"}]}
@@ -85,8 +85,8 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Уступка права требования и факторинг по госконтракту: что работает в 2026 — КазнаЭксперт">
-<meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-05T09:00:00+03:00">
+<meta property="article:published_time" content="2026-07-04T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-07-07T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -313,7 +313,7 @@
       <div class="author__body">
         <div class="author__name">Ярослав Михайлов</div>
         <div class="author__role">Основатель и главный эксперт КазнаЭксперт</div>
-        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. За 5 лет личной практики Ярослав сопроводил более 7000 контрактов на 90 млрд ₽ по 44-ФЗ, 223-ФЗ и ГОЗ. Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
+        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Работает с контрактами по 44-ФЗ, 223-ФЗ и ГОЗ; с 2021 года ведёт клиентов как ИП «КазнаЭксперт». Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
         <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
       </div>
     </div>
@@ -369,7 +369,7 @@
       <button class="submit" type="submit">Получить расчёт →</button>
       <div class="formmsg" id="formMsg" hidden></div>
       <div class="railform__trust">
-        <span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span>
+        <span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span>
         <span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span>
       </div>
       <div class="success" id="leadSuccess" role="status" aria-live="polite">
@@ -535,13 +535,14 @@
               <a href="mailto:manager@kaznaexpert.ru">manager@kaznaexpert.ru</a>
               <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
               <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+              <a href="/kontakty/">Все контакты</a>
             </nav>
 
             <nav class="v2-footer-col" aria-label="Мы в сети">
               <h3 class="v2-footer-h">Мы в сети</h3>
-              <a href="https://t.me/Kazna_Expert" target="_blank" rel="noopener">Telegram-канал</a>
+              <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram-канал</a>
               <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener">Дзен</a>
-              <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener">Клерк</a>
+              <a href="https://www.klerk.ru/user/2703999/" target="_blank" rel="noopener">Клерк</a>
               <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener">TenChat</a>
             </nav>
 

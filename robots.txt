@@ -8,6 +8,12 @@
 
 User-agent: *
 Disallow: /opcache-reset.php
+Disallow: /build/
+# CSS/JS отдаются с ?v=… — явный Allow, иначе Disallow: /*?* режет рендеринг
+Allow: /*.css$
+Allow: /*.css?*
+Allow: /*.js$
+Allow: /*.js?*
 Disallow: /*?*
 Disallow: /cms/
 Disallow: /tmp/
@@ -15,6 +21,12 @@ Disallow: /backup/
 Allow: /
 
 User-agent: Yandex
+Disallow: /build/
+# CSS/JS отдаются с ?v=… — явный Allow, иначе Disallow: /*?* режет рендеринг
+Allow: /*.css$
+Allow: /*.css?*
+Allow: /*.js$
+Allow: /*.js?*
 Disallow: /*?*
 Disallow: /cms/
 Disallow: /tmp/
@@ -27,6 +39,7 @@ User-agent: Googlebot
 Allow: /
 Disallow: /cms/
 Disallow: /tmp/
+Disallow: /build/
 
 User-agent: Bingbot
 Allow: /
@@ -40,93 +53,168 @@ Disallow: /cms/
 # OpenAI: ChatGPT, GPT-4, поиск в ChatGPT
 User-agent: GPTBot
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 User-agent: ChatGPT-User
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 User-agent: OAI-SearchBot
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 # Anthropic: Claude
 User-agent: ClaudeBot
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 User-agent: Claude-Web
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 User-agent: anthropic-ai
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 # Perplexity AI
 User-agent: PerplexityBot
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 User-agent: Perplexity-User
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 # Google AI: Gemini, AI Overviews, Bard
 User-agent: Google-Extended
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 User-agent: GoogleOther
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 # Яндекс AI: Нейро, Алиса (AI-ответы строятся отдельным краулером YandexAdditional)
 User-agent: YandexAdditional
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 User-agent: YandexAdditionalBot
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 # YandexGPT — оставляем на всякий случай (не документированный UA, но не вредит)
 User-agent: YandexGPT
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 # Apple Intelligence
 User-agent: Applebot
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 User-agent: Applebot-Extended
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 # Common Crawl (используется большинством LLM для обучения)
 User-agent: CCBot
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 # Microsoft Copilot
 User-agent: BingPreview
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 # Cohere
 User-agent: cohere-ai
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 # DeepSeek
 User-agent: DeepSeekBot
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 # Meta AI
 User-agent: FacebookBot
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 User-agent: Meta-ExternalAgent
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 # Mistral
 User-agent: MistralAI-User
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 # You.com
 User-agent: YouBot
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 # Pinterest
 User-agent: Pinterestbot
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 # Diffbot (используется многими LLM для обогащения)
 User-agent: Diffbot
 Allow: /
+Disallow: /cms/
+Disallow: /222/
+Disallow: /build/
 
 # ============================================================
 # СЛУЖЕБНОЕ

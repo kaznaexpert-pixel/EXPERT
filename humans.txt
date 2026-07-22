@@ -2,7 +2,7 @@
 
 Founder & Lead Expert: Михайлов Ярослав
 Specialty: Казначейское сопровождение госконтрактов
-Experience: 15+ лет работы в системе Федерального Казначейства
+Experience: в казначейской сфере с 2009 года (в системе Федерального казначейства — 2009–2019), ИП «КазнаЭксперт» — с 2021
 Contact: manager@kaznaexpert.ru
 Telegram: @Kaznaexpert
 From: Санкт-Петербург, Россия
@@ -10,7 +10,7 @@ From: Санкт-Петербург, Россия
 
 /* SITE */
 
-Last update: 2026/05/28
+Last update: 2026/07/22
 Standards: HTML5, CSS3, ES6+
 Language: Russian
 Doctype: HTML5

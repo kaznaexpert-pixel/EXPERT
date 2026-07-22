@@ -41,16 +41,7 @@
 ]}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-{"@type":"Question","name":"Где получить ЭЦП казначейства?","acceptedAnswer":{"@type":"Answer","text":"Сертификат выдаёт удостоверяющий центр Федерального казначейства. Документы подаются онлайн через Портал заявителя на сайте Федерального казначейства, готовый сертификат записывается на защищённый токен."}},
-{"@type":"Question","name":"Сколько делается сертификат?","acceptedAnswer":{"@type":"Answer","text":"На проверку документов и изготовление сертификата УЦ Федерального казначейства требуется до 5 рабочих дней с момента подачи полного комплекта."}},
-{"@type":"Question","name":"Какие документы нужны?","acceptedAnswer":{"@type":"Answer","text":"Паспорт, СНИЛС и ИНН владельца сертификата, а также реквизиты организации (ОГРН/ОГРНИП, ИНН). Сканы должны быть читаемыми и совпадать с данными в заявлении."}},
-{"@type":"Question","name":"Чем подпись казначейства отличается от подписи ФНС?","acceptedAnswer":{"@type":"Answer","text":"Подпись ФНС — для обычной деятельности юрлиц и ИП. Подпись УЦ казначейства нужна получателям бюджетных средств для работы в ГИИС «Электронный бюджет». Часто подрядчику нужны обе."}},
-{"@type":"Question","name":"Что значит экспортируемый закрытый ключ?","acceptedAnswer":{"@type":"Answer","text":"Это свойство ключа: экспортируемый можно скопировать с токена, неэкспортируемый — нельзя. Для государственных систем рекомендуется неэкспортируемый ключ — он надёжнее."}},
-{"@type":"Question","name":"На какой срок выдаётся сертификат?","acceptedAnswer":{"@type":"Answer","text":"Как правило, на 12 месяцев. Продление запрашивается заранее, за 3–4 недели до окончания срока, через тот же Портал заявителя."}},
-{"@type":"Question","name":"Нужен ли отдельный токен и КриптоПро?","acceptedAnswer":{"@type":"Answer","text":"Да. Закрытый ключ хранится на защищённом токене (Рутокен, JaCarta), а для работы подписи нужно средство криптозащиты — обычно КриптоПро CSP с действующей лицензией."}},
-{"@type":"Question","name":"Можно ли получить подпись казначейства удалённо?","acceptedAnswer":{"@type":"Answer","text":"Подача документов идёт онлайн через Портал заявителя. Генерация ключа выполняется на стороне заявителя; помогаем настроить процесс и пройти его без возвратов по всей России."}}
-]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Где получить ЭЦП казначейства?", "acceptedAnswer": {"@type": "Answer", "text": "Сертификат выдаёт удостоверяющий центр Федерального казначейства. Документы подаются онлайн через Портал заявителя на сайте Федерального казначейства, готовый сертификат записывается на защищённый токен."}}, {"@type": "Question", "name": "Сколько делается сертификат?", "acceptedAnswer": {"@type": "Answer", "text": "На проверку документов и изготовление сертификата УЦ Федерального казначейства требуется до 5 рабочих дней с момента подачи полного комплекта."}}, {"@type": "Question", "name": "Какие документы нужны?", "acceptedAnswer": {"@type": "Answer", "text": "Паспорт, СНИЛС и ИНН владельца сертификата, а также реквизиты организации (ОГРН/ОГРНИП, ИНН) для формирования запроса. Сканы должны быть читаемыми и совпадать с данными в заявлении."}}, {"@type": "Question", "name": "Чем подпись казначейства отличается от подписи ФНС?", "acceptedAnswer": {"@type": "Answer", "text": "Подпись ФНС — для обычной деятельности юрлиц и ИП. Подпись УЦ казначейства нужна получателям бюджетных средств для работы в ГИИС «Электронный бюджет» и казначейских операций. Часто подрядчику нужны обе."}}, {"@type": "Question", "name": "Что значит «экспортируемый закрытый ключ»?", "acceptedAnswer": {"@type": "Answer", "text": "Это свойство ключа: экспортируемый можно скопировать с токена, неэкспортируемый — нельзя. Для работы с государственными системами рекомендуется выбирать неэкспортируемый ключ — он надёжнее."}}, {"@type": "Question", "name": "На какой срок выдаётся сертификат?", "acceptedAnswer": {"@type": "Answer", "text": "Как правило, на 12 месяцев. Продление запрашивается заранее, за 3–4 недели до окончания срока, через тот же Портал заявителя."}}, {"@type": "Question", "name": "Нужен ли отдельный токен и КриптоПро?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Закрытый ключ хранится на защищённом токене (Рутокен, JaCarta), а для работы подписи нужно средство криптозащиты — обычно КриптоПро CSP с действующей лицензией."}}, {"@type": "Question", "name": "Что делать, если в подписи отказали?", "acceptedAnswer": {"@type": "Answer", "text": "Чаще всего причина — несоответствие данных, нечитаемые сканы или ненастроенное рабочее место. Устраните замечание и подайте запрос повторно; типовые ошибки видно ещё на этапе подготовки."}}, {"@type": "Question", "name": "Можно ли получить подпись казначейства удалённо?", "acceptedAnswer": {"@type": "Answer", "text": "Подача документов идёт онлайн через Портал заявителя. Само рабочее место и генерация ключа выполняются на стороне заявителя; мы помогаем настроить процесс и пройти его без возвратов по всей России."}}]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
@@ -97,8 +88,8 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Сертификат и ЭЦП казначейства — КазнаЭксперт">
-<meta property="article:published_time" content="2026-06-05T10:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-05T10:00:00+03:00">
+<meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-07-21T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -369,7 +360,7 @@
       <div>
         <div class="author__name">Ярослав Михайлов</div>
         <div class="author__role">Главный эксперт КазнаЭксперт · казначейское сопровождение госконтрактов</div>
-        <p class="author__bio">15+ лет в сфере казначейского сопровождения и работы с «Электронным бюджетом». Под сопровождением — 7000+ контрактов на сумму свыше 90 млрд ₽. Помогаем получить подпись казначейства, подключиться к ГИИС и открыть счёт без возвратов.</p>
+        <p class="author__bio">15+ лет в сфере казначейского сопровождения и работы с «Электронным бюджетом». Помогаем получить подпись казначейства, подключиться к ГИИС и открыть счёт без возвратов.</p>
         <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль автора</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span><span>Тел.: <a href="tel:+79818331010">+7 (981) 833-10-10</a></span></div>
       </div>
     </div>
@@ -419,7 +410,7 @@
       <button class="submit" type="submit">Получить помощь →</button>
       <div class="formmsg" id="formMsg" hidden></div>
       <div class="railform__trust">
-        <span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span>
+        <span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span>
         <span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span>
       </div>
       <div class="success" id="leadSuccess" role="status" aria-live="polite">
@@ -619,13 +610,14 @@
               <a href="mailto:manager@kaznaexpert.ru">manager@kaznaexpert.ru</a>
               <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
               <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+              <a href="/kontakty/">Все контакты</a>
             </nav>
 
             <nav class="v2-footer-col" aria-label="Мы в сети">
               <h3 class="v2-footer-h">Мы в сети</h3>
-              <a href="https://t.me/Kazna_Expert" target="_blank" rel="noopener">Telegram-канал</a>
+              <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram-канал</a>
               <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener">Дзен</a>
-              <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener">Клерк</a>
+              <a href="https://www.klerk.ru/user/2703999/" target="_blank" rel="noopener">Клерк</a>
               <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener">TenChat</a>
             </nav>
 

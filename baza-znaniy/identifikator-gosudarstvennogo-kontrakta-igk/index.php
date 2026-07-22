@@ -32,16 +32,7 @@
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Идентификатор государственного контракта (ИГК)"}]}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type": "Question", "name": "Каким приказом формируется ИГК по гособоронзаказу?", "acceptedAnswer": {"@type": "Answer", "text": "Идентификатор государственного контракта по ГОЗ (25-значный) формируется по совместному приказу Министра обороны РФ № 475 и Федерального казначейства № 13н от 11.08.2015. По структуре он отличается от 20-значного идентификатора при казначейском сопровождении (приказ Минфина № 205н), поэтому их не следует смешивать."}},
-{"@type":"Question","name":"Что такое ИГК?","acceptedAnswer":{"@type":"Answer","text":"Идентификатор государственного контракта — уникальный цифровой код, по которому казначейство связывает платежи, договоры соисполнителей и отчётность с конкретным контрактом при казначейском сопровождении."}},
-{"@type":"Question","name":"Сколько знаков в ИГК?","acceptedAnswer":{"@type":"Answer","text":"При казначейском сопровождении вне ГОЗ идентификатор состоит из 20 знаков по приказу Минфина № 205н. В гособоронзаказе применяется отдельный 25-значный идентификатор."}},
-{"@type":"Question","name":"Чем ИГК отличается от ИКЗ?","acceptedAnswer":{"@type":"Answer","text":"ИГК присваивается контракту и нужен для прослеживаемости платежей и казначейского сопровождения. ИКЗ — идентификационный код закупки по 44-ФЗ, появляется на этапе планирования. Это разные коды."}},
-{"@type":"Question","name":"Кто присваивает ИГК?","acceptedAnswer":{"@type":"Answer","text":"Идентификатор формируется при заключении контракта, подлежащего казначейскому сопровождению, по Порядку, утверждённому приказом Минфина России от 02.12.2021 № 205н, и далее не меняется."}},
-{"@type":"Question","name":"Где указывать ИГК?","acceptedAnswer":{"@type":"Answer","text":"В платёжных документах — в реквизите «Назначение платежа», а также в договорах с соисполнителями, сведениях об операциях и отчётности по контракту."}},
-{"@type":"Question","name":"Как добавить ИГК в 1С?","acceptedAnswer":{"@type":"Answer","text":"Внести идентификатор в карточку договора как отдельный реквизит, после чего он подставляется в платёжные документы. Названия полей различаются по версиям 1С — сверяйте со своей конфигурацией."}},
-{"@type":"Question","name":"Что будет, если ИГК указан неверно?","acceptedAnswer":{"@type":"Answer","text":"Платёж не пройдёт санкционирование: казначейство не сможет связать операцию с контрактом. Нужно исправить идентификатор и направить платёж заново."}},
-{"@type":"Question","name":"Меняется ли ИГК в ходе исполнения контракта?","acceptedAnswer":{"@type":"Answer","text":"Нет. Идентификатор формируется единожды и используется без изменений на всём сроке контракта."}}
-]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что такое ИГК?", "acceptedAnswer": {"@type": "Answer", "text": "Идентификатор государственного контракта — уникальный цифровой код, по которому казначейство связывает платежи, договоры соисполнителей и отчётность с конкретным контрактом при казначейском сопровождении."}}, {"@type": "Question", "name": "Каким приказом формируется ИГК по гособоронзаказу?", "acceptedAnswer": {"@type": "Answer", "text": "Идентификатор государственного контракта по ГОЗ (25-значный) формируется по совместному приказу Министра обороны РФ № 475 и Федерального казначейства № 13н от 11.08.2015. По структуре он отличается от 20-значного идентификатора при казначейском сопровождении (приказ Минфина № 205н), поэтому их не следует смешивать."}}, {"@type": "Question", "name": "Сколько знаков в ИГК?", "acceptedAnswer": {"@type": "Answer", "text": "При казначейском сопровождении (вне ГОЗ) идентификатор состоит из 20 знаков по приказу Минфина № 205н. В гособоронзаказе применяется отдельный 25-значный идентификатор."}}, {"@type": "Question", "name": "Чем ИГК отличается от ИКЗ?", "acceptedAnswer": {"@type": "Answer", "text": "ИГК присваивается контракту и нужен для прослеживаемости платежей и казначейского сопровождения. ИКЗ — идентификационный код закупки по 44-ФЗ, появляется на этапе планирования. Это разные коды."}}, {"@type": "Question", "name": "Кто присваивает ИГК?", "acceptedAnswer": {"@type": "Answer", "text": "Идентификатор формируется при заключении контракта, подлежащего казначейскому сопровождению, по Порядку, утверждённому приказом Минфина России от 02.12.2021 № 205н, и далее не меняется."}}, {"@type": "Question", "name": "Где указывать ИГК?", "acceptedAnswer": {"@type": "Answer", "text": "В платёжных документах — в реквизите «Назначение платежа», а также в договорах с соисполнителями, сведениях об операциях и отчётности по контракту."}}, {"@type": "Question", "name": "Как добавить ИГК в 1С?", "acceptedAnswer": {"@type": "Answer", "text": "Внести идентификатор в карточку договора как отдельный реквизит, после чего он подставляется в платёжные документы. Названия полей различаются по версиям 1С — сверяйте со своей конфигурацией."}}, {"@type": "Question", "name": "Что будет, если ИГК указан неверно?", "acceptedAnswer": {"@type": "Answer", "text": "Платёж не пройдёт санкционирование: казначейство не сможет связать операцию с контрактом. Нужно исправить идентификатор и направить платёж заново."}}, {"@type": "Question", "name": "Меняется ли ИГК в ходе исполнения контракта?", "acceptedAnswer": {"@type": "Answer", "text": "Нет. Идентификатор формируется единожды и используется без изменений на всём сроке контракта."}}, {"@type": "Question", "name": "Кто поможет с ИГК и сопровождением платежей?", "acceptedAnswer": {"@type": "Answer", "text": "Работу с идентификатором и проведение платежей можно передать на сопровождение: эксперт проверит ИГК, настроит подстановку и проведёт операции. Оставьте заявку — разберём вашу ситуацию."}}]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"HowTo","name":"Как добавить ИГК в 1С","inLanguage":"ru-RU","step":[
@@ -100,8 +91,8 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Идентификатор государственного контракта (ИГК): что это, структура, 1С — КазнаЭксперт">
-<meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-05T09:00:00+03:00">
+<meta property="article:published_time" content="2026-06-08T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-06-08T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -366,7 +357,7 @@
       <div class="author__body">
         <div class="author__name">Ярослав Михайлов</div>
         <div class="author__role">Основатель и главный эксперт КазнаЭксперт</div>
-        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. За 5 лет личной практики Ярослав сопроводил более 7000 контрактов на 90 млрд ₽ по 44-ФЗ, 223-ФЗ и ГОЗ. Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
+        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Работает с контрактами по 44-ФЗ, 223-ФЗ и ГОЗ; с 2021 года ведёт клиентов как ИП «КазнаЭксперт». Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
         <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
       </div>
     </div>
@@ -417,7 +408,7 @@
       <button class="submit" type="submit">Получить расчёт →</button>
       <div class="formmsg" id="formMsg" hidden></div>
       <div class="railform__trust">
-        <span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span>
+        <span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span>
         <span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span>
       </div>
       <div class="success" id="leadSuccess" role="status" aria-live="polite">
@@ -698,13 +689,14 @@
               <a href="mailto:manager@kaznaexpert.ru">manager@kaznaexpert.ru</a>
               <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
               <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+              <a href="/kontakty/">Все контакты</a>
             </nav>
 
             <nav class="v2-footer-col" aria-label="Мы в сети">
               <h3 class="v2-footer-h">Мы в сети</h3>
-              <a href="https://t.me/Kazna_Expert" target="_blank" rel="noopener">Telegram-канал</a>
+              <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram-канал</a>
               <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener">Дзен</a>
-              <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener">Клерк</a>
+              <a href="https://www.klerk.ru/user/2703999/" target="_blank" rel="noopener">Клерк</a>
               <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener">TenChat</a>
             </nav>
 

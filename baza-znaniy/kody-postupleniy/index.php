@@ -32,7 +32,7 @@
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Коды поступлений"}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что означает источник поступления 7600?", "acceptedAnswer": {"@type": "Answer", "text": "Это средства по государственным или муниципальным контрактам для нужд субъекта РФ (муниципального образования). Код 7600 указывают при оплате из регионального или местного бюджета; у единственного поставщика — 7800."}}, {"@type": "Question", "name": "Код 9300 — это источник поступления?", "acceptedAnswer": {"@type": "Answer", "text": "Нет. 9300 — это вариант кода направления расходования 0300 (возмещение собственных расходов со счёта в банке), а не код источника поступления. Источники поступления имеют коды вида 7400, 7600, 7800."}}, {"@type": "Question", "name": "Чем источник поступления отличается от направления расходования?", "acceptedAnswer": {"@type": "Answer", "text": "Источник (Приложение 2 к 214н) показывает, откуда пришли средства; направление (Приложение 3) — на что они тратятся."}}, {"@type": "Question", "name": "Какой код источника у обычного госконтракта?", "acceptedAnswer": {"@type": "Answer", "text": "Федеральный контракт (не ГОЗ) — 7300; региональный или муниципальный — 7600; у единственного поставщика — 7400 и 7800."}}, {"@type": "Question", "name": "Какой код источника у ГОЗ?", "acceptedAnswer": {"@type": "Answer", "text": "Контракт в целях гособоронзаказа — 7900, у единственного поставщика — 9700."}}, {"@type": "Question", "name": "Чем код источника поступления отличается от кода направления расходования?", "acceptedAnswer": {"@type": "Answer", "text": "Код источника поступления (Приложение 2 к приказу Минфина № 214н) показывает, откуда поступили целевые средства, а код направления расходования (Приложение 3) — на что они тратятся. Оба кода указываются в Сведениях об операциях с целевыми средствами."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что означает источник поступления 7600?", "acceptedAnswer": {"@type": "Answer", "text": "Это средства по государственным или муниципальным контрактам для нужд субъекта РФ (муниципального образования). Код 7600 указывают при оплате из регионального или местного бюджета; у единственного поставщика — 7800."}}, {"@type": "Question", "name": "Код 9300 — это источник поступления?", "acceptedAnswer": {"@type": "Answer", "text": "Нет. 9300 — это вариант кода направления расходования 0300 (возмещение собственных расходов со счёта в банке), а не код источника поступления. Источники поступления имеют коды вида 7400 / 7600 / 7800."}}, {"@type": "Question", "name": "Чем источник поступления отличается от направления расходования?", "acceptedAnswer": {"@type": "Answer", "text": "Источник (Приложение 2 к 214н) показывает, откуда пришли средства; направление (Приложение 3) — на что они тратятся. В Сведениях указывают и то, и другое."}}, {"@type": "Question", "name": "Какой код у обычного госконтракта?", "acceptedAnswer": {"@type": "Answer", "text": "Федеральный контракт (не ГОЗ) — 7300; региональный или муниципальный — 7600. У единственного поставщика — 7400 и 7800 соответственно."}}, {"@type": "Question", "name": "Какой код источника у ГОЗ?", "acceptedAnswer": {"@type": "Answer", "text": "Контракт в целях гособоронзаказа — 7900 (или 9700 у единственного поставщика)."}}, {"@type": "Question", "name": "Где указывается код источника?", "acceptedAnswer": {"@type": "Answer", "text": "В Сведениях об операциях с целевыми средствами (форма 0501213) при их формировании и утверждении."}}, {"@type": "Question", "name": "Чем код источника поступления отличается от кода направления расходования?", "acceptedAnswer": {"@type": "Answer", "text": "Код источника поступления (Приложение 2 к приказу Минфина № 214н) показывает, откуда поступили целевые средства, а код направления расходования (Приложение 3) — на что они тратятся. Оба кода указываются в Сведениях об операциях с целевыми средствами."}}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -76,8 +76,8 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
-<meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-03T09:00:00+03:00">
+<meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-06-25T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -223,7 +223,7 @@
       <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
       <button class="submit" type="submit">Получить разбор →</button>
       <div class="formmsg" id="formMsg" hidden></div>
-      <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов за 5 лет</span><span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span></div>
+      <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span></div>
       <div class="success" id="leadSuccess" role="status" aria-live="polite"><div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div><h3>Заявка принята</h3><p>Эксперт перезвонит <b>в течение 1 часа</b> (9:00–21:00 МСК).</p></div>
     </form>
   </aside>
@@ -399,13 +399,14 @@
               <a href="mailto:manager@kaznaexpert.ru">manager@kaznaexpert.ru</a>
               <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
               <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+              <a href="/kontakty/">Все контакты</a>
             </nav>
 
             <nav class="v2-footer-col" aria-label="Мы в сети">
               <h3 class="v2-footer-h">Мы в сети</h3>
-              <a href="https://t.me/Kazna_Expert" target="_blank" rel="noopener">Telegram-канал</a>
+              <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram-канал</a>
               <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener">Дзен</a>
-              <a href="https://www.klerk.ru/user/2692943/" target="_blank" rel="noopener">Клерк</a>
+              <a href="https://www.klerk.ru/user/2703999/" target="_blank" rel="noopener">Клерк</a>
               <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener">TenChat</a>
             </nav>
 
