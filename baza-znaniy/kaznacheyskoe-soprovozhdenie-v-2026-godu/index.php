@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Казначейское сопровождение в 2026 году: пороги и изменения</title>
-<meta name="description" content="Казначейское сопровождение в 2026 году по статье 5 Закона № 426-ФЗ: какие средства подпадают, пороги 100/10/3 млн, остатки и что изменилось.">
+<title>Казначейское сопровождение в 2026: что изменилось с 2025</title>
+<meta name="description" content="Что изменилось в казначейском сопровождении в 2026 году: статья 5 закона № 426-ФЗ, остатки целевых средств на 1 января, переходный мониторинг. Пороги — кратко, со ссылкой на полный разбор.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение в 2026 году: какие средства подпадают, пороги и что нового", "description": "Казначейское сопровождение в 2026 году по статье 5 Закона № 426-ФЗ: какие средства подпадают, пороги 100/10/3 млн, остатки и что изменилось.", "inLanguage": "ru-RU", "datePublished": "2026-06-23", "dateModified": "2026-07-13", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-v-2026-godu/"}, "citation": ["Федеральный закон от 28.11.2025 № 426-ФЗ «О федеральном бюджете на 2026 год и на плановый период 2027 и 2028 годов», статья 5 — особенности использования средств и казначейское сопровождение в 2026 году (перечень целевых средств, пороги 100/10/3 млн ₽, остатки, мониторинг). consultant.ru, pravo.gov.ru. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/", "Бюджетный кодекс РФ, статьи 242.23–242.26 — основы казначейского сопровождения, целевые средства, особенности по уровням бюджета. consultant.ru. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_19702/", "Статья 242.13-1 БК РФ — казначейский мониторинг; новая редакция с 1 сентября 2026 года (Федеральный закон от 24.06.2025 № 158-ФЗ); часть 9 статьи 5 Закона № 426-ФЗ — переходный порядок. consultant.ru.", "Постановление Правительства РФ от 24.11.2021 № 2024 «О правилах казначейского сопровождения»; приказ Минфина России от 17.12.2021 № 214н — порядок санкционирования. minfin.gov.ru, consultant.ru."]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение в 2026 году: что изменилось по сравнению с 2025-м", "description": "Что изменилось в казначейском сопровождении в 2026 году: статья 5 закона № 426-ФЗ, остатки целевых средств на 1 января, переходный мониторинг. Пороги — кратко, со ссылкой на полный разбор.", "inLanguage": "ru-RU", "datePublished": "2026-06-23", "dateModified": "2026-07-13", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-v-2026-godu/"}, "citation": ["Федеральный закон от 28.11.2025 № 426-ФЗ «О федеральном бюджете на 2026 год и на плановый период 2027 и 2028 годов», статья 5 — особенности использования средств и казначейское сопровождение в 2026 году (перечень целевых средств, пороги 100/10/3 млн ₽, остатки, мониторинг). consultant.ru, pravo.gov.ru. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/", "Бюджетный кодекс РФ, статьи 242.23–242.26 — основы казначейского сопровождения, целевые средства, особенности по уровням бюджета. consultant.ru. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_19702/", "Статья 242.13-1 БК РФ — казначейский мониторинг; новая редакция с 1 сентября 2026 года (Федеральный закон от 24.06.2025 № 158-ФЗ); часть 9 статьи 5 Закона № 426-ФЗ — переходный порядок. consultant.ru.", "Постановление Правительства РФ от 24.11.2021 № 2024 «О правилах казначейского сопровождения»; приказ Минфина России от 17.12.2021 № 214н — порядок санкционирования. minfin.gov.ru, consultant.ru."]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Казначейское сопровождение в 2026 году", "item": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-v-2026-godu/"}]}
@@ -78,8 +78,8 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Казначейское сопровождение в 2026 году: какие средства подпадают, пороги и что нового">
-<meta property="og:description" content="Казначейское сопровождение в 2026 году по статье 5 Федерального закона № 426-ФЗ: перечень целевых средств, пороги авансов и расчётов (100/10/3 млн ₽), правила по остаткам на 1 января 2026 года, казначейский мониторинг и ключевые изменения.">
+<meta property="og:title" content="Казначейское сопровождение в 2026 году: что изменилось по сравнению с 2025-м">
+<meta property="og:description" content="Что изменилось в казначейском сопровождении в 2026 году: статья 5 закона № 426-ФЗ, остатки целевых средств на 1 января, переходный мониторинг. Пороги — кратко, со ссылкой на полный разбор.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-v-2026-godu/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
@@ -90,8 +90,8 @@
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Казначейское сопровождение в 2026 году: какие средства подпадают, пороги и что нового">
-<meta name="twitter:description" content="Казначейское сопровождение в 2026 году по статье 5 Федерального закона № 426-ФЗ: перечень целевых средств, пороги авансов и расчётов (100/10/3 млн ₽), правила по остаткам на 1 января 2026 года, казначейский мониторинг и ключевые изменения.">
+<meta name="twitter:title" content="Казначейское сопровождение в 2026 году: что изменилось по сравнению с 2025-м">
+<meta name="twitter:description" content="Что изменилось в казначейском сопровождении в 2026 году: статья 5 закона № 426-ФЗ, остатки целевых средств на 1 января, переходный мониторинг. Пороги — кратко, со ссылкой на полный разбор.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 
@@ -176,7 +176,7 @@
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Основы <span class="fresh">Актуально на 2026</span></div>
-    <h1>Казначейское сопровождение в 2026 году: какие средства подпадают, пороги и что нового</h1>
+    <h1>Казначейское сопровождение в 2026 году: что изменилось по сравнению с 2025-м</h1>
     <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>17 мин чтения</span><span class="dot">·</span><span>Обновлено 13 июля 2026</span></div>
     </div>
 
@@ -193,7 +193,8 @@
       </ol>
     </details>
 
-    <div class="tldr">В 2026 году казначейское сопровождение средств установлено статьёй 5 Федерального закона от 28.11.2025 № 426-ФЗ о федеральном бюджете. Под сопровождение без порога попадают субсидии и бюджетные инвестиции юридическим лицам, взносы в уставный капитал и гранты; авансы по госконтрактам (кроме гособоронзаказа) — от 100 млн ₽, авансы федеральных учреждений по субсидиям — от 10 млн ₽, расчёты по контрактам с единственным поставщиком и по гособоронзаказу — свыше 3 млн ₽. Пороги задаются ежегодно законом о бюджете.<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a></div>
+    <div class="tldr">В 2026 году перечень средств под казначейским сопровождением задаёт статья 5 Федерального закона от 28.11.2025 № 426-ФЗ о федеральном бюджете. Эта статья — о том, что изменилось по сравнению с 2025-м: обновлённые правила, судьба остатков целевых средств на 1 января и переходный режим казначейского мониторинга. Пороги 100/10/3 млн ₽ действуют и в 2026-м — полный перечень, кто под них попадает, вынесен в отдельный базовый разбор.<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a></div>
+<div class="related-inline"><b>Базовый разбор:</b> полный перечень «кто попадает под казначейское сопровождение», пороги и исключения — в статье <a href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/">кто попадает под казначейское сопровождение</a>. Здесь — только изменения 2026 года.</div>
 
     <section class="keyfacts grain" aria-label="Ключевые факты">
       <h2>Коротко о главном</h2>
