@@ -1056,7 +1056,7 @@ header("Cache-Control: public, max-age=300, must-revalidate");
             <div class="v2-expert-split">
               <div class="v2-expert-portrait v2-reveal" style="display:flex;align-items:center;justify-content:center;background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.1));border-radius:16px;padding:44px 34px;min-height:340px">
                 <div style="text-align:center;max-width:340px">
-                  <div style="width:74px;height:74px;margin:0 auto 20px;border-radius:50%;display:flex;align-items:center;justify-content:center;background:rgba(139,111,71,.12);color:var(--accent,#8B6F47);font-family:var(--font-display,'Playfair Display',serif);font-weight:600;font-size:27px">ЯМ</div>
+                  <picture><source srcset="/img/team/mihailov-sq.webp" type="image/webp"><img src="/img/team/mihailov-sq.jpg" alt="Ярослав Михайлов — основатель КазнаЭксперт" width="96" height="96" loading="lazy" decoding="async" style="width:96px;height:96px;margin:0 auto 20px;border-radius:50%;object-fit:cover;display:block;border:1px solid var(--hair,rgba(26,26,26,.14))"></picture>
                   <p style="font-family:var(--font-display,'Playfair Display',serif);font-size:21px;line-height:1.42;color:var(--ink,#1A1A1A);margin:0 0 14px">«Знаю казначейство с двух сторон — изнутри и со стороны бизнеса. Поэтому ваши платежи проходят санкционирование без возвратов».</p>
                   <div style="font-size:13px;color:var(--mute,#6E6B66)">Ярослав Михайлов · основатель</div>
                 </div>

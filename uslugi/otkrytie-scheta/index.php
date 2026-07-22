@@ -145,6 +145,7 @@
 <style>@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}</style>
 <section class="v2-hero">
   <div class="v2-container">
+    <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › Открытие казначейского счёта</nav>
     <div class="v2-hero-grid">
       <div class="v2-hero-main">
         <div class="v2-hero-eyebrow-row">

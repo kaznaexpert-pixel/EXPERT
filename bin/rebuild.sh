@@ -12,6 +12,7 @@ step "1/5 Генераторы"
 php bin/generate-llms.php            || FAIL=1
 php bin/generate-reference-data.php  || FAIL=1
 php bin/generate-rss.php             || FAIL=1
+python3 bin/update-sitemap-lastmod.py || FAIL=1
 
 step "2/5 Валидация XML (sitemap, feed)"
 python3 - <<'EOF' || FAIL=1

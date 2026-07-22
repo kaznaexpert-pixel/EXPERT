@@ -143,6 +143,7 @@
 
 <section class="v2-hero">
   <div class="v2-container">
+    <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › Сопровождение: аванс</nav>
     <div class="v2-hero-grid">
       <div class="v2-hero-main">
         <div class="v2-hero-eyebrow-row">
