@@ -321,6 +321,7 @@
       <details><summary>Как выводится прибыль по IT-контракту?</summary><p>После исполнения контракта или его этапа — по коду 0999 на основании актов приёмки и расчёта прибыли, в порядке, предусмотренном контрактом и Правилами № 2024. До приёмки прибыль с лицевого счёта не выводится.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:oplata-inostrannomu-postavshchiku-pri-ks">Если в проекте есть закупки у зарубежных вендоров — лицензии, оборудование, работы иностранного субподрядчика, — платёж идёт по особому маршруту через собственный банковский счёт и валютный контроль; подробности в материале про <a href="/baza-znaniy/oplata-inostrannomu-postavshchiku-pri-ks/">оплату иностранному поставщику</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -379,6 +380,7 @@
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-niokr/"><div class="card__cover"><span>НИОКР</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение НИОКР: затраты и результат</h3><div class="card__meta">Сопровождение · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/elektronnoe-aktirovanie-priyomka-44-fz/"><div class="card__cover"><span>Актирование</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Электронное актирование и приёмка по 44-ФЗ</h3><div class="card__meta">Операции · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/operacii-po-licevomu-schetu-pri-ks/"><div class="card__cover"><span>Операции по счёту</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Какие операции можно проводить по лицевому счёту</h3><div class="card__meta">Операции · 13 мин</div></div></a>
+    <!-- auto-related:oplata-inostrannomu-postavshchiku-pri-ks --><a class="card reveal" href="/baza-znaniy/oplata-inostrannomu-postavshchiku-pri-ks/"><div class="card__cover"><span>Иностранный поставщик</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Оплата иностранному поставщику при казначейском сопровождении</h3><div class="card__meta">Операции · 15 мин</div></div></a>
   </div>
 </section>
 

@@ -303,6 +303,7 @@
       <details><summary>Проверяет ли казначейство саму смету при санкционировании?</summary><p>Казначейство не пересчитывает смету заново и не оценивает качество работ. При санкционировании оно сверяет, что оплачиваемые объёмы и суммы по КС-2 и КС-3 соответствуют смете и условиям контракта и не выходят за его цену. Достоверность самой сметы устанавливает экспертиза до контракта.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-proektnyh-rabot">Смету готовит проектировщик — и его контракт живёт в казначейском контуре по собственным правилам статьи 110.2 закона № 44-ФЗ: без положительного заключения экспертизы нет результата работ; подробности в материале про <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-proektnyh-rabot/">сопровождение проектных работ</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -376,6 +377,7 @@
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-stroitelnyh-kontraktov/"><div class="card__cover"><span>Стройка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение строительных контрактов в 2026</h3><div class="card__meta">Сопровождение · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/avans-na-stroitelnye-materialy-pri-ks/"><div class="card__cover"><span>Аванс</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Аванс на строительные материалы при сопровождении 2026</h3><div class="card__meta">Сопровождение · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/priyomka-rabot-ks-2-ks-3/"><div class="card__cover"><span>КС-2/КС-3</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Приёмка работ по формам КС-2 и КС-3 при сопровождении</h3><div class="card__meta">Приёмка · 13 мин</div></div></a>
+    <!-- auto-related:kaznacheyskoe-soprovozhdenie-proektnyh-rabot --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-proektnyh-rabot/"><div class="card__cover"><span>Проектные работы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение проектных и изыскательских работ</h3><div class="card__meta">Сопровождение · 15 мин</div></div></a>
   </div>
 </section>
 

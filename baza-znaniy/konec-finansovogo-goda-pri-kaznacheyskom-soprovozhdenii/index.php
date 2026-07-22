@@ -304,6 +304,7 @@
       <details><summary>Что делать, если платёж завис в двадцатых числах декабря?</summary><p>Сначала диагностика: возврат документа на доработку, очередь санкционирования или отсутствие лимитов у заказчика — это разные проблемы с разными решениями. Запросите статус в территориальном органе и у заказчика; если причина в документах — исправляйте немедленно, шанс успеть в текущий год ещё есть.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:limity-byudzhetnyh-obyazatelstv-i-oplata-kontrakta">Именно на рубеже года заказчики чаще всего ссылаются на исчерпанные или недоведённые лимиты: правовую цену этого довода и пошаговый план исполнителя смотрите в материале про <a href="/baza-znaniy/limity-byudzhetnyh-obyazatelstv-i-oplata-kontrakta/">лимиты бюджетных обязательств и оплату контракта</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -387,6 +388,7 @@
     <a class="card reveal" href="/baza-znaniy/elektronnoe-aktirovanie-priyomka-44-fz/"><div class="card__cover"><span>Актирование</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Электронное актирование и приёмка в ЕИС по 44-ФЗ</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/ufk-zaderzhivaet-platezh/"><div class="card__cover"><span>Задержка платежа</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">УФК задерживает платёж: причины, сроки и что делать</h3><div class="card__meta">Операции · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/vozvrat-avansa-po-goskontraktu/"><div class="card__cover"><span>Возврат аванса</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Возврат аванса по госконтракту: когда нужен и порядок</h3><div class="card__meta">Операции · 15 мин</div></div></a>
+    <!-- auto-related:limity-byudzhetnyh-obyazatelstv-i-oplata-kontrakta --><a class="card reveal" href="/baza-znaniy/limity-byudzhetnyh-obyazatelstv-i-oplata-kontrakta/"><div class="card__cover"><span>Нет лимитов</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Нет лимитов бюджетных обязательств: что делать исполнителю</h3><div class="card__meta">Основы · 14 мин</div></div></a>
   </div>
 </section>
 
