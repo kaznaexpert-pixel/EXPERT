@@ -188,7 +188,18 @@
       <li id="ref-1">Официальный интернет-портал правовой информации. <a href="http://publication.pravo.gov.ru/" target="_blank" rel="noopener">pravo.gov.ru</a></li>
       <li id="ref-2">Документы приведены по справочным правовым системам (КонсультантПлюс, ГАРАНТ) и сайтам Минфина и Казначейства.</li>
     </ol><p class="refs__note">Редакции НПА — «живые» и периодически меняются. Перед применением сверяйте действующую редакцию по ссылке на первоисточник. Материал носит справочный характер и не является юридической консультацией.</p></section>
-  </article>
+  
+    <div class="author">
+      <div class="author__av">ЯМ</div>
+      <div class="author__body">
+        <div class="author__name">Ярослав Михайлов</div>
+        <div class="author__role">Основатель и главный эксперт КазнаЭксперт</div>
+        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Работает с контрактами по 44-ФЗ, 223-ФЗ и ГОЗ; с 2021 года ведёт клиентов как ИП «КазнаЭксперт». Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
+        <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
+      </div>
+    </div>
+
+</article>
   <aside class="rail">
     <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="npa-hub">
       <div class="railform__badge">Разбор эксперта</div>

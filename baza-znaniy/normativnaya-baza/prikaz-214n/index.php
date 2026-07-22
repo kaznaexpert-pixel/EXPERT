@@ -211,7 +211,18 @@
     <section class="refs" aria-label="Источники"><h2>Источник</h2><ol>
       <li id="ref-1">Приказ Минфина России от 17.12.2021 № 214н «Об утверждении Порядка осуществления территориальными органами Федерального казначейства санкционирования операций со средствами участников казначейского сопровождения». <a href="https://www.consultant.ru/document/cons_doc_LAW_405138/" target="_blank" rel="noopener">Первоисточник</a></li>
     </ol><p class="refs__note">Редакция документа актуальна на дату обновления страницы; НПА периодически меняются — сверяйтесь с первоисточником. Материал справочный, не является юридической консультацией.</p></section>
-  </article>
+  <div class="related-inline"><b>Рядом в нормативной базе:</b> <a href="/baza-znaniy/normativnaya-baza/pp-2479-koo/">Постановление № 2479</a> · <a href="/baza-znaniy/normativnaya-baza/prikaz-44n-licevye-scheta/">Приказ Казначейства № 44н</a> · <a href="/baza-znaniy/normativnaya-baza/">все разборы НПА</a></div>
+
+    <div class="author">
+      <div class="author__av">ЯМ</div>
+      <div class="author__body">
+        <div class="author__name">Ярослав Михайлов</div>
+        <div class="author__role">Основатель и главный эксперт КазнаЭксперт</div>
+        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Работает с контрактами по 44-ФЗ, 223-ФЗ и ГОЗ; с 2021 года ведёт клиентов как ИП «КазнаЭксперт». Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
+        <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
+      </div>
+    </div>
+</article>
   <aside class="rail">
     <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="npa-prikaz-214n">
       <div class="railform__badge">Разбор эксперта</div>

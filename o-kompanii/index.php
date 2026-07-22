@@ -28,6 +28,9 @@
 {"@context": "https://schema.org", "@type": "AboutPage", "name": "О компании КазнаЭксперт", "url": "https://kaznaexpert.ru/o-kompanii/", "mainEntity": {"@type": "ProfessionalService", "name": "КазнаЭксперт", "description": "Казначейское сопровождение госконтрактов под ключ по всей России: открытие и резервирование лицевых счетов в ТОФК, ведение операций, ГОЗ, спасение проблемных контрактов.", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "email": "manager@kaznaexpert.ru", "areaServed": {"@type": "Country", "name": "Россия"}, "founder": {"@type": "Person", "name": "Ярослав Михайлов", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "knowsAbout": ["Казначейское сопровождение", "Гособоронзаказ", "Лицевые счета в казначействе", "Санкционирование расходов", "Раздельный учёт по ГОЗ"], "identifier": [{"@type": "PropertyValue", "name": "ОГРНИП", "value": "321784700367672"}, {"@type": "PropertyValue", "name": "ИНН", "value": "781428314589"}], "@id": "https://kaznaexpert.ru/#organization"}}
 </script>
 <script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Кто ведёт КазнаЭксперт?", "acceptedAnswer": {"@type": "Answer", "text": "Практику основал и ведёт Ярослав Михайлов — эксперт по казначейскому сопровождению, работавший в системе Федерального казначейства с 2009 по 2019 год. С 2021 года практика работает как ИП «КазнаЭксперт»."}}, {"@type": "Question", "name": "Как проверить компанию перед началом работы?", "acceptedAnswer": {"@type": "Answer", "text": "По открытым реестрам: карточки ИП на Rusprofile, «За честный бизнес» и Audit-it — прямые ссылки есть в подвале сайта и на этой странице. Реквизиты: ИП Михайлов Ярослав Алексеевич, ИНН 781428314589, ОГРНИП 321784700367672."}}, {"@type": "Question", "name": "С какими контрактами вы работаете?", "acceptedAnswer": {"@type": "Answer", "text": "Сопровождаем контракты по 44-ФЗ, 223-ФЗ и гособоронзаказу (275-ФЗ): открытие и ведение лицевых счетов, санкционирование, раздельный учёт, отчётность. Отдельно берём спасение проблемных контрактов и аудит текущего сопровождения."}}, {"@type": "Question", "name": "Работаете ли вы с регионами?", "acceptedAnswer": {"@type": "Answer", "text": "Да, по всей России дистанционно: лицевой счёт открывается в любом территориальном органе Федерального казначейства через «Электронный бюджет», личное присутствие не требуется. Базовый офис — Санкт-Петербург."}}]}
+</script>
+<script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"О компании"}]}
 </script>
 
@@ -251,6 +254,17 @@
   </div>
 </section>
 
+
+<!-- kb-faq -->
+<section class="kb-faq" aria-labelledby="faq"><style>.kb-faq{max-width:1240px;margin:48px auto;padding:0 24px;font-family:'Inter',system-ui,sans-serif}.kb-faq>h2{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:clamp(1.5rem,2vw+1rem,2rem);letter-spacing:-.01em;margin:0 0 18px;color:var(--ink,#1A1A1A)}</style>
+  <h2 id="faq">Частые вопросы</h2>
+  <div class="faq">
+      <details><summary>Кто ведёт КазнаЭксперт?</summary><p>Практику основал и ведёт Ярослав Михайлов — эксперт по казначейскому сопровождению, работавший в системе Федерального казначейства с 2009 по 2019 год. С 2021 года практика работает как ИП «КазнаЭксперт».</p></details>
+      <details><summary>Как проверить компанию перед началом работы?</summary><p>По открытым реестрам: карточки ИП на Rusprofile, «За честный бизнес» и Audit-it — прямые ссылки есть в подвале сайта и на этой странице. Реквизиты: ИП Михайлов Ярослав Алексеевич, ИНН 781428314589, ОГРНИП 321784700367672.</p></details>
+      <details><summary>С какими контрактами вы работаете?</summary><p>Сопровождаем контракты по 44-ФЗ, 223-ФЗ и гособоронзаказу (275-ФЗ): открытие и ведение лицевых счетов, санкционирование, раздельный учёт, отчётность. Отдельно берём спасение проблемных контрактов и аудит текущего сопровождения.</p></details>
+      <details><summary>Работаете ли вы с регионами?</summary><p>Да, по всей России дистанционно: лицевой счёт открывается в любом территориальном органе Федерального казначейства через «Электронный бюджет», личное присутствие не требуется. Базовый офис — Санкт-Петербург.</p></details>
+      </div>
+</section>
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
 

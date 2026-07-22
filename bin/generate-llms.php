@@ -78,6 +78,11 @@ foreach ($TOOLS as $slug) {
 }
 $services = collect($ROOT . '/uslugi');
 $regions  = collect($ROOT . '/regiony'); // noindex-города отпадут сами
+// Подстраницы справочников: коды направлений расходования и разборы НПА
+$kodyPages = collect($ROOT . '/baza-znaniy/kody');
+$npaPages  = collect($ROOT . '/baza-znaniy/normativnaya-baza');
+ksort($kodyPages, SORT_NATURAL);
+ksort($npaPages, SORT_NATURAL);
 
 /**
  * Нормализация категорий: eyebrow-метки в корпусе неоднородны (35 вариантов),
@@ -176,6 +181,12 @@ foreach ($TOOLS as $slug) {
     $L[] = "- [{$t['title']}]($BASE/baza-znaniy/$slug/): {$t['desc']}";
 }
 $L[] = "";
+$L[] = "### Коды направлений расходования целевых средств — страницы кодов\n";
+foreach ($kodyPages as $p) $L[] = "- [{$p['title']}]($BASE/baza-znaniy/kody/{$p['slug']}/): {$p['desc']}";
+$L[] = "";
+$L[] = "### Нормативная база — разборы отдельных НПА\n";
+foreach ($npaPages as $p) $L[] = "- [{$p['title']}]($BASE/baza-znaniy/normativnaya-baza/{$p['slug']}/): {$p['desc']}";
+$L[] = "";
 $L[] = "## Регионы\n";
 $L[] = "Работаем со всеми регионами РФ удалённо. Страницы крупнейших центров:";
 foreach ($regions as $r) $L[] = "- [{$r['title']}]($BASE/regiony/{$r['slug']}/)";
@@ -213,6 +224,22 @@ foreach ($byCat as $cat => $list) {
         foreach ($a['facts'] as $fact) $F[] = "- $fact";
         $F[] = "";
     }
+}
+$F[] = "## Коды направлений расходования — страницы кодов\n";
+foreach ($kodyPages as $p) {
+    $F[] = "### {$p['title']}";
+    $F[] = "$BASE/baza-znaniy/kody/{$p['slug']}/";
+    if ($p['desc'] !== '') $F[] = $p['desc'];
+    foreach ($p['facts'] as $fact) $F[] = "- $fact";
+    $F[] = "";
+}
+$F[] = "## Нормативная база — разборы отдельных НПА\n";
+foreach ($npaPages as $p) {
+    $F[] = "### {$p['title']}";
+    $F[] = "$BASE/baza-znaniy/normativnaya-baza/{$p['slug']}/";
+    if ($p['desc'] !== '') $F[] = $p['desc'];
+    foreach ($p['facts'] as $fact) $F[] = "- $fact";
+    $F[] = "";
 }
 $F[] = $contacts;
 $F[] = "Сгенерировано: {$today}. Канонический домен: https://kaznaexpert.ru/";

@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Частые вопросы о казначейском сопровождении — FAQ</title>
-<meta name="description" content="Ответы эксперта на частые вопросы о казначейском сопровождении: счета, санкционирование, ГОЗ, раздельный учёт, ГИИС «Электронный бюджет», услуги и цены. 150+ вопросов по рубрикам.">
+<meta name="description" content="Ответы эксперта на частые вопросы о казначейском сопровождении: счета, санкционирование, ГОЗ, раздельный учёт, ГИИС «Электронный бюджет», услуги и цены. 160+ вопросов по рубрикам.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -78,7 +78,7 @@ echo json_encode(['@context' => 'https://schema.org', '@type' => 'FAQPage',
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
 <meta property="og:title" content="Частые вопросы о казначейском сопровождении — FAQ">
-<meta property="og:description" content="Ответы эксперта на частые вопросы о казначейском сопровождении: счета, санкционирование, ГОЗ, раздельный учёт, ГИИС «Электронный бюджет», услуги и цены. 150+ вопросов по рубрикам.">
+<meta property="og:description" content="Ответы эксперта на частые вопросы о казначейском сопровождении: счета, санкционирование, ГОЗ, раздельный учёт, ГИИС «Электронный бюджет», услуги и цены. 160+ вопросов по рубрикам.">
 <meta property="og:url" content="https://kaznaexpert.ru/faq/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
@@ -90,7 +90,7 @@ echo json_encode(['@context' => 'https://schema.org', '@type' => 'FAQPage',
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Частые вопросы о казначейском сопровождении — FAQ">
-<meta name="twitter:description" content="Ответы эксперта на частые вопросы о казначейском сопровождении: счета, санкционирование, ГОЗ, раздельный учёт, ГИИС «Электронный бюджет», услуги и цены. 150+ вопросов по рубрикам.">
+<meta name="twitter:description" content="Ответы эксперта на частые вопросы о казначейском сопровождении: счета, санкционирование, ГОЗ, раздельный учёт, ГИИС «Электронный бюджет», услуги и цены. 160+ вопросов по рубрикам.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

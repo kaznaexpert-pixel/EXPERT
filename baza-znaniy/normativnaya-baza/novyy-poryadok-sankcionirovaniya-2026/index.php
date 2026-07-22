@@ -211,7 +211,18 @@
     <section class="refs" aria-label="Источники"><h2>Источник</h2><ol>
       <li id="ref-1">Приказ Минфина России «Об утверждении Порядка осуществления территориальными органами Федерального казначейства санкционирования операций со средствами участников казначейского сопровождения» (подготовленный текст от 20.05.2026; заменит приказ № 214н). <a href="https://base.garant.ru/57055965/" target="_blank" rel="noopener">Первоисточник</a></li>
     </ol><p class="refs__note">Редакция документа актуальна на дату обновления страницы; НПА периодически меняются — сверяйтесь с первоисточником. Материал справочный, не является юридической консультацией.</p></section>
-  </article>
+  <div class="related-inline"><b>Рядом в нормативной базе:</b> <a href="/baza-znaniy/normativnaya-baza/fz-426-byudzhet-2026/">426-ФЗ о бюджете на 2026</a> · <a href="/baza-znaniy/normativnaya-baza/pismo-1232-svedeniya/">Письмо Минфина и Казначейства № 02-12-10/1232</a> · <a href="/baza-znaniy/normativnaya-baza/">все разборы НПА</a></div>
+
+    <div class="author">
+      <div class="author__av">ЯМ</div>
+      <div class="author__body">
+        <div class="author__name">Ярослав Михайлов</div>
+        <div class="author__role">Основатель и главный эксперт КазнаЭксперт</div>
+        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Работает с контрактами по 44-ФЗ, 223-ФЗ и ГОЗ; с 2021 года ведёт клиентов как ИП «КазнаЭксперт». Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
+        <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
+      </div>
+    </div>
+</article>
   <aside class="rail">
     <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="npa-novyy-poryadok-sankcionirovaniya-2026">
       <div class="railform__badge">Разбор эксперта</div>
