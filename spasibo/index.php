@@ -1,4 +1,4 @@
-<?php header("Cache-Control: no-store"); ?>
+<?php /* Cache-Control: no-store ставит .htaccess (env NO_CACHE_PAGE) — единая точка правды, иначе в ответе дублируются заголовки */ ?>
 <!DOCTYPE html>
 <html lang="ru">
 <head>

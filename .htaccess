@@ -112,6 +112,11 @@ SetEnvIf Request_URI "^/spasibo/" NO_CACHE_PAGE
   <FilesMatch "\.(html|htm|php)$">
     Header set Cache-Control "public, max-age=300, must-revalidate" env=!NO_CACHE_PAGE
   </FilesMatch>
+  # Для NO_CACHE_PAGE гасим и наследие mod_expires (Expires + max-age),
+  # затем ставим единственный Cache-Control: no-store
+  Header unset Cache-Control env=NO_CACHE_PAGE
+  Header unset Expires env=NO_CACHE_PAGE
+  Header set Cache-Control "no-store" env=NO_CACHE_PAGE
 
   # CSS / JS — месяц с обязательной проверкой
   <FilesMatch "\.(css|js)$">
