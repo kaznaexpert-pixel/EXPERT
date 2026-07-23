@@ -360,7 +360,7 @@
       <h3>Снижение судом по ст. 333 ГК РФ</h3>
       <p>Если неустойка явно несоразмерна последствиям нарушения, суд вправе её уменьшить (ст. 333 Гражданского кодекса). Для коммерческих организаций снижение возможно только по заявлению ответчика и при доказанной несоразмерности.</p>
       <h3>Списание по отдельным постановлениям</h3>
-      <p>Для ряда периодов Правительство вводило правила списания и отсрочки неустоек по госконтрактам (например, в связи с санкционными ограничениями). Условия и сроки таких послаблений меняются год от года, поэтому перед применением нужно сверяться с действующей редакцией соответствующего постановления.</p>
+      <p>Для ряда периодов Правительство вводило правила списания и отсрочки неустоек по госконтрактам (например, в связи с санкционными ограничениями). Действующий механизм — постановление № 783: когда заказчик обязан списать неустойку и как запустить сверку расчётов, разобрано в статье о <a href="/baza-znaniy/spisanie-neustoyki-po-goskontraktu/">списании неустойки по госконтракту</a>. Условия и сроки таких послаблений меняются год от года, поэтому перед применением нужно сверяться с действующей редакцией соответствующего постановления.</p>
       <div class="quote">Девять из десяти споров о неустойке выигрываются не в зале суда, а на этапе переписки: своевременное уведомление заказчика о препятствиях и аккуратно оформленная приёмка снимают половину претензий ещё до их начисления.<cite>Ярослав Михайлов, главный эксперт КазнаЭксперт</cite></div>
     </div>
 
@@ -501,6 +501,7 @@
     <!-- auto-related:srok-oplaty-po-kontraktu-44-fz --><a class="card reveal" href="/baza-znaniy/srok-oplaty-po-kontraktu-44-fz/"><div class="card__cover"><span>Оплата</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Срок оплаты по контракту 44-ФЗ: 7 и 10 дней</h3><div class="card__meta">Применимость · 13 мин</div></div></a>
     <!-- auto-related:ispolnitelnyy-list-v-kaznachejstvo --><a class="card reveal" href="/baza-znaniy/ispolnitelnyy-list-v-kaznachejstvo/"><div class="card__cover"><span>Взыскание долга</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Исполнительный лист в казначейство: взыскание с заказчика</h3><div class="card__meta">Контракты · 16 мин</div></div></a>
     <!-- auto-related:uderzhanie-neustoyki-pri-kaznacheyskom-soprovozhdenii --><a class="card reveal" href="/baza-znaniy/uderzhanie-neustoyki-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Неустойка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Удержание и зачёт неустойки при казначейском сопровождении</h3><div class="card__meta">Сопровождение · 15 мин</div></div></a>
+    <a class="card reveal" href="/baza-znaniy/spisanie-neustoyki-po-goskontraktu/"><div class="card__cover"><span>Списание</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Списание неустойки по госконтракту: правила ПП № 783</h3><p class="card__meta">Когда заказчик обязан списать пени и штрафы</p></div></a>
   </div>
 </section>
 
