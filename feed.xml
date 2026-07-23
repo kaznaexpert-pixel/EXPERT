@@ -6,7 +6,7 @@
   <atom:link href="https://kaznaexpert.ru/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Экспертные статьи о казначейском сопровождении госконтрактов: 44-ФЗ, 223-ФЗ, ГОЗ, лицевые счета, санкционирование, раздельный учёт.</description>
   <language>ru</language>
-  <lastBuildDate>Thu, 23 Jul 2026 11:45:53 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Jul 2026 13:50:45 +0000</lastBuildDate>
   <item>
     <title>Авторский надзор при казначейском сопровождении: договор и оплата</title>
     <link>https://kaznaexpert.ru/baza-znaniy/avtorskiy-nadzor-pri-kaznacheyskom-soprovozhdenii/</link>
@@ -15,11 +15,46 @@
     <description>Авторский надзор по госконтракту: когда обязателен, цена по Методике № 421/пр, договор, журнал, акты и оплата с лицевого счёта при казначейском сопровождении.</description>
   </item>
   <item>
+    <title>Казначейское сопровождение в 2026: что это</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/</guid>
+    <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Что такое казначейское сопровождение в 2026: кому нужно и от какой суммы, обычное и расширенное, отличие от банковского, пороги по 426-ФЗ, санкционирование.</description>
+  </item>
+  <item>
+    <title>Казначейское сопровождение ГОЗ 2026: 275-ФЗ, штрафы</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/</guid>
+    <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Казначейское сопровождение ГОЗ в 2026: кто обязан, порог 3 млн ₽, лицевой счёт в ТОФК, раздельный учёт по 275-ФЗ, штрафы КоАП. Экспертный разбор со ссылками на НПА.</description>
+  </item>
+  <item>
     <title>Казначейское сопровождение поставки оборудования в 2026 году</title>
     <link>https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-postavki-oborudovaniya/</link>
     <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-postavki-oborudovaniya/</guid>
     <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
     <description>Поставка оборудования по госконтракту под казначейским сопровождением: пороги, лицевой счёт, коды 0300 и 0200, аванс, монтаж, приёмка и оплата.</description>
+  </item>
+  <item>
+    <title>Кто попадает под казначейское сопровождение в 2026</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/</guid>
+    <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Кто попадает под казначейское сопровождение в 2026: пороги 100 / 10 / 3 млн ₽, какие контракты, авансы, субсидии и ГОЗ по статье 5 Закона № 426-ФЗ.</description>
+  </item>
+  <item>
+    <title>Как открыть казначейский счёт (лицевой счёт 71): документы 2026</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/licevoy-schet-71-kak-otkryt/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/licevoy-schet-71-kak-otkryt/</guid>
+    <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Как открыть казначейский счёт (лицевой счёт 71) в ТОФК: документы, порядок через «Электронный бюджет», сроки, резервирование. Пошаговый разбор, актуально на 2026.</description>
+  </item>
+  <item>
+    <title>Санкционирование расходов при казначейском сопровождении</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/poryadok-sankcionirovaniya-rashodov/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/poryadok-sankcionirovaniya-rashodov/</guid>
+    <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Санкционирование расходов при казначейском сопровождении: как ТОФК проверяет операции, ст. 242.23 БК РФ, сведения об операциях, основания отказа, сроки, расширенное.</description>
   </item>
   <item>
     <title>Списание неустойки по госконтракту: правила ПП № 783 в 2026 году</title>
@@ -176,46 +211,11 @@
     <description>Что такое Федеральное казначейство, ТОФК и УФК: правовой статус (ПП РФ № 703), территориальные органы, функции, единый казначейский счёт и роль для исполнителя.</description>
   </item>
   <item>
-    <title>Казначейское сопровождение в 2026: что это</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/</guid>
-    <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Что такое казначейское сопровождение в 2026: кому нужно и от какой суммы, обычное и расширенное, отличие от банковского, пороги по 426-ФЗ, санкционирование.</description>
-  </item>
-  <item>
     <title>Как зарезервировать счёт по ГОЗ в банке</title>
     <link>https://kaznaexpert.ru/baza-znaniy/kak-zarezervirovat-schet-po-goz/</link>
     <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/kak-zarezervirovat-schet-po-goz/</guid>
     <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
     <description>Как зарезервировать отдельный счёт по ГОЗ: чем резервирование отличается от открытия, в каком уполномоченном банке резервировать и что нужно из документов.</description>
-  </item>
-  <item>
-    <title>Операции по лицевому счёту при казначейском сопровождении</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/operacii-po-licevomu-schetu-pri-ks/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/operacii-po-licevomu-schetu-pri-ks/</guid>
-    <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Режим лицевого счёта при казначейском сопровождении: что можно оплачивать с целевого счёта, что запрещено, можно ли снимать наличные и выводить прибыль.</description>
-  </item>
-  <item>
-    <title>Пени и штрафы по 44-ФЗ: калькулятор неустойки 2026</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/peni-i-shtrafy-po-44-fz/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/peni-i-shtrafy-po-44-fz/</guid>
-    <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Как рассчитать пени и штрафы по 44-ФЗ в 2026: формула 1/300 ключевой ставки, таблица штрафов ПП № 1042, онлайн-калькулятор и как снизить неустойку.</description>
-  </item>
-  <item>
-    <title>Перевод цены ГОЗ в фиксированную: допсоглашение</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz/</guid>
-    <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Как перевести ориентировочную цену ГОЗ в фиксированную: сроки, пакет РКМ, готовая структура допсоглашения о переводе цены и штрафы от цены этапа. ПП № 1465.</description>
-  </item>
-  <item>
-    <title>Уполномоченные банки по ГОЗ: ПСБ и опорный банк ОПК</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/upolnomochennye-banki-po-goz/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/upolnomochennye-banki-po-goz/</guid>
-    <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Уполномоченные банки по гособоронзаказу: что это и требования 275-ФЗ, ПСБ как опорный банк ОПК, банковское сопровождение и режим отдельного счёта в 2026 году.</description>
   </item>
 </channel>
 </rss>

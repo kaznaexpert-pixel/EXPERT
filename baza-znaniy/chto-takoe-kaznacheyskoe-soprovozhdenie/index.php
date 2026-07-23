@@ -25,7 +25,7 @@
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение в 2026 году: что это, как работает и кому нужно", "description": "Что такое казначейское сопровождение, кому и от какой суммы оно нужно в 2026 году, обычное и расширенное казначейское сопровождение, отличие от банковского, пороги по 426-ФЗ и как проходит санкционирование платежей.", "inLanguage": "ru-RU", "datePublished": "2026-06-05", "dateModified": "2026-07-14", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"}, "citation": ["https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/", "https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/", "https://www.consultant.ru/document/cons_doc_LAW_401366/", "https://www.garant.ru/news/1927461/", "https://www.garant.ru/products/ipo/prime/doc/413709754/", "https://www.consultant.ru/document/cons_doc_LAW_405138/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение в 2026 году: что это, как работает и кому нужно", "description": "Что такое казначейское сопровождение, кому и от какой суммы оно нужно в 2026 году, обычное и расширенное казначейское сопровождение, отличие от банковского, пороги по 426-ФЗ и как проходит санкционирование платежей.", "inLanguage": "ru-RU", "datePublished": "2026-06-05", "dateModified": "2026-07-23", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"}, "citation": ["https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/", "https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/", "https://www.consultant.ru/document/cons_doc_LAW_401366/", "https://www.garant.ru/news/1927461/", "https://www.garant.ru/products/ipo/prime/doc/413709754/", "https://www.consultant.ru/document/cons_doc_LAW_405138/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Казначейское сопровождение: что это и как работает"}]}
@@ -88,7 +88,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Казначейское сопровождение — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-07-14T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-07-23T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -182,7 +182,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Основы <span class="fresh">Актуально на 2026</span></div>
     <h1>Казначейское сопровождение в 2026 году: что это, как работает и кому нужно</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>18 мин чтения</span><span class="dot">·</span><span>Обновлено 14 июля 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>18 мин чтения</span><span class="dot">·</span><span>Обновлено 23 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -295,6 +295,44 @@
     <div class="answer reveal">
       <p>На практике механизм укладывается в понятную последовательность. Ниже — типовой путь исполнителя от заключения контракта до получения денег за выполненную работу.</p>
     </div>
+    <figure class="kx-fig" style="margin:26px 0 6px;overflow-x:auto">
+      <svg viewBox="0 0 680 596" role="img" aria-labelledby="figFlowT figFlowD" style="display:block;width:100%;max-width:680px;height:auto;font-family:'Inter',-apple-system,'Segoe UI',sans-serif">
+        <title id="figFlowT">Путь целевых средств при казначейском сопровождении</title>
+        <desc id="figFlowD">Заказчик перечисляет средства на лицевой счёт исполнителя в казначействе; каждый платёж проходит проверку УФК: при успехе деньги уходят поставщикам, на зарплату и налоги, при отказе распоряжение возвращается на доработку с кодом причины.</desc>
+        <rect x="140" y="8" width="400" height="72" rx="12" fill="#FBF9F4" stroke="rgba(26,26,26,.18)"/>
+        <text x="340" y="38" text-anchor="middle" font-size="17" font-weight="600" fill="#1A1A1A">Заказчик</text>
+        <text x="340" y="60" text-anchor="middle" font-size="13.5" fill="#6E6B66">перечисляет аванс или оплату по госконтракту</text>
+        <line x1="340" y1="80" x2="340" y2="118" stroke="#8B6F47" stroke-width="1.6"/>
+        <path d="M334 111 L340 121 L346 111" fill="none" stroke="#8B6F47" stroke-width="1.6"/>
+        <rect x="110" y="122" width="460" height="86" rx="12" fill="rgba(139,111,71,.10)" stroke="#8B6F47"/>
+        <text x="340" y="153" text-anchor="middle" font-size="17" font-weight="600" fill="#1A1A1A">Лицевой счёт исполнителя «71» в ТОФК</text>
+        <text x="340" y="176" text-anchor="middle" font-size="13.5" fill="#6E6B66">не банковский счёт: деньги под контролем казначейства,</text>
+        <text x="340" y="193" text-anchor="middle" font-size="13.5" fill="#6E6B66">свободно снять или перевести их нельзя</text>
+        <line x1="340" y1="208" x2="340" y2="246" stroke="#8B6F47" stroke-width="1.6"/>
+        <path d="M334 239 L340 249 L346 239" fill="none" stroke="#8B6F47" stroke-width="1.6"/>
+        <text x="352" y="232" font-size="12.5" fill="#6E6B66">распоряжение + документы-основания</text>
+        <rect x="140" y="250" width="400" height="72" rx="12" fill="#FBF9F4" stroke="rgba(26,26,26,.18)"/>
+        <text x="340" y="280" text-anchor="middle" font-size="17" font-weight="600" fill="#1A1A1A">Проверка УФК (санкционирование)</text>
+        <text x="340" y="302" text-anchor="middle" font-size="13.5" fill="#6E6B66">соответствие контракту, сведениям и кодам направления расходования</text>
+        <line x1="340" y1="322" x2="340" y2="366" stroke="#8B6F47" stroke-width="1.6"/>
+        <path d="M334 359 L340 369 L346 359" fill="none" stroke="#8B6F47" stroke-width="1.6"/>
+        <text x="352" y="349" font-size="12.5" fill="#8B6F47" font-weight="600">платёж санкционирован</text>
+        <path d="M545 288 C 650 304 652 420 610 472" fill="none" stroke="rgba(26,26,26,.35)" stroke-width="1.4" stroke-dasharray="5 4"/><text x="668" y="380" text-anchor="end" font-size="12.5" fill="#6E6B66">отказ</text>
+        <path d="M618 466 L609 474 L604 464" fill="none" stroke="rgba(26,26,26,.35)" stroke-width="1.4"/>
+        <rect x="140" y="370" width="400" height="88" rx="12" fill="#FBF9F4" stroke="rgba(26,26,26,.18)"/>
+        <text x="340" y="400" text-anchor="middle" font-size="17" font-weight="600" fill="#1A1A1A">Деньги уходят по назначению</text>
+        <text x="340" y="423" text-anchor="middle" font-size="13.5" fill="#6E6B66">поставщики и субподрядчики · зарплата · налоги и взносы</text>
+        <text x="340" y="441" text-anchor="middle" font-size="13.5" fill="#6E6B66">(субподрядчику с КС — тоже на его лицевой счёт)</text>
+        <rect x="330" y="480" width="330" height="64" rx="12" fill="none" stroke="rgba(26,26,26,.30)" stroke-dasharray="5 4"/>
+        <text x="495" y="506" text-anchor="middle" font-size="14.5" font-weight="600" fill="#3A3A3A">Отказ: возврат без исполнения</text>
+        <text x="495" y="526" text-anchor="middle" font-size="12.5" fill="#6E6B66">код причины → исправить документы → подать заново</text>
+        <rect x="20" y="480" width="290" height="64" rx="12" fill="rgba(139,111,71,.10)" stroke="rgba(139,111,71,.45)"/>
+        <text x="165" y="506" text-anchor="middle" font-size="14.5" font-weight="600" fill="#1A1A1A">Итог: целевое использование</text>
+        <text x="165" y="526" text-anchor="middle" font-size="12.5" fill="#6E6B66">каждый рубль подтверждён документами</text>
+        <text x="340" y="584" text-anchor="middle" font-size="12" fill="#6E6B66">Схема: КазнаЭксперт · механизм по ст. 242.23 БК РФ и правилам казначейского сопровождения</text>
+      </svg>
+      <figcaption style="font-size:13px;color:#6E6B66;font-style:italic;margin-top:8px">Путь целевых средств: от заказчика до поставщиков — через лицевой счёт и санкционирование каждого платежа в УФК.</figcaption>
+    </figure>
     <table>
       <caption>Этапы работы при казначейском сопровождении</caption>
       <tr><th>Шаг</th><th>Что происходит</th></tr>

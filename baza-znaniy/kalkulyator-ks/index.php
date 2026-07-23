@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"tool", cluster:"kalkulyator"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "WebApplication", "name": "Калькулятор казначейского сопровождения 2026", "url": "https://kaznaexpert.ru/baza-znaniy/kalkulyator-ks/", "datePublished": "2026-06-05", "dateModified": "2026-07-14", "applicationCategory": "FinanceApplication", "operatingSystem": "Web", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "RUB"}, "description": "Проверка, попадает ли контракт под казначейское сопровождение по порогам ст. 5 ФЗ № 426-ФЗ", "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "@id": "https://kaznaexpert.ru/#organization"}}
+{"@context": "https://schema.org", "@type": "WebApplication", "name": "Калькулятор казначейского сопровождения 2026", "url": "https://kaznaexpert.ru/baza-znaniy/kalkulyator-ks/", "datePublished": "2026-06-05", "dateModified": "2026-07-23", "applicationCategory": "FinanceApplication", "operatingSystem": "Web", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "RUB"}, "description": "Проверка, попадает ли контракт под казначейское сопровождение по порогам ст. 5 ФЗ № 426-ФЗ", "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "@id": "https://kaznaexpert.ru/#organization"}}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
@@ -81,7 +81,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Калькулятор казначейского сопровождения 2026">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-07-14T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-07-23T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -160,7 +160,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Инструмент <span class="fresh">Пороги 2026</span></div>
     <h1>Калькулятор: попадает ли контракт под казначейское сопровождение</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Методика: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>по ст. 5 ФЗ № 426-ФЗ</span><span class="dot">·</span><span>Актуально на июль 2026</span><span class="dot">·</span><span>Обновлено 14 июля 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Методика: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>по ст. 5 ФЗ № 426-ФЗ</span><span class="dot">·</span><span>Актуально на июль 2026</span><span class="dot">·</span><span>Обновлено 23 июля 2026</span></div>
     </div>
 
     <div class="tldr">Выберите тип средств, укажите сумму — и узнайте за 10 секунд, обязательно ли <b>казначейское сопровождение</b> для вашего контракта и по какой норме закона. Без регистрации. <span class="fresh-note">Пороги действуют по ст. 5 ФЗ № 426-ФЗ от 28.11.2025; проверено в июле 2026.</span></div>
@@ -191,7 +191,9 @@
       </div>
     </div>
 
-    <h2 id="porogi">Пороги казначейского сопровождения в 2026 году</h2>
+    
+<div class="answer" data-fig="calcExample"><p><b>Пример расчёта.</b> Контракт на поставку за 120 млн ₽ с авансом 20 млн ₽ попадает под казначейское сопровождение в части аванса: аванс по госконтракту сопровождается при цене контракта от 100 млн ₽, а порог считают от цены контракта, не от платежа. Тот же контракт в рамках гособоронзаказа сопровождался бы уже от 3 млн ₽.</p></div>
+<h2 id="porogi">Пороги казначейского сопровождения в 2026 году</h2>
     <div class="answer reveal">
       <p>Суммовые пороги задаёт статья 5 закона о федеральном бюджете (ФЗ № 426-ФЗ). Сопровождение обязательно:</p>
     </div>

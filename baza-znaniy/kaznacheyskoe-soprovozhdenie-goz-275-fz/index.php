@@ -66,7 +66,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-07-05T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-07-23T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -84,7 +84,7 @@
   "description":"Кто обязан, порог, отдельный и лицевой счёт, раздельный учёт, расширенное казначейское сопровождение, штрафы, отличие от банковского сопровождения.",
   "author":{"@type":"Person","@id":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person","name":"Ярослав Михайлов","jobTitle":"Главный эксперт по казначейскому сопровождению","worksFor":{"@id":"https://kaznaexpert.ru/#organization"}},
   "publisher":{"@type":"ProfessionalService","@id":"https://kaznaexpert.ru/#organization","name":"КазнаЭксперт"},
-  "datePublished":"2026-06-03","dateModified": "2026-07-05",
+  "datePublished":"2026-06-03","dateModified": "2026-07-23",
   "mainEntityOfPage":"https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/",
   "about":["казначейское сопровождение ГОЗ","275-ФЗ","раздельный учёт гособоронзаказа","отдельный счёт ГОЗ","расширенное казначейское сопровождение"],
   "citation":["ФЗ № 275-ФЗ от 29.12.2012","ФЗ № 426-ФЗ от 28.11.2025, ст. 5","БК РФ, ст. 242.23–242.27","ФЗ № 406-ФЗ от 04.11.2025","ст. 15.37.1, 15.49 КоАП РФ (введены ФЗ № 506-ФЗ от 28.12.2025)"],
@@ -216,7 +216,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на 2026</span></div>
     <h1>Казначейское сопровождение ГОЗ в 2026 году: полный разбор по 275-ФЗ</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>17 мин чтения</span><span class="dot">·</span><span>Обновлено 3 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>17 мин чтения</span><span class="dot">·</span><span>Обновлено 23 июля 2026</span></div>
     </div>
 
     <div class="share">
@@ -429,6 +429,13 @@
       <p>На практике это создаёт типичную проблему: бухгалтер субподрядчика впервые сталкивается с понятиями «лицевой счёт в УФК», «ИГК» и «раздельный учёт» в момент, когда контракт уже подписан и сроки идут. Чтобы не терять время и не получать отказы, подготовку к сопровождению лучше начинать заранее — ещё на этапе согласования договора с головным исполнителем.</p>
       <p class="sidenote"><b>На полях.</b> Порог 3 млн ₽ считается по сумме конкретного договора в цепочке, а не по всему контракту ГОЗ — поэтому под сопровождение может попасть даже небольшой субподряд.</p>
     </div>
+<figure class="kx-fig" style="margin:26px 0 6px;overflow-x:auto" data-fig="figGoz">
+<svg viewBox="0 0 680 380" role="img" aria-labelledby="figGozT figGozD" style="display:block;width:100%;max-width:680px;height:auto;font-family:'Inter',-apple-system,'Segoe UI',sans-serif">
+<title id="figGozT">Кооперация по ГОЗ: отдельный лицевой счёт у каждого звена</title>
+<desc id="figGozD">При казначейском сопровождении ГОЗ головной исполнитель и соисполнители с договорами свыше 3 млн рублей открывают собственные лицевые счета в ТОФК, ведут раздельный учёт и проводят каждый платёж через санкционирование.</desc>
+<rect x="190" y="8" width="300" height="58" rx="12" fill="#FBF9F4" stroke="rgba(26,26,26,.18)"/><text x="340" y="32" text-anchor="middle" font-size="16" font-weight="600" fill="#1A1A1A">Госзаказчик (ГОЗ)</text><text x="340" y="52" text-anchor="middle" font-size="13" fill="#6E6B66">контракт с казначейским сопровождением</text><line x1="340" y1="66" x2="340" y2="100" stroke="#8B6F47" stroke-width="1.6"/><path d="M334 93 L340 103 L346 93" fill="none" stroke="#8B6F47" stroke-width="1.6"/><rect x="150" y="104" width="380" height="66" rx="12" fill="rgba(139,111,71,.10)" stroke="#8B6F47"/><text x="340" y="130" text-anchor="middle" font-size="16" font-weight="600" fill="#1A1A1A">Головной исполнитель</text><text x="340" y="152" text-anchor="middle" font-size="13.5" fill="#6E6B66">лицевой счёт в ТОФК · раздельный учёт · ИГК</text><line x1="240" y1="170" x2="170" y2="216" stroke="#8B6F47" stroke-width="1.5"/><path d="M176 209 L167 218 L180 219" fill="none" stroke="#8B6F47" stroke-width="1.5"/><line x1="440" y1="170" x2="510" y2="216" stroke="#8B6F47" stroke-width="1.5"/><path d="M500 219 L513 218 L504 209" fill="none" stroke="#8B6F47" stroke-width="1.5"/><text x="340" y="192" text-anchor="middle" font-size="12.5" fill="#8B6F47" font-weight="600">договор в кооперации свыше 3 млн ₽</text><text x="340" y="209" text-anchor="middle" font-size="12.5" fill="#8B6F47" font-weight="600">→ тоже казначейское сопровождение</text><rect x="16" y="222" width="308" height="66" rx="12" fill="#FBF9F4" stroke="rgba(26,26,26,.18)"/><text x="170" y="248" text-anchor="middle" font-size="15.5" font-weight="600" fill="#1A1A1A">Соисполнитель 1</text><text x="170" y="270" text-anchor="middle" font-size="13" fill="#6E6B66">свой лицевой счёт · свой раздельный учёт</text><rect x="356" y="222" width="308" height="66" rx="12" fill="#FBF9F4" stroke="rgba(26,26,26,.18)"/><text x="510" y="248" text-anchor="middle" font-size="15.5" font-weight="600" fill="#1A1A1A">Соисполнитель 2</text><text x="510" y="270" text-anchor="middle" font-size="13" fill="#6E6B66">свой лицевой счёт · свой раздельный учёт</text><rect x="70" y="312" width="540" height="52" rx="12" fill="none" stroke="rgba(26,26,26,.30)" stroke-dasharray="5 4"/><text x="340" y="334" text-anchor="middle" font-size="13.5" font-weight="600" fill="#3A3A3A">Каждое звено цепочки проходит санкционирование в УФК</text><text x="340" y="352" text-anchor="middle" font-size="12.5" fill="#6E6B66">аванс зачисляется на казначейский счёт и расходуется только под контролем</text></svg>
+<figcaption style="font-size:13px;color:#6E6B66;font-style:italic;margin-top:8px">Порог 3 млн ₽ распространяется на всю цепочку кооперации: субподрядчик работает через свой лицевой счёт наравне с головным исполнителем.</figcaption>
+</figure>
 
     <h2 id="razdelnyy-uchet">Раздельный учёт по ГОЗ и штрафы 2026</h2>
     <div class="answer reveal">

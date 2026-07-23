@@ -1,11 +1,6 @@
 {
   "version": "0.0.1",
   "configurations": [
-    {
-      "name": "php-dev",
-      "runtimeExecutable": "php",
-      "runtimeArgs": ["-S", "localhost:8000", "-t", "."],
-      "port": 8000
-    }
+    { "name": "kazna-local", "runtimeExecutable": "php", "runtimeArgs": ["-S", "127.0.0.1:8090", "-t", "."], "port": 8090 }
   ]
 }
