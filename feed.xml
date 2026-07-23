@@ -6,7 +6,7 @@
   <atom:link href="https://kaznaexpert.ru/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Экспертные статьи о казначейском сопровождении госконтрактов: 44-ФЗ, 223-ФЗ, ГОЗ, лицевые счета, санкционирование, раздельный учёт.</description>
   <language>ru</language>
-  <lastBuildDate>Thu, 23 Jul 2026 13:50:45 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Jul 2026 14:32:05 +0000</lastBuildDate>
   <item>
     <title>Авторский надзор при казначейском сопровождении: договор и оплата</title>
     <link>https://kaznaexpert.ru/baza-znaniy/avtorskiy-nadzor-pri-kaznacheyskom-soprovozhdenii/</link>
@@ -20,6 +20,20 @@
     <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/</guid>
     <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
     <description>Что такое казначейское сопровождение в 2026: кому нужно и от какой суммы, обычное и расширенное, отличие от банковского, пороги по 426-ФЗ, санкционирование.</description>
+  </item>
+  <item>
+    <title>Как пройти проверку казначейства: подготовка и права</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/kak-proyti-proverku-kaznachejstva/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/kak-proyti-proverku-kaznachejstva/</guid>
+    <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Как подготовиться и пройти проверку казначейства: виды проверок, что проверяют, какие документы готовить, права проверяемого и возражения на акт.</description>
+  </item>
+  <item>
+    <title>Казначейский счёт и расчётный счёт: в чём разница</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/kaznacheyskiy-schet-i-raschetnyy-schet/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/kaznacheyskiy-schet-i-raschetnyy-schet/</guid>
+    <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Чем казначейский счёт отличается от расчётного: где открывается, кто распоряжается средствами, комиссии, блокировки, наличные и когда по контракту нужен каждый счёт.</description>
   </item>
   <item>
     <title>Казначейское сопровождение ГОЗ 2026: 275-ФЗ, штрафы</title>
@@ -57,11 +71,25 @@
     <description>Санкционирование расходов при казначейском сопровождении: как ТОФК проверяет операции, ст. 242.23 БК РФ, сведения об операциях, основания отказа, сроки, расширенное.</description>
   </item>
   <item>
+    <title>Раздельный учёт по ГОЗ 2026: методика, проводки</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/razdelnyy-uchet-goz-275-fz/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/razdelnyy-uchet-goz-275-fz/</guid>
+    <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Раздельный учёт по ГОЗ в 2026: кто обязан по 275-ФЗ, методика распределения затрат, счета и проводки, учётная политика, формы, штрафы ст. 15.37.1 КоАП.</description>
+  </item>
+  <item>
     <title>Списание неустойки по госконтракту: правила ПП № 783 в 2026 году</title>
     <link>https://kaznaexpert.ru/baza-znaniy/spisanie-neustoyki-po-goskontraktu/</link>
     <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/spisanie-neustoyki-po-goskontraktu/</guid>
     <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
     <description>Как списать неустойку по 44-ФЗ: условия постановления № 783 — до 5% и до 20% цены контракта, санкции и мобилизация, сверка расчётов, сроки и уведомление.</description>
+  </item>
+  <item>
+    <title>Виды лицевых счетов в казначействе: коды и расшифровка</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/vidy-licevyh-schetov-v-kaznachejstve/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/vidy-licevyh-schetov-v-kaznachejstve/</guid>
+    <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Виды лицевых счетов в казначействе: расшифровка кодов 01, 03, 05, 41, 71 и других, структура номера счёта и какой счёт открывают при казначейском сопровождении.</description>
   </item>
   <item>
     <title>Казначейское сопровождение проектных и изыскательских работ</title>
@@ -188,34 +216,6 @@
     <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/priyomka-rabot-ks-2-ks-3/</guid>
     <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
     <description>Формы КС-2 и КС-3 при казначейском сопровождении: чем отличаются акт о приёмке и справка о стоимости, как заполнить и как казначейство санкционирует оплату работ.</description>
-  </item>
-  <item>
-    <title>Строительный контроль при казначейском сопровождении в 2026 году</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/stroitelnyy-kontrol-pri-kaznacheyskom-soprovozhdenii/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/stroitelnyy-kontrol-pri-kaznacheyskom-soprovozhdenii/</guid>
-    <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Строительный контроль (технадзор) при казначейском сопровождении: что это по ст. 53 ГрК, норматив по постановлению № 468 и как оплата проходит казначейство.</description>
-  </item>
-  <item>
-    <title>Что такое гособоронзаказ (ГОЗ): простыми словами 2026</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/chto-takoe-gosudarstvennyy-oboronnyy-zakaz/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/chto-takoe-gosudarstvennyy-oboronnyy-zakaz/</guid>
-    <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Гособоронзаказ (ГОЗ) — задания государства на поставки для обороны по Закону № 275-ФЗ: понятие, участники, кооперация, цены, сопровождение и ответственность.</description>
-  </item>
-  <item>
-    <title>Что такое казначейство, ТОФК и УФК: структура и функции</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/chto-takoe-kaznachejstvo-i-tofk/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/chto-takoe-kaznachejstvo-i-tofk/</guid>
-    <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Что такое Федеральное казначейство, ТОФК и УФК: правовой статус (ПП РФ № 703), территориальные органы, функции, единый казначейский счёт и роль для исполнителя.</description>
-  </item>
-  <item>
-    <title>Как зарезервировать счёт по ГОЗ в банке</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/kak-zarezervirovat-schet-po-goz/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/kak-zarezervirovat-schet-po-goz/</guid>
-    <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Как зарезервировать отдельный счёт по ГОЗ: чем резервирование отличается от открытия, в каком уполномоченном банке резервировать и что нужно из документов.</description>
   </item>
 </channel>
 </rss>
