@@ -285,19 +285,19 @@
       <h2 class="v2-section-title">Самостоятельно, штатный спец или <em>с нами</em></h2>
       <p class="v2-section-lede">Шесть критериев, по которым клиенты выбирают, как открывать казначейский счёт.</p>
     </div>
-    <div class="v2-compare">
-      <div class="v2-compare-head">
-        <div class="v2-compare-head-cell">Параметр</div>
-        <div class="v2-compare-head-cell">Самостоятельно</div>
-        <div class="v2-compare-head-cell">Штатный спец</div>
-        <div class="v2-compare-head-cell is-us">С КазнаЭксперт</div>
+    <div class="v2-compare" role="table">
+      <div class="v2-compare-head" role="row">
+        <div role="columnheader" class="v2-compare-head-cell">Параметр</div>
+        <div role="columnheader" class="v2-compare-head-cell">Самостоятельно</div>
+        <div role="columnheader" class="v2-compare-head-cell">Штатный спец</div>
+        <div role="columnheader" class="v2-compare-head-cell is-us">С КазнаЭксперт</div>
       </div>
-      <div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Срок открытия</div><div class="v2-compare-cell" data-label="Самостоятельно">2–4 недели на освоение</div><div class="v2-compare-cell" data-label="Штатный спец">1–2 месяца на подбор</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>2 рабочих дня</strong></div></div>
-      <div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Риск возврата документов</div><div class="v2-compare-cell" data-label="Самостоятельно">Высокий — ошибки без опыта</div><div class="v2-compare-cell" data-label="Штатный спец">Зависит от уровня сотрудника</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Минимальный</strong> · с первой подачи</div></div>
-      <div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Настройка «Электронного бюджета»</div><div class="v2-compare-cell" data-label="Самостоятельно">Сами, без поддержки</div><div class="v2-compare-cell" data-label="Штатный спец">По компетенциям сотрудника</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт">Включено в стоимость</div></div>
-      <div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Стоимость</div><div class="v2-compare-cell" data-label="Самостоятельно">Ваше время + риск ошибок</div><div class="v2-compare-cell" data-label="Штатный спец">120–180 тыс ₽/мес + взносы</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>29 000 ₽</strong> разово</div></div>
-      <div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Гарантия в договоре</div><div class="v2-compare-cell" data-label="Самостоятельно">Нет</div><div class="v2-compare-cell" data-label="Штатный спец">Нет</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Прописана в договоре</strong></div></div>
-      <div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Ваши затраты времени</div><div class="v2-compare-cell" data-label="Самостоятельно">20–40 часов</div><div class="v2-compare-cell" data-label="Штатный спец">Контроль сотрудника</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>5 минут</strong></div></div>
+      <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Срок открытия</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">2–4 недели на освоение</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">1–2 месяца на подбор</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>2 рабочих дня</strong></div></div>
+      <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Риск возврата документов</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Высокий — ошибки без опыта</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Зависит от уровня сотрудника</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Минимальный</strong> · с первой подачи</div></div>
+      <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Настройка «Электронного бюджета»</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Сами, без поддержки</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">По компетенциям сотрудника</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт">Включено в стоимость</div></div>
+      <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Стоимость</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Ваше время + риск ошибок</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">120–180 тыс ₽/мес + взносы</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>29 000 ₽</strong> разово</div></div>
+      <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Гарантия в договоре</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Нет</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Нет</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Прописана в договоре</strong></div></div>
+      <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Ваши затраты времени</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">20–40 часов</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Контроль сотрудника</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>5 минут</strong></div></div>
     </div>
     <div class="v2-compare-cta"><a href="#zayavka">Обсудить ваш контракт <span aria-hidden="true">→</span></a></div>
   </div>

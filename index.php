@@ -914,55 +914,55 @@ header("Cache-Control: public, max-age=300, must-revalidate");
               <p class="v2-section-lede">Шесть критериев, по которым клиенты выбирают подход к работе с УФК. Стоимость указана для тарифа «Контракт с авансом».</p>
             </div>
 
-            <div class="v2-compare">
+            <div class="v2-compare" role="table">
 
-              <div class="v2-compare-head">
-                <div class="v2-compare-head-cell">Параметр</div>
-                <div class="v2-compare-head-cell">Самостоятельно</div>
-                <div class="v2-compare-head-cell">Штатный спец</div>
-                <div class="v2-compare-head-cell is-us">С КазнаЭксперт</div>
+              <div class="v2-compare-head" role="row">
+                <div role="columnheader" class="v2-compare-head-cell">Параметр</div>
+                <div role="columnheader" class="v2-compare-head-cell">Самостоятельно</div>
+                <div role="columnheader" class="v2-compare-head-cell">Штатный спец</div>
+                <div role="columnheader" class="v2-compare-head-cell is-us">С КазнаЭксперт</div>
               </div>
 
-              <div class="v2-compare-row">
-                <div class="v2-compare-cell v2-compare-param" data-label="Параметр">Срок старта</div>
-                <div class="v2-compare-cell" data-label="Самостоятельно">2–4 недели на освоение матчасти</div>
-                <div class="v2-compare-cell" data-label="Штатный спец">1–2 месяца на подбор сотрудника</div>
-                <div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>2 рабочих дня</strong></div>
+              <div class="v2-compare-row" role="row">
+                <div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Срок старта</div>
+                <div role="cell" class="v2-compare-cell" data-label="Самостоятельно">2–4 недели на освоение матчасти</div>
+                <div role="cell" class="v2-compare-cell" data-label="Штатный спец">1–2 месяца на подбор сотрудника</div>
+                <div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>2 рабочих дня</strong></div>
               </div>
 
-              <div class="v2-compare-row">
-                <div class="v2-compare-cell v2-compare-param" data-label="Параметр">Стоимость в месяц</div>
-                <div class="v2-compare-cell" data-label="Самостоятельно">Ваше время + риск ошибок</div>
-                <div class="v2-compare-cell" data-label="Штатный спец">120–180 тыс ₽ + страховые взносы</div>
-                <div class="v2-compare-cell is-us" data-label="С КазнаЭксперт">19 000 ₽ разово или <strong>89 000 ₽/мес</strong></div>
+              <div class="v2-compare-row" role="row">
+                <div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Стоимость в месяц</div>
+                <div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Ваше время + риск ошибок</div>
+                <div role="cell" class="v2-compare-cell" data-label="Штатный спец">120–180 тыс ₽ + страховые взносы</div>
+                <div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт">19 000 ₽ разово или <strong>89 000 ₽/мес</strong></div>
               </div>
 
-              <div class="v2-compare-row">
-                <div class="v2-compare-cell v2-compare-param" data-label="Параметр">Опыт работы с УФК</div>
-                <div class="v2-compare-cell" data-label="Самостоятельно">Осваиваете по ходу контракта</div>
-                <div class="v2-compare-cell" data-label="Штатный спец">Один сотрудник, его уровень</div>
-                <div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Команда 15+ лет</strong> в Казначействе</div>
+              <div class="v2-compare-row" role="row">
+                <div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Опыт работы с УФК</div>
+                <div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Осваиваете по ходу контракта</div>
+                <div role="cell" class="v2-compare-cell" data-label="Штатный спец">Один сотрудник, его уровень</div>
+                <div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Команда 15+ лет</strong> в Казначействе</div>
               </div>
 
-              <div class="v2-compare-row">
-                <div class="v2-compare-cell v2-compare-param" data-label="Параметр">Кадровые риски</div>
-                <div class="v2-compare-cell" data-label="Самостоятельно">Не применимо</div>
-                <div class="v2-compare-cell" data-label="Штатный спец">Подбор, отпуск, увольнение, замена</div>
-                <div class="v2-compare-cell is-us" data-label="С КазнаЭксперт">Закреплённый эксперт + резерв</div>
+              <div class="v2-compare-row" role="row">
+                <div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Кадровые риски</div>
+                <div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Не применимо</div>
+                <div role="cell" class="v2-compare-cell" data-label="Штатный спец">Подбор, отпуск, увольнение, замена</div>
+                <div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт">Закреплённый эксперт + резерв</div>
               </div>
 
-              <div class="v2-compare-row">
-                <div class="v2-compare-cell v2-compare-param" data-label="Параметр">Гарантия в договоре</div>
-                <div class="v2-compare-cell" data-label="Самостоятельно">Нет</div>
-                <div class="v2-compare-cell" data-label="Штатный спец">Нет</div>
-                <div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Прописана в договоре</strong></div>
+              <div class="v2-compare-row" role="row">
+                <div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Гарантия в договоре</div>
+                <div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Нет</div>
+                <div role="cell" class="v2-compare-cell" data-label="Штатный спец">Нет</div>
+                <div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Прописана в договоре</strong></div>
               </div>
 
-              <div class="v2-compare-row">
-                <div class="v2-compare-cell v2-compare-param" data-label="Параметр">Поддержка при отказе УФК</div>
-                <div class="v2-compare-cell" data-label="Самостоятельно">Разбираетесь сами</div>
-                <div class="v2-compare-cell" data-label="Штатный спец">По компетенциям сотрудника</div>
-                <div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Берём на себя</strong> — до принятия</div>
+              <div class="v2-compare-row" role="row">
+                <div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Поддержка при отказе УФК</div>
+                <div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Разбираетесь сами</div>
+                <div role="cell" class="v2-compare-cell" data-label="Штатный спец">По компетенциям сотрудника</div>
+                <div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Берём на себя</strong> — до принятия</div>
               </div>
 
             </div>

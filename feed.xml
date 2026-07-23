@@ -6,7 +6,28 @@
   <atom:link href="https://kaznaexpert.ru/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Экспертные статьи о казначейском сопровождении госконтрактов: 44-ФЗ, 223-ФЗ, ГОЗ, лицевые счета, санкционирование, раздельный учёт.</description>
   <language>ru</language>
-  <lastBuildDate>Wed, 22 Jul 2026 15:31:35 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Jul 2026 11:45:53 +0000</lastBuildDate>
+  <item>
+    <title>Авторский надзор при казначейском сопровождении: договор и оплата</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/avtorskiy-nadzor-pri-kaznacheyskom-soprovozhdenii/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/avtorskiy-nadzor-pri-kaznacheyskom-soprovozhdenii/</guid>
+    <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Авторский надзор по госконтракту: когда обязателен, цена по Методике № 421/пр, договор, журнал, акты и оплата с лицевого счёта при казначейском сопровождении.</description>
+  </item>
+  <item>
+    <title>Казначейское сопровождение поставки оборудования в 2026 году</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-postavki-oborudovaniya/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-postavki-oborudovaniya/</guid>
+    <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Поставка оборудования по госконтракту под казначейским сопровождением: пороги, лицевой счёт, коды 0300 и 0200, аванс, монтаж, приёмка и оплата.</description>
+  </item>
+  <item>
+    <title>Списание неустойки по госконтракту: правила ПП № 783 в 2026 году</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/spisanie-neustoyki-po-goskontraktu/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/spisanie-neustoyki-po-goskontraktu/</guid>
+    <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+    <description>Как списать неустойку по 44-ФЗ: условия постановления № 783 — до 5% и до 20% цены контракта, санкции и мобилизация, сверка расчётов, сроки и уведомление.</description>
+  </item>
   <item>
     <title>Казначейское сопровождение проектных и изыскательских работ</title>
     <link>https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-proektnyh-rabot/</link>
@@ -195,27 +216,6 @@
     <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/upolnomochennye-banki-po-goz/</guid>
     <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
     <description>Уполномоченные банки по гособоронзаказу: что это и требования 275-ФЗ, ПСБ как опорный банк ОПК, банковское сопровождение и режим отдельного счёта в 2026 году.</description>
-  </item>
-  <item>
-    <title>Казначейское сопровождение по 44-ФЗ в 2026: когда и как</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-44-fz/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-44-fz/</guid>
-    <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Казначейское сопровождение по 44-ФЗ в 2026: пороги по закону № 426-ФЗ, какие контракты и авансы подпадают, лицевой счёт, ИГК и обеспечение контракта.</description>
-  </item>
-  <item>
-    <title>Казначейское сопровождение строительных контрактов в 2026 году</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-stroitelnyh-kontraktov/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-stroitelnyh-kontraktov/</guid>
-    <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Как проходит казначейское сопровождение строительных контрактов в 2026 году: пороги, лицевой счёт, авансы на материалы, акты КС-2 и КС-3, упрощённый порядок 431-ФЗ.</description>
-  </item>
-  <item>
-    <title>Казначейское сопровождение в 2026: что изменилось с 2025</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-v-2026-godu/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-v-2026-godu/</guid>
-    <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
-    <description>Что изменилось в казначейском сопровождении в 2026 году: статья 5 закона № 426-ФЗ, остатки целевых средств на 1 января, переходный мониторинг. Пороги — кратко, со ссылкой на полный разбор.</description>
   </item>
 </channel>
 </rss>

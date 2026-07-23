@@ -104,10 +104,13 @@ RewriteRule . %1/%2 [R=301,L]
 </IfModule>
 
 # Cache-Control более точный, чем Expires
+# Страницы с собственным no-store (страница «спасибо») исключаем из общего правила,
+# иначе в ответе получаются ДВА разных Cache-Control (подтверждено live-проверкой).
+SetEnvIf Request_URI "^/spasibo/" NO_CACHE_PAGE
 <IfModule mod_headers.c>
   # HTML — короткий кэш
   <FilesMatch "\.(html|htm|php)$">
-    Header set Cache-Control "public, max-age=300, must-revalidate"
+    Header set Cache-Control "public, max-age=300, must-revalidate" env=!NO_CACHE_PAGE
   </FilesMatch>
 
   # CSS / JS — месяц с обязательной проверкой

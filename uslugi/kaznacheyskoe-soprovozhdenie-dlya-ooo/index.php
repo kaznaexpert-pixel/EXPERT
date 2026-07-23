@@ -342,14 +342,14 @@
       <h2 class="v2-section-title">Своя бухгалтерия, штатный спец или <em>с нами</em></h2>
       <p class="v2-section-lede">Шесть критериев, по которым ООО выбирают, как закрыть казначейское сопровождение.</p>
     </div>
-    <div class="v2-compare">
-      <div class="v2-compare-head">
-        <div class="v2-compare-head-cell">Параметр</div>
-        <div class="v2-compare-head-cell">Самостоятельно</div>
-        <div class="v2-compare-head-cell">Штатный спец</div>
-        <div class="v2-compare-head-cell is-us">С КазнаЭксперт</div>
+    <div class="v2-compare" role="table">
+      <div class="v2-compare-head" role="row">
+        <div role="columnheader" class="v2-compare-head-cell">Параметр</div>
+        <div role="columnheader" class="v2-compare-head-cell">Самостоятельно</div>
+        <div role="columnheader" class="v2-compare-head-cell">Штатный спец</div>
+        <div role="columnheader" class="v2-compare-head-cell is-us">С КазнаЭксперт</div>
       </div>
-      <div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Запуск</div><div class="v2-compare-cell" data-label="Самостоятельно">2–4 недели на освоение</div><div class="v2-compare-cell" data-label="Штатный спец">1–2 месяца на подбор</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>2 рабочих дня</strong></div></div><div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Риск отказов и возвратов</div><div class="v2-compare-cell" data-label="Самостоятельно">Высокий — без опыта</div><div class="v2-compare-cell" data-label="Штатный спец">Зависит от сотрудника</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Минимальный</strong></div></div><div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Ведение и отчётность</div><div class="v2-compare-cell" data-label="Самостоятельно">Своя бухгалтерия, без поддержки</div><div class="v2-compare-cell" data-label="Штатный спец">По компетенциям спеца</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт">Полный цикл включён</div></div><div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Стоимость</div><div class="v2-compare-cell" data-label="Самостоятельно">Время бухгалтера + риск</div><div class="v2-compare-cell" data-label="Штатный спец">120–180 тыс ₽/мес + взносы</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>от 19 000 ₽</strong> по этапу</div></div><div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Гарантия в договоре</div><div class="v2-compare-cell" data-label="Самостоятельно">Нет</div><div class="v2-compare-cell" data-label="Штатный спец">Нет</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Прописана</strong></div></div><div class="v2-compare-row"><div class="v2-compare-cell v2-compare-param" data-label="Параметр">Затраты времени ООО</div><div class="v2-compare-cell" data-label="Самостоятельно">Десятки часов</div><div class="v2-compare-cell" data-label="Штатный спец">Контроль сотрудника</div><div class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>5 минут</strong></div></div>
+      <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Запуск</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">2–4 недели на освоение</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">1–2 месяца на подбор</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>2 рабочих дня</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Риск отказов и возвратов</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Высокий — без опыта</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Зависит от сотрудника</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Минимальный</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Ведение и отчётность</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Своя бухгалтерия, без поддержки</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">По компетенциям спеца</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт">Полный цикл включён</div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Стоимость</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Время бухгалтера + риск</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">120–180 тыс ₽/мес + взносы</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>от 19 000 ₽</strong> по этапу</div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Гарантия в договоре</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Нет</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Нет</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Прописана</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Затраты времени ООО</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Десятки часов</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Контроль сотрудника</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>5 минут</strong></div></div>
     </div>
     <div class="v2-compare-cta"><a href="#zayavka">Обсудить ваш контракт <span aria-hidden="true">→</span></a></div>
   </div>
@@ -366,25 +366,25 @@
         <div class="v2-tariff-no">01</div>
         <div class="v2-tariff-stage">До тендера</div>
         <h3>Резерв счёта к дате тендера</h3>
-        <p class="v2-tariff-desc">Резервируем казначейский счёт заранее — реквизиты готовы к моменту победы. Не выиграли — закрываем без расходов.</p>
+        <p class="v2-tariff-desc">Резервируем счёт для вашего ООО к дате тендера — директору не нужно лично ездить в УФК, всё дистанционно. Не выиграли — счёт просто не открываем.</p>
         <div class="v2-tariff-price"><div class="v2-tariff-price-num">19 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · к дате тендера</div><a href="/uslugi/rezervirovanie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff is-featured">
         <div class="v2-tariff-no">02</div>
         <div class="v2-tariff-stage">Победа в тендере</div>
         <h3>Открытие счёта за два дня</h3>
-        <p class="v2-tariff-desc">Анализ контракта, пакет документов, включение в сводный реестр, открытие счёта в УФК и настройка «Электронного бюджета».</p>
+        <p class="v2-tariff-desc">Открываем лицевой счёт ООО за два дня: устав, выписка ЕГРЮЛ, контракт — собираем пакет, заводим общество в сводный реестр, настраиваем «Электронный бюджет».</p>
         <div class="v2-tariff-price"><div class="v2-tariff-price-num">29 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">03</div>
         <div class="v2-tariff-stage">Постоплата</div>
         <h3>Контракт с постоплатой под ключ</h3>
-        <p class="v2-tariff-desc">Ведём контракт без аванса: платежи, сведения, раздельный учёт и отчётность — до закрытия счёта.</p>
+        <p class="v2-tariff-desc">Контракт ООО без аванса: проводим платежи и сведения, выстраиваем раздельный учёт по контракту — штатный бухгалтер работает по готовым регистрам.</p>
         <div class="v2-tariff-price"><div class="v2-tariff-price-num">55 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · за контракт</div><a href="/uslugi/soprovozhdenie-postoplata/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">04</div>
         <div class="v2-tariff-stage">Аванс</div>
         <h3>Контракт с авансом под ключ</h3>
-        <p class="v2-tariff-desc">Полное сопровождение контракта с авансом: санкционирование предоплаты, обеспечение, отработка аванса, отчётность.</p>
+        <p class="v2-tariff-desc">Аванс на счёте ООО под контролем: санкционирование, целевое расходование, отработка предоплаты и отчётность по каждому рублю.</p>
         <div class="v2-tariff-price"><div class="v2-tariff-price-num">89 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Под ключ · весь срок</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article></div>
     <p class="v2-tariffs-footnote">Точная стоимость — после анализа вашего контракта.</p>
