@@ -1,4 +1,4 @@
-<?php header("Cache-Control: public, max-age=300, must-revalidate"); ?>
+<?php /* Cache-Control задаёт .htaccess — единая точка правды для кэш-заголовков */ ?>
 <!DOCTYPE html>
 <html lang="ru">
 <head>
