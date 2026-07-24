@@ -647,7 +647,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/otdelnyy-schet-po-goz/</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-07-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -803,7 +803,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/operacii-po-licevomu-schetu-pri-ks/</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-07-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1343,13 +1343,13 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/elektronnoe-aktirovanie-priyomka-44-fz/</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-07-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/srok-oplaty-po-kontraktu-44-fz/</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-07-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1523,7 +1523,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/vozmeshchenie-rashodov-pri-kaznacheyskom-soprovozhdenii/</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-07-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1643,7 +1643,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/oplata-arendy-kommunalki-svyazi-s-licevogo-scheta/</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-07-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1722,6 +1722,24 @@
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/spisanie-neustoyki-po-goskontraktu/</loc>
     <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/vyvod-pribyli-pri-kaznacheyskom-soprovozhdenii/</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/zakazchik-ne-podpisyvaet-akt-priyomki/</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/komandirovochnye-i-podotchetnye-pri-ks/</loc>
+    <lastmod>2026-07-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
