@@ -331,7 +331,7 @@
         <rect x="140" y="370" width="400" height="88" rx="12" fill="#FBF9F4" stroke="rgba(26,26,26,.18)"/>
         <text x="340" y="400" text-anchor="middle" font-size="17" font-weight="600" fill="#1A1A1A">Деньги уходят по назначению</text>
         <text x="340" y="423" text-anchor="middle" font-size="13.5" fill="#6E6B66">поставщики и субподрядчики · зарплата · налоги и взносы</text>
-        <text x="340" y="441" text-anchor="middle" font-size="13.5" fill="#6E6B66">(субподрядчику с КС — тоже на его лицевой счёт)</text>
+        <text x="340" y="441" text-anchor="middle" font-size="13.5" fill="#6E6B66">(субподрядчику с казначейским сопровождением — тоже на его лицевой счёт)</text>
         <rect x="330" y="480" width="330" height="64" rx="12" fill="none" stroke="rgba(26,26,26,.30)" stroke-dasharray="5 4"/>
         <text x="495" y="506" text-anchor="middle" font-size="14.5" font-weight="600" fill="#3A3A3A">Отказ: возврат без исполнения</text>
         <text x="495" y="526" text-anchor="middle" font-size="12.5" fill="#6E6B66">код причины → исправить документы → подать заново</text>
