@@ -344,6 +344,7 @@
       <details><summary>Что делать при отказе казначейства?</summary><p>Изучить причину в протоколе, устранить замечание — код, назначение платежа, комплект документов — и подать распоряжение заново. Если считаете отказ необоснованным, действуйте по алгоритму обжалования действий казначейства.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:ekonomiya-po-goskontraktu">Частный случай остатка — сэкономленное на исполнении: когда разница между ценой контракта и фактическими затратами остаётся исполнителю по статье 710 ГК и как не превратить её в спор о качестве, разобрано в статье про <a href="/baza-znaniy/ekonomiya-po-goskontraktu/">экономию по госконтракту</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -402,6 +403,7 @@
     <a class="card reveal" href="/baza-znaniy/vozmeshchenie-rashodov-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Возмещение</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Возмещение произведённых расходов при казначейском сопровождении</h3><p class="card__meta">Как вернуть свои деньги по ходу контракта</p></div></a>
     <a class="card reveal" href="/baza-znaniy/operacii-po-licevomu-schetu-pri-ks/"><div class="card__cover"><span>Режим счёта</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Какие операции можно проводить по лицевому счёту</h3><p class="card__meta">Что разрешено и что запрещено режимом</p></div></a>
     <a class="card reveal" href="/baza-znaniy/otdelnyy-schet-po-goz/"><div class="card__cover"><span>ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отдельный счёт по ГОЗ: режим, запреты, вывод прибыли</h3><p class="card__meta">Почему в гособоронзаказе всё иначе</p></div></a>
+    <!-- auto-related:ekonomiya-po-goskontraktu --><a class="card reveal" href="/baza-znaniy/ekonomiya-po-goskontraktu/"><div class="card__cover"><span>Экономия</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Экономия по госконтракту: кому остаётся и как получить</h3><div class="card__meta">Сопровождение · 13 мин</div></div></a>
   </div>
 </section>
 

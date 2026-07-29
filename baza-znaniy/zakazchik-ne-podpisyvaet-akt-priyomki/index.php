@@ -334,6 +334,7 @@ P рабочих дней на подписание или мотивирова�
       <details><summary>Куда жаловаться на затягивание приёмки?</summary><p>Претензия заказчику — обязательный первый шаг. Далее — арбитражный суд; по фактам нарушения сроков оплаты материалы может рассмотреть контрольный орган по ст. 7.32.5 КоАП.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:priostanovka-rabot-po-goskontraktu">Если конфликт разворачивается ещё на стадии исполнения — заказчик не передаёт площадку, документацию или давальческие материалы, — у исполнителя есть легальный инструмент давления: разбор в материале про <a href="/baza-znaniy/priostanovka-rabot-po-goskontraktu/">право исполнителя приостановить работы</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -392,6 +393,7 @@ P рабочих дней на подписание или мотивирова�
     <a class="card reveal" href="/baza-znaniy/elektronnoe-aktirovanie-priyomka-44-fz/"><div class="card__cover"><span>Актирование</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Электронное актирование и приёмка в ЕИС по 44-ФЗ</h3><p class="card__meta">Как устроена процедура приёмки</p></div></a>
     <a class="card reveal" href="/baza-znaniy/srok-oplaty-po-kontraktu-44-fz/"><div class="card__cover"><span>Срок оплаты</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Срок оплаты по контракту 44-ФЗ: 7 и 10 рабочих дней</h3><p class="card__meta">Что следует за подписанным актом</p></div></a>
     <a class="card reveal" href="/baza-znaniy/ispolnitelnyy-list-v-kaznachejstvo/"><div class="card__cover"><span>Взыскание</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Исполнительный лист в казначейство: как взыскать долг с заказчика</h3><p class="card__meta">Если дело дошло до суда</p></div></a>
+    <!-- auto-related:priostanovka-rabot-po-goskontraktu --><a class="card reveal" href="/baza-znaniy/priostanovka-rabot-po-goskontraktu/"><div class="card__cover"><span>Приостановка работ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Приостановка работ по госконтракту: права исполнителя</h3><div class="card__meta">Сопровождение · 14 мин</div></div></a>
   </div>
 </section>
 

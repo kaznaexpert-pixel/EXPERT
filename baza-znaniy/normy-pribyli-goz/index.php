@@ -334,6 +334,7 @@
       <details><summary>Когда можно забрать прибыль с отдельного счёта по гособоронзаказу?</summary><p>Согласованная в цене прибыль при расчётах через отдельный счёт в уполномоченном банке перечисляется на обычный расчётный счёт после исполнения контракта в порядке, установленном законом № 275-ФЗ. До этого момента средства работают в режиме отдельного счёта с его запретами и контролем банка.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:ekonomiya-po-goskontraktu">Как это правило работает за пределами гособоронзаказа — в обычных контрактах с твёрдой ценой по 44-ФЗ, где граница проходит между экономией и невыполненным объёмом, — смотрите в материале про <a href="/baza-znaniy/ekonomiya-po-goskontraktu/">экономию подрядчика по госконтракту</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -416,6 +417,7 @@
     <a class="card reveal" href="/baza-znaniy/perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz/"><div class="card__cover"><span>Перевод цены</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Перевод ориентировочной цены в фиксированную по ГОЗ</h3><div class="card__meta">ГОЗ · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/otdelnyy-schet-po-goz/"><div class="card__cover"><span>Отдельный счёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отдельный счёт по ГОЗ: режим, запрещённые операции, прибыль</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/otvetstvennost-za-narusheniya-goz/"><div class="card__cover"><span>Ответственность</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Ответственность за нарушения в сфере ГОЗ</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
+    <!-- auto-related:ekonomiya-po-goskontraktu --><a class="card reveal" href="/baza-znaniy/ekonomiya-po-goskontraktu/"><div class="card__cover"><span>Экономия</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Экономия по госконтракту: кому остаётся и как получить</h3><div class="card__meta">Сопровождение · 13 мин</div></div></a>
   </div>
 </section>
 

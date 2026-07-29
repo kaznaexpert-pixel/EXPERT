@@ -307,6 +307,7 @@
       <details><summary>Отличается ли ситуация, если заказчик — бюджетное учреждение, а не казённое?</summary><p>Механика пункта 6 статьи 161 БК и пункта 6 части 1 статьи 95 адресована казённым учреждениям и органам власти. У бюджетных и автономных учреждений другая модель финансирования; общая обязанность оплатить принятое исполнение в срок действует одинаково.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:priostanovka-rabot-po-goskontraktu">Отдельный вопрос — можно ли в ответ на неоплату остановить исполнение: основания статей 716 и 719 ГК, обязательные уведомления и цена ошибки разобраны в статье про <a href="/baza-znaniy/priostanovka-rabot-po-goskontraktu/">приостановку работ по госконтракту</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -364,6 +365,7 @@
     <a class="card reveal" href="/baza-znaniy/srok-oplaty-po-kontraktu-44-fz/"><div class="card__cover"><span>Срок оплаты</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Срок оплаты по контракту 44-ФЗ: 7 и 10 рабочих дней</h3><div class="card__meta">Сопровождение · 13 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/ispolnitelnyy-list-v-kaznachejstvo/"><div class="card__cover"><span>Исполнительный лист</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Исполнительный лист в казначейство: взыскание с заказчика</h3><div class="card__meta">Сопровождение · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/konec-finansovogo-goda-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Конец года</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Конец финансового года: оплата и лицевой счёт</h3><div class="card__meta">Основы · 14 мин</div></div></a>
+    <!-- auto-related:priostanovka-rabot-po-goskontraktu --><a class="card reveal" href="/baza-znaniy/priostanovka-rabot-po-goskontraktu/"><div class="card__cover"><span>Приостановка работ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Приостановка работ по госконтракту: права исполнителя</h3><div class="card__meta">Сопровождение · 14 мин</div></div></a>
   </div>
 </section>
 

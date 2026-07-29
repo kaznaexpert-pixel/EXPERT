@@ -319,6 +319,7 @@
     </div>
 
     <p data-ctx="auto-ctx:odnostoronniy-otkaz-ot-ispolneniya-kontrakta-44-fz">Если сохранить контракт изменением условий не удаётся, у стороны остаётся <a href="/baza-znaniy/odnostoronniy-otkaz-ot-ispolneniya-kontrakta-44-fz/">односторонний отказ от исполнения</a> по основаниям Гражданского кодекса, предусмотренным контрактом.</p>
+    <p data-ctx="auto-ctx:dopolnitelnye-raboty-po-goskontraktu">Самый конфликтный сценарий изменения — выявленные в ходе исполнения неучтённые объёмы: порядок статьи 743 ГК с правилом 10 дней и последствия работ без допсоглашения разобраны в статье про <a href="/baza-znaniy/dopolnitelnye-raboty-po-goskontraktu/">дополнительные работы по госконтракту</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -401,6 +402,7 @@
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-44-fz/"><div class="card__cover"><span>44-ФЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение по 44-ФЗ в 2026</h3><div class="card__meta">Применимость · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/srok-oplaty-po-kontraktu-44-fz/"><div class="card__cover"><span>Оплата</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Срок оплаты по контракту 44-ФЗ: 7 и 10 дней</h3><div class="card__meta">Применимость · 13 мин</div></div></a>
     <!-- auto-related:odnostoronniy-otkaz-ot-ispolneniya-kontrakta-44-fz --><a class="card reveal" href="/baza-znaniy/odnostoronniy-otkaz-ot-ispolneniya-kontrakta-44-fz/"><div class="card__cover"><span>Отказ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Односторонний отказ от исполнения контракта по 44-ФЗ</h3><div class="card__meta">Применимость · 16 мин</div></div></a>
+    <!-- auto-related:dopolnitelnye-raboty-po-goskontraktu --><a class="card reveal" href="/baza-znaniy/dopolnitelnye-raboty-po-goskontraktu/"><div class="card__cover"><span>Допработы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Дополнительные работы по госконтракту: оформление и оплата</h3><div class="card__meta">Сопровождение · 14 мин</div></div></a>
   </div>
 </section>
 
