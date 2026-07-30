@@ -316,6 +316,7 @@
     <p data-ctx="auto-ctx:celevaya-subsidiya-yuridicheskomu-licu">Чтобы понять механику сопровождения, важно сначала разобраться в самой субсидии: её видах и режиме целевых средств. Об этом — в статье о <a href="/baza-znaniy/celevaya-subsidiya-yuridicheskomu-licu/">целевой субсидии юридическому лицу</a>.</p>
     <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-grantov">Отдельный случай — гранты в форме субсидий: они тоже попадают под сопровождение и работают в режиме целевых средств. Когда грант сопровождается и как с ним работать, разбираем в материале о <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-grantov/">казначейском сопровождении грантов</a>.</p>
     <p data-ctx="auto-ctx:byudzhetnye-investicii-yuridicheskomu-licu">Наряду с субсидиями казначейскому сопровождению подлежат и бюджетные инвестиции юрлицам — об этом инструменте в материале <a href="/baza-znaniy/byudzhetnye-investicii-yuridicheskomu-licu/">бюджетные инвестиции юридическому лицу</a>.</p>
+    <p data-ctx="auto-ctx:soglashenie-o-predostavlenii-subsidii">Сам документ, с которого всё начинается, — типовая форма, порядок подписания в «Электронном бюджете», обязательные условия и штрафные формулы за недостижение результатов — детально разобран в статье про <a href="/baza-znaniy/soglashenie-o-predostavlenii-subsidii/">соглашение о предоставлении субсидии</a>.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -431,6 +432,7 @@
     <!-- auto-related:celevaya-subsidiya-yuridicheskomu-licu --><a class="card reveal" href="/baza-znaniy/celevaya-subsidiya-yuridicheskomu-licu/"><div class="card__cover"><span>Субсидия</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Целевая субсидия юридическому лицу</h3><div class="card__meta">Сопровождение · 17 мин</div></div></a>
     <!-- auto-related:kaznacheyskoe-soprovozhdenie-grantov --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-grantov/"><div class="card__cover"><span>Гранты</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение грантов в форме субсидий</h3><div class="card__meta">Сопровождение · 16 мин</div></div></a>
     <!-- auto-related:byudzhetnye-investicii-yuridicheskomu-licu --><a class="card reveal" href="/baza-znaniy/byudzhetnye-investicii-yuridicheskomu-licu/"><div class="card__cover"><span>Инвестиции</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Бюджетные инвестиции юридическому лицу (ст. 80 БК)</h3><div class="card__meta">Субсидии · 15 мин</div></div></a>
+    <!-- auto-related:soglashenie-o-predostavlenii-subsidii --><a class="card reveal" href="/baza-znaniy/soglashenie-o-predostavlenii-subsidii/"><div class="card__cover"><span>Соглашение о субсидии</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Соглашение о предоставлении субсидии: как заключается и что проверить</h3><div class="card__meta">Субсидии · 13 мин</div></div></a>
   </div>
 </section>
 
