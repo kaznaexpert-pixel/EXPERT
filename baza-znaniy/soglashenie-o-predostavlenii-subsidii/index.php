@@ -320,6 +320,7 @@
       <details><summary>Нужна ли машиночитаемая доверенность для подписания соглашения?</summary><p>Если подписывает не руководитель, действующий без доверенности, а уполномоченный представитель — да, потребуется МЧД с соответствующими полномочиями; сертификаты подписантов должны быть действующими.</p></details>
     </div>
 
+    <p data-ctx="auto-ctx:vozvrat-subsidii-pri-nedostizhenii-rezultatov">Что происходит, когда показатель всё-таки не выполнен, — как считается сумма к возврату, когда добавляются штрафные санкции и что можно успеть сделать до требования распорядителя, — разобрано в статье про <a href="/baza-znaniy/vozvrat-subsidii-pri-nedostizhenii-rezultatov/">возврат субсидии при недостижении результатов</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -377,6 +378,7 @@
     <a class="card reveal" href="/baza-znaniy/celevaya-subsidiya-yuridicheskomu-licu/"><div class="card__cover"><span>Целевая субсидия</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Целевая субсидия юридическому лицу: что это, виды и режим</h3><div class="card__meta">Субсидии · 13 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-subsidiy/"><div class="card__cover"><span>Сопровождение субсидий</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение субсидий в 2026 году</h3><div class="card__meta">Субсидии · 13 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/otchet-o-rashodah-celevyh-sredstv/"><div class="card__cover"><span>Отчёт о расходах</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отчёт о расходах целевых средств: как заполнить и сдать</h3><div class="card__meta">Операции · 12 мин</div></div></a>
+    <!-- auto-related:vozvrat-subsidii-pri-nedostizhenii-rezultatov --><a class="card reveal" href="/baza-znaniy/vozvrat-subsidii-pri-nedostizhenii-rezultatov/"><div class="card__cover"><span>Возврат субсидии</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Возврат субсидии при недостижении результатов: порядок и расчёт</h3><div class="card__meta">Субсидии · 14 мин</div></div></a>
   </div>
 </section>
 

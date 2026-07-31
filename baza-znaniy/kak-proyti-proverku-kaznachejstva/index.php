@@ -309,6 +309,7 @@
     </div>
 
     <p data-ctx="auto-ctx:predstavlenie-i-predpisanie-kaznachejstva">Если по итогам проверки всё же вынесено представление или предписание, у объекта контроля есть право на досудебную жалобу и суд — порядок и сроки в разборе <a href="/baza-znaniy/predstavlenie-i-predpisanie-kaznachejstva/">«Представление и предписание казначейства: как обжаловать»</a>.</p>
+    <p data-ctx="auto-ctx:sroki-hraneniya-dokumentov-po-goskontraktu">Половина проблем на проверке — не в позиции проверяющего, а в некомплектном архиве: какие документы и сколько лет держать по контракту, включая выписки и документы санкционирования, разобрано в материале про <a href="/baza-znaniy/sroki-hraneniya-dokumentov-po-goskontraktu/">сроки хранения документов</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
@@ -392,6 +393,7 @@
     <a class="card reveal" href="/baza-znaniy/otchet-o-rashodah-celevyh-sredstv/"><div class="card__cover"><span>Отчёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Отчёт о расходах целевых средств: как заполнить и сдать при казначейском сопровождении</h3><div class="card__meta">Операции · 14 мин</div></div></a>
     <!-- auto-related:priostanovlenie-operaciy-po-licevomu-schetu --><a class="card reveal" href="/baza-znaniy/priostanovlenie-operaciy-po-licevomu-schetu/"><div class="card__cover"><span>Приостановление</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейство приостановило операции по счёту: что делать</h3><div class="card__meta">Контроль · 15 мин</div></div></a>
     <!-- auto-related:predstavlenie-i-predpisanie-kaznachejstva --><a class="card reveal" href="/baza-znaniy/predstavlenie-i-predpisanie-kaznachejstva/"><div class="card__cover"><span>Предписание ФК</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Представление и предписание казначейства: как обжаловать</h3><div class="card__meta">Контроль · 16 мин</div></div></a>
+    <!-- auto-related:sroki-hraneniya-dokumentov-po-goskontraktu --><a class="card reveal" href="/baza-znaniy/sroki-hraneniya-dokumentov-po-goskontraktu/"><div class="card__cover"><span>Сроки хранения</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Сроки хранения документов по госконтракту и раздельному учёту</h3><div class="card__meta">Учёт · 13 мин</div></div></a>
   </div>
 </section>
 
