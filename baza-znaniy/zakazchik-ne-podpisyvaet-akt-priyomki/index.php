@@ -521,6 +521,7 @@ P рабочих дней на подписание или мотивирова�
               <a href="/baza-znaniy/">База знаний</a>
               <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a>
               <a href="/o-kompanii/">О компании</a>
+              <a href="/komanda/mihailov-yaroslav/">Эксперт: Ярослав Михайлов</a>
               <a href="/baza-znaniy/kody/">Коды направлений расходования</a>
               <a href="/baza-znaniy/kody-postupleniy/">Коды источников поступлений</a>
               <a href="/baza-znaniy/normativnaya-baza/">Нормативная база</a>

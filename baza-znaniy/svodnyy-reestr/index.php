@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"schet"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Сводный реестр участников и неучастников бюджетного процесса: код, проверка, включение", "description": "Сводный реестр казначейства: кто в него входит, 8-значный код организации, проверка по ИНН на budget.gov.ru и включение неучастника бюджетного процесса через ТОФК по Порядку № 163н.", "inLanguage": "ru-RU", "datePublished": "2026-06-12", "dateModified": "2026-07-13", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/svodnyy-reestr/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_175321/", "https://roskazna.gov.ru/gis/ehlektronnyj-byudzhet/svodnyy-reestr/", "https://budget.gov.ru/", "https://www.consultant.ru/document/cons_doc_LAW_19702/c4bad396d963c79cf5c4665d8fc50e017a94309f/", "https://www.garant.ru/products/ipo/prime/doc/413982431/", "https://www.consultant.ru/document/cons_doc_LAW_182473/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Сводный реестр участников и неучастников бюджетного процесса: код, проверка, включение", "description": "Сводный реестр казначейства: кто в него входит, 8-значный код организации, проверка по ИНН на budget.gov.ru и включение неучастника бюджетного процесса через ТОФК по Порядку № 163н.", "inLanguage": "ru-RU", "datePublished": "2026-06-12", "dateModified": "2026-08-03", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/svodnyy-reestr/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_175321/", "https://roskazna.gov.ru/gis/ehlektronnyj-byudzhet/svodnyy-reestr/", "https://budget.gov.ru/", "https://www.consultant.ru/document/cons_doc_LAW_19702/c4bad396d963c79cf5c4665d8fc50e017a94309f/", "https://www.garant.ru/products/ipo/prime/doc/413982431/", "https://www.consultant.ru/document/cons_doc_LAW_182473/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Сводный реестр", "item": "https://kaznaexpert.ru/baza-znaniy/svodnyy-reestr/"}]}
@@ -189,7 +189,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Счета в казначействе <span class="fresh">Актуально на 2026</span></div>
     <h1>Сводный реестр участников и неучастников бюджетного процесса: код, проверка, включение</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 13 июля 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 3 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -262,7 +262,7 @@
       <li><b>Открытие лицевого счёта.</b> Заявление на открытие счёта в «Электронном бюджете» опирается на реестровую запись организации — без неё процедура не стартует.</li>
       <li><b>Сведения об операциях с целевыми средствами.</b> Код организации указывается в документах планирования — как заполнять, разбирали в статье о <a href="/baza-znaniy/svedeniya-ob-operaciyah-s-celevymi-sredstvami/">сведениях об операциях</a>.</li>
       <li><b>Платёжные документы и отчётность</b> в «Электронном бюджете» и СУФД.</li>
-      <li><b>Идентификация в системах казначейства:</b> личный кабинет, доступы, привязка сертификатов ЭП — подпись для этих систем оформляется через <a href="/baza-znaniy/portal-zayavitelya-kaznachejstva/">портал заявителя ФЗС</a>.</li>
+      <li><b>Идентификация в системах казначейства:</b> личный кабинет, доступы, привязка сертификатов ЭП — подпись для этих систем оформляется через <a href="/baza-znaniy/portal-zayavitelya-kaznachejstva/">портал заявителя ФЗС</a>, а сам порядок выпуска разобран в инструкции <a href="/baza-znaniy/sertifikat-ecp-kaznachejstvo/">как получить сертификат и ЭЦП казначейства</a>.</li>
     </ul>
 
     <h2 id="proverka">Как узнать код по сводному реестру по ИНН и проверить организацию</h2>
@@ -746,6 +746,7 @@
               <a href="/baza-znaniy/">База знаний</a>
               <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a>
               <a href="/o-kompanii/">О компании</a>
+              <a href="/komanda/mihailov-yaroslav/">Эксперт: Ярослав Михайлов</a>
               <a href="/baza-znaniy/kody/">Коды направлений расходования</a>
               <a href="/baza-znaniy/kody-postupleniy/">Коды источников поступлений</a>
               <a href="/baza-znaniy/normativnaya-baza/">Нормативная база</a>

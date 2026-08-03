@@ -724,6 +724,7 @@ $tools_n=0; foreach($TOOLS as $sl=>$t){ if(isset($all[$sl])) $tools_n++; }
               <a href="/baza-znaniy/">База знаний</a>
               <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a>
               <a href="/o-kompanii/">О компании</a>
+              <a href="/komanda/mihailov-yaroslav/">Эксперт: Ярослав Михайлов</a>
               <a href="/baza-znaniy/kody/">Коды направлений расходования</a>
               <a href="/baza-znaniy/kody-postupleniy/">Коды источников поступлений</a>
               <a href="/baza-znaniy/normativnaya-baza/">Нормативная база</a>

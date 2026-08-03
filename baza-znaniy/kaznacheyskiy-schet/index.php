@@ -25,7 +25,7 @@
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"schet"};</script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейский счёт в 2026 году: что это, виды, реквизиты и отличие от банковского", "description": "Что такое казначейский счёт, единый казначейский счёт (ЕКС) и лицевой счёт 71, виды счетов по ст. 242.14 БК РФ, как заполнять реквизиты в платёжке и чем казначейский счёт отличается от банковского.", "inLanguage": "ru-RU", "datePublished": "2026-06-05", "dateModified": "2026-06-05", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskiy-schet/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/f6c1ec982a7b32b1ed4bc223a4f254b43321870a/", "https://base.garant.ru/73355439/", "https://www.cbr.ru/explan/eks/", "https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейский счёт в 2026 году: что это, виды, реквизиты и отличие от банковского", "description": "Что такое казначейский счёт, единый казначейский счёт (ЕКС) и лицевой счёт 71, виды счетов по ст. 242.14 БК РФ, как заполнять реквизиты в платёжке и чем казначейский счёт отличается от банковского.", "inLanguage": "ru-RU", "datePublished": "2026-06-05", "dateModified": "2026-08-03", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskiy-schet/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/f6c1ec982a7b32b1ed4bc223a4f254b43321870a/", "https://base.garant.ru/73355439/", "https://www.cbr.ru/explan/eks/", "https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Казначейский счёт: что это, реквизиты и отличие от банковского"}]}
@@ -175,7 +175,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Счета в казначействе <span class="fresh">Актуально на 2026</span></div>
     <h1>Казначейский счёт в 2026 году: что это, виды, реквизиты и отличие от банковского</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 5 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 3 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -231,7 +231,7 @@
 
     <h2 id="vidy">Виды казначейских счетов</h2>
     <div class="answer reveal">
-      <p>Бюджетный кодекс выделяет несколько типов казначейских счетов — по назначению средств, которые на них учитываются<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a>. Знать всю классификацию исполнителю не обязательно, но полезно понимать, что «казначейский счёт» — это не один счёт, а целая группа.</p>
+      <p>Бюджетный кодекс выделяет несколько типов казначейских счетов — по назначению средств, которые на них учитываются<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a>. Знать всю классификацию исполнителю не обязательно, но полезно понимать, что «казначейский счёт» — это не один счёт, а целая группа. Отдельно стоит <a href="/baza-znaniy/otdelnyy-schet-po-goz/">отдельный счёт по ГОЗ</a>: он открывается не в казначействе, а в уполномоченном банке и живёт по своему режиму — их регулярно путают.</p>
     </div>
     <table>
       <caption>Виды казначейских счетов по статье 242.14 БК РФ</caption>
@@ -670,6 +670,7 @@
               <a href="/baza-znaniy/">База знаний</a>
               <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a>
               <a href="/o-kompanii/">О компании</a>
+              <a href="/komanda/mihailov-yaroslav/">Эксперт: Ярослав Михайлов</a>
               <a href="/baza-znaniy/kody/">Коды направлений расходования</a>
               <a href="/baza-znaniy/kody-postupleniy/">Коды источников поступлений</a>
               <a href="/baza-znaniy/normativnaya-baza/">Нормативная база</a>
