@@ -329,6 +329,7 @@
       <li><b>Оставлять архив без хозяина.</b> После ухода сотрудника комплектность дела не поддерживается никем.</li>
     </ul>
 
+    <p data-ctx="auto-ctx:promezhutochnaya-otchetnost-goz">Квартальный ритм отчётности меняет и требования к первичке: как устроена новая обязанность исполнителей гособоронзаказа — куда, за какие периоды и в какие сроки сдаётся <a href="/baza-znaniy/promezhutochnaya-otchetnost-goz/">промежуточная бухгалтерская отчётность</a> — разобрано отдельно.</p>
     <div class="takeaways">
       <h2>Главное</h2>
       <ul>
@@ -421,6 +422,7 @@
     <a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-po-goskontraktu/"><div class="card__cover"><span>Раздельный учёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по госконтракту: когда вести и как организовать</h3><div class="card__meta">Учёт · 13 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/vosstanovlenie-razdelnogo-ucheta-po-goskontraktu/"><div class="card__cover"><span>Восстановление учёта</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Восстановление раздельного учёта по госконтракту</h3><div class="card__meta">Учёт · 12 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kak-proyti-proverku-kaznachejstva/"><div class="card__cover"><span>Проверка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Как пройти проверку казначейства: что смотрят и как готовиться</h3><div class="card__meta">Контроль · 12 мин</div></div></a>
+    <!-- auto-related:promezhutochnaya-otchetnost-goz --><a class="card reveal" href="/baza-znaniy/promezhutochnaya-otchetnost-goz/"><div class="card__cover"><span>Промежуточная отчётность</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Промежуточная бухгалтерская отчётность исполнителя ГОЗ в 2026 году</h3><div class="card__meta">Учёт · 13 мин</div></div></a>
   </div>
 </section>
 

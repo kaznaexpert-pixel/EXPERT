@@ -319,6 +319,7 @@
 
     <p data-ctx="auto-ctx:normy-pribyli-goz">Размер прибыли внутри любого вида цены нормирован отдельно: формула «до 1% привнесённых + до 25% собственных затрат» разобрана в материале о <a href="/baza-znaniy/normy-pribyli-goz/">нормах прибыли по гособоронзаказу</a>.</p>
     <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-niokr">Чаще всего ориентировочная цена применяется именно в исследовательских и конструкторских темах: как исполнителю подтверждать материалы, труд и испытания и что происходит при недостижении результата, разобрано в статье про <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-niokr/">казначейское сопровождение НИОКР</a>.</p>
+    <p data-ctx="auto-ctx:voennoe-predstavitelstvo-minoborony">Вид цены и принятые экономические показатели фиксируются не только в контракте: по процедурам ценового регулирования заключение о цене выдаёт <a href="/baza-znaniy/voennoe-predstavitelstvo-minoborony/">военное представительство Минобороны</a> — по форме, где отклонённые затраты поясняются построчно.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -438,6 +439,7 @@
     <!-- auto-related:rkm-po-gosoboronzakazu --><a class="card reveal" href="/baza-znaniy/rkm-po-gosoboronzakazu/"><div class="card__cover"><span>РКМ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">РКМ по гособоронзаказу: формы и заполнение</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
     <!-- auto-related:normy-pribyli-goz --><a class="card reveal" href="/baza-znaniy/normy-pribyli-goz/"><div class="card__cover"><span>Прибыль ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Нормы прибыли по гособоронзаказу: правило «1% + 25%»</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
     <!-- auto-related:kaznacheyskoe-soprovozhdenie-niokr --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-niokr/"><div class="card__cover"><span>НИОКР</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение НИОКР: затраты, этапы, результат</h3><div class="card__meta">Сопровождение · 15 мин</div></div></a>
+    <!-- auto-related:voennoe-predstavitelstvo-minoborony --><a class="card reveal" href="/baza-znaniy/voennoe-predstavitelstvo-minoborony/"><div class="card__cover"><span>Военное представительство</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Военное представительство Минобороны: функции, цена и приёмка</h3><div class="card__meta">ГОЗ · 13 мин</div></div></a>
   </div>
 </section>
 

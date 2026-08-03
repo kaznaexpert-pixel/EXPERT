@@ -334,6 +334,7 @@
     </div>
 
     <p data-ctx="auto-ctx:normy-pribyli-goz">Ключевая проверяемая величина в калькуляции — рентабельность: какие потолки и минимумы установлены пунктом 54 постановления № 1465, см. в разборе <a href="/baza-znaniy/normy-pribyli-goz/">норм прибыли по гособоронзаказу</a>.</p>
+    <p data-ctx="auto-ctx:voennoe-predstavitelstvo-minoborony">Расчётно-калькуляционные материалы предъявляются не в пустоту: их анализирует <a href="/baza-znaniy/voennoe-predstavitelstvo-minoborony/">военное представительство</a>, которое принимает или отклоняет затраты по каждой статье калькуляции и оформляет результат заключением о цене.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -477,6 +478,7 @@
     <a class="card reveal" href="/baza-znaniy/perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz/"><div class="card__cover"><span>Перевод цены</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Перевод ориентировочной цены в фиксированную по ГОЗ</h3><div class="card__meta">ГОЗ · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/uchetnaya-politika-razdelnyy-uchet-goz/"><div class="card__cover"><span>Учёт</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Учётная политика по раздельному учёту ГОЗ</h3><div class="card__meta">Учёт · 14 мин</div></div></a>
     <!-- auto-related:normy-pribyli-goz --><a class="card reveal" href="/baza-znaniy/normy-pribyli-goz/"><div class="card__cover"><span>Прибыль ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Нормы прибыли по гособоронзаказу: правило «1% + 25%»</h3><div class="card__meta">ГОЗ · 16 мин</div></div></a>
+    <!-- auto-related:voennoe-predstavitelstvo-minoborony --><a class="card reveal" href="/baza-znaniy/voennoe-predstavitelstvo-minoborony/"><div class="card__cover"><span>Военное представительство</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Военное представительство Минобороны: функции, цена и приёмка</h3><div class="card__meta">ГОЗ · 13 мин</div></div></a>
   </div>
 </section>
 

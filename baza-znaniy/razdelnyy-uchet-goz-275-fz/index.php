@@ -368,6 +368,7 @@
 
     <p data-ctx="auto-ctx:razdelnyy-uchet-goz-v-1s">На практике этот учёт автоматизируют в программе: как включить функциональность контрактов госзаказа и вести разрез по ИГК, разобрано в материале о <a href="/baza-znaniy/razdelnyy-uchet-goz-v-1s/">раздельном учёте по ГОЗ в 1С</a>.</p>
     <p data-ctx="auto-ctx:vosstanovlenie-razdelnogo-ucheta-po-goskontraktu">Когда раздельный учёт по гособоронзаказу не вёлся или не проходит проверку, его восстанавливают ретроспективно — по правилам своего режима: порядок описан в материале о <a href="/baza-znaniy/vosstanovlenie-razdelnogo-ucheta-po-goskontraktu/">восстановлении раздельного учёта</a>.</p>
+    <p data-ctx="auto-ctx:promezhutochnaya-otchetnost-goz">С отчётности за первое полугодие 2026 года к раздельному учёту добавился ещё один обязательный срез: головные исполнители и участники кооперации представляют <a href="/baza-znaniy/promezhutochnaya-otchetnost-goz/">промежуточную бухгалтерскую отчётность</a> — за первый квартал, полугодие и девять месяцев, в порядке, установленном постановлением Правительства № 797.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
@@ -493,6 +494,7 @@
     <!-- auto-related:uchetnaya-politika-razdelnyy-uchet-goz --><a class="card reveal" href="/baza-znaniy/uchetnaya-politika-razdelnyy-uchet-goz/"><div class="card__cover"><span>Учётная политика</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Учётная политика по раздельному учёту ГОЗ</h3><div class="card__meta">Учёт · 15 мин</div></div></a>
     <!-- auto-related:razdelnyy-uchet-goz-v-1s --><a class="card reveal" href="/baza-znaniy/razdelnyy-uchet-goz-v-1s/"><div class="card__cover"><span>1С ГОЗ</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Раздельный учёт по ГОЗ в 1С: настройка и ведение</h3><div class="card__meta">Учёт · 18 мин</div></div></a>
     <!-- auto-related:vosstanovlenie-razdelnogo-ucheta-po-goskontraktu --><a class="card reveal" href="/baza-znaniy/vosstanovlenie-razdelnogo-ucheta-po-goskontraktu/"><div class="card__cover"><span>Восстановление</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Восстановление раздельного учёта по госконтракту</h3><div class="card__meta">Раздельный учёт · 15 мин</div></div></a>
+    <!-- auto-related:promezhutochnaya-otchetnost-goz --><a class="card reveal" href="/baza-znaniy/promezhutochnaya-otchetnost-goz/"><div class="card__cover"><span>Промежуточная отчётность</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Промежуточная бухгалтерская отчётность исполнителя ГОЗ в 2026 году</h3><div class="card__meta">Учёт · 13 мин</div></div></a>
   </div>
 </section>
 
