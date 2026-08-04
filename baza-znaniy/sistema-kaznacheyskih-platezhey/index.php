@@ -444,7 +444,7 @@
 
 <section class="related" aria-labelledby="relTitle">
   <div class="related__head"><h2 id="relTitle">Что почитать ещё</h2><a href="/baza-znaniy/">Вся база знаний →</a></div>
-  <div class="related__grid">
+  <div class="related__grid"><!-- auto-related:kaznacheyskoe-obsluzhivanie --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-obsluzhivanie/"><span class="card__cat">Основы</span><span class="card__t">Казначейское обслуживание и сопровождение: разница</span><span class="card__m">Основы · 11 мин</span></a>
     <a class="card reveal" href="/baza-znaniy/edinyy-kaznacheyskiy-schet/"><div class="card__cover"><span>ЕКС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Единый казначейский счёт (ЕКС): реквизиты и платёжка</h3><div class="card__meta">Счета · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznachejstvo-i-tofk/"><div class="card__cover"><span>Казначейство</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Что такое Федеральное казначейство и ТОФК</h3><div class="card__meta">Основы · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kaznacheyskiy-monitoring/"><div class="card__cover"><span>Мониторинг</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейский мониторинг: как работает и меры реагирования</h3><div class="card__meta">Контроль · 15 мин</div></div></a>
