@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Постоплата по госконтракту без возвратов — от 55 000 ₽</title>
+<title>Постоплата по госконтракту без возвратов — 55 000 ₽</title>
 <meta name="description" content="Проведём постоплату по госконтракту без возвратов и в срок: проверка документов, работа с казначейством, контроль до зачисления.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -26,20 +26,155 @@
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Service", "datePublished": "2026-06-25", "dateModified": "2026-07-14", "name": "Сопровождение постоплаты по госконтракту", "serviceType": "Проведение постоплаты по 44-ФЗ через казначейство", "description": "Проведение постоплаты по госконтракту без возвратов: проверка документов, платёжные поручения, работа с казначейством и контроль до зачисления средств. Повторная подача при замечаниях без доплат.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "55000", "priceCurrency": "RUB", "description": "Сопровождение постоплаты по госконтракту, по этапу", "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-postoplata/"}, "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-postoplata/"}
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "datePublished": "2026-06-25",
+  "dateModified": "2026-08-04",
+  "name": "Сопровождение постоплаты по госконтракту",
+  "serviceType": "Проведение постоплаты по 44-ФЗ через казначейство",
+  "description": "Проведение постоплаты по госконтракту без возвратов: проверка документов, платёжные поручения, работа с казначейством и контроль до зачисления средств. Повторная подача при замечаниях без доплат.",
+  "provider": {
+    "@type": "Organization",
+    "name": "КазнаЭксперт",
+    "url": "https://kaznaexpert.ru",
+    "telephone": "+7-981-833-10-10",
+    "logo": "https://kaznaexpert.ru/img/logogold.png",
+    "@id": "https://kaznaexpert.ru/#organization"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "Россия"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "55000",
+    "priceCurrency": "RUB",
+    "description": "Сопровождение постоплаты по госконтракту, по этапу",
+    "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-postoplata/"
+  },
+  "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-postoplata/"
+}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Сопровождение: постоплата"}]}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type": "Question", "name": "Почему постоплата по госконтракту такая сложная?", "acceptedAnswer": {"@type": "Answer", "text": "Платёж проходит несколько уровней контроля: ваш банк → казначейство → банк заказчика. На каждом этапе документы проверяются на соответствие жёстким требованиям. Ошибка в коде операции, типе документа или реквизитах — и платёж возвращается."}},{"@type": "Question", "name": "Мы проводили постоплату сами — зачем платить?", "acceptedAnswer": {"@type": "Answer", "text": "Если всё проходит без проблем — платить не нужно. Но хотя бы один возврат в истории — сигнал, что процедура настроена неверно. Один возврат = простой и риск нарушить контракт; услуга окупается на первой же ошибке."}},{"@type": "Question", "name": "Что если казначейство вернёт платёж с замечаниями?", "acceptedAnswer": {"@type": "Answer", "text": "Устраняем замечания и подаём повторно без доплат — это часть услуги. Результат — зачисленные средства на ваш счёт. Документы проверяем до подачи, чтобы возврата не было."}},{"@type": "Question", "name": "За какой срок проведёте постоплату?", "acceptedAnswer": {"@type": "Answer", "text": "Зависит от готовности документов и графика казначейства. Срок оценим на консультации и зафиксируем ориентир по вашему контракту."}},{"@type": "Question", "name": "Поможете, если из-за просрочки уже начислили пени?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Разберём расчёт и основания начисления, поможем оспорить или снизить неустойку. Как считаются пени — в нашей статье о неустойке по 44-ФЗ."}},{"@type": "Question", "name": "Работаете по всей России?", "acceptedAnswer": {"@type": "Answer", "text": "Да, дистанционно по всем регионам РФ. Документы передаются электронно, личное присутствие не требуется."}}]}
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Почему постоплата по госконтракту такая сложная?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Платёж проходит несколько уровней контроля: ваш банк → казначейство → банк заказчика. На каждом этапе документы проверяются на соответствие жёстким требованиям. Ошибка в коде операции, типе документа или реквизитах — и платёж возвращается."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Мы проводили постоплату сами — зачем платить?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Если всё проходит без проблем — платить не нужно. Но хотя бы один возврат в истории — сигнал, что процедура настроена неверно. Один возврат = простой и риск нарушить контракт; услуга окупается на первой же ошибке."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Что если казначейство вернёт платёж с замечаниями?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Устраняем замечания и подаём повторно без доплат — это часть услуги. Результат — зачисленные средства на ваш счёт. Документы проверяем до подачи, чтобы возврата не было."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "За какой срок проведёте постоплату?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Зависит от готовности документов и графика казначейства. Срок оценим на консультации и зафиксируем ориентир по вашему контракту."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Поможете, если из-за просрочки уже начислили пени?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Да. Разберём расчёт и основания начисления, поможем оспорить или снизить неустойку. Как считаются пени — в нашей статье о неустойке по 44-ФЗ."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Работаете по всей России?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Да, дистанционно по всем регионам РФ. Документы передаются электронно, личное присутствие не требуется."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Бывает ли казначейское сопровождение без аванса?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Да. Основание — вид контракта и источник средств, а не факт выплаты аванса. Например, контракт с единственным поставщиком по пункту 2 части 1 статьи 93 закона № 44-ФЗ на сумму свыше 3 млн ₽ сопровождается целиком, даже если работа идёт полностью по постоплате."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Когда сопровождаются все расчёты по контракту, а не только аванс?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "По статье 5 Федерального закона № 426-ФЗ — при контрактах с единственным поставщиком свыше 3 млн ₽, контрактах гособоронзаказа свыше 3 млн ₽, а также по контрактам за счёт целевых межбюджетных трансфертов из федерального бюджета: от 100 млн ₽ для государственных и муниципальных контрактов и от 10 млн ₽ для контрактов учреждений субъекта."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Деньги пришли после приёмки — можно тратить свободно?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Нет. Оплата поступает на лицевой счёт в казначействе и остаётся целевыми средствами: каждый расход проходит санкционирование и должен соответствовать утверждённым сведениям об операциях с целевыми средствами."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Нужно ли соисполнителю открывать лицевой счёт?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Если договор с ним заключается в рамках сопровождаемого контракта на сумму свыше 3 млн ₽ — да. Условие о сопровождении и идентификатор закладываются в договор заранее, иначе платёж в его адрес не пройдёт."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Сколько стоит сопровождение постоплатного контракта?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "55 000 ₽ в месяц. Это фиксированная цена, закреплённая в договоре, без «от» и без доплат за количество платежей и обращений."
+      }
+    }
+  ]
+}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
 <link rel="preload" as="font" type="font/woff2" href="/fonts/playfairdisplay-normal-500-cyrillic.woff2" crossorigin>
 <style id="fonts-crit">/* критические @font-face (кириллица, выше первого экрана): H1 Playfair 500 + body Inter 400. Остальные начертания — из fonts.css (async). */
 @font-face{font-family:'Inter';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/inter-normal-400-cyrillic.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
-@font-face{font-family:'Playfair Display';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/playfairdisplay-normal-500-cyrillic.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}</style>
+@font-face{font-family:'Playfair Display';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/playfairdisplay-normal-500-cyrillic.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+.lp2-answer{background:#FFFDF8;border:1px solid #E4DDD0;border-left:3px solid #A8844A;border-radius:8px;padding:16px 20px;margin:0 0 24px;font-size:17px;line-height:1.6}
+.lp2-answer p{margin:0}
+.lp2-block{max-width:900px;margin:0 auto}
+.lp2-block p{font-size:17px;line-height:1.68;margin:0 0 16px}
+.lp2-table{width:100%;border-collapse:collapse;margin:8px 0 20px;font-size:16px;border-top:2px solid #8B6F47}
+.lp2-table caption{caption-side:top;text-align:left;font-size:14px;color:#7A7263;font-style:italic;padding:0 0 12px}
+.lp2-table th,.lp2-table td{padding:12px 16px;text-align:left;vertical-align:top;border-bottom:1px solid #E4DDD0;line-height:1.5}
+.lp2-table th{font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;font-weight:600}
+.lp2-list{margin:0 0 18px;padding-left:22px}
+.lp2-list li{margin:0 0 10px;line-height:1.6;font-size:17px}
+.lp2-note{font-size:15px;color:#5F5A52;line-height:1.6;border-top:1px solid #E4DDD0;padding-top:14px;margin-top:6px}
+.lp2-note a{color:#8B6F47}
+@media(max-width:680px){.lp2-table{font-size:15px}.lp2-table th,.lp2-table td{padding:10px 10px}.lp2-block p,.lp2-list li{font-size:16px}}
+</style>
 <link rel="preload" href="/css/fonts.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/fonts.css') ?>" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/css/fonts.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/fonts.css') ?>"></noscript>
 <style id="v2-crit">/* critical: v2-шапка (above-the-fold); полный v2.css грузится асинхронно */
@@ -228,6 +363,97 @@
   </div>
 </section>
 
+<section class="v2-section v2-screen" id="vse-raschety">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Основания</div>
+      <h2 class="v2-section-title">Когда сопровождению подлежат <em>все расчёты</em> по контракту</h2>
+      <p class="v2-section-lede">Аванс — только один из поводов. Статья 5 Федерального закона от 28.11.2025 № 426-ФЗ выделяет случаи, когда под казначейское сопровождение попадают расчёты по контракту целиком.</p>
+    </div>
+    <div class="lp2-block">
+      <div class="lp2-answer"><p><strong>Коротко:</strong> расчёты по контракту сопровождаются целиком, если контракт заключён с единственным поставщиком по пункту 2 части 1 статьи 93 закона № 44-ФЗ на сумму свыше 3 млн ₽, если это контракт в рамках гособоронзаказа свыше 3 млн ₽, а также по контрактам регионального и муниципального уровня от 100 млн ₽, финансируемым за счёт целевых межбюджетных трансфертов из федерального бюджета.</p></div>
+      <table class="lp2-table">
+        <caption>Сопровождение расчётов по контракту, а не только аванса (ст. 5 Федерального закона № 426-ФЗ)</caption>
+        <thead><tr><th>Что за контракт</th><th>Порог</th><th>Норма</th></tr></thead>
+        <tbody>
+          <tr><td>Госконтракт с единственным поставщиком по п. 2 ч. 1 ст. 93 закона № 44-ФЗ</td><td>свыше 3 млн ₽</td><td>п. 7 ч. 2 ст. 5</td></tr>
+          <tr><td>Контракт в целях реализации гособоронзаказа</td><td>свыше 3 млн ₽</td><td>п. 8 ч. 2 ст. 5</td></tr>
+          <tr><td>Государственный или муниципальный контракт за счёт целевых трансфертов из федерального бюджета</td><td>100 млн ₽ и более</td><td>п. 1 ч. 3 ст. 5</td></tr>
+          <tr><td>Контракт бюджетного или автономного учреждения субъекта за счёт таких трансфертов</td><td>10 млн ₽ и более</td><td>п. 1 ч. 3 ст. 5</td></tr>
+          <tr><td>Контракты исполнителей и соисполнителей в рамках перечисленных</td><td>свыше 3 млн ₽</td><td>п. 1 ч. 3 ст. 5</td></tr>
+        </tbody>
+      </table>
+      <p>Практический вывод. Когда сопровождаются все расчёты, а не только аванс, режим не заканчивается вместе с закрытием аванса — он действует до конца контракта. Каждый платёж по нему, включая оплату после приёмки, проходит санкционирование в казначействе. Планировать денежный поток «как обычно» в такой конфигурации нельзя.</p>
+    </div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="bez-avansa">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Без аванса</div>
+      <h2 class="v2-section-title">Казначейское сопровождение <em>без аванса</em>: почему режим всё равно включается</h2>
+      <p class="v2-section-lede">Частое заблуждение: «аванса нет — значит, и сопровождения нет». Для целого ряда контрактов это неверно.</p>
+    </div>
+    <div class="lp2-block">
+      <p>Основание сопровождения — не факт выплаты аванса, а характер средств и вид контракта. Если контракт заключён с единственным поставщиком по пункту 2 части 1 статьи 93 закона № 44-ФЗ на сумму свыше 3 млн ₽, сопровождению подлежат расчёты по нему, независимо от того, предусмотрен аванс или работа идёт полностью по постоплате. То же справедливо для контрактов гособоронзаказа свыше 3 млн ₽ и для средств целевых межбюджетных трансфертов.</p>
+      <ul class="lp2-list">
+        <li><strong>Аванса нет, но контракт с единственным поставщиком свыше 3 млн ₽.</strong> Режим включается, счёт открывать придётся.</li>
+        <li><strong>Аванса нет, источник — субсидия или бюджетная инвестиция.</strong> Целевые средства сопровождаются независимо от суммы и наличия аванса.</li>
+        <li><strong>Аванса нет, обычный конкурентный контракт до порога.</strong> Сопровождения нет — оплата идёт на расчётный счёт.</li>
+      </ul>
+      <p>Проверять нужно не наличие аванса, а связку «вид контракта — источник финансирования — сумма». Мы делаем эту проверку по тексту контракта и извещению до того, как компания подпишет документы и обнаружит требование открыть лицевой счёт постфактум.</p>
+      <p class="lp2-note">Смежный разбор — <a href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/">«Что такое казначейское сопровождение»</a> и <a href="/baza-znaniy/limity-byudzhetnyh-obyazatelstv-i-oplata-kontrakta/">«Лимиты бюджетных обязательств и оплата контракта»</a>.</p>
+    </div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="put-platezha">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Путь платежа</div>
+      <h2 class="v2-section-title">Как проходит оплата при постоплате: <em>от акта до денег</em></h2>
+      <p class="v2-section-lede">При постоплате деньги приходят на лицевой счёт после приёмки — и сразу попадают в тот же режим санкционирования, что и аванс.</p>
+    </div>
+    <div class="lp2-block">
+      <p>Схема выглядит так. Вы выполняете работы за свой счёт, заказчик принимает результат, подписывает акт и перечисляет оплату на ваш лицевой счёт в казначействе. Дальше деньги нужно вывести на хозяйственные нужды — и вот здесь начинается то, к чему компании обычно не готовы: расход с лицевого счёта проходит проверку так же, как расход аванса.</p>
+      <table class="lp2-table">
+        <caption>Что проверяет казначейство при платеже с лицевого счёта</caption>
+        <thead><tr><th>Что проверяется</th><th>Где ошибаются чаще всего</th></tr></thead>
+        <tbody>
+          <tr><td>Соответствие направлению расходования</td><td>Платёж по статье, которой нет в утверждённых сведениях об операциях</td></tr>
+          <tr><td>Идентификатор документа-основания</td><td>Не указан в договоре с контрагентом или в счёте на оплату</td></tr>
+          <tr><td>Подтверждающие документы</td><td>Акт или накладная не позволяют связать расход с контрактом</td></tr>
+          <tr><td>Наличие остатка по направлению</td><td>Сумма превышает заявленное по этой строке</td></tr>
+          <tr><td>Полномочия подписанта</td><td>Распоряжение подписано лицом вне карточки образцов подписей</td></tr>
+        </tbody>
+      </table>
+      <p>Каждый возврат распоряжения — это минимум сутки задержки, а при постоплате задержка бьёт больнее, чем при авансе: деньги уже отработаны, а расплатиться с поставщиками нечем. Поэтому в постоплатных контрактах ключевое — заранее продуманные сведения об операциях, а не оперативная реакция на отказ.</p>
+      <p class="lp2-note">Как устроен документ, которым инициируется платёж, — в материале <a href="/baza-znaniy/rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha/">«Распоряжение о совершении казначейского платежа»</a>.</p>
+    </div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="soispolniteli">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Соисполнители</div>
+      <h2 class="v2-section-title">Расчёты <em>с соисполнителями</em> при постоплате</h2>
+      <p class="v2-section-lede">Режим не заканчивается на вашей компании. Контракты внутри цепочки свыше порога сами попадают под сопровождение.</p>
+    </div>
+    <div class="lp2-block">
+      <p>Контракты и договоры, заключаемые исполнителями и соисполнителями в рамках сопровождаемого контракта, на сумму свыше 3 млн ₽ подлежат казначейскому сопровождению. Это значит, что вашему поставщику или подрядчику тоже придётся открывать лицевой счёт и работать в том же режиме — а вы не сможете оплатить ему работу на обычный расчётный счёт.</p>
+      <ul class="lp2-list">
+        <li>Условие о казначейском сопровождении и идентификатор нужно закладывать в договор с соисполнителем сразу, а не дополнительным соглашением после первого отказа в платеже.</li>
+        <li>Соисполнителю потребуется время на открытие счёта — этот срок закладывается в график работ, иначе цепочка встаёт.</li>
+        <li>Контрагенты ниже порога работают в обычном режиме, но расход по ним всё равно должен укладываться в заявленные направления расходования.</li>
+      </ul>
+      <p>Мы сопровождаем не только вашу компанию, но и коммуникацию с цепочкой: объясняем соисполнителю, что от него требуется, и помогаем выстроить документооборот так, чтобы платежи проходили с первого раза. При постоплатных контрактах это критично — здесь нет подушки в виде аванса, и любая остановка расчётов сразу становится кассовым разрывом.</p>
+      <p class="lp2-note">Смежные материалы: <a href="/baza-znaniy/oplata-subpodryadchiku-pri-kaznacheyskom-soprovozhdenii/">«Оплата субподрядчику при казначейском сопровождении»</a>, услуга <a href="/uslugi/soprovozhdenie-avans/">сопровождения контракта с авансом</a>.</p>
+    </div>
+  </div>
+</section>
+
 <section class="v2-section v2-screen" id="riski">
   <div class="v2-container">
     <div class="v2-section-head">
@@ -253,7 +479,7 @@
         <div role="columnheader" class="v2-compare-head-cell">Штатный спец</div>
         <div role="columnheader" class="v2-compare-head-cell is-us">С КазнаЭксперт</div>
       </div>
-      <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Риск возврата платежа</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Высокий без опыта</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Зависит от сотрудника</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Минимальный</strong> · проверка до подачи</div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Повторная подача</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Ещё несколько дней</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">За счёт компании</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Без доплат</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Соблюдение срока контракта</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Под угрозой</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Зависит от загрузки</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>В срок</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Стоимость</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Ваше время + риск неустойки</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">120–180 тыс ₽/мес</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>от 55 000 ₽</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Раздельный учёт</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Риск ошибок</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">По компетенциям</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Учитываем</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Контроль до зачисления</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Сами отслеживаете</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Частично</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Ведём до средств на счёте</strong></div></div>
+      <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Риск возврата платежа</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Высокий без опыта</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Зависит от сотрудника</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Минимальный</strong> · проверка до подачи</div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Повторная подача</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Ещё несколько дней</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">За счёт компании</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Без доплат</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Соблюдение срока контракта</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Под угрозой</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Зависит от загрузки</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>В срок</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Стоимость</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Ваше время + риск неустойки</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">120–180 тыс ₽/мес</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>55 000 ₽</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Раздельный учёт</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Риск ошибок</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">По компетенциям</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Учитываем</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Контроль до зачисления</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Сами отслеживаете</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Частично</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Ведём до средств на счёте</strong></div></div>
     </div>
     <div class="v2-compare-cta"><a href="#zayavka">Обсудить ваш контракт <span aria-hidden="true">→</span></a></div>
   </div>
@@ -271,7 +497,7 @@
         <div class="v2-tariff-stage">Постоплата</div>
         <h3>Постоплата под ключ</h3>
         <p class="v2-tariff-desc">Проверка документов, платёжные поручения, работа с казначейством и контроль до зачисления средств. Повторная подача при замечаниях — без доплат.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 55 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу контракта · до зачисления</div><a href="#zayavka" class="v2-tariff-link">Провести постоплату <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">55 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу контракта · до зачисления</div><a href="#zayavka" class="v2-tariff-link">Провести постоплату <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">02</div>
         <div class="v2-tariff-stage">С авансом</div>
@@ -295,7 +521,12 @@
       <div class="v2-section-eyebrow">Вопросы</div>
       <h2 class="v2-section-title">Отвечаем <em>прямо</em></h2>
     </div>
-    <div class="faq"><details open><summary>Почему постоплата по госконтракту такая сложная?</summary><p>Платёж проходит несколько уровней контроля: ваш банк → казначейство → банк заказчика. На каждом этапе документы проверяются на соответствие жёстким требованиям. Ошибка в коде операции, типе документа или реквизитах — и платёж возвращается.</p></details><details><summary>Мы проводили постоплату сами — зачем платить?</summary><p>Если всё проходит без проблем — платить не нужно. Но хотя бы один возврат в истории — сигнал, что процедура настроена неверно. Один возврат = простой и риск нарушить контракт; услуга окупается на первой же ошибке.</p></details><details><summary>Что если казначейство вернёт платёж с замечаниями?</summary><p>Устраняем замечания и подаём повторно без доплат — это часть услуги. Результат — зачисленные средства на ваш счёт. Документы проверяем до подачи, чтобы возврата не было.</p></details><details><summary>За какой срок проведёте постоплату?</summary><p>Зависит от готовности документов и графика казначейства. Срок оценим на консультации и зафиксируем ориентир по вашему контракту.</p></details><details><summary>Поможете, если из-за просрочки уже начислили пени?</summary><p>Да. Разберём расчёт и основания начисления, поможем оспорить или снизить неустойку. Как считаются пени — в нашей статье о неустойке по 44-ФЗ.</p></details><details><summary>Работаете по всей России?</summary><p>Да, дистанционно по всем регионам РФ. Документы передаются электронно, личное присутствие не требуется.</p></details></div>
+    <div class="faq">      <details><summary>Бывает ли казначейское сопровождение без аванса?</summary><p>Да. Основание — вид контракта и источник средств, а не факт выплаты аванса. Например, контракт с единственным поставщиком по пункту 2 части 1 статьи 93 закона № 44-ФЗ на сумму свыше 3 млн ₽ сопровождается целиком, даже если работа идёт полностью по постоплате.</p></details>
+      <details><summary>Когда сопровождаются все расчёты по контракту, а не только аванс?</summary><p>По статье 5 Федерального закона № 426-ФЗ — при контрактах с единственным поставщиком свыше 3 млн ₽, контрактах гособоронзаказа свыше 3 млн ₽, а также по контрактам за счёт целевых межбюджетных трансфертов из федерального бюджета: от 100 млн ₽ для государственных и муниципальных контрактов и от 10 млн ₽ для контрактов учреждений субъекта.</p></details>
+      <details><summary>Деньги пришли после приёмки — можно тратить свободно?</summary><p>Нет. Оплата поступает на лицевой счёт в казначействе и остаётся целевыми средствами: каждый расход проходит санкционирование и должен соответствовать утверждённым сведениям об операциях с целевыми средствами.</p></details>
+      <details><summary>Нужно ли соисполнителю открывать лицевой счёт?</summary><p>Если договор с ним заключается в рамках сопровождаемого контракта на сумму свыше 3 млн ₽ — да. Условие о сопровождении и идентификатор закладываются в договор заранее, иначе платёж в его адрес не пройдёт.</p></details>
+      <details><summary>Сколько стоит сопровождение постоплатного контракта?</summary><p>55 000 ₽ в месяц. Это фиксированная цена, закреплённая в договоре, без «от» и без доплат за количество платежей и обращений.</p></details>
+<details open><summary>Почему постоплата по госконтракту такая сложная?</summary><p>Платёж проходит несколько уровней контроля: ваш банк → казначейство → банк заказчика. На каждом этапе документы проверяются на соответствие жёстким требованиям. Ошибка в коде операции, типе документа или реквизитах — и платёж возвращается.</p></details><details><summary>Мы проводили постоплату сами — зачем платить?</summary><p>Если всё проходит без проблем — платить не нужно. Но хотя бы один возврат в истории — сигнал, что процедура настроена неверно. Один возврат = простой и риск нарушить контракт; услуга окупается на первой же ошибке.</p></details><details><summary>Что если казначейство вернёт платёж с замечаниями?</summary><p>Устраняем замечания и подаём повторно без доплат — это часть услуги. Результат — зачисленные средства на ваш счёт. Документы проверяем до подачи, чтобы возврата не было.</p></details><details><summary>За какой срок проведёте постоплату?</summary><p>Зависит от готовности документов и графика казначейства. Срок оценим на консультации и зафиксируем ориентир по вашему контракту.</p></details><details><summary>Поможете, если из-за просрочки уже начислили пени?</summary><p>Да. Разберём расчёт и основания начисления, поможем оспорить или снизить неустойку. Как считаются пени — в нашей статье о неустойке по 44-ФЗ.</p></details><details><summary>Работаете по всей России?</summary><p>Да, дистанционно по всем регионам РФ. Документы передаются электронно, личное присутствие не требуется.</p></details></div>
   </div>
 </section>
 
