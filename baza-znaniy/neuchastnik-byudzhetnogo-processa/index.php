@@ -384,7 +384,7 @@
 
 <section class="related" aria-labelledby="relTitle">
   <div class="related__head"><h2 id="relTitle">Что почитать ещё</h2><a href="/baza-znaniy/">Вся база знаний →</a></div>
-  <div class="related__grid">
+  <div class="related__grid"><!-- auto-related:uchastniki-kaznacheyskogo-soprovozhdeniya --><a class="card reveal" href="/baza-znaniy/uchastniki-kaznacheyskogo-soprovozhdeniya/"><span class="card__cat">Основы</span><span class="card__t">Участники казначейского сопровождения: кто это</span><span class="card__m">Основы · 12 мин</span></a>
     <a class="card reveal" href="/baza-znaniy/licevoy-schet-71-kak-otkryt/"><div class="card__cover"><span>Счёт 71</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Как открыть лицевой счёт 71 в ТОФК: пошагово и документы</h3><div class="card__meta">Лицевой счёт · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Что это</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение: что это, как работает и кому нужно</h3><div class="card__meta">Основы · 16 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/schet-v-departamente-finansov-moskvy/"><div class="card__cover"><span>ДепФин Москвы</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Счёт в Департаменте финансов Москвы: открытие и сопровождение</h3><div class="card__meta">Регионы · 15 мин</div></div></a>

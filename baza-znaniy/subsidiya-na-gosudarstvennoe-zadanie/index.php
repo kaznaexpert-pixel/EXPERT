@@ -409,7 +409,7 @@
 
 <section class="related" aria-labelledby="relTitle">
   <div class="related__head"><h2 id="relTitle">Что почитать ещё</h2><a href="/baza-znaniy/">Вся база знаний →</a></div>
-  <div class="related__grid">
+  <div class="related__grid"><!-- auto-related:kaznacheyskoe-soprovozhdenie-medicina --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-medicina/"><span class="card__cat">Применимость</span><span class="card__t">Казначейское сопровождение в здравоохранении</span><span class="card__m">Применимость · 12 мин</span></a>
     <a class="card reveal" href="/baza-znaniy/celevaya-subsidiya-yuridicheskomu-licu/"><div class="card__cover"><span>Целевая субсидия</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Целевая субсидия юрлицу: виды и казначейское сопровождение</h3><div class="card__meta">Субсидии · 13 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-grantov/"><div class="card__cover"><span>Гранты</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Казначейское сопровождение грантов в форме субсидий</h3><div class="card__meta">Субсидии · 12 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Кто попадает</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Кто попадает под казначейское сопровождение в 2026</h3><div class="card__meta">Сопровождение · 13 мин</div></div></a>

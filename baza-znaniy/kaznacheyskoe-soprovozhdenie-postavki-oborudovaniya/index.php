@@ -381,7 +381,7 @@
 
 <section class="related" aria-labelledby="relTitle">
   <div class="related__head"><h2 id="relTitle">Что почитать ещё</h2><a href="/baza-znaniy/">Вся база знаний →</a></div>
-  <div class="related__grid">
+  <div class="related__grid"><!-- auto-related:kaznacheyskoe-soprovozhdenie-medicina --><a class="card reveal" href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-medicina/"><span class="card__cat">Применимость</span><span class="card__t">Казначейское сопровождение в здравоохранении</span><span class="card__m">Применимость · 12 мин</span></a>
     <a class="card reveal" href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/"><div class="card__cover"><span>Кто попадает</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Кто попадает под казначейское сопровождение: пороги и случаи</h3><p class="card__meta">Пороги 100/10/3 млн ₽ и полный перечень случаев</p></div></a>
     <a class="card reveal" href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/"><div class="card__cover"><span>Аванс</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Аванс при казначейском сопровождении: размер и порядок</h3><p class="card__meta">Как приходит и на что тратится аванс</p></div></a>
     <a class="card reveal" href="/baza-znaniy/elektronnoe-aktirovanie-priyomka-44-fz/"><div class="card__cover"><span>Актирование</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Электронное актирование и приёмка в ЕИС по 44-ФЗ</h3><p class="card__meta">Документ о приёмке — триггер оплаты</p></div></a>
