@@ -26,7 +26,41 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Как зарезервировать отдельный счёт по гособоронзаказу в уполномоченном банке", "description": "Что значит зарезервировать счёт по ГОЗ, чем резервирование отличается от открытия, в каком уполномоченном банке резервировать и что нужно из документов. Опорный банк ОПК, ИГК, режим ст. 8.3 № 275-ФЗ.", "inLanguage": "ru-RU", "datePublished": "2026-06-14", "dateModified": "2026-08-04", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kak-zarezervirovat-schet-po-goz/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_140175/", "https://www.cbr.ru/banking_sector/credit/"]}
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Как зарезервировать отдельный счёт по гособоронзаказу в уполномоченном банке",
+  "description": "Что значит зарезервировать счёт по ГОЗ, чем резервирование отличается от открытия, в каком уполномоченном банке резервировать и что нужно из документов. Опорный банк ОПК, ИГК, режим ст. 8.3 № 275-ФЗ.",
+  "inLanguage": "ru-RU",
+  "datePublished": "2026-06-14",
+  "dateModified": "2026-08-04",
+  "author": {
+    "@type": "Person",
+    "name": "Ярослав Михайлов",
+    "jobTitle": "Главный эксперт по казначейскому сопровождению",
+    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
+    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "КазнаЭксперт",
+    "url": "https://kaznaexpert.ru",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kaznaexpert.ru/img/logogold.png"
+    },
+    "@id": "https://kaznaexpert.ru/#organization"
+  },
+  "image": "https://kaznaexpert.ru/img/og-image.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kaznaexpert.ru/baza-znaniy/kak-zarezervirovat-schet-po-goz/"
+  },
+  "citation": [
+    "https://www.consultant.ru/document/cons_doc_LAW_140175/",
+    "https://www.cbr.ru/banking_sector/credit/"
+  ]
+}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Резервирование счёта по ГОЗ", "item": "https://kaznaexpert.ru/baza-znaniy/kak-zarezervirovat-schet-po-goz/"}]}
@@ -192,9 +226,9 @@
     <div class="hero">
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
-      <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на июль 2026</span></div>
+      <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на август 2026</span></div>
     <h1>Как зарезервировать отдельный счёт по гособоронзаказу в уполномоченном банке</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 4 августа 2026 · порядок резервирования отдельного счёта в опорном банке ОПК (ПСБ) по 275-ФЗ действует на июль 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 4 августа 2026 · закон № 275-ФЗ сверен в редакции от 04.07.2026: с 4 августа действует глава 3.3 о переводе сделки в иной уполномоченный банк</span></div>
     </div>
 
     <div class="share">
@@ -295,6 +329,8 @@
       <tr><td>Открытие</td><td>Учредительные документы, карточка с образцами подписей, контракт с условием банковского сопровождения, ИГК, заявление банка</td></tr>
     </table>
     <p>Банк сверяет данные о сопровождаемой сделке, поэтому расхождения в реквизитах контракта затянут открытие. Лучше заранее проверить, что наименование, ИНН и ИГК в заявке совпадают с контрактом.</p>
+
+    <p>С 4 августа 2026 года у зарезервированного и уже открытого счёта появилась дополнительная защита. Федеральный закон от 04.07.2026 № 232-ФЗ дополнил закон № 275-ФЗ главой 3.3 (ст. 8.9–8.13): если банк исключён из категории уполномоченных по решению Правительства РФ, сопровождаемая сделка переводится в другой уполномоченный банк, а банковское сопровождение переходит без заявления исполнителя о закрытии отдельного счёта. Резервировать номер заново в такой ситуации не требуется — процедуру перевода запускает не исполнитель, но получить новые реквизиты и уведомить государственного заказчика он обязан.<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a></p>
 
     <h2 id="posle">После резервирования: открытие и режим</h2>
     <p>Зарезервированный номер — это ещё не рабочий счёт. После резервирования счёт открывают по полной процедуре, заключают договор банковского сопровождения, и только затем по нему можно проводить расчёты в особом режиме.</p>
@@ -423,11 +459,11 @@
     <div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
-        <li id="ref-1">Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе» (ред. от 15.12.2025), ст. 8.1–8.4 — уполномоченные банки и режим отдельного счёта — <a href="https://www.consultant.ru/document/cons_doc_LAW_140175/" target="_blank" rel="noopener">consultant.ru</a></li>
+        <li id="ref-1">Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе» (ред. от 04.07.2026), ст. 8.1–8.4 — уполномоченные банки и режим отдельного счёта — <a href="https://www.consultant.ru/document/cons_doc_LAW_140175/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-2">Перечень уполномоченных банков по сопровождению гособоронзаказа — Банк России — <a href="https://www.cbr.ru/banking_sector/credit/" target="_blank" rel="noopener">cbr.ru</a></li>
         <li id="ref-3">Статья 8.1 Закона № 275-ФЗ — статус уполномоченных банков; перечень ведёт Банк России — <a href="https://www.consultant.ru/document/cons_doc_LAW_140175/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>
-      <p class="refs__note">Материал актуален на 14 июня 2026 года. Уполномоченный банк сделки уточняйте у госзаказчика или головного исполнителя, актуальный перечень уполномоченных банков — на сайте Банка России, режим отдельного счёта — в действующей редакции Закона № 275-ФЗ.</p>
+      <p class="refs__note">Материал актуален на 4 августа 2026 года. Уполномоченный банк сделки уточняйте у госзаказчика или головного исполнителя, актуальный перечень уполномоченных банков — на сайте Банка России, режим отдельного счёта — в действующей редакции Закона № 275-ФЗ.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

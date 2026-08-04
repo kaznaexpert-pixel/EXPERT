@@ -26,7 +26,45 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "РКМ по гособоронзаказу: формы, порядок заполнения и пояснительная записка", "description": "РКМ (обосновывающие документы) по ГОЗ: формы приказа ФАС № 995/22, привнесённые и собственные затраты, обоснование прибыли по формуле «1 + 25», пояснительная записка и типичные замечания ВП.", "inLanguage": "ru-RU", "datePublished": "2026-06-12", "dateModified": "2026-07-05", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/rkm-po-gosoboronzakazu/"}, "citation": ["http://publication.pravo.gov.ru/Document/View/0001202212300048", "https://www.consultant.ru/document/cons_doc_LAW_436477/", "https://www.consultant.ru/document/cons_doc_LAW_284195/", "http://publication.pravo.gov.ru/Document/View/0001201904190019", "https://www.consultant.ru/document/cons_doc_LAW_322968/", "https://www.consultant.ru/document/cons_doc_LAW_140175/"]}
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "РКМ по гособоронзаказу: формы, порядок заполнения и пояснительная записка",
+  "description": "РКМ (обосновывающие документы) по ГОЗ: формы приказа ФАС № 995/22, привнесённые и собственные затраты, обоснование прибыли по формуле «1 + 25», пояснительная записка и типичные замечания ВП.",
+  "inLanguage": "ru-RU",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-08-04",
+  "author": {
+    "@type": "Person",
+    "name": "Ярослав Михайлов",
+    "jobTitle": "Главный эксперт по казначейскому сопровождению",
+    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
+    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "КазнаЭксперт",
+    "url": "https://kaznaexpert.ru",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kaznaexpert.ru/img/logogold.png"
+    },
+    "@id": "https://kaznaexpert.ru/#organization"
+  },
+  "image": "https://kaznaexpert.ru/img/og-image.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kaznaexpert.ru/baza-znaniy/rkm-po-gosoboronzakazu/"
+  },
+  "citation": [
+    "http://publication.pravo.gov.ru/Document/View/0001202212300048",
+    "https://www.consultant.ru/document/cons_doc_LAW_436477/",
+    "https://www.consultant.ru/document/cons_doc_LAW_284195/",
+    "http://publication.pravo.gov.ru/Document/View/0001201904190019",
+    "https://www.consultant.ru/document/cons_doc_LAW_322968/",
+    "https://www.consultant.ru/document/cons_doc_LAW_140175/"
+  ]
+}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "РКМ по гособоронзаказу", "item": "https://kaznaexpert.ru/baza-znaniy/rkm-po-gosoboronzakazu/"}]}
@@ -189,9 +227,9 @@
     <div class="hero">
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
-      <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на 2026</span></div>
+      <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на август 2026</span></div>
     <h1>РКМ по гособоронзаказу: формы, порядок заполнения и пояснительная записка</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 12 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 4 августа 2026 · сверены редакции: постановление № 1465 от 14.02.2026, приказ ФАС № 995/22 от 18.12.2025, приказ Минпромторга № 334 от 26.11.2025</span></div>
     </div>
 
     <div class="share">
@@ -213,7 +251,7 @@
       <h2>Коротко о главном</h2>
       <div class="keyfacts__grid">
         <div class="kf"><div class="kf__n">№ 995/22</div><div class="kf__t"><b>Формы РКМ</b> — приказ ФАС от 16.12.2022 (ред. от 18.12.2025)</div></div>
-        <div class="kf"><div class="kf__n">№ 1465</div><div class="kf__t"><b>Положение о ценах</b> — ПП РФ от 02.12.2017 (ред. от 20.09.2025)</div></div>
+        <div class="kf"><div class="kf__n">№ 1465</div><div class="kf__t"><b>Положение о ценах</b> — ПП РФ от 02.12.2017 (ред. от 14.02.2026)</div></div>
         <div class="kf"><div class="kf__n">№ 334</div><div class="kf__t"><b>Состав затрат</b> — приказ Минпромторга от 08.02.2019</div></div>
         <div class="kf"><div class="kf__n">Ф. 2 / Ф. 3</div><div class="kf__t"><b>Калькуляции</b> — плановая и отчётная</div></div>
         <div class="kf"><div class="kf__n">Ф. 20</div><div class="kf__t"><b>Прибыль</b> — отдельный расчёт и обоснование</div></div>
@@ -239,11 +277,13 @@
     <table>
       <caption>Нормативная база РКМ по ГОЗ</caption>
       <tr><th>Документ</th><th>Роль</th></tr>
-      <tr><td>Постановление Правительства РФ от 02.12.2017 № 1465 (ред. от 20.09.2025) — Положение о госрегулировании цен на продукцию ГОЗ</td><td>Виды цен, методы определения (анализа рыночных индикаторов, сравнимой цены, затратный), порядок представления обосновывающих документов и выдачи заключений</td></tr>
+      <tr><td>Постановление Правительства РФ от 02.12.2017 № 1465 (ред. от 14.02.2026) — Положение о госрегулировании цен на продукцию ГОЗ</td><td>Виды цен, методы определения (анализа рыночных индикаторов, сравнимой цены, затратный), порядок представления обосновывающих документов и выдачи заключений</td></tr>
       <tr><td>Приказ ФАС России от 16.12.2022 № 995/22 (ред. от 18.12.2025), действует с 10.01.2023</td><td>Сами формы обосновывающих документов (РКМ); заменил приказ ФАС № 1138/19</td></tr>
       <tr><td>Приказ Минпромторга России от 08.02.2019 № 334 (ред. от 26.11.2025)</td><td>Состав затрат, включаемых в цену продукции ГОЗ: что можно относить на контракт и по каким статьям</td></tr>
     </table>
     <p>Обратите внимание на свежие редакции: и формы № 995/22, и порядок № 334 правились в конце 2025 года, причём изменения приказа Минпромторга от 26.11.2025 № 5899 действуют с 10 января 2026 года, а цены, сформированные до этой даты, пересмотру по новым правилам не подлежат.<a class="fn" href="#ref-3" aria-label="Источник 3">[3]</a> Если вы пользуетесь шаблонами «из интернета» — проверьте, что они соответствуют действующим редакциям, а не формам 1138/19.</p>
+
+    <p>Сверка редакций на 4 августа 2026 года. Постановление Правительства РФ № 1465 действует в редакции от 14.02.2026 — раньше на этой странице была указана более ранняя редакция. Формы обосновывающих документов утверждены приказом ФАС России № 995/22 в редакции от 18.12.2025, а состав затрат определяется приказом Минпромторга России № 334 в редакции от 26.11.2025: изменения в него внесены приказом Минпромторга России от 26.11.2025 № 5899 и применяются с 10 января 2026 года. Перед сдачей пакета расчётно-калькуляционных материалов сверяйте номера и редакции форм — заказчики отклоняют документы, собранные по устаревшим бланкам.</p>
 
     <h2 id="kogda">Когда и кому представляются РКМ</h2>
     <p>Обосновывающие документы сопровождают предложение о цене: потенциальный поставщик направляет их государственному заказчику, а по продукции, закреплённой за военными представительствами, — в ВП Минобороны для выдачи заключения о цене. Дальше комплект движется по цепочке согласования цены в порядке, установленном Положением № 1465.<a class="fn" href="#ref-2" aria-label="Источник 2">[2]</a></p>
@@ -413,11 +453,11 @@
       <h2>Источники и нормативная база</h2>
       <ol>
         <li id="ref-1">Приказ ФАС России от 16.12.2022 № 995/22 «Об утверждении форм документов, предусмотренных Положением о государственном регулировании цен на продукцию, поставляемую по государственному оборонному заказу…» (ред. от 18.12.2025) — <a href="http://publication.pravo.gov.ru/Document/View/0001202212300048" target="_blank" rel="noopener">pravo.gov.ru</a>, <a href="https://www.consultant.ru/document/cons_doc_LAW_436477/" target="_blank" rel="noopener">consultant.ru</a></li>
-        <li id="ref-2">Постановление Правительства РФ от 02.12.2017 № 1465 «О государственном регулировании цен на продукцию, поставляемую по государственному оборонному заказу…» (ред. от 20.09.2025) — <a href="https://www.consultant.ru/document/cons_doc_LAW_284195/" target="_blank" rel="noopener">consultant.ru</a></li>
+        <li id="ref-2">Постановление Правительства РФ от 02.12.2017 № 1465 «О государственном регулировании цен на продукцию, поставляемую по государственному оборонному заказу…» (ред. от 14.02.2026) — <a href="https://www.consultant.ru/document/cons_doc_LAW_284195/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-3">Приказ Минпромторга России от 08.02.2019 № 334 «Об утверждении порядка определения состава затрат, включаемых в цену продукции, поставляемой в рамках государственного оборонного заказа» (ред. от 26.11.2025, изменения действуют с 10.01.2026) — <a href="http://publication.pravo.gov.ru/Document/View/0001201904190019" target="_blank" rel="noopener">pravo.gov.ru</a>, <a href="https://www.consultant.ru/document/cons_doc_LAW_322968/" target="_blank" rel="noopener">consultant.ru</a></li>
-        <li id="ref-4">Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе» (ред. от 15.12.2025) — <a href="https://www.consultant.ru/document/cons_doc_LAW_140175/" target="_blank" rel="noopener">consultant.ru</a></li>
+        <li id="ref-4">Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе» (ред. от 04.07.2026) — <a href="https://www.consultant.ru/document/cons_doc_LAW_140175/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>
-      <p class="refs__note">Материал актуален на 12 июня 2026 года. Состав форм и порядок обоснования цены по конкретному контракту определяются запросом заказчика (ВП) и действующими редакциями ПП № 1465, приказов № 995/22 и № 334 — сверяйте редакции на дату подачи комплекта.</p>
+      <p class="refs__note">Материал актуален на 4 августа 2026 года. Состав форм и порядок обоснования цены по конкретному контракту определяются запросом заказчика (ВП) и действующими редакциями ПП № 1465, приказов № 995/22 и № 334 — сверяйте редакции на дату подачи комплекта.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

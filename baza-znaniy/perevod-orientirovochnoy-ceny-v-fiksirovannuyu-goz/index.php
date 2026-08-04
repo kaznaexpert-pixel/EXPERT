@@ -26,7 +26,42 @@
 <script>window.YM_PARAMS = {page_type:"article", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Перевод ориентировочной цены в фиксированную по ГОЗ: порядок в 2026 году", "description": "Как перевести ориентировочную цену в фиксированную по ГОЗ: виды цен, сроки (не позднее 2 мес. до поставки), пакет РКМ, 20 рабочих дней, ПП № 1465 и 275-ФЗ.", "datePublished": "2026-06-07T09:08:00+03:00", "dateModified": "2026-07-14T09:08:00+03:00", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz/"}, "image": "https://kaznaexpert.ru/img/og-image.png", "citation": ["https://www.consultant.ru/document/cons_doc_LAW_140175/", "https://base.garant.ru/71825654/", "https://www.consultant.ru/document/cons_doc_LAW_34661/", "https://www.consultant.ru/document/cons_doc_LAW_462509/"]}
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Перевод ориентировочной цены в фиксированную по ГОЗ: порядок в 2026 году",
+  "description": "Как перевести ориентировочную цену в фиксированную по ГОЗ: виды цен, сроки (не позднее 2 мес. до поставки), пакет РКМ, 20 рабочих дней, ПП № 1465 и 275-ФЗ.",
+  "datePublished": "2026-06-07T09:08:00+03:00",
+  "dateModified": "2026-08-04",
+  "inLanguage": "ru-RU",
+  "author": {
+    "@type": "Person",
+    "name": "Ярослав Михайлов",
+    "jobTitle": "Главный эксперт",
+    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
+    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "КазнаЭксперт",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kaznaexpert.ru/img/logogold.png"
+    },
+    "@id": "https://kaznaexpert.ru/#organization"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kaznaexpert.ru/baza-znaniy/perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz/"
+  },
+  "image": "https://kaznaexpert.ru/img/og-image.png",
+  "citation": [
+    "https://www.consultant.ru/document/cons_doc_LAW_140175/",
+    "https://base.garant.ru/71825654/",
+    "https://www.consultant.ru/document/cons_doc_LAW_34661/",
+    "https://www.consultant.ru/document/cons_doc_LAW_462509/"
+  ]
+}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Перевод цены ГОЗ"}]}
@@ -157,9 +192,9 @@
     <div class="hero">
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
-      <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на июль 2026</span></div>
+      <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на август 2026</span></div>
     <h1>Перевод ориентировочной цены в фиксированную по ГОЗ: порядок в 2026 году</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 14 июля 2026 · порядок перевода цены по ПП № 1465 и 275-ФЗ действует в редакции на июль 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 4 августа 2026 · сверено с действующими редакциями: постановление № 1465 от 14.02.2026 и закон № 275-ФЗ от 04.07.2026</span></div>
     </div>
 
     <div class="share">
@@ -226,6 +261,8 @@
       </table>
       <p>С 2024 года продукцию ГОЗ включают в федеральный каталог продукции — без этого довести цену до фиксированной и пройти госрегистрацию сложнее. Это нужно учитывать в графике перевода.</p>
     </div>
+
+    <p>Сверка на 4 августа 2026 года: порядок перевода ориентировочной цены в фиксированную определяется постановлением Правительства РФ № 1465 в редакции от 14.02.2026 и статьёй 11 закона № 275-ФЗ в редакции от 04.07.2026. Ни сроки перевода, ни состав обосновывающих документов последними поправками не затронуты: Федеральный закон от 04.07.2026 № 232-ФЗ изменил только правила банковского сопровождения — добавил главу 3.3 о переводе сопровождаемой сделки в иной уполномоченный банк.</p>
 
     <h2 id="sroki">Сроки перевода</h2>
     <div class="answer reveal">

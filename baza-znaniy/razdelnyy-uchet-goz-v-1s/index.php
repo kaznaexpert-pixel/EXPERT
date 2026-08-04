@@ -26,7 +26,42 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"uchet"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Раздельный учёт по ГОЗ в 1С: настройка и ведение в 2026 году", "description": "Как настроить и вести раздельный учёт по гособоронзаказу в 1С:Бухгалтерии 8 КОРП: функциональность контрактов госзаказа, аналитика по ИГК, отдельные счета, отчёт исполнения контракта, ответственность по ч. 11 ст. 7.30.3 КоАП.", "inLanguage": "ru-RU", "datePublished": "2026-06-15", "dateModified": "2026-08-04", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/razdelnyy-uchet-goz-v-1s/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_140175/", "https://www.consultant.ru/document/cons_doc_LAW_17542/", "https://www.consultant.ru/document/cons_doc_LAW_34661/b945e9baa2f86ef7eafc3db4cd85e34064cb6801/"]}
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Раздельный учёт по ГОЗ в 1С: настройка и ведение в 2026 году",
+  "description": "Как настроить и вести раздельный учёт по гособоронзаказу в 1С:Бухгалтерии 8 КОРП: функциональность контрактов госзаказа, аналитика по ИГК, отдельные счета, отчёт исполнения контракта, ответственность по ч. 11 ст. 7.30.3 КоАП.",
+  "inLanguage": "ru-RU",
+  "datePublished": "2026-06-15",
+  "dateModified": "2026-08-04",
+  "author": {
+    "@type": "Person",
+    "name": "Ярослав Михайлов",
+    "jobTitle": "Главный эксперт по казначейскому сопровождению",
+    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
+    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "КазнаЭксперт",
+    "url": "https://kaznaexpert.ru",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kaznaexpert.ru/img/logogold.png"
+    },
+    "@id": "https://kaznaexpert.ru/#organization"
+  },
+  "image": "https://kaznaexpert.ru/img/og-image.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kaznaexpert.ru/baza-znaniy/razdelnyy-uchet-goz-v-1s/"
+  },
+  "citation": [
+    "https://www.consultant.ru/document/cons_doc_LAW_140175/",
+    "https://www.consultant.ru/document/cons_doc_LAW_17542/",
+    "https://www.consultant.ru/document/cons_doc_LAW_34661/b945e9baa2f86ef7eafc3db4cd85e34064cb6801/"
+  ]
+}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Раздельный учёт ГОЗ в 1С", "item": "https://kaznaexpert.ru/baza-znaniy/razdelnyy-uchet-goz-v-1s/"}]}
@@ -193,7 +228,7 @@
     <div class="hero">
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
-      <div class="eyebrow">База знаний · Раздельный учёт <span class="fresh">Актуально на 2026</span></div>
+      <div class="eyebrow">База знаний · Раздельный учёт <span class="fresh">Актуально на август 2026</span></div>
     <h1>Раздельный учёт по ГОЗ в 1С: настройка и ведение в 2026 году</h1>
     <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>18 мин чтения</span><span class="dot">·</span><span>Обновлено 4 августа 2026</span></div>
     </div>
@@ -243,6 +278,8 @@
       <tr><td>КоАП РФ, ст. 7.30.3 (ч. 11)</td><td>Административная ответственность за неведение или нарушение правил раздельного учёта по ГОЗ (с 01.03.2025)</td></tr>
     </table>
     <p>Важно: Правила № 47 применяются к учёту результатов по госзаказу за счёт средств федерального бюджета. Конкретную методику — как именно вы группируете затраты, какие субсчета и аналитику используете, по какому методу распределяете косвенные расходы — организация закрепляет в <a href="/baza-znaniy/uchetnaya-politika-razdelnyy-uchet-goz/">учётной политике по раздельному учёту ГОЗ</a>. Настройка 1С должна повторять эту методику один в один, иначе данные программы и положения учётной политики разойдутся, и при проверке это будет расценено как нарушение.</p>
+
+    <p>Сверка на 4 августа 2026 года: закон № 275-ФЗ действует в редакции от 04.07.2026. Последние поправки (Федеральный закон от 04.07.2026 № 232-ФЗ) затронули только банковское сопровождение — в закон добавлена глава 3.3 о переводе сопровождаемой сделки в иной уполномоченный банк. Требования статьи 8 к раздельному учёту результатов финансово-хозяйственной деятельности по каждому контракту не изменились, поэтому перенастраивать учётную политику и справочники в 1С из-за этих поправок не нужно.</p>
 
     <h2 id="versii">Какая версия 1С нужна: ПРОФ, КОРП и отраслевые решения</h2>
     <p>Первый практический вопрос — на чём вести учёт. От версии конфигурации зависит, есть ли в программе готовый механизм обособления по контрактам или его придётся достраивать.</p>
@@ -422,12 +459,12 @@
     <div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
-        <li id="ref-1">Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе» (ред. от 15.12.2025), ст. 8 — обязанность ведения раздельного учёта — <a href="https://www.consultant.ru/document/cons_doc_LAW_140175/" target="_blank" rel="noopener">consultant.ru</a></li>
+        <li id="ref-1">Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе» (ред. от 04.07.2026), ст. 8 — обязанность ведения раздельного учёта — <a href="https://www.consultant.ru/document/cons_doc_LAW_140175/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-2">Постановление Правительства РФ от 19.01.1998 № 47 (ред. от 15.07.2022) «О Правилах ведения организациями, выполняющими государственный заказ за счёт средств федерального бюджета, раздельного учёта результатов финансово-хозяйственной деятельности» — <a href="https://www.consultant.ru/document/cons_doc_LAW_17542/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-3">Постановление Правительства РФ от 04.05.2018 № 543 — поправки в Правила раздельного учёта; Приказ Минпромторга России от 08.02.2019 № 334 — состав затрат, включаемых в цену продукции по ГОЗ — <a href="https://www.consultant.ru/document/cons_doc_LAW_17542/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-4">Кодекс РФ об административных правонарушениях, ст. 7.30.3 (ч. 11; введена Федеральным законом от 28.12.2024 № 500-ФЗ, действует с 01.03.2025) — ответственность за нарушение раздельного учёта по ГОЗ — <a href="https://www.consultant.ru/document/cons_doc_LAW_34661/b945e9baa2f86ef7eafc3db4cd85e34064cb6801/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>
-      <p class="refs__note">Материал актуален на 16 июня 2026 года. Конкретный порядок настройки зависит от версии и редакции конфигурации 1С; методику раздельного учёта закрепляйте в учётной политике и приводите настройку программы в соответствие с ней. Перед внедрением сверяйтесь с действующими редакциями Закона № 275-ФЗ и Правил по постановлению № 47.</p>
+      <p class="refs__note">Материал актуален на 4 августа 2026 года. Конкретный порядок настройки зависит от версии и редакции конфигурации 1С; методику раздельного учёта закрепляйте в учётной политике и приводите настройку программы в соответствие с ней. Перед внедрением сверяйтесь с действующими редакциями Закона № 275-ФЗ и Правил по постановлению № 47.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

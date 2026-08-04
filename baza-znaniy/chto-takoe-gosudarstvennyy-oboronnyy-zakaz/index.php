@@ -26,7 +26,43 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Что такое гособоронзаказ (ГОЗ): простыми словами в 2026 году", "description": "Гособоронзаказ (ГОЗ) — задания государства на поставки для обороны по Закону № 275-ФЗ: понятие, участники, кооперация, цены, сопровождение и ответственность.", "inLanguage": "ru-RU", "datePublished": "2026-06-16", "dateModified": "2026-07-14", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/chto-takoe-gosudarstvennyy-oboronnyy-zakaz/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_140175/", "https://www.consultant.ru/document/cons_doc_LAW_144624/", "https://www.consultant.ru/document/cons_doc_LAW_284546/", "https://www.consultant.ru/document/cons_doc_LAW_19702/"]}
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Что такое гособоронзаказ (ГОЗ): простыми словами в 2026 году",
+  "description": "Гособоронзаказ (ГОЗ) — задания государства на поставки для обороны по Закону № 275-ФЗ: понятие, участники, кооперация, цены, сопровождение и ответственность.",
+  "inLanguage": "ru-RU",
+  "datePublished": "2026-06-16",
+  "dateModified": "2026-08-04",
+  "author": {
+    "@type": "Person",
+    "name": "Ярослав Михайлов",
+    "jobTitle": "Главный эксперт по казначейскому сопровождению",
+    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
+    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "КазнаЭксперт",
+    "url": "https://kaznaexpert.ru",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kaznaexpert.ru/img/logogold.png"
+    },
+    "@id": "https://kaznaexpert.ru/#organization"
+  },
+  "image": "https://kaznaexpert.ru/img/og-image.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kaznaexpert.ru/baza-znaniy/chto-takoe-gosudarstvennyy-oboronnyy-zakaz/"
+  },
+  "citation": [
+    "https://www.consultant.ru/document/cons_doc_LAW_140175/",
+    "https://www.consultant.ru/document/cons_doc_LAW_144624/",
+    "https://www.consultant.ru/document/cons_doc_LAW_284546/",
+    "https://www.consultant.ru/document/cons_doc_LAW_19702/"
+  ]
+}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Что такое гособоронзаказ", "item": "https://kaznaexpert.ru/baza-znaniy/chto-takoe-gosudarstvennyy-oboronnyy-zakaz/"}]}
@@ -173,9 +209,9 @@
     <div class="hero">
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
-      <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на июль 2026</span></div>
+      <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на август 2026</span></div>
     <h1>Что такое гособоронзаказ (ГОЗ): простыми словами в 2026 году</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>17 мин чтения</span><span class="dot">·</span><span>Обновлено 14 июля 2026 · нормы 275-ФЗ (с учётом изменений № 555-ФЗ) действуют в редакции на июль 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>17 мин чтения</span><span class="dot">·</span><span>Обновлено 4 августа 2026 · закон № 275-ФЗ сверен в действующей редакции от 04.07.2026 (Федеральный закон № 232-ФЗ)</span></div>
     </div>
 
     <div class="share">
@@ -223,6 +259,8 @@
       <tr><td>Постановления Правительства РФ о банковском сопровождении ГОЗ</td><td>Режим уполномоченных банков, отдельных счетов и контроля операций</td></tr>
     </table>
     <p>Связка работает так: государство решает, что и в каком объёме закупить (государственная программа вооружения и план), размещает заказ по правилам 44-ФЗ с поправками 275-ФЗ, фиксирует цену по правилам ПП № 1465, а затем контролирует расход денег через сопровождение по 275-ФЗ или Бюджетному кодексу. Поэтому исполнителю недостаточно знать только закон о закупках — нужно понимать весь контур.</p>
+
+    <p>Что изменилось в базовом законе в 2026 году. Закон № 275-ФЗ действует в редакции от 04.07.2026: Федеральный закон от 04.07.2026 № 232-ФЗ дополнил его главой 3.3 «Особенности банковского сопровождения при переводе сопровождаемой сделки в иной уполномоченный банк» (ст. 8.9–8.13) и увеличил с 2 до 5 рабочих дней срок, за который уполномоченный банк представляет в Федеральное казначейство информацию о расчётах по сопровождаемой сделке. Основная часть поправок применяется с 4 августа 2026 года. Понятия, участники и обязанности по статьям 3 и 8 при этом не менялись.</p>
 
     <h2 id="uchastniki">Участники гособоронзаказа: кто есть кто</h2>
     <p>Статья 3 Закона № 275-ФЗ вводит несколько ключевых ролей. От того, кем вы являетесь в конкретном контракте, зависят ваши обязанности, режим счёта и ответственность.</p>
@@ -345,12 +383,12 @@
     <div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
-        <li id="ref-1">Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе» (ред. от 15.12.2025), ст. 3 — основные понятия — <a href="https://www.consultant.ru/document/cons_doc_LAW_140175/" target="_blank" rel="noopener">consultant.ru</a></li>
+        <li id="ref-1">Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе» (ред. от 04.07.2026), ст. 3 — основные понятия — <a href="https://www.consultant.ru/document/cons_doc_LAW_140175/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-2">Федеральный закон от 05.04.2013 № 44-ФЗ «О контрактной системе...» — порядок размещения заказа — <a href="https://www.consultant.ru/document/cons_doc_LAW_144624/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-3">Постановление Правительства РФ от 02.12.2017 № 1465 о государственном регулировании цен на продукцию по ГОЗ — <a href="https://www.consultant.ru/document/cons_doc_LAW_284546/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-4">Бюджетный кодекс РФ, ст. 242.26 — казначейское сопровождение целевых средств — <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>
-      <p class="refs__note">Материал актуален на 16 июня 2026 года и носит справочный характер, не являясь юридической консультацией. Перед принятием решений сверяйтесь с действующими редакциями Закона № 275-ФЗ и подзаконных актов; по конкретному контракту правила могут уточняться заказчиком.</p>
+      <p class="refs__note">Материал актуален на 4 августа 2026 года и носит справочный характер, не являясь юридической консультацией. Перед принятием решений сверяйтесь с действующими редакциями Закона № 275-ФЗ и подзаконных актов; по конкретному контракту правила могут уточняться заказчиком.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

@@ -26,7 +26,42 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Существенные условия контракта по ГОЗ в 2026: отдельный счёт, ИГК, сопровождение", "description": "Существенные условия государственного контракта по ГОЗ: предмет, цена и её вид, ИГК, отдельный счёт и режим использования, банковское или казначейское сопровождение, кооперация. Чек-лист проверки контракта.", "inLanguage": "ru-RU", "datePublished": "2026-06-09", "dateModified": "2026-07-02", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/suschestvennye-usloviya-kontrakta-goz/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_140175/", "https://www.garant.ru/news/1568443/", "https://www.consultant.ru/document/cons_doc_LAW_144624/"]}
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Существенные условия контракта по ГОЗ в 2026: отдельный счёт, ИГК, сопровождение",
+  "description": "Существенные условия государственного контракта по ГОЗ: предмет, цена и её вид, ИГК, отдельный счёт и режим использования, банковское или казначейское сопровождение, кооперация. Чек-лист проверки контракта.",
+  "inLanguage": "ru-RU",
+  "datePublished": "2026-06-09",
+  "dateModified": "2026-08-04",
+  "author": {
+    "@type": "Person",
+    "name": "Ярослав Михайлов",
+    "jobTitle": "Главный эксперт по казначейскому сопровождению",
+    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
+    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "КазнаЭксперт",
+    "url": "https://kaznaexpert.ru",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kaznaexpert.ru/img/logogold.png"
+    },
+    "@id": "https://kaznaexpert.ru/#organization"
+  },
+  "image": "https://kaznaexpert.ru/img/og-image.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kaznaexpert.ru/baza-znaniy/suschestvennye-usloviya-kontrakta-goz/"
+  },
+  "citation": [
+    "https://www.consultant.ru/document/cons_doc_LAW_140175/",
+    "https://www.garant.ru/news/1568443/",
+    "https://www.consultant.ru/document/cons_doc_LAW_144624/"
+  ]
+}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Существенные условия контракта по ГОЗ"}]}
@@ -181,9 +216,9 @@
     <div class="hero">
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
-      <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на 2026</span></div>
+      <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на август 2026</span></div>
     <h1>Существенные условия контракта по ГОЗ в 2026: отдельный счёт, ИГК, сопровождение</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 2 июля 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 4 августа 2026 · закон № 275-ФЗ сверен в редакции от 04.07.2026: глава 3.3 о смене уполномоченного банка</span></div>
     </div>
 
     <div class="share">
@@ -231,6 +266,8 @@
       <tr><td>275-ФЗ «О ГОЗ»</td><td>Отдельные счета, режим использования, ИГК, сопровождение, кооперация</td></tr>
       <tr><td>Типовые условия контрактов ГОЗ (Правительство РФ)</td><td>Унифицированные формулировки специальных условий</td></tr>
     </table>
+
+    <p>Что учесть в условиях о банке после 4 августа 2026 года. Федеральный закон от 04.07.2026 № 232-ФЗ ввёл в закон № 275-ФЗ главу 3.3 (ст. 8.9–8.13): при исключении банка из категории уполномоченных по решению Правительства РФ сопровождаемая сделка переводится в другой уполномоченный банк, а сопровождение переходит без заявления исполнителя о закрытии отдельного счёта. Условие контракта о реквизитах отдельного счёта из-за этого перестаёт быть «вечным» — в договорах с соисполнителями полезно заранее предусмотреть порядок уведомления о смене реквизитов, чтобы не переподписывать всю цепочку задним числом.</p>
 
     <h2 id="spisok">Перечень существенных условий: что проверять в контракте</h2>
     <div class="answer reveal">
@@ -385,7 +422,7 @@
     <div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
-        <li id="ref-1">Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе» (ред. от 15.12.2025) — <a href="https://www.consultant.ru/document/cons_doc_LAW_140175/" target="_blank" rel="noopener">consultant.ru</a></li>
+        <li id="ref-1">Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе» (ред. от 04.07.2026) — <a href="https://www.consultant.ru/document/cons_doc_LAW_140175/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-2">Типовые условия контрактов, заключаемых в целях выполнения государственного оборонного заказа (утв. постановлением Правительства РФ, 2022) — <a href="https://www.garant.ru/news/1568443/" target="_blank" rel="noopener">garant.ru</a></li>
         <li id="ref-3">Федеральный закон от 05.04.2013 № 44-ФЗ, статья 34 «Контракт» — <a href="https://www.consultant.ru/document/cons_doc_LAW_144624/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>

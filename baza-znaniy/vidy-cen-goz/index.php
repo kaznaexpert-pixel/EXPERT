@@ -26,7 +26,42 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Виды цен на продукцию ГОЗ в 2026: ориентировочная, фиксированная и возмещающая издержки", "description": "Три вида цен на продукцию ГОЗ по ст. 11 Закона № 275-ФЗ: ориентировочная (уточняемая), фиксированная и возмещающая издержки. Чем отличаются, когда применяются, методы определения цены по Постановлению № 1465 и перевод в фиксированную.", "inLanguage": "ru-RU", "datePublished": "2026-06-08", "dateModified": "2026-07-13", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/vidy-cen-goz/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_140175/95e8c3b05edb1a60675216d30a5099c3d96f75ec/", "https://base.garant.ru/71825654/", "http://government.ru/docs/all/114310/"]}
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Виды цен на продукцию ГОЗ в 2026: ориентировочная, фиксированная и возмещающая издержки",
+  "description": "Три вида цен на продукцию ГОЗ по ст. 11 Закона № 275-ФЗ: ориентировочная (уточняемая), фиксированная и возмещающая издержки. Чем отличаются, когда применяются, методы определения цены по Постановлению № 1465 и перевод в фиксированную.",
+  "inLanguage": "ru-RU",
+  "datePublished": "2026-06-08",
+  "dateModified": "2026-08-04",
+  "author": {
+    "@type": "Person",
+    "name": "Ярослав Михайлов",
+    "jobTitle": "Главный эксперт по казначейскому сопровождению",
+    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
+    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "КазнаЭксперт",
+    "url": "https://kaznaexpert.ru",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kaznaexpert.ru/img/logogold.png"
+    },
+    "@id": "https://kaznaexpert.ru/#organization"
+  },
+  "image": "https://kaznaexpert.ru/img/og-image.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kaznaexpert.ru/baza-znaniy/vidy-cen-goz/"
+  },
+  "citation": [
+    "https://www.consultant.ru/document/cons_doc_LAW_140175/95e8c3b05edb1a60675216d30a5099c3d96f75ec/",
+    "https://base.garant.ru/71825654/",
+    "http://government.ru/docs/all/114310/"
+  ]
+}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Виды цен на продукцию ГОЗ"}]}
@@ -174,9 +209,9 @@
     <div class="hero">
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
-      <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на 2026</span></div>
+      <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на август 2026</span></div>
     <h1>Виды цен на продукцию ГОЗ в 2026: ориентировочная, фиксированная и возмещающая издержки</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 13 июля 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 4 августа 2026 · сверены действующие редакции: постановление № 1465 от 14.02.2026 и закон № 275-ФЗ от 04.07.2026</span></div>
     </div>
 
     <div class="share">
@@ -285,6 +320,8 @@
     </table>
     <div class="note"><b>Правило приоритета.</b> Затратный метод — «по остаточному принципу»: к нему переходят, если метод анализа рыночных индикаторов и метод сравнимой цены неприменимы и базовая цена ранее не формировалась.</div>
 
+    <p>Сверка на 4 августа 2026 года: постановление Правительства РФ № 1465 действует в редакции от 14.02.2026, статьи 10 и 11 закона № 275-ФЗ — в редакции от 04.07.2026. Перечень видов цен и иерархия методов их определения не менялись: последние поправки к закону о гособоронзаказе (Федеральный закон от 04.07.2026 № 232-ФЗ) касаются банковского сопровождения, а не ценообразования.</p>
+
     <h2 id="perevod">Перевод ориентировочной цены в фиксированную</h2>
     <div class="answer reveal">
       <p>Поскольку ориентировочная цена и цена, возмещающая издержки, по своей природе временные, закон требует перевести их в фиксированную. Заказчик по согласованию с единственным поставщиком устанавливает фиксированную цену не позднее чем за 2 месяца до окончания поставки продукции по завершении периода применения соответствующего вида цены. При переводе исполнитель представляет расчёт цены, а при методе индексации по статьям базовых затрат — исходя из базовых значений затрат<a class="fn" href="#ref-2" aria-label="Источник 2">[2]</a>.</p>
@@ -372,8 +409,8 @@
     <div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
-        <li id="ref-1">Федеральный закон от 29.12.2012 № 275-ФЗ (ред. от 15.12.2025) «О государственном оборонном заказе», ст. 10–11 — <a href="https://www.consultant.ru/document/cons_doc_LAW_140175/95e8c3b05edb1a60675216d30a5099c3d96f75ec/" target="_blank" rel="noopener">consultant.ru</a></li>
-        <li id="ref-2">Постановление Правительства РФ от 02.12.2017 № 1465 (ред. от 20.09.2025) «О государственном регулировании цен на продукцию, поставляемую по государственному оборонному заказу…» — <a href="https://base.garant.ru/71825654/" target="_blank" rel="noopener">base.garant.ru</a></li>
+        <li id="ref-1">Федеральный закон от 29.12.2012 № 275-ФЗ (ред. от 04.07.2026) «О государственном оборонном заказе», ст. 10–11 — <a href="https://www.consultant.ru/document/cons_doc_LAW_140175/95e8c3b05edb1a60675216d30a5099c3d96f75ec/" target="_blank" rel="noopener">consultant.ru</a></li>
+        <li id="ref-2">Постановление Правительства РФ от 02.12.2017 № 1465 (ред. от 14.02.2026) «О государственном регулировании цен на продукцию, поставляемую по государственному оборонному заказу…» — <a href="https://base.garant.ru/71825654/" target="_blank" rel="noopener">base.garant.ru</a></li>
         <li id="ref-3">Постановление Правительства РФ от 02.12.2017 № 1465 (официальная публикация) — <a href="http://government.ru/docs/all/114310/" target="_blank" rel="noopener">government.ru</a></li>
       </ol>
       <p class="refs__note">Материал носит справочный характер и не заменяет индивидуальную консультацию; актуальные виды цен, методы и порядок устанавливаются НПА и могут уточняться. Проверено экспертом КазнаЭксперт. Дата актуализации — 8 июня 2026.</p>

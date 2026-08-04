@@ -26,7 +26,35 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"uchet"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Сроки хранения документов по госконтракту и раздельному учёту", "description": "Сколько хранить документы по госконтракту: 5 лет по бухучёту и налогам, 6 лет по 44-ФЗ, документы санкционирования и раздельного учёта ГОЗ. Таблица сроков.", "inLanguage": "ru-RU", "datePublished": "2026-07-31", "dateModified": "2026-07-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/sroki-hraneniya-dokumentov-po-goskontraktu/"}}
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Сроки хранения документов по госконтракту и раздельному учёту",
+  "description": "Сколько хранить документы по госконтракту: 5 лет по бухучёту и налогам, 6 лет по 44-ФЗ, документы санкционирования и раздельного учёта ГОЗ. Таблица сроков.",
+  "inLanguage": "ru-RU",
+  "datePublished": "2026-07-31",
+  "dateModified": "2026-08-04",
+  "author": {
+    "@type": "Person",
+    "name": "Ярослав Михайлов",
+    "jobTitle": "Главный эксперт по казначейскому сопровождению",
+    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "КазнаЭксперт",
+    "url": "https://kaznaexpert.ru",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kaznaexpert.ru/img/logogold.png"
+    }
+  },
+  "image": "https://kaznaexpert.ru/img/og-image.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kaznaexpert.ru/baza-znaniy/sroki-hraneniya-dokumentov-po-goskontraktu/"
+  }
+}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Сроки хранения документов", "item": "https://kaznaexpert.ru/baza-znaniy/sroki-hraneniya-dokumentov-po-goskontraktu/"}]}
@@ -174,9 +202,9 @@
     <div class="hero">
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
-      <div class="eyebrow">База знаний · Учёт <span class="fresh">Актуально на 2026</span></div>
+      <div class="eyebrow">База знаний · Учёт <span class="fresh">Актуально на август 2026</span></div>
     <h1>Сроки хранения документов по госконтракту и раздельному учёту</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 31 июля 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 4 августа 2026 · статья 8 закона № 275-ФЗ сверена в редакции от 04.07.2026</span></div>
     </div>
 
     <div class="share">
@@ -383,7 +411,7 @@
         <li id="ref-3">Налоговый кодекс РФ, пп. 8 п. 1 ст. 23 — обеспечение сохранности данных бухгалтерского и налогового учёта и документов для исчисления налогов в течение не менее пяти лет; ст. 120 и ст. 126 — ответственность за грубое нарушение правил учёта и непредставление документов.</li>
         <li id="ref-4">Приказ Росархива от 20.12.2019 № 236 — Перечень типовых управленческих архивных документов, образующихся в процессе деятельности организаций, с указанием сроков хранения; Федеральный закон от 22.10.2004 № 125-ФЗ «Об архивном деле в Российской Федерации».</li>
         <li id="ref-5">КоАП РФ, ст. 15.11 — грубое нарушение требований к бухгалтерскому учёту (5 000–10 000 ₽ на должностных лиц; повторно — 10 000–20 000 ₽ либо дисквалификация на 1–2 года); ч. 11 ст. 7.30.3 — нарушение требований о раздельном учёте по ГОЗ; ст. 15.37.1 — нарушение требований к раздельному учёту по контрактам с казначейским сопровождением (с 01.01.2026).</li>
-        <li id="ref-6">Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе», ст. 8 (в ред. от 15.12.2025) — раздельный учёт по каждому контракту (п. 18 ч. 1, п. 16 ч. 2) и представление промежуточной бухгалтерской (финансовой) отчётности (п. 18.1 ч. 1, п. 16.1 ч. 2, введены Федеральным законом от 15.12.2025 № 471-ФЗ; применяются с отчётности за первое полугодие 2026 года).</li>
+        <li id="ref-6">Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе», ст. 8 (в ред. от 04.07.2026) — раздельный учёт по каждому контракту (п. 18 ч. 1, п. 16 ч. 2) и представление промежуточной бухгалтерской (финансовой) отчётности (п. 18.1 ч. 1, п. 16.1 ч. 2, введены Федеральным законом от 15.12.2025 № 471-ФЗ; применяются с отчётности за первое полугодие 2026 года).</li>
       </ol>
       <p class="refs__note">Материал носит справочный характер и не заменяет разработку номенклатуры дел под конкретную организацию. Сроки хранения зависят от вида документа и применимых норм — при подготовке к проверке комплектность лучше оценивать с экспертом.</p>
     </div>
