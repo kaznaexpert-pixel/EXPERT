@@ -26,7 +26,42 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ecp"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Как продлить и отозвать ЭЦП казначейства в 2026: перевыпуск, аннулирование, замена носителя", "description": "Жизненный цикл сертификата УЦ Федерального казначейства: срок действия, как продлить (перевыпустить) ЭЦП и за сколько обращаться, как отозвать (аннулировать) сертификат, замена носителя и смена подписанта.", "inLanguage": "ru-RU", "datePublished": "2026-06-09", "dateModified": "2026-06-09", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kak-prodlit-i-otozvat-ecp-kaznachejstva/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_112701/", "https://crl.roskazna.ru/crl/", "https://roskazna.gov.ru/"]}
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Как продлить и отозвать ЭЦП казначейства в 2026: перевыпуск, аннулирование, замена носителя",
+  "description": "Жизненный цикл сертификата УЦ Федерального казначейства: срок действия, как продлить (перевыпустить) ЭЦП и за сколько обращаться, как отозвать (аннулировать) сертификат, замена носителя и смена подписанта.",
+  "inLanguage": "ru-RU",
+  "datePublished": "2026-06-09",
+  "dateModified": "2026-08-04",
+  "author": {
+    "@type": "Person",
+    "name": "Ярослав Михайлов",
+    "jobTitle": "Главный эксперт по казначейскому сопровождению",
+    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
+    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "КазнаЭксперт",
+    "url": "https://kaznaexpert.ru",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kaznaexpert.ru/img/logogold.png"
+    },
+    "@id": "https://kaznaexpert.ru/#organization"
+  },
+  "image": "https://kaznaexpert.ru/img/og-image.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kaznaexpert.ru/baza-znaniy/kak-prodlit-i-otozvat-ecp-kaznachejstva/"
+  },
+  "citation": [
+    "https://www.consultant.ru/document/cons_doc_LAW_112701/",
+    "https://crl.roskazna.ru/crl/",
+    "https://roskazna.gov.ru/"
+  ]
+}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Как продлить и отозвать ЭЦП казначейства"}]}
@@ -178,9 +213,9 @@
     <div class="hero">
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
-      <div class="eyebrow">База знаний · ГИИС и ЭЦП <span class="fresh">Актуально на 2026</span></div>
+      <div class="eyebrow">База знаний · ГИИС и ЭЦП <span class="fresh">Актуально на август 2026</span></div>
     <h1>Как продлить и отозвать ЭЦП казначейства в 2026: перевыпуск, аннулирование, замена носителя</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 9 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 4 августа 2026 · закон № 63-ФЗ сверен в действующей редакции от 31.07.2025 — правила выпуска и аннулирования сертификатов не изменились</span></div>
     </div>
 
     <div class="share">
@@ -220,6 +255,7 @@
     <div class="answer reveal">
       <p>Квалифицированный сертификат выдаётся на ограниченный срок — как правило, около 15 месяцев; точная дата окончания всегда указана в самом сертификате, и ориентироваться нужно именно на неё. Ограничение срока связано с требованиями к средствам криптозащиты: ключ не может действовать бессрочно. Заранее отслеживать дату — обязанность владельца, потому что по истечении сертификат перестаёт работать без предупреждения.</p>
       <p>Перевыпуск стоит запускать не в последний момент, а заранее — ориентир по практике УЦ ФК: обращаться не позднее чем за 20 рабочих дней до окончания срока. Этого запаса хватает на проверку документов, выпуск нового сертификата и установку, даже если что-то пойдёт не так с рабочим местом или носителем.</p>
+      <p>Сверка на 4 августа 2026 года: Федеральный закон от 06.04.2011 № 63-ФЗ «Об электронной подписи» действует в редакции от 31.07.2025, порядок выпуска и досрочного прекращения действия квалифицированных сертификатов не менялся. Напомним основание, по которому сертификаты для организаций бюджетной сферы выдаёт именно удостоверяющий центр Федерального казначейства: статья 17.2 закона № 63-ФЗ относит к его компетенции квалифицированные сертификаты для лиц, замещающих государственные должности, должностных лиц государственных органов и органов местного самоуправления, а также их подведомственных организаций. Коммерческий исполнитель контракта получает подпись в удостоверяющем центре ФНС России или у его доверенных лиц — это разные контуры, и перепутать их при перевыпуске нельзя.</p>
     </div>
     <table>
       <caption>Срок действия и контроль сертификата</caption>

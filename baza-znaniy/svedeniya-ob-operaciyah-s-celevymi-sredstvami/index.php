@@ -25,7 +25,43 @@
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Сведения об операциях с целевыми средствами: как заполнить в 2026 году", "description": "Что такое сведения об операциях с целевыми средствами (форма 0501213), из чего состоят, кто формирует и утверждает, код направления расходования, сроки и как заполнить — по Порядку санкционирования (приказ Минфина № 214н).", "inLanguage": "ru-RU", "datePublished": "2026-06-05", "dateModified": "2026-06-05", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/svedeniya-ob-operaciyah-s-celevymi-sredstvami/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_405138/", "https://www.consultant.ru/document/cons_doc_LAW_405138/de4649fe56038006ee16bce420115b7ba6a80da5/", "https://www.consultant.ru/document/cons_doc_LAW_401366/", "https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/"]}
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Сведения об операциях с целевыми средствами: как заполнить в 2026 году",
+  "description": "Что такое сведения об операциях с целевыми средствами (форма 0501213), из чего состоят, кто формирует и утверждает, код направления расходования, сроки и как заполнить — по Порядку санкционирования (приказ Минфина № 214н).",
+  "inLanguage": "ru-RU",
+  "datePublished": "2026-06-05",
+  "dateModified": "2026-08-04",
+  "author": {
+    "@type": "Person",
+    "name": "Ярослав Михайлов",
+    "jobTitle": "Главный эксперт по казначейскому сопровождению",
+    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
+    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "КазнаЭксперт",
+    "url": "https://kaznaexpert.ru",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kaznaexpert.ru/img/logogold.png"
+    },
+    "@id": "https://kaznaexpert.ru/#organization"
+  },
+  "image": "https://kaznaexpert.ru/img/og-image.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kaznaexpert.ru/baza-znaniy/svedeniya-ob-operaciyah-s-celevymi-sredstvami/"
+  },
+  "citation": [
+    "https://www.consultant.ru/document/cons_doc_LAW_405138/",
+    "https://www.consultant.ru/document/cons_doc_LAW_405138/de4649fe56038006ee16bce420115b7ba6a80da5/",
+    "https://www.consultant.ru/document/cons_doc_LAW_401366/",
+    "https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/"
+  ]
+}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Сведения об операциях с целевыми средствами: как заполнить"}]}
@@ -175,9 +211,9 @@
     <div class="hero">
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
-      <div class="eyebrow">База знаний · Операции и отчётность <span class="fresh">Актуально на 2026</span></div>
+      <div class="eyebrow">База знаний · Операции и отчётность <span class="fresh">Актуально на август 2026</span></div>
     <h1>Сведения об операциях с целевыми средствами: как заполнить в 2026 году</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 5 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 4 августа 2026 · порядок 214н сверен в редакции от 27.06.2025; учтён проект нового порядка санкционирования с 1 сентября 2026 года</span></div>
     </div>
 
     <div class="share">
@@ -288,6 +324,8 @@
     <div class="answer reveal">
       <p>Сведения формируются и утверждаются в государственной интегрированной информационной системе «Электронный бюджет» с использованием электронной подписи. Там же они хранятся, корректируются и связываются с операциями по лицевому счёту. Чтобы работать в системе, нужен действующий сертификат — как его получить, описано в материале <a href="/baza-znaniy/sertifikat-ecp-kaznachejstvo/">«Сертификат и ЭЦП казначейства»</a>.</p>
       <p>Сведения не статичны: при изменении плана расходов, появлении новых направлений или корректировке сумм их нужно своевременно обновлять и переутверждать. Неактуальные сведения — одна из частых причин возврата платежей, поэтому их поддержание в актуальном состоянии входит в текущую дисциплину работы по контракту.</p>
+      <p>Сверка на 4 августа 2026 года: порядок санкционирования, утверждённый приказом Минфина России от 17.12.2021 № 214н, действует в редакции от 27.06.2025, форма сведений по ОКУД 0501213 не менялась, а срок утверждения сведений государственным заказчиком, получателем бюджетных средств или заказчиком остался прежним — не позднее 10-го рабочего дня, следующего за днём поступления сведений (п. 8 Порядка № 214н).<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a></p>
+      <p>Что учесть на осень: Минфин подготовил новый порядок санкционирования операций со средствами участников казначейского сопровождения — он должен прийти на смену приказу № 214н с 1 сентября 2026 года. Пока документ не подписан и не опубликован, работать нужно по действующей редакции № 214н, но форму и состав сведений после публикации придётся сверить заново. Разбор проекта — в материале <a href="/baza-znaniy/normativnaya-baza/novyy-poryadok-sankcionirovaniya-2026/">«Новый порядок санкционирования с 2026 года»</a>.</p>
     </div>
 
     <h2 id="subsidii">Сведения по субсидиям и иным целевым средствам</h2>

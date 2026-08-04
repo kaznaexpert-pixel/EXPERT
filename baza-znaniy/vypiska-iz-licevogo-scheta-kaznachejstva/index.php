@@ -26,7 +26,43 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Выписка из лицевого счёта казначейства: как получить и как читать", "description": "Выписка из лицевого счёта 71: что показывает, как получить в «Электронном бюджете», как читать поля, входящий и исходящий остаток, приложения к выписке и сверка с учётом.", "inLanguage": "ru-RU", "datePublished": "2026-06-13", "dateModified": "2026-06-13", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/vypiska-iz-licevogo-scheta-kaznachejstva/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_208093/", "https://www.consultant.ru/document/cons_doc_LAW_19702/c4bad396d963c79cf5c4665d8fc50e017a94309f/", "https://www.consultant.ru/document/cons_doc_LAW_182473/", "https://roskazna.gov.ru/"]}
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Выписка из лицевого счёта казначейства: как получить и как читать",
+  "description": "Выписка из лицевого счёта 71: что показывает, как получить в «Электронном бюджете», как читать поля, входящий и исходящий остаток, приложения к выписке и сверка с учётом.",
+  "inLanguage": "ru-RU",
+  "datePublished": "2026-06-13",
+  "dateModified": "2026-08-04",
+  "author": {
+    "@type": "Person",
+    "name": "Ярослав Михайлов",
+    "jobTitle": "Главный эксперт по казначейскому сопровождению",
+    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
+    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "КазнаЭксперт",
+    "url": "https://kaznaexpert.ru",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kaznaexpert.ru/img/logogold.png"
+    },
+    "@id": "https://kaznaexpert.ru/#organization"
+  },
+  "image": "https://kaznaexpert.ru/img/og-image.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kaznaexpert.ru/baza-znaniy/vypiska-iz-licevogo-scheta-kaznachejstva/"
+  },
+  "citation": [
+    "https://www.consultant.ru/document/cons_doc_LAW_208093/",
+    "https://www.consultant.ru/document/cons_doc_LAW_19702/c4bad396d963c79cf5c4665d8fc50e017a94309f/",
+    "https://www.consultant.ru/document/cons_doc_LAW_182473/",
+    "https://roskazna.gov.ru/"
+  ]
+}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Выписка из лицевого счёта", "item": "https://kaznaexpert.ru/baza-znaniy/vypiska-iz-licevogo-scheta-kaznachejstva/"}]}
@@ -199,9 +235,9 @@
     <div class="hero">
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
-      <div class="eyebrow">База знаний · Операции и отчётность <span class="fresh">Актуально на 2026</span></div>
+      <div class="eyebrow">База знаний · Операции и отчётность <span class="fresh">Актуально на август 2026</span></div>
     <h1>Выписка из лицевого счёта казначейства: как получить и как читать</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 13 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 4 августа 2026 · приказ № 21н сверен в редакции от 26.11.2025, изменения которой применяются с 10 января 2026 года</span></div>
     </div>
 
     <div class="share">
@@ -256,6 +292,8 @@
       <tr><td>Постановление Правительства РФ от 30.06.2015 № 658</td><td>ГИИС «Электронный бюджет», где исполнитель получает электронную выписку</td></tr>
     </table>
     <p>Формы выписок и приложений к ним установлены приложениями к Порядку № 21н. Для разных типов лицевых счетов формы свои, но логика одинаковая: остаток на начало, операции, остаток на конец, плюс детализирующие справки.</p>
+
+    <p>Сверка на 4 августа 2026 года: порядок открытия и ведения лицевых счетов, утверждённый приказом Казначейства России от 17.10.2016 № 21н, действует в редакции от 26.11.2025 — её положения применяются с 10 января 2026 года. Изменения затронули перечень видов лицевых счетов: пункт 6 Порядка дополнен подпунктом о лицевом счёте для учёта операций автономных учреждений в разрезе видов средств — субсидий на иные цели, субсидий на капитальные вложения и грантов в форме субсидий. Формы выписок и состав приложений к ним при этом не менялись, но при сверке остатков по такому счёту разрезы в выписке будут детальнее, чем раньше.</p>
 
     <h2 id="vidy">Какие бывают выписки</h2>
     <p>Под «выпиской» в казначействе понимают несколько связанных документов. Исполнителю важно различать их, чтобы запрашивать нужный.</p>
@@ -424,7 +462,7 @@
         <li id="ref-3">Постановление Правительства РФ от 30.06.2015 № 658 «О государственной интегрированной информационной системе управления общественными финансами "Электронный бюджет"» — <a href="https://www.consultant.ru/document/cons_doc_LAW_182473/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-4">Лицевые счета для учёта операций неучастников бюджетного процесса (код 71) — Казначейство России — <a href="https://roskazna.gov.ru/" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
       </ol>
-      <p class="refs__note">Материал актуален на 13 июня 2026 года. Формы выписок, состав приложений и сроки предоставления уточняйте в действующей редакции Порядка № 21н и памятке вашего ТОФК.</p>
+      <p class="refs__note">Материал актуален на 4 августа 2026 года. Формы выписок, состав приложений и сроки предоставления уточняйте в действующей редакции Порядка № 21н и памятке вашего ТОФК.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

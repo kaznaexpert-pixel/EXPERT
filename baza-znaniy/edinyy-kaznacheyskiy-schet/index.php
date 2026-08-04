@@ -26,7 +26,44 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"schet"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Единый казначейский счёт (ЕКС): что это, реквизиты и как указать в платёжке", "description": "Единый казначейский счёт: банковский счёт ФК в Банке России на балансовом счёте 40102, связка с казначейскими счетами 03, поля 15 и 17 платёжного поручения, частые ошибки.", "inLanguage": "ru-RU", "datePublished": "2026-06-11", "dateModified": "2026-06-11", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/edinyy-kaznacheyskiy-schet/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/2e0d2b0f64b3ff765b8d3f4adc70ec3061c79c7f/", "https://www.cbr.ru/explan/eks/", "http://www.consultant.ru/document/cons_doc_LAW_352105/", "https://roskazna.gov.ru/dokumenty/sistemakaznacheyskikh-platezhey/", "https://roskazna.gov.ru/dokumenty/sistemakaznacheyskikh-platezhey/kaznacheyskie-scheta/"]}
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Единый казначейский счёт (ЕКС): что это, реквизиты и как указать в платёжке",
+  "description": "Единый казначейский счёт: банковский счёт ФК в Банке России на балансовом счёте 40102, связка с казначейскими счетами 03, поля 15 и 17 платёжного поручения, частые ошибки.",
+  "inLanguage": "ru-RU",
+  "datePublished": "2026-06-11",
+  "dateModified": "2026-08-04",
+  "author": {
+    "@type": "Person",
+    "name": "Ярослав Михайлов",
+    "jobTitle": "Главный эксперт по казначейскому сопровождению",
+    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
+    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "КазнаЭксперт",
+    "url": "https://kaznaexpert.ru",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kaznaexpert.ru/img/logogold.png"
+    },
+    "@id": "https://kaznaexpert.ru/#organization"
+  },
+  "image": "https://kaznaexpert.ru/img/og-image.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kaznaexpert.ru/baza-znaniy/edinyy-kaznacheyskiy-schet/"
+  },
+  "citation": [
+    "https://www.consultant.ru/document/cons_doc_LAW_19702/2e0d2b0f64b3ff765b8d3f4adc70ec3061c79c7f/",
+    "https://www.cbr.ru/explan/eks/",
+    "http://www.consultant.ru/document/cons_doc_LAW_352105/",
+    "https://roskazna.gov.ru/dokumenty/sistemakaznacheyskikh-platezhey/",
+    "https://roskazna.gov.ru/dokumenty/sistemakaznacheyskikh-platezhey/kaznacheyskie-scheta/"
+  ]
+}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Единый казначейский счёт (ЕКС)", "item": "https://kaznaexpert.ru/baza-znaniy/edinyy-kaznacheyskiy-schet/"}]}
@@ -184,9 +221,9 @@
     <div class="hero">
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
-      <div class="eyebrow">База знаний · Счета в казначействе <span class="fresh">Актуально на 2026</span></div>
+      <div class="eyebrow">База знаний · Счета в казначействе <span class="fresh">Актуально на август 2026</span></div>
     <h1>Единый казначейский счёт (ЕКС): что это, реквизиты и как указать в платёжке</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 11 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 4 августа 2026 · учтён приказ Казначейства России от 16.02.2026 № 2н, изменивший Правила системы казначейских платежей</span></div>
     </div>
 
     <div class="share">
@@ -243,6 +280,8 @@
     <p>ЕКС — ядро системы казначейских платежей (СКП), оператором которой является Федеральное казначейство. Логика системы похожа на банковскую: казначейство выступает «банком» для бюджетной системы, а его клиенты — участники СКП — держат в нём казначейские счета.<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a></p>
     <p>Участники системы определены статьёй 242.8 БК РФ и делятся на прямых и косвенных. Прямые участники — администраторы доходов, главные распорядители и получатели бюджетных средств, финансовые органы регионов и муниципалитетов, органы управления внебюджетными фондами. Косвенные — бюджетные и автономные учреждения и иные организации, в том числе юридические лица — участники казначейского сопровождения, которым открыты лицевые счета в казначействе.</p>
     <p>Денежные средства ЕКС формируются за счёт остатков на казначейских счетах участников (ст. 242.12 БК РФ). Распоряжения о переводе денег по банковским счетам, входящим в состав ЕКС, представляет само казначейство и его территориальные органы, а порядок приёма и исполнения этих распоряжений устанавливает Банк России. При этом к одному БИК территориального органа ФК может быть открыто несколько банковских счетов, входящих в состав ЕКС, — все в одном подразделении Банка России.<a class="fn" href="#ref-2" aria-label="Источник 2">[2]</a></p>
+
+    <p>Что нового в правилах системы казначейских платежей. Правила организации и функционирования СКП утверждены приказом Казначейства России от 13.05.2020 № 20н; приказ Казначейства России от 16.02.2026 № 2н внёс в них изменения, учитывающие расчёты цифровым рублём, — новая редакция пункта 1.2 Правил применяется с 17 мая 2026 года. На реквизиты ЕКС и порядок заполнения платёжных поручений это не влияет: единый казначейский счёт и счета участников СКП работают как прежде, но при появлении операций с цифровым рублём смотреть нужно уже в актуальную редакцию Правил.</p>
 
     <h2 id="raznica">ЕКС, казначейский счёт и лицевой счёт: в чём разница</h2>
     <p>Три понятия, которые путают чаще всего. Они образуют трёхуровневую конструкцию, и у каждого уровня своя роль.</p>

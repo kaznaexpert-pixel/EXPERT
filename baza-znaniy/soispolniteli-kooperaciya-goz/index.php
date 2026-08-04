@@ -26,7 +26,42 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Соисполнители и цепочка кооперации в ГОЗ при казначейском сопровождении", "description": "Цепочка кооперации в ГОЗ: кто такие соисполнители, что прописать в договоре, единый идентификатор (ИГК), отдельные счета и сопровождение по всей цепочке.", "inLanguage": "ru-RU", "datePublished": "2026-06-16", "dateModified": "2026-06-16", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/soispolniteli-kooperaciya-goz/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_140175/", "https://base.garant.ru/70291366/31de5683116b8d79b08fa2d768e33df6/", "https://www.consultant.ru/document/cons_doc_LAW_34661/b945e9baa2f86ef7eafc3db4cd85e34064cb6801/"]}
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Соисполнители и цепочка кооперации в ГОЗ при казначейском сопровождении",
+  "description": "Цепочка кооперации в ГОЗ: кто такие соисполнители, что прописать в договоре, единый идентификатор (ИГК), отдельные счета и сопровождение по всей цепочке.",
+  "inLanguage": "ru-RU",
+  "datePublished": "2026-06-16",
+  "dateModified": "2026-08-04",
+  "author": {
+    "@type": "Person",
+    "name": "Ярослав Михайлов",
+    "jobTitle": "Главный эксперт по казначейскому сопровождению",
+    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
+    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "КазнаЭксперт",
+    "url": "https://kaznaexpert.ru",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kaznaexpert.ru/img/logogold.png"
+    },
+    "@id": "https://kaznaexpert.ru/#organization"
+  },
+  "image": "https://kaznaexpert.ru/img/og-image.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kaznaexpert.ru/baza-znaniy/soispolniteli-kooperaciya-goz/"
+  },
+  "citation": [
+    "https://www.consultant.ru/document/cons_doc_LAW_140175/",
+    "https://base.garant.ru/70291366/31de5683116b8d79b08fa2d768e33df6/",
+    "https://www.consultant.ru/document/cons_doc_LAW_34661/b945e9baa2f86ef7eafc3db4cd85e34064cb6801/"
+  ]
+}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Соисполнители и кооперация ГОЗ", "item": "https://kaznaexpert.ru/baza-znaniy/soispolniteli-kooperaciya-goz/"}]}
@@ -175,9 +210,9 @@
     <div class="hero">
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
-      <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на 2026</span></div>
+      <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на август 2026</span></div>
     <h1>Соисполнители и цепочка кооперации в ГОЗ при казначейском сопровождении</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 16 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 4 августа 2026 · сверено с редакцией закона № 275-ФЗ от 04.07.2026: новая глава 3.3 о переводе сопровождаемой сделки в иной уполномоченный банк</span></div>
     </div>
 
     <div class="share">
@@ -251,6 +286,8 @@
       <tr><td>Казначейское сопровождение</td><td>Лицевой счёт в ТОФК</td><td>Федеральное казначейство</td></tr>
     </table>
     <p>Деньги движутся по цепочке так: головной исполнитель получает средства от заказчика на свой счёт и оплачивает работу соисполнителя на его отдельный счёт; соисполнитель, в свою очередь, оплачивает поставки своих контрагентов — и так далее. На каждом шаге платёж проходит проверку: расход должен относиться к контракту с этим ИГК. Как открыть такой счёт, мы разбираем в материалах об <a href="/baza-znaniy/otdelnyy-schet-po-goz/">отдельном счёте по ГОЗ</a> и о том, как <a href="/baza-znaniy/licevoy-schet-71-kak-otkryt/">открыть лицевой счёт в ТОФК</a>. Смешивать целевые деньги контракта с обычной выручкой или средствами другого заказа на этих счетах запрещено.</p>
+
+    <p>С 4 августа 2026 года у цепочки кооперации появилась страховка на случай проблем с банком. Федеральный закон от 04.07.2026 № 232-ФЗ дополнил закон № 275-ФЗ главой 3.3 (ст. 8.9–8.13): если банк исключён из категории уполномоченных по решению Правительства РФ, сопровождаемая сделка переводится в другой уполномоченный банк, а банковское сопровождение переходит без заявления исполнителя о закрытии отдельного счёта. Для соисполнителя это значит, что смена банка у головного исполнителя больше не парализует расчёты по цепочке — но новые реквизиты отдельного счёта нужно получить и отразить в договоре и платёжных документах. Тем же законом срок представления уполномоченным банком информации о расчётах по запросам Федерального казначейства увеличен с 2 до 5 рабочих дней.<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a></p>
 
     <h2 id="obyazannosti">Обязанности исполнителя по статье 8</h2>
     <p>Статья 8 Закона № 275-ФЗ устанавливает обязанности не только для головного исполнителя, но и для каждого исполнителя в кооперации. Войдя в цепочку, соисполнитель принимает на себя обязательства, сопоставимые с обязательствами головного.</p>
@@ -367,11 +404,11 @@
     <div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
-        <li id="ref-1">Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе» (ред. от 15.12.2025), ст. 3 — кооперация и исполнители — <a href="https://www.consultant.ru/document/cons_doc_LAW_140175/" target="_blank" rel="noopener">consultant.ru</a></li>
+        <li id="ref-1">Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе» (ред. от 04.07.2026), ст. 3 — кооперация и исполнители — <a href="https://www.consultant.ru/document/cons_doc_LAW_140175/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-2">Федеральный закон от 29.12.2012 № 275-ФЗ, ст. 8 — основные обязанности головного исполнителя и исполнителя — <a href="https://base.garant.ru/70291366/31de5683116b8d79b08fa2d768e33df6/" target="_blank" rel="noopener">garant.ru</a></li>
         <li id="ref-3">Кодекс РФ об административных правонарушениях, ст. 7.30.3 (введена Федеральным законом от 28.12.2024 № 500-ФЗ) — ответственность в сфере ГОЗ — <a href="https://www.consultant.ru/document/cons_doc_LAW_34661/b945e9baa2f86ef7eafc3db4cd85e34064cb6801/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>
-      <p class="refs__note">Материал актуален на 16 июня 2026 года и носит справочный характер, не являясь юридической консультацией. Перед оформлением договоров в кооперации сверяйтесь с действующей редакцией Закона № 275-ФЗ и условиями головного контракта; конкретные требования к расчётам определяет режим сопровождения.</p>
+      <p class="refs__note">Материал актуален на 4 августа 2026 года и носит справочный характер, не являясь юридической консультацией. Перед оформлением договоров в кооперации сверяйтесь с действующей редакцией Закона № 275-ФЗ и условиями головного контракта; конкретные требования к расчётам определяет режим сопровождения.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

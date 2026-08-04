@@ -26,7 +26,45 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Отдельный счёт по ГОЗ: режим использования, запрещённые операции и вывод прибыли", "description": "Отдельный счёт по гособоронзаказу в уполномоченном банке: режим ст. 8.3 № 275-ФЗ, запрещённые операции ст. 8.4, лимит «иных расходов» с индексацией, мораторий по зарплате и порядок вывода прибыли.", "inLanguage": "ru-RU", "datePublished": "2026-06-12", "dateModified": "2026-07-02", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/otdelnyy-schet-po-goz/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_140175/42f2ebc16f058a3f73a37ad8bee6cd894857fb46/", "https://www.consultant.ru/document/cons_doc_LAW_140175/", "https://www.consultant.ru/document/cons_doc_LAW_140175/57abb8d1c98491ad8c16d16391568c38135abc7d/", "http://publication.pravo.gov.ru/document/0001202312120050", "https://www.economy.gov.ru/", "https://www.consultant.ru/document/cons_doc_LAW_140175/a5f95674709f710d3cc64fa9f4df596b66be2c4c/"]}
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Отдельный счёт по ГОЗ: режим использования, запрещённые операции и вывод прибыли",
+  "description": "Отдельный счёт по гособоронзаказу в уполномоченном банке: режим ст. 8.3 № 275-ФЗ, запрещённые операции ст. 8.4, лимит «иных расходов» с индексацией, мораторий по зарплате и порядок вывода прибыли.",
+  "inLanguage": "ru-RU",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-08-04",
+  "author": {
+    "@type": "Person",
+    "name": "Ярослав Михайлов",
+    "jobTitle": "Главный эксперт по казначейскому сопровождению",
+    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
+    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "КазнаЭксперт",
+    "url": "https://kaznaexpert.ru",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kaznaexpert.ru/img/logogold.png"
+    },
+    "@id": "https://kaznaexpert.ru/#organization"
+  },
+  "image": "https://kaznaexpert.ru/img/og-image.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kaznaexpert.ru/baza-znaniy/otdelnyy-schet-po-goz/"
+  },
+  "citation": [
+    "https://www.consultant.ru/document/cons_doc_LAW_140175/42f2ebc16f058a3f73a37ad8bee6cd894857fb46/",
+    "https://www.consultant.ru/document/cons_doc_LAW_140175/",
+    "https://www.consultant.ru/document/cons_doc_LAW_140175/57abb8d1c98491ad8c16d16391568c38135abc7d/",
+    "http://publication.pravo.gov.ru/document/0001202312120050",
+    "https://www.economy.gov.ru/",
+    "https://www.consultant.ru/document/cons_doc_LAW_140175/a5f95674709f710d3cc64fa9f4df596b66be2c4c/"
+  ]
+}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Отдельный счёт по ГОЗ", "item": "https://kaznaexpert.ru/baza-znaniy/otdelnyy-schet-po-goz/"}]}
@@ -189,9 +227,9 @@
     <div class="hero">
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
-      <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на 2026</span></div>
+      <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на август 2026</span></div>
     <h1>Отдельный счёт по ГОЗ: режим использования, запрещённые операции и вывод прибыли</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>18 мин чтения</span><span class="dot">·</span><span>Обновлено 2 июля 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>18 мин чтения</span><span class="dot">·</span><span>Обновлено 4 августа 2026 · закон № 275-ФЗ сверен в редакции от 04.07.2026: добавлена глава 3.3 о переводе сделки в иной уполномоченный банк</span></div>
     </div>
 
     <div class="share">
@@ -334,6 +372,8 @@
     <h2 id="zakrytie">Закрытие отдельного счёта</h2>
     <p>Счёт закрывается после того, как уполномоченный банк получит от государственного заказчика уведомление об исполнении госконтракта (ч. 2 ст. 8.3). Важная деталь: на списание остатка при закрытии режимные ограничения ч. 1 ст. 8.3 не распространяются — остаток уходит на ваш обычный расчётный счёт. Пока уведомления нет, счёт живёт в режиме, даже если работы давно сданы, — поэтому контролируйте, чтобы заказчик направил уведомление в банк.</p>
 
+    <p>С 4 августа 2026 года есть ещё один сценарий, при котором отдельный счёт перестаёт обслуживаться прежним банком, — исключение банка из категории уполномоченных по решению Правительства РФ. Федеральный закон от 04.07.2026 № 232-ФЗ ввёл в закон № 275-ФЗ главу 3.3 (ст. 8.9–8.13): в этом случае сопровождаемая сделка переводится в другой уполномоченный банк, причём банковское сопровождение переходит без заявления исполнителя о закрытии отдельного счёта. То есть закрывать счёт «по своей воле» не нужно и нельзя — перевод идёт по установленной законом процедуре, а исполнитель обязан получить новые реквизиты и уведомить государственного заказчика. Попутно тот же закон увеличил с 2 до 5 рабочих дней срок, за который уполномоченный банк представляет в Федеральное казначейство информацию и документы о расчётах по сопровождаемой сделке.<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a></p>
+
     <h2 id="otvetstvennost">Ответственность за нарушения режима</h2>
     <table>
       <caption>Чем грозят нарушения по отдельному счёту</caption>
@@ -462,7 +502,7 @@
     <div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
-        <li id="ref-1">Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе» (ред. от 15.12.2025), ст. 8.3 «Режим использования отдельного счета» — <a href="https://www.consultant.ru/document/cons_doc_LAW_140175/42f2ebc16f058a3f73a37ad8bee6cd894857fb46/" target="_blank" rel="noopener">consultant.ru</a></li>
+        <li id="ref-1">Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе» (ред. от 04.07.2026), ст. 8.3 «Режим использования отдельного счета» — <a href="https://www.consultant.ru/document/cons_doc_LAW_140175/42f2ebc16f058a3f73a37ad8bee6cd894857fb46/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-2">Федеральный закон № 275-ФЗ, глава 3.1 «Банковское сопровождение»; БК РФ, глава 24.4 «Казначейское сопровождение» — <a href="https://www.consultant.ru/document/cons_doc_LAW_140175/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-3">Федеральный закон № 275-ФЗ, ст. 8.1 «Уполномоченные банки», ст. 8.2 «Основные права и обязанности уполномоченного банка» — <a href="https://www.consultant.ru/document/cons_doc_LAW_140175/57abb8d1c98491ad8c16d16391568c38135abc7d/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-4">Федеральный закон от 12.12.2023 № 590-ФЗ (лимит «иных расходов» и порядок индексации, пп. «з» п. 2 ч. 1 ст. 8.3) — <a href="http://publication.pravo.gov.ru/document/0001202312120050" target="_blank" rel="noopener">pravo.gov.ru</a>; величина ИПЦ — публикации Минэкономразвития России, <a href="https://www.economy.gov.ru/" target="_blank" rel="noopener">economy.gov.ru</a></li>
