@@ -516,7 +516,7 @@
 
 <section class="related" aria-labelledby="relTitle">
   <div class="related__head"><h2 id="relTitle">Что почитать ещё</h2><a href="/baza-znaniy/">Вся база знаний →</a></div>
-  <div class="related__grid">
+  <div class="related__grid"><!-- auto-related:registraciya-v-giis-elektronnyy-byudzhet --><a class="card reveal" href="/baza-znaniy/registraciya-v-giis-elektronnyy-byudzhet/"><span class="card__cat">Электронный бюджет</span><span class="card__t">Регистрация в ГИИС «Электронный бюджет»: подключение</span><span class="card__m">Электронный бюджет · 12 мин</span></a>
     <a class="card reveal" href="/baza-znaniy/licevoy-schet-71-kak-otkryt/"><div class="card__cover"><span>Счёт 71</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Как открыть лицевой счёт 71 в ТОФК</h3><div class="card__meta">Счета · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/portal-zayavitelya-kaznachejstva/"><div class="card__cover"><span>ФЗС</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Портал заявителя казначейства (ФЗС)</h3><div class="card__meta">ЭЦП · 15 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/sufd-portal-kaznachejstva/"><div class="card__cover"><span>СУФД</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">СУФД-портал казначейства: подключение и работа</h3><div class="card__meta">ГИИС · 14 мин</div></div></a>
