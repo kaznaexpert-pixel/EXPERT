@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"article", cluster:"sankcionirovanie"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Санкционирование расходов при казначейском сопровождении", "description": "Что такое санкционирование расходов: как ТОФК проверяет операции, правовая основа (ст. 242.23 БК РФ), сведения об операциях, основания отказа, сроки и расширенное санкционирование.", "datePublished": "2026-06-05T10:00:00+03:00", "dateModified": "2026-07-23", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/poryadok-sankcionirovaniya-rashodov/"}, "image": "https://kaznaexpert.ru/img/og-image.png", "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/", "https://www.consultant.ru/document/cons_doc_LAW_405138/", "https://www.consultant.ru/document/cons_doc_LAW_401819/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Санкционирование расходов при казначейском сопровождении", "description": "Что такое санкционирование расходов: как ТОФК проверяет операции, правовая основа (ст. 242.23 БК РФ), сведения об операциях, основания отказа, сроки и расширенное санкционирование.", "datePublished": "2026-06-05T10:00:00+03:00", "dateModified": "2026-08-04", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/poryadok-sankcionirovaniya-rashodov/"}, "image": "https://kaznaexpert.ru/img/og-image.png", "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/", "https://www.consultant.ru/document/cons_doc_LAW_405138/", "https://www.consultant.ru/document/cons_doc_LAW_401819/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Санкционирование расходов"}]}
@@ -83,7 +83,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Санкционирование расходов при казначейском сопровождении">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-07-23T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-04T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -169,7 +169,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Санкционирование и контроль <span class="fresh">Актуально на 2026</span></div>
     <h1>Санкционирование расходов при казначейском сопровождении</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 23 июля 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 4 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -213,6 +213,7 @@
     <h2 id="osnova">Правовая основа</h2>
     <div class="answer reveal">
       <p>Санкционирование операций с целевыми средствами при казначейском сопровождении опирается на <b>статью 242.23 Бюджетного кодекса РФ</b><a class="fn" href="#ref-2" aria-label="Источник 2">[2]</a>. Конкретный порядок — какие документы представлять, по какой форме и в какие сроки — установлен <b>приказом Минфина России от 17.12.2021 № 214н</b> «О Порядке санкционирования операций со средствами участников казначейского сопровождения». Само понятие санкционирования оплаты денежных обязательств закреплено в статье 219 Бюджетного кодекса РФ; применительно к казначейскому сопровождению порядок детализирует приказ № 214н. Порядок закреплён в <a href="/baza-znaniy/normativnaya-baza/pp-2024-pravila-ks/">Правилах казначейского сопровождения (ПП № 2024)</a>.</p>
+    <p><strong>Что меняется в 2026 году.</strong> С 1 сентября 2026 года Порядок санкционирования (приказ Минфина России № 214н) планируется заменить новым порядком: Минфин подготовил проект, который консолидирует внесённые изменения, приводит формулировки в соответствие с Бюджетным кодексом и продолжает перенос процедур в «Электронный бюджет». Механика проверки при этом сохраняется.</p>
       <p>Сами правила казначейского сопровождения, в рамках которых проводится санкционирование, установлены постановлением Правительства РФ (Правила казначейского сопровождения и Правила расширенного казначейского сопровождения)<a class="fn" href="#ref-3" aria-label="Источник 3">[3]</a>. Сфера применения казначейского сопровождения на 2026 год определена профильным федеральным законом.</p>
     </div>
 
