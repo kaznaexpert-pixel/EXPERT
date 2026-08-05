@@ -33,7 +33,7 @@
   "description": "Жизненный цикл сертификата УЦ Федерального казначейства: срок действия, как продлить (перевыпустить) ЭЦП и за сколько обращаться, как отозвать (аннулировать) сертификат, замена носителя и смена подписанта.",
   "inLanguage": "ru-RU",
   "datePublished": "2026-06-09",
-  "dateModified": "2026-08-04",
+  "dateModified": "2026-08-05",
   "author": {
     "@type": "Person",
     "name": "Ярослав Михайлов",
@@ -215,7 +215,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · ГИИС и ЭЦП <span class="fresh">Актуально на август 2026</span></div>
     <h1>Как продлить и отозвать ЭЦП казначейства в 2026: перевыпуск, аннулирование, замена носителя</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 4 августа 2026 · закон № 63-ФЗ сверен в действующей редакции от 31.07.2025 — правила выпуска и аннулирования сертификатов не изменились</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 5 августа 2026 · закон № 63-ФЗ сверен в действующей редакции от 31.07.2025 — правила выпуска и аннулирования сертификатов не изменились</span></div>
     </div>
 
     <div class="share">
@@ -351,6 +351,8 @@
 
     <p data-ctx="auto-ctx:mashinochitaemaya-doverennost-kaznachejstvo">Наряду со сроком сертификата важно следить и за сроком <a href="/baza-znaniy/mashinochitaemaya-doverennost-kaznachejstvo/">машиночитаемой доверенности</a>: по её истечении подписант теряет право подписывать документы от имени организации.</p>
     <p data-ctx="auto-ctx:pereoformlenie-licevogo-scheta-v-kaznachejstve">Смена подписанта затрагивает не только сертификат: одновременно меняют и <a href="/baza-znaniy/pereoformlenie-licevogo-scheta-v-kaznachejstve/">карточку образцов подписей при переоформлении лицевого счёта</a>.</p>
+    <!-- p47:ctx-uc -->
+    <p data-ctx="p47:udostoveryayushchiy-centr-kaznachejstva">Перевыпуск и отзыв проходят в том же центре, который выдал сертификат: как устроен <a href="/baza-znaniy/udostoveryayushchiy-centr-kaznachejstva/">удостоверяющий центр казначейства</a> и кому он выдаёт подписи, разобрано отдельно.</p>
     <div class="takeaways">
       <h2>Что важно запомнить</h2>
       <ol>
