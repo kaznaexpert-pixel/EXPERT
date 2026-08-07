@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"subsidii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Субсидия на государственное задание и казначейское сопровождение", "description": "Подпадает ли субсидия на государственное задание под казначейское сопровождение в 2026 году, чем она отличается от целевой субсидии и когда сопровождаются авансы.", "inLanguage": "ru-RU", "datePublished": "2026-08-03", "dateModified": "2026-08-03", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/subsidiya-na-gosudarstvennoe-zadanie/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Субсидия на государственное задание и казначейское сопровождение", "description": "Подпадает ли субсидия на государственное задание под казначейское сопровождение в 2026 году, чем она отличается от целевой субсидии и когда сопровождаются авансы.", "inLanguage": "ru-RU", "datePublished": "2026-08-03", "dateModified": "2026-08-07", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/subsidiya-na-gosudarstvennoe-zadanie/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Субсидия на государственное задание", "item": "https://kaznaexpert.ru/baza-znaniy/subsidiya-na-gosudarstvennoe-zadanie/"}]}
@@ -177,7 +177,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Субсидии <span class="fresh">Актуально на 2026</span></div>
     <h1>Субсидия на государственное задание и казначейское сопровождение</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 3 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 7 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -356,6 +356,8 @@
       <details><summary>Где должно быть закреплено условие о сопровождении?</summary><p>В контракте. Если признаки режима есть, а условия в проекте контракта нет, вопрос лучше урегулировать с заказчиком до подписания — иначе платежи встанут на этапе оплаты аванса.</p></details>
       <details><summary>Меняется ли перечень целевых средств каждый год?</summary><p>Да. Перечень устанавливается статьёй закона о федеральном бюджете на очередной год и корректируется: например, в 2026 году круг сопровождаемых грантов расширился на региональные и муниципальные бюджетные и автономные учреждения.</p></details>
     </div>
+
+    <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-subsidiy">Если субсидия учреждению всё же попала под режим — например, через авансы по контрактам от 10 млн рублей или через грант, — дальше работает общая механика: лицевой счёт, сведения об операциях, санкционирование каждого платежа и закрытый перечень исключений для расчётов с контрагентами. Она разобрана в статье о <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-subsidiy/">казначейском сопровождении субсидий</a>.</p>
 
     <div class="author">
       <div class="author__av">ЯМ</div>
