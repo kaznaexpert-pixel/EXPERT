@@ -442,7 +442,7 @@
 
 <section class="related" aria-labelledby="relTitle">
   <div class="related__head"><h2 id="relTitle">Что почитать ещё</h2><a href="/baza-znaniy/">Вся база знаний →</a></div>
-  <div class="related__grid">
+  <div class="related__grid"><!-- auto-related:stoimost-kaznacheyskogo-soprovozhdeniya --><a class="card reveal" href="/baza-znaniy/stoimost-kaznacheyskogo-soprovozhdeniya/"><span class="card__cat">Стоимость</span><span class="card__t">Стоимость казначейского сопровождения: цены 2026</span><span class="card__m">Стоимость · 9 мин</span></a>
     <a class="card reveal" href="/baza-znaniy/poryadok-sankcionirovaniya-rashodov/"><div class="card__cover"><span>База знаний</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Порядок санкционирования расходов</h3><div class="card__meta">Санкционирование · 13 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/"><!-- auto-related:kto-popadaet-pod-kaznacheyskoe-soprovozhdenie --><div class="card__cover"><span>База знаний</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Кто попадает под казначейское сопровождение в 2026</h3><div class="card__meta">Пороги · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/sertifikat-ecp-kaznachejstvo/"><div class="card__cover"><span>ЭЦП</span></div><div class="card__body"><span class="card__cat">Инструкция</span><h3 class="card__title">Сертификат и ЭЦП казначейства: как получить</h3><div class="card__meta">ЭЦП и ГИИС · 15 мин</div></div></a>
