@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Зарплата с лицевого счёта при казначейском сопровождении: как выплатить", "description": "Как выплатить зарплату с лицевого счёта в казначействе: исключение п. 3 ст. 242.23 БК, код 0100, документы для санкционирования, НДФЛ и взносы, типовые отказы.", "inLanguage": "ru-RU", "datePublished": "2026-07-30", "dateModified": "2026-07-30", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/zarplata-s-licevogo-scheta-pri-ks/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Зарплата с лицевого счёта при казначейском сопровождении: как выплатить", "description": "Как выплатить зарплату с лицевого счёта в казначействе: исключение п. 3 ст. 242.23 БК, код 0100, документы для санкционирования, НДФЛ и взносы, типовые отказы.", "inLanguage": "ru-RU", "datePublished": "2026-07-30", "dateModified": "2026-08-10", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/zarplata-s-licevogo-scheta-pri-ks/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Зарплата с лицевого счёта", "item": "https://kaznaexpert.ru/baza-znaniy/zarplata-s-licevogo-scheta-pri-ks/"}]}
@@ -176,7 +176,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Операции <span class="fresh">Актуально на 2026</span></div>
     <h1>Зарплата с лицевого счёта при казначейском сопровождении: как выплатить</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 30 июля 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 10 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -295,6 +295,8 @@
       <li><b>Нет плана «Б» на случай возврата.</b> Зарплату в установленную дату платят при любом статусе целевого платежа — из собственных средств с последующим корректным отнесением на контракт.</li>
     </ul>
 
+    
+    <p><strong>Обновление ЕБП с 18 июля 2026 года.</strong> В <a href="/baza-znaniy/edinaya-byudzhetnaya-platforma-ebp/">Единой бюджетной платформе (ЕБП)</a> версии 3.2 доработан анализатор поступлений по операциям с наличными: в расшифровке сумм и заявке на внесение наличных теперь указывается код поступления, и суммы зачисляются на лицевой счёт сразу по корректным реквизитам — без «зависания» на коде ПД и последующих уточнений. Выплаты через карты и электронные чеки отражаются в режиме реального времени.</p>
     <h2 id="glossary">Глоссарий</h2>
     <dl class="gloss">
       <div><dt>Лицевой счёт участника казначейского сопровождения</dt><dd>счёт, открываемый в территориальном органе казначейства для операций с целевыми средствами; перечисления с него на банковские счета исполнителя запрещены за закрытым перечнем исключений.</dd></div>
