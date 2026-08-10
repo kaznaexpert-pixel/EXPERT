@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Оплата иностранному поставщику при казначейском сопровождении</title>
+<title>Казначейское сопровождение оплаты иностранному поставщику</title>
 <meta name="description" content="Как платить иностранному поставщику при казначейском сопровождении: перевод с лицевого счёта на свой банковский счёт, валютный контроль по 181-И, риски отказов.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -78,7 +78,7 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Оплата иностранному поставщику при казначейском сопровождении">
+<meta property="og:title" content="Казначейское сопровождение оплаты иностранному поставщику">
 <meta property="og:description" content="Почему нерезиденту нельзя заплатить прямо с лицевого счёта, как работает исключение «в соответствии с валютным законодательством», какие документы нужны для санкционирования и валютного контроля.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/oplata-inostrannomu-postavshchiku-pri-ks/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
@@ -90,7 +90,7 @@
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Оплата иностранному поставщику при казначейском сопровождении">
+<meta name="twitter:title" content="Казначейское сопровождение оплаты иностранному поставщику">
 <meta name="twitter:description" content="Почему нерезиденту нельзя заплатить прямо с лицевого счёта, как работает исключение «в соответствии с валютным законодательством», какие документы нужны для санкционирования и валютного контроля.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
