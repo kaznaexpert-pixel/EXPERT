@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Органы Федерального казначейства: что такое ТОФК и УФК</title>
+<title>Федеральное казначейство: что это, полномочия и ТОФК</title>
 <meta name="description" content="Органы Федерального казначейства: что такое казначейство, ТОФК и УФК, какие полномочия закреплены Положением № 703, какие реестры оно ведёт и чем отличается от банка">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -178,7 +178,7 @@
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Основы <span class="fresh">Актуально на 2026</span></div>
-    <h1>Что такое казначейство: Федеральное казначейство — это служба, ТОФК и УФК — её территориальные органы</h1>
+    <h1>Что такое казначейство: Федеральное казначейство — это служба, а ТОФК — её территориальные органы</h1>
     <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 7 августа 2026</span></div>
     </div>
 
