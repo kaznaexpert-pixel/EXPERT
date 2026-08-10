@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Портал заявителя казначейства (ФЗС): вход и заявка</title>
+<title>Портал заявителя казначейства (ФЗС): вход и заявка на сертификат</title>
 <meta name="description" content="Портал заявителя ФЗС (fzs.roskazna.ru): подготовка рабочего места, договор присоединения, первичный запрос на сертификат УЦ ФК и замена без визита в ТОФК.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ecp"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Портал заявителя казначейства (ФЗС): вход, заявка на сертификат и работа без возвратов", "description": "Портал заявителя ФЗС удостоверяющего центра Федерального казначейства: подготовка рабочего места, договор присоединения, первичный запрос на сертификат, дистанционная замена, статусы и частые причины возвратов.", "inLanguage": "ru-RU", "datePublished": "2026-06-12", "dateModified": "2026-06-12", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/portal-zayavitelya-kaznachejstva/"}, "citation": ["https://roskazna.gov.ru/gis/udostoveryayushchij-centr/onlajn-servis-podachi-dokumentov-dlya-polucheniya-sertifikatov-portal-zayavitelya", "https://mo.roskazna.gov.ru/gis/udostoveryayuschiy-centr/online-servis-podachi-dokumentov-dlya-polucheniya-sertifikatov", "https://www.consultant.ru/document/cons_doc_LAW_112701/", "https://roskazna.gov.ru/gis/udostoveryayushhij-centr/poluchenie-sertifikata/", "http://publication.pravo.gov.ru/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Портал заявителя казначейства (ФЗС): вход, заявка на сертификат и работа без возвратов", "description": "Портал заявителя ФЗС удостоверяющего центра Федерального казначейства: подготовка рабочего места, договор присоединения, первичный запрос на сертификат, дистанционная замена, статусы и частые причины возвратов.", "inLanguage": "ru-RU", "datePublished": "2026-06-12", "dateModified": "2026-08-10", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/portal-zayavitelya-kaznachejstva/"}, "citation": ["https://roskazna.gov.ru/gis/udostoveryayushchij-centr/onlajn-servis-podachi-dokumentov-dlya-polucheniya-sertifikatov-portal-zayavitelya", "https://mo.roskazna.gov.ru/gis/udostoveryayuschiy-centr/online-servis-podachi-dokumentov-dlya-polucheniya-sertifikatov", "https://www.consultant.ru/document/cons_doc_LAW_112701/", "https://roskazna.gov.ru/gis/udostoveryayushhij-centr/poluchenie-sertifikata/", "http://publication.pravo.gov.ru/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Портал заявителя казначейства (ФЗС)", "item": "https://kaznaexpert.ru/baza-znaniy/portal-zayavitelya-kaznachejstva/"}]}
@@ -99,7 +99,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Портал заявителя казначейства (ФЗС): вход, заявка на сертификат — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-12T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-12T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-10T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -190,7 +190,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · ГИИС и ЭЦП <span class="fresh">Актуально на 2026</span></div>
     <h1>Портал заявителя казначейства (ФЗС): вход, заявка на сертификат и работа без возвратов</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 12 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 10 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -238,6 +238,11 @@
       <tr><td>Должностные лица, работающие в системах казначейства</td><td>Персональные сертификаты сотрудников с полномочиями подписи</td></tr>
     </table>
     <p>Для подрядчика по госконтракту ключевой случай — третий. Квалифицированную подпись для обычной хозяйственной деятельности руководитель компании получает в УЦ ФНС России, но для работы с лицевым счётом в «Электронном бюджете» нужна подпись именно удостоверяющего центра казначейства — подробный разбор различий есть в статье о <a href="/baza-znaniy/sertifikat-ecp-kaznachejstvo/">сертификате и ЭЦП казначейства</a>. Поэтому типичная связка исполнителя контракта: подпись ФНС для ЕГРЮЛ-деятельности плюс подпись УЦ ФК для казначейских систем.</p>
+    <h2 id="sinonimy">Портал заявителя, сервис заявителя, ФЗС: это одно и то же</h2>
+    <div class="answer reveal"><p>«Портал заявителя», «сервис заявителя» и «ФЗС» — это разные названия одного онлайн-сервиса удостоверяющего центра Федерального казначейства для подачи документов на сертификат. Официальное имя — «Портал заявителя „Формирование запросов на сертификаты"» (ФЗС), сервис расположен по адресу fzs.roskazna.ru. Отдельного «сервиса заявителя», отличного от портала, у казначейства нет.</p></div>
+    <p>В запросах этот сервис называют по-разному: «портал заявителя росказна», «портал заявителя казначейства», «сервис заявителя», «портал заявителя федерального казначейства», «портал заявителя УФК». Все формулировки ведут на один и тот же ресурс — fzs.roskazna.ru. Разница только в том, какое слово подставляет пользователь: одни делают акцент на ведомстве (казначейство, росказна, УФК), другие — на функции (подача заявки, сервис заявителя).</p>
+    <p>Практический вывод: искать отдельный «сервис заявителя» не нужно — это тот же портал заявителя ФЗС. Достаточно один раз настроить рабочее место и войти по сертификату электронной подписи, как описано ниже.</p>
+
 
     <h2 id="pravovaya">Правовая база: на что опирается работа портала</h2>
     <p>Порядок выдачи сертификатов УЦ ФК закреплён нормативно, и ссылки на эти документы пригодятся при споре с ТОФК о причинах отказа.</p>
@@ -298,6 +303,12 @@
       <tr><td>Портал «зависает» на загрузке документов</td><td>Сканы превышают допустимый размер или формат</td><td>Сжать файлы до требований портала, использовать PDF</td></tr>
     </table>
     <p>Полезная привычка — проверять рабочее место не в день дедлайна, а при каждом обновлении браузера или КриптоПро: обновления регулярно «отвязывают» плагин и сбивают настройки доверенных узлов.</p>
+    <p>Смежные вопросы по сертификату разобраны отдельно: <a href="/baza-znaniy/kak-prodlit-i-otozvat-ecp-kaznachejstva/">продление и отзыв сертификата</a>, <a href="/baza-znaniy/kornevye-sertifikaty-kaznachejstva/">корневые сертификаты казначейства</a>, <a href="/baza-znaniy/sertifikaty-i-spiski-otzyva-uc-kaznachejstva/">списки отзыва сертификатов</a>.</p>
+    <h2 id="lichnyy-kabinet">Вход в личный кабинет портала заявителя УФК</h2>
+    <div class="answer reveal"><p>Привычного «личного кабинета» с логином и паролем у портала заявителя нет. Вход в ФЗС на fzs.roskazna.ru выполняется по сертификату квалифицированной электронной подписи, а не по учётной записи. Запрос «портал заявителя УФК личный кабинет» описывает именно работу в ФЗС по сертификату: портал сам определяет заявителя по подписи и показывает его запросы и их статусы.</p></div>
+    <p>Отдельных региональных кабинетов у управлений Федерального казначейства (УФК) тоже нет: портал единый для всей страны — fzs.roskazna.ru. Территориальные органы участвуют не как «сайт с личным кабинетом», а как региональные центры регистрации, куда заявитель предоставляет документы после подачи запроса онлайн. Проверить готовность рабочего места и браузера к входу можно на arm-fzs.roskazna.gov.ru.</p>
+    <p>Поэтому если вы ищете, как «зайти в личный кабинет портала заявителя УФК», порядок такой: настроить рабочее место, установить сертификат подписи, открыть fzs.roskazna.ru и войти по сертификату — учётную запись создавать не требуется.</p>
+
 
     <h2 id="statusy">Статусы запроса и сроки</h2>
     <table>
