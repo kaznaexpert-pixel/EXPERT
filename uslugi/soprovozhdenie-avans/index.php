@@ -221,7 +221,6 @@
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <link rel="stylesheet" href="/css/landing-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/landing-shared.css') ?>">
-<style>.v2-freshness{border-top:1px solid rgba(0,0,0,.08);margin-top:8px;padding:18px 0 4px;font-size:14px;line-height:1.5;color:rgba(20,19,16,.58);text-align:center}.v2-freshness time{font-variant-numeric:tabular-nums;white-space:nowrap}@media (max-width:640px){.v2-freshness{font-size:13px;padding:14px 0 2px}}</style>
 </head>
 <body>
 <a href="#main" class="skip">Перейти к содержанию</a>

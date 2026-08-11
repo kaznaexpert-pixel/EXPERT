@@ -3632,3 +3632,22 @@ body {
   .v2 .v2-edu-cta > div:last-child{text-align:left !important;min-width:0 !important}
   .v2 .v2-edu-cta h3{font-size:22px !important}
 }
+
+/* ── Строка свежести страницы (посадочные /uslugi/ и /regiony/) ──────────────
+   Дата в .v2-freshness обязана совпадать с dateModified — следит
+   architecture/seo/freshness_sync.py. */
+.v2-freshness{
+  border-top:1px solid rgba(0,0,0,.08);
+  margin-top:8px;
+  padding:18px 0 4px;
+  font-size:14px;
+  line-height:1.5;
+  color:rgba(20,19,16,.58);
+  text-align:center;
+}
+.v2-freshness time{font-variant-numeric:tabular-nums;white-space:nowrap}
+.v2-freshness a{color:inherit;text-decoration:underline;text-underline-offset:2px}
+.v2-freshness a:hover{color:var(--accent,#8B6F47)}
+@media (max-width:640px){
+  .v2-freshness{font-size:13px;padding:14px 0 2px}
+}
