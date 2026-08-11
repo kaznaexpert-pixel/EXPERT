@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Реестр недобросовестных поставщиков (РНП) по 44-ФЗ: основания, срок и как не попасть", "description": "Что такое РНП по 44-ФЗ: за что вносят в реестр недобросовестных поставщиков, на какой срок, как его ведёт ФАС, как проверить контрагента и как не попасть.", "inLanguage": "ru-RU", "datePublished": "2026-06-26", "dateModified": "2026-06-26", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/reestr-nedobrosovestnyh-postavshchikov-44-fz/"}, "citation": ["Федеральный закон от 05.04.2013 № 44-ФЗ, статья 104 «Реестр недобросовестных поставщиков (подрядчиков, исполнителей)» (ред. на 26.06.2026). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_144624/", "Федеральный закон от 05.04.2013 № 44-ФЗ, часть 1.1 статьи 31 (требование об отсутствии участника в реестре недобросовестных поставщиков). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_144624/", "Федеральный закон от 05.04.2013 № 44-ФЗ, статья 95 (одностороннее расторжение контракта). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_144624/", "Постановление Правительства РФ от 30.06.2021 № 1078 «О порядке ведения реестра недобросовестных поставщиков (подрядчиков, исполнителей)...».", "Постановление Правительства РФ от 28.11.2013 № 1084 (реестр контрактов — для разграничения с РНП)."]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Реестр недобросовестных поставщиков (РНП) по 44-ФЗ: основания, срок и как не попасть", "description": "Что такое РНП по 44-ФЗ: за что вносят в реестр недобросовестных поставщиков, на какой срок, как его ведёт ФАС, как проверить контрагента и как не попасть.", "inLanguage": "ru-RU", "datePublished": "2026-06-26", "dateModified": "2026-08-11", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/reestr-nedobrosovestnyh-postavshchikov-44-fz/"}, "citation": ["Федеральный закон от 05.04.2013 № 44-ФЗ, статья 104 «Реестр недобросовестных поставщиков (подрядчиков, исполнителей)» (ред. на 26.06.2026). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_144624/", "Федеральный закон от 05.04.2013 № 44-ФЗ, часть 1.1 статьи 31 (требование об отсутствии участника в реестре недобросовестных поставщиков). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_144624/", "Федеральный закон от 05.04.2013 № 44-ФЗ, статья 95 (одностороннее расторжение контракта). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_144624/", "Постановление Правительства РФ от 30.06.2021 № 1078 «О порядке ведения реестра недобросовестных поставщиков (подрядчиков, исполнителей)...».", "Постановление Правительства РФ от 28.11.2013 № 1084 (реестр контрактов — для разграничения с РНП)."]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Реестр недобросовестных поставщиков", "item": "https://kaznaexpert.ru/baza-znaniy/reestr-nedobrosovestnyh-postavshchikov-44-fz/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Реестр недобросовестных поставщиков (РНП) по 44-ФЗ: основания и срок — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-26T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-26T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-11T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -177,7 +177,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Основы <span class="fresh">Актуально на 2026</span></div>
     <h1>Реестр недобросовестных поставщиков (РНП) по 44-ФЗ: основания, срок и как не попасть</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 26 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 11 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -251,6 +251,16 @@
       <li><b>Нарушение процедуры заказчиком.</b> Если односторонний отказ оформлен и размещён с нарушениями, основание «рассыпается».</li>
     </ul>
     <p>Эти исключения — не лазейка, а отражение принципа: реестр карает недобросовестность, а не любую неудачу в исполнении. Именно поэтому каждое дело ФАС рассматривает индивидуально, оценивая поведение сторон, а не формальный факт расторжения.</p>
+
+    
+    <h2 id="kak-proverit-rnp">Как проверить поставщика в реестре недобросовестных поставщиков</h2>
+    <div class="answer reveal"><p>Проверить поставщика в РНП можно за минуту на zakupki.gov.ru: раздел «Реестр недобросовестных поставщиков» в открытой части ЕИС, поиск по ИНН или наименованию. Если записей нет — организация в реестре не числится; если запись есть, в ней видны основание включения, заказчик и срок, по истечении которого запись исключается.</p></div>
+    <ol>
+      <li>Откройте zakupki.gov.ru → «Контроль и аудит» → «Реестр недобросовестных поставщиков (РНП)».</li>
+      <li>Введите ИНН, ОГРН или наименование организации в строку поиска.</li>
+      <li>Проверьте карточку записи: дата включения, основание (уклонение или расторжение), номер контракта, срок исключения.</li>
+    </ol>
+    <p><b>Чем грозит запись в РНП.</b> Два года организация и её учредители не допускаются к закупкам, где заказчик установил требование об отсутствии в реестре, — а его ставит подавляющее большинство заказчиков. Для исполнителя под казначейским сопровождением риск двойной: срыв контракта из-за возвратов платежей и блокировок ведёт к одностороннему расторжению, а расторжение — прямое основание для РНП. Поэтому проблемы с санкционированием разумно решать до того, как заказчик потеряет терпение — см. разбор про <a href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/">причины отказов казначейства</a>.</p>
 
     <h2 id="procedura">Процедура: как проходит заседание в ФАС</h2>
     <p>Включение в реестр — это не автоматическая запись, а результат разбирательства. Заказчик направляет в территориальный орган ФАС обращение со сведениями о поставщике и документами, подтверждающими основание. Дальше антимонопольный орган проверяет факты и проводит заседание.</p>

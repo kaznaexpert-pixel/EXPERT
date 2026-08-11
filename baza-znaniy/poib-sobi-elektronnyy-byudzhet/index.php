@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"giis"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "ПОИБ/СОБИ ГИИС «Электронный бюджет»: что это и как войти в защищённый контур", "description": "ПОИБ/СОБИ Федерального казначейства: что это за подсистема ГИИС «Электронный бюджет», как назначаются полномочия и как войти в защищённый контур через Континент TLS.", "inLanguage": "ru-RU", "datePublished": "2026-06-24", "dateModified": "2026-08-10", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/poib-sobi-elektronnyy-byudzhet/"}, "citation": ["Раздел «Система обеспечения безопасности информации» Федерального казначейства (roskazna.gov.ru): назначение ПОИБ/СОБИ, точки входа, требования.", "ПОИБ/СОБИ: памятки и инструкции (руководство пользователя, инструкция по регистрации) на сайте Федерального казначейства.", "Инструкции по настройке рабочего места для ГИИС «Электронный бюджет» (территориальные органы Федерального казначейства).", "Сообщения Федерального казначейства об обновлении сертификата сервера «Континент TLS VPN».", "Сообщение о переносе входа в компонент казначейского сопровождения на eb.cert.roskazna.ru.", "Федеральный закон от 06.04.2011 № 63-ФЗ «Об электронной подписи». КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_112701/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "ПОИБ/СОБИ ГИИС «Электронный бюджет»: что это и как войти в защищённый контур", "description": "ПОИБ/СОБИ Федерального казначейства: что это за подсистема ГИИС «Электронный бюджет», как назначаются полномочия и как войти в защищённый контур через Континент TLS.", "inLanguage": "ru-RU", "datePublished": "2026-06-24", "dateModified": "2026-08-11", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/poib-sobi-elektronnyy-byudzhet/"}, "citation": ["Раздел «Система обеспечения безопасности информации» Федерального казначейства (roskazna.gov.ru): назначение ПОИБ/СОБИ, точки входа, требования.", "ПОИБ/СОБИ: памятки и инструкции (руководство пользователя, инструкция по регистрации) на сайте Федерального казначейства.", "Инструкции по настройке рабочего места для ГИИС «Электронный бюджет» (территориальные органы Федерального казначейства).", "Сообщения Федерального казначейства об обновлении сертификата сервера «Континент TLS VPN».", "Сообщение о переносе входа в компонент казначейского сопровождения на eb.cert.roskazna.ru.", "Федеральный закон от 06.04.2011 № 63-ФЗ «Об электронной подписи». КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_112701/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "ПОИБ/СОБИ Электронного бюджета", "item": "https://kaznaexpert.ru/baza-znaniy/poib-sobi-elektronnyy-byudzhet/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="ПОИБ/СОБИ ГИИС «Электронный бюджет»: что это и как войти — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-24T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-10T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-11T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -175,7 +175,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · ГИИС и ЭЦП <span class="fresh">Актуально на 2026</span></div>
     <h1>ПОИБ/СОБИ ГИИС «Электронный бюджет»: что это и как войти в защищённый контур</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>12 мин чтения</span><span class="dot">·</span><span>Обновлено 10 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>12 мин чтения</span><span class="dot">·</span><span>Обновлено 11 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -301,6 +301,18 @@
       <li><b>Полномочия.</b> Если вход выполнен, но нужных разделов нет — дело в полномочиях: их либо не назначили в подсистеме, либо заявку не утвердили.</li>
     </ol>
     <p>Такой порядок экономит время: бессмысленно переустанавливать сертификаты, если не поднят защищённый канал, и бессмысленно искать ошибку в канале, если на самом деле просто не выданы роли. По сложным случаям подключения работает единый контактный центр Федерального казначейства — туда имеет смысл обращаться, когда первые четыре уровня проверены, а проблема осталась.</p>
+
+    
+    <h2 id="vhod-poshagovo">Вход в ПОИБ СОБИ: пошагово</h2>
+    <div class="answer reveal"><p>Вход в ПОИБ СОБИ выполняется по сертификату квалифицированной электронной подписи через защищённое соединение на sobi.cert.roskazna.ru. Пошагово: установить криптопровайдер и «Континент TLS-клиент», добавить корневые сертификаты удостоверяющего центра, открыть адрес входа в браузере с поддержкой ГОСТ, выбрать сертификат и подтвердить вход.</p></div>
+    <ol>
+      <li>Убедитесь, что сертификат подписи действует, а криптопровайдер (например, КриптоПро CSP) установлен и лицензирован.</li>
+      <li>Установите и настройте «Континент TLS-клиент», добавьте в конфигурацию адрес sobi.cert.roskazna.ru.</li>
+      <li>Установите корневые сертификаты удостоверяющего центра Федерального казначейства.</li>
+      <li>Откройте sobi.cert.roskazna.ru в браузере с поддержкой ГОСТ-криптоалгоритмов.</li>
+      <li>Выберите сертификат при запросе и войдите; при первом входе проверьте назначенные в ПОИБ полномочия.</li>
+    </ol>
+    <p>Если на любом шаге возникает ошибка — начните с раздела диагностики ниже: подавляющее большинство сбоев связано с каналом «Континент TLS» и сертификатами, а не с самой подсистемой.</p>
 
     <h2 id="diagnostika-tls">Диагностика входа и ошибки Континент TLS</h2>
     <div class="answer reveal"><p>Большинство проблем со входом на sobi.cert.roskazna.ru связаны не с самой подсистемой, а с настройкой защищённого канала «Континент TLS» и сертификатов на рабочем месте. Прежде чем писать в казначейство, проверьте канал, сертификаты и время на компьютере.</p></div>

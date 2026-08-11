@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"giis"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "ГИИС «Электронный бюджет» для исполнителя контракта: подключение, вход по сертификату, личный кабинет", "description": "ГИИС «Электронный бюджет» для исполнителя контракта: карта подсистем и адресов входа, чем отличается от СУФД, как подключиться через ТОФК и войти по подписи.", "inLanguage": "ru-RU", "datePublished": "2026-06-13", "dateModified": "2026-08-04", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_182473/", "https://minfin.gov.ru/ru/ismf/electronic_budget/connect/regional/order/", "https://roskazna.gov.ru/gis/ehlektronnyj-byudzhet/", "https://www.consultant.ru/document/cons_doc_LAW_19702/68f24d27edee7d0ca5315de64a951b15f0af209f/", "https://www.consultant.ru/document/cons_doc_LAW_208093/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "ГИИС «Электронный бюджет» для исполнителя контракта: подключение, вход по сертификату, личный кабинет", "description": "ГИИС «Электронный бюджет» для исполнителя контракта: карта подсистем и адресов входа, чем отличается от СУФД, как подключиться через ТОФК и войти по подписи.", "inLanguage": "ru-RU", "datePublished": "2026-06-13", "dateModified": "2026-08-11", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_182473/", "https://minfin.gov.ru/ru/ismf/electronic_budget/connect/regional/order/", "https://roskazna.gov.ru/gis/ehlektronnyj-byudzhet/", "https://www.consultant.ru/document/cons_doc_LAW_19702/68f24d27edee7d0ca5315de64a951b15f0af209f/", "https://www.consultant.ru/document/cons_doc_LAW_208093/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Электронный бюджет для исполнителя", "item": "https://kaznaexpert.ru/baza-znaniy/elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta/"}]}
@@ -298,16 +298,9 @@
     <div class="note"><b>Очерёдность.</b> Подпись (ФЗС) → настройка АРМ → заявка на подключение и открытие счёта → работа в личном кабинете. Перепрыгнуть шаг подписи или АРМ не получится: система просто не пустит.</div>
 
     <h2 id="vhod">Вход по сертификату</h2>
-    <p>Вход в закрытую часть выполняется не логином и паролем, а сертификатом электронной подписи. Браузер обращается к серверу казначейства по защищённому каналу, система проверяет ваш сертификат и сопоставляет его с профилем организации.</p>
-    <ol>
-      <li>Подключите носитель с ключом ЭП (токен) к рабочей станции.</li>
-      <li>Откройте точку входа в личный кабинет на едином портале и выберите вход по сертификату.</li>
-      <li>Укажите нужный сертификат уполномоченного сотрудника и подтвердите PIN-кодом носителя.</li>
-      <li>Система сверяет подпись, полномочия и допуск — и открывает доступные подсистемы.</li>
-    </ol>
-    <p>Если вход не проходит, в девяти случаях из десяти дело не в самом «Электронном бюджете», а в рабочем месте: не установлен корневой сертификат, истёк личный сертификат, не запущен защищённый канал или браузер обновился до несовместимой версии. Разбор частых проблем — ниже.</p>
-
-    <h2 id="lk">Личный кабинет: что внутри</h2>
+    <p>Вход в «Электронный бюджет» выполняется по сертификату квалифицированной электронной подписи через личный кабинет соответствующей подсистемы. Коротко: настроенное рабочее место (криптопровайдер, ГОСТ-браузер, корневые сертификаты) → страница входа подсистемы → выбор сертификата → подтверждение. Пошаговая инструкция входа по сертификату со всеми настройками и разбором ошибок — в отдельном материале: <a href="https://kazna-gov.ru/blog/vhod-v-elektronnyy-byudzhet-po-sertifikatu" rel="noopener">вход в «Электронный бюджет» по сертификату</a>.</p>
+    <p>На этой странице фокус — работа исполнителя контракта после входа: подсистемы, полномочия, сведения об операциях и санкционирование платежей.</p>
+<h2 id="lk">Личный кабинет: что внутри</h2>
     <p>После входа исполнитель видит рабочий стол с доступными подсистемами. Ориентиры для первых недель:</p>
     <table>
       <caption>Что делать в личном кабинете и в какой последовательности</caption>
