@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"article", cluster:"ecp"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Сертификат казначейства (ЭЦП): как получить в 2026 году", "description": "Сертификат казначейства: какие бывают сертификаты УЦ ФК, кому нужна ЭЦП казначейства, документы и ФЗС, подключение к «Электронному бюджету», продление.", "datePublished": "2026-06-05T10:00:00+03:00", "dateModified": "2026-08-05", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/sertifikat-ecp-kaznachejstvo/"}, "image": "https://kaznaexpert.ru/img/og-image.png", "citation": ["https://roskazna.gov.ru/gis/udostoveryayushchij-centr/onlajn-servis-podachi-dokumentov-dlya-polucheniya-sertifikatov-portal-zayavitelya", "https://roskazna.gov.ru/gis/udostoveryayushchij-centr/", "https://iitrust.ru/articles/expert/elektronnaya-podpis-v-gosudarstvennyh-udostoveryaushhih-tsentrah-kak-poluchit-sertifikat-v-uts-fns-uts-fk-i-uts-banka-rossii/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Сертификат казначейства (ЭЦП): как получить в 2026 году", "description": "Сертификат казначейства: какие бывают сертификаты УЦ ФК, кому нужна ЭЦП казначейства, документы и ФЗС, подключение к «Электронному бюджету», продление.", "datePublished": "2026-06-05T10:00:00+03:00", "dateModified": "2026-08-11", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/sertifikat-ecp-kaznachejstvo/"}, "image": "https://kaznaexpert.ru/img/og-image.png", "citation": ["https://roskazna.gov.ru/gis/udostoveryayushchij-centr/onlajn-servis-podachi-dokumentov-dlya-polucheniya-sertifikatov-portal-zayavitelya", "https://roskazna.gov.ru/gis/udostoveryayushchij-centr/", "https://iitrust.ru/articles/expert/elektronnaya-podpis-v-gosudarstvennyh-udostoveryaushhih-tsentrah-kak-poluchit-sertifikat-v-uts-fns-uts-fk-i-uts-banka-rossii/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Сертификат и ЭЦП казначейства"}]}
@@ -173,7 +173,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · ГИИС и ЭЦП <span class="fresh">Актуально на 2026</span></div>
     <h1>Сертификат казначейства и ЭЦП: как получить в 2026 году</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 5 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 11 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -282,6 +282,27 @@
       <p><b>Экспортируемый ключ</b> можно скопировать с носителя на другой токен или в файл — удобно для резервной копии, но менее безопасно. <b>Неэкспортируемый ключ</b> привязан к носителю и скопировать его нельзя — это надёжнее и предпочтительно для работы с государственными системами.</p>
       <div class="note"><b>Рекомендация:</b> для подписи казначейства выбирайте <b>неэкспортируемый</b> закрытый ключ. Это снижает риск компрометации; при необходимости запасной сертификат проще выпустить заново, чем восстанавливать утёкший ключ.</div>
     </div>
+
+    
+    <h2 id="ustanovka">Установка сертификата казначейства: пошагово</h2>
+    <div class="answer reveal"><p>Полученный в удостоверяющем центре Федерального казначейства сертификат устанавливается на рабочее место через криптопровайдер: сертификат привязывается к закрытому ключу в КриптоПро CSP, корневые сертификаты удостоверяющего центра помещаются в хранилище «Доверенные корневые центры», после чего подпись становится видна в браузере и системах казначейства.</p></div>
+    <ol>
+      <li>Установите КриптоПро CSP актуальной версии и проверьте лицензию.</li>
+      <li>Подключите носитель с закрытым ключом (токен) и убедитесь, что контейнер виден: КриптоПро CSP → «Сервис» → «Просмотреть сертификаты в контейнере».</li>
+      <li>Установите личный сертификат в хранилище «Личное» с привязкой к контейнеру закрытого ключа.</li>
+      <li>Установите цепочку корневых сертификатов удостоверяющего центра Федерального казначейства (головной и промежуточные) в соответствующие хранилища.</li>
+      <li>Установите ГОСТ-браузер или плагин и проверьте, что сертификат предлагается при входе в «Электронный бюджет».</li>
+    </ol>
+
+    <h2 id="oshibki-ustanovki">Типовые ошибки установки и как их устранить</h2>
+    <ul>
+      <li><b>«Сертификат не виден в браузере».</b> Чаще всего не установлена цепочка корневых сертификатов или сертификат лёг в чужое хранилище — переустановите его в «Личное» с привязкой к контейнеру.</li>
+      <li><b>«Закрытый ключ не найден».</b> Сертификат установлен без привязки к контейнеру: повторите установку через «Просмотреть сертификаты в контейнере».</li>
+      <li><b>«Цепочка сертификатов не завершена».</b> Отсутствует промежуточный сертификат удостоверяющего центра — установите полную цепочку с официального сайта Казначейства.</li>
+      <li><b>Подпись работает на одном компьютере и не работает на другом.</b> Ключ неэкспортируемый — это штатное ограничение безопасности, работайте с носителя на настроенном рабочем месте.</li>
+      <li><b>Система не принимает подпись после продления.</b> В браузере закеширован старый сертификат: удалите его из «Личного», установите новый и перезапустите браузер.</li>
+    </ul>
+    <p>Если ошибка не из списка — сверьте настройку рабочего места по разборам <a href="/baza-znaniy/kornevye-sertifikaty-kaznachejstva/">корневых сертификатов казначейства</a> и <a href="/baza-znaniy/poib-sobi-elektronnyy-byudzhet/">входа в ПОИБ СОБИ</a>.</p>
 
     <h2 id="eb">Подключение к ГИИС «Электронный бюджет»</h2>
     <div class="answer reveal">
