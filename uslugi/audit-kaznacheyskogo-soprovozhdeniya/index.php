@@ -25,7 +25,7 @@
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Service", "datePublished": "2026-06-25", "dateModified": "2026-06-25", "name": "Аудит казначейского сопровождения контракта", "serviceType": "Независимая проверка казначейского сопровождения (второе мнение)", "description": "Независимый аудит казначейского сопровождения контракта: проверка применимости, открытия счёта, санкционирования, раздельного учёта, сведений и отчётности. Отчёт с приоритизацией рисков и планом исправления. NDA, 15 лет практики в Казначействе.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/audit-kaznacheyskogo-soprovozhdeniya/", "offers": {"@type": "Offer", "price": "160000", "priceCurrency": "RUB", "description": "Полный аудит казначейского сопровождения с отчётом и планом исправления", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/audit-kaznacheyskogo-soprovozhdeniya/"}}
+{"@context": "https://schema.org", "@type": "Service", "datePublished": "2026-06-25", "dateModified": "2026-08-11", "name": "Аудит казначейского сопровождения контракта", "serviceType": "Независимая проверка казначейского сопровождения (второе мнение)", "description": "Независимый аудит казначейского сопровождения контракта: проверка применимости, открытия счёта, санкционирования, раздельного учёта, сведений и отчётности. Отчёт с приоритизацией рисков и планом исправления. NDA, 15 лет практики в Казначействе.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/audit-kaznacheyskogo-soprovozhdeniya/", "offers": {"@type": "Offer", "price": "160000", "priceCurrency": "RUB", "description": "Полный аудит казначейского сопровождения с отчётом и планом исправления", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/audit-kaznacheyskogo-soprovozhdeniya/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Аудит казначейского сопровождения"}]}
@@ -306,7 +306,7 @@
 
 <section class="v2-section" aria-label="Актуальность страницы">
   <div class="v2-container">
-    <p class="v2-freshness">Страница актуальна на <time datetime="2026-06-25">25 июня 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
+    <p class="v2-freshness">Страница актуальна на <time datetime="2026-08-11">11 августа 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
   </div>
 </section>
 
