@@ -25,7 +25,7 @@
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"schet"};</script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Как открыть казначейский счёт (лицевой счёт 71) в ТОФК: порядок и сроки 2026", "description": "Лицевой счёт с кодом 71: кому и когда нужен, какие документы, как открыть через ГИИС «Электронный бюджет», сроки и частые задержки. Порядок открытия счёта казначейского сопровождения в 2026.", "inLanguage": "ru-RU", "datePublished": "2026-06-04", "dateModified": "2026-08-10", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/licevoy-schet-71-kak-otkryt/"}, "citation": ["http://publication.pravo.gov.ru/", "https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/", "https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Как открыть казначейский счёт (лицевой счёт 71) в ТОФК: порядок и сроки 2026", "description": "Лицевой счёт с кодом 71: кому и когда нужен, какие документы, как открыть через ГИИС «Электронный бюджет», сроки и частые задержки. Порядок открытия счёта казначейского сопровождения в 2026.", "inLanguage": "ru-RU", "datePublished": "2026-06-04", "dateModified": "2026-08-11", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/licevoy-schet-71-kak-otkryt/"}, "citation": ["http://publication.pravo.gov.ru/", "https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/", "https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Как открыть лицевой счёт 71 в ТОФК"}]}
@@ -88,7 +88,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-04T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-10T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-11T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -189,7 +189,8 @@
       <button type="button" id="printBtn"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9V2h12v7M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2M6 14h12v8H6z"/></svg>Скачать PDF</button>
     </div>
 
-    <details class="mtoc"><summary>Содержание статьи</summary>
+    <details><summary>Чем лицевой счёт отличается от казначейского счёта?</summary><p>Казначейский счёт — банковский счёт Федерального казначейства в Банке России (начинается с 03). Лицевой счёт — учётный счёт организации внутри казначейского: на нём отражаются именно ваши средства и операции. Исполнителю контракта открывают лицевой счёт, а в платёжных реквизитах указываются оба.</p></details>
+      <details class="mtoc"><summary>Содержание статьи</summary>
       <ol>
         <li><a href="#chto-takoe">Что такое счёт 71</a></li><li><a href="#komu">Кому и когда нужен</a></li>
         <li><a href="#shagi">Как открыть: пошагово</a></li><li><a href="#dokumenty">Документы</a></li>
@@ -233,6 +234,8 @@
     </table>
     <div class="note"><b>Важно.</b> Конкретный режim определяется условиями контракта: в нём должна быть казначейская оговорка о сопровождении. Счёт «71» открывается под контракт — если контрактов несколько, по каждому ведётся свой раздел на едином лицевом счёте.</div>
 
+    
+    <p><b>Если вы ищете, как «открыть лицевой счёт»</b> — без слова «казначейский», — речь почти всегда о том же счёте: лицевой счёт в казначействе открывается участнику казначейского сопровождения в территориальном органе Федерального казначейства по заявлению через «Электронный бюджет». Разница терминов условна: «казначейский счёт» — банковский счёт казначейства в Банке России, а «лицевой счёт» — ваш аналитический счёт внутри него, на котором учитываются средства организации. Открывают исполнителю именно лицевой счёт.</p>
     <h2 id="shagi">Как открыть лицевой счёт 71: пошагово</h2>
     <div class="answer reveal">
       <!-- neuro-open --><p>Чтобы открыть казначейский счёт (лицевой счёт с кодом «71»), исполнитель контракта подаёт электронное заявление на открытие лицевого счёта в территориальный орган Федерального казначейства (ТОФК) через ГИИС «Электронный бюджет». Основание — государственный контракт с условием о казначейском сопровождении и включение в Сводный реестр участников и неучастников бюджетного процесса. Раздел по контракту открывают, как правило, не позднее следующего рабочего дня после корректного комплекта документов; номер счёта можно зарезервировать заранее.</p>
