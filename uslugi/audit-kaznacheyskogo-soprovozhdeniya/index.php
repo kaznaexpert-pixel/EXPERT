@@ -25,7 +25,7 @@
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Service", "datePublished": "2026-06-25", "dateModified": "2026-06-25", "name": "Аудит казначейского сопровождения контракта", "serviceType": "Независимая проверка казначейского сопровождения (второе мнение)", "description": "Независимый аудит казначейского сопровождения контракта: проверка применимости, открытия счёта, санкционирования, раздельного учёта, сведений и отчётности. Отчёт с приоритизацией рисков и планом исправления. NDA, 15 лет практики в Казначействе.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/audit-kaznacheyskogo-soprovozhdeniya/"}
+{"@context": "https://schema.org", "@type": "Service", "datePublished": "2026-06-25", "dateModified": "2026-06-25", "name": "Аудит казначейского сопровождения контракта", "serviceType": "Независимая проверка казначейского сопровождения (второе мнение)", "description": "Независимый аудит казначейского сопровождения контракта: проверка применимости, открытия счёта, санкционирования, раздельного учёта, сведений и отчётности. Отчёт с приоритизацией рисков и планом исправления. NDA, 15 лет практики в Казначействе.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/audit-kaznacheyskogo-soprovozhdeniya/", "offers": {"@type": "Offer", "price": "160000", "priceCurrency": "RUB", "description": "Полный аудит казначейского сопровождения с отчётом и планом исправления", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/audit-kaznacheyskogo-soprovozhdeniya/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Аудит казначейского сопровождения"}]}
@@ -283,7 +283,7 @@
         <div class="v2-tariff-stage">Основное</div>
         <h3>Полный аудит сопровождения</h3>
         <p class="v2-tariff-desc">Проверка всей цепочки с отчётом: риски по приоритету, последствия и план исправления.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">смета</div><div class="v2-tariff-price-note">После диагностики · в договоре</div><a href="#zayavka" class="v2-tariff-link">Обсудить <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">160 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Фиксированная цена · в договоре</div><a href="#zayavka" class="v2-tariff-link">Обсудить <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">03</div>
         <div class="v2-tariff-stage">Дальше</div>
