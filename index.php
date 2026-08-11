@@ -1736,43 +1736,14 @@
     <!-- ============================================================ -->
     <!-- COOKIE CONSENT (152-ФЗ) — баннер + модалка настроек            -->
     <!-- ============================================================ -->
-    <div class="cookie-banner" id="cookie-banner" role="dialog" aria-label="Согласие на использование cookie" aria-live="polite" hidden>
+    <div class="cookie-banner" id="cookie-banner" role="dialog" aria-label="Уведомление об использовании cookie" aria-live="polite" hidden>
       <div class="cookie-banner-inner">
         <div class="cookie-banner-text">
           <strong>Мы используем файлы cookie</strong>
-          <p>Необходимые cookie обеспечивают работу сайта и формы заявки. Аналитика (Яндекс.Метрика, РФ — без трансграничной передачи данных) включается только с вашего согласия. Подробнее — в <a href="/privacy/">Политике конфиденциальности</a>.</p>
+          <p>Сайт использует cookie и Яндекс.Метрику (данные хранятся в РФ, без трансграничной передачи) для корректной работы и анонимной статистики посещений. Продолжая пользоваться сайтом, вы соглашаетесь с этим. Подробнее — в <a href="/privacy/">Политике конфиденциальности</a>.</p>
         </div>
         <div class="cookie-banner-actions">
-          <button type="button" class="cookie-btn cookie-btn--ghost" id="cookie-settings">Настройки</button>
-          <button type="button" class="cookie-btn cookie-btn--ghost" id="cookie-reject">Только необходимые</button>
-          <button type="button" class="cookie-btn cookie-btn--solid" id="cookie-accept-all">Принять все</button>
-        </div>
-      </div>
-    </div>
-
-    <div class="cookie-modal" id="cookie-modal" role="dialog" aria-modal="true" aria-labelledby="cookie-modal-title" hidden>
-      <div class="cookie-modal-backdrop" id="cookie-modal-backdrop"></div>
-      <div class="cookie-modal-card">
-        <h2 class="cookie-modal-title" id="cookie-modal-title">Настройки cookie</h2>
-        <div class="cookie-cat">
-          <div class="cookie-cat-row">
-            <div class="cookie-cat-info">
-              <strong>Необходимые</strong>
-              <span>Работа сайта, формы заявки и хранение вашего выбора cookie. Отключить нельзя.</span>
-            </div>
-            <span class="cookie-cat-locked">Всегда вкл.</span>
-          </div>
-          <label class="cookie-cat-row">
-            <div class="cookie-cat-info">
-              <strong>Аналитика</strong>
-              <span>Яндекс.Метрика — анонимная статистика посещений. Данные хранятся в РФ, без трансграничной передачи.</span>
-            </div>
-            <input type="checkbox" id="cookie-cat-analytics" class="cookie-toggle" checked>
-          </label>
-        </div>
-        <div class="cookie-modal-actions">
-          <button type="button" class="cookie-btn cookie-btn--ghost" id="cookie-modal-close">Отмена</button>
-          <button type="button" class="cookie-btn cookie-btn--solid" id="cookie-modal-save">Сохранить выбор</button>
+          <button type="button" class="cookie-btn cookie-btn--solid" id="cookie-ok">Понятно</button>
         </div>
       </div>
     </div>

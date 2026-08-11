@@ -48,22 +48,25 @@
   var banner;
   function hide(el) { if (el) el.hidden = true; }
 
-  // Перерисовка баннера в информационный вид (актуальный текст на всех страницах)
+  // Разметка уведомления задана в HTML (кнопка «Понятно»).
+  // Fallback: если на странице осталась старая consent-разметка — перерисовываем в уведомление.
   function renderNotice() {
     if (!banner) return;
-    banner.setAttribute('aria-label', 'Уведомление об использовании cookie');
-    banner.innerHTML =
-      '<div class="cookie-banner-inner">' +
-        '<div class="cookie-banner-text">' +
-          '<strong>Мы используем файлы cookie</strong>' +
-          '<p>Сайт использует cookie и Яндекс.Метрику (данные хранятся в РФ, без трансграничной передачи) ' +
-          'для корректной работы и анонимной статистики посещений. Продолжая пользоваться сайтом, ' +
-          'вы соглашаетесь с этим. Подробнее — в <a href="/privacy/">Политике конфиденциальности</a>.</p>' +
-        '</div>' +
-        '<div class="cookie-banner-actions">' +
-          '<button type="button" class="cookie-btn cookie-btn--solid" id="cookie-ok">Понятно</button>' +
-        '</div>' +
-      '</div>';
+    if (!document.getElementById('cookie-ok')) {
+      banner.setAttribute('aria-label', 'Уведомление об использовании cookie');
+      banner.innerHTML =
+        '<div class="cookie-banner-inner">' +
+          '<div class="cookie-banner-text">' +
+            '<strong>Мы используем файлы cookie</strong>' +
+            '<p>Сайт использует cookie и Яндекс.Метрику (данные хранятся в РФ, без трансграничной передачи) ' +
+            'для корректной работы и анонимной статистики посещений. Продолжая пользоваться сайтом, ' +
+            'вы соглашаетесь с этим. Подробнее — в <a href="/privacy/">Политике конфиденциальности</a>.</p>' +
+          '</div>' +
+          '<div class="cookie-banner-actions">' +
+            '<button type="button" class="cookie-btn cookie-btn--solid" id="cookie-ok">Понятно</button>' +
+          '</div>' +
+        '</div>';
+    }
     var ok = document.getElementById('cookie-ok');
     if (ok) ok.addEventListener('click', function () { saveAck(); hide(banner); });
   }
@@ -79,9 +82,6 @@
     loadMetrika();
 
     banner = document.getElementById('cookie-banner');
-    var modal = document.getElementById('cookie-modal');
-    hide(modal); // старая модалка настроек больше не используется
-
     if (banner) {
       renderNotice();
       banner.hidden = isAcked();

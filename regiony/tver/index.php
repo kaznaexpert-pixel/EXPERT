@@ -89,6 +89,7 @@
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
+<style>.v2-freshness{border-top:1px solid rgba(0,0,0,.08);margin-top:8px;padding:18px 0 4px;font-size:14px;line-height:1.5;color:rgba(20,19,16,.58);text-align:center}.v2-freshness time{font-variant-numeric:tabular-nums;white-space:nowrap}@media (max-width:640px){.v2-freshness{font-size:13px;padding:14px 0 2px}}</style>
 </head>
 <body>
 <a href="#main" class="skip">Перейти к содержанию</a>
@@ -298,6 +299,12 @@
   </div>
 </section>
 
+<section class="v2-section" aria-label="Актуальность страницы">
+  <div class="v2-container">
+    <p class="v2-freshness">Страница актуальна на <time datetime="2026-07-23">23 июля 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
+  </div>
+</section>
+
 <section class="v2-section v2-screen" id="zayavka">
   <div class="v2-container">
     <div class="v2-section-head"><div class="v2-section-eyebrow">Заявка</div><h2 class="v2-section-title">Казначейское сопровождение в Твери</h2><p class="v2-section-lede">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт ваш контракт и назовёт точную стоимость.</p></div>
@@ -420,43 +427,14 @@
 
 <button class="totop" id="toTop" type="button" aria-label="Наверх · прочитано" title="Наверх"><svg class="totop__ring" width="48" height="48" viewBox="0 0 48 48" aria-hidden="true"><circle class="totop__bg" cx="24" cy="24" r="21"/><circle class="totop__fg" id="totopRing" cx="24" cy="24" r="21"/></svg><svg class="totop__arrow" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg><span class="totop__pct" id="totopPct" aria-live="off">0%</span></button>
 
-<div class="cookie-banner" id="cookie-banner" role="dialog" aria-label="Согласие на использование cookie" aria-live="polite" hidden>
+<div class="cookie-banner" id="cookie-banner" role="dialog" aria-label="Уведомление об использовании cookie" aria-live="polite" hidden>
       <div class="cookie-banner-inner">
         <div class="cookie-banner-text">
           <strong>Мы используем файлы cookie</strong>
-          <p>Необходимые cookie обеспечивают работу сайта и формы заявки. Аналитика (Яндекс.Метрика, РФ — без трансграничной передачи данных) включается только с вашего согласия. Подробнее — в <a href="/privacy/">Политике конфиденциальности</a>.</p>
+          <p>Сайт использует cookie и Яндекс.Метрику (данные хранятся в РФ, без трансграничной передачи) для корректной работы и анонимной статистики посещений. Продолжая пользоваться сайтом, вы соглашаетесь с этим. Подробнее — в <a href="/privacy/">Политике конфиденциальности</a>.</p>
         </div>
         <div class="cookie-banner-actions">
-          <button type="button" class="cookie-btn cookie-btn--ghost" id="cookie-settings">Настройки</button>
-          <button type="button" class="cookie-btn cookie-btn--ghost" id="cookie-reject">Только необходимые</button>
-          <button type="button" class="cookie-btn cookie-btn--solid" id="cookie-accept-all">Принять все</button>
-        </div>
-      </div>
-    </div>
-
-    <div class="cookie-modal" id="cookie-modal" role="dialog" aria-modal="true" aria-labelledby="cookie-modal-title" hidden>
-      <div class="cookie-modal-backdrop" id="cookie-modal-backdrop"></div>
-      <div class="cookie-modal-card">
-        <h2 class="cookie-modal-title" id="cookie-modal-title">Настройки cookie</h2>
-        <div class="cookie-cat">
-          <div class="cookie-cat-row">
-            <div class="cookie-cat-info">
-              <strong>Необходимые</strong>
-              <span>Работа сайта, формы заявки и хранение вашего выбора cookie. Отключить нельзя.</span>
-            </div>
-            <span class="cookie-cat-locked">Всегда вкл.</span>
-          </div>
-          <label class="cookie-cat-row">
-            <div class="cookie-cat-info">
-              <strong>Аналитика</strong>
-              <span>Яндекс.Метрика — анонимная статистика посещений. Данные хранятся в РФ, без трансграничной передачи.</span>
-            </div>
-            <input type="checkbox" id="cookie-cat-analytics" class="cookie-toggle" checked>
-          </label>
-        </div>
-        <div class="cookie-modal-actions">
-          <button type="button" class="cookie-btn cookie-btn--ghost" id="cookie-modal-close">Отмена</button>
-          <button type="button" class="cookie-btn cookie-btn--solid" id="cookie-modal-save">Сохранить выбор</button>
+          <button type="button" class="cookie-btn cookie-btn--solid" id="cookie-ok">Понятно</button>
         </div>
       </div>
     </div>
@@ -613,23 +591,6 @@
   cl&&cl.addEventListener('click',function(){g('copy_link');});
   pb&&pb.addEventListener('click',function(){g('print_pdf');});
   document.querySelectorAll('.share a[href*="t.me/share"]').forEach(function(a){a.addEventListener('click',function(){g('share_telegram');});});
-})();
-/* cookie consent */
-(function(){
-  var KEY='ke_cookie_consent',bar=document.getElementById('ckBar');if(!bar)return;
-  function read(){try{return localStorage.getItem(KEY);}catch(e){return null;}}
-  function write(v){try{localStorage.setItem(KEY,v);}catch(e){}}
-  function show(){bar.hidden=false;requestAnimationFrame(function(){bar.classList.add('on');bar.classList.remove('off');});}
-  function hide(){bar.classList.add('off');bar.classList.remove('on');setTimeout(function(){bar.hidden=true;},450);}
-  function disable(){try{window['yaDisableMetrika']=true;window.ym=function(){};}catch(e){}}
-  function publish(v){document.documentElement.setAttribute('data-cookie-consent',v);}
-  document.getElementById('ckAccept').addEventListener('click',function(){write('all');publish('all');hide();});
-  document.getElementById('ckDecline').addEventListener('click',function(){write('necessary');publish('necessary');disable();hide();});
-  var rs=document.getElementById('ckSettings');if(rs)rs.addEventListener('click',function(e){e.preventDefault();show();});
-  var s=read();
-  if(s==='necessary'){publish('necessary');disable();}
-  else if(s==='all'){publish('all');}
-  else{publish('pending');setTimeout(show,800);}
 })();
 </script>
 
