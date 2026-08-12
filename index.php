@@ -814,8 +814,8 @@
                 <h3>Обучение казначейскому сопровождению</h3>
                 <p class="v2-tariff-desc">Индивидуальный курс от практика — 9 академических часов на ваших реальных контрактах: счёт, санкционирование, раздельный учёт, ГИИС.</p>
                 <div class="v2-tariff-price">
-                  <div class="v2-tariff-price-num">120 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div>
-                  <div class="v2-tariff-price-note">Разово · сертификат</div>
+                  <div class="v2-tariff-price-num">150 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div>
+                  <div class="v2-tariff-price-note">Разово · второй сотрудник +50 000 ₽</div>
                   <a href="#contacts" class="v2-tariff-link" data-tariff="obuchenie">Обсудить программу <span aria-hidden="true">→</span></a>
                   <a href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" class="v2-tariff-more">Подробнее об услуге →</a>
                 </div>
@@ -833,7 +833,7 @@
                 <p style="font-family:var(--font-body);font-size:15px;line-height:1.62;color:#b9b3a7;margin:0">Индивидуальный курс от практика — 9 академических часов на ваших реальных контрактах: открытие счёта, санкционирование платежей, раздельный учёт и работа в ГИИС «Электронный бюджет».</p>
               </div>
               <div style="flex:0 0 auto;text-align:right;min-width:210px">
-                <div style="font-family:var(--font-display);font-size:36px;color:#fff;line-height:1;margin-bottom:6px">120 000<span style="font-size:21px">&nbsp;₽</span></div>
+                <div style="font-family:var(--font-display);font-size:36px;color:#fff;line-height:1;margin-bottom:6px">150 000<span style="font-size:21px">&nbsp;₽</span></div>
                 <div style="font-family:var(--font-body);font-size:13px;color:#8f8a80;margin-bottom:18px">9 академических часов</div>
                 <a href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" style="display:inline-block;background:#d8bd92;color:#1A1A1A;font-family:var(--font-body);font-weight:600;font-size:14px;padding:14px 28px;border-radius:11px;text-decoration:none">Записаться на обучение →</a>
               </div>
