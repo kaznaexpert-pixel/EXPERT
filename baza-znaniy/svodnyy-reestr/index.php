@@ -189,7 +189,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Счета в казначействе <span class="fresh">Актуально на 2026</span></div>
     <h1>Сводный реестр участников и неучастников бюджетного процесса: код, проверка, включение</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 3 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 11 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -443,7 +443,7 @@
         <li id="ref-4">Письмо Казначейства России от 02.02.2026 № 07-04-05/03-2410 «О направлении Методических материалов» (открытие лицевых счетов) — <a href="https://www.garant.ru/products/ipo/prime/doc/413982431/" target="_blank" rel="noopener">garant.ru</a></li>
         <li id="ref-5">Постановление Правительства РФ от 30.06.2015 № 658 «О государственной интегрированной информационной системе управления общественными финансами "Электронный бюджет"» — <a href="https://www.consultant.ru/document/cons_doc_LAW_182473/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>
-      <p class="refs__note">Материал актуален на 3 августа 2026 года. Формы заявок и состав сведений уточняйте в действующей редакции Порядка № 163н и памятках вашего ТОФК.</p>
+      <p class="refs__note">Материал актуален на 11 августа 2026 года. Формы заявок и состав сведений уточняйте в действующей редакции Порядка № 163н и памятках вашего ТОФК.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

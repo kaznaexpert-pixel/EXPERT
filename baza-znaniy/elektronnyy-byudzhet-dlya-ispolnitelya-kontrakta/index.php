@@ -191,7 +191,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · ГИИС и ЭЦП <span class="fresh">Актуально на 2026</span></div>
     <h1>ГИИС «Электронный бюджет» для исполнителя контракта: подключение, вход по сертификату, личный кабинет</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 4 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 11 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -454,7 +454,7 @@
         <li id="ref-3">Бюджетный кодекс РФ, глава 24.4 «Казначейское сопровождение» (ст. 242.23, ред. с изм. с 24.06.2025) — <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/68f24d27edee7d0ca5315de64a951b15f0af209f/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-4">Приказ Казначейства России от 17.10.2016 № 21н «О порядке открытия и ведения лицевых счетов территориальными органами Федерального казначейства» (ред. от 26.11.2025) — <a href="https://www.consultant.ru/document/cons_doc_LAW_208093/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>
-      <p class="refs__note">Материал актуален на 4 августа 2026 года. Состав заявки на подключение, требования к рабочему месту и перечень полномочий уточняйте в действующих регламентах и памятке вашего ТОФК.</p>
+      <p class="refs__note">Материал актуален на 11 августа 2026 года. Состав заявки на подключение, требования к рабочему месту и перечень полномочий уточняйте в действующих регламентах и памятке вашего ТОФК.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">
