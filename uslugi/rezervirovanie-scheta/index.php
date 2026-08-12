@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Резервирование счёта к дате тендера — 19 000 ₽</title>
-<meta name="description" content="Зарезервируем казначейский счёт за 1 рабочий день к дате тендера: подтверждение для заказчика, фиксация позиции в УФК, зачёт в открытие счёта. 19 000 ₽.">
+<title>Резервирование счёта к дате тендера — 25 000 ₽</title>
+<meta name="description" content="Зарезервируем казначейский счёт за 1 рабочий день к дате тендера: подтверждение для заказчика, фиксация позиции в УФК, зачёт в открытие счёта. 25 000 ₽.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -48,7 +48,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "19000",
+    "price": "25000",
     "priceCurrency": "RUB",
     "description": "Резервирование казначейского счёта под ключ, разово",
     "url": "https://kaznaexpert.ru/uslugi/rezervirovanie-scheta/"
@@ -504,7 +504,7 @@
         <div role="columnheader" class="v2-compare-head-cell">Штатный спец</div>
         <div role="columnheader" class="v2-compare-head-cell is-us">С КазнаЭксперт</div>
       </div>
-      <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Срок резерва</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Несколько дней с разбором</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Зависит от загрузки</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>1 рабочий день</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Подтверждение для заказчика</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Готовите сами</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">По компетенциям сотрудника</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>В комплекте</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Риск отклонения заявки</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Высокий без опыта</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Средний</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Минимальный</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Стоимость</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Ваше время + риск</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">120–180 тыс ₽/мес</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>19 000 ₽</strong> разово</div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Зачёт в открытие счёта</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Нет</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Нет</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Засчитываем</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Параллельные тендеры</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Путаница пакетов</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Ограничено ресурсом</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Ведём все сразу</strong></div></div>
+      <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Срок резерва</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Несколько дней с разбором</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Зависит от загрузки</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>1 рабочий день</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Подтверждение для заказчика</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Готовите сами</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">По компетенциям сотрудника</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>В комплекте</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Риск отклонения заявки</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Высокий без опыта</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Средний</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Минимальный</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Стоимость</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Ваше время + риск</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">120–180 тыс ₽/мес</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>25 000 ₽</strong> разово</div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Зачёт в открытие счёта</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Нет</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Нет</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Засчитываем</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Параллельные тендеры</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Путаница пакетов</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Ограничено ресурсом</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Ведём все сразу</strong></div></div>
     </div>
     <div class="v2-compare-cta"><a href="#zayavka">Обсудить ваш контракт <span aria-hidden="true">→</span></a></div>
   </div>
@@ -522,19 +522,19 @@
         <div class="v2-tariff-stage">До тендера</div>
         <h3>Резерв счёта к дате тендера</h3>
         <p class="v2-tariff-desc">Анализ тендера, подготовка заявки, подача в УФК, контроль статуса и подтверждение резервирования для заказчика.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">19 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 1 рабочий день · зачёт в открытие</div><a href="#zayavka" class="v2-tariff-link">Зарезервировать <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">25 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 1 рабочий день · зачёт в открытие</div><a href="#zayavka" class="v2-tariff-link">Зарезервировать <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">02</div>
         <div class="v2-tariff-stage">Победа в тендере</div>
         <h3>Открытие счёта за два дня</h3>
         <p class="v2-tariff-desc">Следующий шаг после победы: полный пакет документов и открытие счёта в УФК с первой подачи.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">29 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">35 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">03</div>
         <div class="v2-tariff-stage">После открытия</div>
         <h3>Сопровождение контракта</h3>
         <p class="v2-tariff-desc">Ведём контракт после открытия счёта: платежи, сведения, отчётность — до закрытия.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 55 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу контракта</div><a href="/uslugi/soprovozhdenie-postoplata/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 65 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу контракта</div><a href="/uslugi/soprovozhdenie-postoplata/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article></div>
     <p class="v2-tariffs-footnote">Точная стоимость — после анализа вашего контракта.</p>
   </div>

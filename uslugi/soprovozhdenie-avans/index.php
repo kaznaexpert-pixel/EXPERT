@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Сопровождение контракта с авансом — 89 000 ₽/мес</title>
+<title>Сопровождение контракта с авансом — 105 000 ₽/мес</title>
 <meta name="description" content="Полное казначейское сопровождение контракта с авансом: контроль целевого использования, санкционирование платежей, цепочка кооперации, раздельный учёт.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -48,7 +48,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "89000",
+    "price": "105000",
     "priceCurrency": "RUB",
     "description": "Ежемесячное сопровождение контракта с авансом, безлимит операций",
     "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-avans/"
@@ -480,7 +480,7 @@
         <div role="columnheader" class="v2-compare-head-cell">Штатный спец</div>
         <div role="columnheader" class="v2-compare-head-cell is-us">С КазнаЭксперт</div>
       </div>
-      <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Контроль целевого использования</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Зависит от опыта</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Не профиль бухгалтерии</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Проверяем каждый расход</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Лимит операций</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Ограничен ресурсом</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Ограничен</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Безлимит</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Цепочка кооперации</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Сложно вручную</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Риск ошибок</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Ведём все звенья</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Стоимость</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Штат от 120–180 тыс ₽/мес</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Перегрузка + ошибки</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>89 000 ₽/мес</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Сведения и сроки КоАП</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Риск просрочки</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Риск штрафа</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>В срок</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Реакция на запросы УФК</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">По загрузке</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Медленно</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>В тот же день</strong></div></div>
+      <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Контроль целевого использования</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Зависит от опыта</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Не профиль бухгалтерии</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Проверяем каждый расход</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Лимит операций</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Ограничен ресурсом</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Ограничен</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Безлимит</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Цепочка кооперации</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Сложно вручную</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Риск ошибок</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Ведём все звенья</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Стоимость</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Штат от 120–180 тыс ₽/мес</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Перегрузка + ошибки</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>105 000 ₽/мес</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Сведения и сроки КоАП</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Риск просрочки</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Риск штрафа</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>В срок</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Реакция на запросы УФК</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">По загрузке</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Медленно</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>В тот же день</strong></div></div>
     </div>
     <div class="v2-compare-cta"><a href="#zayavka">Обсудить ваш контракт <span aria-hidden="true">→</span></a></div>
   </div>
@@ -498,19 +498,19 @@
         <div class="v2-tariff-stage">Контракт с авансом</div>
         <h3>Полное сопровождение с авансом</h3>
         <p class="v2-tariff-desc">Контроль целевого использования, санкционирование платежей, цепочка кооперации, раздельный учёт и сведения — безлимит операций до закрытия контракта.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">89 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Чаще выбирают · безлимит операций</div><a href="#zayavka" class="v2-tariff-link">Обсудить контракт <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">105 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Чаще выбирают · безлимит операций</div><a href="#zayavka" class="v2-tariff-link">Обсудить контракт <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">02</div>
         <div class="v2-tariff-stage">Постоплата</div>
         <h3>Сопровождение постоплаты</h3>
         <p class="v2-tariff-desc">Если аванса нет, а нужна корректная постоплата — проведём без возвратов до зачисления средств.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 55 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу контракта</div><a href="/uslugi/soprovozhdenie-postoplata/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 65 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу контракта</div><a href="/uslugi/soprovozhdenie-postoplata/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">03</div>
         <div class="v2-tariff-stage">Старт</div>
         <h3>Открытие счёта за два дня</h3>
         <p class="v2-tariff-desc">Если счёт ещё не открыт — полный пакет документов и открытие в УФК с первой подачи.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">29 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">35 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article></div>
     <p class="v2-tariffs-footnote">Точная стоимость — после анализа вашего контракта.</p>
   </div>

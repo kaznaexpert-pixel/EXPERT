@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Постоплата по госконтракту без возвратов — 55 000 ₽</title>
+<title>Постоплата по госконтракту без возвратов — 65 000 ₽</title>
 <meta name="description" content="Проведём постоплату по госконтракту без возвратов и в срок: проверка документов, работа с казначейством, контроль до зачисления.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -48,7 +48,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "55000",
+    "price": "65000",
     "priceCurrency": "RUB",
     "description": "Сопровождение постоплаты по госконтракту, по этапу",
     "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-postoplata/"
@@ -149,7 +149,7 @@
       "name": "Сколько стоит сопровождение постоплатного контракта?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "55 000 ₽ в месяц. Это фиксированная цена, закреплённая в договоре, без «от» и без доплат за количество платежей и обращений."
+        "text": "65 000 ₽ в месяц. Это фиксированная цена, закреплённая в договоре, без «от» и без доплат за количество платежей и обращений."
       }
     }
   ]
@@ -479,7 +479,7 @@
         <div role="columnheader" class="v2-compare-head-cell">Штатный спец</div>
         <div role="columnheader" class="v2-compare-head-cell is-us">С КазнаЭксперт</div>
       </div>
-      <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Риск возврата платежа</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Высокий без опыта</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Зависит от сотрудника</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Минимальный</strong> · проверка до подачи</div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Повторная подача</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Ещё несколько дней</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">За счёт компании</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Без доплат</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Соблюдение срока контракта</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Под угрозой</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Зависит от загрузки</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>В срок</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Стоимость</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Ваше время + риск неустойки</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">120–180 тыс ₽/мес</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>55 000 ₽</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Раздельный учёт</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Риск ошибок</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">По компетенциям</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Учитываем</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Контроль до зачисления</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Сами отслеживаете</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Частично</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Ведём до средств на счёте</strong></div></div>
+      <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Риск возврата платежа</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Высокий без опыта</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Зависит от сотрудника</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Минимальный</strong> · проверка до подачи</div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Повторная подача</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Ещё несколько дней</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">За счёт компании</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Без доплат</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Соблюдение срока контракта</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Под угрозой</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Зависит от загрузки</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>В срок</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Стоимость</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Ваше время + риск неустойки</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">120–180 тыс ₽/мес</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>65 000 ₽</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Раздельный учёт</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Риск ошибок</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">По компетенциям</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Учитываем</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Контроль до зачисления</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Сами отслеживаете</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Частично</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Ведём до средств на счёте</strong></div></div>
     </div>
     <div class="v2-compare-cta"><a href="#zayavka">Обсудить ваш контракт <span aria-hidden="true">→</span></a></div>
   </div>
@@ -497,19 +497,19 @@
         <div class="v2-tariff-stage">Постоплата</div>
         <h3>Постоплата под ключ</h3>
         <p class="v2-tariff-desc">Проверка документов, платёжные поручения, работа с казначейством и контроль до зачисления средств. Повторная подача при замечаниях — без доплат.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">55 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу контракта · до зачисления</div><a href="#zayavka" class="v2-tariff-link">Провести постоплату <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">65 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу контракта · до зачисления</div><a href="#zayavka" class="v2-tariff-link">Провести постоплату <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">02</div>
         <div class="v2-tariff-stage">С авансом</div>
         <h3>Сопровождение с авансом</h3>
         <p class="v2-tariff-desc">Контракт с авансированием: контроль целевого использования, цепочка кооперации, безлимит операций.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">89 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Чаще выбирают</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">105 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Чаще выбирают</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">03</div>
         <div class="v2-tariff-stage">Старт</div>
         <h3>Открытие счёта за два дня</h3>
         <p class="v2-tariff-desc">Если счёт ещё не открыт — полный пакет документов и открытие в УФК с первой подачи.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">29 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">35 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article></div>
     <p class="v2-tariffs-footnote">Точная стоимость — после анализа вашего контракта.</p>
   </div>
@@ -525,7 +525,7 @@
       <details><summary>Когда сопровождаются все расчёты по контракту, а не только аванс?</summary><p>По статье 5 Федерального закона № 426-ФЗ — при контрактах с единственным поставщиком свыше 3 млн ₽, контрактах гособоронзаказа свыше 3 млн ₽, а также по контрактам за счёт целевых межбюджетных трансфертов из федерального бюджета: от 100 млн ₽ для государственных и муниципальных контрактов и от 10 млн ₽ для контрактов учреждений субъекта.</p></details>
       <details><summary>Деньги пришли после приёмки — можно тратить свободно?</summary><p>Нет. Оплата поступает на лицевой счёт в казначействе и остаётся целевыми средствами: каждый расход проходит санкционирование и должен соответствовать утверждённым сведениям об операциях с целевыми средствами.</p></details>
       <details><summary>Нужно ли соисполнителю открывать лицевой счёт?</summary><p>Если договор с ним заключается в рамках сопровождаемого контракта на сумму свыше 3 млн ₽ — да. Условие о сопровождении и идентификатор закладываются в договор заранее, иначе платёж в его адрес не пройдёт.</p></details>
-      <details><summary>Сколько стоит сопровождение постоплатного контракта?</summary><p>55 000 ₽ в месяц. Это фиксированная цена, закреплённая в договоре, без «от» и без доплат за количество платежей и обращений.</p></details>
+      <details><summary>Сколько стоит сопровождение постоплатного контракта?</summary><p>65 000 ₽ в месяц. Это фиксированная цена, закреплённая в договоре, без «от» и без доплат за количество платежей и обращений.</p></details>
 <details open><summary>Почему постоплата по госконтракту такая сложная?</summary><p>Платёж проходит несколько уровней контроля: ваш банк → казначейство → банк заказчика. На каждом этапе документы проверяются на соответствие жёстким требованиям. Ошибка в коде операции, типе документа или реквизитах — и платёж возвращается.</p></details><details><summary>Мы проводили постоплату сами — зачем платить?</summary><p>Если всё проходит без проблем — платить не нужно. Но хотя бы один возврат в истории — сигнал, что процедура настроена неверно. Один возврат = простой и риск нарушить контракт; услуга окупается на первой же ошибке.</p></details><details><summary>Что если казначейство вернёт платёж с замечаниями?</summary><p>Устраняем замечания и подаём повторно без доплат — это часть услуги. Результат — зачисленные средства на ваш счёт. Документы проверяем до подачи, чтобы возврата не было.</p></details><details><summary>За какой срок проведёте постоплату?</summary><p>Зависит от готовности документов и графика казначейства. Срок оценим на консультации и зафиксируем ориентир по вашему контракту.</p></details><details><summary>Поможете, если из-за просрочки уже начислили пени?</summary><p>Да. Разберём расчёт и основания начисления, поможем оспорить или снизить неустойку. Как считаются пени — в нашей статье о неустойке по 44-ФЗ.</p></details><details><summary>Работаете по всей России?</summary><p>Да, дистанционно по всем регионам РФ. Документы передаются электронно, личное присутствие не требуется.</p></details></div>
   </div>
 </section>

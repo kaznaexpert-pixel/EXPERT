@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Открытие казначейского счёта за 2 дня под ключ</title>
-<meta name="description" content="Откроем казначейский счёт в УФК за два рабочих дня под ключ: документы, сводный реестр, настройка «Электронного бюджета». Фикс 29 000 ₽, гарантия в договоре.">
+<meta name="description" content="Откроем казначейский счёт в УФК за два рабочих дня под ключ: документы, сводный реестр, настройка «Электронного бюджета». Фикс 35 000 ₽, гарантия в договоре.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -47,7 +47,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "price": "29000",
+    "price": "35000",
     "priceCurrency": "RUB",
     "description": "Открытие казначейского счёта под ключ, разово",
     "url": "https://kaznaexpert.ru/uslugi/otkrytie-scheta/"
@@ -92,7 +92,7 @@
       "name": "Сколько стоит открытие счёта?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "29 000 ₽ разово. Это фиксированная цена под ключ, прописанная в договоре, без «от» и скрытых доплат."
+        "text": "35 000 ₽ разово. Это фиксированная цена под ключ, прописанная в договоре, без «от» и скрытых доплат."
       }
     },
     {
@@ -224,7 +224,7 @@
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Открытие казначейского счёта за 2 дня под ключ">
-<meta name="twitter:description" content="Откроем казначейский счёт в УФК за два рабочих дня под ключ: документы, сводный реестр, настройка «Электронного бюджета». Фикс 29 000 ₽, гарантия в договоре.">
+<meta name="twitter:description" content="Откроем казначейский счёт в УФК за два рабочих дня под ключ: документы, сводный реестр, настройка «Электронного бюджета». Фикс 35 000 ₽, гарантия в договоре.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <!-- Schema: Article -->
@@ -535,7 +535,7 @@
       <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Срок открытия</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">2–4 недели на освоение</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">1–2 месяца на подбор</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>2 рабочих дня</strong></div></div>
       <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Риск возврата документов</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Высокий — ошибки без опыта</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Зависит от уровня сотрудника</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Минимальный</strong> · с первой подачи</div></div>
       <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Настройка «Электронного бюджета»</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Сами, без поддержки</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">По компетенциям сотрудника</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт">Включено в стоимость</div></div>
-      <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Стоимость</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Ваше время + риск ошибок</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">120–180 тыс ₽/мес + взносы</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>29 000 ₽</strong> разово</div></div>
+      <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Стоимость</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Ваше время + риск ошибок</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">120–180 тыс ₽/мес + взносы</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>35 000 ₽</strong> разово</div></div>
       <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Гарантия в договоре</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Нет</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Нет</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Прописана в договоре</strong></div></div>
       <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Ваши затраты времени</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">20–40 часов</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Контроль сотрудника</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>5 минут</strong></div></div>
     </div>
@@ -556,21 +556,21 @@
         <div class="v2-tariff-stage">Победа в тендере</div>
         <h3>Открытие счёта за два дня</h3>
         <p class="v2-tariff-desc">Анализ контракта, полный пакет документов, включение в сводный реестр, открытие счёта в УФК с первой подачи и настройка «Электронного бюджета».</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">29 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня · гарантия в договоре</div><a href="#zayavka" class="v2-tariff-link">Обсудить контракт <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">35 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня · гарантия в договоре</div><a href="#zayavka" class="v2-tariff-link">Обсудить контракт <span aria-hidden="true">→</span></a></div>
       </article>
       <article class="v2-tariff">
         <div class="v2-tariff-no">01</div>
         <div class="v2-tariff-stage">До тендера</div>
         <h3>Резерв счёта к дате тендера</h3>
         <p class="v2-tariff-desc">Резервируем счёт заранее — реквизиты готовы к моменту победы. Не выиграли — закрываем без расходов.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">19 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · к дате тендера</div><a href="/uslugi/rezervirovanie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">25 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · к дате тендера</div><a href="/uslugi/rezervirovanie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article>
       <article class="v2-tariff">
         <div class="v2-tariff-no">03</div>
         <div class="v2-tariff-stage">После открытия</div>
         <h3>Полное сопровождение контракта</h3>
         <p class="v2-tariff-desc">Ведём контракт после открытия счёта: платежи, сведения, отчётность — до закрытия и вывода средств.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 55 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу контракта</div><a href="#zayavka" class="v2-tariff-link">Обсудить <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 65 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу контракта</div><a href="#zayavka" class="v2-tariff-link">Обсудить <span aria-hidden="true">→</span></a></div>
       </article>
     </div>
     <p class="v2-tariffs-footnote">Точная стоимость — после анализа вашего контракта.</p>
@@ -592,7 +592,7 @@
       <details open><summary>За сколько откроете казначейский счёт?</summary><p>За два рабочих дня с момента получения документов — при стандартных требованиях. Срок открытия фиксируем в договоре.</p></details>
       <details><summary>Что потребуется от меня?</summary><p>Госконтракт, ИНН и ОГРН организации, СНИЛС руководителя и контакт для связи. Пересылка занимает 5 минут — всё остальное делаем мы.</p></details>
       <details><summary>Что если казначейство вернёт документы?</summary><p>Устраняем замечания казначейства без доплат — это входит в услугу. Наша цель — открыть счёт с первой подачи.</p></details>
-      <details><summary>Сколько стоит открытие счёта?</summary><p>29 000 ₽ разово. Это фиксированная цена под ключ, прописанная в договоре, без «от» и скрытых доплат.</p></details>
+      <details><summary>Сколько стоит открытие счёта?</summary><p>35 000 ₽ разово. Это фиксированная цена под ключ, прописанная в договоре, без «от» и скрытых доплат.</p></details>
       <details><summary>Работаете по всей России?</summary><p>Да. Работаем удалённо со всеми регионами РФ — весь документооборот ведётся электронно через «Электронный бюджет».</p></details>
       <details><summary>Нужна ли электронная подпись?</summary><p>Да, для работы в «Электронном бюджете» нужна квалифицированная ЭП. Поможем оформить и настроить доступ.</p></details>
       <details><summary>Какие гарантии?</summary><p>Гарантия результата прописана в договоре. Сопровождаем до открытия счёта и первой операции.</p></details>
