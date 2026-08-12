@@ -147,14 +147,14 @@
 
 <section class="v2-hero">
   <div class="v2-container">
-    <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › Восстановление раздельного учёта</nav>
+    <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › Составление РКМ по ГОЗ</nav>
     <div class="v2-hero-grid">
       <div class="v2-hero-main">
         <div class="v2-hero-eyebrow-row">
           <span class="v2-eyebrow">Услуга · ГОЗ · Ценообразование</span>
           <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
         </div>
-        <h1>Восстановление раздельного учёта <em>по ГОЗ и госконтрактам</em></h1>
+        <h1>Составление РКМ <em>по гособоронзаказу</em></h1>
         <p class="v2-hero-lede"><strong>Подготовим расчётно-калькуляционные материалы под ключ:</strong> плановые и отчётные калькуляции по формам приказа ФАС № 995/22, расшифровки статей затрат и обоснование цены для военного представительства и заказчика. Комплект, который проходит проверку с первого раза.</p>
         <div class="v2-hero-trust"><div class="v2-trust-item"><div class="v2-trust-num">2021</div><div class="v2-trust-label">год регистрации ИП</div></div><div class="v2-trust-item"><div class="v2-trust-num">90<span class="v2-trust-suffix">&nbsp;млрд&nbsp;₽</span></div><div class="v2-trust-label">прошло через счета</div></div><div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div><div class="v2-trust-item"><div class="v2-trust-num">1С<span class="v2-trust-suffix"></span></div><div class="v2-trust-label">настройка учёта</div></div></div>
         <div class="v2-hero-expert">
