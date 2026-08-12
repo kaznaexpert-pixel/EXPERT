@@ -257,7 +257,9 @@
         <div class="kf"><div class="kf__n">Ф. 20</div><div class="kf__t"><b>Прибыль</b> — отдельный расчёт и обоснование</div></div>
         <div class="kf"><div class="kf__n">от метода</div><div class="kf__t"><b>Состав комплекта</b> зависит от вида цены и метода её определения</div></div>
       </div>
-    </section>
+    
+<p><strong>Нужен готовый комплект?</strong> Составим РКМ под ключ — калькуляции, расшифровки и защита у ВП МО, <a href="/uslugi/sostavlenie-rkm/">услуга «Составление РКМ» от 69 000 ₽</a>.</p>
+</section>
 
     <h2 id="chto-takoe">Что такое РКМ</h2>
     <div class="answer reveal">
