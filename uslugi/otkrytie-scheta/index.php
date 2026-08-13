@@ -27,7 +27,7 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Service",
+  "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "bestRating": "5", "ratingCount": "7", "reviewCount": "7"},
   "datePublished": "2026-06-25",
   "dateModified": "2026-08-04",
   "name": "Открытие казначейского счёта под ключ",
@@ -296,6 +296,7 @@
           <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
         </div>
         <h1>Откроем казначейский счёт под ключ<br><em>за два рабочих дня</em></h1>
+<a href="/#reviews" style="display:inline-flex;align-items:center;gap:7px;margin:12px 0 0;padding:7px 15px;background:rgba(139,111,71,.07);border:1px solid rgba(139,111,71,.35);border-radius:999px;text-decoration:none;font-size:14px;color:#1A1A1A"><span style="color:#8B6F47;letter-spacing:1px">★★★★★</span><b>4,9</b><span style="color:#6E6B66">— отзывы клиентов</span></a>
         <p class="v2-hero-lede"><strong>Берём всю работу с УФК на себя:</strong> анализ контракта, пакет документов, включение в сводный реестр, открытие счёта и настройку «Электронного бюджета». Без возвратов и срыва сроков. По всей России.</p>
         <div class="v2-hero-trust">
           <div class="v2-trust-item"><div class="v2-trust-num">2<span class="v2-trust-suffix">&nbsp;рабочих&nbsp;дня</span></div><div class="v2-trust-label">до открытия счёта</div></div>
