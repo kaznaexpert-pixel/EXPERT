@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Раздельный учёт по госконтракту 2026: когда вести</title>
+<title>Раздельный учёт по госконтракту (44-ФЗ) 2026: когда вести</title>
 <meta name="description" content="Раздельный учёт по госконтракту при казначейском сопровождении: когда обязателен, как организовать учёт и учётную политику, что проверяет казначейство и штраф по.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"uchet"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Раздельный учёт по госконтракту в 2026: когда вести, как организовать, штрафы", "description": "Раздельный учёт по госконтракту при казначейском сопровождении: когда обязателен, как организовать аналитику и учётную политику, что проверяет казначейство и штраф по статье 15.37.1 КоАП РФ (до 500 000 ₽).", "inLanguage": "ru-RU", "datePublished": "2026-06-08", "dateModified": "2026-07-02", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/razdelnyy-uchet-po-goskontraktu/"}, "citation": ["https://pravo.ppt.ru/kodeks/koap/st-15.37.1", "https://www.consultant.ru/document/cons_doc_LAW_401366/", "https://www.consultant.ru/document/cons_doc_LAW_405143/", "https://roskazna.gov.ru/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Раздельный учёт по госконтракту в 2026: когда вести, как организовать, штрафы", "description": "Раздельный учёт по госконтракту при казначейском сопровождении: когда обязателен, как организовать аналитику и учётную политику, что проверяет казначейство и штраф по статье 15.37.1 КоАП РФ (до 500 000 ₽).", "inLanguage": "ru-RU", "datePublished": "2026-06-08", "dateModified": "2026-08-14", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/razdelnyy-uchet-po-goskontraktu/"}, "citation": ["https://pravo.ppt.ru/kodeks/koap/st-15.37.1", "https://www.consultant.ru/document/cons_doc_LAW_401366/", "https://www.consultant.ru/document/cons_doc_LAW_405143/", "https://roskazna.gov.ru/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Раздельный учёт по госконтракту"}]}
@@ -90,7 +90,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Раздельный учёт по госконтракту: когда вести, как организовать, штрафы — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-08T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-07-02T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-14T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -179,7 +179,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Раздельный учёт <span class="fresh">Актуально на 2026</span></div>
     <h1>Раздельный учёт по госконтракту в 2026: когда вести, как организовать, штрафы</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>17 мин чтения</span><span class="dot">·</span><span>Обновлено 2 июля 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>17 мин чтения</span><span class="dot">·</span><span>Обновлено 14 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -219,6 +219,11 @@
       <p class="lead-p">Раздельный учёт по госконтракту — это организация бухгалтерского и управленческого учёта так, чтобы по каждому контракту можно было обособленно увидеть все доходы, прямые и накладные расходы, финансовый результат. При казначейском сопровождении это не «пожелание», а обязанность: средства по контракту целевые, и государство должно видеть, что каждый рубль израсходован именно на исполнение этого контракта, а не «смешан» с обычной деятельностью компании.</p>
       <p>Практический смысл прост: если деньги по нескольким контрактам и собственная выручка лежат «в общем котле», доказать целевое использование невозможно. Раздельный учёт разделяет потоки — по каждому контракту формируется собственная картина затрат, которая сверяется с условиями контракта и сведениями об операциях. Как заполняются сами сведения — в материале <a href="/baza-znaniy/svedeniya-ob-operaciyah-s-celevymi-sredstvami/">«Сведения об операциях с целевыми средствами»</a>.</p>
     </div>
+
+    
+    <h2 id="razdelnyy-uchet-44fz">Раздельный учёт по 44-ФЗ: когда он обязателен</h2>
+    <div class="answer reveal"><p>По контрактам 44-ФЗ раздельный учёт обязателен, когда контракт находится под казначейским сопровождением: требование ведения раздельного учёта результатов финансово-хозяйственной деятельности установлено правилами казначейского сопровождения (постановление Правительства № 2024) и условиями самого контракта. Если сопровождения нет — специального раздельного учёта закон о контрактной системе не требует.</p></div>
+    <p>Практическое правило для бухгалтера: смотрите не на «44-ФЗ вообще», а на условие о казначейском сопровождении в контракте. Есть условие и лицевой счёт — раздельный учёт по каждому контракту обязателен, казначейство сверяет с ним расходы при санкционировании. По гособоронзаказу требования жёстче и установлены отдельно 275-ФЗ — этот случай разобран в материале про <a href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/">раздельный учёт по ГОЗ</a>.</p>
 
     <h2 id="nuzhno">Нужно ли вести раздельный учёт по госконтракту</h2>
     <div class="answer reveal">
