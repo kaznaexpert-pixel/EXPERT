@@ -823,7 +823,7 @@
 
             </div>
 
-            <p class="v2-tariffs-footnote">Также: резерв счёта к тендеру — 25 000 ₽ · открытие счёта — 35 000 ₽ · контракт с постоплатой — 65 000 ₽. Точная стоимость — после анализа вашего контракта.</p>
+            <p class="v2-tariffs-footnote">Также: резерв счёта к тендеру — 25 000 ₽ · открытие счёта — 35 000 ₽ · контракт с постоплатой — 65 000 ₽ · <a href="/uslugi/bankovskoe-soprovozhdenie/">банковское сопровождение контракта</a> — 105 000 ₽/мес. Точная стоимость — после анализа вашего контракта.</p>
             <!-- comm-hub --><p class="v2-tariffs-footnote" style="margin-top:10px"><a href="/uslugi/kaznacheyskoe-soprovozhdenie/" style="color:#9a7b4f;font-weight:600;text-decoration:none">Все услуги и цены казначейского сопровождения →</a> &nbsp;·&nbsp; <a href="/uslugi/audit-kaznacheyskogo-soprovozhdeniya/" style="color:#9a7b4f;text-decoration:none">Аудит сопровождения</a> &nbsp;·&nbsp; <a href="/uslugi/vosstanovlenie-razdelnogo-ucheta/" style="color:#9a7b4f;text-decoration:none">Восстановление учёта</a></p>
             <!-- obuchenie-cta -->
             <div class="v2-edu-cta" style="margin-top:32px;display:flex;flex-wrap:wrap;align-items:center;gap:28px;justify-content:space-between;background:#1A1A1A;border-radius:18px;padding:36px 40px">

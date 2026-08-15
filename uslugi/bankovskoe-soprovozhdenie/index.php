@@ -4,14 +4,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Составление РКМ по гособоронзаказу — под ключ, от 69 000 ₽</title>
-<meta name="description" content="Составим РКМ по ГОЗ под ключ: плановые и отчётные калькуляции по приказу ФАС № 995/22, расшифровки затрат, обоснование цены для ВП МО. От 69 000 ₽ за комплект, NDA.">
+<title>Банковское сопровождение контракта — под ключ, 105 000 ₽/мес</title>
+<meta name="description" content="Банковское сопровождение госконтракта и ГОЗ под ключ: выбор уполномоченного банка, открытие отдельного счёта, платежи с ИГК без блокировок, работа с банком. 105 000 ₽/мес.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#141310" media="(prefers-color-scheme: dark)">
 <!-- PROD: canonical и og:url ОБЯЗАТЕЛЬНО менять под URL каждой статьи -->
-<link rel="canonical" href="https://kaznaexpert.ru/uslugi/sostavlenie-rkm/">
+<link rel="canonical" href="https://kaznaexpert.ru/uslugi/bankovskoe-soprovozhdenie/">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
@@ -25,13 +25,13 @@
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "bestRating": "5", "ratingCount": "7", "reviewCount": "7"}, "datePublished": "2026-08-12", "dateModified": "2026-08-12", "name": "Составление расчётно-калькуляционных материалов (РКМ) по гособоронзаказу", "serviceType": "Составление РКМ по ГОЗ (275-ФЗ)", "description": "Составление РКМ по гособоронзаказу под ключ: плановые и отчётные калькуляции по формам приказа ФАС № 995/22, расшифровки статей затрат, обоснование цены для ВП МО и заказчика, ответы на замечания. Фиксированная цена, NDA.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/sostavlenie-rkm/", "offers": {"@type": "Offer", "name": "Составление РКМ под ключ", "price": "69000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock"}}
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "bestRating": "5", "ratingCount": "7", "reviewCount": "7"}, "datePublished": "2026-08-13", "dateModified": "2026-08-13", "name": "Банковское сопровождение контракта под ключ", "serviceType": "Банковское сопровождение госконтрактов и ГОЗ (ПП № 963, 275-ФЗ)", "description": "Банковское сопровождение контракта под ключ: выбор уполномоченного банка, открытие отдельного счёта, подготовка платежей с ИГК, прохождение банковского контроля без блокировок, разблокировка проблемных платежей. Ведёт эксперт по банковскому сопровождению.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/bankovskoe-soprovozhdenie/", "offers": {"@type": "Offer", "name": "Банковское сопровождение под ключ", "price": "105000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock"}}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Составление РКМ по ГОЗ"}]}
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Банковское сопровождение"}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что такое РКМ и зачем они нужны?", "acceptedAnswer": {"@type": "Answer", "text": "РКМ — расчётно-калькуляционные материалы: комплект документов, обосновывающих цену продукции по гособоронзаказу. Формы утверждены приказом ФАС № 995/22. Без корректных РКМ не согласовать цену с заказчиком и военным представительством, не перевести ориентировочную цену в фиксированную и не закрыть контракт."}}, {"@type": "Question", "name": "Какие формы входят в комплект?", "acceptedAnswer": {"@type": "Answer", "text": "Состав зависит от метода определения цены и стадии контракта: плановая калькуляция, расшифровки статей затрат (материалы, оплата труда, накладные расходы), отчётная калькуляция, обоснование нормативов и пояснительная записка. Точный перечень определяем после анализа контракта."}}, {"@type": "Question", "name": "Сколько стоит составление РКМ?", "acceptedAnswer": {"@type": "Answer", "text": "Фиксированно — от 69 000 ₽ за комплект по одному контракту. Точную стоимость называем после оценки: она зависит от числа форм, глубины расшифровок и состояния учёта. Цена фиксируется в договоре, доплат по ходу нет."}}, {"@type": "Question", "name": "Что если военпред вернёт комплект с замечаниями?", "acceptedAnswer": {"@type": "Answer", "text": "Ответы на замечания ВП МО входят в услугу: дорабатываем формы и расшифровки до принятия комплекта, без доплат."}}, {"@type": "Question", "name": "Что от нас потребуется?", "acceptedAnswer": {"@type": "Answer", "text": "Контракт с ТЗ, данные учёта (доступ к 1С или выгрузки), первичные документы по затратам и контакт ответственного. Остальное считаем и оформляем сами."}}, {"@type": "Question", "name": "Составите РКМ, если раздельный учёт не вёлся?", "acceptedAnswer": {"@type": "Answer", "text": "Да, но сначала его придётся восстановить — иначе фактические затраты не обосновать. Это отдельная услуга «Восстановление раздельного учёта», работаем в связке: сначала учёт, затем калькуляции."}}, {"@type": "Question", "name": "Работаете под NDA?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Подписываем NDA до передачи документов; данные по контрактам и ценам третьим лицам не передаются."}}, {"@type": "Question", "name": "Как быстро подготовите комплект?", "acceptedAnswer": {"@type": "Answer", "text": "Стандартно — от 5 рабочих дней после получения данных, срочные случаи обсуждаем отдельно. Срок фиксируется в договоре."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что такое банковское сопровождение контракта?", "acceptedAnswer": {"@type": "Answer", "text": "Режим контроля расчётов по контракту через уполномоченный банк: банк проверяет каждый платёж на соответствие условиям контракта и целевому назначению. Применяется по 44-ФЗ (правила утверждены постановлением Правительства № 963) и в гособоронзаказе по 275-ФЗ — через отдельный счёт (ОБС)."}}, {"@type": "Question", "name": "Чем банковское сопровождение отличается от казначейского?", "acceptedAnswer": {"@type": "Answer", "text": "Казначейское ведёт Федеральное казначейство через лицевой счёт в УФК, банковское — уполномоченный банк через отдельный банковский счёт. Режим определяется условиями контракта и источником средств; по ряду контрактов действуют оба одновременно — тогда выстраиваем работу в двух контурах сразу."}}, {"@type": "Question", "name": "Сам банк разве не сопровождает бесплатно?", "acceptedAnswer": {"@type": "Answer", "text": "Банк выполняет контроль — но не готовит за вас документы. Возвраты платежей, неверные основания, отсутствующий ИГК, споры с банком по назначению платежа — это работа исполнителя. Мы берём её на себя: платежи проходят с первой подачи."}}, {"@type": "Question", "name": "Сколько стоит услуга?", "acceptedAnswer": {"@type": "Answer", "text": "105 000 ₽ в месяц — фиксированно, без лимита на количество платежей и обращений. Цена закрепляется в договоре до начала работ."}}, {"@type": "Question", "name": "Поможете, если банк уже заблокировал платёж?", "acceptedAnswer": {"@type": "Answer", "text": "Да, это профильная задача: разбираем причину отказа, исправляем основания и назначение платежа, при необходимости ведём переписку с банком — до прохождения платежа."}}, {"@type": "Question", "name": "Работаете с ОБС по гособоронзаказу?", "acceptedAnswer": {"@type": "Answer", "text": "Да: открытие отдельного счёта в уполномоченном банке (ПСБ, ГПБ, Сбер и др.), режим ст. 8.3 275-ФЗ, платежи с ИГК, раздельный учёт — в связке с казначейским контуром, если он тоже есть."}}, {"@type": "Question", "name": "Какие документы нужны от нас?", "acceptedAnswer": {"@type": "Answer", "text": "Контракт с условием о банковском сопровождении, реквизиты и доступ к банку (или доверенность на взаимодействие), первичные документы по платежам. Остальное готовим сами."}}, {"@type": "Question", "name": "Работаете под NDA?", "acceptedAnswer": {"@type": "Answer", "text": "Да, подписываем NDA до передачи документов. Данные по контрактам и платежам третьим лицам не передаются."}}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -68,9 +68,9 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Восстановление раздельного учёта по ГОЗ и госконтрактам">
-<meta property="og:description" content="Восстановим раздельный учёт: первичка, регистры затрат, отчётные калькуляции, настройка 1С. До проверки и штрафа. Вся Россия.">
-<meta property="og:url" content="https://kaznaexpert.ru/uslugi/sostavlenie-rkm/">
+<meta property="og:title" content="Банковское сопровождение контракта — под ключ, 105 000 ₽/мес">
+<meta property="og:description" content="Уполномоченный банк, отдельный счёт, платежи с ИГК без блокировок. Банковский контур контракта под ключ. Вся Россия.">
+<meta property="og:url" content="https://kaznaexpert.ru/uslugi/bankovskoe-soprovozhdenie/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -80,8 +80,8 @@
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Восстановление раздельного учёта по ГОЗ">
-<meta name="twitter:description" content="Первичка, регистры затрат, отчётные калькуляции, 1С. Приведём учёт в порядок до проверки и штрафа.">
+<meta name="twitter:title" content="Банковское сопровождение контракта — под ключ">
+<meta name="twitter:description" content="Выбор банка, ОБС, платежи с ИГК, прохождение банковского контроля. 105 000 ₽/мес без лимита операций.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <!-- Schema: Article -->
@@ -147,27 +147,27 @@
 
 <section class="v2-hero">
   <div class="v2-container">
-    <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › Составление РКМ по ГОЗ</nav>
+    <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › Банковское сопровождение</nav>
     <div class="v2-hero-grid">
       <div class="v2-hero-main">
         <div class="v2-hero-eyebrow-row">
-          <span class="v2-eyebrow">Услуга · ГОЗ · Ценообразование</span>
+          <span class="v2-eyebrow">Услуга · Банковский контроль · ГОЗ</span>
           <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
         </div>
-        <h1>Составление РКМ <em>по гособоронзаказу</em></h1>
+        <h1>Банковское сопровождение <em>контракта — под ключ</em></h1>
 <a href="/#reviews" style="display:inline-flex;align-items:center;gap:7px;margin:12px 0 0;padding:7px 15px;background:rgba(139,111,71,.07);border:1px solid rgba(139,111,71,.35);border-radius:999px;text-decoration:none;font-size:14px;color:#1A1A1A"><span style="color:#8B6F47;letter-spacing:1px">★★★★★</span><b>4,9</b><span style="color:#6E6B66">— отзывы клиентов</span></a>
-        <p class="v2-hero-lede"><strong>Подготовим расчётно-калькуляционные материалы под ключ:</strong> плановые и отчётные калькуляции по формам приказа ФАС № 995/22, расшифровки статей затрат и обоснование цены для военного представительства и заказчика. Комплект, который проходит проверку с первого раза.</p>
+        <p class="v2-hero-lede"><strong>Берём банковский контур контракта целиком:</strong> выбор уполномоченного банка, открытие отдельного счёта, подготовка платежей с ИГК и документами-основаниями, прохождение банковского контроля и разблокировка проблемных платежей. Платежи проходят с первой подачи.</p>
         <div class="v2-hero-trust"><div class="v2-trust-item"><div class="v2-trust-num">2021</div><div class="v2-trust-label">год регистрации ИП</div></div><div class="v2-trust-item"><div class="v2-trust-num">90<span class="v2-trust-suffix">&nbsp;млрд&nbsp;₽</span></div><div class="v2-trust-label">прошло через счета</div></div><div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div><div class="v2-trust-item"><div class="v2-trust-num">1С<span class="v2-trust-suffix"></span></div><div class="v2-trust-label">настройка учёта</div></div></div>
         <div class="v2-hero-expert">
           <div class="v2-expert-name">Михайлов Ярослав</div>
           <div class="v2-expert-role">Эксперт · 15 лет в Казначействе</div>
-          <p class="v2-expert-quote">«В РКМ военпред первым делом смотрит, сходятся ли калькуляция, расшифровки и раздельный учёт до рубля. Комплект, собранный по чужому образцу, возвращают почти всегда — считать нужно от вашего учёта».</p>
+          <p class="v2-expert-quote">«Банк не объясняет, как правильно, — он просто возвращает платёж. Наша работа в том, чтобы возвратов не было: правильное назначение, ИГК и основания с первой подачи».</p>
         </div>
       </div>
       <aside class="v2-hero-action">
         <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
         <h2>Оценим объём</h2>
-        <p class="v2-hero-action-sub">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт контракт и назовёт стоимость комплекта РКМ. NDA — до передачи документов.</p>
+        <p class="v2-hero-action-sub">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт контракт и условия банковского сопровождения. NDA — до передачи документов.</p>
         <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="vosstanovlenie-razdelnogo-ucheta">
           <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
           <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
@@ -193,10 +193,10 @@
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Для кого</div>
-      <h2 class="v2-section-title">Когда нужны <em>РКМ</em></h2>
-      <p class="v2-section-lede">Четыре ситуации, в которых без расчётно-калькуляционных материалов контракт по ГОЗ не двигается.</p>
+      <h2 class="v2-section-title">Когда нужно <em>банковское сопровождение</em></h2>
+      <p class="v2-section-lede">Четыре ситуации, когда расчёты по контракту идут через контроль уполномоченного банка.</p>
     </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Заключение контракта</h3><p class="v2-process-desc">Заказчик или головной исполнитель запрашивает обоснование цены — нужна плановая калькуляция с расшифровками по формам 995/22.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Перевод цены</h3><p class="v2-process-desc">Переводите ориентировочную цену в фиксированную — без отчётных калькуляций и подтверждённых фактических затрат перевод не согласуют.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Запрос военпреда</h3><p class="v2-process-desc">ВП МО запросило РКМ или вернуло комплект с замечаниями. Соберём или доработаем формы так, чтобы приняли.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Закрытие контракта</h3><p class="v2-process-desc">Для приёмки и окончательного расчёта нужна отчётная калькуляция, сходящаяся с раздельным учётом до рубля.</p></article></div>
+    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Условие в контракте</h3><p class="v2-process-desc">Заказчик включил банковское сопровождение по правилам постановления № 963 — расчёты только через счёт в уполномоченном банке.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Гособоронзаказ</h3><p class="v2-process-desc">Контракт по 275-ФЗ — отдельный счёт (ОБС) в уполномоченном банке с режимом ст. 8.3: каждый платёж с ИГК и под контролем.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Два режима сразу</h3><p class="v2-process-desc">По контракту действуют и казначейское, и банковское сопровождение — выстраиваем оба контура без конфликтов между ними.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Платежи не проходят</h3><p class="v2-process-desc">Банк возвращает платёжки, счёт фактически заблокирован, сроки горят — разбираем причины и восстанавливаем расчёты.</p></article></div>
   </div>
 </section>
 
@@ -204,10 +204,10 @@
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Состав работы</div>
-      <h2 class="v2-section-title">Что входит <em>в комплект</em></h2>
-      <p class="v2-section-lede">Собираем РКМ от данных вашего учёта до комплекта, готового к сдаче заказчику и ВП МО.</p>
+      <h2 class="v2-section-title">Что берём <em>на себя</em></h2>
+      <p class="v2-section-lede">Полный цикл банковского контура — от выбора банка до последнего платежа по контракту.</p>
     </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Плановая калькуляция</h3><p class="v2-process-desc">Расчёт цены по утверждённым формам приказа ФАС № 995/22 под метод определения цены вашего контракта.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Расшифровки затрат</h3><p class="v2-process-desc">Материалы, покупные изделия, оплата труда, страховые взносы, накладные расходы — постатейно, с привязкой к первичке.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Отчётная калькуляция</h3><p class="v2-process-desc">Фактические затраты по данным раздельного учёта — для закрытия этапа, перевода цены и окончательного расчёта.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Обоснование нормативов</h3><p class="v2-process-desc">Накладные расходы, ОХР и плановая рентабельность с учётом норм прибыли по ПП № 1465.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Пояснительная записка</h3><p class="v2-process-desc">Сопроводительное обоснование комплекта: метод цены, источники данных, логика расчёта.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Ответы на замечания</h3><p class="v2-process-desc">Если заказчик или ВП МО возвращает комплект — дорабатываем формы до принятия, без доплат.</p></article></div>
+    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Выбор банка и счёт</h3><p class="v2-process-desc">Подбираем уполномоченный банк под ваш контракт, готовим пакет и открываем отдельный счёт без возвратов документов.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Договор сопровождения</h3><p class="v2-process-desc">Присоединение к правилам банковского сопровождения, настройка документооборота с банком.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Платежи с ИГК</h3><p class="v2-process-desc">Готовим распоряжения: корректные назначение платежа, ИГК и документы-основания — под требования конкретного банка.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Контроль прохождения</h3><p class="v2-process-desc">Отслеживаем каждый платёж до списания; замечания банка снимаем сами, без вашего участия.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Проблемные случаи</h3><p class="v2-process-desc">Возвраты, приостановки, запросы банка — разбираем причину, исправляем и доводим платёж.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Связка с казначейством</h3><p class="v2-process-desc">Если по контракту есть и казначейский контур — ведём оба режима согласованно: сведения, счета, платежи.</p></article></div>
   </div>
 </section>
 
@@ -216,9 +216,9 @@
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Что от вас</div>
       <h2 class="v2-section-title">Что потребуется <em>от вас</em></h2>
-      <p class="v2-section-lede">Доступ к учёту и документам — восстановление ведёт эксперт. Всё под NDA.</p>
+      <p class="v2-section-lede">Минимум документов — банковский контур ведём мы. Всё под NDA.</p>
     </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Контракт и ТЗ</h3><p class="v2-process-desc">Контракты по гособоронзаказу и их идентификаторы (ИГК).</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Данные учёта</h3><p class="v2-process-desc">База или выгрузки для анализа и настройки учёта.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Первичные документы</h3><p class="v2-process-desc">То, что есть: акты, накладные, расчёты — соберём остальное.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Контакт для связи</h3><p class="v2-process-desc">Ответственный, с кем уточняем детали.</p></article></div>
+    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Контракт и условия БС</h3><p class="v2-process-desc">Контракт с условием о банковском сопровождении, ИГК — если это гособоронзаказ.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Доступ к банку</h3><p class="v2-process-desc">Реквизиты и доступ к банку либо доверенность на взаимодействие с ним.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Первичные документы</h3><p class="v2-process-desc">Договоры с кооперацией, акты и счета — основания для платежей.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Контакт для связи</h3><p class="v2-process-desc">Ответственный, с кем уточняем детали.</p></article></div>
   </div>
 </section>
 
@@ -226,9 +226,9 @@
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Процесс</div>
-      <h2 class="v2-section-title">От контракта до принятого комплекта — <em>по шагам</em></h2>
+      <h2 class="v2-section-title">От заявки до работающих платежей — <em>по шагам</em></h2>
     </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Оценка контракта</h3><p class="v2-process-desc">Смотрим контракт, метод цены и состояние учёта, определяем состав комплекта и называем точную стоимость. Договор и NDA.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Расчёт и оформление</h3><p class="v2-process-desc">Собираем данные из учёта и первички, считаем калькуляции и расшифровки, оформляем формы по 995/22 — от 5 рабочих дней.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Сдача и защита</h3><p class="v2-process-desc">Передаём комплект, сопровождаем проверку заказчиком и ВП МО, отвечаем на замечания до принятия.</p></article></div>
+    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Разбор контракта</h3><p class="v2-process-desc">Смотрим условия сопровождения, определяем банк и состав работ, фиксируем цену в договоре. NDA — до передачи документов.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Счёт и подключение</h3><p class="v2-process-desc">Открываем отдельный счёт, присоединяемся к правилам сопровождения, настраиваем обмен с банком.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Ведём платежи</h3><p class="v2-process-desc">Каждый платёж — с корректными ИГК и основаниями, до исполнения контракта. Без лимита операций.</p></article></div>
   </div>
 </section>
 
@@ -236,9 +236,9 @@
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Риски</div>
-      <h2 class="v2-section-title">Чем грозят <em>ошибки в РКМ</em></h2>
+      <h2 class="v2-section-title">Чем грозят <em>ошибки в банковском контуре</em></h2>
     </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Возврат комплекта</h3><p class="v2-process-desc">ВП МО возвращает РКМ с замечаниями — сроки согласования цены сдвигаются на недели.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Цена ниже затрат</h3><p class="v2-process-desc">Неполные расшифровки занижают обоснованную цену — разница ложится на вашу прибыль.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Срыв перевода цены</h3><p class="v2-process-desc">Без отчётных калькуляций ориентировочная цена не станет фиксированной — контракт нельзя закрыть.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Претензии контролёров</h3><p class="v2-process-desc">Расхождение РКМ с раздельным учётом — повод для проверки ФАС и финконтроля.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Штрафы</h3><p class="v2-process-desc">Нарушения раздельного учёта, на котором строятся РКМ, наказываются по ст. 15.37.1 КоАП — до 500 тыс ₽.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Потеря кооперации</h3><p class="v2-process-desc">Головной исполнитель не примет обоснование цены — рискуете местом в цепочке кооперации.</p></article></div>
+    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Возврат платежа</h3><p class="v2-process-desc">Неверное назначение или отсутствующий ИГК — банк возвращает распоряжение, расчёты с поставщиками встают.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Срыв сроков контракта</h3><p class="v2-process-desc">Пока платежи не проходят, кооперация не получает деньги — под угрозой график исполнения и неустойки.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Блокировка операций</h3><p class="v2-process-desc">Систематические нарушения режима счёта приводят к фактической остановке расчётов по контракту.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Претензии заказчика</h3><p class="v2-process-desc">Банк передаёт информацию о сопровождении заказчику — проблемы с платежами видны ему напрямую.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Конфликт двух режимов</h3><p class="v2-process-desc">При одновременном казначейском и банковском сопровождении несогласованность контуров удваивает возвраты.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Штрафы по ГОЗ</h3><p class="v2-process-desc">Нарушения режима отдельного счёта по 275-ФЗ — административная ответственность и внимание контролёров.</p></article></div>
   </div>
 </section>
 
@@ -249,25 +249,25 @@
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Стоимость</div>
       <h2 class="v2-section-title">Стоимость — <em>фиксированная</em></h2>
-      <p class="v2-section-lede">Базовый комплект по одному контракту — от 69 000 ₽. Точная цена зависит от состава форм и состояния учёта; фиксируем её в договоре до начала работ.</p>
+      <p class="v2-section-lede">Ведение банковского сопровождения — 105 000 ₽ в месяц, фиксированно. Пакет «банк + казначейство» по одному контракту — по индивидуальной смете; цену закрепляем в договоре до начала работ. Разобраться в теме: <a href="/baza-znaniy/otdelnyy-schet-po-goz/">отдельный счёт по ГОЗ</a>, <a href="/baza-znaniy/upolnomochennye-banki-po-goz/">уполномоченные банки</a>, <a href="/baza-znaniy/kaznacheyskoe-i-bankovskoe-soprovozhdenie/">чем банковское сопровождение отличается от казначейского</a>.</p>
     </div>
     <div class="v2-tariffs-grid lp-3col"><article class="v2-tariff is-featured">
         <div class="v2-tariff-no">01</div>
         <div class="v2-tariff-stage">Старт</div>
-        <h3>Оценка контракта</h3>
-        <p class="v2-tariff-desc">Смотрим контракт, метод цены и учёт, определяем состав комплекта и называем точную стоимость.</p>
+        <h3>Разбор контракта</h3>
+        <p class="v2-tariff-desc">Смотрим условия сопровождения и банк, определяем состав работ и называем точную стоимость.</p>
         <div class="v2-tariff-price"><div class="v2-tariff-price-num">по запросу</div><div class="v2-tariff-price-note">После звонка · 15 минут</div><a href="#zayavka" class="v2-tariff-link">Заказать <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">02</div>
         <div class="v2-tariff-stage">Основное</div>
-        <h3>Составление РКМ</h3>
-        <p class="v2-tariff-desc">Калькуляции, расшифровки, обоснования и пояснительная записка — комплект под ключ с защитой у ВП МО.</p>
+        <h3>Банковское сопровождение</h3>
+        <p class="v2-tariff-desc">Счёт, договор с банком, платежи с ИГК, контроль прохождения и проблемные случаи — без лимита операций.</p>
         <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 69 000 ₽</div><div class="v2-tariff-price-note">Фиксированная цена · в договоре</div><a href="#zayavka" class="v2-tariff-link">Обсудить <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">03</div>
         <div class="v2-tariff-stage">Дальше</div>
-        <h3>Сопровождение ГОЗ</h3>
-        <p class="v2-tariff-desc">Дальше можем взять контракт целиком: раздельный учёт, платежи, отчётность и работу с казначейством.</p>
+        <h3>Пакет: банк + казначейство</h3>
+        <p class="v2-tariff-desc">Оба контура одного контракта под ключ: отдельный счёт в банке и лицевой в УФК, согласованные платежи и отчётность.</p>
         <div class="v2-tariff-price"><div class="v2-tariff-price-num">смета</div><div class="v2-tariff-price-note">По контракту</div><a href="/uslugi/kaznacheyskoe-soprovozhdenie/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article></div>
     <p class="v2-tariffs-footnote">Точная стоимость — после анализа вашего контракта.</p>
@@ -280,7 +280,7 @@
       <div class="v2-section-eyebrow">Вопросы</div>
       <h2 class="v2-section-title">Отвечаем <em>прямо</em></h2>
     </div>
-    <div class="faq"><details open><summary>Что такое РКМ и зачем они нужны?</summary><p>РКМ — расчётно-калькуляционные материалы: комплект документов, обосновывающих цену продукции по гособоронзаказу. Формы утверждены приказом ФАС № 995/22. Без корректных РКМ не согласовать цену с заказчиком и военным представительством, не перевести ориентировочную цену в фиксированную и не закрыть контракт.</p></details><details><summary>Какие формы входят в комплект?</summary><p>Состав зависит от метода определения цены и стадии контракта: плановая калькуляция, расшифровки статей затрат (материалы, оплата труда, накладные расходы), отчётная калькуляция, обоснование нормативов и пояснительная записка. Точный перечень определяем после анализа контракта.</p></details><details><summary>Сколько стоит составление РКМ?</summary><p>Фиксированно — от 69 000 ₽ за комплект по одному контракту. Точную стоимость называем после оценки: она зависит от числа форм, глубины расшифровок и состояния учёта. Цена фиксируется в договоре, доплат по ходу нет.</p></details><details><summary>Что если военпред вернёт комплект с замечаниями?</summary><p>Ответы на замечания ВП МО входят в услугу: дорабатываем формы и расшифровки до принятия комплекта, без доплат.</p></details><details><summary>Что от нас потребуется?</summary><p>Контракт с ТЗ, данные учёта (доступ к 1С или выгрузки), первичные документы по затратам и контакт ответственного. Остальное считаем и оформляем сами.</p></details><details><summary>Составите РКМ, если раздельный учёт не вёлся?</summary><p>Да, но сначала его придётся восстановить — иначе фактические затраты не обосновать. Это отдельная услуга «<a href="/uslugi/vosstanovlenie-razdelnogo-ucheta/">Восстановление раздельного учёта</a>», работаем в связке: сначала учёт, затем калькуляции.</p></details><details><summary>Работаете под NDA?</summary><p>Да. Подписываем NDA до передачи документов; данные по контрактам и ценам третьим лицам не передаются.</p></details><details><summary>Как быстро подготовите комплект?</summary><p>Стандартно — от 5 рабочих дней после получения данных, срочные случаи обсуждаем отдельно. Срок фиксируется в договоре.</p></details></div>
+    <div class="faq"><details open><summary>Что такое банковское сопровождение контракта?</summary><p>Режим контроля расчётов по контракту через уполномоченный банк: банк проверяет каждый платёж на соответствие условиям контракта и целевому назначению. Применяется по 44-ФЗ (правила утверждены постановлением Правительства № 963) и в гособоронзаказе по 275-ФЗ — через отдельный счёт (ОБС).</p></details><details><summary>Чем банковское сопровождение отличается от казначейского?</summary><p>Казначейское ведёт Федеральное казначейство через лицевой счёт в УФК, банковское — уполномоченный банк через отдельный банковский счёт. Режим определяется условиями контракта и источником средств; по ряду контрактов действуют оба одновременно — тогда выстраиваем работу в двух контурах сразу.</p></details><details><summary>Сам банк разве не сопровождает бесплатно?</summary><p>Банк выполняет контроль — но не готовит за вас документы. Возвраты платежей, неверные основания, отсутствующий ИГК, споры с банком по назначению платежа — это работа исполнителя. Мы берём её на себя: платежи проходят с первой подачи.</p></details><details><summary>Сколько стоит услуга?</summary><p>105 000 ₽ в месяц — фиксированно, без лимита на количество платежей и обращений. Цена закрепляется в договоре до начала работ.</p></details><details><summary>Поможете, если банк уже заблокировал платёж?</summary><p>Да, это профильная задача: разбираем причину отказа, исправляем основания и назначение платежа, при необходимости ведём переписку с банком — до прохождения платежа.</p></details><details><summary>Работаете с ОБС по гособоронзаказу?</summary><p>Да: открытие отдельного счёта в уполномоченном банке (ПСБ, ГПБ, Сбер и др.), режим ст. 8.3 275-ФЗ, платежи с ИГК, раздельный учёт — в связке с казначейским контуром, если он тоже есть.</p></details><details><summary>Какие документы нужны от нас?</summary><p>Контракт с условием о банковском сопровождении, реквизиты и доступ к банку (или доверенность на взаимодействие), первичные документы по платежам. Остальное готовим сами.</p></details><details><summary>Работаете под NDA?</summary><p>Да, подписываем NDA до передачи документов. Данные по контрактам и платежам третьим лицам не передаются.</p></details></div>
   </div>
 </section>
 
@@ -295,7 +295,7 @@
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Заявка</div>
       <h2 class="v2-section-title">Оценим объём</h2>
-      <p class="v2-section-lede">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт контракт и назовёт стоимость комплекта РКМ. NDA — до передачи документов.</p>
+      <p class="v2-section-lede">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт контракт и условия банковского сопровождения. NDA — до передачи документов.</p>
     </div>
     <div style="max-width:520px;margin:0 auto">
       <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="vosstanovlenie-razdelnogo-ucheta-cta">
