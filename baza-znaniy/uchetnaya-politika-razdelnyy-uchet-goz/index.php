@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"uchet"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Учётная политика раздельного учёта ГОЗ в 2026: что закрепить, структура, образец", "description": "Учётная политика по раздельному учёту ГОЗ: зачем нужна, правовая база (275-ФЗ, ПП № 47, приказ Минфина № 210н, 402-ФЗ), что закрепить, структура документа и распределение косвенных расходов.", "inLanguage": "ru-RU", "datePublished": "2026-06-09", "dateModified": "2026-08-08", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/uchetnaya-politika-razdelnyy-uchet-goz/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_17542/", "https://minfin.gov.ru/ru/document/?id_4=135054", "https://www.consultant.ru/document/cons_doc_LAW_140175/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Учётная политика раздельного учёта ГОЗ в 2026: что закрепить, структура, образец", "description": "Учётная политика по раздельному учёту ГОЗ: зачем нужна, правовая база (275-ФЗ, ПП № 47, приказ Минфина № 210н, 402-ФЗ), что закрепить, структура документа и распределение косвенных расходов.", "inLanguage": "ru-RU", "datePublished": "2026-06-09", "dateModified": "2026-08-16", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/uchetnaya-politika-razdelnyy-uchet-goz/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_17542/", "https://minfin.gov.ru/ru/document/?id_4=135054", "https://www.consultant.ru/document/cons_doc_LAW_140175/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Учётная политика по раздельному учёту ГОЗ"}]}
@@ -93,7 +93,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Учётная политика по раздельному учёту ГОЗ: что закрепить и структура — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-09T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-08T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-16T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -181,7 +181,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Раздельный учёт <span class="fresh">Актуально на 2026</span></div>
     <h1>Учётная политика раздельного учёта ГОЗ в 2026: что закрепить, структура, образец</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 8 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 16 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -459,7 +459,7 @@
         <li id="ref-6">Приказ Минфина России от 17.12.2021 № 214н (ред. от 27.06.2025), п. 7 Порядка санкционирования (случаи утверждения Сведений заказчиком) — <a href="https://www.consultant.ru/document/cons_doc_LAW_405138/9ddf6d7911b13fc8d06086699ee770debd0f3ba2/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-7">Приказ Минпромторга России от 08.02.2019 № 334 «Об утверждении порядка определения состава затрат, включаемых в цену продукции, поставляемой в рамках государственного оборонного заказа» — <a href="https://www.consultant.ru/document/cons_doc_LAW_523891/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>
-      <p class="refs__note">Материал носит справочный характер и не заменяет индивидуальную консультацию. Состав и методика раздельного учёта устанавливаются 275-ФЗ, ПП № 47, приказом Минфина № 210н и 402-ФЗ и могут уточняться; учётную политику адаптируют под процессы конкретной организации. Проверено экспертом КазнаЭксперт. Дата актуализации — 8 августа 2026.</p>
+      <p class="refs__note">Материал носит справочный характер и не заменяет индивидуальную консультацию. Состав и методика раздельного учёта устанавливаются 275-ФЗ, ПП № 47, приказом Минфина № 210н и 402-ФЗ и могут уточняться; учётную политику адаптируют под процессы конкретной организации. Проверено экспертом КазнаЭксперт. Дата актуализации — 16 августа 2026.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

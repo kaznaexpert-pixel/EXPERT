@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"subsidii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Целевая субсидия юридическому лицу: что это, виды и режим расходования", "description": "Целевая субсидия юридическому лицу: что это по Бюджетному кодексу, виды (на затраты и финобеспечение), режим целевых средств и казначейское сопровождение.", "inLanguage": "ru-RU", "datePublished": "2026-06-17", "dateModified": "2026-06-17", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/celevaya-subsidiya-yuridicheskomu-licu/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/1b6959f23cc516d0e11ddc2e213ca2dca83560df/", "https://www.consultant.ru/document/cons_doc_LAW_19702/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Целевая субсидия юридическому лицу: что это, виды и режим расходования", "description": "Целевая субсидия юридическому лицу: что это по Бюджетному кодексу, виды (на затраты и финобеспечение), режим целевых средств и казначейское сопровождение.", "inLanguage": "ru-RU", "datePublished": "2026-06-17", "dateModified": "2026-08-16", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/celevaya-subsidiya-yuridicheskomu-licu/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/1b6959f23cc516d0e11ddc2e213ca2dca83560df/", "https://www.consultant.ru/document/cons_doc_LAW_19702/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Целевая субсидия юрлицу", "item": "https://kaznaexpert.ru/baza-znaniy/celevaya-subsidiya-yuridicheskomu-licu/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Целевая субсидия юридическому лицу: что это, виды и режим — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-17T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-17T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-16T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -178,7 +178,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Основы <span class="fresh">Актуально на 2026</span></div>
     <h1>Целевая субсидия юридическому лицу: что это, виды и режим расходования</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>17 мин чтения</span><span class="dot">·</span><span>Обновлено 17 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>17 мин чтения</span><span class="dot">·</span><span>Обновлено 16 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -239,7 +239,7 @@
     <p>Ключевое понятие в работе с субсидией — целевые средства. Это деньги, которые можно расходовать только на цели, определённые при их предоставлении. Субсидия по своей природе всегда целевая: в соглашении прописывают, на что именно её разрешено потратить, и любое отклонение считается нарушением. Что относится к целевым средствам и каков их общий режим, мы подробно разбираем в материале о <a href="/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/">целевых средствах при казначейском сопровождении</a>.</p>
     <p>Режим целевых средств означает несколько обязательных правил: деньги хранятся обособленно, тратятся строго по назначению, а каждый расход подтверждается документами. Когда субсидия идёт под сопровождением, эти правила усиливаются — средства зачисляются на отдельный лицевой счёт в казначействе, а не на обычный банковский счёт, и каждый платёж проходит проверку. Смешивать субсидию с собственной выручкой организации нельзя: это прямой путь к признанию расходов нецелевыми.</p>
 
-    <h2 id="soglashenie">Соглашение о предоставлении субсидии и реестр</h2>
+    <p>Обратите внимание на изменения 2026 года. Статьи 78 и 78.1 Бюджетного кодекса дополнены пунктами 12 и 10 соответственно (Федеральный закон от 28.12.2025 № 502-ФЗ), а подпункт 3 в каждом из них введён <b>Федеральным законом от 25.05.2026 № 143-ФЗ</b>: если получатель субсидии направляет средства иным лицам, в соглашении указывают источник финансового обеспечения и порядок учёта НДС. Сам Бюджетный кодекс действует в редакции от 26 июня 2026 года (Федеральный закон от 26.06.2026 № 195-ФЗ, изменения с 1 июля 2026 года). Отдельная оговорка по статье 78.1: её пункт 2 и пункт 4 в части утверждения бюджетных ассигнований до 1 января 2027 года не распространяются на средства, указанные в части 15 статьи 15 Федерального закона от 28.11.2025 № 431-ФЗ.</p> <h2 id="soglashenie">Соглашение о предоставлении субсидии и реестр</h2>
     <p>Субсидия предоставляется не «просто так», а на основании соглашения между распорядителем бюджетных средств и получателем. Соглашение — это и есть документ, который определяет цель, сумму, сроки, условия и порядок контроля. Заключается оно, как правило, в государственной интегрированной информационной системе «Электронный бюджет», а сведения о нём вносятся в реестр соглашений.</p>
     <p>Для получателя соглашение — главный рабочий документ: именно его условия определяют, что можно и чего нельзя делать с деньгами. В нём фиксируют направления расходов, требования к отчётности, обязанность вести раздельный учёт и условия возврата при нарушении. Подключение к ключевой системе работы с бюджетными средствами мы разбираем в материале о <a href="/baza-znaniy/elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta/">ГИИС «Электронный бюджет» для исполнителя контракта</a>. Перед подписанием соглашения стоит внимательно сверить цели и направления расходов — потом изменить их будет сложно.</p>
 
@@ -365,11 +365,11 @@
     <div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
-        <li id="ref-1">Бюджетный кодекс РФ от 31.07.1998 № 145-ФЗ (ред. от 28.12.2025), ст. 78 — субсидии юридическим лицам, ИП, физлицам — <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/1b6959f23cc516d0e11ddc2e213ca2dca83560df/" target="_blank" rel="noopener">consultant.ru</a></li>
+        <li id="ref-1">Бюджетный кодекс РФ от 31.07.1998 № 145-ФЗ (ред. от 26.06.2026, с изм. и доп., вступ. в силу с 01.07.2026), ст. 78 — субсидии юридическим лицам, ИП, физлицам — <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/1b6959f23cc516d0e11ddc2e213ca2dca83560df/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-2">Бюджетный кодекс РФ, ст. 78.1 — субсидии некоммерческим организациям и гранты в форме субсидий — <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-3">Бюджетный кодекс РФ, глава 24.4 — казначейское сопровождение средств — <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>
-      <p class="refs__note">Материал актуален на 17 июня 2026 года и носит справочный характер, не являясь юридической консультацией. Вид субсидии, условия её предоставления и необходимость казначейского сопровождения определяются Бюджетным кодексом, законом о бюджете и соглашением о предоставлении субсидии — перед началом работы сверяйтесь с действующими нормами и условиями вашего соглашения.</p>
+      <p class="refs__note">Материал актуален на 16 августа 2026 года и носит справочный характер, не являясь юридической консультацией. Вид субсидии, условия её предоставления и необходимость казначейского сопровождения определяются Бюджетным кодексом, законом о бюджете и соглашением о предоставлении субсидии — перед началом работы сверяйтесь с действующими нормами и условиями вашего соглашения.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

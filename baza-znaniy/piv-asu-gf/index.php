@@ -159,11 +159,9 @@
 
     <div class="share">
       <span class="share__label">Поделиться:</span>
-      <a href="https://t.me/share/url?url=https%3A%2F%2Fkaznaexpert.ru%2Fbaza-znaniy%2Fpiv-asu-gf%2F&amp;text=%D0%9F%D0%98%D0%92%20%D0%90%D0%A1%D0%A3%20%D0%93%D0%A4%3A%20%D1%87%D1%82%D0%BE%20%D1%8D%D1%82%D0%BE%20%D0%B7%D0%B0%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%2C%20%D0%BA%D0%BE%D0%BC%D1%83%20%D0%BD%D1%83%D0%B6%D0%BD%D0%B0%2C%20%D0%BA%D0%B0%D0%BA%20%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%20%D1%87%D0%B5%D1%80%D0%B5%D0%B7%20%D0%94%D0%B5%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B%2C%20%D0%B2%D1%85%D0%BE%D0%B4%20%D0%BD%D0%B0%20asugf.mos.ru%20%D0%B8%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%B0%20%D1%81%201%D0%A1" target="_blank" rel="noopener"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.56 8.25l-1.86 8.76c-.14.62-.5.77-1.02.48l-2.82-2.08-1.36 1.31c-.15.15-.28.28-.57.28l.2-2.89 5.27-4.76c.23-.2-.05-.32-.35-.12l-6.51 4.1-2.8-.88c-.61-.19-.62-.61.13-.9l10.95-4.22c.5-.18.95.12.79.85z"/></svg>Telegram</a>
+      <a href="https://t.me/share/url?url=https%3A%2F%2Fkaznaexpert.ru%2Fbaza-znaniy%2Fnastroyka-arm-elektronnyy-byudzhet%2F&amp;text=%D0%9A%D0%B0%D0%BA%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C%20%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B5%D0%B5%20%D0%BC%D0%B5%D1%81%D1%82%D0%BE%20%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B%20%D0%B2%20%D0%93%D0%98%D0%98%D0%A1%20%C2%AB%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82%C2%BB%3A%20%D0%BA%D0%B0%D0%BA%D0%B8%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B%20%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C%20%28%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%9F%D1%80%D0%BE%20CSP%2C%20%D0%BF%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD%2C%20%D0%9A%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%D0%B5%D0%BD%D1%82%20TLS%29%2C%20%D0%BA%D0%B0%D0%BA%D0%B8%D0%B5%20%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%BD%D1%83%D0%B6%D0%BD%D1%8B%2C%20%D0%BA%D0%B0%D0%BA%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C%20%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%20%D0%B8%20%D1%87%D1%82%D0%BE%20%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C%20%D1%81%20%D1%82%D0%B8%D0%BF%D0%B8%D1%87%D0%BD%D1%8B%D0%BC%D0%B8%20%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D0%BC%D0%B8%20%D0%B2%D1%85%D0%BE%D0%B4%D0%B0%20403%20%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20CRL" target="_blank" rel="noopener"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.56 8.25l-1.86 8.76c-.14.62-.5.77-1.02.48l-2.82-2.08-1.36 1.31c-.15.15-.28.28-.57.28l.2-2.89 5.27-4.76c.23-.2-.05-.32-.35-.12l-6.51 4.1-2.8-.88c-.61-.19-.62-.61.13-.9l10.95-4.22c.5-.18.95.12.79.85z"/></svg>Telegram</a>
       <button type="button" id="copyLink"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.07 0l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.07 0l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg><span>Копировать ссылку</span></button>
-      <button type="button" id="printBtn"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9V2h12v7M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2M6 14h12v8H6z"/></svg>Скачать PDF</button>
-    </div>
-
+      <button type="button" id="printBtn"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
 <p>Разбираем, кому нужна система, как получить доступ, где вход в личный кабинет и как настроить обмен с 1С — без обращения к платным «настройщикам» там, где всё делается своими руками.</p>
 <section class="keyfacts grain" aria-label="Ключевые факты">
 <h2>Коротко о главном</h2>
@@ -256,34 +254,6 @@
 <li>инструкции и регламенты подключения — на ресурсах Департамента финансов города Москвы (mos.ru).</li>
 </ul>
 <p>Материал проверен по состоянию на 13 августа 2026 года. Автор — Ярослав Михайлов, главный эксперт КазнаЭксперт, 15+ лет в Казначействе.</p>
-  </article>
-
-  <aside class="rail">
-    <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="piv-asu-gf">
-      <div class="railform__badge">Разбор эксперта</div>
-      <h3 class="railform__title">Не получается подключиться к ПИВ АСУ ГФ?</h3>
-      <p class="railform__sub">Поможем получить доступ через Департамент финансов Москвы, открыть лицевой счёт с кодом 44, настроить обмен с 1С и провести документы через личный кабинет без возвратов.</p>
-      <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
-      <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
-      <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
-      <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-      <button class="submit" type="submit">Получить расчёт →</button>
-      <div class="formmsg" id="formMsg" hidden></div>
-      <div class="railform__trust">
-        <span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span>
-        <span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span>
-      </div>
-      <div class="success" id="leadSuccess" role="status" aria-live="polite">
-        <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
-        <h3>Заявка принята</h3>
-        <p>Эксперт перезвонит <b>в течение 1 часа</b> (9:00–21:00 МСК) и разберёт ваш случай.</p>
-        <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
-      </div>
-    </form>
-  <!-- rail-svc -->
-<a class="rail-svc" href="/uslugi/soprovozhdenie-postoplata/"><span class="rail-svc__k">Поможем под ключ</span><span class="rail-svc__n">Сопровождение контракта (постоплата) →</span></a>
-</aside>
-</div>
 
 <section class="related" aria-labelledby="relTitle">
   <div class="related__head"><h2 id="relTitle">Что почитать ещё</h2><a href="/baza-znaniy/">Вся база знаний →</a></div>
@@ -308,7 +278,7 @@
   </div>
 </section>
 
-<section class="kz-sub" aria-labelledby="kzSubTitle" data-source="piv-asu-gf">
+<section class="kz-sub" aria-labelledby="kzSubTitle" data-source="nastroyka-arm-elektronnyy-byudzhet">
   <style>
   .kz-sub{--i:var(--ink,#1A1A1A);--s:var(--sepia,#8B6F47);--l:var(--line,#e4ddd0);--c:var(--card,#fffdf8);--p:var(--paper,#FAF7F0);--m:var(--ink-mute,#8a8170);--sf:var(--ink-soft,#56524b);
     max-width:1240px;margin:40px auto;padding:0 24px;font-family:'Inter',system-ui,sans-serif}
