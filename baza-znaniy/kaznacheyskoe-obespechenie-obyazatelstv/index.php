@@ -370,7 +370,7 @@
         <li id="ref-3">Постановление Правительства РФ от 26.03.2022 № 481 «Об утверждении Правил выдачи (перевода, отзыва) казначейского обеспечения обязательств… при банковском сопровождении» — <a href="http://publication.pravo.gov.ru/Document/View/0001202203280053" target="_blank" rel="noopener">pravo.gov.ru</a></li>
         <li id="ref-4">Федеральный закон от 28.11.2025 № 426-ФЗ «О федеральном бюджете на 2026 год…», ст. 5 — <a href="https://www.consultant.ru/document/cons_doc_LAW_520057/" target="_blank" rel="noopener">consultant.ru</a>; Постановление Правительства РФ от 24.11.2021 № 2024 «О правилах казначейского сопровождения» (ред. от 15.10.2025, с изм. ПП от 11.12.2024 № 1751) — <a href="https://www.consultant.ru/document/cons_doc_LAW_401366/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>
-      <p class="refs__note">Материал носит информационный характер, не является юридической консультацией. Нормы приведены в редакциях, действующих на 11 июня 2026 года; условия применения КОО по конкретному контракту определяются его положениями и законом о бюджете.</p>
+      <p class="refs__note">Материал носит информационный характер, не является юридической консультацией. Нормы приведены в редакциях, действующих на 25 июня 2026 года; условия применения КОО по конкретному контракту определяются его положениями и законом о бюджете.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

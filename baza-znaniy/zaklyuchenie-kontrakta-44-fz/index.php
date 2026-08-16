@@ -338,7 +338,7 @@
         <li id="ref-4">Федеральный закон от 05.04.2013 № 44-ФЗ, статья 104 (реестр недобросовестных поставщиков; часть 10 — порядок направления сведений). <a href="https://www.consultant.ru/document/cons_doc_LAW_144624/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
         <li id="ref-5">Федеральный закон от 05.04.2013 № 44-ФЗ, часть 8 статьи 51 (право заказчика на возмещение убытков, причинённых уклонением). <a href="https://www.consultant.ru/document/cons_doc_LAW_144624/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
       </ol>
-      <p class="refs__note">Нормы приведены в редакции, действующей на 28 июня 2026 года. Материал носит справочный характер и не заменяет юридическую консультацию по конкретной закупке.</p>
+      <p class="refs__note">Нормы приведены в редакции, действующей на 14 августа 2026 года. Материал носит справочный характер и не заменяет юридическую консультацию по конкретной закупке.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

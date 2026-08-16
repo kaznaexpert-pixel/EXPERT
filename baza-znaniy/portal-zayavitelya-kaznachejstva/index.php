@@ -426,7 +426,7 @@
         <li id="ref-4">Приказ Казначейства России от 15.06.2021 № 21н «Об утверждении Регламента удостоверяющего центра Федерального казначейства»; порядок получения сертификата — <a href="https://roskazna.gov.ru/gis/udostoveryayushhij-centr/poluchenie-sertifikata/" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
         <li id="ref-5">Федеральный закон от 21.04.2025 № 94-ФЗ; приказ Казначейства России от 25.08.2025 № 7н (изменения с 01.09.2025) — <a href="http://publication.pravo.gov.ru/" target="_blank" rel="noopener">pravo.gov.ru</a></li>
       </ol>
-      <p class="refs__note">Сведения приведены по состоянию на 12 июня 2026 года. Технические требования к АРМ и формы документов уточняйте в актуальных памятках УЦ ФК и вашем ТОФК: версии ПО периодически обновляются.</p>
+      <p class="refs__note">Сведения приведены по состоянию на 11 августа 2026 года. Технические требования к АРМ и формы документов уточняйте в актуальных памятках УЦ ФК и вашем ТОФК: версии ПО периодически обновляются.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

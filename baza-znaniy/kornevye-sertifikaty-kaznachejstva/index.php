@@ -424,7 +424,7 @@
         <li id="ref-3">Алгоритмы ГОСТ Р 34.10-2012 / ГОСТ Р 34.11-2012; криптопровайдер КриптоПро CSP (документация) — <a href="https://cryptopro.ru/" target="_blank" rel="noopener">cryptopro.ru</a></li>
         <li id="ref-4">КриптоПро: импорт корневого сертификата УЦ через оснастку «Сертификаты» (Windows); хранилище «Доверенные корневые центры сертификации» (Microsoft Learn) — <a href="https://cpdn.cryptopro.ru/content/ngate/admin-guide/source/10-source-csp/task-root-certificate-installation.html" target="_blank" rel="noopener">cpdn.cryptopro.ru</a></li>
       </ol>
-      <p class="refs__note">Материал носит справочный характер и не заменяет инструкцию вашего удостоверяющего центра. Перечень и реквизиты корневых сертификатов УЦ ФК периодически обновляются — скачивайте актуальные файлы с roskazna.gov.ru / crl.roskazna.ru и сверяйте отпечаток по официальному источнику. Проверено экспертом КазнаЭксперт. Дата актуализации — 10 июня 2026.</p>
+      <p class="refs__note">Материал носит справочный характер и не заменяет инструкцию вашего удостоверяющего центра. Перечень и реквизиты корневых сертификатов УЦ ФК периодически обновляются — скачивайте актуальные файлы с roskazna.gov.ru / crl.roskazna.ru и сверяйте отпечаток по официальному источнику. Проверено экспертом КазнаЭксперт. Дата актуализации — 6 августа 2026.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

@@ -485,7 +485,7 @@
         <li id="ref-3">Приказ Минпромторга России от 08.02.2019 № 334 «Об утверждении порядка определения состава затрат, включаемых в цену продукции, поставляемой в рамках государственного оборонного заказа» (ред. от 26.11.2025, изменения действуют с 10.01.2026) — <a href="http://publication.pravo.gov.ru/Document/View/0001201904190019" target="_blank" rel="noopener">pravo.gov.ru</a>, <a href="https://www.consultant.ru/document/cons_doc_LAW_322968/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-4">Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе» (ред. от 04.07.2026) — <a href="https://www.consultant.ru/document/cons_doc_LAW_140175/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>
-      <p class="refs__note">Материал актуален на 4 августа 2026 года. Состав форм и порядок обоснования цены по конкретному контракту определяются запросом заказчика (ВП) и действующими редакциями ПП № 1465, приказов № 995/22 и № 334 — сверяйте редакции на дату подачи комплекта.</p>
+      <p class="refs__note">Материал актуален на 16 августа 2026 года. Состав форм и порядок обоснования цены по конкретному контракту определяются запросом заказчика (ВП) и действующими редакциями ПП № 1465, приказов № 995/22 и № 334 — сверяйте редакции на дату подачи комплекта.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

@@ -420,7 +420,7 @@
         <li id="ref-4">Приказ Казначейства России от 14.05.2020 № 21н «О Порядке казначейского обслуживания» — <a href="https://roskazna.gov.ru/dokumenty/sistemakaznacheyskikh-platezhey/" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
         <li id="ref-5">Казначейство России. Раздел «Документы / Система казначейских платежей / Казначейские счета» (актуальные реквизиты) — <a href="https://roskazna.gov.ru/dokumenty/sistemakaznacheyskikh-platezhey/kaznacheyskie-scheta/" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
       </ol>
-      <p class="refs__note">Материал носит информационный характер, не является финансовой или юридической консультацией. Нормы приведены в редакциях, действующих на 11 июня 2026 года; перед платежом сверяйте реквизиты с первоисточниками.</p>
+      <p class="refs__note">Материал носит информационный характер, не является финансовой или юридической консультацией. Нормы приведены в редакциях, действующих на 11 августа 2026 года; перед платежом сверяйте реквизиты с первоисточниками.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

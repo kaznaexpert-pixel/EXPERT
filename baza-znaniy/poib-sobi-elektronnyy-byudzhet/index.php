@@ -385,7 +385,7 @@
         <li id="ref-5">Сообщение о переносе входа в компонент казначейского сопровождения на eb.cert.roskazna.ru.</li>
         <li id="ref-6">Федеральный закон от 06.04.2011 № 63-ФЗ «Об электронной подписи». <a href="https://www.consultant.ru/document/cons_doc_LAW_112701/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
       </ol>
-      <p class="refs__note">Сведения приведены по состоянию на 24 июня 2026 года. Актуальные адреса входа, версии программного обеспечения и инструкции смотрите на официальном сайте Федерального казначейства roskazna.gov.ru.</p>
+      <p class="refs__note">Сведения приведены по состоянию на 11 августа 2026 года. Актуальные адреса входа, версии программного обеспечения и инструкции смотрите на официальном сайте Федерального казначейства roskazna.gov.ru.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">
