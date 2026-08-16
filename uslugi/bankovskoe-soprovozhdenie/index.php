@@ -25,7 +25,7 @@
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "bestRating": "5", "ratingCount": "7", "reviewCount": "7"}, "datePublished": "2026-08-13", "dateModified": "2026-08-15", "name": "Банковское сопровождение контракта под ключ", "serviceType": "Банковское сопровождение госконтрактов и ГОЗ (ПП № 963, 275-ФЗ)", "description": "Банковское сопровождение контракта под ключ: выбор уполномоченного банка, открытие отдельного счёта, подготовка платежей с ИГК, прохождение банковского контроля без блокировок, разблокировка проблемных платежей. Ведёт эксперт по банковскому сопровождению.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/bankovskoe-soprovozhdenie/", "offers": [{"@type": "Offer", "name": "Банковское сопровождение под ключ", "price": "105000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock"}, {"@type": "Offer", "name": "Пакет «банковское + казначейское сопровождение»", "price": "180000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock"}]}
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "bestRating": "5", "ratingCount": "7", "reviewCount": "7"}, "datePublished": "2026-08-13", "dateModified": "2026-08-16", "name": "Банковское сопровождение контракта под ключ", "serviceType": "Банковское сопровождение госконтрактов и ГОЗ (ПП № 963, 275-ФЗ)", "description": "Банковское сопровождение контракта под ключ: выбор уполномоченного банка, открытие отдельного счёта, подготовка платежей с ИГК, прохождение банковского контроля без блокировок, разблокировка проблемных платежей. Ведёт эксперт по банковскому сопровождению.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/bankovskoe-soprovozhdenie/", "offers": [{"@type": "Offer", "name": "Банковское сопровождение под ключ", "price": "105000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock"}, {"@type": "Offer", "name": "Пакет «банковское + казначейское сопровождение»", "price": "180000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock"}]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Банковское сопровождение"}]}
@@ -262,7 +262,7 @@
         <div class="v2-tariff-stage">Основное</div>
         <h3>Банковское сопровождение</h3>
         <p class="v2-tariff-desc">Счёт, договор с банком, платежи с ИГК, контроль прохождения и проблемные случаи — без лимита операций.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 69 000 ₽</div><div class="v2-tariff-price-note">Фиксированная цена · в договоре</div><a href="#zayavka" class="v2-tariff-link">Обсудить <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">105 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Фиксированная цена · в договоре</div><a href="#zayavka" class="v2-tariff-link">Обсудить <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">03</div>
         <div class="v2-tariff-stage">Дальше</div>
@@ -286,7 +286,7 @@
 
 <section class="v2-section" aria-label="Актуальность страницы">
   <div class="v2-container">
-    <p class="v2-freshness">Страница актуальна на <time datetime="2026-08-15">15 августа 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
+    <p class="v2-freshness">Страница актуальна на <time datetime="2026-08-16">16 августа 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
   </div>
 </section>
 

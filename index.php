@@ -775,7 +775,7 @@
                 <h3>РКМ по гособоронзаказу</h3>
                 <p class="v2-tariff-desc">Составим расчётно-калькуляционные материалы под ключ: калькуляции и расшифровки по формам 995/22, обоснование цены, защита у ВП МО.</p>
                 <div class="v2-tariff-price">
-                  <div class="v2-tariff-price-num">от 69 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div>
+                  <div class="v2-tariff-price-num">105 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div>
                   <div class="v2-tariff-price-note">Разово · комплект по контракту</div>
                   <a href="#contacts" class="v2-tariff-link" data-tariff="rkm">Обсудить контракт <span aria-hidden="true">→</span></a>
                   <a href="/uslugi/sostavlenie-rkm/" class="v2-tariff-more">Подробнее об услуге →</a>
