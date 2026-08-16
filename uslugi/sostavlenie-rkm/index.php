@@ -178,7 +178,7 @@
         <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
         <h2>Оценим объём</h2>
         <p class="v2-hero-action-sub">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт контракт и назовёт стоимость комплекта РКМ. NDA — до передачи документов.</p>
-        <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="vosstanovlenie-razdelnogo-ucheta">
+        <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="sostavlenie-rkm">
           <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
           <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
           <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
@@ -327,7 +327,7 @@
       <p class="v2-section-lede">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт контракт и назовёт стоимость комплекта РКМ. NDA — до передачи документов.</p>
     </div>
     <div style="max-width:520px;margin:0 auto">
-      <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="vosstanovlenie-razdelnogo-ucheta-cta">
+      <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="sostavlenie-rkm-cta">
         <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
         <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
         <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">

@@ -6,13 +6,27 @@
   <atom:link href="https://kaznaexpert.ru/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Экспертные статьи о казначейском сопровождении госконтрактов: 44-ФЗ, 223-ФЗ, ГОЗ, лицевые счета, санкционирование, раздельный учёт.</description>
   <language>ru</language>
-  <lastBuildDate>Sun, 16 Aug 2026 08:56:50 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 09:53:48 +0000</lastBuildDate>
+  <item>
+    <title>Банковское сопровождение контракта по 44-ФЗ в 2026</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/bankovskoe-soprovozhdenie-kontrakta-44-fz/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/bankovskoe-soprovozhdenie-kontrakta-44-fz/</guid>
+    <pubDate>Sun, 16 Aug 2026 12:00:00 +0000</pubDate>
+    <description>Банковское сопровождение контракта по статье 35 № 44-ФЗ: когда устанавливается, обычное и расширенное, отличие от казначейского сопровождения.</description>
+  </item>
   <item>
     <title>Федеральное казначейство: что это, полномочия и ТОФК</title>
     <link>https://kaznaexpert.ru/baza-znaniy/chto-takoe-kaznachejstvo-i-tofk/</link>
     <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/chto-takoe-kaznachejstvo-i-tofk/</guid>
     <pubDate>Sun, 16 Aug 2026 12:00:00 +0000</pubDate>
     <description>Органы Федерального казначейства: что такое казначейство, ТОФК и УФК, какие полномочия закреплены Положением № 703, какие реестры оно ведёт и чем отличается от банка</description>
+  </item>
+  <item>
+    <title>Электронное актирование и приёмка в ЕИС по 44-ФЗ</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/elektronnoe-aktirovanie-priyomka-44-fz/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/elektronnoe-aktirovanie-priyomka-44-fz/</guid>
+    <pubDate>Sun, 16 Aug 2026 12:00:00 +0000</pubDate>
+    <description>Электронное актирование по 44-ФЗ: структурированный документ о приёмке в ЕИС, сроки подписания, мотивированный отказ и связь приёмки с оплатой.</description>
   </item>
   <item>
     <title>Формы РКМ по приказу № 995/22 — полный перечень и назначение</title>
@@ -22,11 +36,53 @@
     <description>Все формы РКМ из приложения № 5 к приказу ФАС № 995/22 (ред. от 18.12.2025): номер, официальное название, когда применяется. Разбивка по трём ситуациям, подписи и типовые ошибки.</description>
   </item>
   <item>
+    <title>Гарантийные обязательства по 44-ФЗ: обеспечение</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/garantijnye-obyazatelstva-po-44-fz/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/garantijnye-obyazatelstva-po-44-fz/</guid>
+    <pubDate>Sun, 16 Aug 2026 12:00:00 +0000</pubDate>
+    <description>Гарантийные обязательства по 44-ФЗ: что это, когда нужно обеспечение, размер до 10% НМЦК, независимая гарантия или деньги, срок и порядок возврата.</description>
+  </item>
+  <item>
+    <title>ИГК в счёте-фактуре и УПД: где указывать и как добавить в 1С</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/igk-v-schete-fakture-i-upd/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/igk-v-schete-fakture-i-upd/</guid>
+    <pubDate>Sun, 16 Aug 2026 12:00:00 +0000</pubDate>
+    <description>Где указывать ИГК — идентификатор госконтракта: строка 8 счёта-фактуры и УПД, счёт на оплату, платёжка. Кто обязан проставлять и как настроить в 1С.</description>
+  </item>
+  <item>
+    <title>Изменение существенных условий контракта по 44-ФЗ (статья 95)</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/izmenenie-sushchestvennyh-usloviy-kontrakta-44-fz/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/izmenenie-sushchestvennyh-usloviy-kontrakta-44-fz/</guid>
+    <pubDate>Sun, 16 Aug 2026 12:00:00 +0000</pubDate>
+    <description>Когда можно изменить существенные условия контракта по 44-ФЗ: случаи статьи 95, правило 10% объёма и цены и антикризисная норма до 2027 года.</description>
+  </item>
+  <item>
+    <title>Книга регистрации казначейских счетов: что это</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/kniga-registracii-kaznacheyskih-schetov/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/kniga-registracii-kaznacheyskih-schetov/</guid>
+    <pubDate>Sun, 16 Aug 2026 12:00:00 +0000</pubDate>
+    <description>Книга регистрации казначейских счетов: что это, кто ведёт, как открывается казначейский счёт, виды счетов 03, ЕКС, БИК ТОФК и где взять реквизиты платежа.</description>
+  </item>
+  <item>
+    <title>Обеспечение заявки по 44-ФЗ: размер, спецсчёт и возврат</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/obespechenie-zayavki-44-fz/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/obespechenie-zayavki-44-fz/</guid>
+    <pubDate>Sun, 16 Aug 2026 12:00:00 +0000</pubDate>
+    <description>Обеспечение заявки по 44-ФЗ (статья 44): когда устанавливается, размер 0,5–5% НМЦК, спецсчёт и блокировка денег или независимая гарантия, возврат и когда удерживают.</description>
+  </item>
+  <item>
     <title>Образец заполнения РКМ — разбор комплекта по шагам</title>
     <link>https://kaznaexpert.ru/baza-znaniy/obrazec-zapolneniya-rkm/</link>
     <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/obrazec-zapolneniya-rkm/</guid>
     <pubDate>Sun, 16 Aug 2026 12:00:00 +0000</pubDate>
     <description>Как заполнить РКМ по ГОЗ: разбор комплекта на условном примере — трудоёмкость, зарплата, материалы, накладные, разрез себестоимости, прибыль и цена. Откуда берётся каждая цифра.</description>
+  </item>
+  <item>
+    <title>Односторонний отказ от исполнения контракта по 44-ФЗ</title>
+    <link>https://kaznaexpert.ru/baza-znaniy/odnostoronniy-otkaz-ot-ispolneniya-kontrakta-44-fz/</link>
+    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/odnostoronniy-otkaz-ot-ispolneniya-kontrakta-44-fz/</guid>
+    <pubDate>Sun, 16 Aug 2026 12:00:00 +0000</pubDate>
+    <description>Односторонний отказ от исполнения контракта по статье 95 44-ФЗ: основания, экспертиза, 10 дней на устранение нарушений, расторжение и попадание в РНП.</description>
   </item>
   <item>
     <title>Отчёт о расходах целевых средств при сопровождении</title>
@@ -160,62 +216,6 @@
     <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/vidy-licevyh-schetov-v-kaznachejstve/</guid>
     <pubDate>Fri, 14 Aug 2026 12:00:00 +0000</pubDate>
     <description>Виды лицевых счетов в казначействе: расшифровка кодов 01, 03, 05, 41, 71 и других, структура номера счёта и какой счёт открывают при казначейском сопровождении.</description>
-  </item>
-  <item>
-    <title>Заключение контракта по 44-ФЗ: сроки и протокол разногласий</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/zaklyuchenie-kontrakta-44-fz/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/zaklyuchenie-kontrakta-44-fz/</guid>
-    <pubDate>Fri, 14 Aug 2026 12:00:00 +0000</pubDate>
-    <description>Как заключается контракт по 44-ФЗ: сроки подписания по статье 51, протокол разногласий, обеспечение и последствия уклонения. Пошаговый порядок 2026.</description>
-  </item>
-  <item>
-    <title>Аванс на строительные материалы при казначейском сопровождении 2026</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/avans-na-stroitelnye-materialy-pri-ks/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/avans-na-stroitelnye-materialy-pri-ks/</guid>
-    <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
-    <description>Как провести аванс на строительные материалы при казначейском сопровождении: перечень из проектной документации, перечень Минстроя 804/пр и документы для оплаты.</description>
-  </item>
-  <item>
-    <title>Гарантийное удержание по контракту при казначейском сопровождении</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/garantiynoe-uderzhanie-po-kontraktu/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/garantiynoe-uderzhanie-po-kontraktu/</guid>
-    <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
-    <description>Гарантийное удержание части оплаты по контракту: чем отличается от обеспечения гарантийных обязательств, когда возвращается и как работает на лицевом счёте.</description>
-  </item>
-  <item>
-    <title>Обеспечительный платёж по госконтракту при сопровождении</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/obespechitelnyy-platezh-po-goskontraktu/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/obespechitelnyy-platezh-po-goskontraktu/</guid>
-    <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
-    <description>Что такое обеспечительный платёж по статье 381.1 ГК, как денежное обеспечение контракта работает в 44-ФЗ, чем отличается от задатка и неустойки и как его вернуть.</description>
-  </item>
-  <item>
-    <title>ПИВ АСУ ГФ: что это, вход в личный кабинет и настройка</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/piv-asu-gf/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/piv-asu-gf/</guid>
-    <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
-    <description>ПИВ АСУ ГФ — система документооборота с Казначейством Москвы: что это, как получить доступ через Депфин, вход на asugf.mos.ru, настройка обмена с 1С и типовые ошибки.</description>
-  </item>
-  <item>
-    <title>Антидемпинговые меры по 44-ФЗ: снижение цены на 25%</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/antidempingovye-mery-44-fz/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/antidempingovye-mery-44-fz/</guid>
-    <pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate>
-    <description>Антидемпинговые меры по статье 37 44-ФЗ: при снижении цены на 25% и более — обеспечение в 1,5 раза или подтверждение добросовестности. Запрет аванса.</description>
-  </item>
-  <item>
-    <title>Строительный контроль при казначейском сопровождении в 2026 году</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/stroitelnyy-kontrol-pri-kaznacheyskom-soprovozhdenii/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/stroitelnyy-kontrol-pri-kaznacheyskom-soprovozhdenii/</guid>
-    <pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate>
-    <description>Строительный контроль (технадзор) при казначейском сопровождении: что это по ст. 53 ГрК, норматив по постановлению № 468 и как оплата проходит казначейство.</description>
-  </item>
-  <item>
-    <title>Целевые средства: что это, виды, режим, коды</title>
-    <link>https://kaznaexpert.ru/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/</link>
-    <guid isPermaLink="true">https://kaznaexpert.ru/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/</guid>
-    <pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
-    <description>Что такое целевые средства, какие средства относятся к целевым в 2026 году по ст. 5 № 426-ФЗ и в каком режиме они расходуются с лицевого счёта 71.</description>
   </item>
 </channel>
 </rss>
