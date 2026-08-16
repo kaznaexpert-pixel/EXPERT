@@ -80,7 +80,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-07T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-10T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-16T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -156,7 +156,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Основы <span class="fresh">Актуально на 2026</span></div>
     <h1>Кто попадает под казначейское сопровождение в 2026 году: пороги, случаи и контракты</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 10 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 16 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -426,7 +426,7 @@
         <li>цена контракта сопоставлена с порогом: 100 млн ₽ (авансы госконтрактов), 10 млн ₽ (контракты учреждений за счёт субсидий), 3 млн ₽ (ГОЗ, единственный поставщик, соисполнители);</li>
         <li>порог посчитан от цены контракта, а не от размера отдельного платежа;</li>
         <li>проверены исключения по ст. 242.27 БК и ч. 4 ст. 5 Закона № 426-ФЗ;</li>
-        <li>уточнено, не применяется ли банковское сопровождение вместо казначейского;</li>
+        <li>уточнено, не применяется ли <a href="/baza-znaniy/normativnaya-baza/pp-963-bankovskoe-soprovozhdenie/">банковское сопровождение</a> вместо казначейского;</li>
         <li>определён режим — обычное или расширенное сопровождение;</li>
         <li>в контракте есть условие о сопровождении и реквизиты лицевого счёта в ТОФК;</li>
         <li>открытие лицевого счёта запланировано до даты первой оплаты;</li>
