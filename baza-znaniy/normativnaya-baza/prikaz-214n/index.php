@@ -77,7 +77,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Приказ Минфина № 214н — санкционирование операций при казначейском">
 <meta property="article:published_time" content="2026-06-06T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-07-21T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-16T10:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">

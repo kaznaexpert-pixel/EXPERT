@@ -179,7 +179,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Приёмка работ по формам КС-2 и КС-3 при сопровождении — КазнаЭксперт">
 <meta property="article:published_time" content="2026-07-15T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-07-15T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-15T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">

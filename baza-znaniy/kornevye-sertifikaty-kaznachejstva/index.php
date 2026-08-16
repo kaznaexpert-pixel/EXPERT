@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Корневые сертификаты УЦ казначейства: где скачать и установить — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-10T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-10T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-06T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">

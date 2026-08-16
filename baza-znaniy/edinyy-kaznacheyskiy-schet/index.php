@@ -134,7 +134,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Единый казначейский счёт (ЕКС): что это и реквизиты в платёжке — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-11T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-11T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-11T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">

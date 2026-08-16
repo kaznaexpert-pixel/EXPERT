@@ -84,7 +84,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Регистрация в ЕИС и ЕРУЗ по 44-ФЗ: пошаговый порядок 2026 — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-26T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-26T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-11T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
