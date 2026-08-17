@@ -263,8 +263,8 @@
     <div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
-        <li id="ref-1">('Услуги и цены казначейского сопровождения — kaznaexpert.ru', 'https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie/')</li>
-        <li id="ref-2">('Бюджетный кодекс РФ, глава 24.4 «Казначейское сопровождение»', 'https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/')</li>
+        <li id="ref-1">Услуги и цены казначейского сопровождения — kaznaexpert.ru — <a href="https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie/" target="_blank" rel="noopener">kaznaexpert.ru</a></li>
+        <li id="ref-2">Бюджетный кодекс РФ, глава 24.4 «Казначейское сопровождение» — <a href="https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/" target="_blank" rel="noopener">base.garant.ru</a></li>
       </ol>
       <p class="refs__note">Цены ориентировочные и фиксируются в договоре по итогам анализа конкретного контракта. Материал носит справочный характер. Проверено экспертом КазнаЭксперт. Дата актуализации — 11 августа 2026.</p>
     </div>

@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>УФК — что это: расшифровка и коды ТОФК всех 88 управлений</title>
-<meta name="description" content="УФК — это Управление Федерального казначейства в регионе, оно же ТОФК. Расшифровка, чем БИК ТОФК отличается от БИК банка, коды и адреса всех 88 управлений.">
+<meta name="description" content="Все 88 управлений Федерального казначейства с поиском: код ТОФК (КОФК), БИК, сайт и адрес. УФК — это территориальный орган казначейства в субъекте РФ, он же ТОФК.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">

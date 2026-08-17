@@ -379,10 +379,10 @@
     <div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
-        <li id="ref-1">('Федеральный закон от 28.11.2025 № 426-ФЗ «О федеральном бюджете на 2026 год…», статья 5', 'https://www.consultant.ru/document/cons_doc_LAW_520057/')</li>
-        <li id="ref-2">('Бюджетный кодекс РФ, глава 24.4 «Казначейское сопровождение»', 'https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/')</li>
-        <li id="ref-3">('Постановление Правительства РФ от 24.11.2021 № 2024 «О правилах казначейского сопровождения»', 'https://www.consultant.ru/document/cons_doc_LAW_401366/')</li>
-      </ol>
+        <li id="ref-1">Федеральный закон от 28.11.2025 № 426-ФЗ «О федеральном бюджете на 2026 год…», статья 5 — <a href="https://www.consultant.ru/document/cons_doc_LAW_520057/" target="_blank" rel="noopener">consultant.ru</a></li>
+        <li id="ref-2">Бюджетный кодекс РФ, глава 24.4 «Казначейское сопровождение» — <a href="https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/" target="_blank" rel="noopener">base.garant.ru</a></li>
+        <li id="ref-3">Постановление Правительства РФ от 24.11.2021 № 2024 «О правилах казначейского сопровождения» — <a href="https://www.consultant.ru/document/cons_doc_LAW_401366/" target="_blank" rel="noopener">consultant.ru</a></li>
+      
           <li id="ref-4">Федеральный закон от 28.11.2025 № 426-ФЗ «О федеральном бюджете на 2026 год и на плановый период 2027 и 2028 годов», статья 5 (с изм. от 26.06.2026) — <a href="https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-5">Бюджетный кодекс РФ, статьи 242.23, 242.25, 242.26, 242.27 (ред. кодекса от 26.06.2026, с изм. с 01.07.2026); приостановление подпункта 1 пункта 2 и пункта 3 статьи 242.23 с 01.01.2025 до 01.01.2027 — федеральные законы от 29.10.2024 № 367-ФЗ и от 28.11.2025 № 431-ФЗ — <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/68f24d27edee7d0ca5315de64a951b15f0af209f/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-6">Постановление Правительства РФ от 11.12.2024 № 1752 (ред. от 17.12.2025) «О порядке перечисления в 2026 году средств, подлежащих казначейскому сопровождению, на расчётные счета, открытые в кредитных организациях»; часть 2 статьи 15 Федерального закона от 28.11.2025 № 431-ФЗ — <a href="https://www.consultant.ru/document/cons_doc_LAW_492991/" target="_blank" rel="noopener">consultant.ru</a></li>

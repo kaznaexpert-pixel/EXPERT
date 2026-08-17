@@ -390,10 +390,10 @@
     <div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
-        <li id="ref-1">('Бюджетный кодекс РФ, статья 242.19-1 «Казначейское обслуживание операций со средствами участников казначейского сопровождения»', 'https://www.consultant.ru/document/cons_doc_LAW_19702/3ff4c08ea40ac0bb2ae3321f0b358f86bf5ab639/')</li>
-        <li id="ref-2">('Бюджетный кодекс РФ, статья 242.23 «Основы казначейского сопровождения»', 'https://www.consultant.ru/document/cons_doc_LAW_19702/68f24d27edee7d0ca5315de64a951b15f0af209f/')</li>
-        <li id="ref-3">('Бюджетный кодекс РФ, глава 24.4 «Казначейское сопровождение»', 'https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/')</li>
-      </ol>
+        <li id="ref-1">Бюджетный кодекс РФ, статья 242.19-1 «Казначейское обслуживание операций со средствами участников казначейского сопровождения» — <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/3ff4c08ea40ac0bb2ae3321f0b358f86bf5ab639/" target="_blank" rel="noopener">consultant.ru</a></li>
+        <li id="ref-2">Бюджетный кодекс РФ, статья 242.23 «Основы казначейского сопровождения» — <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/68f24d27edee7d0ca5315de64a951b15f0af209f/" target="_blank" rel="noopener">consultant.ru</a></li>
+        <li id="ref-3">Бюджетный кодекс РФ, глава 24.4 «Казначейское сопровождение» — <a href="https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/" target="_blank" rel="noopener">base.garant.ru</a></li>
+      
           <li id="ref-4">Бюджетный кодекс РФ (ред. от 26.06.2026, с изм. с 01.07.2026): статьи 242.8-242.13 (система казначейских платежей), 242.14-242.20 (казначейское обслуживание), 242.19-1 — <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/f6c1ec982a7b32b1ed4bc223a4f254b43321870a/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-5">Приказ Федерального казначейства от 14.05.2020 № 21н «О Порядке казначейского обслуживания» (Минюст 13.07.2020 № 58914; ред. приказа от 05.12.2024 № 20н; изменён приказом Федерального казначейства от 15.06.2026 № 13н, Минюст 03.08.2026 № 87715) — <a href="http://publication.pravo.gov.ru/Document/View/0001202007140019" target="_blank" rel="noopener">publication.pravo.gov.ru</a></li>
         <li id="ref-6">Приказ Федерального казначейства от 13.05.2020 № 20н «Об утверждении Правил организации и функционирования системы казначейских платежей» (Минюст 13.07.2020 № 58915; ред. от 27.08.2024; изменён приказом Федерального казначейства от 16.02.2026 № 2н, Минюст 05.05.2026 № 86323) — <a href="https://www.consultant.ru/document/cons_doc_LAW_357224/" target="_blank" rel="noopener">consultant.ru</a></li>

@@ -79,7 +79,7 @@
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
 <meta property="og:title" content="Заказчик не подписывает акт приёмки: что делать">
-P рабочих дней на подписание или мотивированный отказ, односторонний акт по статье 753 ГК, претензия с пенёй и суд — пошаговый план защиты исполнителя госконтракта.">
+<meta property="og:description" content="Заказчик молчит или отказывается подписывать документ о приёмке: сроки по ч. 13 ст. 94 44-ФЗ, мотивированный отказ, односторонний акт по ГК и взыскание оплаты.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/zakazchik-ne-podpisyvaet-akt-priyomki/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
@@ -91,7 +91,7 @@ P рабочих дней на подписание или мотивирова�
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Заказчик не подписывает акт приёмки: что делать">
-P рабочих дней на подписание или мотивированный отказ, односторонний акт по статье 753 ГК, претензия с пенёй и суд — пошаговый план защиты исполнителя госконтракта.">
+<meta name="twitter:description" content="Заказчик молчит или отказывается подписывать документ о приёмке: сроки по ч. 13 ст. 94 44-ФЗ, мотивированный отказ, односторонний акт по ГК и взыскание оплаты.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 

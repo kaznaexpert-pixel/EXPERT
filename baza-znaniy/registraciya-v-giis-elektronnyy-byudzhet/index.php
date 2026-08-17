@@ -390,10 +390,10 @@
     <div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
-        <li id="ref-1">('Инструкции пользователя ГИИС «Электронный бюджет» (раздел подключения) — Федеральное казначейство', 'https://roskazna.gov.ru/gis/elektronnyj-byudzhet/')</li>
-        <li id="ref-2">('Порядок регистрации в ПОИБ СОБИ, формирования МЧД и подключения к ГИИС «Электронный бюджет» — КонсультантПлюс', 'https://www.consultant.ru/document/cons_doc_LAW_501323/f0cc513da78da3a04cd85758ae09c10ce125bb98/')</li>
-        <li id="ref-3">('Бюджетный кодекс РФ, глава 24.4 «Казначейское сопровождение»', 'https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/')</li>
-      </ol>
+        <li id="ref-1">Инструкции пользователя ГИИС «Электронный бюджет» (раздел подключения) — Федеральное казначейство — <a href="https://roskazna.gov.ru/gis/elektronnyj-byudzhet/" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
+        <li id="ref-2">Порядок регистрации в ПОИБ СОБИ, формирования МЧД и подключения к ГИИС «Электронный бюджет» — КонсультантПлюс — <a href="https://www.consultant.ru/document/cons_doc_LAW_501323/f0cc513da78da3a04cd85758ae09c10ce125bb98/" target="_blank" rel="noopener">consultant.ru</a></li>
+        <li id="ref-3">Бюджетный кодекс РФ, глава 24.4 «Казначейское сопровождение» — <a href="https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/" target="_blank" rel="noopener">base.garant.ru</a></li>
+      
           <li id="ref-4">Постановление Правительства РФ от 30.06.2015 № 658 «О государственной интегрированной информационной системе управления общественными финансами "Электронный бюджет"» (ред. постановления от 01.11.2025 № 1735) — <a href="https://www.consultant.ru/document/cons_doc_LAW_182473/" target="_blank" rel="noopener">consultant.ru</a>; приказ Минфина России от 30.12.2019 № 259н (ред. от 20.01.2025) — перечень подсистем, оператором которых является Федеральное казначейство</li>
         <li id="ref-5">Федеральное казначейство. Раздел «Подключение к системе» ГИИС «Электронный бюджет»: бланки единой заявки, перечни полномочий и ролей по подсистемам, таблицы соответствия полномочий машиночитаемой доверенности — <a href="https://roskazna.gov.ru/gis/ehlektronnyj-byudzhet/podklyuchenie-k-sisteme/" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
         <li id="ref-6">Федеральный закон от 06.04.2011 № 63-ФЗ «Об электронной подписи» (ред. от 31.07.2025), статьи 17.2, 17.4, 17.5 — <a href="https://www.consultant.ru/document/cons_doc_LAW_112701/" target="_blank" rel="noopener">consultant.ru</a>; постановление Правительства РФ от 10.07.2020 № 1018 — виды юридических лиц, которым сертификаты выдаёт удостоверяющий центр Федерального казначейства</li>

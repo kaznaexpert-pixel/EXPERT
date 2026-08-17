@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"osnovy"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Участники казначейского сопровождения: кто это и кто в контур не входит", "description": "Кто такие участники казначейского сопровождения: заказчик, исполнитель, соисполнители по кооперации, их лицевые счета — и кто в контур не входит. Разбор по БК РФ.", "inLanguage": "ru-RU", "datePublished": "2026-08-04", "dateModified": "2026-08-10", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/uchastniki-kaznacheyskogo-soprovozhdeniya/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Участники казначейского сопровождения: кто это и кто в контур не входит", "description": "Кто такие участники казначейского сопровождения: заказчик, исполнитель, соисполнители по кооперации, их лицевые счета — и кто в контур не входит. Разбор по БК РФ.", "inLanguage": "ru-RU", "datePublished": "2026-08-04", "dateModified": "2026-08-17", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/uchastniki-kaznacheyskogo-soprovozhdeniya/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Участники казначейского сопровождения", "item": "https://kaznaexpert.ru/baza-znaniy/uchastniki-kaznacheyskogo-soprovozhdeniya/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Участники казначейского сопровождения: кто это — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-10T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-17T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -175,7 +175,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Основы <span class="fresh">Актуально на 2026</span></div>
     <h1>Участники казначейского сопровождения: кто это и кто в контур не входит</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>12 мин чтения</span><span class="dot">·</span><span>Обновлено 10 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>12 мин чтения</span><span class="dot">·</span><span>Обновлено 17 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -310,6 +310,7 @@
     <h2 id="uchastnik-vs-status">Участник сопровождения и участник бюджетного процесса — не путать</h2>
     <p>Два похожих термина часто смешивают. Участник казначейского сопровождения — это роль в конкретном контракте (заказчик, исполнитель, соисполнитель). Участник бюджетного процесса — это бюджетно-правовой статус организации; большинство коммерческих исполнителей им не являются и работают как <a href="/baza-znaniy/neuchastnik-byudzhetnogo-processa/">неучастники бюджетного процесса</a>, которым открывается лицевой счёт с кодом «71».</p>
     <p>То есть одна и та же организация может быть участником казначейского сопровождения по контракту и при этом оставаться неучастником бюджетного процесса по своему статусу. Это не противоречие, а два разных измерения.</p>
+    <p>Отдельного «реестра участников казначейского сопровождения» не существует: роли участников фиксирует сам контракт, а организации учитываются в <a href="/baza-znaniy/svodnyy-reestr/">сводном реестре участников и неучастников бюджетного процесса</a> — именно оттуда берётся код по сводному реестру, который казначейство спрашивает при открытии лицевого счёта.</p>
 
     <h2 id="kak-opredelit">Как определить свой статус по контракту</h2>
     <p>Чтобы понять, участник вы или нет, отталкивайтесь от контракта и источника средств.</p>
@@ -371,15 +372,14 @@
     <div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
-        <li id="ref-1">('Бюджетный кодекс РФ, статья 242.23 «Основы казначейского сопровождения»', 'https://www.consultant.ru/document/cons_doc_LAW_19702/68f24d27edee7d0ca5315de64a951b15f0af209f/')</li>
-        <li id="ref-2">('Бюджетный кодекс РФ, статья 242.19-1 «Казначейское обслуживание операций со средствами участников казначейского сопровождения»', 'https://www.consultant.ru/document/cons_doc_LAW_19702/3ff4c08ea40ac0bb2ae3321f0b358f86bf5ab639/')</li>
-        <li id="ref-3">('Федеральный закон от 28.11.2025 № 426-ФЗ «О федеральном бюджете на 2026 год…», статья 5', 'https://www.consultant.ru/document/cons_doc_LAW_520057/')</li>
-      </ol>
+        <li id="ref-1">Бюджетный кодекс РФ, статья 242.23 «Основы казначейского сопровождения» — <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/68f24d27edee7d0ca5315de64a951b15f0af209f/" target="_blank" rel="noopener">consultant.ru</a></li>
+        <li id="ref-2">Бюджетный кодекс РФ, статья 242.19-1 «Казначейское обслуживание операций со средствами участников казначейского сопровождения» — <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/3ff4c08ea40ac0bb2ae3321f0b358f86bf5ab639/" target="_blank" rel="noopener">consultant.ru</a></li>
+        <li id="ref-3">Федеральный закон от 28.11.2025 № 426-ФЗ «О федеральном бюджете на 2026 год и на плановый период 2027 и 2028 годов», статья 5 — <a href="https://www.consultant.ru/document/cons_doc_LAW_520057/" target="_blank" rel="noopener">consultant.ru</a></li>
           <li id="ref-4">Бюджетный кодекс РФ (ред. от 26.06.2026, с изм. с 01.07.2026): статья 242.23 (пункты 1-3, 4.1, 4.2, 4.3), статья 242.8, статья 242.19-1, статья 242.24, статья 242.27. Приостановление подпункта 1 пункта 2 и пункта 3 статьи 242.23 с 01.01.2025 до 01.01.2027 — федеральные законы от 29.10.2024 № 367-ФЗ и от 28.11.2025 № 431-ФЗ — <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/68f24d27edee7d0ca5315de64a951b15f0af209f/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-5">Постановление Правительства РФ от 11.12.2024 № 1752 (ред. от 17.12.2025) и часть 2 статьи 15 Федерального закона от 28.11.2025 № 431-ФЗ — перечисление средств на расчётные счета поставщиков товаров — <a href="https://www.consultant.ru/document/cons_doc_LAW_492991/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-6">Приказ Федерального казначейства от 22.12.2021 № 44н «Об утверждении Порядка открытия лицевых счетов территориальными органами Федерального казначейства участникам казначейского сопровождения» (ред. от 30.09.2025) — <a href="http://publication.pravo.gov.ru/document/0001202202070025" target="_blank" rel="noopener">publication.pravo.gov.ru</a></li>
       </ol>
-      <p class="refs__note">Состав участников и условия применения режима определяются главой 24.4 Бюджетного кодекса РФ и статьёй 5 Закона № 426-ФЗ на 2026 год. Обратите внимание: норма об открытии лицевых счетов поставщикам по «товарным» контрактам приостановлена до 1 января 2027 года. Материал носит справочный характер. Проверено экспертом КазнаЭксперт. Дата актуализации — 10 августа 2026.</p>
+      <p class="refs__note">Состав участников и условия применения режима определяются главой 24.4 Бюджетного кодекса РФ и статьёй 5 Закона № 426-ФЗ на 2026 год. Обратите внимание: норма об открытии лицевых счетов поставщикам по «товарным» контрактам приостановлена до 1 января 2027 года. Материал носит справочный характер. Проверено экспертом КазнаЭксперт. Дата актуализации — 17 августа 2026.</p>
     </div>
   </article>
 

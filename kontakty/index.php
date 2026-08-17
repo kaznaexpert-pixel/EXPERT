@@ -531,7 +531,6 @@ a.kx-card__val:hover{color:var(--sep)}
       </div>
 </section>
 </main>
-</div>
 
 
 <footer class="v2-footer" id="footer">
