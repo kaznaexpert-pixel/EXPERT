@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Ответственность за нарушения в сфере ГОЗ и казначейского сопровождения", "description": "Ответственность за нарушения в ГОЗ в 2026: новая ст. 7.30.3 КоАП с 01.03.2025, штрафы за учёт и завышение цены, уголовные ст. 201.1 и 285.4 УК РФ.", "inLanguage": "ru-RU", "datePublished": "2026-06-16", "dateModified": "2026-07-06", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/otvetstvennost-za-narusheniya-goz/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_34661/b945e9baa2f86ef7eafc3db4cd85e34064cb6801/", "https://www.consultant.ru/document/cons_doc_LAW_494748/", "https://www.consultant.ru/document/cons_doc_LAW_10699/86ce4e80dc5e967a8a7729335d522944034ccbc8/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Ответственность за нарушения в сфере ГОЗ и казначейского сопровождения", "description": "Ответственность за нарушения в ГОЗ в 2026: новая ст. 7.30.3 КоАП с 01.03.2025, штрафы за учёт и завышение цены, уголовные ст. 201.1 и 285.4 УК РФ.", "inLanguage": "ru-RU", "datePublished": "2026-06-16", "dateModified": "2026-08-17", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/otvetstvennost-za-narusheniya-goz/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_34661/b945e9baa2f86ef7eafc3db4cd85e34064cb6801/", "https://www.consultant.ru/document/cons_doc_LAW_494748/", "https://www.consultant.ru/document/cons_doc_LAW_10699/86ce4e80dc5e967a8a7729335d522944034ccbc8/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Ответственность за нарушения в ГОЗ", "item": "https://kaznaexpert.ru/baza-znaniy/otvetstvennost-za-narusheniya-goz/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Ответственность за нарушения в сфере ГОЗ и казначейского сопровождения — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-16T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-07-06T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-17T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -158,7 +158,7 @@
       <li><a href="#administrativnaya">Административная ответственность по ст. 7.30.3 КоАП</a></li>
       <li><a href="#klyuchevye-shtrafy">Ключевые штрафы: учёт, цена, отчётность</a></li>
       <li><a href="#ugolovnaya">Уголовная ответственность: ст. 201.1 и 285.4 УК</a></li>
-      <li><a href="#kaznacheyskaya">Казначейские последствия: отказ и приостановка</a></li>
+      <li><a href="#sryv">Срыв гособоронзаказа</a></li><li><a href="#kaznacheyskaya">Казначейские последствия: отказ и приостановка</a></li>
       <li><a href="#klassifikator">Классификатор нарушений казначейства</a></li>
       <li><a href="#kto-proveryaet">Кто проверяет и в какие сроки</a></li>
       <li><a href="#howto">Как снизить риск ответственности</a></li>
@@ -174,7 +174,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Ответственность и штрафы <span class="fresh">Актуально на 2026</span></div>
     <h1>Ответственность за нарушения в сфере ГОЗ и казначейского сопровождения</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>18 мин чтения</span><span class="dot">·</span><span>Обновлено 6 июля 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>18 мин чтения</span><span class="dot">·</span><span>Обновлено 17 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -186,7 +186,7 @@
 
     <details class="mtoc"><summary>Содержание статьи</summary>
       <ol>
-        <li><a href="#chto-grozit">Что грозит за нарушения в сфере ГОЗ</a></li><li><a href="#reforma-2025">Реформа 2025 года: новая статья 7.30.3 КоАП</a></li><li><a href="#administrativnaya">Административная ответственность по ст. 7.30.3 КоАП</a></li><li><a href="#klyuchevye-shtrafy">Ключевые штрафы: учёт, цена, отчётность</a></li><li><a href="#ugolovnaya">Уголовная ответственность: ст. 201.1 и 285.4 УК</a></li><li><a href="#kaznacheyskaya">Казначейские последствия: отказ и приостановка</a></li><li><a href="#klassifikator">Классификатор нарушений казначейства</a></li><li><a href="#kto-proveryaet">Кто проверяет и в какие сроки</a></li><li><a href="#howto">Как снизить риск ответственности</a></li><li><a href="#keys">Пример из практики</a></li><li><a href="#glossary">Глоссарий</a></li><li><a href="#faq">Частые вопросы</a></li>
+        <li><a href="#chto-grozit">Что грозит за нарушения в сфере ГОЗ</a></li><li><a href="#reforma-2025">Реформа 2025 года: новая статья 7.30.3 КоАП</a></li><li><a href="#administrativnaya">Административная ответственность по ст. 7.30.3 КоАП</a></li><li><a href="#klyuchevye-shtrafy">Ключевые штрафы: учёт, цена, отчётность</a></li><li><a href="#ugolovnaya">Уголовная ответственность: ст. 201.1 и 285.4 УК</a></li><li><a href="#sryv">Срыв гособоронзаказа</a></li><li><a href="#kaznacheyskaya">Казначейские последствия: отказ и приостановка</a></li><li><a href="#klassifikator">Классификатор нарушений казначейства</a></li><li><a href="#kto-proveryaet">Кто проверяет и в какие сроки</a></li><li><a href="#howto">Как снизить риск ответственности</a></li><li><a href="#keys">Пример из практики</a></li><li><a href="#glossary">Глоссарий</a></li><li><a href="#faq">Частые вопросы</a></li>
       </ol>
     </details>
 
@@ -254,7 +254,29 @@
     </table>
     <p>Статья 285.4 УК РФ применяется, когда должностное лицо использует полномочия вопреки интересам службы из корыстной или иной личной заинтересованности и это причиняет существенный вред при выполнении ГОЗ. Статья 201.1 — её «зеркало» для руководителей коммерческих организаций. Помимо лишения свободы суд может назначить штраф и длительный запрет занимать должности или заниматься деятельностью, связанной с гособоронзаказом.<a class="fn" href="#ref-3" aria-label="Источник 3">[3]</a> Грань между административным и уголовным составом — наличие умысла, корысти и существенного вреда; именно поэтому добросовестные ошибки учёта важно отличать от злоупотреблений и вовремя устранять.</p>
 
-    <h2 id="kaznacheyskaya">Казначейские последствия: отказ и приостановка</h2>
+    <h2 id="sryv">Срыв гособоронзаказа: что за этим стоит юридически</h2>
+<div class="answer reveal" data-ctx="p63-sryv-goz"><p class="lead-p">«Срыв гособоронзаказа» — отраслевое выражение, а не состав правонарушения. Ни в КоАП, ни в Уголовном кодексе статьи с таким названием нет. За тем, что на совещании называют срывом, всегда стоит конкретное нарушение: просроченный этап, непринятая продукция, недостоверная цена или неведение учёта — и у каждого своя норма, свой орган и своя санкция.</p>
+<p>Разница принципиальна для защиты. Когда исполнителю говорят «вы сорвали гособоронзаказ», спорить с формулировкой бессмысленно — нужно перевести претензию в конкретный состав и дальше работать с ним: у состава есть признаки, которые надо доказать, срок давности и предел санкции.</p>
+<table class="ctab"><caption>Что называют срывом и чем это является по нормам</caption><thead><tr><th>Что фактически произошло</th><th>Квалификация</th><th>Куда смотреть</th></tr></thead><tbody>
+<tr><td class="cd">Просрочен этап, поставлено не то количество или не та комплектность</td><td>нарушение условий контракта по количеству, качеству, комплектности, срокам</td><td><a href="#administrativnaya">часть 6 статьи 7.30.3 КоАП</a></td></tr>
+<tr><td class="cd">Действия исполнителя привели к неисполнению контракта или к необоснованному завышению цены</td><td>самостоятельный состав с ответственностью и для юридического лица</td><td><a href="#administrativnaya">часть 8 статьи 7.30.3 КоАП</a></td></tr>
+<tr><td class="cd">Учёт по контракту не вёлся или вёлся с нарушением правил</td><td>нарушение правил раздельного учёта</td><td><a href="#klyuchevye-shtrafy">часть 11 статьи 7.30.3 КоАП</a></td></tr>
+<tr><td class="cd">Отчёт об исполнении контракта не представлен или представлен с нарушением порядка</td><td>нарушение сроков или порядка отчётности</td><td><a href="#klyuchevye-shtrafy">часть 16 статьи 7.30.3 КоАП</a></td></tr>
+<tr><td class="cd">Полномочия использованы вопреки интересам службы, причинён существенный вред</td><td>уголовные составы, специальные для гособоронзаказа</td><td><a href="#ugolovnaya">статьи 201.1, 285.4 и 285.5 УК РФ</a></td></tr>
+<tr><td class="cd">Платёж не проходит, деньги на счёте заблокированы</td><td>не наказание, а контрольная процедура</td><td><a href="#kaznacheyskaya">казначейские последствия</a></td></tr>
+</tbody></table>
+<p>Отдельно стоит развести две вещи, которые в разговоре постоянно смешивают: административная и уголовная ответственность — это про наказание конкретных лиц, а расторжение контракта, неустойка и включение сведений в реестр недобросовестных поставщиков — про гражданско-правовые и контрактные последствия. Они наступают по разным основаниям, в разные сроки и по решению разных органов. Расчёт и снижение неустойки разобраны в материале о <a href="/baza-znaniy/peni-i-shtrafy-po-44-fz/">пенях и штрафах по 44-ФЗ</a>.</p>
+<h3>Что делать исполнителю, когда срыв уже виден</h3>
+<p>Самая дорогая ошибка — молчать до последнего дня этапа в надежде «нагнать». Практика показывает обратную зависимость: чем раньше зафиксирована причина отставания и чем полнее переписка с заказчиком, тем меньше шансов, что просрочка превратится в состав с умыслом.</p>
+<ol class="ol">
+<li><b>Зафиксировать причину письменно</b> — с датами, документами и указанием, что именно препятствует исполнению: непоставка от соисполнителя, отсутствие исходных данных, неподписанный акт предыдущего этапа.</li>
+<li><b>Уведомить заказчика официально</b>, а не по телефону: переписка становится доказательством добросовестности, если дело дойдёт до разбора причин.</li>
+<li><b>Проверить свои встречные права.</b> Если оплата не идёт, а заказчик не подписывает документы, это самостоятельная проблема — см. <a href="/baza-znaniy/zakazchik-ne-podpisyvaet-akt-priyomki/">что делать, если заказчик не подписывает акт приёмки</a>.</li>
+<li><b>Привести в порядок учёт и обоснование цены</b> до проверки, а не после неё: части 8, 9, 11 и 16 статьи 7.30.3 закрываются именно документами, и один наведённый порядок снимает сразу несколько составов.</li>
+<li><b>Разделить «не смогли» и «злоупотребили».</b> Грань между административным и уголовным составом — умысел, корысть и существенный вред. Добросовестная ошибка, устранённая до проверки, и сокрытие фактов — это разные истории даже при одинаковом внешнем результате.</li>
+</ol></div>
+
+<h2 id="kaznacheyskaya">Казначейские последствия: отказ и приостановка</h2>
     <p>Помимо штрафов есть «тихая» ответственность, с которой исполнитель сталкивается чаще всего, — отказ в проведении платежа. Если расход не подтверждён или реквизиты неверны, казначейство отказывает в санкционировании операции, а при нарушении режима счёта операции могут быть приостановлены. Для бизнеса это означает заморозку расчётов и срыв сроков.</p>
     <p>Самые частые причины отказов и способы их избежать мы собрали в материале о <a href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/">причинах отказа казначейства в санкционировании</a>, а сам порядок проверки — в статье о <a href="/baza-znaniy/poryadok-sankcionirovaniya-rashodov/">порядке санкционирования расходов</a>. Отдельный риск — возврат неиспользованных целевых средств в конце контракта; как это происходит, разобрано в материале о <a href="/baza-znaniy/zavershenie-kaznacheyskogo-soprovozhdeniya/">завершении казначейского сопровождения</a>. Эти последствия не «штрафные» по форме, но по факту бьют по деньгам и репутации не меньше, чем административный штраф.</p>
 
@@ -366,7 +388,7 @@
         <li id="ref-2">Федеральный закон от 28.12.2024 № 500-ФЗ — введение ст. 7.30.3 и признание утратившими силу ст. 14.55–14.55.2, 15.37 КоАП РФ — <a href="https://www.consultant.ru/document/cons_doc_LAW_494748/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-3">Уголовный кодекс РФ, ст. 285.4 (ред. от 20.02.2026) и ст. 201.1 — злоупотребление полномочиями при выполнении ГОЗ — <a href="https://www.consultant.ru/document/cons_doc_LAW_10699/86ce4e80dc5e967a8a7729335d522944034ccbc8/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>
-      <p class="refs__note">Материал актуален на 6 июля 2026 года и носит справочный, а не консультационный характер. Размеры санкций приведены по действующей редакции КоАП РФ и УК РФ; квалификация конкретного нарушения и наказание определяются уполномоченными органами и судом. Перед принятием решений сверяйтесь с действующими редакциями норм.</p>
+      <p class="refs__note">Материал актуален на 17 августа 2026 года и носит справочный, а не консультационный характер. Размеры санкций приведены по действующей редакции КоАП РФ и УК РФ; квалификация конкретного нарушения и наказание определяются уполномоченными органами и судом. Перед принятием решений сверяйтесь с действующими редакциями норм.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

@@ -569,7 +569,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/kak-prodlit-i-otozvat-ecp-kaznachejstva/</loc>
-    <lastmod>2026-08-16</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -773,7 +773,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/otvetstvennost-za-narusheniya-goz/</loc>
-    <lastmod>2026-08-15</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1950,6 +1950,12 @@
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/rasshirennoe-bankovskoe-soprovozhdenie/</loc>
     <lastmod>2026-08-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/federalnyy-nomenklaturnyy-nomer-fnn/</loc>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>

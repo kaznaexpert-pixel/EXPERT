@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="УФК задерживает платёж: причины, сроки и что делать — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-29T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-04T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-16T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -174,7 +174,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Операции и отчётность <span class="fresh">Актуально на 2026</span></div>
     <h1>УФК задерживает платёж при казначейском сопровождении: причины, сроки и что делать</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 4 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 16 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -344,7 +344,7 @@
         <li id="ref-4">Федеральный закон от 05.04.2013 № 44-ФЗ, часть 13.1 статьи 34 (срок оплаты по контракту — 10 рабочих дней при казначейском сопровождении). <a href="https://www.consultant.ru/document/cons_doc_LAW_144624/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
         <li id="ref-5">Кодекс РФ об административных правонарушениях, статья 15.49 (нарушение срока утверждения сведений об операциях — с 01.01.2026).</li>
       </ol>
-      <p class="refs__note">Нормы приведены в редакции, действующей на 4 августа 2026 года. Конкретные сроки и комплект документов по отдельным операциям уточняйте в действующей редакции порядка 214н и в своём территориальном органе казначейства. Материал носит справочный характер и не заменяет юридическую консультацию.</p>
+      <p class="refs__note">Нормы приведены в редакции, действующей на 16 августа 2026 года. Конкретные сроки и комплект документов по отдельным операциям уточняйте в действующей редакции порядка 214н и в своём территориальном органе казначейства. Материал носит справочный характер и не заменяет юридическую консультацию.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

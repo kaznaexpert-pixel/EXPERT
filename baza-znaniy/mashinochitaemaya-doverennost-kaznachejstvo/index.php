@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Машиночитаемая доверенность (МЧД) для казначейства — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-29T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-10T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-16T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -174,7 +174,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · ГИИС и ЭЦП <span class="fresh">Актуально на 2026</span></div>
     <h1>Машиночитаемая доверенность (МЧД) для казначейства: когда нужна, как оформить и применять в «Электронном бюджете»</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 10 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 16 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -321,7 +321,7 @@
         <li id="ref-4">Универсальный формат машиночитаемой доверенности (формат 003), применяемый в ГИИС «Электронный бюджет»; распределённый реестр ФНС России.</li>
         <li id="ref-5">Инструкции Федерального казначейства по работе с МЧД в ГИИС «Электронный бюджет» (roskazna.gov.ru).</li>
       </ol>
-      <p class="refs__note">Сведения приведены по состоянию на 10 августа 2026 года. Технические детали оформления и применения МЧД, а также актуальный формат уточняйте в действующих инструкциях казначейства и ФНС. Материал носит справочный характер и не заменяет консультацию.</p>
+      <p class="refs__note">Сведения приведены по состоянию на 16 августа 2026 года. Технические детали оформления и применения МЧД, а также актуальный формат уточняйте в действующих инструкциях казначейства и ФНС. Материал носит справочный характер и не заменяет консультацию.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">
