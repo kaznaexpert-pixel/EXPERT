@@ -66,7 +66,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Обучение казначейскому сопровождению: курс от практика">
 <meta property="article:published_time" content="2026-07-15T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-07-22T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-13T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -138,7 +138,7 @@
 
 <section class="v2-section" aria-label="Актуальность страницы">
   <div class="v2-container">
-    <p class="v2-freshness">Страница актуальна на <time datetime="2026-07-22">22 июля 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
+    <p class="v2-freshness">Страница актуальна на <time datetime="2026-08-13">13 августа 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
   </div>
 </section><section class="v2-section v2-screen" id="zayavka">
   <div class="v2-container">
@@ -207,7 +207,7 @@
 
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "bestRating": "5", "ratingCount": "7", "reviewCount": "7"}, "datePublished": "2026-07-15", "dateModified": "2026-07-22", "name": "Обучение казначейскому сопровождению", "serviceType": "Индивидуальное обучение", "description": "Индивидуальное обучение казначейскому сопровождению госконтрактов: 9 академических часов с экспертом Федерального казначейства на ваших контрактах. Цена 150 000 ₽.", "areaServed": "RU", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru/"}, "offers": {"@type": "Offer", "name": "Обучение · 9 академических часов", "price": "120000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/"}}
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "bestRating": "5", "ratingCount": "7", "reviewCount": "7"}, "datePublished": "2026-07-15", "dateModified": "2026-08-13", "name": "Обучение казначейскому сопровождению", "serviceType": "Индивидуальное обучение", "description": "Индивидуальное обучение казначейскому сопровождению госконтрактов: 9 академических часов с экспертом Федерального казначейства на ваших контрактах. Цена 150 000 ₽.", "areaServed": "RU", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru/"}, "offers": {"@type": "Offer", "name": "Обучение · 9 академических часов", "price": "120000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Сколько длится обучение казначейскому сопровождению?", "acceptedAnswer": {"@type": "Answer", "text": "Курс рассчитан на 9 академических часов. График гибкий: занятия можно распределить на несколько сессий и подстроить под вашу загрузку."}}, {"@type": "Question", "name": "В каком формате проходит обучение?", "acceptedAnswer": {"@type": "Answer", "text": "Индивидуально и онлайн, на ваших реальных контрактах и документах. Учит эксперт с 15+ годами в Федеральном казначействе; после курса остаются материалы и чек-листы."}}, {"@type": "Question", "name": "Кому подходит курс?", "acceptedAnswer": {"@type": "Answer", "text": "Бухгалтерам и финансистам подрядчиков, специалистам по госзакупкам и ответственным за лицевой счёт и «Электронный бюджет» — как для старта с нуля, так и для разбора проблем на действующем контракте."}}, {"@type": "Question", "name": "Что нужно для обучения?", "acceptedAnswer": {"@type": "Answer", "text": "Достаточно доступа к вашим контрактам и рабочему месту с электронной подписью. Программу и примеры адаптируем под ваши задачи."}}]}

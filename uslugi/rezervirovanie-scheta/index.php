@@ -30,7 +30,7 @@
   "@context": "https://schema.org",
   "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "bestRating": "5", "ratingCount": "7", "reviewCount": "7"},
   "datePublished": "2026-06-25",
-  "dateModified": "2026-08-04",
+  "dateModified": "2026-08-16",
   "name": "Резервирование казначейского счёта",
   "serviceType": "Резервирование лицевого счёта к дате тендера",
   "description": "Резервирование казначейского счёта за один рабочий день: анализ тендера, подготовка заявки, подача в УФК и подтверждение готовности для заказчика. Зачёт стоимости в открытие счёта.",
@@ -212,7 +212,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Резервирование казначейского счёта к дате тендера — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-04T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-16T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -558,7 +558,7 @@
 
 <section class="v2-section" aria-label="Актуальность страницы">
   <div class="v2-container">
-    <p class="v2-freshness">Страница актуальна на <time datetime="2026-08-04">4 августа 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
+    <p class="v2-freshness">Страница актуальна на <time datetime="2026-08-16">16 августа 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
   </div>
 </section>
 

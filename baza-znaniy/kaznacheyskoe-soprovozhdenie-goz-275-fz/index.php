@@ -66,7 +66,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-03T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-17T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -84,7 +84,7 @@
   "description":"Кто обязан, порог, отдельный и лицевой счёт, раздельный учёт, расширенное казначейское сопровождение, штрафы, отличие от банковского сопровождения.",
   "author":{"@type":"Person","@id":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person","name":"Ярослав Михайлов","jobTitle":"Главный эксперт по казначейскому сопровождению","worksFor":{"@id":"https://kaznaexpert.ru/#organization"}},
   "publisher":{"@type":"ProfessionalService","@id":"https://kaznaexpert.ru/#organization","name":"КазнаЭксперт"},
-  "datePublished":"2026-06-03","dateModified": "2026-08-03",
+  "datePublished":"2026-06-03","dateModified": "2026-08-17",
   "mainEntityOfPage":"https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/",
   "about":["казначейское сопровождение ГОЗ","275-ФЗ","раздельный учёт гособоронзаказа","отдельный счёт ГОЗ","расширенное казначейское сопровождение"],
   "citation":["ФЗ № 275-ФЗ от 29.12.2012","ФЗ № 426-ФЗ от 28.11.2025, ст. 5","БК РФ, ст. 242.23–242.27","ФЗ № 406-ФЗ от 04.11.2025","ст. 15.37.1, 15.49 КоАП РФ (введены ФЗ № 506-ФЗ от 28.12.2025)"],
@@ -216,7 +216,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на 2026</span></div>
     <h1>Казначейское сопровождение ГОЗ в 2026 году: полный разбор по 275-ФЗ</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>17 мин чтения</span><span class="dot">·</span><span>Обновлено 3 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>17 мин чтения</span><span class="dot">·</span><span>Обновлено 17 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -553,7 +553,7 @@
         <li id="ref-5">Постановление Правительства РФ от 11.12.2024 № 1752 (перечисление средств с лицевых счетов) — <a href="http://publication.pravo.gov.ru/document/0001202412120038" target="_blank" rel="noopener">pravo.gov.ru</a></li>
         <li id="ref-6">Федеральный закон от 04.11.2025 № 406-ФЗ (продление особого порядка расчётов по ГОЗ до 31.12.2026); приказ Минфина России № 12н (раздельный учёт при казначейском сопровождении).</li>
       </ol>
-      <p class="refs__note">Материал носит справочный характер; точный режим сопровождения определяется условиями конкретного госконтракта. Проверено экспертом КазнаЭксперт. Дата актуализации — 3 августа 2026.</p>
+      <p class="refs__note">Материал носит справочный характер; точный режим сопровождения определяется условиями конкретного госконтракта. Проверено экспертом КазнаЭксперт. Дата актуализации — 17 августа 2026.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

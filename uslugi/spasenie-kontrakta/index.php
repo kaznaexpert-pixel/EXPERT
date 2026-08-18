@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "bestRating": "5", "ratingCount": "7", "reviewCount": "7"}, "datePublished": "2026-06-25", "dateModified": "2026-06-25", "name": "Спасение госконтракта", "serviceType": "Срочное восстановление исполнения госконтракта", "description": "Срочная помощь по проблемному госконтракту: диагностика причины возвратов и блокировок, восстановление раздельного учёта и документооборота, снятие приостановки операций, проведение зависших платежей и защита перед казначейством до исполнения контракта.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "99000", "priceCurrency": "RUB", "description": "Восстановление исполнения госконтракта под ключ, после экспресс-аудита", "url": "https://kaznaexpert.ru/uslugi/spasenie-kontrakta/"}, "url": "https://kaznaexpert.ru/uslugi/spasenie-kontrakta/"}
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "bestRating": "5", "ratingCount": "7", "reviewCount": "7"}, "datePublished": "2026-06-25", "dateModified": "2026-08-13", "name": "Спасение госконтракта", "serviceType": "Срочное восстановление исполнения госконтракта", "description": "Срочная помощь по проблемному госконтракту: диагностика причины возвратов и блокировок, восстановление раздельного учёта и документооборота, снятие приостановки операций, проведение зависших платежей и защита перед казначейством до исполнения контракта.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "99000", "priceCurrency": "RUB", "description": "Восстановление исполнения госконтракта под ключ, после экспресс-аудита", "url": "https://kaznaexpert.ru/uslugi/spasenie-kontrakta/"}, "url": "https://kaznaexpert.ru/uslugi/spasenie-kontrakta/"}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Спасение контракта"}]}
@@ -77,7 +77,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Спасение госконтракта — срочная помощь — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-25T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-13T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -302,7 +302,7 @@
 
 <section class="v2-section" aria-label="Актуальность страницы">
   <div class="v2-container">
-    <p class="v2-freshness">Страница актуальна на <time datetime="2026-06-25">25 июня 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
+    <p class="v2-freshness">Страница актуальна на <time datetime="2026-08-13">13 августа 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
   </div>
 </section>
 

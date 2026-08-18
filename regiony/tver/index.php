@@ -35,7 +35,7 @@
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Вы работаете в Твери?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Ведём казначейское сопровождение для подрядчиков из Тверь и всего региона дистанционно — открываем и ведём счёт в УФК по Тверской области через «Электронный бюджет», личное присутствие не требуется."}}, {"@type": "Question", "name": "Какой код у казначейства в Твери?", "acceptedAnswer": {"@type": "Answer", "text": "УФК по Тверской области имеет код КОФК 3600 . Адрес: г. Тверь, Петербургское шоссе, д. 53а. Лицевой счёт в этом ТОФК открываем и ведём дистанционно — полный справочник кодов в базе ТОФК ."}}, {"@type": "Question", "name": "Где находится УФК по Тверской области?", "acceptedAnswer": {"@type": "Answer", "text": "Адрес: г. Тверь, Петербургское шоссе, д. 53а. Приезжать туда не нужно — открытие лицевого счёта и весь документооборот в Твери ведём дистанционно через «Электронный бюджет»."}}, {"@type": "Question", "name": "Сколько стоит сопровождение?", "acceptedAnswer": {"@type": "Answer", "text": "Цены фиксированные и не зависят от региона: открытие счёта — 35 000 ₽, ведение — от 65 000 ₽, спасение контракта — от 35 000 ₽. Точная стоимость — после анализа."}}, {"@type": "Question", "name": "Что если казначейство вернёт документы?", "acceptedAnswer": {"@type": "Answer", "text": "Устраняем замечания без доплат — это входит в услугу. Цель — пройти санкционирование с первой подачи."}}, {"@type": "Question", "name": "Поможете со спасением проблемного контракта?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Срочно подключаемся: находим причину возвратов и блокировок, восстанавливаем учёт и доводим контракт до исполнения."}}, {"@type": "Question", "name": "Нужно ли приезжать в казначейство?", "acceptedAnswer": {"@type": "Answer", "text": "Нет. Весь документооборот идёт электронно через «Электронный бюджет». Мы работаем со всеми регионами РФ удалённо."}}, {"@type": "Question", "name": "Какие сроки открытия лицевого счёта?", "acceptedAnswer": {"@type": "Answer", "text": "Стандартно — два рабочих дня после получения от вас документов. Срок фиксируем в договоре."}}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "WebPage", "url": "https://kaznaexpert.ru/regiony/tver/", "name": "Казначейское сопровождение в Твери — под ключ | КазнаЭксперт", "inLanguage": "ru-RU", "datePublished": "2026-06-05", "dateModified": "2026-07-23"}
+{"@context": "https://schema.org", "@type": "WebPage", "url": "https://kaznaexpert.ru/regiony/tver/", "name": "Казначейское сопровождение в Твери — под ключ | КазнаЭксперт", "inLanguage": "ru-RU", "datePublished": "2026-06-05", "dateModified": "2026-08-16"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -80,7 +80,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-07-23T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-16T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -300,7 +300,7 @@
 
 <section class="v2-section" aria-label="Актуальность страницы">
   <div class="v2-container">
-    <p class="v2-freshness">Страница актуальна на <time datetime="2026-07-23">23 июля 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
+    <p class="v2-freshness">Страница актуальна на <time datetime="2026-08-16">16 августа 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
   </div>
 </section>
 

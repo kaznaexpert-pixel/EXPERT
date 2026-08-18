@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"osnovy"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское обслуживание и казначейское сопровождение: в чём разница", "description": "Чем казначейское обслуживание отличается от сопровождения: обслуживание — проведение операций по счетам, сопровождение — контроль целевых средств. Разбор 2026.", "inLanguage": "ru-RU", "datePublished": "2026-08-04", "dateModified": "2026-08-10", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-obsluzhivanie/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское обслуживание и казначейское сопровождение: в чём разница", "description": "Чем казначейское обслуживание отличается от сопровождения: обслуживание — проведение операций по счетам, сопровождение — контроль целевых средств. Разбор 2026.", "inLanguage": "ru-RU", "datePublished": "2026-08-04", "dateModified": "2026-08-17", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-obsluzhivanie/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Казначейское обслуживание", "item": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-obsluzhivanie/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Казначейское обслуживание и сопровождение: разница — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-10T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-17T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -174,7 +174,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Основы <span class="fresh">Актуально на 2026</span></div>
     <h1>Казначейское обслуживание и казначейское сопровождение: в чём разница</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>11 мин чтения</span><span class="dot">·</span><span>Обновлено 10 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>11 мин чтения</span><span class="dot">·</span><span>Обновлено 17 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -398,7 +398,7 @@
         <li id="ref-5">Приказ Федерального казначейства от 14.05.2020 № 21н «О Порядке казначейского обслуживания» (Минюст 13.07.2020 № 58914; ред. приказа от 05.12.2024 № 20н; изменён приказом Федерального казначейства от 15.06.2026 № 13н, Минюст 03.08.2026 № 87715) — <a href="http://publication.pravo.gov.ru/Document/View/0001202007140019" target="_blank" rel="noopener">publication.pravo.gov.ru</a></li>
         <li id="ref-6">Приказ Федерального казначейства от 13.05.2020 № 20н «Об утверждении Правил организации и функционирования системы казначейских платежей» (Минюст 13.07.2020 № 58915; ред. от 27.08.2024; изменён приказом Федерального казначейства от 16.02.2026 № 2н, Минюст 05.05.2026 № 86323) — <a href="https://www.consultant.ru/document/cons_doc_LAW_357224/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>
-      <p class="refs__note">Понятия разграничены Бюджетным кодексом: обслуживание — глава 24.3 (статьи 242.14-242.20), сопровождение — глава 24.4 (статьи 242.23-242.27); статья 242.19-1 соединяет два института. Материал носит справочный характер. Проверено экспертом КазнаЭксперт. Дата актуализации — 10 августа 2026.</p>
+      <p class="refs__note">Понятия разграничены Бюджетным кодексом: обслуживание — глава 24.3 (статьи 242.14-242.20), сопровождение — глава 24.4 (статьи 242.23-242.27); статья 242.19-1 соединяет два института. Материал носит справочный характер. Проверено экспертом КазнаЭксперт. Дата актуализации — 17 августа 2026.</p>
     </div>
   </article>
 

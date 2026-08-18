@@ -33,7 +33,7 @@
   "description": "Что значит зарезервировать счёт по ГОЗ, чем резервирование отличается от открытия, в каком уполномоченном банке резервировать и что нужно из документов. Опорный банк ОПК, ИГК, режим ст. 8.3 № 275-ФЗ.",
   "inLanguage": "ru-RU",
   "datePublished": "2026-06-14",
-  "dateModified": "2026-08-04",
+  "dateModified": "2026-08-16",
   "author": {
     "@type": "Person",
     "name": "Ярослав Михайлов",
@@ -133,7 +133,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Как зарезервировать отдельный счёт по гособоронзаказу в уполномоченном банке — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-14T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-04T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-16T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -464,7 +464,7 @@
         <li id="ref-2">Перечень уполномоченных банков по сопровождению гособоронзаказа — Банк России — <a href="https://www.cbr.ru/banking_sector/credit/" target="_blank" rel="noopener">cbr.ru</a></li>
         <li id="ref-3">Статья 8.1 Закона № 275-ФЗ — статус уполномоченных банков; перечень ведёт Банк России — <a href="https://www.consultant.ru/document/cons_doc_LAW_140175/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>
-      <p class="refs__note">Материал актуален на 4 августа 2026 года. Уполномоченный банк сделки уточняйте у госзаказчика или головного исполнителя, актуальный перечень уполномоченных банков — на сайте Банка России, режим отдельного счёта — в действующей редакции Закона № 275-ФЗ.</p>
+      <p class="refs__note">Материал актуален на 16 августа 2026 года. Уполномоченный банк сделки уточняйте у госзаказчика или головного исполнителя, актуальный перечень уполномоченных банков — на сайте Банка России, режим отдельного счёта — в действующей редакции Закона № 275-ФЗ.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">
