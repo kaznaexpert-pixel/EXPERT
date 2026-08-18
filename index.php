@@ -18,7 +18,8 @@
     <meta name="author" content="КазнаЭксперт">
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 
-    <link rel="canonical" href="https://kaznaexpert.ru/">
+    <meta name="zen-verification" content="7SsLmrjVvdQXbMYnP4x89HHNy3tVCzihALfOUv163c5zgNHXVONGR3Jx4k8QAG3F" />
+<link rel="canonical" href="https://kaznaexpert.ru/">
 
     <!-- ============================================================ -->
     <!-- ICONS                                                         -->
