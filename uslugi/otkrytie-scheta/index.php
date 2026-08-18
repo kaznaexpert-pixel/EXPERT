@@ -219,7 +219,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Открытие казначейского счёта под ключ: сопровождение за 2 дня">
 <meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-04T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-17T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -627,7 +627,7 @@
 
 <section class="v2-section" aria-label="Актуальность страницы">
   <div class="v2-container">
-    <p class="v2-freshness">Страница актуальна на <time datetime="2026-08-04">4 августа 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
+    <p class="v2-freshness">Страница актуальна на <time datetime="2026-08-17">17 августа 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
   </div>
 </section>
 

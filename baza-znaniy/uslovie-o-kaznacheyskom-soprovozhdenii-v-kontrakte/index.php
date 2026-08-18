@@ -110,7 +110,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Условие о казначейском сопровождении в контракте: формулировка и образец — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-15T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-07-02T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-17T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -202,7 +202,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Основы <span class="fresh">Актуально на 2026</span></div>
     <h1>Условие о казначейском сопровождении в контракте: формулировка и образец</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 2 июля 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 17 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -468,7 +468,7 @@
         <li id="ref-3">Федеральный закон от 05.04.2013 № 44-ФЗ «О контрактной системе…» — порядок заключения и исполнения государственных контрактов — <a href="https://www.consultant.ru/document/cons_doc_LAW_144624/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-4">Правила казначейского сопровождения на 2026 год (постановление Правительства РФ от 11.12.2024 № 1752, ред. от 17.12.2025) — <a href="http://publication.pravo.gov.ru/" target="_blank" rel="noopener">pravo.gov.ru</a></li>
       </ol>
-      <p class="refs__note">Материал актуален на 2 июля 2026 года. Образец формулировки приведён как иллюстрация структуры и не заменяет редакцию конкретного контракта. Перед подписанием сверяйте условие с действующей редакцией Бюджетного кодекса, перечнем целевых средств на текущий год и Правилами казначейского сопровождения.</p>
+      <p class="refs__note">Материал актуален на 17 августа 2026 года. Образец формулировки приведён как иллюстрация структуры и не заменяет редакцию конкретного контракта. Перед подписанием сверяйте условие с действующей редакцией Бюджетного кодекса, перечнем целевых средств на текущий год и Правилами казначейского сопровождения.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

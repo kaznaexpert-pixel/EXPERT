@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Закрытие лицевого счёта в казначействе — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-10T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-17T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -399,7 +399,9 @@
         <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
       </div>
     </form>
-  </aside>
+  <!-- rail-svc -->
+<a class="rail-svc" href="/uslugi/soprovozhdenie-postoplata/"><span class="rail-svc__k">Поможем под ключ</span><span class="rail-svc__n">Сопровождение контракта (постоплата) →</span></a>
+</aside>
 </div>
 
 <section class="related" aria-labelledby="relTitle">
