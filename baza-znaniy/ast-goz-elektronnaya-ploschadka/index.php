@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>АСТ ГОЗ: официальный сайт, аккредитация и вход по 44-ФЗ</title>
-<meta name="description" content="АСТ ГОЗ 44-ФЗ: какие закупки идут на специализированной площадке, официальный перечень операторов, аккредитация по постановлению № 223 и плата оператора.">
+<title>АСТ ГОЗ: электронная площадка, официальный сайт и вход 44-ФЗ</title>
+<meta name="description" content="АСТ ГОЗ: электронная площадка закрытых закупок ГОЗ. Официальный перечень операторов, аккредитация по постановлению № 223, вход в личный кабинет и плата оператора.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -85,8 +85,8 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="АСТ ГОЗ: официальный сайт, аккредитация и вход по 44-ФЗ">
-<meta property="og:description" content="АСТ ГОЗ 44-ФЗ: какие закупки идут на специализированной площадке, официальный перечень операторов, аккредитация по постановлению № 223 и плата оператора.">
+<meta property="og:title" content="АСТ ГОЗ: электронная площадка, официальный сайт и вход 44-ФЗ">
+<meta property="og:description" content="АСТ ГОЗ: электронная площадка закрытых закупок ГОЗ. Официальный перечень операторов, аккредитация по постановлению № 223, вход в личный кабинет и плата оператора.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/ast-goz-elektronnaya-ploschadka/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
@@ -97,8 +97,8 @@
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="АСТ ГОЗ: официальный сайт, аккредитация и вход по 44-ФЗ">
-<meta name="twitter:description" content="АСТ ГОЗ 44-ФЗ: какие закупки идут на специализированной площадке, официальный перечень операторов, аккредитация по постановлению № 223 и плата оператора.">
+<meta name="twitter:title" content="АСТ ГОЗ: электронная площадка, официальный сайт и вход 44-ФЗ">
+<meta name="twitter:description" content="АСТ ГОЗ: электронная площадка закрытых закупок ГОЗ. Официальный перечень операторов, аккредитация по постановлению № 223, вход в личный кабинет и плата оператора.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 

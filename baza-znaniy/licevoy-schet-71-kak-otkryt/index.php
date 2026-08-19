@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Как открыть казначейский счёт (лицевой счёт 71): документы 2026</title>
-<meta name="description" content="Как открыть казначейский счёт (лицевой счёт 71) в ТОФК: документы, порядок через «Электронный бюджет», сроки, резервирование. Пошаговый разбор, актуально на 2026.">
+<title>Лицевой счёт казначейского сопровождения (71): как открыть в 2026</title>
+<meta name="description" content="Лицевой счёт казначейского сопровождения (счёт 71): документы, пошаговый порядок открытия через «Электронный бюджет», сроки и резервирование. Актуально на 2026 год.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -27,7 +27,7 @@
 <script type="application/ld+json">{
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Как открыть казначейский счёт (лицевой счёт 71) в ТОФК: порядок и сроки 2026",
+  "headline": "Как открыть лицевой счёт казначейского сопровождения (счёт 71) в ТОФК",
   "description": "Лицевой счёт с кодом 71: кому и когда нужен, какие документы, как открыть через ГИИС «Электронный бюджет», сроки и частые задержки. Порядок открытия счёта казначейского сопровождения в 2026.",
   "inLanguage": "ru-RU",
   "datePublished": "2026-06-04",
@@ -289,8 +289,8 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Как открыть лицевой счёт 71 в ТОФК: документы, порядок и сроки">
-<meta property="og:description" content="Кому нужен счёт 71, документы, пошаговый порядок открытия через «Электронный бюджет» и сроки.">
+<meta property="og:title" content="Лицевой счёт казначейского сопровождения (71): как открыть в 2026">
+<meta property="og:description" content="Лицевой счёт казначейского сопровождения (счёт 71): документы, пошаговый порядок открытия через «Электронный бюджет», сроки и резервирование. Актуально на 2026 год.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/licevoy-schet-71-kak-otkryt/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
@@ -301,8 +301,8 @@
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Казначейское сопровождение ГОЗ в 2026 году: разбор по 275-ФЗ">
-<meta name="twitter:description" content="Кто обязан, порог 3 млн ₽, счёт, раздельный учёт, штрафы. Со ссылками на НПА.">
+<meta name="twitter:title" content="Лицевой счёт казначейского сопровождения (71): как открыть в 2026">
+<meta name="twitter:description" content="Лицевой счёт казначейского сопровождения (счёт 71): документы, пошаговый порядок открытия через «Электронный бюджет», сроки и резервирование. Актуально на 2026 год.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <!-- Schema: Article -->
@@ -387,7 +387,7 @@
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Счета в казначействе <span class="fresh">Актуально на 2026</span></div>
-    <h1>Как открыть казначейский счёт (лицевой счёт 71) в ТОФК: порядок и сроки 2026</h1>
+    <h1>Как открыть лицевой счёт казначейского сопровождения (счёт 71) в ТОФК</h1>
     <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 17 августа 2026</span></div>
     </div>
 
