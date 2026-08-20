@@ -137,44 +137,44 @@
         </header>
 
 <style>
-.ok{--g:var(--accent,#8B6F47)}
-.ok-wrap{max-width:1240px;margin:0 auto;padding:0 24px}
-.ok-crumbs{font-size:13px;color:var(--mute,#6E6B66);margin:26px auto 0;max-width:1240px;padding:0 24px}
-.ok-crumbs a{color:var(--g);text-decoration:none}
-.ok-hero{padding:40px 24px 8px}
-.ok-eyebrow{font-family:var(--font-body);font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--g);font-weight:600;margin-bottom:14px}
-.ok-h1{font-family:var(--font-display);font-weight:500;font-size:clamp(2rem,3.4vw+1rem,3.2rem);line-height:1.08;letter-spacing:-.01em;color:var(--ink,#1A1A1A);margin:0 0 18px;max-width:18ch}
-.ok-h1 em{font-style:italic;color:var(--g)}
-.ok-lead{font-size:clamp(1.05rem,.6vw+1rem,1.2rem);line-height:1.6;color:var(--ink-soft,#3A3A3A);max-width:62ch}
-.ok-stats{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;margin:40px auto 8px}
-.ok-stat{border:1px solid var(--accent-soft,rgba(139,111,71,.18));border-radius:16px;padding:22px;background:var(--paper,#FBF9F4)}
-.ok-stat b{display:block;font-family:var(--font-display);font-weight:500;font-size:2rem;color:var(--ink);line-height:1}
-.ok-stat span{display:block;margin-top:8px;font-size:14px;color:var(--mute,#6E6B66)}
-.ok-sec{padding:54px 0;border-top:1px solid rgba(26,26,26,.07)}
-.ok-sec h2{font-family:var(--font-display);font-weight:500;font-size:clamp(1.6rem,2vw+1rem,2.2rem);letter-spacing:-.01em;color:var(--ink);margin:0 0 8px}
-.ok-sec h2 em{font-style:italic;color:var(--g)}
-.ok-sec p.lede{color:var(--mute,#6E6B66);max-width:64ch;margin:0 0 26px;font-size:1.05rem;line-height:1.6}
-.ok-prose p{font-size:1.06rem;line-height:1.7;color:var(--ink-soft,#3A3A3A);max-width:68ch;margin:0 0 16px}
-.ok-cards{display:grid;grid-template-columns:repeat(2,1fr);gap:18px}
-.ok-card{border:1px solid var(--accent-soft,rgba(139,111,71,.18));border-radius:16px;padding:24px;background:#fff}
-.ok-card h3{font-family:var(--font-display);font-weight:500;font-size:1.22rem;color:var(--ink);margin:0 0 8px}
-.ok-card p{font-size:.98rem;line-height:1.6;color:var(--mute,#6E6B66);margin:0}
-.ok-expert{display:flex;gap:20px;align-items:center;border:1px solid var(--accent-soft,rgba(139,111,71,.22));border-radius:18px;padding:22px 26px;background:var(--paper,#FBF9F4);text-decoration:none;color:inherit;max-width:640px;transition:transform .2s,border-color .2s}
-.ok-expert:hover{transform:translateY(-3px);border-color:rgba(139,111,71,.5)}
-.ok-mono{width:60px;height:60px;border-radius:50%;flex-shrink:0;display:flex;align-items:center;justify-content:center;background:rgba(139,111,71,.12);color:var(--g);font-family:var(--font-display);font-size:22px;font-weight:600}
-.ok-expert b{font-family:var(--font-display);font-weight:500;font-size:1.2rem;color:var(--ink);display:block}
-.ok-expert span{font-size:14px;color:var(--mute,#6E6B66);display:block;margin-top:3px}
-.ok-req{border:1px solid var(--accent-soft,rgba(139,111,71,.2));border-radius:16px;padding:24px 26px;background:var(--paper,#FBF9F4)}
-.ok-req .row{display:flex;flex-wrap:wrap;gap:8px 28px;font-size:15px;color:var(--ink-soft,#3A3A3A);margin-bottom:16px}
-.ok-req .row b{color:var(--ink)}
-.ok-badges{display:flex;flex-wrap:wrap;gap:12px}
-.ok-badge{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--accent-soft,rgba(139,111,71,.28));border-radius:10px;padding:9px 14px;font-size:14px;color:var(--ink);text-decoration:none;transition:background .2s}
-.ok-badge:hover{background:rgba(139,111,71,.07)}
-.ok-cta{display:flex;flex-wrap:wrap;gap:14px;margin-top:26px}
-.ok-btn{display:inline-flex;align-items:center;padding:14px 26px;border-radius:12px;font-weight:600;font-size:15px;text-decoration:none}
-.ok-btn--solid{background:var(--ink,#1A1A1A);color:#fff}
-.ok-btn--ghost{border:1px solid rgba(26,26,26,.2);color:var(--ink)}
-@media(max-width:860px){.ok-stats{grid-template-columns:repeat(2,1fr)}.ok-cards{grid-template-columns:1fr}}
+.v2 .ok{--g:var(--accent,#8B6F47)}
+.v2 .ok-wrap{max-width:1240px;margin:0 auto;padding:0 24px}
+.v2 .ok-crumbs{font-size:13px;color:var(--mute,#6E6B66);margin:26px auto 0;max-width:1240px;padding:0 24px}
+.v2 .ok-crumbs a{color:var(--g);text-decoration:none}
+.v2 .ok-hero{padding:40px 24px 8px}
+.v2 .ok-eyebrow{font-family:var(--font-body);font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--g);font-weight:600;margin-bottom:14px}
+.v2 .ok-h1{font-family:var(--font-display);font-weight:500;font-size:clamp(2rem,3.4vw+1rem,3.2rem);line-height:1.08;letter-spacing:-.01em;color:var(--ink,#1A1A1A);margin:0 0 18px;max-width:26ch}
+.v2 .ok-h1 em{font-style:italic;color:var(--g)}
+.v2 .ok-lead{font-size:clamp(1.05rem,.6vw+1rem,1.2rem);line-height:1.6;color:var(--ink-soft,#3A3A3A);max-width:72ch}
+.v2 .ok-stats{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;margin:40px auto 8px}
+.v2 .ok-stat{border:1px solid var(--accent-soft,rgba(139,111,71,.18));border-radius:16px;padding:22px;background:var(--paper,#FBF9F4)}
+.v2 .ok-stat b{display:block;font-family:var(--font-display);font-weight:500;font-size:2rem;color:var(--ink);line-height:1}
+.v2 .ok-stat span{display:block;margin-top:8px;font-size:14px;color:var(--mute,#6E6B66)}
+.v2 .ok-sec{padding:54px 0;border-top:1px solid rgba(26,26,26,.07)}
+.v2 .ok-sec h2{font-family:var(--font-display);font-weight:500;font-size:clamp(1.6rem,2vw+1rem,2.2rem);letter-spacing:-.01em;color:var(--ink);margin:0 0 8px}
+.v2 .ok-sec h2 em{font-style:italic;color:var(--g)}
+.v2 .ok-sec p.lede{color:var(--mute,#6E6B66);max-width:64ch;margin:0 0 26px;font-size:1.05rem;line-height:1.6}
+.v2 .ok-prose p{font-size:1.06rem;line-height:1.7;color:var(--ink-soft,#3A3A3A);max-width:68ch;margin:0 0 16px}
+.v2 .ok-cards{display:grid;grid-template-columns:repeat(2,1fr);gap:18px}
+.v2 .ok-card{border:1px solid var(--accent-soft,rgba(139,111,71,.18));border-radius:16px;padding:24px;background:#fff}
+.v2 .ok-card h3{font-family:var(--font-display);font-weight:500;font-size:1.22rem;color:var(--ink);margin:0 0 8px}
+.v2 .ok-card p{font-size:.98rem;line-height:1.6;color:var(--mute,#6E6B66);margin:0}
+.v2 .ok-expert{display:flex;gap:20px;align-items:center;border:1px solid var(--accent-soft,rgba(139,111,71,.22));border-radius:18px;padding:22px 26px;background:var(--paper,#FBF9F4);text-decoration:none;color:inherit;max-width:640px;transition:transform .2s,border-color .2s}
+.v2 .ok-expert:hover{transform:translateY(-3px);border-color:rgba(139,111,71,.5)}
+.v2 .ok-mono{width:60px;height:60px;border-radius:50%;flex-shrink:0;display:flex;align-items:center;justify-content:center;background:rgba(139,111,71,.12);color:var(--g);font-family:var(--font-display);font-size:22px;font-weight:600}
+.v2 .ok-expert b{font-family:var(--font-display);font-weight:500;font-size:1.2rem;color:var(--ink);display:block}
+.v2 .ok-expert span{font-size:14px;color:var(--mute,#6E6B66);display:block;margin-top:3px}
+.v2 .ok-req{border:1px solid var(--accent-soft,rgba(139,111,71,.2));border-radius:16px;padding:24px 26px;background:var(--paper,#FBF9F4)}
+.v2 .ok-req .row{display:flex;flex-wrap:wrap;gap:8px 28px;font-size:15px;color:var(--ink-soft,#3A3A3A);margin-bottom:16px}
+.v2 .ok-req .row b{color:var(--ink)}
+.v2 .ok-badges{display:flex;flex-wrap:wrap;gap:12px}
+.v2 .ok-badge{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--accent-soft,rgba(139,111,71,.28));border-radius:10px;padding:9px 14px;font-size:14px;color:var(--ink);text-decoration:none;transition:background .2s}
+.v2 .ok-badge:hover{background:rgba(139,111,71,.07)}
+.v2 .ok-cta{display:flex;flex-wrap:wrap;gap:14px;margin-top:26px}
+.v2 .ok-btn{display:inline-flex;align-items:center;padding:14px 26px;border-radius:12px;font-weight:600;font-size:15px;text-decoration:none}
+.v2 .ok-btn--solid{background:var(--ink,#1A1A1A);color:#fff}
+.v2 .ok-btn--ghost{border:1px solid rgba(26,26,26,.2);color:var(--ink)}
+@media(max-width:860px){.v2 .ok-stats{grid-template-columns:repeat(2,1fr)}.v2 .ok-cards{grid-template-columns:1fr}}
 </style>
 
 <nav class="ok-crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <span>О компании</span></nav>
@@ -256,7 +256,7 @@
 
 
 <!-- kb-faq -->
-<section class="kb-faq" aria-labelledby="faq"><style>.kb-faq{max-width:1240px;margin:48px auto;padding:0 24px;font-family:'Inter',system-ui,sans-serif}.kb-faq>h2{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:clamp(1.5rem,2vw+1rem,2rem);letter-spacing:-.01em;margin:0 0 18px;color:var(--ink,#1A1A1A)}</style>
+<section class="kb-faq" aria-labelledby="faq"><style>.v2 .kb-faq{max-width:1240px;margin:48px auto;padding:0 24px;font-family:'Inter',system-ui,sans-serif}.v2 .kb-faq>h2{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:clamp(1.5rem,2vw+1rem,2rem);letter-spacing:-.01em;margin:0 0 18px;color:var(--ink,#1A1A1A)}</style>
   <h2 id="faq">Частые вопросы</h2>
   <div class="faq">
       <details><summary>Кто ведёт КазнаЭксперт?</summary><p>Практику основал и ведёт Ярослав Михайлов — эксперт по казначейскому сопровождению, работавший в системе Федерального казначейства с 2009 по 2019 год. С 2021 года практика работает как ИП «КазнаЭксперт».</p></details>
