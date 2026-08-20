@@ -164,6 +164,18 @@
 .v2 .team-partner__mono{width:54px;height:54px;border-radius:50%;flex-shrink:0;display:flex;align-items:center;justify-content:center;background:rgba(139,111,71,.12);color:var(--accent,#8B6F47);font-family:var(--font-display,serif);font-size:20px;font-weight:600}
 .v2 .team-partner__txt b{font-family:var(--font-display,'Playfair Display',serif);font-weight:500;font-size:19px;display:block;line-height:1.1;color:var(--ink)}
 .v2 .team-partner__txt span{font-size:13px;color:var(--mute,#6E6B66);display:block;margin-top:4px}
+
+/* Эксперт-страницы: компактный hero — форма видна на первом экране.
+   Перебиваем глобальный v2.css (.v2-hero{min-height:100vh;align-items:center}) */
+.v2 .v2-hero{min-height:auto !important;display:block !important;padding:26px 0 44px !important}
+.v2 .v2-hero-grid{align-items:start !important}
+.v2 .v2-hero h1{font-size:clamp(34px,3.4vw,50px) !important;margin-bottom:12px !important}
+.v2 .v2-hero-action{padding:24px 26px !important}
+.v2 .expert-form-head{display:flex;align-items:center;gap:14px;margin-bottom:12px;text-align:left}
+.v2 .expert-form-head img{width:64px;height:64px;border-radius:50%;object-fit:cover;display:block;border:1px solid rgba(26,26,26,.14);flex-shrink:0}
+.v2 .expert-form-head .v2-hero-action-eyebrow{margin-bottom:4px}
+.v2 .expert-form-head h2{margin:0;font-size:22px;line-height:1.15}
+.v2 .v2-hero-action-sub{margin-bottom:14px}
 </style>
 <section class="v2-hero">
   <div class="v2-container">
@@ -177,9 +189,7 @@
         <div class="v2-hero-trust" style="margin-top:28px"><div class="v2-trust-item"><div class="v2-trust-num">≈20<span class="v2-trust-suffix">&nbsp;лет</span></div><div class="v2-trust-label">профессионального опыта</div></div><div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">&nbsp;лет</span></div><div class="v2-trust-label">на стороне казначейства</div></div><div class="v2-trust-item"><div class="v2-trust-num">5<span class="v2-trust-suffix">&nbsp;стран</span></div><div class="v2-trust-label">поставок в одном проекте ≈1&nbsp;млрд&nbsp;₽</div></div></div>
       </div>
       <aside class="v2-hero-action">
-        <picture><source srcset="/img/team/bogdanova-sq.webp" type="image/webp"><img src="/img/team/bogdanova-sq.jpg" alt="Анна Богданова — ведущий эксперт по казначейскому сопровождению" width="112" height="112" loading="eager" fetchpriority="high" decoding="async" style="width:112px;height:112px;margin:0 auto 16px;border-radius:50%;object-fit:cover;display:block;border:1px solid rgba(26,26,26,.14)"></picture>
-        <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
-        <h2>Отправить контракт на анализ</h2>
+        <div class="expert-form-head"><picture><source srcset="/img/team/bogdanova-sq.webp" type="image/webp"><img src="/img/team/bogdanova-sq.jpg" alt="Анна Богданова — ведущий эксперт по казначейскому сопровождению" width="64" height="64" loading="eager" fetchpriority="high" decoding="async"></picture><div><div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div><h2>Отправить контракт на анализ</h2></div></div>
         <p class="v2-hero-action-sub">Оставьте контакты — перезвоним за 15 минут, разберём ваш контракт и назовём точную стоимость. NDA — до анализа документов.</p>
         <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="expert-bogdanova-anna">
           <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
