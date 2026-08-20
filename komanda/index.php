@@ -4,14 +4,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Ярослав Михайлов — основатель и главный эксперт КазнаЭксперт</title>
-<meta name="description" content="Ярослав Михайлов — основатель КазнаЭксперт, эксперт по казначейскому сопровождению. Окончил СПбГУ, в Федеральном казначействе с 2009 по 2019 год.">
-<meta name="author" content="Ярослав Михайлов">
+<title>Команда КазнаЭксперт — эксперты по казначейскому сопровождению</title>
+<meta name="description" content="Команда КазнаЭксперт — эксперты по казначейскому сопровождению с опытом работы внутри Федерального казначейства. На сопровождении — более 7000 госконтрактов и свыше 90 млрд ₽.">
+<meta name="author" content="КазнаЭксперт">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#141310" media="(prefers-color-scheme: dark)">
 <!-- PROD: canonical и og:url ОБЯЗАТЕЛЬНО менять под URL каждой статьи -->
-<link rel="canonical" href="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
+<link rel="canonical" href="https://kaznaexpert.ru/komanda/">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
@@ -23,13 +23,13 @@
 <!-- Метрика 94305898 грузится из /js/cookie-consent.js (по согласию, единый счётчик сайта) -->
 <!-- ╚════════════════════════════════════════════════════════════════════════════╝ -->
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
-<script>window.YM_PARAMS = {page_type:"author", cluster:"komanda"};</script>
+<script>window.YM_PARAMS = {page_type:"hub", cluster:"komanda"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "ProfilePage", "mainEntity": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Основатель · главный эксперт", "description": "Ярослав Михайлов — основатель КазнаЭксперт, эксперт по казначейскому сопровождению. Окончил СПбГУ, в Федеральном казначействе с 2009 по 2019 год. Ведёт сложные кейсы, ГОЗ и спасение контрактов.", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-768.jpg", "sameAs": ["https://t.me/Kaznaexpert", "https://dzen.ru/kazna_expert", "https://www.klerk.ru/user/2703999/", "https://www.rusprofile.ru/ip/321784700367672"], "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "knowsAbout": ["Спасение проблемных контрактов", "Расширенное казначейское сопровождение", "ГОЗ и нестандартные кейсы", "Методология работы с УФК", "Сложные эскалации и спорные платежи", "Контроль качества по проектам"], "alumniOf": {"@type": "CollegeOrUniversity", "name": "Санкт-Петербургский государственный университет"}, "founder": {"@type": "Organization", "name": "КазнаЭксперт", "@id": "https://kaznaexpert.ru/#organization"}, "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}}
+{"@context": "https://schema.org", "@type": "CollectionPage", "name": "Команда КазнаЭксперт", "url": "https://kaznaexpert.ru/komanda/", "description": "Команда КазнаЭксперт — эксперты по казначейскому сопровождению с опытом работы внутри Федерального казначейства. На сопровождении — более 7000 госконтрактов и свыше 90 млрд ₽.", "dateModified": "2026-08-20", "isPartOf": {"@id": "https://kaznaexpert.ru/#website"}, "about": {"@id": "https://kaznaexpert.ru/#organization"}, "mainEntity": {"@type": "ItemList", "itemListElement": [{"@type": "ListItem", "position": 1, "item": {"@type": "Person", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "name": "Ярослав Михайлов", "jobTitle": "Основатель · главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-768.jpg", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}}}, {"@type": "ListItem", "position": 2, "item": {"@type": "Person", "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person", "name": "Анна Богданова", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "image": "https://kaznaexpert.ru/img/team/bogdanova-768.jpg", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}}}]}}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Команда", "item": "https://kaznaexpert.ru/komanda/"}, {"@type": "ListItem", "position": 3, "name": "Ярослав Михайлов"}]}
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Команда"}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -63,23 +63,23 @@
 <link rel="preload" href="/css/v2.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/v2.css') ?>" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/css/v2.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/v2.css') ?>"></noscript>
 
-<meta property="og:type" content="profile">
+<meta property="og:type" content="website">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Ярослав Михайлов — Основатель · главный эксперт">
-<meta property="og:description" content="Ярослав Михайлов — основатель КазнаЭксперт, эксперт по казначейскому сопровождению. Окончил СПбГУ, в Федеральном казначействе с 2009 по 2019 год. Ведёт сложные кейсы, ГОЗ и спасение контрактов.">
-<meta property="og:url" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
+<meta property="og:title" content="Команда КазнаЭксперт — эксперты по казначейскому сопровождению">
+<meta property="og:description" content="Команда КазнаЭксперт — эксперты по казначейскому сопровождению с опытом работы внутри Федерального казначейства. На сопровождении — более 7000 госконтрактов и свыше 90 млрд ₽.">
+<meta property="og:url" content="https://kaznaexpert.ru/komanda/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="КазнаЭксперт">
-<meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-03T09:00:00+03:00">
-<meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
+<meta property="article:published_time" content="2026-08-20T12:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-20T12:00:00+03:00">
+
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Ярослав Михайлов — Основатель · главный эксперт">
-<meta name="twitter:description" content="Ярослав Михайлов — основатель КазнаЭксперт, эксперт по казначейскому сопровождению. Окончил СПбГУ, в Федеральном казначействе с 2009 по 2019 год. Ведёт сложные кейсы, ГОЗ и спасение контрактов.">
+<meta name="twitter:title" content="Команда КазнаЭксперт — эксперты по казначейскому сопровождению">
+<meta name="twitter:description" content="Команда КазнаЭксперт — эксперты по казначейскому сопровождению с опытом работы внутри Федерального казначейства. На сопровождении — более 7000 госконтрактов и свыше 90 млрд ₽.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <link rel="stylesheet" href="/css/landing-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/landing-shared.css') ?>">
@@ -176,29 +176,42 @@
 .v2 .expert-form-head .v2-hero-action-eyebrow{margin-bottom:4px}
 .v2 .expert-form-head h2{margin:0;font-size:22px;line-height:1.15}
 .v2 .v2-hero-action-sub{margin-bottom:14px}
+
+/* Хаб команды: карточки экспертов */
+.v2 .expert-cards{display:grid;grid-template-columns:1fr;gap:18px}
+@media(min-width:760px){.v2 .expert-cards{grid-template-columns:1fr 1fr}}
+.v2 .expert-card{display:flex;gap:20px;align-items:flex-start;background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.10));border-radius:16px;padding:26px 28px;text-decoration:none;color:inherit;transition:transform .25s cubic-bezier(.2,.8,.3,1),box-shadow .25s,border-color .25s}
+.v2 .expert-card:hover{transform:translateY(-4px);box-shadow:0 22px 44px -24px rgba(26,26,26,.28);border-color:rgba(139,111,71,.4)}
+.v2 .expert-card img{width:96px;height:96px;border-radius:50%;object-fit:cover;display:block;border:1px solid rgba(26,26,26,.14);flex-shrink:0}
+.v2 .expert-card__stage{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--mute,#6E6B66);font-weight:600}
+.v2 .expert-card__name{font-family:var(--font-display,'Playfair Display',serif);font-weight:500;font-size:22px;line-height:1.15;margin:6px 0 8px;color:var(--ink,#1A1A1A)}
+.v2 .expert-card__desc{font-size:14.5px;line-height:1.55;color:var(--ink-soft,#3A3A3A);margin:0 0 14px}
+.v2 .expert-card__link{font-size:14px;font-weight:500;color:var(--accent,#8B6F47);display:inline-flex;align-items:center;gap:6px;transition:gap .2s}
+.v2 .expert-card:hover .expert-card__link{gap:10px}
+@media(max-width:520px){.v2 .expert-card{flex-direction:column}.v2 .expert-card img{width:80px;height:80px}}
 </style>
 <section class="v2-hero">
   <div class="v2-container">
     <div class="v2-hero-grid">
       <div class="v2-hero-main">
-        <nav class="team-crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/komanda/">Команда</a> › <span>Ярослав Михайлов</span></nav>
-        <div class="v2-hero-eyebrow-row"><span class="v2-eyebrow">Основатель · Эксперт</span><span class="v2-hero-eyebrow-dash" aria-hidden="true"></span></div>
-        <h1>Ярослав Михайлов</h1>
-        <div class="author-hero__sub">Основатель · главный эксперт</div>
-        <p class="v2-hero-lede" style="margin-top:14px">Основатель КазнаЭксперт. Знает казначейское сопровождение с двух сторон — изнутри Федерального казначейства и со стороны бизнеса. Лично ведёт сложные кейсы и эскалации.</p>
-        <div class="v2-hero-trust" style="margin-top:28px"><div class="v2-trust-item"><div class="v2-trust-num">15+<span class="v2-trust-suffix">&nbsp;лет</span></div><div class="v2-trust-label">в Казначействе</div></div><div class="v2-trust-item"><div class="v2-trust-num">2021</div><div class="v2-trust-label">год регистрации ИП</div></div><div class="v2-trust-item"><div class="v2-trust-num">100<span class="v2-trust-suffix">%</span></div><div class="v2-trust-label">дистанционно, вся РФ</div></div></div>
+        <nav class="team-crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <span>Команда</span></nav>
+        <div class="v2-hero-eyebrow-row"><span class="v2-eyebrow">Команда</span><span class="v2-hero-eyebrow-dash" aria-hidden="true"></span></div>
+        <h1>Команда <em>КазнаЭксперт</em></h1>
+        <div class="author-hero__sub">Эксперты по казначейскому сопровождению</div>
+        <p class="v2-hero-lede" style="margin-top:14px">Казначейское сопровождение здесь ведут люди, знающие работу казначейства не по инструкциям, а изнутри: ключевые эксперты команды годами работали по другую сторону процесса — там, где документы рассматривают.</p>
+        <div class="v2-hero-trust" style="margin-top:22px"><div class="v2-trust-item"><div class="v2-trust-num">7000<span class="v2-trust-suffix">+</span></div><div class="v2-trust-label">госконтрактов на сопровождении</div></div><div class="v2-trust-item"><div class="v2-trust-num">90<span class="v2-trust-suffix">+&nbsp;млрд&nbsp;₽</span></div><div class="v2-trust-label">совокупный объём контрактов</div></div><div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+&nbsp;лет</span></div><div class="v2-trust-label">опыт внутри казначейства</div></div></div>
       </div>
       <aside class="v2-hero-action">
-        <div class="expert-form-head"><picture><source srcset="/img/team/mihailov-sq.webp" type="image/webp"><img src="/img/team/mihailov-sq.jpg" alt="Ярослав Михайлов — эксперт по казначейскому сопровождению" width="64" height="64" loading="eager" fetchpriority="high" decoding="async"></picture><div><div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div><h2>Спросить эксперта</h2></div></div>
+        <div class="expert-form-head"><div><div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div><h2>Обсудить контракт с командой</h2></div></div>
         <p class="v2-hero-action-sub">Оставьте контакты — перезвоним за 15 минут, разберём ваш контракт и назовём точную стоимость. NDA — до анализа документов.</p>
-        <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="expert-mihailov-yaroslav">
+        <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="expert-komanda-hub">
           <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
           <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
           <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
           <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
           <button class="submit" type="submit">Получить расчёт →</button>
           <div class="formmsg" id="formMsg" hidden></div>
-          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
+          <div class="railform__trust"><span><b>7000+</b> контрактов · <b>90+ млрд ₽</b> на сопровождении</span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
           <div class="success" id="leadSuccess" role="status" aria-live="polite">
             <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
             <h3>Заявка принята</h3><p>Перезвоним <b>в течение 15 минут</b> (9:00–21:00 МСК).</p>
@@ -212,48 +225,35 @@
 
 <section class="v2-section v2-screen" id="bio">
   <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Об эксперте</div><h2 class="v2-section-title">Путь <em>в профессии</em></h2></div>
-    <div class="bio-prose"><p>Окончил Санкт-Петербургский государственный университет по специальности «Экономика предприятия». С 2009 по 2019 год работал в системе Федерального казначейства — изнутри изучил логику санкционирования платежей, типовые причины отказов и реальные требования территориальных органов к документам.</p><p>После казначейства перешёл на сторону бизнеса и занялся поддержкой компаний по казначейскому сопровождению. Так появился КазнаЭксперт — практика, где казначейское сопровождение ведут люди, знающие работу УФК не по инструкциям, а изнутри.</p><p>Лично контролирует самые сложные ситуации: спасение проблемных контрактов, расширенное казначейское сопровождение, ГОЗ и нестандартные кейсы. По текущим контактам и заявкам отвечает быстро — без длинных цепочек согласований.</p></div>
-
-    <div class="bio-prose" style="margin-top:28px">
-      <p style="font-size:11px;font-weight:500;letter-spacing:.16em;text-transform:uppercase;color:var(--mute);margin-bottom:12px">Профили и публикации эксперта</p>
-      <p style="display:flex;flex-wrap:wrap;gap:12px">
-        <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener" style="font-size:14px;color:var(--ink);background:var(--bg-alt);border:1px solid var(--hair);border-radius:8px;padding:9px 15px">Telegram</a>
-        <a href="https://dzen.ru/kazna_expert" target="_blank" rel="noopener" style="font-size:14px;color:var(--ink);background:var(--bg-alt);border:1px solid var(--hair);border-radius:8px;padding:9px 15px">Дзен — статьи</a>
-        <a href="https://www.klerk.ru/user/2703999/" target="_blank" rel="noopener" style="font-size:14px;color:var(--ink);background:var(--bg-alt);border:1px solid var(--hair);border-radius:8px;padding:9px 15px">Клерк — публикации</a>
-        <a href="https://tenchat.ru/Kazna-gov" target="_blank" rel="noopener" style="font-size:14px;color:var(--ink);background:var(--bg-alt);border:1px solid var(--hair);border-radius:8px;padding:9px 15px">TenChat</a>
-        <a href="https://www.rusprofile.ru/ip/321784700367672" target="_blank" rel="noopener nofollow" style="font-size:14px;color:var(--ink);background:var(--bg-alt);border:1px solid var(--hair);border-radius:8px;padding:9px 15px">Rusprofile — проверка ИП</a>
-      </p>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Эксперты</div><h2 class="v2-section-title">Кто ведёт <em>ваши контракты</em></h2><p class="v2-section-lede">У каждого ключевого эксперта — собственная страница с опытом, методом работы и кейсами из практики.</p></div>
+    <div class="expert-cards">
+      <a class="expert-card" href="/komanda/mihailov-yaroslav/">
+        <picture><source srcset="/img/team/mihailov-sq.webp" type="image/webp"><img src="/img/team/mihailov-sq.jpg" alt="Ярослав Михайлов — основатель и главный эксперт КазнаЭксперт" width="96" height="96" loading="lazy" decoding="async"></picture>
+        <div class="expert-card__body">
+          <span class="expert-card__stage">Основатель · главный эксперт</span>
+          <h3 class="expert-card__name">Ярослав Михайлов</h3>
+          <p class="expert-card__desc">Знает казначейское сопровождение с двух сторон — изнутри Федерального казначейства (с 2009 года) и со стороны бизнеса. Лично ведёт сложные кейсы, ГОЗ и спасение контрактов.</p>
+          <span class="expert-card__link">Страница эксперта <span aria-hidden="true">→</span></span>
+        </div>
+      </a>
+      <a class="expert-card" href="/komanda/bogdanova-anna/">
+        <picture><source srcset="/img/team/bogdanova-sq.webp" type="image/webp"><img src="/img/team/bogdanova-sq.jpg" alt="Анна Богданова — ведущий эксперт по казначейскому сопровождению" width="96" height="96" loading="lazy" decoding="async"></picture>
+        <div class="expert-card__body">
+          <span class="expert-card__stage">Ведущий эксперт</span>
+          <h3 class="expert-card__name">Анна Богданова</h3>
+          <p class="expert-card__desc">Около 20 лет в профессии, из них 15 — на стороне казначейства. Специализация: сложные и нестандартные операции, крупные контракты, иностранные поставки и расчёты в разных валютах.</p>
+          <span class="expert-card__link">Страница эксперта <span aria-hidden="true">→</span></span>
+        </div>
+      </a>
     </div>
   </div>
 </section>
 
 <section class="v2-section v2-screen" id="zona">
   <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Чем занимается</div><h2 class="v2-section-title">Зона <em>ответственности</em></h2><p class="v2-section-lede">Основатель КазнаЭксперт. Знает казначейское сопровождение с двух сторон — изнутри Федерального казначейства и со стороны бизнеса. Лично ведёт сложные кейсы и эскалации.</p></div>
-    <ul class="expert-focus"><li>Спасение проблемных контрактов</li><li>Расширенное казначейское сопровождение</li><li>ГОЗ и нестандартные кейсы</li><li>Методология работы с УФК</li><li>Сложные эскалации и спорные платежи</li><li>Контроль качества по проектам</li></ul>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="uslugi">
-  <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Услуги</div><h2 class="v2-section-title">С чем <em>помогает</em></h2><p class="v2-section-lede">Направления, которые ведёт Ярослав Михайлов. Условия и цены — на страницах услуг.</p></div>
-    <div class="author-services"><a class="author-service" href="/uslugi/spasenie-kontrakta/"><span class="author-service__stage">Срочно</span><h3 class="author-service__title">Спасение контракта</h3><p class="author-service__desc">Возвраты, блокировки, отказы УФК — срочная диагностика и восстановление до исполнения.</p><span class="author-service__link">Подробнее об услуге <span aria-hidden="true">→</span></span></a><a class="author-service" href="/uslugi/soprovozhdenie-avans/"><span class="author-service__stage">Ведение</span><h3 class="author-service__title">Сопровождение с авансом</h3><p class="author-service__desc">Контроль целевого использования, санкционирование, цепочка кооперации — безлимит операций.</p><span class="author-service__link">Подробнее об услуге <span aria-hidden="true">→</span></span></a></div>
-  </div>
-</section>
-
-
-<style>.team-list{list-style:none;margin:14px 0 0;padding:0}.team-list li{padding:12px 0;border-bottom:1px solid #E4DDD0;line-height:1.6}.team-list li:last-child{border-bottom:0}.cases-list li{margin:0 0 12px;line-height:1.6}</style>
-<section class="v2-section v2-screen" id="komanda-hub">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Команда</div>
-      <h2 class="v2-section-title">Команда «КазнаЭксперт»</h2>
-      <p class="v2-section-lede">Ярослав ведёт проекты не один: за ним — команда из пяти специалистов по казначейскому сопровождению. Совокупно на сопровождении — более 7000 государственных контрактов и свыше 90 млрд ₽.</p>
-    </div>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Состав</div><h2 class="v2-section-title">Роли <em>в команде</em></h2><p class="v2-section-lede">За каждым проектом — специалисты по всем этапам казначейского сопровождения.</p></div>
     <ul class="team-list">
-      <li><strong>Ведущий эксперт (Ярослав Михайлов).</strong> Расширенное казначейское сопровождение, гособоронзаказ, методология работы с территориальными органами Казначейства, сложные эскалации и спорные платежи.</li>
-      <li><strong>Ведущий эксперт по казначейскому сопровождению (<a href="/komanda/bogdanova-anna/">Анна Богданова</a>).</strong> Около 20 лет в профессии, 15 лет на стороне казначейства. Сложные и нестандартные операции, крупные контракты, иностранные поставки и расчёты в разных валютах.</li>
+      <li><strong>Ведущие эксперты.</strong> Сложные кейсы, эскалации, нестандартные операции и методология — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a> и <a href="/komanda/bogdanova-anna/">Анна Богданова</a>.</li>
       <li><strong>Специалист по открытию счетов.</strong> Лицевые счета в территориальном органе Казначейства, включение в сводный реестр, настройка рабочего места в ГИИС «Электронный бюджет».</li>
       <li><strong>Специалист по санкционированию.</strong> Распоряжения и сведения об операциях с целевыми средствами, прохождение платежей без возвратов.</li>
       <li><strong>Специалист по раздельному учёту.</strong> Учёт целевых средств по контракту, отчётность, подготовка к проверке казначейства.</li>
@@ -262,43 +262,22 @@
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="ekspertiza">
+<section class="v2-section v2-screen" id="uslugi">
   <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Экспертиза</div>
-      <h2 class="v2-section-title">С какими нормами работает эксперт</h2>
-      <p class="v2-section-lede">Казначейское сопровождение держится на нескольких документах, и практический результат зависит от того, насколько точно они применены к конкретному контракту. Ниже — нормативный контур, в котором Ярослав Михайлов ведёт проекты, и что именно на практике решается в каждом блоке.</p>
-    </div>
-    <ul class="team-list">
-      <li><strong>Глава 24.4 Бюджетного кодекса, статьи 242.23–242.26.</strong> Основания казначейского сопровождения, обязательные условия контракта, режим лицевого счёта и запреты. Практический слой — правильно определить, попадает ли контракт под сопровождение, и снять условие, включённое заказчиком без оснований. Разбор нормы — в статье про <a href="/baza-znaniy/normativnaya-baza/bk-242-23/">статью 242.23 БК</a>.</li>
-      <li><strong>Приказ Минфина России № 214н.</strong> Порядок санкционирования: перечень документов-оснований, коды источников поступлений и направлений расходования, форма сведений об операциях с целевыми средствами. Здесь возникает большинство возвратов распоряжений — из-за кода, назначения платежа или расхождения со сведениями. Справочник — <a href="/baza-znaniy/kody/">коды направления расходования</a> и <a href="/baza-znaniy/normativnaya-baza/prikaz-214n/">разбор приказа 214н</a>.</li>
-      <li><strong>Постановление Правительства РФ № 2024.</strong> Правила казначейского сопровождения: порядок открытия лицевых счетов, перечисления средств, особенности по гособоронзаказу. Применяется при выстраивании цепочки кооперации, когда сопровождение уходит к соисполнителям.</li>
-      <li><strong>Федеральный закон № 275-ФЗ о гособоронзаказе.</strong> Режим отдельного счёта, разрешённые и запрещённые операции, раздельный учёт, кооперация. Отдельная зона — согласование расчётов, которые формально запрещены режимом счёта, и подготовка к проверкам военного представительства. Материалы: <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/">казначейское сопровождение по 275-ФЗ</a>, <a href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/">раздельный учёт по гособоронзаказу</a>.</li>
-      <li><strong>Закон о федеральном бюджете на текущий год.</strong> Именно он ежегодно устанавливает перечень средств и ценовые пороги, при которых сопровождение применяется. Пороги меняются каждый год, и контракт, который в прошлом году под сопровождение не попадал, в этом может попасть — сверка порогов входит в первичную диагностику контракта.</li>
-      <li><strong>44-ФЗ и 223-ФЗ в части исполнения контракта.</strong> Сроки оплаты, изменение существенных условий, авансирование, расторжение и возврат аванса — на стыке с казначейским режимом, где формально законная закупочная процедура упирается в режим лицевого счёта.</li>
-    </ul>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Как устроена работа</div><h2 class="v2-section-title">Скорость команды <em>плюс экспертиза</em></h2><p class="v2-section-lede">Типовые операции выполняет операционная команда по отлаженному процессу — быстро и без очереди к «самому опытному». Когда возникает нестандартная ситуация, подключается ведущий эксперт: разбирает проблему, определяет решение и встраивает его в процесс. Клиент получает и скорость, и доступ к экспертизе уровня 15–20 лет — в одной услуге.</p></div>
+    <div class="author-services"><a class="author-service" href="/uslugi/kaznacheyskoe-soprovozhdenie/"><span class="author-service__stage">Ведение</span><h3 class="author-service__title">Казначейское сопровождение</h3><p class="author-service__desc">Полное сопровождение контракта: документы, санкционирование, платежи — включая сложные и нетиповые операции.</p><span class="author-service__link">Подробнее об услуге <span aria-hidden="true">→</span></span></a><a class="author-service" href="/uslugi/spasenie-kontrakta/"><span class="author-service__stage">Срочно</span><h3 class="author-service__title">Спасение контракта</h3><p class="author-service__desc">Возвраты, блокировки, отказы УФК — срочная диагностика и восстановление до исполнения.</p><span class="author-service__link">Подробнее об услуге <span aria-hidden="true">→</span></span></a></div>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="kejsy">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Практика</div>
-      <h2 class="v2-section-title">Кейсы из практики</h2>
-      <p class="v2-section-lede">Обобщённые примеры типовых ситуаций из практики сопровождения — без раскрытия клиентов и конкретных сумм.</p>
-    </div>
-    <ul class="cases-list">
-      <li><strong>Серия отказов УФК в санкционировании.</strong> Причина — направления расходов не были заранее заявлены в сведениях об операциях. Пересобрали сведения по КВР и КОСГУ, согласовали с территориальным органом Казначейства — платежи пошли.</li>
-      <li><strong>Зависший аванс по гособоронзаказу.</strong> Аванс не проходил из-за расхождения реквизитов и отсутствия идентификатора государственного контракта в назначении платежа. Исправили реквизиты и комплект документов-оснований — средства разблокированы.</li>
-      <li><strong>Восстановление раздельного учёта перед проверкой.</strong> Учёт целевых средств не вёлся с начала исполнения. Восстановили регистры и первичные документы, привели отчётность в соответствие до прихода проверки.</li>
-    </ul>
-  </div>
-</section>
+
+<style>.team-list{list-style:none;margin:14px 0 0;padding:0}.team-list li{padding:12px 0;border-bottom:1px solid #E4DDD0;line-height:1.6}.team-list li:last-child{border-bottom:0}.cases-list li{margin:0 0 12px;line-height:1.6}</style>
+
+
 
 <section class="v2-section v2-screen" id="zayavka">
   <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Заявка</div><h2 class="v2-section-title">Обсудить ваш контракт <em>с экспертом</em></h2><p class="v2-section-lede">Оставьте контакты — перезвоним за 15 минут, разберём ситуацию и назовём точную стоимость.</p></div>
-    <div style="max-width:520px;margin:0 auto"><form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="expert-mihailov-yaroslav-cta">
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Заявка</div><h2 class="v2-section-title">Обсудить ваш контракт <em>с командой</em></h2><p class="v2-section-lede">Оставьте контакты — перезвоним за 15 минут, разберём ситуацию и назовём точную стоимость.</p></div>
+    <div style="max-width:520px;margin:0 auto"><form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="expert-komanda-hub-cta">
           <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
           <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
           <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
@@ -334,17 +313,16 @@
 
 <!-- kb-faq -->
 <section class="kb-faq" aria-labelledby="faqH"><style>.kb-faq{max-width:1240px;margin:48px auto;padding:0 24px;font-family:'Inter',system-ui,sans-serif}.kb-faq>h2{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:clamp(1.5rem,2vw+1rem,2rem);letter-spacing:-.01em;margin:0 0 18px;color:var(--ink,#1A1A1A)}</style>
-  <h2 id="faq">Частые вопросы</h2>
+    <h2 id="faq">Частые вопросы</h2>
   <div class="faq">
-      <details><summary>Кто такой Ярослав Михайлов?</summary><p>Основатель и главный эксперт КазнаЭксперт. Знает казначейское сопровождение с двух сторон — изнутри Федерального казначейства и со стороны бизнеса.</p></details>
-      <details><summary>Какой у Ярослава опыт?</summary><p>Более 15 лет в сфере: с 2009 года — в системе Федерального казначейства, с 2021 года ведёт клиентов как ИП «КазнаЭксперт».</p></details>
-      <details><summary>Какие вопросы он ведёт лично?</summary><p>Сложные кейсы и эскалации: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p></details>
-      <details><summary>С какими законами он работает?</summary><p>Казначейское сопровождение по 44-ФЗ, 223-ФЗ и гособоронзаказу (275-ФЗ), а также раздельный учёт и нормативная база.</p></details>
-      <details><summary>Как связаться с Ярославом?</summary><p>Через форму на сайте или Telegram <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a> — эксперт перезванивает в течение часа.</p></details>
+      <details><summary>Кто будет вести мой контракт?</summary><p>Типовые операции выполняет операционная команда, сложные ситуации разбирают ведущие эксперты — Ярослав Михайлов и Анна Богданова. Ответственный эксперт определяется после анализа контракта.</p></details>
+      <details><summary>Чем команда КазнаЭксперт отличается от других?</summary><p>Ключевые эксперты годами работали внутри системы казначейства и знают процедуру со стороны, которая рассматривает документы. Это позволяет находить проблемы до подачи, а не исправлять после возврата.</p></details>
+      <details><summary>Какой у команды суммарный опыт?</summary><p>На сопровождении — более 7000 государственных контрактов на сумму свыше 90 млрд ₽. Опыт ключевых экспертов внутри казначейства — 15 лет и более.</p></details>
+      <details><summary>Как связаться с командой?</summary><p>Через форму на этой странице или Telegram <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a> — перезваниваем в течение 15 минут в рабочее время.</p></details>
   </div>
 </section>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Кто такой Ярослав Михайлов?", "acceptedAnswer": {"@type": "Answer", "text": "Основатель и главный эксперт КазнаЭксперт. Знает казначейское сопровождение с двух сторон — изнутри Федерального казначейства и со стороны бизнеса."}}, {"@type": "Question", "name": "Какой у Ярослава опыт?", "acceptedAnswer": {"@type": "Answer", "text": "Более 15 лет в сфере: с 2009 года — в системе Федерального казначейства, с 2021 года ведёт клиентов как ИП «КазнаЭксперт»."}}, {"@type": "Question", "name": "Какие вопросы он ведёт лично?", "acceptedAnswer": {"@type": "Answer", "text": "Сложные кейсы и эскалации: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства."}}, {"@type": "Question", "name": "С какими законами он работает?", "acceptedAnswer": {"@type": "Answer", "text": "Казначейское сопровождение по 44-ФЗ, 223-ФЗ и гособоронзаказу (275-ФЗ), а также раздельный учёт и нормативная база."}}, {"@type": "Question", "name": "Как связаться с Ярославом?", "acceptedAnswer": {"@type": "Answer", "text": "Через форму на сайте или Telegram @Kaznaexpert — эксперт перезванивает в течение часа."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Кто будет вести мой контракт?", "acceptedAnswer": {"@type": "Answer", "text": "Типовые операции выполняет операционная команда, сложные ситуации разбирают ведущие эксперты — Ярослав Михайлов и Анна Богданова. Ответственный эксперт определяется после анализа контракта."}}, {"@type": "Question", "name": "Чем команда КазнаЭксперт отличается от других?", "acceptedAnswer": {"@type": "Answer", "text": "Ключевые эксперты годами работали внутри системы казначейства и знают процедуру со стороны, которая рассматривает документы. Это позволяет находить проблемы до подачи, а не исправлять после возврата."}}, {"@type": "Question", "name": "Какой у команды суммарный опыт?", "acceptedAnswer": {"@type": "Answer", "text": "На сопровождении — более 7000 государственных контрактов на сумму свыше 90 млрд ₽. Опыт ключевых экспертов внутри казначейства — 15 лет и более."}}, {"@type": "Question", "name": "Как связаться с командой?", "acceptedAnswer": {"@type": "Answer", "text": "Через форму на этой странице или Telegram @Kaznaexpert — перезваниваем в течение 15 минут в рабочее время."}}]}
 </script>
 <footer class="v2-footer" id="footer">
         <div class="v2-container">

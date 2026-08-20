@@ -29,7 +29,7 @@
 {"@context": "https://schema.org", "@type": "ProfilePage", "dateModified": "2026-08-20", "mainEntity": {"@type": "Person", "name": "Анна Богданова", "alternateName": "Богданова Анна Андреевна", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "description": "Анна Богданова — ведущий эксперт КазнаЭксперт по казначейскому сопровождению. Около 20 лет в профессии, 15 лет на стороне казначейства. Сложные операции, крупные контракты, иностранные поставки.", "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "image": "https://kaznaexpert.ru/img/team/bogdanova-768.jpg", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "knowsAbout": ["Сложные и нестандартные операции казначейского сопровождения", "Казначейское сопровождение крупных контрактов", "Иностранные поставки и инвойсы", "Расчёты в разных валютах", "Санкционирование платежей и работа с замечаниями", "Аудит процесса казначейского сопровождения"], "colleague": {"@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person"}}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Анна Богданова"}]}
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Команда", "item": "https://kaznaexpert.ru/komanda/"}, {"@type": "ListItem", "position": 3, "name": "Анна Богданова"}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -181,7 +181,7 @@
   <div class="v2-container">
     <div class="v2-hero-grid">
       <div class="v2-hero-main">
-        <nav class="team-crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <span>Анна Богданова</span></nav>
+        <nav class="team-crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/komanda/">Команда</a> › <span>Анна Богданова</span></nav>
         <div class="v2-hero-eyebrow-row"><span class="v2-eyebrow">Команда · Ведущий эксперт</span><span class="v2-hero-eyebrow-dash" aria-hidden="true"></span></div>
         <h1>Анна Богданова</h1>
         <div class="author-hero__sub">Ведущий эксперт по казначейскому сопровождению</div>
@@ -357,6 +357,7 @@
               <a href="/baza-znaniy/">База знаний</a>
               <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a>
               <a href="/o-kompanii/">О компании</a>
+              <a href="/komanda/">Команда экспертов</a>
               <a href="/komanda/mihailov-yaroslav/">Эксперт: Ярослав Михайлов</a>
               <a href="/komanda/bogdanova-anna/">Эксперт: Анна Богданова</a>
               <a href="/baza-znaniy/kody/">Коды направлений расходования</a>
