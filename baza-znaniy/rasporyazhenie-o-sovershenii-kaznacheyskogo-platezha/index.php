@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Распоряжение о совершении казначейского платежа: заполнение, реквизиты и возврат", "description": "Что такое распоряжение о совершении казначейского платежа: виды (перечисление, возврат, уточнение), реквизиты и заполнение по приказу Казначейства № 21н, причины возврата распоряжения и как исправить.", "inLanguage": "ru-RU", "datePublished": "2026-06-09", "dateModified": "2026-08-19", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha/"}, "citation": ["https://base.garant.ru/74375044/", "https://www.consultant.ru/document/cons_doc_LAW_19702/", "https://www.consultant.ru/document/cons_doc_LAW_487063/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Распоряжение о совершении казначейского платежа: заполнение, реквизиты и возврат", "description": "Что такое распоряжение о совершении казначейского платежа: виды (перечисление, возврат, уточнение), реквизиты и заполнение по приказу Казначейства № 21н, причины возврата распоряжения и как исправить.", "inLanguage": "ru-RU", "datePublished": "2026-06-09", "dateModified": "2026-08-20", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha/"}, "citation": ["https://base.garant.ru/74375044/", "https://www.consultant.ru/document/cons_doc_LAW_19702/", "https://www.consultant.ru/document/cons_doc_LAW_487063/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Распоряжение о совершении казначейского платежа"}]}
@@ -91,7 +91,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Распоряжение о совершении казначейского платежа: заполнение и возврат — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-09T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-19T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-20T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -179,7 +179,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Операции и отчётность <span class="fresh">Актуально на 2026</span></div>
     <h1>Распоряжение о совершении казначейского платежа: заполнение, реквизиты и возврат</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 19 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 20 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -211,7 +211,7 @@
 
     <h2 id="chto-takoe">Что такое распоряжение о совершении казначейского платежа</h2>
     <div class="answer reveal">
-      <p class="lead-p">Распоряжение о совершении казначейского платежа (РСКП) — это электронный документ, на основании которого Федеральное казначейство проводит операцию в системе казначейских платежей: перечисляет, возвращает или уточняет средства. Его формируют участники системы и направляют в территориальный орган казначейства, где по распоряжению создаётся платёжный документ. Реквизиты и формы распоряжений установлены Порядком казначейского обслуживания (приказ Казначейства России от 14.05.2020 № 21н).<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a></p>
+      <p class="lead-p">Распоряжение о совершении казначейского платежа (РСКП) — это электронный документ, на основании которого Федеральное казначейство проводит операцию в системе казначейских платежей: перечисляет, возвращает или уточняет средства. Его формируют участники системы и направляют в территориальный орган казначейства, где по распоряжению создаётся платёжный документ. Реквизиты и формы распоряжений установлены Порядком <a href="/baza-znaniy/kaznacheyskoe-obsluzhivanie/">казначейского обслуживания</a> (приказ Казначейства России от 14.05.2020 № 21н).<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a></p>
     </div>
 
     <h3>Зачем нужен отдельный документ-основание</h3>
@@ -269,6 +269,12 @@
 
     <h3>Часть контролей ЕИС выполняет сама</h3>
     <p>Пункт 8.1 Порядка № 21н снимает с казначейства часть проверок: если распоряжение сформировано в ЕИС, контроли по подпунктам «а», «б» и «г» пункта 8 выполняются средствами самой системы. Подпункт «г» — автоматическая сверка электронных подписей по Порядку регистрации в ЕИС (приказ Федерального казначейства от 10.12.2021 № 39н). На практике это значит, что дефект подписи вы увидите ещё в ЕИС, а не в протоколе возврата из ТОФК.<a class="fn" href="#ref-4" aria-label="Источник 4">[4]</a></p>
+
+    <h3>С 2026 года часть проверок уходит в автоматический режим</h3>
+    <p>Приказ Казначейства России от 15.06.2026 № 13н (Минюст 03.08.2026 № 87715) вносит в Порядок № 21н изменение, которое меняет саму логику проверки: распоряжения прямых участников системы казначейских платежей проверяются территориальным органом Федерального казначейства <b>и (или) в автоматическом режиме</b> — средствами государственных информационных систем, оператором которых является Федеральное казначейство. Для автоматической проверки установлены свои особенности, а список направлений проверки закреплён в Порядке.<a class="fn" href="#ref-9" aria-label="Источник 9">[9]</a></p>
+    <h3>Что автоматическая проверка меняет для исполнителя</h3>
+    <p>Практический смысл для исполнителя контракта тот же, что и с контролями ЕИС: чем больше проверок выполняет машина, тем раньше вы узнаёте о дефекте — не через протокол возврата от операциониста, а сразу при отправке. Обратная сторона — формальность: автомат не читает пояснения и не звонит уточнить, он сверяет реквизит с эталоном. Ошибка в назначении платежа, в идентификаторе контракта или в коде направления расходования отбивается без обсуждения.</p>
+    <p>Дату, с которой действует эта редакция, по тексту приказа мы на 20.08.2026 не сверяли: полный текст в открытом доступе закрыт. Перед тем как строить на автоматической проверке рабочий регламент, уточните действующую редакцию Порядка № 21н на дату операции.</p>
 
     <h3>Всё остальное — «Электронный бюджет»</h3>
     <p>Пункт 6 Порядка № 21н перечисляет каналы: подсистема управления доходами ГИИС «Электронный бюджет» (приложения № 1(1), 2, 4 и 6.1) и модуль бюджетного процесса (приложения № 1–4 и 29). СУФД остаётся рабочим местом там, где организация подключена к нему исторически. Выбор канала не меняет ни состав реквизитов, ни сроки: и то и другое задаёт Порядок № 21н.<a class="fn" href="#ref-4" aria-label="Источник 4">[4]</a></p>
@@ -512,8 +518,9 @@
         <li id="ref-6">Раздел XIII Порядка № 21н, пункты 74–79: сроки исполнения распоряжений о совершении казначейских платежей — <a href="https://www.consultant.ru/document/cons_doc_LAW_357222/4c7b9cbdc319e9ae3bda790df8e9eddad1536301/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-7">Приказ Федерального казначейства от 05.12.2024 № 20н: формы распоряжений по КФД применяются до 31 декабря 2027 года — <a href="http://publication.pravo.gov.ru/document/0001202412280092" target="_blank" rel="noopener">publication.pravo.gov.ru</a></li>
         <li id="ref-8">Приложение № 24 к Порядку № 21н «Уведомление об уточнении вида и принадлежности платежа», форма по КФД 0531809 — <a href="https://www.consultant.ru/document/cons_doc_LAW_357222/fd89f6881cf80aae93ae7f4392acae1d54356906/" target="_blank" rel="noopener">consultant.ru</a></li>
+        <li id="ref-9">Приказ Казначейства России от 15.06.2026 № 13н «О внесении изменений в приказ Федерального казначейства от 14 мая 2020 г. № 21н «О Порядке казначейского обслуживания» (зарегистрирован в Минюсте России 03.08.2026 № 87715) — <a href="https://www.consultant.ru/document/cons_doc_LAW_541029/" target="_blank" rel="noopener">consultant.ru</a>; обзор изменений — <a href="https://www.consultant.ru/law/review/fed/fd2026-08-06.html" target="_blank" rel="noopener">КонсультантПлюс, 06.08.2026</a></li>
       </ol>
-      <p class="refs__note">Материал носит справочный характер и не заменяет индивидуальную консультацию. Формы и реквизиты распоряжений устанавливаются нормативными актами Федерального казначейства и могут уточняться; названия полей в конкретном ПО различаются. Проверено экспертом КазнаЭксперт. Дата актуализации — 19 августа 2026.</p>
+      <p class="refs__note">Материал носит справочный характер и не заменяет индивидуальную консультацию. Формы и реквизиты распоряжений устанавливаются нормативными актами Федерального казначейства и могут уточняться; названия полей в конкретном ПО различаются. Проверено экспертом КазнаЭксперт. Дата актуализации — 20 августа 2026.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">
