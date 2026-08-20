@@ -182,7 +182,8 @@
 @media(min-width:760px){.v2 .expert-cards{grid-template-columns:1fr 1fr}}
 .v2 .expert-card{display:flex;gap:20px;align-items:flex-start;background:var(--paper,#FBF9F4);border:1px solid var(--hair,rgba(26,26,26,.10));border-radius:16px;padding:26px 28px;text-decoration:none;color:inherit;transition:transform .25s cubic-bezier(.2,.8,.3,1),box-shadow .25s,border-color .25s}
 .v2 .expert-card:hover{transform:translateY(-4px);box-shadow:0 22px 44px -24px rgba(26,26,26,.28);border-color:rgba(139,111,71,.4)}
-.v2 .expert-card img{width:96px;height:96px;border-radius:50%;object-fit:cover;display:block;border:1px solid rgba(26,26,26,.14);flex-shrink:0}
+.v2 .expert-card picture{flex-shrink:0;display:block}
+.v2 .expert-card img{width:96px;height:96px;border-radius:50%;object-fit:cover;display:block;border:1px solid rgba(26,26,26,.14)}
 .v2 .expert-card__stage{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--mute,#6E6B66);font-weight:600}
 .v2 .expert-card__name{font-family:var(--font-display,'Playfair Display',serif);font-weight:500;font-size:22px;line-height:1.15;margin:6px 0 8px;color:var(--ink,#1A1A1A)}
 .v2 .expert-card__desc{font-size:14.5px;line-height:1.55;color:var(--ink-soft,#3A3A3A);margin:0 0 14px}
