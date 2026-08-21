@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Налоги при казначейском сопровождении: НДС, прибыль и УСН", "description": "Меняет ли казначейское сопровождение налоги: НДС с аванса на лицевом счёте, налог на прибыль и УСН, можно ли платить налоги с лицевого счёта и зачем раздельный учёт.", "inLanguage": "ru-RU", "datePublished": "2026-06-25", "dateModified": "2026-08-11", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/nalogi-pri-kaznacheyskom-soprovozhdenii/"}, "citation": ["Налоговый кодекс РФ, статья 146 «Объект налогообложения» (НДС при реализации).", "Налоговый кодекс РФ, статья 167 «Момент определения налоговой базы» (НДС с аванса).", "Налоговый кодекс РФ, статьи 171–172 (вычеты НДС, в том числе авансового).", "Налоговый кодекс РФ, статья 249 «Доходы от реализации» и глава 25 (налог на прибыль).", "Налоговый кодекс РФ, статья 251 «Доходы, не учитываемые при определении налоговой базы» (закрытый перечень целевого финансирования).", "Налоговый кодекс РФ, статья 346.17 «Порядок признания доходов и расходов» (кассовый метод при УСН).", "Приказ Минфина России от 17.12.2021 № 214н и постановление Правительства РФ от 24.11.2021 № 2024 (режим лицевого счёта, разрешённые операции). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_405138/de4649fe56038006ee16bce420115b7ba6a80da5/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Налоги при казначейском сопровождении: НДС, прибыль и УСН", "description": "Меняет ли казначейское сопровождение налоги: НДС с аванса на лицевом счёте, налог на прибыль и УСН, можно ли платить налоги с лицевого счёта и зачем раздельный учёт.", "inLanguage": "ru-RU", "datePublished": "2026-06-25", "dateModified": "2026-08-21", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/nalogi-pri-kaznacheyskom-soprovozhdenii/"}, "citation": ["Налоговый кодекс РФ, статья 146 «Объект налогообложения» (НДС при реализации).", "Налоговый кодекс РФ, статья 167 «Момент определения налоговой базы» (НДС с аванса).", "Налоговый кодекс РФ, статьи 171–172 (вычеты НДС, в том числе авансового).", "Налоговый кодекс РФ, статья 249 «Доходы от реализации» и глава 25 (налог на прибыль).", "Налоговый кодекс РФ, статья 251 «Доходы, не учитываемые при определении налоговой базы» (закрытый перечень целевого финансирования).", "Налоговый кодекс РФ, статья 346.17 «Порядок признания доходов и расходов» (кассовый метод при УСН).", "Приказ Минфина России от 17.12.2021 № 214н и постановление Правительства РФ от 24.11.2021 № 2024 (режим лицевого счёта, разрешённые операции). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_405138/de4649fe56038006ee16bce420115b7ba6a80da5/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Налоги при казначейском сопровождении", "item": "https://kaznaexpert.ru/baza-znaniy/nalogi-pri-kaznacheyskom-soprovozhdenii/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Налоги при казначейском сопровождении: НДС, прибыль и УСН — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-11T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-21T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -175,7 +175,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Раздельный учёт <span class="fresh">Актуально на 2026</span></div>
     <h1>Налоги при казначейском сопровождении: НДС, прибыль и УСН</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 11 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 21 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -185,7 +185,8 @@
       <button type="button" id="printBtn"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9V2h12v7M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2M6 14h12v8H6z"/></svg>Скачать PDF</button>
     </div>
 
-    <details class="mtoc"><summary>Содержание статьи</summary>
+    <details><summary>Какая ставка НДС применяется в 2026 году?</summary><p>С 1 января 2026 года основная ставка НДС — 22% (Федеральный закон от 12.11.2025 № 425-ФЗ), пониженная 10% и нулевая ставка сохранены. С аванса налог считают по расчётной ставке 22/122. По авансам, полученным до 2026 года, применяется ставка, действовавшая на дату получения.</p></details>
+      <details class="mtoc"><summary>Содержание статьи</summary>
       <ol>
         <li><a href="#ne-menyaet">Казначейское сопровождение не меняет налоговый режим</a></li><li><a href="#nds">НДС с аванса на лицевом счёте</a></li><li><a href="#schet-faktura">Счёт-фактура на аванс</a></li><li><a href="#pribyl">Налог на прибыль: оплата по контракту — это выручка</a></li><li><a href="#usn">УСН: когда возникает доход</a></li><li><a href="#platit">Можно ли платить налоги с лицевого счёта</a></li><li><a href="#vznosy">Зарплата, НДФЛ и страховые взносы</a></li><li><a href="#razdelnyy">Раздельный учёт — это не налоговый учёт</a></li><li><a href="#vozvrat">Возврат аванса и корректировка НДС</a></li><li><a href="#goz">Особенности гособоронзаказа</a></li><li><a href="#oshibki">Частые заблуждения</a></li><li><a href="#glossary">Глоссарий</a></li><li><a href="#faq">Частые вопросы</a></li>
       </ol>
@@ -209,6 +210,8 @@
     <p>Дальше разберём по каждому налогу, что именно возникает и когда, — и почему «целевой» характер денег здесь не освобождает от обязательств.</p>
 
     <h2 id="nds">НДС с аванса на лицевом счёте</h2>
+    <p class="note"><b>Ставка НДС в 2026 году — 22%.</b> Основная ставка повышена с 20% до 22% с 1 января 2026 года Федеральным законом от 12.11.2025 № 425-ФЗ; пониженная ставка 10% и нулевая сохранены. Для расчёта налога с аванса применяется расчётная ставка 22/122. По авансам, полученным до 2026 года, действует прежняя ставка — поэтому в калькуляторе оставлен вариант 20%.</p>
+    
     <p>Если исполнитель на общей системе и платит НДС, реализация товаров, работ и услуг по госконтракту облагается НДС в обычном порядке (статья 146 НК). Никаких изъятий для сопровождаемых контрактов нет.</p>
     <p>Особое внимание — авансу. По правилам статьи 167 НК налоговая база по НДС определяется на наиболее раннюю из дат: день отгрузки или день оплаты, в том числе частичной, в счёт предстоящих поставок. Это значит, что при получении аванса НДС нужно исчислить уже на дату его поступления — и тот факт, что аванс зачислен на лицевой счёт в казначействе, ничего не меняет. Позже, при отгрузке, ранее начисленный «авансовый» НДС принимается к вычету. Посчитать сумму удобно в калькуляторе ниже.</p>
     <div class="nds-calc" id="ndsCalc">
@@ -234,7 +237,7 @@
     <p class="nc__sub">Сколько НДС начислить при получении аванса по госконтракту (статья 167 НК РФ). Меняйте параметры — результат пересчитывается мгновенно.</p>
     <div class="nc__row">
     <div><label>Сумма аванса, &#8381;</label><input id="ncSum" type="number" min="0" step="1000" value="1200000"></div>
-    <div><label>Ставка НДС</label><select id="ncRate"><option value="20">20%</option><option value="10">10%</option></select></div>
+    <div><label>Ставка НДС</label><select id="ncRate"><option value="22">22%</option><option value="20">20% (авансы до 2026)</option><option value="10">10%</option></select></div>
     </div>
     <label class="nc__check"><input id="ncIncl" type="checkbox" checked> НДС уже включён в сумму аванса</label>
     <div class="nc__out">
