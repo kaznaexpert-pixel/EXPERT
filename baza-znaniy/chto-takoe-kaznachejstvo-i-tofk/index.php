@@ -202,7 +202,7 @@
       <div class="keyfacts__grid">
         <div class="kf"><div class="kf__n">служба</div><div class="kf__t"><b>Статус</b> — федеральный орган в ведении Минфина</div></div>
         <div class="kf"><div class="kf__n">№ 703</div><div class="kf__t"><b>Положение</b> — ПП РФ от 01.12.2004</div></div>
-        <div class="kf"><div class="kf__n">ТОФК</div><div class="kf__t"><b>На местах</b> — территориальные органы (УФК)</div></div>
+        <div class="kf"><div class="kf__n">ТОФК</div><div class="kf__t"><b>На местах</b> — территориальные органы (ТОФК)</div></div>
         <div class="kf"><div class="kf__n">ЕКС</div><div class="kf__t"><b>Ведёт</b> — единый казначейский счёт и платежи</div></div>
         <div class="kf"><div class="kf__n">л/с</div><div class="kf__t"><b>Открывает</b> — лицевые счета и санкционирует операции</div></div>
         <div class="kf"><div class="kf__n">≠ банк</div><div class="kf__t"><b>Не путать</b> — казначейство это не банк и не ФНС</div></div>
