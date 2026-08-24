@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cases", cluster:"keysy"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "CollectionPage", "name": "Кейсы клиентов КазнаЭксперт", "url": "https://kaznaexpert.ru/keysy/", "description": "12 обезличенных кейсов казначейского сопровождения: открытие счетов, спасение контрактов, аванс и ГОЗ. Проблема, решение и результат: 44-ФЗ, 223-ФЗ, 275-ФЗ.", "isPartOf": {"@type": "WebSite", "url": "https://kaznaexpert.ru/"}}
+{"@context": "https://schema.org", "@type": "CollectionPage", "name": "Кейсы клиентов КазнаЭксперт", "url": "https://kaznaexpert.ru/keysy/", "description": "12 обезличенных кейсов казначейского сопровождения: открытие счетов, спасение контрактов, аванс и ГОЗ. Проблема, решение и результат: 44-ФЗ, 223-ФЗ, 275-ФЗ.", "dateModified": "2026-07-07", "isPartOf": {"@type": "WebSite", "url": "https://kaznaexpert.ru/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Кейсы"}]}
@@ -74,7 +74,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-03T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-07-07T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">

@@ -67,7 +67,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-03T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-07-22T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -441,7 +441,7 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 </style>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "ContactPage", "name": "Контакты КазнаЭксперт", "url": "https://kaznaexpert.ru/kontakty/", "inLanguage": "ru-RU", "isPartOf": {"@type": "WebSite", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru/"}}
+{"@context": "https://schema.org", "@type": "ContactPage", "name": "Контакты КазнаЭксперт", "url": "https://kaznaexpert.ru/kontakty/", "dateModified": "2026-07-22", "inLanguage": "ru-RU", "isPartOf": {"@type": "WebSite", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Где находится офис КазнаЭксперт?", "acceptedAnswer": {"@type": "Answer", "text": "Офис — в Санкт-Петербурге: Средний проспект Васильевского острова, д. 88, литера А, офис 330 (3 этаж), приём по записи. Работать с нами можно из любого региона России: документооборот полностью дистанционный, через ГИИС «Электронный бюджет» и электронную подпись."}}, {"@type": "Question", "name": "Как быстро вы отвечаете на заявку?", "acceptedAnswer": {"@type": "Answer", "text": "На заявку с сайта в рабочее время перезваниваем в течение 15 минут. Телефон и Telegram отвечают в будни с 9:00 до 19:00 по московскому времени, письма на manager@kaznaexpert.ru разбираем в течение рабочего дня."}}, {"@type": "Question", "name": "Можно ли работать с вами без визита в офис?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Все услуги оказываем дистанционно по всей России: открытие лицевого счёта, санкционирование платежей и отчётность идут через «Электронный бюджет». Личная встреча в петербургском офисе возможна по договорённости, но для работы не требуется."}}, {"@type": "Question", "name": "Как передать вам документы по контракту?", "acceptedAnswer": {"@type": "Answer", "text": "Удобным вам способом — по электронной почте или в Telegram. Для предварительного анализа достаточно сканов контракта и выписок, оригиналы не нужны. По запросу подписываем NDA до передачи документов."}}]}

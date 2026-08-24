@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"material", cluster:"materialy"};</script>
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"CollectionPage","name":"Материалы и чек-листы по казначейскому сопровождению","url":"https://kaznaexpert.ru/materialy/","inLanguage":"ru-RU","publisher":{"@id":"https://kaznaexpert.ru/#organization"}}
+{"@context":"https://schema.org","@type":"CollectionPage","name":"Материалы и чек-листы по казначейскому сопровождению","url":"https://kaznaexpert.ru/materialy/","dateModified":"2026-07-13","inLanguage":"ru-RU","publisher":{"@id":"https://kaznaexpert.ru/#organization"}}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"Материалы"}]}
@@ -74,7 +74,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Материалы и чек-листы по казначейскому сопровождению — скачать PDF">
 <meta property="article:published_time" content="2026-06-05T10:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-05T10:00:00+03:00">
+<meta property="article:modified_time" content="2026-07-13T10:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">

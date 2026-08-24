@@ -36,6 +36,7 @@ foreach ($faqData as $rubric => $qs) {
     }
 }
 echo json_encode(['@context' => 'https://schema.org', '@type' => 'FAQPage',
+    'dateModified' => '2026-07-13',
     'mainEntity' => $ent], JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
 ?>
 </script>
@@ -85,7 +86,7 @@ echo json_encode(['@context' => 'https://schema.org', '@type' => 'FAQPage',
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Частые вопросы о казначейском сопровождении — FAQ">
 <meta property="article:published_time" content="2026-06-05T10:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-05T10:00:00+03:00">
+<meta property="article:modified_time" content="2026-07-13T10:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">

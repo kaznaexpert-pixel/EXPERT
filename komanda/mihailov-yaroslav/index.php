@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"author", cluster:"komanda"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "ProfilePage", "mainEntity": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Основатель · главный эксперт", "description": "Ярослав Михайлов — основатель КазнаЭксперт, эксперт по казначейскому сопровождению. Окончил СПбГУ, в Федеральном казначействе с 2009 по 2019 год. Ведёт сложные кейсы, ГОЗ и спасение контрактов.", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-768.jpg", "sameAs": ["https://t.me/Kaznaexpert", "https://dzen.ru/kazna_expert", "https://www.klerk.ru/user/2703999/", "https://www.rusprofile.ru/ip/321784700367672"], "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "knowsAbout": ["Спасение проблемных контрактов", "Расширенное казначейское сопровождение", "ГОЗ и нестандартные кейсы", "Методология работы с УФК", "Сложные эскалации и спорные платежи", "Контроль качества по проектам"], "alumniOf": {"@type": "CollegeOrUniversity", "name": "Санкт-Петербургский государственный университет"}, "founder": {"@type": "Organization", "name": "КазнаЭксперт", "@id": "https://kaznaexpert.ru/#organization"}, "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}}
+{"@context": "https://schema.org", "@type": "ProfilePage", "dateModified": "2026-08-20", "mainEntity": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Основатель · главный эксперт", "description": "Ярослав Михайлов — основатель КазнаЭксперт, эксперт по казначейскому сопровождению. Окончил СПбГУ, в Федеральном казначействе с 2009 по 2019 год. Ведёт сложные кейсы, ГОЗ и спасение контрактов.", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-768.jpg", "sameAs": ["https://t.me/Kaznaexpert", "https://dzen.ru/kazna_expert", "https://www.klerk.ru/user/2703999/", "https://www.rusprofile.ru/ip/321784700367672"], "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "knowsAbout": ["Спасение проблемных контрактов", "Расширенное казначейское сопровождение", "ГОЗ и нестандартные кейсы", "Методология работы с УФК", "Сложные эскалации и спорные платежи", "Контроль качества по проектам"], "alumniOf": {"@type": "CollegeOrUniversity", "name": "Санкт-Петербургский государственный университет"}, "founder": {"@type": "Organization", "name": "КазнаЭксперт", "@id": "https://kaznaexpert.ru/#organization"}, "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Команда", "item": "https://kaznaexpert.ru/komanda/"}, {"@type": "ListItem", "position": 3, "name": "Ярослав Михайлов"}]}
@@ -74,7 +74,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-03T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-20T12:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
