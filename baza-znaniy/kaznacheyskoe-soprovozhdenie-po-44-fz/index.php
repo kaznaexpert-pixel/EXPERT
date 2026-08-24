@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Казначейское сопровождение по 44-ФЗ в 2026 году — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-21T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-16T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-21T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -177,7 +177,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Основы <span class="fresh">Актуально на 2026</span></div>
     <h1>Казначейское сопровождение по 44-ФЗ в 2026 году: когда применяется и как исполнять контракт</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>18 мин чтения</span><span class="dot">·</span><span>Обновлено 16 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>18 мин чтения</span><span class="dot">·</span><span>Обновлено 21 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -384,7 +384,7 @@
         <li id="ref-4">Приказ Минфина России от 17.12.2021 № 214н (ред. от 27.06.2025) — порядок санкционирования операций со средствами участников казначейского сопровождения; постановление Правительства РФ от 24.11.2021 № 2024 (ред. от 15.10.2025) — правила казначейского сопровождения. consultant.ru, minfin.gov.ru. <a href="https://www.consultant.ru/document/cons_doc_LAW_405138/de4649fe56038006ee16bce420115b7ba6a80da5/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
         <li id="ref-5">Статья 96 Федерального закона от 05.04.2013 № 44-ФЗ (ред. от 04.08.2026) — обеспечение исполнения контракта: при сопровождаемом авансе обеспечение считается от НМЦК за вычетом аванса (п. 3 ч. 6), право не устанавливать обеспечение и размер до 10% при казначейском сопровождении (ч. 6.1). consultant.ru. <a href="https://www.consultant.ru/document/cons_doc_LAW_144624/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
       </ol>
-      <p class="refs__note">Материал актуален на 16 августа 2026 года и носит справочный характер, не являясь юридической консультацией. Случаи и пороги казначейского сопровождения устанавливаются ежегодным законом о бюджете и могут меняться. Применимость казначейского сопровождения к конкретному контракту определяется его условиями и нормами на дату заключения.</p>
+      <p class="refs__note">Материал актуален на 21 августа 2026 года и носит справочный характер, не являясь юридической консультацией. Случаи и пороги казначейского сопровождения устанавливаются ежегодным законом о бюджете и могут меняться. Применимость казначейского сопровождения к конкретному контракту определяется его условиями и нормами на дату заключения.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

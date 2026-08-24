@@ -33,7 +33,7 @@
   "description": "Единый казначейский счёт: банковский счёт ФК в Банке России на балансовом счёте 40102, связка с казначейскими счетами 03, поля 15 и 17 платёжного поручения, частые ошибки.",
   "inLanguage": "ru-RU",
   "datePublished": "2026-06-11",
-  "dateModified": "2026-08-11",
+  "dateModified": "2026-08-24",
   "author": {
     "@type": "Person",
     "name": "Ярослав Михайлов",
@@ -134,7 +134,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Единый казначейский счёт (ЕКС): что это и реквизиты в платёжке — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-11T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-11T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-24T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -223,7 +223,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Счета в казначействе <span class="fresh">Актуально на август 2026</span></div>
     <h1>Единый казначейский счёт (ЕКС): что это, реквизиты и как указать в платёжке</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 11 августа 2026 · учтён приказ Казначейства России от 16.02.2026 № 2н, изменивший Правила системы казначейских платежей</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 24 августа 2026 · учтён приказ Казначейства России от 16.02.2026 № 2н, изменивший Правила системы казначейских платежей</span></div>
     </div>
 
     <div class="share">
@@ -274,7 +274,7 @@
       <tr><td>Глава 24.2 БК РФ (ст. 242.7–242.13-1), введена ФЗ от 27.12.2019 № 479-ФЗ</td><td>Система казначейских платежей, участники, казначейские платежи, основы функционирования ЕКС и управление остатками</td></tr>
       <tr><td>Ст. 242.12 БК РФ</td><td>Основы функционирования ЕКС: формирование средств, запрет взыскания, безотзывность перевода</td></tr>
       <tr><td>Приказ Казначейства России от 01.04.2020 № 15н (ред. от 28.12.2022)</td><td>Порядок открытия казначейских счетов, структура номера счёта, коды видов счетов</td></tr>
-      <tr><td>Приказ Казначейства России от 14.05.2020 № 21н</td><td>Порядок <a href="/baza-znaniy/kaznacheyskoe-obsluzhivanie/">казначейского обслуживания</a>: формы и реквизиты распоряжений о совершении казначейских платежей</td></tr>
+      <tr><td>Приказ Казначейства России от 14.05.2020 № 21н (ред. от 05.12.2024)</td><td>Порядок <a href="/baza-znaniy/kaznacheyskoe-obsluzhivanie/">казначейского обслуживания</a>: формы и реквизиты распоряжений о совершении казначейских платежей</td></tr>
       <tr><td>Совместное письмо Минфина, ФК и Банка России от 29.07.2020 № 09-01-10/66747 / 04-45-7/5526 / 07-04-05/05-14880</td><td>Закрытие прежних банковских счетов органов казначейства при переходе на казначейское обслуживание</td></tr>
     </table>
     <div class="note"><b>Важно про даты.</b> Глава 24.2 БК РФ вступила в силу с 1 января 2021 года — с этой даты прежние счета органов казначейства (в том числе на балансовом счёте 40101) поэтапно закрыты, а платежи проводятся через ЕКС 40102 и казначейские счета 03. Если в ваших шаблонах платёжек до сих пор «зашиты» старые реквизиты — платёж не пройдёт.<a class="fn" href="#ref-2" aria-label="Источник 2">[2]</a></div>
@@ -421,7 +421,7 @@
         <li id="ref-4">Приказ Казначейства России от 14.05.2020 № 21н «О Порядке казначейского обслуживания» — <a href="https://roskazna.gov.ru/dokumenty/sistemakaznacheyskikh-platezhey/" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
         <li id="ref-5">Казначейство России. Раздел «Документы / Система казначейских платежей / Казначейские счета» (актуальные реквизиты) — <a href="https://roskazna.gov.ru/dokumenty/sistemakaznacheyskikh-platezhey/kaznacheyskie-scheta/" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
       </ol>
-      <p class="refs__note">Материал носит информационный характер, не является финансовой или юридической консультацией. Нормы приведены в редакциях, действующих на 11 августа 2026 года; перед платежом сверяйте реквизиты с первоисточниками.</p>
+      <p class="refs__note">Материал носит информационный характер, не является финансовой или юридической консультацией. Нормы приведены в редакциях, действующих на 24 августа 2026 года; перед платежом сверяйте реквизиты с первоисточниками.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

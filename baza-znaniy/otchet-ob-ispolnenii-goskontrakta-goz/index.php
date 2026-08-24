@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Отчёт об исполнении государственного контракта по гособоронзаказу", "description": "Кто и когда сдаёт отчёт об исполнении госконтракта по ГОЗ: форма постановления № 47, срок до 25-го числа, подача в ЕИС ГОЗ через военное представительство, штрафы по ч. 16 ст. 7.30.3 КоАП.", "inLanguage": "ru-RU", "datePublished": "2026-07-28", "dateModified": "2026-07-28", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/otchet-ob-ispolnenii-goskontrakta-goz/"}, "citation": ["Постановление Правительства РФ от 19.01.1998 № 47 (ред. от 15.07.2022) — правила раздельного учёта, правила заполнения и форма отчёта об исполнении государственного контракта.", "Приказ Министра обороны РФ от 08.10.2018 № 554 (ред. от 21.11.2019 № 686) — порядок и сроки представления отчёта.", "Федеральный закон от 29.12.2012 № 275-ФЗ, ст. 8.7 — ЕИС ГОЗ.", "КоАП РФ, ст. 7.30.3 ч. 16 — ответственность за нарушение порядка представления отчёта."]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Отчёт об исполнении государственного контракта по гособоронзаказу", "description": "Кто и когда сдаёт отчёт об исполнении госконтракта по ГОЗ: форма постановления № 47, срок до 25-го числа, подача в ЕИС ГОЗ через военное представительство, штрафы по ч. 16 ст. 7.30.3 КоАП.", "inLanguage": "ru-RU", "datePublished": "2026-07-28", "dateModified": "2026-08-24", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/otchet-ob-ispolnenii-goskontrakta-goz/"}, "citation": ["Постановление Правительства РФ от 19.01.1998 № 47 (ред. от 15.07.2022) — правила раздельного учёта, правила заполнения и форма отчёта об исполнении государственного контракта.", "Приказ Министра обороны РФ от 08.10.2018 № 554 (ред. от 21.11.2019 № 686) — порядок и сроки представления отчёта.", "Федеральный закон от 29.12.2012 № 275-ФЗ, ст. 8.7 — ЕИС ГОЗ.", "КоАП РФ, ст. 7.30.3 ч. 16 — ответственность за нарушение порядка представления отчёта."]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Отчёт об исполнении госконтракта ГОЗ", "item": "https://kaznaexpert.ru/baza-znaniy/otchet-ob-ispolnenii-goskontrakta-goz/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Экспертиза результатов исполнения контракта — КазнаЭксперт">
 <meta property="article:published_time" content="2026-07-27T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-07-28T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-24T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -177,7 +177,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на 2026</span></div>
     <h1>Отчёт об исполнении государственного контракта по гособоронзаказу</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт по казначейскому сопровождению · 15+ лет практики · Обновлено: 28.07.2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт по казначейскому сопровождению · 15+ лет практики · Обновлено: 24.08.2026</span></div>
     </div>
 
     <div class="share">
@@ -284,7 +284,7 @@
       <tbody>
         <tr><td>отчёт об исполнении государственного контракта</td><td>постановление № 47, приказ МО № 554</td><td>Минобороны через ЕИС ГОЗ, ежемесячно до 25-го числа (при наличии военного представительства) или по запросу</td></tr>
         <tr><td>отчёт о расходах целевых средств</td><td>правила казначейского сопровождения, приказ № 214н</td><td>заказчику/в казначейство — при казначейском контуре расчётов; разбор в статье об <a href="/baza-znaniy/otchet-o-rashodah-celevyh-sredstv/">отчёте о расходах целевых средств</a></td></tr>
-        <tr><td>расчётно-калькуляционные материалы (РКМ)</td><td>постановление № 1465</td><td>заказчику при обосновании цены — на этапах заключения и перевода цены; разбор в статье про <a href="/baza-znaniy/rkm-po-gosoboronzakazu/">РКМ по гособоронзаказу</a></td></tr>
+        <tr><td>расчётно-калькуляционные материалы (РКМ)</td><td>постановление № 1465 (ред. от 14.02.2026)</td><td>заказчику при обосновании цены — на этапах заключения и перевода цены; разбор в статье про <a href="/baza-znaniy/rkm-po-gosoboronzakazu/">РКМ по гособоронзаказу</a></td></tr>
         <tr><td>форма 1-ГОЗ</td><td>отчётность для организаций, включённых в сводный реестр ОПК</td><td>в ФАС, ежеквартально</td></tr>
       </tbody>
     </table>
@@ -341,7 +341,7 @@
         <li id="ref-2">Приказ Министра обороны РФ от 08.10.2018 № 554 (ред. приказа от 21.11.2019 № 686) — порядок и сроки представления отчёта организациями с военными представительствами и порядок истребования отчёта у иных организаций. Зарегистрирован Минюстом России 18.10.2018 № 52477.</li>
         <li id="ref-3">Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе», ст. 8.7 — единая информационная система, содержащая информацию о расчётах по гособоронзаказу (ЕИС ГОЗ); п. 1.1 ч. 1 — состав и формат информации. consultant.ru, pravo.gov.ru.</li>
         <li id="ref-4">Кодекс РФ об административных правонарушениях, ст. 7.30.3, ч. 16 — нарушение сроков или порядка представления отчёта об исполнении государственного контракта: должностные лица 20–50 тыс. ₽, юридические лица 100–300 тыс. ₽. consultant.ru.</li>
-        <li id="ref-5">Постановление Правительства РФ от 02.12.2017 № 1465 — государственное регулирование цен на продукцию по ГОЗ (расчётно-калькуляционные материалы, обоснование цены). consultant.ru.</li>
+        <li id="ref-5">Постановление Правительства РФ от 02.12.2017 № 1465 (ред. от 14.02.2026) — государственное регулирование цен на продукцию по ГОЗ (расчётно-калькуляционные материалы, обоснование цены). consultant.ru.</li>
       </ol>
       <p class="refs__note">Материал носит справочный характер и не заменяет консультацию по конкретному контракту. Формат выгрузки и регламенты ЕИС ГОЗ уточняйте в военном представительстве и актуальных требованиях Минобороны; редакции нормативных актов сверяйте на дату сдачи отчёта.</p>
     </div>

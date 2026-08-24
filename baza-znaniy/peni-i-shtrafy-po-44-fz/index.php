@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"article", cluster:"peni"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Пени и штрафы по 44-ФЗ: как считается неустойка за просрочку", "description": "Как рассчитать пени и штрафы по 44-ФЗ: формула 1/300 ключевой ставки (ч. 7 ст. 34), база начисления, таблица штрафов по ПП № 1042, калькулятор и способы снизить неустойку.", "datePublished": "2026-06-05T09:00:00+03:00", "dateModified": "2026-08-10T09:00:00+03:00", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/peni-i-shtrafy-po-44-fz/"}, "image": "https://kaznaexpert.ru/img/og-image.png", "citation": ["https://www.consultant.ru/document/cons_doc_LAW_144624/", "https://www.consultant.ru/document/cons_doc_LAW_227100/", "https://www.cbr.ru/hd_base/keyrate/", "https://www.consultant.ru/document/cons_doc_LAW_5142/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Пени и штрафы по 44-ФЗ: как считается неустойка за просрочку", "description": "Как рассчитать пени и штрафы по 44-ФЗ: формула 1/300 ключевой ставки (ч. 7 ст. 34), база начисления, таблица штрафов по ПП № 1042, калькулятор и способы снизить неустойку.", "datePublished": "2026-06-05T09:00:00+03:00", "dateModified": "2026-08-24T09:00:00+03:00", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/peni-i-shtrafy-po-44-fz/"}, "image": "https://kaznaexpert.ru/img/og-image.png", "citation": ["https://www.consultant.ru/document/cons_doc_LAW_144624/", "https://www.consultant.ru/document/cons_doc_LAW_227100/", "https://www.cbr.ru/hd_base/keyrate/", "https://www.consultant.ru/document/cons_doc_LAW_5142/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Пени и штрафы по 44-ФЗ"}]}
@@ -99,7 +99,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Пени и штрафы по 44-ФЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-10T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-24T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -188,9 +188,9 @@
     <div class="hero">
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
-      <div class="eyebrow">База знаний · Основы <span class="fresh">Актуально на июль 2026</span></div>
+      <div class="eyebrow">База знаний · Основы <span class="fresh">Актуально на август 2026</span></div>
     <h1>Пени и штрафы по 44-ФЗ: как считается неустойка за просрочку</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 10 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 24 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -265,12 +265,12 @@
         </div>
       </div>
       <div class="calc__out" id="peniOut" aria-live="polite">
-        <p class="calc__sum" id="peniSumOut">24 167 ₽</p>
+        <p class="calc__sum" id="peniSumOut">23 333 ₽</p>
         <div class="calc__desc">Сумма пеней за выбранный период просрочки.</div>
         <div class="calc__grid">
           <div>База начисления: <b id="peniBase">5 000 000 ₽</b></div>
-          <div>Пени за день: <b id="peniPerDay">2 417 ₽</b></div>
-          <div>Доля от цены: <b id="peniPct">0,48%</b></div>
+          <div>Пени за день: <b id="peniPerDay">2 333 ₽</b></div>
+          <div>Доля от цены: <b id="peniPct">0,47%</b></div>
           <div>Период: <b id="peniDaysOut">10 дн.</b></div>
         </div>
         <div class="calc__law">Основание: ч. 7 ст. 34 № 44-ФЗ. Пеня = (цена − стоимость принятого) × 1/300 ключевой ставки ЦБ × дни. Расчёт ориентировочный; точный размер считается по ставке на дату уплаты и не может превышать цену контракта. Не является юридической консультацией.</div>
@@ -366,7 +366,7 @@
 
     <div class="note"><b>Лимит ответственности:</b> общая сумма начисленных штрафов не может превышать цену контракта — и для поставщика (пункт 11 Правил), и для заказчика (пункт 12). Это потолок именно по штрафам; пени считаются отдельно.</div>
 
-    <div class="note"><b>Про «новые размеры штрафов».</b> В сетевых материалах периодически появляется утверждение, что штрафы по постановлению № 1042 пересматривались в 2025 году и выросли. Это не так: единственный документ, изменявший Правила за всё время их действия, — постановление Правительства РФ от 02.08.2019 № 1011, причём его изменения не распространяются на закупки, извещения по которым размещены до 14 августа 2019 года. Проверять размер штрафа нужно по действующей редакции Правил, а не по обзорам.</div>
+    <div class="note"><b>Про «новые размеры штрафов».</b> В сетевых материалах периодически появляется утверждение, что штрафы по постановлению № 1042 пересматривались в 2025 году и выросли. Это не так: единственный документ, изменявший Правила за всё время их действия, — постановление Правительства РФ от 02.08.2019 № 1011, причём его изменения не распространяются на закупки, извещения по которым размещены до 14 августа 2019 года. Проверять размер штрафа нужно по действующей редакции Правил, а не по обзорам. На 24 августа 2026 года Правила по-прежнему применяются в редакции постановления Правительства РФ от 02.08.2019 № 1011 — с 2019 года шкала штрафов не пересматривалась, поэтому проценты в таблице ниже действуют без изменений.</div>
     </div>
 
     <h2 id="primery">Примеры расчёта</h2>
@@ -376,8 +376,8 @@
         <caption>Расчёт пеней и штрафа на типовых суммах (ставка ЦБ 14,00%)</caption>
         <thead><tr><th>Ситуация</th><th>Расчёт</th><th>Результат</th></tr></thead>
         <tbody>
-          <tr><td>Контракт 5 млн ₽, ничего не сдано, просрочка 10 дней</td><td>5 000 000 × 0,14 / 300 × 10</td><td>≈ 23 750 ₽ пеней (0,48% цены)</td></tr>
-          <tr><td>Контракт 5 млн ₽, принято на 2 млн ₽, просрочка 20 дней</td><td>(5 000 000 − 2 000 000) × 0,14 / 300 × 20</td><td>≈ 28 500 ₽ пеней</td></tr>
+          <tr><td>Контракт 5 млн ₽, ничего не сдано, просрочка 10 дней</td><td>5 000 000 × 0,14 / 300 × 10</td><td>≈ 23 333 ₽ пеней (0,47% цены)</td></tr>
+          <tr><td>Контракт 5 млн ₽, принято на 2 млн ₽, просрочка 20 дней</td><td>(5 000 000 − 2 000 000) × 0,14 / 300 × 20</td><td>≈ 28 000 ₽ пеней</td></tr>
           <tr><td>Контракт 5 млн ₽, товар не соответствует ТЗ (штраф, не просрочка)</td><td>5 % от 5 000 000 (тариф 3–50 млн ₽)</td><td>250 000 ₽ штрафа</td></tr>
         </tbody>
       </table>

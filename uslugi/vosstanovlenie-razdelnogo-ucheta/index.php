@@ -25,7 +25,7 @@
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "bestRating": "5", "ratingCount": "7", "reviewCount": "7"}, "datePublished": "2026-06-25", "dateModified": "2026-07-14", "name": "Восстановление раздельного учёта по гособоронзаказу и госконтрактам", "serviceType": "Восстановление раздельного учёта (ГОЗ, целевые средства)", "description": "Восстановление раздельного учёта по гособоронзаказу и контрактам с казначейским сопровождением: первичка, регистры прямых и косвенных затрат, отчётные калькуляции и РКМ, настройка раздельного учёта в 1С, учётная политика. NDA, 15 лет практики.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/vosstanovlenie-razdelnogo-ucheta/", "offers": {"@type": "Offer", "name": "Восстановление раздельного учёта", "price": "99000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock"}}
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "bestRating": "5", "ratingCount": "7", "reviewCount": "7"}, "datePublished": "2026-06-25", "dateModified": "2026-08-24", "name": "Восстановление раздельного учёта по гособоронзаказу и госконтрактам", "serviceType": "Восстановление раздельного учёта (ГОЗ, целевые средства)", "description": "Восстановление раздельного учёта по гособоронзаказу и контрактам с казначейским сопровождением: первичка, регистры прямых и косвенных затрат, отчётные калькуляции и РКМ, настройка раздельного учёта в 1С, учётная политика. NDA, 15 лет практики.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/vosstanovlenie-razdelnogo-ucheta/", "offers": {"@type": "Offer", "name": "Восстановление раздельного учёта", "price": "99000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Восстановление раздельного учёта"}]}
@@ -76,7 +76,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Восстановление раздельного учёта — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-07-14T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-24T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -196,7 +196,7 @@
       <h2 class="v2-section-title">Когда нужно <em>восстановление</em></h2>
       <p class="v2-section-lede">Ситуации, в которых раздельный учёт нужно собрать или пересобрать задним числом.</p>
     </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Учёт не вёлся</h3><p class="v2-process-desc">Контракт по гособоронзаказу есть, а раздельного учёта по нему фактически нет. Соберём с нуля по первичке.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Вёлся неправильно</h3><p class="v2-process-desc">Затраты разнесены неверно, нет привязки к ИГК, не бьются калькуляции. Пересоберём корректно.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Перевод цены</h3><p class="v2-process-desc">Переводите ориентировочную цену в фиксированную — нужны отчётные калькуляции и обоснование фактических затрат.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Перед проверкой</h3><p class="v2-process-desc">Ждёте проверку военного представительства, ФАС или финконтроля. Восстановим учёт и подготовим документы заранее.</p></article></div>
+    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Учёт не вёлся</h3><p class="v2-process-desc">Контракт по гособоронзаказу есть, а раздельного учёта по нему фактически нет. Соберём с нуля по первичке.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Вёлся неправильно</h3><p class="v2-process-desc">Затраты разнесены неверно, нет привязки к ИГК, не бьются калькуляции. Пересоберём корректно.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Перевод цены</h3><p class="v2-process-desc">Переводите ориентировочную цену в фиксированную — нужны отчётные калькуляции и обоснование фактических затрат. С 10 января 2026 года состав затрат определяется приказом Минпромторга № 334 в редакции от 26.11.2025, поэтому калькуляции за прошлые периоды пересобираем под действующий перечень статей.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Перед проверкой</h3><p class="v2-process-desc">Ждёте проверку военного представительства, ФАС или финконтроля. Восстановим учёт и подготовим документы заранее.</p></article></div>
   </div>
 </section>
 
@@ -307,7 +307,7 @@
 
 <section class="v2-section" aria-label="Актуальность страницы">
   <div class="v2-container">
-    <p class="v2-freshness">Страница актуальна на <time datetime="2026-07-14">14 июля 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
+    <p class="v2-freshness">Страница актуальна на <time datetime="2026-08-24">24 августа 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
   </div>
 </section>
 
