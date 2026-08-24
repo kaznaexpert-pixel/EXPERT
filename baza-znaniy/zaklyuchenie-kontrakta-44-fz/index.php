@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Заключение контракта по 44-ФЗ: сроки и протокол разногласий</title>
-<meta name="description" content="Как заключается контракт по 44-ФЗ: сроки подписания по статье 51, протокол разногласий, обеспечение и последствия уклонения. Пошаговый порядок 2026.">
+<title>Заключение контракта по 44-ФЗ: подписание контракта и сроки</title>
+<meta name="description" content="Победитель подписывает проект в срок по статье 51, иначе — уклонение и реестр недобросовестных поставщиков. График в рабочих днях и протокол разногласий.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"osnovy"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Заключение контракта по 44-ФЗ: сроки подписания, протокол разногласий и уклонение в 2026 году", "description": "Как заключается контракт по 44-ФЗ: сроки подписания по статье 51, протокол разногласий, обеспечение и последствия уклонения. Пошаговый порядок 2026.", "inLanguage": "ru-RU", "datePublished": "2026-06-28", "dateModified": "2026-08-14", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/zaklyuchenie-kontrakta-44-fz/"}, "citation": ["Федеральный закон от 05.04.2013 № 44-ФЗ, статья 51 (заключение контракта по результатам электронной процедуры; в ред. Федерального закона от 02.07.2021 № 360-ФЗ; ред. Закона № 44-ФЗ от 28.12.2025).", "Федеральный закон от 05.04.2013 № 44-ФЗ, статья 37 (антидемпинговые меры — повышенное обеспечение при снижении цены на 25% и более). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_144624/", "Федеральный закон от 05.04.2013 № 44-ФЗ, статья 96 (обеспечение исполнения контракта). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_144624/", "Федеральный закон от 05.04.2013 № 44-ФЗ, статья 104 (реестр недобросовестных поставщиков; часть 10 — порядок направления сведений). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_144624/", "Федеральный закон от 05.04.2013 № 44-ФЗ, часть 8 статьи 51 (право заказчика на возмещение убытков, причинённых уклонением). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_144624/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Заключение контракта по 44-ФЗ: подписание контракта, сроки и протокол разногласий", "description": "Победитель подписывает проект в срок по статье 51, иначе — уклонение и реестр недобросовестных поставщиков. График в рабочих днях и протокол разногласий.", "inLanguage": "ru-RU", "datePublished": "2026-06-28", "dateModified": "2026-08-24", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/zaklyuchenie-kontrakta-44-fz/"}, "citation": ["Федеральный закон от 05.04.2013 № 44-ФЗ, статья 51 (заключение контракта по результатам электронной процедуры; в ред. Федерального закона от 02.07.2021 № 360-ФЗ; ред. Закона № 44-ФЗ от 28.12.2025).", "Федеральный закон от 05.04.2013 № 44-ФЗ, статья 37 (антидемпинговые меры — повышенное обеспечение при снижении цены на 25% и более). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_144624/", "Федеральный закон от 05.04.2013 № 44-ФЗ, статья 96 (обеспечение исполнения контракта). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_144624/", "Федеральный закон от 05.04.2013 № 44-ФЗ, статья 104 (реестр недобросовестных поставщиков; часть 10 — порядок направления сведений). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_144624/", "Федеральный закон от 05.04.2013 № 44-ФЗ, часть 8 статьи 51 (право заказчика на возмещение убытков, причинённых уклонением). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_144624/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Заключение контракта по 44-ФЗ", "item": "https://kaznaexpert.ru/baza-znaniy/zaklyuchenie-kontrakta-44-fz/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Заключение контракта по 44-ФЗ: сроки, протокол разногласий, уклонение — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-28T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-14T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-24T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -176,7 +176,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Основы <span class="fresh">Актуально на 2026</span></div>
     <h1>Заключение контракта по 44-ФЗ: сроки подписания, протокол разногласий и уклонение в 2026 году</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 14 августа 2026 · добавлена оговорка Закона № 484-ФЗ к антидемпинговому обеспечению (ст. 37 в ред. с 01.01.2026)</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 24 августа 2026 · добавлен график подписания контракта по статье 51</span></div>
     </div>
 
     <div class="share">
@@ -204,6 +204,19 @@
       </div>
     </section>
 
+    <h2 id="podpisanie-pobeditel">Подписание контракта: что и когда делает победитель</h2>
+    <div class="answer reveal"><p>После итогового протокола заказчик размещает проект контракта, а победитель подписывает его и прикладывает обеспечение исполнения. Все сроки статьи 51 считаются в рабочих днях, выходные в них не входят. Пропуск своего шага означает уклонение: заказчик оформляет протокол, а участник попадает в реестр недобросовестных поставщиков на два года.</p></div>
+    <table>
+      <caption>Подписание контракта по статье 51: шаг — срок — чем грозит просрочка</caption>
+      <thead><tr><th>Кто и когда</th><th>Действие</th><th>Чем грозит просрочка</th></tr></thead>
+      <tbody>
+      <tr><td>Заказчик — не позднее 2 рабочих дней с итогового протокола</td><td>Размещает в ЕИС проект контракта без своей подписи</td><td>Сдвигается вся цепочка: срок победителя считается от размещения проекта</td></tr>
+      <tr><td>Победитель — не позднее 5 рабочих дней</td><td>Подписывает проект и прикладывает обеспечение либо размещает протокол разногласий</td><td>Признание уклонившимся: протокол об уклонении и реестр недобросовестных поставщиков на два года</td></tr>
+      <tr><td>Заказчик — не позднее 2 рабочих дней</td><td>Подписывает контракт либо размещает доработанный проект по протоколу разногласий</td><td>—</td></tr>
+      <tr><td>Победитель — не позднее 1 рабочего дня</td><td>Подписывает доработанный проект и прикладывает обеспечение</td><td>Те же последствия: уклонение и реестр недобросовестных поставщиков</td></tr>
+      <tr><td>Заказчик — не позднее 2 рабочих дней</td><td>Подписывает контракт; в этот день контракт считается заключённым</td><td>—</td></tr>
+      </tbody>
+    </table>
     <h2 id="kak-zaklyuchaetsya">Как заключается контракт по 44-ФЗ</h2>
     <p class="lead-p">Заключение контракта по 44-ФЗ — это финальная стадия закупки, на которой победитель и заказчик обмениваются электронными подписями в единой информационной системе. По итогам конкурентной электронной процедуры — конкурса, аукциона, запроса котировок — контракт подписывают по правилам статьи 51 Закона № 44-ФЗ. Подписание идёт строго через ЕИС и электронную площадку: бумажный экземпляр здесь не нужен, юридическую силу имеет именно подписанный усиленной электронной подписью документ в системе. Как это устроено, когда заказчик — Минфин или федеральный ГРБС, разобрано в статье о <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-44-fz/#kontrakty-s-minfinom">казначейском сопровождении по 44-ФЗ</a>.</p>
     <p>Главное, что нужно понять победителю: после публикации итогового протокола закупка не заканчивается, а переходит в чёткий регламент с короткими сроками. Каждый шаг привязан к рабочим дням, и пропуск любого из них автоматически делает участника уклонившимся от заключения контракта. Цена ошибки высока — потеря контракта, удержание обеспечения заявки и риск попасть в реестр недобросовестных поставщиков на два года. Перед подписанием проверьте <a href="/baza-znaniy/uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte/">условие о казначейском сопровождении</a>.</p>
