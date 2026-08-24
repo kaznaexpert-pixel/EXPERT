@@ -162,6 +162,8 @@
   <url>
     <loc>https://kaznaexpert.ru/komanda/</loc>
     <lastmod>2026-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
   </url>
   <url>
     <loc>https://kaznaexpert.ru/komanda/mihailov-yaroslav/</loc>
@@ -172,6 +174,8 @@
   <url>
     <loc>https://kaznaexpert.ru/komanda/bogdanova-anna/</loc>
     <lastmod>2026-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
   </url>
   <url>
     <loc>https://kaznaexpert.ru/keysy/</loc>

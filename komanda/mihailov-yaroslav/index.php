@@ -375,7 +375,7 @@
               <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a>
               <a href="/o-kompanii/">О компании</a>
               <a href="/komanda/">Команда экспертов</a>
-              <a href="/komanda/mihailov-yaroslav/">Эксперт: Ярослав Михайлов</a>
+              <a href="/komanda/">Команда</a>
               <a href="/komanda/bogdanova-anna/">Эксперт: Анна Богданова</a>
               <a href="/baza-znaniy/kody/">Коды направлений расходования</a>
               <a href="/baza-znaniy/kody-postupleniy/">Коды источников поступлений</a>
