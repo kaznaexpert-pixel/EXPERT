@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Отказ в открытии лицевого счёта в казначействе: что делать</title>
 <meta name="description" content="Причины возврата документов и отказа в открытии лицевого счёта по казначейскому мониторингу (ст. 242.13-1 БК, ПП № 2483): приостановление и порядок действий.">
-<meta name="author" content="Ярослав Михайлов">
+<meta name="author" content="Анна Богданова">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#141310" media="(prefers-color-scheme: dark)">
@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"schet"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Отказ в открытии лицевого счёта в казначействе: причины, приостановление и что делать", "description": "Причины возврата документов и отказа в открытии лицевого счёта по казначейскому мониторингу (ст. 242.13-1 БК, ПП № 2483): приостановление и порядок действий.", "inLanguage": "ru-RU", "datePublished": "2026-07-03", "dateModified": "2026-08-24", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/otkaz-v-otkrytii-licevogo-scheta/"}, "citation": ["Бюджетный кодекс РФ, статья 242.13-1 «Казначейский мониторинг» (введена Федеральным законом от 01.07.2021 № 244-ФЗ; в ред. Федерального закона от 21.04.2025 № 84-ФЗ; с 01.09.2026 — в редакции Федерального закона от 24.06.2025 № 158-ФЗ) — consultant.ru/document/cons_doc_LAW_19702/", "Постановление Правительства РФ от 25.12.2021 № 2483 «Об утверждении Правил проведения казначейского мониторинга» (ред. от 09.06.2025, изменения — постановление № 866) — consultant.ru/document/cons_doc_LAW_405180/", "Приказ Федерального казначейства от 22.12.2021 № 44н «Об утверждении Порядка открытия лицевых счетов территориальными органами Федерального казначейства участникам казначейского сопровождения» (ред. от 30.09.2025) — consultant.ru/document/cons_doc_LAW_405524/", "Приказ Федерального казначейства от 06.12.2024 № 22н — электронный порядок обмена документами при открытии лицевых счетов (действует с 17.03.2025).", "Приказ Минфина России от 23.12.2014 № 163н «О Порядке формирования и ведения реестра участников бюджетного процесса, а также юридических лиц, не являющихся участниками бюджетного процесса» (Сводный реестр)."]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Отказ в открытии лицевого счёта в казначействе: причины, приостановление и что делать", "description": "Причины возврата документов и отказа в открытии лицевого счёта по казначейскому мониторингу (ст. 242.13-1 БК, ПП № 2483): приостановление и порядок действий.", "inLanguage": "ru-RU", "datePublished": "2026-07-03", "dateModified": "2026-08-24", "author": {"@type": "Person", "name": "Анна Богданова", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/otkaz-v-otkrytii-licevogo-scheta/"}, "citation": ["Бюджетный кодекс РФ, статья 242.13-1 «Казначейский мониторинг» (введена Федеральным законом от 01.07.2021 № 244-ФЗ; в ред. Федерального закона от 21.04.2025 № 84-ФЗ; с 01.09.2026 — в редакции Федерального закона от 24.06.2025 № 158-ФЗ) — consultant.ru/document/cons_doc_LAW_19702/", "Постановление Правительства РФ от 25.12.2021 № 2483 «Об утверждении Правил проведения казначейского мониторинга» (ред. от 09.06.2025, изменения — постановление № 866) — consultant.ru/document/cons_doc_LAW_405180/", "Приказ Федерального казначейства от 22.12.2021 № 44н «Об утверждении Порядка открытия лицевых счетов территориальными органами Федерального казначейства участникам казначейского сопровождения» (ред. от 30.09.2025) — consultant.ru/document/cons_doc_LAW_405524/", "Приказ Федерального казначейства от 06.12.2024 № 22н — электронный порядок обмена документами при открытии лицевых счетов (действует с 17.03.2025).", "Приказ Минфина России от 23.12.2014 № 163н «О Порядке формирования и ведения реестра участников бюджетного процесса, а также юридических лиц, не являющихся участниками бюджетного процесса» (Сводный реестр)."]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Отказ в открытии лицевого счёта", "item": "https://kaznaexpert.ru/baza-znaniy/otkaz-v-otkrytii-licevogo-scheta/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: отказ в открытии лицевого счёта", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Возврат документов без исполнения", "description": "Результат проверки комплекта на открытие лицевого счёта по приказу ФК № 44н: при несоответствиях документы возвращаются заявителю с указанием причины; исправляется повторной подачей."}, {"@type": "DefinedTerm", "name": "Казначейский мониторинг", "description": "Механизм статьи 242.13-1 Бюджетного кодекса: автоматизированная проверка участников казначейского сопровождения при открытии лицевых счетов и проведении операций; правила утверждены постановлением Правительства № 2483."}, {"@type": "DefinedTerm", "name": "Отказ в открытии лицевого счёта", "description": "Мера реагирования по пункту 6 статьи 242.13-1 БК: применяется при включении организации в перечни причастных к экстремизму или терроризму, перечни СБ ООН, при замораживании средств, контроле со стороны фигурантов перечней или офшорной регистрации."}, {"@type": "DefinedTerm", "name": "Приостановление открытия лицевого счёта", "description": "Мера по пункту 7 статьи 242.13-1 БК при дисквалификации руководителя или информации о банкротстве: казначейство информирует заказчика, и счёт открывают либо возвращают документы на основании его решения."}, {"@type": "DefinedTerm", "name": "Сводный реестр", "description": "Реестр участников и неучастников бюджетного процесса (приказ Минфина от 23.12.2014 № 163н); запись в нём — обязательное условие открытия лицевого счёта в органе Федерального казначейства."}, {"@type": "DefinedTerm", "name": "Идентификатор государственного контракта (ИГК)", "description": "Уникальный код, присваиваемый контракту и указываемый в контракте, платёжных и расчётных документах; его отсутствие в контракте — типовая причина возврата документов."}, {"@type": "DefinedTerm", "name": "Казначейская оговорка", "description": "Условия контракта о казначейском сопровождении: обязанность открыть лицевой счёт, вести расчёты через него и представлять подтверждающие документы; без оговорки счёт по контракту не откроют."}, {"@type": "DefinedTerm", "name": "Машиночитаемая доверенность (МЧД)", "description": "Электронная доверенность по закону № 63-ФЗ, подтверждающая полномочия подписанта, если документы подписывает не руководитель организации; обязательна при электронном порядке подачи."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Анна Богданова", "alternateName": "Богданова Анна Андреевна", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "image": "https://kaznaexpert.ru/img/team/bogdanova-768.jpg", "colleague": {"@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -87,7 +87,7 @@
 <meta property="og:image:alt" content="Отказ в открытии лицевого счёта в казначействе: причины и что делать — КазнаЭксперт">
 <meta property="article:published_time" content="2026-07-03T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-24T09:00:00+03:00">
-<meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
+<meta property="article:author" content="https://kaznaexpert.ru/komanda/bogdanova-anna/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Отказ в открытии лицевого счёта в казначействе: причины и что делать">
@@ -174,7 +174,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Счета в казначействе <span class="fresh">Актуально на 2026</span></div>
     <h1>Отказ в открытии лицевого счёта в казначействе: причины, приостановление и что делать</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 24 августа 2026</span></div>
+    <div class="byline"><span class="av">АБ</span><span>Автор: <a href="/komanda/bogdanova-anna/">Анна Богданова</a>, ведущий эксперт</span><span class="dot">·</span><span>15 лет на стороне казначейства</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 24 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -379,13 +379,14 @@
     </div>
 
     <div class="author">
-      <div class="author__av">ЯМ</div>
+      <div class="author__av">АБ</div>
       <div class="author__body">
-        <div class="author__name">Ярослав Михайлов</div>
-        <div class="author__role">Основатель и главный эксперт КазнаЭксперт</div>
-        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Работает с контрактами по 44-ФЗ, 223-ФЗ и ГОЗ; с 2021 года ведёт клиентов как ИП «КазнаЭксперт». Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
-        <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
+        <div class="author__name">Анна Богданова</div>
+        <div class="author__role">Ведущий эксперт КазнаЭксперт по казначейскому сопровождению</div>
+        <p class="author__bio">Около 20 лет в профессии, из них 15 лет — работа на стороне казначейства. Специализация — сложные и нестандартные операции: крупные контракты, иностранные поставки и инвойсы, расчёты в разных валютах, санкционирование платежей и разбор замечаний.</p>
+        <div class="author__meta"><a href="/komanda/bogdanova-anna/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
       </div>
+    </div>
     </div>
 
     <div class="refs">
