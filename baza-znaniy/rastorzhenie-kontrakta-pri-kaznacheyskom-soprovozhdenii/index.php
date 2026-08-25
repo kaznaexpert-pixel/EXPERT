@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Расторжение контракта при казначейском сопровождении: счёт, остатки, последствия", "description": "Что происходит с лицевым счётом 71 и неиспользованным авансом при расторжении контракта под казначейским сопровождением: как вернуть остаток целевых средств и закрыть счёт по ст. 95 Закона № 44-ФЗ.", "inLanguage": "ru-RU", "datePublished": "2026-06-14", "dateModified": "2026-06-14", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/rastorzhenie-kontrakta-pri-kaznacheyskom-soprovozhdenii/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_144624/", "https://www.consultant.ru/document/cons_doc_LAW_19702/c4bad396d963c79cf5c4665d8fc50e017a94309f/", "https://www.consultant.ru/document/cons_doc_LAW_520057/", "https://www.consultant.ru/document/cons_doc_LAW_208093/", "https://www.consultant.ru/document/cons_doc_LAW_34661/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Расторжение контракта при казначейском сопровождении: счёт, остатки, последствия", "description": "Что происходит с лицевым счётом 71 и неиспользованным авансом при расторжении контракта под казначейским сопровождением: как вернуть остаток целевых средств и закрыть счёт по ст. 95 Закона № 44-ФЗ.", "inLanguage": "ru-RU", "datePublished": "2026-06-14", "dateModified": "2026-08-25", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/rastorzhenie-kontrakta-pri-kaznacheyskom-soprovozhdenii/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_144624/", "https://www.consultant.ru/document/cons_doc_LAW_19702/c4bad396d963c79cf5c4665d8fc50e017a94309f/", "https://www.consultant.ru/document/cons_doc_LAW_520057/", "https://www.consultant.ru/document/cons_doc_LAW_208093/", "https://www.consultant.ru/document/cons_doc_LAW_34661/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Расторжение контракта при казначейском сопровождении", "item": "https://kaznaexpert.ru/baza-znaniy/rastorzhenie-kontrakta-pri-kaznacheyskom-soprovozhdenii/"}]}
@@ -110,7 +110,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Расторжение контракта при казначейском сопровождении: счёт, остатки, последствия — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-14T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-14T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-25T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -202,7 +202,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Основы <span class="fresh">Актуально на 2026</span></div>
     <h1>Расторжение контракта при казначейском сопровождении: счёт, остатки, последствия</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 14 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 25 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -218,7 +218,7 @@
       </ol>
     </details>
 
-    <div class="tldr">Расторжение контракта под казначейским сопровождением запускает обратный финансовый контур: неиспользованный аванс и остаток целевых средств возвращаются источнику, неисполненные распоряжения отзываются, а лицевой счёт 71 закрывается. Основания и порядок расторжения задаёт статья 95 Закона № 44-ФЗ, режим целевых средств и возврата — глава 24.4 Бюджетного кодекса и Правила казначейского сопровождения на 2026 год.<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a></div>
+    <div class="tldr">Расторжение контракта под казначейским сопровождением запускает обратный финансовый контур: неиспользованный аванс и остаток целевых средств возвращаются источнику, неисполненные распоряжения отзываются, а лицевой счёт 71 закрывается. Основания и порядок расторжения задаёт статья 95 Закона № 44-ФЗ, режим целевых средств и возврата — глава 24.4 Бюджетного кодекса и Правила казначейского сопровождения (постановление Правительства РФ от 24.11.2021 № 2024).<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a></div>
 
     <section class="keyfacts grain" aria-label="Ключевые факты">
       <h2>Коротко о главном</h2>
@@ -254,7 +254,8 @@
       <tr><td>Закон № 44-ФЗ, ст. 95</td><td>Основания и порядок расторжения: соглашение сторон, односторонний отказ, решение суда; последствия для поставщика</td></tr>
       <tr><td>БК РФ, глава 24.4 (ст. 242.23–242.27)</td><td>Режим целевых средств на лицевом счёте, возврат неиспользованного остатка источнику</td></tr>
       <tr><td>Закон № 426-ФЗ от 28.11.2025 (ст. 5)</td><td>Перечень целевых средств, подлежащих казначейскому сопровождению в 2026 году</td></tr>
-      <tr><td>Правила казначейского сопровождения на 2026 год (ПП РФ № 1752 от 11.12.2024, ред. от 17.12.2025)</td><td>Порядок операций и возврата средств в текущем году</td></tr>
+      <tr><td>Правила казначейского сопровождения (ПП РФ № 2024 от 24.11.2021, ред. от 15.10.2025)</td><td>Порядок операций с целевыми средствами и возврата неиспользованного остатка</td></tr>
+      <tr><td>ПП РФ № 1752 от 11.12.2024 (ред. от 17.12.2025)</td><td>Перечисление средств, подлежащих казначейскому сопровождению, на расчётные счета в банках; порядок распространён на 2026 год</td></tr>
       <tr><td>Приказ Казначейства № 21н от 17.10.2016 (ред. от 26.11.2025)</td><td>Закрытие лицевого счёта: основания, заявление, условия</td></tr>
       <tr><td>КоАП РФ, ст. 15.14</td><td>Ответственность за нецелевое использование средств — отдельный риск при расторжении из-за нарушений</td></tr>
     </table>
@@ -410,7 +411,7 @@
         <li id="ref-4">Приказ Казначейства России от 17.10.2016 № 21н (ред. от 26.11.2025) — закрытие лицевых счетов — <a href="https://www.consultant.ru/document/cons_doc_LAW_208093/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-5">КоАП РФ, ст. 15.14 «Нецелевое использование бюджетных средств» — <a href="https://www.consultant.ru/document/cons_doc_LAW_34661/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>
-      <p class="refs__note">Материал актуален на 14 июня 2026 года. Основания расторжения, порядок возврата и реквизиты уточняйте в условиях контракта, статье 95 Закона № 44-ФЗ, действующих Правилах казначейского сопровождения и памятке вашего ТОФК.</p>
+      <p class="refs__note">Материал актуален на 25 августа 2026 года. Основания расторжения, порядок возврата и реквизиты уточняйте в условиях контракта, статье 95 Закона № 44-ФЗ, действующих Правилах казначейского сопровождения и памятке вашего ТОФК.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

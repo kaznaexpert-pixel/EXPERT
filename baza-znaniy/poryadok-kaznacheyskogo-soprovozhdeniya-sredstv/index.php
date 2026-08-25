@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"osnovy"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Порядок казначейского сопровождения средств в 2026: этапы и правила", "description": "Порядок казначейского сопровождения: правовая база (гл. 24.4 БК РФ, ПП № 2024, приказ № 214н, ст. 5 ФЗ № 426-ФЗ), этапы, санкционирование, режим счёта, расширенное казначейское сопровождение и пороги 2026.", "inLanguage": "ru-RU", "datePublished": "2026-06-10", "dateModified": "2026-07-02", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/poryadok-kaznacheyskogo-soprovozhdeniya-sredstv/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/c4bad396d963c79cf5c4665d8fc50e017a94309f/", "https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/", "https://www.consultant.ru/document/cons_doc_LAW_405138/", "http://publication.pravo.gov.ru/Document/View/0001202111260048", "https://www.consultant.ru/document/cons_doc_LAW_19702/47e7a41a06d3c2a55bdec6ab516aa9ccc0a8a1ba/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Порядок казначейского сопровождения средств в 2026: этапы и правила", "description": "Порядок казначейского сопровождения: правовая база (гл. 24.4 БК РФ, ПП № 2024, приказ № 214н, ст. 5 ФЗ № 426-ФЗ), этапы, санкционирование, режим счёта, расширенное казначейское сопровождение и пороги 2026.", "inLanguage": "ru-RU", "datePublished": "2026-06-10", "dateModified": "2026-08-25", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/poryadok-kaznacheyskogo-soprovozhdeniya-sredstv/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/c4bad396d963c79cf5c4665d8fc50e017a94309f/", "https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/", "https://www.consultant.ru/document/cons_doc_LAW_405138/", "http://publication.pravo.gov.ru/Document/View/0001202111260048", "https://www.consultant.ru/document/cons_doc_LAW_19702/47e7a41a06d3c2a55bdec6ab516aa9ccc0a8a1ba/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Порядок казначейского сопровождения средств"}]}
@@ -104,7 +104,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Порядок казначейского сопровождения средств: этапы и правила 2026 — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-10T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-07-02T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-25T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -192,7 +192,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Основы <span class="fresh">Актуально на 2026</span></div>
     <h1>Порядок казначейского сопровождения средств в 2026: этапы, правила, актуальная редакция</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 2 июля 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 25 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -349,8 +349,11 @@
       <tr><td>ФЗ от 24.06.2025 № 158-ФЗ</td><td>Закрепил, кто включает условие о казначейском сопровождении; обязанность раздельного учёта</td></tr>
       <tr><td>Приказ Минфина № 84н от 27.06.2025</td><td>Обновил порядок санкционирования (действующая редакция 214н)</td></tr>
       <tr><td>ФЗ от 28.11.2025 № 431-ФЗ</td><td>Продлил приостановление части запретов режима до 01.01.2027</td></tr>
-      <tr><td>ФЗ от 28.11.2025 № 426-ФЗ, ст. 5</td><td>Установил случаи и пороги казначейского сопровождения на 2026 год</td></tr>
+      <tr><td>ФЗ от 28.11.2025 № 426-ФЗ, ст. 5</td><td>Установил случаи и пороги казначейского сопровождения на 2026 год (с изм. от 26.06.2026)</td></tr>
+      <tr><td>Приказ Казначейства от 22.06.2026 № 14н</td><td>С 01.09.2026 меняет Порядок № 44н: выносит из него нормы о казначейском мониторинге, уточняет обмен электронными документами</td></tr>
+      <tr><td>Проект нового Порядка санкционирования</td><td>Заявлен к применению с 01.09.2026 взамен приказа № 214н; на 25.08.2026 не подписан и не зарегистрирован в Минюсте</td></tr>
     </table>
+    <p>На проект нового Порядка санкционирования стоит смотреть спокойно: пока он не подписан и не опубликован, операции санкционируются по приказу № 214н в редакции от 27.06.2025, и именно эта редакция действует на 25 августа 2026 года. Проект не переписывает механику с нуля — он собирает в один документ изменения, накопившиеся с 2021 года, приводит формулировки в соответствие с Бюджетным кодексом и продолжает перенос процедур в «Электронный бюджет». Практический вывод для участника: менять регламенты заранее не нужно, но следить за официальным опубликованием — стоит, потому что переходного периода в заявленной дате не предусмотрено.</p>
 
     <h2 id="oshibki">Частые ошибки</h2>
     <div class="answer reveal">
@@ -444,7 +447,7 @@
         <li id="ref-4">Постановление Правительства РФ от 24.11.2021 № 2024 (ред. от 15.10.2025) «О правилах казначейского сопровождения»; ФЗ от 28.11.2025 № 431-ФЗ (особенности исполнения бюджетов в 2026) — <a href="http://publication.pravo.gov.ru/Document/View/0001202111260048" target="_blank" rel="noopener">pravo.gov.ru</a></li>
         <li id="ref-5">Бюджетный кодекс РФ, ст. 242.24 «Расширенное казначейское сопровождение» — <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/47e7a41a06d3c2a55bdec6ab516aa9ccc0a8a1ba/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>
-      <p class="refs__note">Материал носит справочный характер и не заменяет индивидуальную консультацию. Порядок казначейского сопровождения регулируется главой 24.4 БК РФ, ПП РФ № 2024, приказом Минфина № 214н и ежегодным законом о бюджете; нормы донастраиваются — сверяйте актуальную редакцию на дату операции. Проверено экспертом КазнаЭксперт. Дата актуализации — 2 июля 2026.</p>
+      <p class="refs__note">Материал носит справочный характер и не заменяет индивидуальную консультацию. Порядок казначейского сопровождения регулируется главой 24.4 БК РФ, ПП РФ № 2024, приказом Минфина № 214н и ежегодным законом о бюджете; нормы донастраиваются — сверяйте актуальную редакцию на дату операции. Проверено экспертом КазнаЭксперт. Дата актуализации — 25 августа 2026.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

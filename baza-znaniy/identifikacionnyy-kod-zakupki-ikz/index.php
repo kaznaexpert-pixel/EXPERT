@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Идентификационный код закупки (ИКЗ) по 44-ФЗ: структура, расшифровка и отличие от ИГК", "description": "Что такое ИКЗ по 44-ФЗ, из чего состоят 36 разрядов идентификационного кода закупки, как его расшифровать, где указывать и чем ИКЗ отличается от ИГК.", "inLanguage": "ru-RU", "datePublished": "2026-06-26", "dateModified": "2026-06-26", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/identifikacionnyy-kod-zakupki-ikz/"}, "citation": ["Федеральный закон от 05.04.2013 № 44-ФЗ, статья 23 «Идентификационный код закупки, каталог товаров, работ, услуг» (ред. на 26.06.2026). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_144624/", "Приказ Минфина России от 10.04.2019 № 55н «Об установлении Порядка формирования идентификационного кода закупки».", "Федеральный закон от 05.04.2013 № 44-ФЗ, статья 103 «Реестр контрактов» (ИКЗ как реквизит реестровой записи). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_144624/", "Общероссийский классификатор продукции по видам экономической деятельности (ОКПД2) — для разрядов 30–33 кода.", "Бюджетный кодекс РФ и приказ Минфина о порядке применения кодов видов расходов (КВР) — для разрядов 34–36 кода. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_19702/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Идентификационный код закупки (ИКЗ) по 44-ФЗ: структура, расшифровка и отличие от ИГК", "description": "Что такое ИКЗ по 44-ФЗ, из чего состоят 36 разрядов идентификационного кода закупки, как его расшифровать, где указывать и чем ИКЗ отличается от ИГК.", "inLanguage": "ru-RU", "datePublished": "2026-06-26", "dateModified": "2026-08-25", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/identifikacionnyy-kod-zakupki-ikz/"}, "citation": ["Федеральный закон от 05.04.2013 № 44-ФЗ, статья 23 «Идентификационный код закупки, каталог товаров, работ, услуг» (ред. от 04.08.2026). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_144624/", "Приказ Минфина России от 10.04.2019 № 55н «Об утверждении Порядка формирования идентификационного кода закупки».", "Федеральный закон от 05.04.2013 № 44-ФЗ, статья 103 «Реестр контрактов» (ИКЗ как реквизит реестровой записи). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_144624/", "Общероссийский классификатор продукции по видам экономической деятельности (ОКПД2) — для разрядов 30–33 кода.", "Бюджетный кодекс РФ и приказ Минфина о порядке применения кодов видов расходов (КВР) — для разрядов 34–36 кода. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_19702/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Идентификационный код закупки (ИКЗ)", "item": "https://kaznaexpert.ru/baza-znaniy/identifikacionnyy-kod-zakupki-ikz/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Идентификационный код закупки (ИКЗ) по 44-ФЗ: структура и расшифровка — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-26T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-06-26T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-25T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -176,7 +176,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Операции и отчётность <span class="fresh">Актуально на 2026</span></div>
     <h1>Идентификационный код закупки (ИКЗ) по 44-ФЗ: структура, расшифровка и отличие от ИГК</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 26 июня 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 25 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -211,7 +211,7 @@
 
     <h2 id="pravovaya-osnova">Правовая основа: статья 23 и приказ № 55н</h2>
     <p>Сам институт идентификационного кода закупки закреплён статьёй 23 Закона № 44-ФЗ. Она устанавливает, что каждая закупка имеет идентификационный код, который указывается в плане-графике, извещении, документации, контракте и иных документах, а также обеспечивает взаимосвязь этих документов.</p>
-    <p>Конкретный состав, структуру и порядок формирования кода статья 23 отдаёт на уровень подзаконного акта. Сейчас это приказ Минфина России от 10.04.2019 № 55н «Об установлении Порядка формирования идентификационного кода закупки». Именно он определяет, что означает каждый разряд кода и по каким правилам заказчик его собирает. При работе с ИКЗ всегда стоит сверяться с действующей редакцией приказа, поскольку отдельные элементы (например, привязка к классификаторам) со временем уточняются.</p>
+    <p>Конкретный состав, структуру и порядок формирования кода статья 23 отдаёт на уровень подзаконного акта. Сейчас это приказ Минфина России от 10.04.2019 № 55н «Об утверждении Порядка формирования идентификационного кода закупки». Именно он определяет, что означает каждый разряд кода и по каким правилам заказчик его собирает. При работе с ИКЗ всегда стоит сверяться с действующей редакцией приказа, поскольку отдельные элементы (например, привязка к классификаторам) со временем уточняются. На 25 августа 2026 года приказ № 55н применяется в редакции от 15.11.2021, а сама статья 23 Закона № 44-ФЗ — в редакции от 04.08.2026: структура кода в 36 разрядов и правила её формирования этими изменениями не затрагивались.</p>
 
     <h2 id="struktura">Структура ИКЗ: 36 разрядов по порядку</h2>
     <p>ИКЗ состоит из 36 цифр, и каждый блок разрядов несёт свой смысл. Понимание структуры помогает читать код и замечать ошибки.</p>
@@ -342,13 +342,13 @@
     <div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
-        <li id="ref-1">Федеральный закон от 05.04.2013 № 44-ФЗ, статья 23 «Идентификационный код закупки, каталог товаров, работ, услуг» (ред. на 26.06.2026). <a href="https://www.consultant.ru/document/cons_doc_LAW_144624/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
-        <li id="ref-2">Приказ Минфина России от 10.04.2019 № 55н «Об установлении Порядка формирования идентификационного кода закупки».</li>
+        <li id="ref-1">Федеральный закон от 05.04.2013 № 44-ФЗ, статья 23 «Идентификационный код закупки, каталог товаров, работ, услуг» (ред. от 04.08.2026). <a href="https://www.consultant.ru/document/cons_doc_LAW_144624/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
+        <li id="ref-2">Приказ Минфина России от 10.04.2019 № 55н «Об утверждении Порядка формирования идентификационного кода закупки».</li>
         <li id="ref-3">Федеральный закон от 05.04.2013 № 44-ФЗ, статья 103 «Реестр контрактов» (ИКЗ как реквизит реестровой записи). <a href="https://www.consultant.ru/document/cons_doc_LAW_144624/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
         <li id="ref-4">Общероссийский классификатор продукции по видам экономической деятельности (ОКПД2) — для разрядов 30–33 кода.</li>
         <li id="ref-5">Бюджетный кодекс РФ и приказ Минфина о порядке применения кодов видов расходов (КВР) — для разрядов 34–36 кода. <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
       </ol>
-      <p class="refs__note">Нормы и классификаторы приведены в редакции, действующей на 26 июня 2026 года. Материал носит справочный характер.</p>
+      <p class="refs__note">Нормы и классификаторы приведены в редакции, действующей на 25 августа 2026 года. Материал носит справочный характер.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

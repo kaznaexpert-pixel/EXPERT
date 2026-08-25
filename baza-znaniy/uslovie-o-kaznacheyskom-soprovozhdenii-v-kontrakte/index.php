@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Условие о казначейском сопровождении в контракте: формулировка и образец", "description": "Когда условие о казначейском сопровождении обязательно в контракте по 44-ФЗ, какие положения должны быть в тексте (лицевой счёт, идентификатор, санкционирование, отчётность) и образец формулировки.", "inLanguage": "ru-RU", "datePublished": "2026-06-15", "dateModified": "2026-08-17", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/", "http://publication.pravo.gov.ru/", "https://www.consultant.ru/document/cons_doc_LAW_144624/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Условие о казначейском сопровождении в контракте: формулировка и образец", "description": "Когда условие о казначейском сопровождении обязательно в контракте по 44-ФЗ, какие положения должны быть в тексте (лицевой счёт, идентификатор, санкционирование, отчётность) и образец формулировки.", "inLanguage": "ru-RU", "datePublished": "2026-06-15", "dateModified": "2026-08-25", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/", "http://publication.pravo.gov.ru/", "https://www.consultant.ru/document/cons_doc_LAW_144624/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Условие о казначейском сопровождении в контракте", "item": "https://kaznaexpert.ru/baza-znaniy/uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte/"}]}
@@ -110,7 +110,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Условие о казначейском сопровождении в контракте: формулировка и образец — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-15T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-17T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-25T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -202,7 +202,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Основы <span class="fresh">Актуально на 2026</span></div>
     <h1>Условие о казначейском сопровождении в контракте: формулировка и образец</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 17 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 25 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -257,7 +257,8 @@
       <tr><td>БК РФ, глава 24.4 (ст. 242.23–242.27)</td><td>Понятие казначейского сопровождения, режим целевых средств и санкционирование</td></tr>
       <tr><td>Закон № 426-ФЗ от 28.11.2025, ст. 5</td><td>Перечень целевых средств, подлежащих сопровождению в 2026 году</td></tr>
       <tr><td>Закон № 44-ФЗ</td><td>Порядок заключения и исполнения государственных контрактов, включение обязательных условий</td></tr>
-      <tr><td>Правила казначейского сопровождения на 2026 год (ПП РФ № 1752 от 11.12.2024, ред. от 17.12.2025)</td><td>Порядок операций, санкционирования и перечисления средств</td></tr>
+      <tr><td>Правила казначейского сопровождения (ПП РФ № 2024 от 24.11.2021, ред. от 15.10.2025)</td><td>Порядок операций с целевыми средствами и санкционирования</td></tr>
+      <tr><td>ПП РФ № 1752 от 11.12.2024 (ред. от 17.12.2025)</td><td>Перечисление средств, подлежащих казначейскому сопровождению, на расчётные счета в банках в 2026 году</td></tr>
       <tr><td>Закон № 431-ФЗ от 28.11.2025</td><td>Особенности и приостановка отдельных положений на 2026 год</td></tr>
     </table>
     <p>Перечень целевых средств меняется каждый год вместе с законом о бюджете, поэтому формулировки в контракте всегда привязывают к актуальной норме. Подробно круг попадающих под сопровождение контрактов разобран в материале о том, <a href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/">кто попадает под казначейское сопровождение</a>.</p>
@@ -468,7 +469,7 @@
         <li id="ref-3">Федеральный закон от 05.04.2013 № 44-ФЗ «О контрактной системе…» — порядок заключения и исполнения государственных контрактов — <a href="https://www.consultant.ru/document/cons_doc_LAW_144624/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-4">Правила казначейского сопровождения на 2026 год (постановление Правительства РФ от 11.12.2024 № 1752, ред. от 17.12.2025) — <a href="http://publication.pravo.gov.ru/" target="_blank" rel="noopener">pravo.gov.ru</a></li>
       </ol>
-      <p class="refs__note">Материал актуален на 17 августа 2026 года. Образец формулировки приведён как иллюстрация структуры и не заменяет редакцию конкретного контракта. Перед подписанием сверяйте условие с действующей редакцией Бюджетного кодекса, перечнем целевых средств на текущий год и Правилами казначейского сопровождения.</p>
+      <p class="refs__note">Материал актуален на 25 августа 2026 года. Образец формулировки приведён как иллюстрация структуры и не заменяет редакцию конкретного контракта. Перед подписанием сверяйте условие с действующей редакцией Бюджетного кодекса, перечнем целевых средств на текущий год и Правилами казначейского сопровождения.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

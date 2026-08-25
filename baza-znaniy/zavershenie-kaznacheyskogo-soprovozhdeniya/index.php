@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"schet"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Завершение казначейского сопровождения: возврат остатков целевых средств и закрытие лицевого счёта", "description": "Финал контракта под казначейским сопровождением: что происходит с неиспользованным остатком целевых средств, как вернуть остаток источнику и закрыть лицевой счёт 71 по приказу № 21н.", "inLanguage": "ru-RU", "datePublished": "2026-06-13", "dateModified": "2026-08-18", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/zavershenie-kaznacheyskogo-soprovozhdeniya/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/c4bad396d963c79cf5c4665d8fc50e017a94309f/", "https://www.consultant.ru/law/hotdocs/92017.html", "https://www.consultant.ru/document/cons_doc_LAW_208093/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Завершение казначейского сопровождения: возврат остатков целевых средств и закрытие лицевого счёта", "description": "Финал контракта под казначейским сопровождением: что происходит с неиспользованным остатком целевых средств, как вернуть остаток источнику и закрыть лицевой счёт 71 по приказу № 21н.", "inLanguage": "ru-RU", "datePublished": "2026-06-13", "dateModified": "2026-08-25", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/zavershenie-kaznacheyskogo-soprovozhdeniya/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/c4bad396d963c79cf5c4665d8fc50e017a94309f/", "https://www.consultant.ru/law/hotdocs/92017.html", "https://www.consultant.ru/document/cons_doc_LAW_208093/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Завершение сопровождения", "item": "https://kaznaexpert.ru/baza-znaniy/zavershenie-kaznacheyskogo-soprovozhdeniya/"}]}
@@ -98,7 +98,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Завершение сопровождения: возврат остатков и закрытие счёта — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-13T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-18T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-25T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -189,7 +189,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Счета в казначействе <span class="fresh">Актуально на 2026</span></div>
     <h1>Завершение казначейского сопровождения: возврат остатков целевых средств и закрытие лицевого счёта</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 18 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 25 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -240,7 +240,8 @@
       <caption>Нормативная база завершения сопровождения</caption>
       <tr><th>Документ</th><th>Что регулирует</th></tr>
       <tr><td>БК РФ, глава 24.4 (ст. 242.23–242.27)</td><td>Основы казначейского сопровождения, режим целевых средств, возврат неиспользованных сумм</td></tr>
-      <tr><td>Правила казначейского сопровождения на 2026 год (ПП РФ № 1752 от 11.12.2024, продлены ПП № 2053 от 17.12.2025)</td><td>Порядок операций и возврата остатков в текущем году</td></tr>
+      <tr><td>Правила казначейского сопровождения (ПП РФ № 2024 от 24.11.2021, ред. от 15.10.2025)</td><td>Порядок операций с целевыми средствами и возврата остатков</td></tr>
+      <tr><td>ПП РФ № 1752 от 11.12.2024 (продлено ПП № 2053 от 17.12.2025)</td><td>Перечисление средств, подлежащих казначейскому сопровождению, на расчётные счета в банках</td></tr>
       <tr><td>Приказ Казначейства России от 17.10.2016 № 21н (ред. от 26.11.2025)</td><td>Закрытие лицевых счетов: основания, заявление, условия</td></tr>
     </table>
     <p>Конкретный механизм возврата остатка задаётся не только законом, но и условиями самого контракта (соглашения): в нём указывают реквизиты и порядок возврата неиспользованных средств. Поэтому первый источник ответа на вопрос «куда возвращать» — текст вашего контракта, второй — правила текущего года и памятка ТОФК.<a class="fn" href="#ref-2" aria-label="Источник 2">[2]</a></p>
@@ -409,7 +410,7 @@
         <li id="ref-2">Правила казначейского сопровождения на 2026 год (Постановление Правительства РФ от 11.12.2024 № 1752, продлено Постановлением от 17.12.2025 № 2053); порядок возврата остатков целевых средств — <a href="https://www.consultant.ru/law/hotdocs/92017.html" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-3">Приказ Казначейства России от 17.10.2016 № 21н «О порядке открытия и ведения лицевых счетов территориальными органами Федерального казначейства» (ред. от 26.11.2025) — закрытие лицевых счетов — <a href="https://www.consultant.ru/document/cons_doc_LAW_208093/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>
-      <p class="refs__note">Материал актуален на 18 августа 2026 года. Порядок и реквизиты возврата остатков, а также сроки конца года уточняйте в условиях контракта, действующих Правилах казначейского сопровождения и памятке вашего ТОФК.</p>
+      <p class="refs__note">Материал актуален на 25 августа 2026 года. Порядок и реквизиты возврата остатков, а также сроки конца года уточняйте в условиях контракта, действующих Правилах казначейского сопровождения и памятке вашего ТОФК.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">
