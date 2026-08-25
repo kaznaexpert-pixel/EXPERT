@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Оплата иностранному поставщику с казначейского счёта в 2026</title>
 <meta name="description" content="Напрямую с лицевого счёта нерезиденту платить нельзя. Средства выводят на свой счёт в банке по исключению ст. 242.23 БК и платят по инвойсу: документы, коды, валютный контроль.">
-<meta name="author" content="Ярослав Михайлов">
+<meta name="author" content="Анна Богданова">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#141310" media="(prefers-color-scheme: dark)">
@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Оплата иностранному поставщику при казначейском сопровождении: валютный контракт и риски санкционирования", "description": "Напрямую с лицевого счёта нерезиденту платить нельзя. Средства выводят на свой счёт в банке по исключению ст. 242.23 БК и платят по инвойсу: документы, коды, валютный контроль.", "inLanguage": "ru-RU", "datePublished": "2026-07-22", "dateModified": "2026-08-17", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/oplata-inostrannomu-postavshchiku-pri-ks/"}, "citation": ["Бюджетный кодекс РФ, ст. 242.23 (п. 3, пп. 3 и 4) — режим лицевого счёта; исключение «оплата обязательств участника казначейского сопровождения в соответствии с валютным законодательством РФ» (в ред. ФЗ от 13.07.2024 № 177-ФЗ).", "Федеральный закон от 10.12.2003 № 173-ФЗ «О валютном регулировании и валютном контроле», ст. 1 (п. 9 ч. 1), ст. 14 — понятие валютной операции, расчёты резидентов через уполномоченные банки.", "Инструкция Банка России от 16.08.2017 № 181-И — учёт внешнеторговых контрактов (УНК), пороги 3 млн ₽ (импорт) и 10 млн ₽ (экспорт), формы учёта и подтверждающие документы.", "Постановление Правительства РФ от 24.11.2021 № 2024 (ред. от 15.10.2025) — Правила казначейского сопровождения. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_401366/", "Приказ Минфина России от 17.12.2021 № 214н (ред. от 27.06.2025) — порядок санкционирования операций со средствами участников казначейского сопровождения; приложение № 3 — коды направления расходования. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_405138/de4649fe56038006ee16bce420115b7ba6a80da5/", "Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе» — режим отдельного счёта (для дизамбигуации контуров). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_140175/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Оплата иностранному поставщику при казначейском сопровождении: валютный контракт и риски санкционирования", "description": "Напрямую с лицевого счёта нерезиденту платить нельзя. Средства выводят на свой счёт в банке по исключению ст. 242.23 БК и платят по инвойсу: документы, коды, валютный контроль.", "inLanguage": "ru-RU", "datePublished": "2026-07-22", "dateModified": "2026-08-17", "author": {"@type": "Person", "name": "Анна Богданова", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/oplata-inostrannomu-postavshchiku-pri-ks/"}, "citation": ["Бюджетный кодекс РФ, ст. 242.23 (п. 3, пп. 3 и 4) — режим лицевого счёта; исключение «оплата обязательств участника казначейского сопровождения в соответствии с валютным законодательством РФ» (в ред. ФЗ от 13.07.2024 № 177-ФЗ).", "Федеральный закон от 10.12.2003 № 173-ФЗ «О валютном регулировании и валютном контроле», ст. 1 (п. 9 ч. 1), ст. 14 — понятие валютной операции, расчёты резидентов через уполномоченные банки.", "Инструкция Банка России от 16.08.2017 № 181-И — учёт внешнеторговых контрактов (УНК), пороги 3 млн ₽ (импорт) и 10 млн ₽ (экспорт), формы учёта и подтверждающие документы.", "Постановление Правительства РФ от 24.11.2021 № 2024 (ред. от 15.10.2025) — Правила казначейского сопровождения. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_401366/", "Приказ Минфина России от 17.12.2021 № 214н (ред. от 27.06.2025) — порядок санкционирования операций со средствами участников казначейского сопровождения; приложение № 3 — коды направления расходования. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_405138/de4649fe56038006ee16bce420115b7ba6a80da5/", "Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе» — режим отдельного счёта (для дизамбигуации контуров). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_140175/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Оплата иностранному поставщику", "item": "https://kaznaexpert.ru/baza-znaniy/oplata-inostrannomu-postavshchiku-pri-ks/"}]}
@@ -141,7 +141,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: валютные расчёты при казначейском сопровождении", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Нерезидент", "description": "иностранная организация или гражданин, не подпадающие под определение резидента по закону № 173-ФЗ; расчёты с ними — валютные операции."}, {"@type": "DefinedTerm", "name": "Валютная операция", "description": "по статье 1 закона № 173-ФЗ — в том числе использование валюты РФ и иностранной валюты в расчётах между резидентами и нерезидентами."}, {"@type": "DefinedTerm", "name": "УНК", "description": "уникальный номер контракта, присваиваемый уполномоченным банком при постановке внешнеторгового контракта на учёт по инструкции ЦБ № 181-И."}, {"@type": "DefinedTerm", "name": "Уполномоченный банк", "description": "российский банк, имеющий право проводить операции с иностранной валютой и выполняющий функции агента валютного контроля."}, {"@type": "DefinedTerm", "name": "Справка о подтверждающих документах", "description": "форма учёта по инструкции № 181-И, которой резидент подтверждает банку исполнение по контракту, поставленному на учёт."}, {"@type": "DefinedTerm", "name": "Режим лицевого счёта", "description": "установленные статьёй 242.23 БК и Правилами казначейского сопровождения условия использования счёта, включая запреты на перечисление средств."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
+{"@context": "https://schema.org", "@type": "Person", "name": "Анна Богданова", "alternateName": "Богданова Анна Андреевна", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "image": "https://kaznaexpert.ru/img/team/bogdanova-768.jpg", "colleague": {"@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -187,7 +187,7 @@
 <meta property="og:image:alt" content="Оплата иностранному поставщику при казначейском сопровождении — КазнаЭксперт">
 <meta property="article:published_time" content="2026-07-22T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-17T09:00:00+03:00">
-<meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
+<meta property="article:author" content="https://kaznaexpert.ru/komanda/bogdanova-anna/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Оплата иностранному поставщику с казначейского счёта в 2026">
@@ -277,7 +277,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Операции <span class="fresh">Актуально на 2026</span></div>
     <h1>Оплата иностранному поставщику при казначейском сопровождении: валютный контракт и риски санкционирования</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 17 августа 2026</span></div>
+    <div class="byline"><span class="av">АБ</span><span>Автор: <a href="/komanda/bogdanova-anna/">Анна Богданова</a>, ведущий эксперт</span><span class="dot">·</span><span>15 лет на стороне казначейства</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 17 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -481,13 +481,14 @@
     </div>
 
     <div class="author">
-      <div class="author__av">ЯМ</div>
+      <div class="author__av">АБ</div>
       <div class="author__body">
-        <div class="author__name">Ярослав Михайлов</div>
-        <div class="author__role">Основатель и главный эксперт КазнаЭксперт</div>
-        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Команда под руководством Ярослава работает с контрактами по 44-ФЗ, 223-ФЗ и ГОЗ; ИП «КазнаЭксперт» зарегистрировано в 2021 году. Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
-        <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
+        <div class="author__name">Анна Богданова</div>
+        <div class="author__role">Ведущий эксперт КазнаЭксперт по казначейскому сопровождению</div>
+        <p class="author__bio">Около 20 лет в профессии, из них 15 лет — работа на стороне казначейства. Специализация — сложные и нестандартные операции: крупные контракты, иностранные поставки и инвойсы, расчёты в разных валютах, санкционирование платежей и разбор замечаний.</p>
+        <div class="author__meta"><a href="/komanda/bogdanova-anna/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
       </div>
+    </div>
     </div>
 
     <div class="refs">
