@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Санкционирование расходов при казначейском сопровождении</title>
 <meta name="description" content="Санкционирование расходов при казначейском сопровождении: как ТОФК проверяет операции, ст. 242.23 БК РФ, сведения об операциях, основания отказа, сроки, расширенное.">
-<meta name="author" content="Ярослав Михайлов">
+<meta name="author" content="Анна Богданова">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#141310" media="(prefers-color-scheme: dark)">
@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"article", cluster:"sankcionirovanie"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Санкционирование расходов при казначейском сопровождении", "description": "Что такое санкционирование расходов: как ТОФК проверяет операции, правовая основа (ст. 242.23 БК РФ), сведения об операциях, основания отказа, сроки и расширенное санкционирование.", "datePublished": "2026-06-05T10:00:00+03:00", "dateModified": "2026-08-07", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/poryadok-sankcionirovaniya-rashodov/"}, "image": "https://kaznaexpert.ru/img/og-image.png", "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/", "https://www.consultant.ru/document/cons_doc_LAW_405138/", "https://www.consultant.ru/document/cons_doc_LAW_401819/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Санкционирование расходов при казначейском сопровождении", "description": "Что такое санкционирование расходов: как ТОФК проверяет операции, правовая основа (ст. 242.23 БК РФ), сведения об операциях, основания отказа, сроки и расширенное санкционирование.", "datePublished": "2026-06-05T10:00:00+03:00", "dateModified": "2026-08-07", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Анна Богданова", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/poryadok-sankcionirovaniya-rashodov/"}, "image": "https://kaznaexpert.ru/img/og-image.png", "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/", "https://www.consultant.ru/document/cons_doc_LAW_405138/", "https://www.consultant.ru/document/cons_doc_LAW_401819/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Санкционирование расходов"}]}
@@ -38,7 +38,7 @@
 {"@context": "https://schema.org", "@type": "HowTo", "name": "Как проходит санкционирование расходов при казначейском сопровождении", "inLanguage": "ru-RU", "step": [{"@type": "HowToStep", "position": 1, "name": "Утвердить сведения об операциях", "text": "Сформировать и утвердить сведения об операциях с целевыми средствами — план расходов по контракту в разрезе кодов."}, {"@type": "HowToStep", "position": 2, "name": "Сформировать распоряжение", "text": "Подготовить распоряжение о совершении казначейского платежа с корректным назначением и кодами."}, {"@type": "HowToStep", "position": 3, "name": "Приложить документы-основания", "text": "Приложить договор, счёт, акт или УПД, подтверждающие расход, и указать идентификатор контракта, где требуется."}, {"@type": "HowToStep", "position": 4, "name": "Проверка казначейством", "text": "ТОФК проверяет целевое использование, соответствие сведениям, коды и назначение, документы и непревышение остатка целевых средств."}, {"@type": "HowToStep", "position": 5, "name": "Санкционирование и платёж", "text": "При отсутствии нарушений казначейство санкционирует операцию и платёж исполняется; при нарушении документ возвращается на доработку."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Анна Богданова", "alternateName": "Богданова Анна Андреевна", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "image": "https://kaznaexpert.ru/img/team/bogdanova-768.jpg", "colleague": {"@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -84,7 +84,7 @@
 <meta property="og:image:alt" content="Санкционирование расходов при казначейском сопровождении">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-07T09:00:00+03:00">
-<meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
+<meta property="article:author" content="https://kaznaexpert.ru/komanda/bogdanova-anna/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Санкционирование расходов при казначейском сопровождении">
@@ -169,7 +169,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Санкционирование и контроль <span class="fresh">Актуально на 2026</span></div>
     <h1>Санкционирование расходов при казначейском сопровождении</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 7 августа 2026</span></div>
+    <div class="byline"><span class="av">АБ</span><span>Автор: <a href="/komanda/bogdanova-anna/">Анна Богданова</a>, ведущий эксперт</span><span class="dot">·</span><span>15 лет на стороне казначейства</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 7 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -433,13 +433,14 @@
     <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-avansovyh-platezhey">Особенности санкционирования предоплаты разобраны отдельно — см. <a href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/">казначейское сопровождение авансовых платежей</a>.</p>
     <p data-ctx="auto-ctx:ufk-zaderzhivaet-platezh">Нормативные сроки санкционирования по приказу 214н и порядок действий, если <a href="/baza-znaniy/ufk-zaderzhivaet-platezh/">платёж застрял в казначействе</a>, разобраны отдельно.</p>
     <div class="author">
-      <div class="author__av">ЯМ</div>
-      <div>
-        <div class="author__name">Ярослав Михайлов</div>
-        <div class="author__role">Главный эксперт КазнаЭксперт · казначейское сопровождение госконтрактов</div>
-        <p class="author__bio">15+ лет практики в санкционировании и казначейском сопровождении. Доводим платежи до санкционирования с первой подачи и без возвратов.</p>
-        <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль автора</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span><span>Тел.: <a href="tel:+79818331010">+7 (981) 833-10-10</a></span></div>
+      <div class="author__av">АБ</div>
+      <div class="author__body">
+        <div class="author__name">Анна Богданова</div>
+        <div class="author__role">Ведущий эксперт КазнаЭксперт по казначейскому сопровождению</div>
+        <p class="author__bio">Около 20 лет в профессии, из них 15 лет — работа на стороне казначейства. Специализация — сложные и нестандартные операции: крупные контракты, иностранные поставки и инвойсы, расчёты в разных валютах, санкционирование платежей и разбор замечаний.</p>
+        <div class="author__meta"><a href="/komanda/bogdanova-anna/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
       </div>
+    </div>
     </div>
 
     <section class="refs" aria-label="Источники">
