@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Причины отказа казначейства в санкционировании 2026</title>
 <meta name="description" content="10 типичных причин отказа казначейства в санкционировании (ИГК, код направления расходования, документы, сведения) и чек-лист, как их избежать в 2026 году.">
-<meta name="author" content="Ярослав Михайлов">
+<meta name="author" content="Анна Богданова">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#141310" media="(prefers-color-scheme: dark)">
@@ -25,7 +25,7 @@
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"sankcionirovanie"};</script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Причины отказа казначейства в санкционировании: 10 причин и как их избежать в 2026", "description": "10 типичных причин отказа казначейства в санкционировании операций (ИГК, код направления расходования, документы, сведения об операциях) и чек-лист, как их избежать в 2026 году.", "inLanguage": "ru-RU", "datePublished": "2026-06-04", "dateModified": "2026-08-10T10:00:00+03:00", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_405138/9ddf6d7911b13fc8d06086699ee770debd0f3ba2/", "https://www.garant.ru/products/ipo/prime/doc/413428698/", "https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/", "https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Причины отказа казначейства в санкционировании: 10 причин и как их избежать в 2026", "description": "10 типичных причин отказа казначейства в санкционировании операций (ИГК, код направления расходования, документы, сведения об операциях) и чек-лист, как их избежать в 2026 году.", "inLanguage": "ru-RU", "datePublished": "2026-06-04", "dateModified": "2026-08-10T10:00:00+03:00", "author": {"@type": "Person", "name": "Анна Богданова", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_405138/9ddf6d7911b13fc8d06086699ee770debd0f3ba2/", "https://www.garant.ru/products/ipo/prime/doc/413428698/", "https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/", "https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Причины отказа казначейства в санкционировании"}]}
@@ -43,7 +43,7 @@
 ]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Анна Богданова", "alternateName": "Богданова Анна Андреевна", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "image": "https://kaznaexpert.ru/img/team/bogdanova-768.jpg", "colleague": {"@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -89,7 +89,7 @@
 <meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-04T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-10T10:00:00+03:00">
-<meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
+<meta property="article:author" content="https://kaznaexpert.ru/komanda/bogdanova-anna/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Казначейское сопровождение ГОЗ в 2026 году: разбор по 275-ФЗ">
@@ -185,7 +185,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Санкционирование и контроль <span class="fresh">Актуально на 2026</span></div>
     <h1>Причины отказа казначейства в санкционировании: 10 причин и как их избежать в 2026</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 10 августа 2026</span></div>
+    <div class="byline"><span class="av">АБ</span><span>Автор: <a href="/komanda/bogdanova-anna/">Анна Богданова</a>, ведущий эксперт</span><span class="dot">·</span><span>15 лет на стороне казначейства</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 10 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -502,13 +502,14 @@
     <p data-ctx="auto-ctx:spasenie">Если отказ уже получен, а сроки по контракту горят, разовый разбор и доведение платежа мы выполняем в рамках услуги <a href="/uslugi/spasenie-kontrakta/">спасение госконтракта</a> — от диагностики причин до проведённого платежа.</p>
 
     <div class="author">
-      <div class="author__av">ЯМ</div>
+      <div class="author__av">АБ</div>
       <div class="author__body">
-        <div class="author__name">Ярослав Михайлов</div>
-        <div class="author__role">Основатель и главный эксперт КазнаЭксперт</div>
-        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Работает с контрактами по 44-ФЗ, 223-ФЗ и ГОЗ; с 2021 года ведёт клиентов как ИП «КазнаЭксперт». Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
-        <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
+        <div class="author__name">Анна Богданова</div>
+        <div class="author__role">Ведущий эксперт КазнаЭксперт по казначейскому сопровождению</div>
+        <p class="author__bio">Около 20 лет в профессии, из них 15 лет — работа на стороне казначейства. Специализация — сложные и нестандартные операции: крупные контракты, иностранные поставки и инвойсы, расчёты в разных валютах, санкционирование платежей и разбор замечаний.</p>
+        <div class="author__meta"><a href="/komanda/bogdanova-anna/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
       </div>
+    </div>
     </div>
 
     <div class="refs">
