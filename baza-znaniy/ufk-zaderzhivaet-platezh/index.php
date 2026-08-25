@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>УФК задерживает платёж: причины, сроки и что делать</title>
 <meta name="description" content="Почему УФК задерживает платёж при казначейском сопровождении: сроки санкционирования по приказу 214н, типичные причины задержки и что делать.">
-<meta name="author" content="Ярослав Михайлов">
+<meta name="author" content="Анна Богданова">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#141310" media="(prefers-color-scheme: dark)">
@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "УФК задерживает платёж при казначейском сопровождении: причины, сроки и что делать", "description": "Почему УФК задерживает платёж при казначейском сопровождении: сроки санкционирования по приказу 214н, типичные причины задержки и что делать.", "inLanguage": "ru-RU", "datePublished": "2026-06-29", "dateModified": "2026-08-17", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/ufk-zaderzhivaet-platezh/"}, "citation": ["Приказ Минфина России от 17.12.2021 № 214н (ред. от 27.06.2025) «Об утверждении Порядка осуществления территориальными органами Федерального казначейства санкционирования операций со средствами участников казначейского сопровождения». КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_405138/de4649fe56038006ee16bce420115b7ba6a80da5/", "Бюджетный кодекс РФ, статья 242.23 (основы казначейского сопровождения; санкционирование операций). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_19702/", "Постановление Правительства РФ от 24.11.2021 № 2024 (Правила казначейского сопровождения). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_401366/", "Федеральный закон от 05.04.2013 № 44-ФЗ, часть 13.1 статьи 34 (срок оплаты по контракту — 10 рабочих дней при казначейском сопровождении). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_144624/", "Кодекс РФ об административных правонарушениях, статья 15.49 (нарушение срока утверждения сведений об операциях — с 01.01.2026)."]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "УФК задерживает платёж при казначейском сопровождении: причины, сроки и что делать", "description": "Почему УФК задерживает платёж при казначейском сопровождении: сроки санкционирования по приказу 214н, типичные причины задержки и что делать.", "inLanguage": "ru-RU", "datePublished": "2026-06-29", "dateModified": "2026-08-17", "author": {"@type": "Person", "name": "Анна Богданова", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/ufk-zaderzhivaet-platezh/"}, "citation": ["Приказ Минфина России от 17.12.2021 № 214н (ред. от 27.06.2025) «Об утверждении Порядка осуществления территориальными органами Федерального казначейства санкционирования операций со средствами участников казначейского сопровождения». КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_405138/de4649fe56038006ee16bce420115b7ba6a80da5/", "Бюджетный кодекс РФ, статья 242.23 (основы казначейского сопровождения; санкционирование операций). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_19702/", "Постановление Правительства РФ от 24.11.2021 № 2024 (Правила казначейского сопровождения). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_401366/", "Федеральный закон от 05.04.2013 № 44-ФЗ, часть 13.1 статьи 34 (срок оплаты по контракту — 10 рабочих дней при казначейском сопровождении). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_144624/", "Кодекс РФ об административных правонарушениях, статья 15.49 (нарушение срока утверждения сведений об операциях — с 01.01.2026)."]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "УФК задерживает платёж", "item": "https://kaznaexpert.ru/baza-znaniy/ufk-zaderzhivaet-platezh/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: задержка платежа при казначейском сопровождении", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Санкционирование операции", "description": "Предварительная проверка казначейством распоряжения и документов перед списанием средств с лицевого счёта; по приказу 214н — как правило, не позднее двух рабочих дней."}, {"@type": "DefinedTerm", "name": "Распоряжение о казначейском платеже", "description": "Документ, которым участник сопровождения поручает казначейству провести операцию по лицевому счёту."}, {"@type": "DefinedTerm", "name": "Возврат распоряжения", "description": "Отклонение распоряжения без исполнения с указанием причины, когда казначейство нашло несоответствие; устраняется доработкой."}, {"@type": "DefinedTerm", "name": "Сведения об операциях", "description": "Утверждаемая заказчиком плановая структура расходов целевых средств; пока не утверждены, платёж по ним не санкционируют."}, {"@type": "DefinedTerm", "name": "ИГК", "description": "Идентификатор государственного контракта, который указывается в распоряжении и назначении платежа; его отсутствие — частая причина возврата."}, {"@type": "DefinedTerm", "name": "Срок оплаты по контракту", "description": "Срок, в который заказчик обязан оплатить исполненное; по контракту с казначейским сопровождением — 10 рабочих дней."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Анна Богданова", "alternateName": "Богданова Анна Андреевна", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "image": "https://kaznaexpert.ru/img/team/bogdanova-768.jpg", "colleague": {"@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -87,7 +87,7 @@
 <meta property="og:image:alt" content="УФК задерживает платёж: причины, сроки и что делать — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-29T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-17T09:00:00+03:00">
-<meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
+<meta property="article:author" content="https://kaznaexpert.ru/komanda/bogdanova-anna/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="УФК задерживает платёж: причины, сроки и что делать">
@@ -174,7 +174,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Операции и отчётность <span class="fresh">Актуально на 2026</span></div>
     <h1>УФК задерживает платёж при казначейском сопровождении: причины, сроки и что делать</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 17 августа 2026</span></div>
+    <div class="byline"><span class="av">АБ</span><span>Автор: <a href="/komanda/bogdanova-anna/">Анна Богданова</a>, ведущий эксперт</span><span class="dot">·</span><span>15 лет на стороне казначейства</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 17 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -328,13 +328,14 @@
     <p data-ctx="auto-ctx:ispolnitelnyy-list-v-kaznachejstvo">Другое дело — просроченный долг заказчика: он взыскивается через суд и предъявление исполнительного документа по главе 24.1 БК — порядок в статье об <a href="/baza-znaniy/ispolnitelnyy-list-v-kaznachejstvo/">исполнительном листе в казначейство</a>.</p>
     <p data-ctx="auto-ctx:obzhalovanie-deystviy-kaznachejstva">Если платёж не проводят без правового повода, а исправлять нечего, остаётся обжалование действий территориального органа — как это сделать и в какие сроки, показано в материале про <a href="/baza-znaniy/obzhalovanie-deystviy-kaznachejstva/">обжалование отказа казначейства в санкционировании</a>.</p>
     <div class="author">
-      <div class="author__av">ЯМ</div>
+      <div class="author__av">АБ</div>
       <div class="author__body">
-        <div class="author__name">Ярослав Михайлов</div>
-        <div class="author__role">Основатель и главный эксперт КазнаЭксперт</div>
-        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Работает с контрактами по 44-ФЗ, 223-ФЗ и ГОЗ; с 2021 года ведёт клиентов как ИП «КазнаЭксперт». Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
-        <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
+        <div class="author__name">Анна Богданова</div>
+        <div class="author__role">Ведущий эксперт КазнаЭксперт по казначейскому сопровождению</div>
+        <p class="author__bio">Около 20 лет в профессии, из них 15 лет — работа на стороне казначейства. Специализация — сложные и нестандартные операции: крупные контракты, иностранные поставки и инвойсы, расчёты в разных валютах, санкционирование платежей и разбор замечаний.</p>
+        <div class="author__meta"><a href="/komanda/bogdanova-anna/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
       </div>
+    </div>
     </div>
 
     <div class="refs">
