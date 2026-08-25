@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Возврат платежа через казначейство: порядок и заявление</title>
 <meta name="description" content="Как вернуть платёж через казначейство: возврат ошибочных и невыясненных поступлений по заявлению (137н, 172н) при казначейском сопровождении.">
-<meta name="author" content="Ярослав Михайлов">
+<meta name="author" content="Анна Богданова">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#141310" media="(prefers-color-scheme: dark)">
@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Возврат платежа через казначейство: ошибочный платёж, невыясненные поступления и возврат с лицевого счёта", "description": "Как вернуть платёж через казначейство: возврат ошибочных и невыясненных поступлений по заявлению (137н, 172н) при казначейском сопровождении.", "inLanguage": "ru-RU", "datePublished": "2026-06-29", "dateModified": "2026-08-25", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/vozvrat-platezha-kaznachejstvo/"}, "citation": ["Приказ Минфина России от 27.09.2021 № 137н (Общие требования к возврату излишне уплаченных (взысканных) платежей).", "Порядок учёта Федеральным казначейством поступлений в бюджетную систему Российской Федерации и их распределения между бюджетами (приказ Минфина России от 15.11.2024 № 172н (ред. от 06.08.2025)).", "Бюджетный кодекс РФ, статья 242.23 (казначейское сопровождение; возврат средств с лицевого счёта). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_19702/", "Постановление Правительства РФ от 24.11.2021 № 2024 (Правила казначейского сопровождения). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_401366/", "Информация территориальных органов Федерального казначейства о порядке возврата излишне или ошибочно уплаченных средств (рекомендуемые образцы заявлений)."]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Возврат платежа через казначейство: ошибочный платёж, невыясненные поступления и возврат с лицевого счёта", "description": "Как вернуть платёж через казначейство: возврат ошибочных и невыясненных поступлений по заявлению (137н, 172н) при казначейском сопровождении.", "inLanguage": "ru-RU", "datePublished": "2026-06-29", "dateModified": "2026-08-25", "author": {"@type": "Person", "name": "Анна Богданова", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/vozvrat-platezha-kaznachejstvo/"}, "citation": ["Приказ Минфина России от 27.09.2021 № 137н (Общие требования к возврату излишне уплаченных (взысканных) платежей).", "Порядок учёта Федеральным казначейством поступлений в бюджетную систему Российской Федерации и их распределения между бюджетами (приказ Минфина России от 15.11.2024 № 172н (ред. от 06.08.2025)).", "Бюджетный кодекс РФ, статья 242.23 (казначейское сопровождение; возврат средств с лицевого счёта). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_19702/", "Постановление Правительства РФ от 24.11.2021 № 2024 (Правила казначейского сопровождения). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_401366/", "Информация территориальных органов Федерального казначейства о порядке возврата излишне или ошибочно уплаченных средств (рекомендуемые образцы заявлений)."]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Возврат платежа через казначейство", "item": "https://kaznaexpert.ru/baza-znaniy/vozvrat-platezha-kaznachejstvo/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: возврат платежа через казначейство", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Ошибочно перечисленный платёж", "description": "Средства, отправленные по неверным реквизитам, в излишней сумме или не тому получателю; возвращаются по заявлению плательщика."}, {"@type": "DefinedTerm", "name": "Невыясненное поступление", "description": "Платёж, который поступил в казначейство, но не отнесён к конкретному получателю или назначению; подлежит возврату или уточнению."}, {"@type": "DefinedTerm", "name": "Заявление на возврат", "description": "Обращение плательщика с реквизитами платежа и причиной возврата, на основании которого казначейство возвращает средства."}, {"@type": "DefinedTerm", "name": "Уточнение платежа", "description": "Альтернатива возврату: плательщик представляет недостающую информацию, и поступление относят по назначению без физического возврата."}, {"@type": "DefinedTerm", "name": "Распоряжение о казначейском платеже", "description": "Документ, которым средства возвращаются с лицевого счёта участника сопровождения на счёт заказчика или в бюджет."}, {"@type": "DefinedTerm", "name": "Администратор поступлений", "description": "Орган, отвечающий за учёт конкретных доходов; через него может идти возврат уже зачисленного в бюджет платежа."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Анна Богданова", "alternateName": "Богданова Анна Андреевна", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "image": "https://kaznaexpert.ru/img/team/bogdanova-768.jpg", "colleague": {"@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -87,7 +87,7 @@
 <meta property="og:image:alt" content="Возврат платежа через казначейство: порядок и заявление — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-29T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-25T09:00:00+03:00">
-<meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
+<meta property="article:author" content="https://kaznaexpert.ru/komanda/bogdanova-anna/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Возврат платежа через казначейство: порядок и заявление">
@@ -173,7 +173,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Операции и отчётность <span class="fresh">Актуально на 2026</span></div>
     <h1>Возврат платежа через казначейство: ошибочный платёж, невыясненные поступления и возврат с лицевого счёта</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 25 августа 2026</span></div>
+    <div class="byline"><span class="av">АБ</span><span>Автор: <a href="/komanda/bogdanova-anna/">Анна Богданова</a>, ведущий эксперт</span><span class="dot">·</span><span>15 лет на стороне казначейства</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 25 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -306,13 +306,14 @@
 
     <p data-ctx="auto-ctx:vozvrat-deneg-ot-postavshchika-na-licevoy-schet">Обратная ситуация — когда деньги возвращает не орган казначейства, а ваш контрагент: переплату, неотработанный аванс или оплату возвращённого товара поставщик перечисляет на лицевой счёт; порядок разобран в статье про <a href="/baza-znaniy/vozvrat-deneg-ot-postavshchika-na-licevoy-schet/">возврат денег от поставщика на лицевой счёт</a>.</p>
     <div class="author">
-      <div class="author__av">ЯМ</div>
+      <div class="author__av">АБ</div>
       <div class="author__body">
-        <div class="author__name">Ярослав Михайлов</div>
-        <div class="author__role">Основатель и главный эксперт КазнаЭксперт</div>
-        <p class="author__bio">15+ лет практики в сфере казначейского сопровождения государственных контрактов. Работает с контрактами по 44-ФЗ, 223-ФЗ и ГОЗ; с 2021 года ведёт клиентов как ИП «КазнаЭксперт». Специализация — сложные случаи: гособоронзаказ, раздельный учёт, спасение контрактов после отказов казначейства.</p>
-        <div class="author__meta"><a href="/komanda/mihailov-yaroslav/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
+        <div class="author__name">Анна Богданова</div>
+        <div class="author__role">Ведущий эксперт КазнаЭксперт по казначейскому сопровождению</div>
+        <p class="author__bio">Около 20 лет в профессии, из них 15 лет — работа на стороне казначейства. Специализация — сложные и нестандартные операции: крупные контракты, иностранные поставки и инвойсы, расчёты в разных валютах, санкционирование платежей и разбор замечаний.</p>
+        <div class="author__meta"><a href="/komanda/bogdanova-anna/">Профиль эксперта →</a><span>Telegram: <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">@Kaznaexpert</a></span></div>
       </div>
+    </div>
     </div>
 
     <div class="refs">
