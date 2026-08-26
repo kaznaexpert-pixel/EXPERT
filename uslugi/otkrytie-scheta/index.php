@@ -602,6 +602,29 @@
   </div>
 </section>
 
+<section class="v2-section" id="vmeste">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Следующий шаг</div>
+      <h2 class="v2-section-title">Что обычно берут <em>вместе</em></h2>
+    </div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:14px;box-sizing:border-box">
+      <a href="/uslugi/kaznacheyskoe-soprovozhdenie/" style="display:block;padding:20px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e8e2d6);border-radius:14px;text-decoration:none;color:inherit;box-sizing:border-box">
+        <span style="display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#9a7b4f;font-weight:600;margin-bottom:8px">После открытия</span>
+        <b style="display:block;font-size:16px;line-height:1.35;margin-bottom:6px">Казначейское сопровождение контракта</b>
+        <span style="display:block;font-size:14px;color:var(--mute,#6e6b66);line-height:1.55">Счёт открыт — дальше сведения, санкционирование и платежи каждый месяц. Ведём контракт за вас, без лимитов на операции.</span>
+        <span style="display:inline-block;margin-top:10px;font-size:14px;color:#9a7b4f;font-weight:600">Подробнее &rarr;</span>
+      </a>
+      <a href="/uslugi/rezervirovanie-scheta/" style="display:block;padding:20px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e8e2d6);border-radius:14px;text-decoration:none;color:inherit;box-sizing:border-box">
+        <span style="display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#9a7b4f;font-weight:600;margin-bottom:8px">Если контракт ещё не подписан</span>
+        <b style="display:block;font-size:16px;line-height:1.35;margin-bottom:6px">Резервирование счёта</b>
+        <span style="display:block;font-size:14px;color:var(--mute,#6e6b66);line-height:1.55">Номер счёта резервируется заранее — реквизиты попадают в контракт сразу, без паузы на открытие.</span>
+        <span style="display:inline-block;margin-top:10px;font-size:14px;color:#9a7b4f;font-weight:600">Подробнее &rarr;</span>
+      </a>
+    </div>
+  </div>
+</section>
+
 <section class="v2-section v2-screen" id="faq">
   <div class="v2-container">
     <div class="v2-section-head">
