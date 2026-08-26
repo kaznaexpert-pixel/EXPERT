@@ -516,6 +516,29 @@
   </div>
 </section>
 
+<section class="v2-section" id="vmeste">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Следующий шаг</div>
+      <h2 class="v2-section-title">Что обычно берут <em>вместе</em></h2>
+    </div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:14px;box-sizing:border-box">
+      <a href="/uslugi/audit-kaznacheyskogo-soprovozhdeniya/" style="display:block;padding:20px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e8e2d6);border-radius:14px;text-decoration:none;color:inherit;box-sizing:border-box">
+        <span style="display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#9a7b4f;font-weight:600;margin-bottom:8px">Проверка процесса</span>
+        <b style="display:block;font-size:16px;line-height:1.35;margin-bottom:6px">Аудит казначейского сопровождения</b>
+        <span style="display:block;font-size:14px;color:var(--mute,#6e6b66);line-height:1.55">Разбор всей цепочки расчётов по контракту: где теряются дни, какие документы вернут и что исправить до проверки.</span>
+        <span style="display:inline-block;margin-top:10px;font-size:14px;color:#9a7b4f;font-weight:600">Подробнее &rarr;</span>
+      </a>
+      <a href="/uslugi/kaznacheyskoe-soprovozhdenie/" style="display:block;padding:20px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e8e2d6);border-radius:14px;text-decoration:none;color:inherit;box-sizing:border-box">
+        <span style="display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#9a7b4f;font-weight:600;margin-bottom:8px">Если контракт длинный</span>
+        <b style="display:block;font-size:16px;line-height:1.35;margin-bottom:6px">Казначейское сопровождение под ключ</b>
+        <span style="display:block;font-size:14px;color:var(--mute,#6e6b66);line-height:1.55">Когда постоплата — не разовая операция, а регулярные расчёты: ведём счёт и платежи весь срок контракта.</span>
+        <span style="display:inline-block;margin-top:10px;font-size:14px;color:#9a7b4f;font-weight:600">Подробнее &rarr;</span>
+      </a>
+    </div>
+  </div>
+</section>
+
 <section class="v2-section v2-screen" id="faq">
   <div class="v2-container">
     <div class="v2-section-head">
