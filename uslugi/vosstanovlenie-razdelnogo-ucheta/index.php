@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Восстановление раздельного учёта по ГОЗ и госконтрактам</title>
-<meta name="description" content="Восстановим раздельный учёт по гособоронзаказу и госконтрактам: первичка, регистры, калькуляции, 1С. Приведём в порядок до проверки и штрафа. 15 лет практики.">
+<meta name="description" content="Восстановим раздельный учёт по гособоронзаказу и госконтрактам: первичка, регистры, калькуляции, 1С. 99 000 ₽ фиксированно, до проверки и штрафа.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -69,7 +69,7 @@
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
 <meta property="og:title" content="Восстановление раздельного учёта по ГОЗ и госконтрактам">
-<meta property="og:description" content="Восстановим раздельный учёт: первичка, регистры затрат, отчётные калькуляции, настройка 1С. До проверки и штрафа. Вся Россия.">
+<meta property="og:description" content="Восстановим раздельный учёт по гособоронзаказу и госконтрактам: первичка, регистры, калькуляции, 1С. 99 000 ₽ фиксированно, до проверки и штрафа.">
 <meta property="og:url" content="https://kaznaexpert.ru/uslugi/vosstanovlenie-razdelnogo-ucheta/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
