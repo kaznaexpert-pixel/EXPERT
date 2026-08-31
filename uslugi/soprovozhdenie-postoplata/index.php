@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Постоплата по госконтракту без возвратов — 65 000 ₽</title>
-<meta name="description" content="Проведём постоплату по госконтракту без возвратов и в срок: проверка документов, работа с казначейством, контроль до зачисления.">
+<meta name="description" content="Проведём постоплату по госконтракту без возвратов и в срок: проверка документов, работа с казначейством, контроль до зачисления. 65 000 ₽ фиксированно.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -205,7 +205,7 @@
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
 <meta property="og:title" content="Постоплата по госконтракту — без возвратов и в срок">
-<meta property="og:description" content="Проверка документов, работа с казначейством, контроль до зачисления. Повторная подача без доплат.">
+<meta property="og:description" content="Проведём постоплату по госконтракту без возвратов и в срок: проверка документов, работа с казначейством, контроль до зачисления. 65 000 ₽ фиксированно.">
 <meta property="og:url" content="https://kaznaexpert.ru/uslugi/soprovozhdenie-postoplata/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
