@@ -26,35 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "bestRating": "5", "ratingCount": "7", "reviewCount": "7"},
-  "datePublished": "2026-06-25",
-  "dateModified": "2026-08-16",
-  "name": "Сопровождение контракта с авансом",
-  "serviceType": "Казначейское сопровождение авансового госконтракта",
-  "description": "Полное сопровождение контракта с авансом: контроль целевого использования, санкционирование платежей, цепочка кооперации, раздельный учёт и сведения об операциях. Безлимит операций до закрытия контракта.",
-  "provider": {
-    "@type": "Organization",
-    "name": "КазнаЭксперт",
-    "url": "https://kaznaexpert.ru",
-    "telephone": "+7-981-833-10-10",
-    "logo": "https://kaznaexpert.ru/img/logogold.png",
-    "@id": "https://kaznaexpert.ru/#organization"
-  },
-  "areaServed": {
-    "@type": "Country",
-    "name": "Россия"
-  },
-  "offers": {
-    "@type": "Offer",
-    "price": "105000",
-    "priceCurrency": "RUB",
-    "description": "Ежемесячное сопровождение контракта с авансом, безлимит операций",
-    "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-avans/"
-  },
-  "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-avans/"
-}
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "datePublished": "2026-06-25", "dateModified": "2026-08-16", "name": "Сопровождение контракта с авансом", "serviceType": "Казначейское сопровождение авансового госконтракта", "description": "Полное сопровождение контракта с авансом: контроль целевого использования, санкционирование платежей, цепочка кооперации, раздельный учёт и сведения об операциях. Безлимит операций до закрытия контракта.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "105000", "priceCurrency": "RUB", "description": "Ежемесячное сопровождение контракта с авансом, безлимит операций", "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-avans/", "priceValidUntil": "2026-12-31"}, "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-avans/"}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Сопровождение: аванс"}]}
