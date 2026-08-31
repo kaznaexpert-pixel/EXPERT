@@ -26,35 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "bestRating": "5", "ratingCount": "7", "reviewCount": "7"},
-  "datePublished": "2026-06-25",
-  "dateModified": "2026-08-16",
-  "name": "Резервирование казначейского счёта",
-  "serviceType": "Резервирование лицевого счёта к дате тендера",
-  "description": "Резервирование казначейского счёта за один рабочий день: анализ тендера, подготовка заявки, подача в УФК и подтверждение готовности для заказчика. Зачёт стоимости в открытие счёта.",
-  "provider": {
-    "@type": "Organization",
-    "name": "КазнаЭксперт",
-    "url": "https://kaznaexpert.ru",
-    "telephone": "+7-981-833-10-10",
-    "logo": "https://kaznaexpert.ru/img/logogold.png",
-    "@id": "https://kaznaexpert.ru/#organization"
-  },
-  "areaServed": {
-    "@type": "Country",
-    "name": "Россия"
-  },
-  "offers": {
-    "@type": "Offer",
-    "price": "25000",
-    "priceCurrency": "RUB",
-    "description": "Резервирование казначейского счёта под ключ, разово",
-    "url": "https://kaznaexpert.ru/uslugi/rezervirovanie-scheta/"
-  },
-  "url": "https://kaznaexpert.ru/uslugi/rezervirovanie-scheta/"
-}
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "datePublished": "2026-06-25", "dateModified": "2026-08-16", "name": "Резервирование казначейского счёта", "serviceType": "Резервирование лицевого счёта к дате тендера", "description": "Резервирование казначейского счёта за один рабочий день: анализ тендера, подготовка заявки, подача в УФК и подтверждение готовности для заказчика. Зачёт стоимости в открытие счёта.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "25000", "priceCurrency": "RUB", "description": "Резервирование казначейского счёта под ключ, разово", "url": "https://kaznaexpert.ru/uslugi/rezervirovanie-scheta/", "priceValidUntil": "2026-12-31"}, "url": "https://kaznaexpert.ru/uslugi/rezervirovanie-scheta/"}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Резервирование счёта"}]}
