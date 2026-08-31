@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Составление РКМ по ГОЗ — комплект форм 995/22, 105 000 ₽</title>
-<meta name="description" content="Составим комплект РКМ по приказу ФАС № 995/22: плановые и отчётные калькуляции, расшифровки затрат, обоснование прибыли, пояснительная записка. 105 000 ₽ фиксированно, ответы на замечания ВП МО без доплат.">
+<meta name="description" content="Комплект РКМ по приказу ФАС № 995/22: калькуляции, расшифровки затрат, обоснование прибыли. 105 000 ₽ фиксированно, от 5 рабочих дней.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -69,7 +69,7 @@
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
 <meta property="og:title" content="Составление РКМ по ГОЗ — комплект форм 995/22 за 105 000 ₽">
-<meta property="og:description" content="Комплект РКМ по приказу ФАС № 995/22 под ключ: калькуляции, расшифровки затрат, обоснование прибыли, пояснительная записка. Фиксированные 105 000 ₽, ответы на замечания ВП МО без доплат.">
+<meta property="og:description" content="Комплект РКМ по приказу ФАС № 995/22: калькуляции, расшифровки затрат, обоснование прибыли. 105 000 ₽ фиксированно, от 5 рабочих дней.">
 <meta property="og:url" content="https://kaznaexpert.ru/uslugi/sostavlenie-rkm/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
@@ -280,7 +280,7 @@
         <p class="v2-tariff-desc">Дальше можем взять контракт целиком: раздельный учёт, платежи, отчётность и работу с казначейством.</p>
         <div class="v2-tariff-price"><div class="v2-tariff-price-num">смета</div><div class="v2-tariff-price-note">По контракту</div><a href="/uslugi/kaznacheyskoe-soprovozhdenie/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article></div>
-    <div class="rkm-promise"><b>Цена не меняется после того, как мы увидим ваши документы.</b> Если военный представитель вернёт комплект с замечаниями — правки, пересчёт и повторная защита входят в стоимость. Оценка контракта до договора бесплатна и ни к чему вас не обязывает.</div>
+    <div class="rkm-promise"><b>Цена не меняется после того, как мы увидим ваши документы.</b> Если военный представитель вернёт комплект с замечаниями — правки, пересчёт и повторная защита входят в стоимость. Контракт оцениваем до договора — это ни к чему вас не обязывает.</div>
 
     <div class="rkm-scope">
       <div class="rkm-scope__wrap">
