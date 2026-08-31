@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"giis"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "ПИВ АСУ ГФ: что это, вход в личный кабинет и настройка", "description": "ПИВ АСУ ГФ — подсистема документооборота АСУ городских финансов Москвы: кому нужна, доступ через Депфин, вход на asugf.mos.ru, обмен с 1С и типовые ошибки", "inLanguage": "ru-RU", "datePublished": "2026-08-13", "dateModified": "2026-08-13", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/piv-asu-gf/"}, "citation": ["Департамент финансов города Москвы (mos.ru) — регламенты подключения и инструкции пользователей ПИВ АСУ ГФ; единая система авторизации asugf.mos.ru.", "АСУ ГФ — автоматизированная система управления городскими финансами Москвы; учреждена постановлением Правительства Москвы от 21.03.2013.", "Федеральный закон от 06.04.2011 № 63-ФЗ «Об электронной подписи» — усиленная квалифицированная электронная подпись, требования к средствам ЭП и сертификатам. consultant.ru, pravo.gov.ru. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_112701/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "ПИВ АСУ ГФ: что это, вход в личный кабинет и настройка", "description": "ПИВ АСУ ГФ — подсистема документооборота АСУ городских финансов Москвы: кому нужна, доступ через Депфин, вход на asugf.mos.ru, обмен с 1С и типовые ошибки", "inLanguage": "ru-RU", "datePublished": "2026-08-13", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/piv-asu-gf/"}, "citation": ["Департамент финансов города Москвы (mos.ru) — регламенты подключения и инструкции пользователей ПИВ АСУ ГФ; единая система авторизации asugf.mos.ru.", "АСУ ГФ — автоматизированная система управления городскими финансами Москвы; учреждена постановлением Правительства Москвы от 21.03.2013.", "Федеральный закон от 06.04.2011 № 63-ФЗ «Об электронной подписи» — усиленная квалифицированная электронная подпись, требования к средствам ЭП и сертификатам. consultant.ru, pravo.gov.ru. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_112701/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "ПИВ АСУ ГФ", "item": "https://kaznaexpert.ru/baza-znaniy/piv-asu-gf/"}]}
@@ -79,7 +79,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="ПИВ АСУ ГФ — вход и настройка — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-22T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-13T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -154,7 +154,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Регионы · Москва <span class="fresh">Актуально на 2026</span></div>
     <h1>ПИВ АСУ ГФ: что это, вход в личный кабинет и настройка</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>12 мин чтения</span><span class="dot">·</span><span>Обновлено 13 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>12 мин чтения</span><span class="dot">·</span><span>Обновлено 31 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -165,6 +165,9 @@
     </div>
 
 <p>Разбираем, кому нужна система, как получить доступ, где вход в личный кабинет и как настроить обмен с 1С — без обращения к платным «настройщикам» там, где всё делается своими руками.</p>
+<div class="answer reveal">
+  <p class="lead-p">ПИВ АСУ ГФ — подсистема информационного взаимодействия автоматизированной системы управления городскими финансами Москвы (АСУ ГФ). Через личный кабинет ПИВ исполнители контрактов и получатели субсидий из бюджета города подают распоряжения на оплату, сведения об операциях и подтверждающие документы — в электронном виде, с электронной подписью. Для федеральных контрактов она не нужна: там работает ГИИС «Электронный бюджет».</p>
+</div>
 <section class="keyfacts grain" aria-label="Ключевые факты">
 <h2>Коротко о главном</h2>
 <div class="keyfacts__grid">
