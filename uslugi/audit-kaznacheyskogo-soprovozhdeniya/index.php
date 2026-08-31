@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Аудит казначейского сопровождения: проверка и второе мнение</title>
-<meta name="description" content="Независимая проверка казначейского сопровождения контракта: санкционирование, раздельный учёт, отчётность. Найдём ошибки до проверки казначейства. 15 лет практики.">
+<meta name="description" content="Независимая проверка казначейского сопровождения: санкционирование, раздельный учёт, отчётность. Найдём ошибки до казначейства. 160 000 ₽ фиксированно.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -69,7 +69,7 @@
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
 <meta property="og:title" content="Аудит казначейского сопровождения — второе мнение эксперта">
-<meta property="og:description" content="Проверим контракт до казначейства: санкционирование, раздельный учёт, отчётность. Отчёт с приоритетом рисков и планом исправления.">
+<meta property="og:description" content="Независимая проверка казначейского сопровождения: санкционирование, раздельный учёт, отчётность. Найдём ошибки до казначейства. 160 000 ₽ фиксированно.">
 <meta property="og:url" content="https://kaznaexpert.ru/uslugi/audit-kaznacheyskogo-soprovozhdeniya/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
