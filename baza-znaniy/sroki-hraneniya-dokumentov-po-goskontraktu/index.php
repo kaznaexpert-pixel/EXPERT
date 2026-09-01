@@ -33,7 +33,7 @@
   "description": "Сколько хранить документы по госконтракту: 5 лет по бухучёту и налогам, 6 лет по 44-ФЗ, документы санкционирования и раздельного учёта ГОЗ. Таблица сроков.",
   "inLanguage": "ru-RU",
   "datePublished": "2026-07-31",
-  "dateModified": "2026-08-04",
+  "dateModified": "2026-09-01",
   "author": {
     "@type": "Person",
     "name": "Ярослав Михайлов",
@@ -114,7 +114,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Сроки хранения документов по госконтракту — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-04T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-01T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">

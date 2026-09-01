@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Штрафы при казначейском сопровождении с 2026 года: статьи 15.37.1 и 15.49 КоАП РФ", "description": "Штрафы при казначейском сопровождении с 2026 года: статья 15.37.1 КоАП за раздельный учёт и статья 15.49 за просрочку сведений. Размеры и как избежать.", "inLanguage": "ru-RU", "datePublished": "2026-06-29", "dateModified": "2026-08-11", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/shtrafy-pri-kaznacheyskom-soprovozhdenii-2026/"}, "citation": ["Федеральный закон от 28.12.2025 № 506-ФЗ (введение в КоАП РФ статей 15.37.1 и 15.49; действуют с 01.01.2026).", "Кодекс РФ об административных правонарушениях, статья 15.37.1 (нарушение требования о ведении раздельного учёта при казначейском сопровождении).", "Кодекс РФ об административных правонарушениях, статья 15.49 (нарушение срока утверждения сведений об операциях со средствами, подлежащими казначейскому сопровождению).", "Письмо Федерального казначейства от 21.01.2026 № 07-04-05/04-1142 (о новых штрафах при казначейском сопровождении).", "Кодекс РФ об административных правонарушениях, часть 11 статьи 7.30.3 (раздельный учёт по гособоронзаказу — для отграничения от статьи 15.37.1)."]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Штрафы при казначейском сопровождении с 2026 года: статьи 15.37.1 и 15.49 КоАП РФ", "description": "Штрафы при казначейском сопровождении с 2026 года: статья 15.37.1 КоАП за раздельный учёт и статья 15.49 за просрочку сведений. Размеры и как избежать.", "inLanguage": "ru-RU", "datePublished": "2026-06-29", "dateModified": "2026-09-01", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/shtrafy-pri-kaznacheyskom-soprovozhdenii-2026/"}, "citation": ["Федеральный закон от 28.12.2025 № 506-ФЗ (введение в КоАП РФ статей 15.37.1 и 15.49; действуют с 01.01.2026).", "Кодекс РФ об административных правонарушениях, статья 15.37.1 (нарушение требования о ведении раздельного учёта при казначейском сопровождении).", "Кодекс РФ об административных правонарушениях, статья 15.49 (нарушение срока утверждения сведений об операциях со средствами, подлежащими казначейскому сопровождению).", "Письмо Федерального казначейства от 21.01.2026 № 07-04-05/04-1142 (о новых штрафах при казначейском сопровождении).", "Кодекс РФ об административных правонарушениях, часть 11 статьи 7.30.3 (раздельный учёт по гособоронзаказу — для отграничения от статьи 15.37.1)."]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Штрафы при казначейском сопровождении с 2026 года", "item": "https://kaznaexpert.ru/baza-znaniy/shtrafy-pri-kaznacheyskom-soprovozhdenii-2026/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Штрафы при казначейском сопровождении с 2026 года: 15.37.1 и 15.49 КоАП — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-29T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-11T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-01T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -175,7 +175,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Основы <span class="fresh">Актуально на 2026</span></div>
     <h1>Штрафы при казначейском сопровождении с 2026 года: статьи 15.37.1 и 15.49 КоАП РФ</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 11 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 1 сентября 2026</span></div>
     </div>
 
     <div class="share">
@@ -354,7 +354,7 @@
         <li id="ref-4">Письмо Федерального казначейства от 21.01.2026 № 07-04-05/04-1142 (о новых штрафах при казначейском сопровождении).</li>
         <li id="ref-5">Кодекс РФ об административных правонарушениях, часть 11 статьи 7.30.3 (раздельный учёт по гособоронзаказу — для отграничения от статьи 15.37.1).</li>
       </ol>
-      <p class="refs__note">Нормы приведены в редакции, действующей на 11 августа 2026 года, по состоянию на дату публикации. Размеры штрафов и составы могут уточняться; сверяйтесь с актуальной редакцией КоАП РФ. Материал носит справочный характер и не заменяет юридическую консультацию.</p>
+      <p class="refs__note">Нормы приведены в редакции, действующей на 1 сентября 2026 года, по состоянию на дату публикации. Размеры штрафов и составы могут уточняться; сверяйтесь с актуальной редакцией КоАП РФ. Материал носит справочный характер и не заменяет юридическую консультацию.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

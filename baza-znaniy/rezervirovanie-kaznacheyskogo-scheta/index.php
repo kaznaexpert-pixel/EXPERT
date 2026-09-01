@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"otkrytie"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Резервирование казначейского счёта: что это, срок и когда нужно", "description": "Что такое резервирование казначейского счёта: номер получают заранее до контракта, резерв действует 6 месяцев, заявление по форме 0531368, дистанционно.", "inLanguage": "ru-RU", "datePublished": "2026-08-10", "dateModified": "2026-08-14", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/rezervirovanie-kaznacheyskogo-scheta/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Резервирование казначейского счёта: что это, срок и когда нужно", "description": "Что такое резервирование казначейского счёта: номер получают заранее до контракта, резерв действует 6 месяцев, заявление по форме 0531368, дистанционно.", "inLanguage": "ru-RU", "datePublished": "2026-08-10", "dateModified": "2026-09-01", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/rezervirovanie-kaznacheyskogo-scheta/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Резервирование казначейского счёта", "item": "https://kaznaexpert.ru/baza-znaniy/rezervirovanie-kaznacheyskogo-scheta/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Резервирование казначейского счёта: что это и срок — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-14T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-01T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -360,7 +360,7 @@
         <li id="ref-1">Порядок открытия лицевых счетов участникам казначейского сопровождения (приказ Казначейства № 44н, ред. № 22н от 06.12.2024) — <a href="https://base.garant.ru/403497186/" target="_blank" rel="noopener">base.garant.ru</a></li>
         <li id="ref-2">Бюджетный кодекс РФ, глава 24.4 «Казначейское сопровождение» — <a href="https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/" target="_blank" rel="noopener">base.garant.ru</a></li><li id="ref-44n">Приказ Федерального казначейства от 22.12.2021 № 44н «Об утверждении Порядка открытия лицевых счетов территориальными органами Федерального казначейства участникам казначейского сопровождения» — пункты 13–24, 29 (в редакции приказа Казначейства России от 06.12.2024 № 22н). <a href="https://www.consultant.ru/document/cons_doc_LAW_405524/" target="_blank" rel="noopener">КонсультантПлюс</a></li><li id="ref-pamyatka">Письмо Казначейства России от 19.03.2025 № 07-04-05/04-7639 с Памяткой о порядке работы в целях включения участника казначейского сопровождения в Сводный реестр (Реестр ИП и КФХ), открытия и резервирования лицевого счёта — разделы III и IV. <a href="https://www.consultant.ru/document/cons_doc_LAW_501323/67828b5d82984ca0fa1d15ec312fd22bdc7f91c6/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
       </ol>
-      <p class="refs__note">Порядок и формы могут уточняться территориальными органами; актуальные памятки публикует Федеральное казначейство. Материал носит справочный характер. Проверено экспертом КазнаЭксперт. Дата актуализации — 14 августа 2026.</p>
+      <p class="refs__note">Порядок и формы могут уточняться территориальными органами; актуальные памятки публикует Федеральное казначейство. Материал носит справочный характер. Проверено экспертом КазнаЭксперт. Дата актуализации — 1 сентября 2026.</p>
     </div>
   </article>
 

@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Отчёт о расходах целевых средств: как заполнить и сдать при казначейском сопровождении", "description": "Отчёт о расходах целевых средств при казначейском сопровождении: чем отличается от сведений об операциях, как заполнить в «Электронном бюджете», сроки и коды.", "inLanguage": "ru-RU", "datePublished": "2026-06-18", "dateModified": "2026-08-17T10:00:00+03:00", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/otchet-o-rashodah-celevyh-sredstv/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/", "https://www.consultant.ru/document/cons_doc_LAW_402453/", "https://minfin.gov.ru/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Отчёт о расходах целевых средств: как заполнить и сдать при казначейском сопровождении", "description": "Отчёт о расходах целевых средств при казначейском сопровождении: чем отличается от сведений об операциях, как заполнить в «Электронном бюджете», сроки и коды.", "inLanguage": "ru-RU", "datePublished": "2026-06-18", "dateModified": "2026-09-01T10:00:00+03:00", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/otchet-o-rashodah-celevyh-sredstv/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/", "https://www.consultant.ru/document/cons_doc_LAW_402453/", "https://minfin.gov.ru/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Отчёт о расходах целевых средств", "item": "https://kaznaexpert.ru/baza-znaniy/otchet-o-rashodah-celevyh-sredstv/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Отчёт о расходах целевых средств при казначейском сопровождении — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-18T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-17T10:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-01T10:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -181,7 +181,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Операции и отчётность <span class="fresh">Актуально на 2026</span></div>
     <h1>Отчёт о расходах целевых средств: как заполнить и сдать при казначейском сопровождении</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 17 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 1 сентября 2026</span></div>
     </div>
 
     <div class="share">
@@ -440,7 +440,7 @@
         <li id="ref-3">Постановление Правительства РФ от 24.11.2021 № 2024 — Правила казначейского сопровождения — <a href="https://www.consultant.ru/document/cons_doc_LAW_402453/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-4">Типовые формы соглашений о предоставлении субсидий, утверждаемые Минфином России — состав и сроки отчётности по субсидиям и грантам — <a href="https://minfin.gov.ru/" target="_blank" rel="noopener">minfin.gov.ru</a></li>
       </ol>
-      <p class="refs__note">Материал актуален на 17 августа 2026 года и носит справочный характер, не являясь юридической консультацией. Состав, форма и сроки отчётности определяются нормативными актами и условиями конкретного соглашения; перед сдачей отчёта сверяйтесь с текстом соглашения, актуальной редакцией приказа № 214н (на 16.08.2026 — редакция от 27.06.2025) и требованиями вашего распорядителя средств.</p>
+      <p class="refs__note">Материал актуален на 1 сентября 2026 года и носит справочный характер, не являясь юридической консультацией. Состав, форма и сроки отчётности определяются нормативными актами и условиями конкретного соглашения; перед сдачей отчёта сверяйтесь с текстом соглашения, актуальной редакцией приказа № 214н (на 16.08.2026 — редакция от 27.06.2025) и требованиями вашего распорядителя средств.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Командировочные и подотчётные при казначейском сопровождении: как оплатить", "description": "Как оплатить командировку с лицевого счёта при казначейском сопровождении: суточные, билеты и гостиницы, коды выплат, запрет наличных и возмещение расходов.", "inLanguage": "ru-RU", "datePublished": "2026-07-24", "dateModified": "2026-07-24", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/komandirovochnye-i-podotchetnye-pri-ks/"}, "citation": ["Бюджетный кодекс РФ, ст. 242.23. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_19702/68f24d27edee7d0ca5315de64a951b15f0af209f/", "Приказ Минфина России от 17.12.2021 № 214н, Приложение 3.", "Налоговый кодекс РФ, ст. 217, 422.", "Постановление Правительства РФ от 13.10.2008 № 749.", "Федеральный закон от 29.12.2012 № 275-ФЗ, ст. 8.3–8.4."]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Командировочные и подотчётные при казначейском сопровождении: как оплатить", "description": "Как оплатить командировку с лицевого счёта при казначейском сопровождении: суточные, билеты и гостиницы, коды выплат, запрет наличных и возмещение расходов.", "inLanguage": "ru-RU", "datePublished": "2026-07-24", "dateModified": "2026-09-01", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/komandirovochnye-i-podotchetnye-pri-ks/"}, "citation": ["Бюджетный кодекс РФ, ст. 242.23. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_19702/68f24d27edee7d0ca5315de64a951b15f0af209f/", "Приказ Минфина России от 17.12.2021 № 214н, Приложение 3.", "Налоговый кодекс РФ, ст. 217, 422.", "Постановление Правительства РФ от 13.10.2008 № 749.", "Федеральный закон от 29.12.2012 № 275-ФЗ, ст. 8.3–8.4."]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Командировочные при казначейском сопровождении", "item": "https://kaznaexpert.ru/baza-znaniy/komandirovochnye-i-podotchetnye-pri-ks/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Командировочные при казначейском сопровождении — КазнаЭксперт">
 <meta property="article:published_time" content="2026-07-24T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-07-24T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-01T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -177,7 +177,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Операции и отчётность <span class="fresh">Актуально на 2026</span></div>
     <h1>Командировочные и подотчётные при казначейском сопровождении: как оплатить</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 24 июля 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 1 сентября 2026</span></div>
     </div>
 
     <div class="share">

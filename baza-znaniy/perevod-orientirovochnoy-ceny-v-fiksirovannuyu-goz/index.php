@@ -32,7 +32,7 @@
   "headline": "Перевод ориентировочной цены в фиксированную по ГОЗ: порядок в 2026 году",
   "description": "Как перевести ориентировочную цену в фиксированную по ГОЗ: виды цен, сроки (не позднее 2 мес. до поставки), пакет РКМ, 20 рабочих дней, ПП № 1465 и 275-ФЗ.",
   "datePublished": "2026-06-07T09:08:00+03:00",
-  "dateModified": "2026-08-14",
+  "dateModified": "2026-09-01",
   "inLanguage": "ru-RU",
   "author": {
     "@type": "Person",
@@ -118,7 +118,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-07T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-14T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-01T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
