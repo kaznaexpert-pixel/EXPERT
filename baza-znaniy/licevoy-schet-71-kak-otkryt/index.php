@@ -31,7 +31,7 @@
   "description": "Лицевой счёт с кодом 71: кому и когда нужен, какие документы, как открыть через ГИИС «Электронный бюджет», сроки и частые задержки. Порядок открытия счёта казначейского сопровождения в 2026.",
   "inLanguage": "ru-RU",
   "datePublished": "2026-06-04",
-  "dateModified": "2026-08-17",
+  "dateModified": "2026-08-31",
   "author": {
     "@type": "Person",
     "name": "Ярослав Михайлов",
@@ -180,7 +180,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-04T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-17T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -271,7 +271,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Счета в казначействе <span class="fresh">Актуально на 2026</span></div>
     <h1>Как открыть лицевой счёт казначейского сопровождения (счёт 71) в ТОФК</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 17 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 31 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -516,7 +516,7 @@
         <li id="ref-3">Бюджетный кодекс РФ, глава 24.4 «Казначейское сопровождение» (ст. 242.23–242.27) — <a href="https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/" target="_blank" rel="noopener">base.garant.ru</a></li>
         <li id="ref-4">Памятки по открытию лицевых счетов с кодом «71» — на сайтах территориальных органов Федерального казначейства (roskazna.gov.ru).</li>
       </ol>
-      <p class="refs__note">Материал носит справочный характер и не заменяет индивидуальную консультацию; точный состав документов уточняется в вашем ТОФК. Проверено экспертом КазнаЭксперт. Дата актуализации — 17 августа 2026.</p>
+      <p class="refs__note">Материал носит справочный характер и не заменяет индивидуальную консультацию; точный состав документов уточняется в вашем ТОФК. Проверено экспертом КазнаЭксперт. Дата актуализации — 31 августа 2026.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

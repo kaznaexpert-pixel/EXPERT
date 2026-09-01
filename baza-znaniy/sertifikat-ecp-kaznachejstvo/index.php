@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"article", cluster:"ecp"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Сертификат казначейства (ЭЦП): как получить в 2026 году", "description": "Сертификат казначейства: какие бывают сертификаты УЦ ФК, кому нужна ЭЦП казначейства, документы и ФЗС, подключение к «Электронному бюджету», продление.", "datePublished": "2026-06-05T10:00:00+03:00", "dateModified": "2026-08-11", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/sertifikat-ecp-kaznachejstvo/"}, "image": "https://kaznaexpert.ru/img/og-image.png", "citation": ["https://roskazna.gov.ru/gis/udostoveryayushchij-centr/onlajn-servis-podachi-dokumentov-dlya-polucheniya-sertifikatov-portal-zayavitelya", "https://roskazna.gov.ru/gis/udostoveryayushchij-centr/", "https://iitrust.ru/articles/expert/elektronnaya-podpis-v-gosudarstvennyh-udostoveryaushhih-tsentrah-kak-poluchit-sertifikat-v-uts-fns-uts-fk-i-uts-banka-rossii/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Сертификат казначейства (ЭЦП): как получить в 2026 году", "description": "Сертификат казначейства: какие бывают сертификаты УЦ ФК, кому нужна ЭЦП казначейства, документы и ФЗС, подключение к «Электронному бюджету», продление.", "datePublished": "2026-06-05T10:00:00+03:00", "dateModified": "2026-08-31", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/sertifikat-ecp-kaznachejstvo/"}, "image": "https://kaznaexpert.ru/img/og-image.png", "citation": ["https://roskazna.gov.ru/gis/udostoveryayushchij-centr/onlajn-servis-podachi-dokumentov-dlya-polucheniya-sertifikatov-portal-zayavitelya", "https://roskazna.gov.ru/gis/udostoveryayushchij-centr/", "https://iitrust.ru/articles/expert/elektronnaya-podpis-v-gosudarstvennyh-udostoveryaushhih-tsentrah-kak-poluchit-sertifikat-v-uts-fns-uts-fk-i-uts-banka-rossii/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Сертификат и ЭЦП казначейства"}]}
@@ -83,7 +83,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Сертификат и ЭЦП казначейства — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-11T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -173,7 +173,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · ГИИС и ЭЦП <span class="fresh">Актуально на 2026</span></div>
     <h1>Сертификат казначейства и ЭЦП: как получить в 2026 году</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 11 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 31 августа 2026</span></div>
     </div>
 
     <div class="share">

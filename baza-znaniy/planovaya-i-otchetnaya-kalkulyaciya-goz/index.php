@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Плановая и отчётная калькуляция по ГОЗ: разница, сроки и состав форм", "description": "Плановая калькуляция затрат (форма № 2) и отчётная калькуляция (форма № 3 (3д)) приложения № 5 к приказу ФАС № 995/22: сравнение колонок и подписантов, единая структура статей затрат 0100–1900, сроки представления и последствия расхождения плана и факта.", "inLanguage": "ru-RU", "datePublished": "2026-08-16", "dateModified": "2026-08-16", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/planovaya-i-otchetnaya-kalkulyaciya-goz/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_436477/", "https://www.consultant.ru/document/cons_doc_LAW_284195/", "https://www.consultant.ru/document/cons_doc_LAW_322968/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Плановая и отчётная калькуляция по ГОЗ: разница, сроки и состав форм", "description": "Плановая калькуляция затрат (форма № 2) и отчётная калькуляция (форма № 3 (3д)) приложения № 5 к приказу ФАС № 995/22: сравнение колонок и подписантов, единая структура статей затрат 0100–1900, сроки представления и последствия расхождения плана и факта.", "inLanguage": "ru-RU", "datePublished": "2026-08-16", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/planovaya-i-otchetnaya-kalkulyaciya-goz/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_436477/", "https://www.consultant.ru/document/cons_doc_LAW_284195/", "https://www.consultant.ru/document/cons_doc_LAW_322968/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Плановая и отчётная калькуляция", "item": "https://kaznaexpert.ru/baza-znaniy/planovaya-i-otchetnaya-kalkulyaciya-goz/"}]}
@@ -80,7 +80,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Плановая и отчётная калькуляция по ГОЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-08-16T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-16T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -162,7 +162,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на август 2026</span></div>
     <h1>Плановая и отчётная калькуляция по ГОЗ: разница, сроки и состав форм</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>11 мин чтения</span><span class="dot">·</span><span>Обновлено 16 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>11 мин чтения</span><span class="dot">·</span><span>Обновлено 31 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -343,7 +343,7 @@
         <li id="ref-2">Постановление Правительства РФ от 02.12.2017 № 1465 «О государственном регулировании цен на продукцию, поставляемую по государственному оборонному заказу…» (ред. от 14.02.2026) — <a href="https://www.consultant.ru/document/cons_doc_LAW_284195/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-3">Приказ Минпромторга России от 08.02.2019 № 334 «Об утверждении порядка определения состава затрат, включаемых в цену продукции, поставляемой в рамках государственного оборонного заказа» (ред. от 26.11.2025) — <a href="https://www.consultant.ru/document/cons_doc_LAW_322968/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>
-      <p class="refs__note">Материал актуален на 16 августа 2026 года. Названия строк и подписные блоки приведены по редакции приказа № 995/22 от 18.12.2025. Состав колонок и обязательность отдельных строк зависят от вида продукции и метода определения цены — сверяйте бланк на дату подачи.</p>
+      <p class="refs__note">Материал актуален на 31 августа 2026 года. Названия строк и подписные блоки приведены по редакции приказа № 995/22 от 18.12.2025. Состав колонок и обязательность отдельных строк зависят от вида продукции и метода определения цены — сверяйте бланк на дату подачи.</p>
     </div>
 
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

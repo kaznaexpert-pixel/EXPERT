@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"code", cluster:"kody"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Код 0610 — Авансовые платежи по контрактам в казначейском сопровождении", "description": "Код направления расходования целевых средств 0610 «Авансовые платежи по контрактам»: значение, детализированные подкоды, варианты 6/8/9, примеры из практики, ошибки санкционирования, документы.", "datePublished": "2026-06-05T10:00:00+03:00", "dateModified": "2026-08-20T09:00:00+03:00", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kody/0610/"}, "image": "https://kaznaexpert.ru/img/og-image.png", "citation": ["Приказ Минфина России от 17.12.2021 № 214н (ред. от 27.06.2025), Приложение 3 «Направления расходования целевых средств». КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_405138/de4649fe56038006ee16bce420115b7ba6a80da5/", "Правило первого разряда кода (6/8/9) — Приказ Минфина России от 21.06.2023 № 97н. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_405138/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Код 0610 — Авансовые платежи по контрактам в казначейском сопровождении", "description": "Код направления расходования целевых средств 0610 «Авансовые платежи по контрактам»: значение, детализированные подкоды, варианты 6/8/9, примеры из практики, ошибки санкционирования, документы.", "datePublished": "2026-06-05T10:00:00+03:00", "dateModified": "2026-08-31T09:00:00+03:00", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kody/0610/"}, "image": "https://kaznaexpert.ru/img/og-image.png", "citation": ["Приказ Минфина России от 17.12.2021 № 214н (ред. от 27.06.2025), Приложение 3 «Направления расходования целевых средств». КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_405138/de4649fe56038006ee16bce420115b7ba6a80da5/", "Правило первого разряда кода (6/8/9) — Приказ Минфина России от 21.06.2023 № 97н. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_405138/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Коды", "item": "https://kaznaexpert.ru/baza-znaniy/kody/"}, {"@type": "ListItem", "position": 4, "name": "Код 0610"}]}
@@ -80,7 +80,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Код 0610 — Авансовые платежи по контрактам">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-20T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -163,7 +163,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Коды направлений расходования <span class="fresh">Актуально на 2026</span></div>
       <h1>Код 0610 — Авансовые платежи по контрактам</h1>
-      <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>Обновлено 20 августа 2026</span></div>
+      <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>Обновлено 31 августа 2026</span></div>
     </div>
 
     <div class="tldr">Код <b>0610</b> «Авансовые платежи по контрактам» — направление расходования целевых средств по Приложению 3 к Приказу Минфина № 214н. Перечисление авансов субподрядчикам и поставщикам по контрактам (договорам).</div>

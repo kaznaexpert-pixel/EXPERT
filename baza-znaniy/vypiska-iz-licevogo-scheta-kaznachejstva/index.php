@@ -33,7 +33,7 @@
   "description": "Выписка из лицевого счёта 71: что показывает, как получить в «Электронном бюджете», как читать поля, входящий и исходящий остаток, приложения к выписке и сверка с учётом.",
   "inLanguage": "ru-RU",
   "datePublished": "2026-06-13",
-  "dateModified": "2026-08-04",
+  "dateModified": "2026-08-26",
   "author": {
     "@type": "Person",
     "name": "Ярослав Михайлов",
@@ -145,7 +145,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Выписка из лицевого счёта казначейства: как получить и читать — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-13T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-04T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-26T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -464,7 +464,7 @@
         <li id="ref-3">Постановление Правительства РФ от 30.06.2015 № 658 «О государственной интегрированной информационной системе управления общественными финансами "Электронный бюджет"» — <a href="https://www.consultant.ru/document/cons_doc_LAW_182473/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-4">Лицевые счета для учёта операций неучастников бюджетного процесса (код 71) — Казначейство России — <a href="https://roskazna.gov.ru/" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
       </ol>
-      <p class="refs__note">Материал актуален на 4 августа 2026 года. Формы выписок, состав приложений и сроки предоставления уточняйте в действующей редакции Порядка № 21н и памятке вашего ТОФК.</p>
+      <p class="refs__note">Материал актуален на 26 августа 2026 года. Формы выписок, состав приложений и сроки предоставления уточняйте в действующей редакции Порядка № 21н и памятке вашего ТОФК.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

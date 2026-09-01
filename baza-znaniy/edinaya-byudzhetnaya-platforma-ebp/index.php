@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"elektronnyy-byudzhet"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Единая бюджетная платформа (ЕБП): что меняется для исполнителя контракта в 2026 году", "description": "ЕБП — новая учётно-платёжная модель казначейства взамен АСФК: конструктор РСКП, МЧД вместо карточек, версия 3.2 с 18.07.2026 и что это значит для исполнителя.", "inLanguage": "ru-RU", "datePublished": "2026-08-10", "dateModified": "2026-08-10", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/edinaya-byudzhetnaya-platforma-ebp/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Единая бюджетная платформа (ЕБП): что меняется для исполнителя контракта в 2026 году", "description": "ЕБП — новая учётно-платёжная модель казначейства взамен АСФК: конструктор РСКП, МЧД вместо карточек, версия 3.2 с 18.07.2026 и что это значит для исполнителя.", "inLanguage": "ru-RU", "datePublished": "2026-08-10", "dateModified": "2026-08-26", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/edinaya-byudzhetnaya-platforma-ebp/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Единая бюджетная платформа (ЕБП)", "item": "https://kaznaexpert.ru/baza-znaniy/edinaya-byudzhetnaya-platforma-ebp/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Единая бюджетная платформа (ЕБП): что меняется в 2026 — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-10T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-26T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -173,7 +173,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Электронный бюджет <span class="fresh">Актуально на 2026</span></div>
     <h1>Единая бюджетная платформа (ЕБП): что меняется для исполнителя контракта в 2026 году</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 10 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 26 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -315,7 +315,7 @@
         <li id="ref-2">ГИС-документы (форматы обмена) — Федеральное казначейство — <a href="https://roskazna.gov.ru/gis/dokumenty/" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
         <li id="ref-3">ГИИС «Электронный бюджет» — Федеральное казначейство — <a href="https://roskazna.gov.ru/gis/elektronnyj-byudzhet/" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
       </ol>
-      <p class="refs__note">Материал подготовлен по выступлениям представителей Федерального казначейства на вебинаре о релизе версии 3.2 ЕБП; функциональность и сроки могут уточняться — актуальный перечень изменений публикуется в разделе «Журнал версий» платформы. Проверено экспертом КазнаЭксперт. Дата актуализации — 10 августа 2026.</p>
+      <p class="refs__note">Материал подготовлен по выступлениям представителей Федерального казначейства на вебинаре о релизе версии 3.2 ЕБП; функциональность и сроки могут уточняться — актуальный перечень изменений публикуется в разделе «Журнал версий» платформы. Проверено экспертом КазнаЭксперт. Дата актуализации — 26 августа 2026.</p>
     </div>
   </article>
 

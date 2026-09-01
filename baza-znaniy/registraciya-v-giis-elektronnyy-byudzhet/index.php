@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"elektronnyy-byudzhet"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Регистрация в ГИИС «Электронный бюджет»: как подключиться исполнителю госконтракта в 2026 году", "description": "Как исполнителю госконтракта зарегистрироваться в ГИИС «Электронный бюджет» в 2026: регистрация в ПОИБ СОБИ, электронная подпись, СКЗИ, роли и МЧД — пошагово.", "inLanguage": "ru-RU", "datePublished": "2026-08-04", "dateModified": "2026-08-10", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/registraciya-v-giis-elektronnyy-byudzhet/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Регистрация в ГИИС «Электронный бюджет»: как подключиться исполнителю госконтракта в 2026 году", "description": "Как исполнителю госконтракта зарегистрироваться в ГИИС «Электронный бюджет» в 2026: регистрация в ПОИБ СОБИ, электронная подпись, СКЗИ, роли и МЧД — пошагово.", "inLanguage": "ru-RU", "datePublished": "2026-08-04", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/registraciya-v-giis-elektronnyy-byudzhet/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Регистрация в ГИИС «Электронный бюджет»", "item": "https://kaznaexpert.ru/baza-znaniy/registraciya-v-giis-elektronnyy-byudzhet/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Регистрация в ГИИС «Электронный бюджет»: подключение в 2026 — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-10T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -175,7 +175,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Электронный бюджет <span class="fresh">Актуально на 2026</span></div>
     <h1>Регистрация в ГИИС «Электронный бюджет»: как подключиться исполнителю госконтракта в 2026 году</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>12 мин чтения</span><span class="dot">·</span><span>Обновлено 10 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>12 мин чтения</span><span class="dot">·</span><span>Обновлено 31 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -401,7 +401,7 @@
         <li id="ref-7">Письма Федерального казначейства от 12.02.2025 № 07-04-05/04-3889 и от 31.03.2025 № 07-04-05/04-8762 «О применении электронной машиночитаемой доверенности»; приказ Федерального казначейства от 22.12.2021 № 44н (ред. от 30.09.2025) и приказ Федерального казначейства от 06.12.2024 № 22н; приказ Федерального казначейства от 28.12.2023 № 26н</li>
         <li id="ref-8">Федеральное казначейство. Раздел «Система обеспечения безопасности информации»: требования к рабочему месту, точки входа, памятки по переводу компонента казначейского сопровождения — <a href="https://roskazna.gov.ru/gis/sistema-obespecheniya-bezopasnosti-informacii-fk" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
       </ol>
-      <p class="refs__note">Порядок подключения и комплект документов могут различаться по территориальным органам; актуальные руководства пользователя и требования к форматам обмена публикует Федеральное казначейство. Материал носит справочный характер. Проверено экспертом КазнаЭксперт. Дата актуализации — 10 августа 2026.</p>
+      <p class="refs__note">Порядок подключения и комплект документов могут различаться по территориальным органам; актуальные руководства пользователя и требования к форматам обмена публикует Федеральное казначейство. Материал носит справочный характер. Проверено экспертом КазнаЭксперт. Дата актуализации — 31 августа 2026.</p>
     </div>
   </article>
 

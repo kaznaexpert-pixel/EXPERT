@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Целевые средства при казначейском сопровождении: что это, виды, режим и коды", "description": "Что такое целевые средства, какие средства относятся к целевым в 2026 году по ст. 5 Закона № 426-ФЗ, как они маркируются ИГК и кодами и в каком режиме расходуются с лицевого счёта 71.", "inLanguage": "ru-RU", "datePublished": "2026-06-14", "dateModified": "2026-08-25", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/c4bad396d963c79cf5c4665d8fc50e017a94309f/", "https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/", "https://www.consultant.ru/law/hotdocs/92017.html", "https://www.garant.ru/products/ipo/prime/doc/413709754/", "https://www.consultant.ru/document/cons_doc_LAW_437073/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Целевые средства при казначейском сопровождении: что это, виды, режим и коды", "description": "Что такое целевые средства, какие средства относятся к целевым в 2026 году по ст. 5 Закона № 426-ФЗ, как они маркируются ИГК и кодами и в каком режиме расходуются с лицевого счёта 71.", "inLanguage": "ru-RU", "datePublished": "2026-06-14", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/c4bad396d963c79cf5c4665d8fc50e017a94309f/", "https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/", "https://www.consultant.ru/law/hotdocs/92017.html", "https://www.garant.ru/products/ipo/prime/doc/413709754/", "https://www.consultant.ru/document/cons_doc_LAW_437073/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Целевые средства", "item": "https://kaznaexpert.ru/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/"}]}
@@ -98,7 +98,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Целевые средства при казначейском сопровождении: что это, виды, режим и коды — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-14T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-25T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -192,7 +192,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Операции и отчётность <span class="fresh">Актуально на 2026</span></div>
     <h1>Целевые средства при казначейском сопровождении: что это, виды, режим и коды</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>17 мин чтения</span><span class="dot">·</span><span>Обновлено 25 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>17 мин чтения</span><span class="dot">·</span><span>Обновлено 31 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -514,7 +514,7 @@
         <li id="ref-5">Приказ Минфина России № 214н — коды направления и источника расходования целевых средств — <a href="https://www.consultant.ru/document/cons_doc_LAW_437073/" target="_blank" rel="noopener">consultant.ru</a></li>
       <li id="ref-6">Кодекс РФ об административных правонарушениях, статья 15.14 — нецелевое использование бюджетных средств; второй состав («направление средств, полученных из бюджета, на цели, не соответствующие целям, определённым договором (соглашением) либо иным документом, являющимся правовым основанием предоставления указанных средств») применяется к юридическим лицам, не являющимся участниками бюджетного процесса. Статья 306.4 Бюджетного кодекса РФ (в редакции Федерального закона от 26.07.2019 № 199-ФЗ) — бюджетное нарушение получателя бюджетных средств. consultant.ru, pravo.gov.ru.</li>
       </ol>
-      <p class="refs__note">Материал актуален на 25 августа 2026 года. Перечень целевых средств и пороги уточняйте по статье 5 действующего закона о федеральном бюджете, главе 24.4 Бюджетного кодекса и условиям вашего контракта.</p>
+      <p class="refs__note">Материал актуален на 31 августа 2026 года. Перечень целевых средств и пороги уточняйте по статье 5 действующего закона о федеральном бюджете, главе 24.4 Бюджетного кодекса и условиям вашего контракта.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

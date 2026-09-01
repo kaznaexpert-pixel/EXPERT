@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"schet"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Сводный реестр участников и неучастников бюджетного процесса: код, проверка, включение", "description": "Сводный реестр казначейства: кто в него входит, 8-значный код организации, проверка по ИНН на budget.gov.ru и включение неучастника бюджетного процесса через ТОФК по Порядку № 163н.", "inLanguage": "ru-RU", "datePublished": "2026-06-12", "dateModified": "2026-08-11", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/svodnyy-reestr/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_175321/", "https://roskazna.gov.ru/gis/ehlektronnyj-byudzhet/svodnyy-reestr/", "https://budget.gov.ru/", "https://www.consultant.ru/document/cons_doc_LAW_19702/c4bad396d963c79cf5c4665d8fc50e017a94309f/", "https://www.garant.ru/products/ipo/prime/doc/413982431/", "https://www.consultant.ru/document/cons_doc_LAW_182473/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Сводный реестр участников и неучастников бюджетного процесса: код, проверка, включение", "description": "Сводный реестр казначейства: кто в него входит, 8-значный код организации, проверка по ИНН на budget.gov.ru и включение неучастника бюджетного процесса через ТОФК по Порядку № 163н.", "inLanguage": "ru-RU", "datePublished": "2026-06-12", "dateModified": "2026-08-26", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/svodnyy-reestr/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_175321/", "https://roskazna.gov.ru/gis/ehlektronnyj-byudzhet/svodnyy-reestr/", "https://budget.gov.ru/", "https://www.consultant.ru/document/cons_doc_LAW_19702/c4bad396d963c79cf5c4665d8fc50e017a94309f/", "https://www.garant.ru/products/ipo/prime/doc/413982431/", "https://www.consultant.ru/document/cons_doc_LAW_182473/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Сводный реестр", "item": "https://kaznaexpert.ru/baza-znaniy/svodnyy-reestr/"}]}
@@ -98,7 +98,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Сводный реестр: код организации, проверка по ИНН, включение НУБП — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-12T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-11T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-08-26T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -189,7 +189,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Счета в казначействе <span class="fresh">Актуально на 2026</span></div>
     <h1>Сводный реестр участников и неучастников бюджетного процесса: код, проверка, включение</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 11 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 26 августа 2026</span></div>
     </div>
 
     <div class="share">
@@ -445,7 +445,7 @@
         <li id="ref-4">Письмо Казначейства России от 02.02.2026 № 07-04-05/03-2410 «О направлении Методических материалов» (открытие лицевых счетов) — <a href="https://www.garant.ru/products/ipo/prime/doc/413982431/" target="_blank" rel="noopener">garant.ru</a></li>
         <li id="ref-5">Постановление Правительства РФ от 30.06.2015 № 658 «О государственной интегрированной информационной системе управления общественными финансами "Электронный бюджет"» — <a href="https://www.consultant.ru/document/cons_doc_LAW_182473/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>
-      <p class="refs__note">Материал актуален на 11 августа 2026 года. Формы заявок и состав сведений уточняйте в действующей редакции Порядка № 163н и памятках вашего ТОФК.</p>
+      <p class="refs__note">Материал актуален на 26 августа 2026 года. Формы заявок и состав сведений уточняйте в действующей редакции Порядка № 163н и памятках вашего ТОФК.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">
