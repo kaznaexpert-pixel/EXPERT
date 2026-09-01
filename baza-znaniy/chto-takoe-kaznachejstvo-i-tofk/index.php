@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"osnovy"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Что такое казначейство: Федеральное казначейство — это служба, а ТОФК — её территориальные органы", "description": "Казначейство — это Федеральное казначейство, служба Минфина, которая ведёт счета бюджета и санкционирует платежи. Полномочия по Положению № 703, структура и ТОФК.", "inLanguage": "ru-RU", "datePublished": "2026-06-09", "dateModified": "2026-08-25", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/chto-takoe-kaznachejstvo-i-tofk/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_50565/", "https://www.consultant.ru/document/cons_doc_LAW_19702/", "https://roskazna.gov.ru/", "https://www.consultant.ru/document/cons_doc_LAW_366057/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Что такое казначейство: Федеральное казначейство — это служба, а ТОФК — её территориальные органы", "description": "Казначейство — это Федеральное казначейство, служба Минфина, которая ведёт счета бюджета и санкционирует платежи. Полномочия по Положению № 703, структура и ТОФК.", "inLanguage": "ru-RU", "datePublished": "2026-06-09", "dateModified": "2026-09-01", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/chto-takoe-kaznachejstvo-i-tofk/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_50565/", "https://www.consultant.ru/document/cons_doc_LAW_19702/", "https://roskazna.gov.ru/", "https://www.consultant.ru/document/cons_doc_LAW_366057/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Что такое казначейство и ТОФК"}]}
@@ -89,7 +89,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Что такое Федеральное казначейство и ТОФК: структура и функции — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-09T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-25T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-01T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -179,7 +179,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Основы <span class="fresh">Актуально на 2026</span></div>
     <h1>Что такое казначейство: Федеральное казначейство — это служба, а ТОФК — её территориальные органы</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 25 августа 2026 · разведение с носителем справочника управлений</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 1 сентября 2026 · разведение с носителем справочника управлений</span></div>
     </div>
 
     <div class="share">
@@ -319,8 +319,8 @@
     <div class="answer reveal">
       <p>Классификатор признаков финансовых нарушений — самый чувствительный пункт этого списка. Именно он превращает казначейский мониторинг из декларации в рабочий инструмент: при совпадении операции с признаком из классификатора платёж не отклоняется молча, а приостанавливается с уведомлением заказчика. Логика процедуры разобрана в статье <a href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/">о причинах отказа казначейства</a>.</p>
     </div>
-    <h3 id="klassifikator-80n">Классификатор меняет название и периметр с 1 сентября 2026 года</h3>
-    <p>С 1 сентября 2026 года классификатор ведётся по Порядку из приказа Минфина от 26.06.2026 № 80н и охватывает признаки нарушений участников системы казначейских платежей, а не только участников казначейского сопровождения. Прежний приказ от 23.06.2025 № 76н утрачивает силу. Ведётся классификатор в ГИИС «Электронный бюджет», у каждого признака пятизначный код и своя мера реагирования.</p>
+    <h3 id="klassifikator-80n">Классификатор сменил название и периметр с 1 сентября 2026 года</h3>
+    <p>С 1 сентября 2026 года классификатор ведётся по Порядку из приказа Минфина от 26.06.2026 № 80н и охватывает признаки нарушений участников системы казначейских платежей, а не только участников казначейского сопровождения. Приказ зарегистрирован Минюстом 12.08.2026 под № 87823 и в тот же день опубликован на официальном портале правовой информации; прежний приказ от 23.06.2025 № 76н утратил силу. Ведётся классификатор в ГИИС «Электронный бюджет», у каждого признака пятизначный код и своя мера реагирования.</p>
     <p>Разбор структуры классификатора и оба раздела приложения — девять признаков для предупреждения и семь для приостановления операций — в материале <a href="/baza-znaniy/kaznacheyskiy-monitoring/">казначейский мониторинг</a>.</p>
     <div class="answer reveal">
       <p>Практический вывод для исполнителя: часть признаков проверяется не по вам, а по вашему контрагенту — получателю денег с сопровождаемого счёта. Проверять цепочку до платежа дешевле, чем разбирать приостановленную операцию.</p>
@@ -450,7 +450,7 @@
         <li id="ref-6">Приказ Минфина России от 17.09.2020 № 203н (ред. от 02.11.2024) «Об утверждении Типового положения о Межрегиональном операционном управлении Федерального казначейства, Типового положения о Межрегиональном бухгалтерском управлении Федерального казначейства, Типового положения о Межрегиональном контрольно-ревизионном управлении Федерального казначейства и Типового положения о Межрегиональном управлении Федерального казначейства в сфере управления ликвидностью» — <a href="https://www.consultant.ru/document/cons_doc_LAW_366057/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-7">Постановление Правительства РФ от 15.02.2020 № 153 «О передаче Федеральному казначейству полномочий отдельных федеральных органов исполнительной власти» — <a href="https://base.garant.ru/73573452/" target="_blank" rel="noopener nofollow">garant.ru</a></li>
       </ol>
-      <p class="refs__note">Материал носит справочный характер и не заменяет индивидуальную консультацию. Статус, структура и полномочия Федерального казначейства устанавливаются ПП РФ № 703 и БК РФ и могут уточняться. Проверено экспертом КазнаЭксперт. Дата актуализации — 25 августа 2026.</p>
+      <p class="refs__note">Материал носит справочный характер и не заменяет индивидуальную консультацию. Статус, структура и полномочия Федерального казначейства устанавливаются ПП РФ № 703 и БК РФ и могут уточняться. Проверено экспертом КазнаЭксперт. Дата актуализации — 1 сентября 2026.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">
