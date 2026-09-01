@@ -52,7 +52,12 @@ def analyze(path):
              for m in re.finditer(r'<(h2|h3)[^>]*>(.*?)</\1>', body, re.S)]
     blocks = []
     for i, (pos, tag, txt) in enumerate(heads):
-        if any(k in txt.lower() for k in SKIP_HEADS):
+        low = txt.lower()
+        # 01.09.2026: блок источников на части страниц озаглавлен просто «Источники»,
+        # а в SKIP_HEADS было только «источники и нормативная база» — 147 слов служебного
+        # списка шли в статистику как содержательный блок (поймано на tofk и на
+        # perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz). Совпадение по префиксу.
+        if low.startswith('источник') or any(k in low for k in SKIP_HEADS):
             continue
         end = heads[i + 1][0] if i + 1 < len(heads) else len(body)
         blocks.append((words(body[pos:end]), txt))
@@ -63,8 +68,14 @@ def analyze(path):
     heavy = [b for b in blocks if b[0] > MAX_BLOCK]
     share = len(heavy) / len(blocks)
 
-    m = re.search(r'<div class="answer[^"]*">(.*?)</div>', raw, re.S)
-    lead = words(m.group(1)) if m else None
+    # 01.09.2026: гейт брал первый div.answer и на страницах, где цитируемое ядро оформлено
+    # как <p class="answer lead-p"> (оно идёт после блока keyfacts, но раньше любого div.answer),
+    # мерил чужой блок: на perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz показывал 85 слов
+    # блока под H2 «Виды цен на продукцию ГОЗ» вместо реальных 59. Зону «до первого h2» применить
+    # нельзя — H2 «Коротко о главном» стоит выше лида. Поэтому учитываем p.answer наравне
+    # с div.answer и берём тот, что встречается в документе раньше.
+    m = re.search(r'<(div|p) class="answer[^"]*"[^>]*>(.*?)</\1>', raw, re.S)
+    lead = words(m.group(2)) if m else None
     has_answer = m is not None or 'neuro-open' in raw
 
     return dict(blocks=len(blocks), total=total, avg=avg, heavy=heavy,
