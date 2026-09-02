@@ -26,42 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"uchet"};</script>
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Раздельный учёт по ГОЗ в 1С: настройка и ведение в 2026 году",
-  "description": "Как настроить и вести раздельный учёт по гособоронзаказу в 1С:Бухгалтерии 8 КОРП: функциональность контрактов госзаказа, аналитика по ИГК, отдельные счета, отчёт исполнения контракта, ответственность по ч. 11 ст. 7.30.3 КоАП.",
-  "inLanguage": "ru-RU",
-  "datePublished": "2026-06-15",
-  "dateModified": "2026-08-27",
-  "author": {
-    "@type": "Person",
-    "name": "Ярослав Михайлов",
-    "jobTitle": "Главный эксперт по казначейскому сопровождению",
-    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
-    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "КазнаЭксперт",
-    "url": "https://kaznaexpert.ru",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://kaznaexpert.ru/img/logogold.png"
-    },
-    "@id": "https://kaznaexpert.ru/#organization"
-  },
-  "image": "https://kaznaexpert.ru/img/og-image.png",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://kaznaexpert.ru/baza-znaniy/razdelnyy-uchet-goz-v-1s/"
-  },
-  "citation": [
-    "https://www.consultant.ru/document/cons_doc_LAW_140175/",
-    "https://www.consultant.ru/document/cons_doc_LAW_17542/",
-    "https://www.consultant.ru/document/cons_doc_LAW_34661/b945e9baa2f86ef7eafc3db4cd85e34064cb6801/"
-  ]
-}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Раздельный учёт по ГОЗ в 1С: настройка и ведение в 2026 году", "description": "Как настроить и вести раздельный учёт по гособоронзаказу в 1С:Бухгалтерии 8 КОРП: функциональность контрактов госзаказа, аналитика по ИГК, отдельные счета, отчёт исполнения контракта, ответственность по ч. 11 ст. 7.30.3 КоАП.", "inLanguage": "ru-RU", "datePublished": "2026-06-15", "dateModified": "2026-08-27", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/razdelnyy-uchet-goz-v-1s-16x9.jpg", "https://kaznaexpert.ru/img/og/razdelnyy-uchet-goz-v-1s-4x3.jpg", "https://kaznaexpert.ru/img/og/razdelnyy-uchet-goz-v-1s-1x1.jpg"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/razdelnyy-uchet-goz-v-1s/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_140175/", "https://www.consultant.ru/document/cons_doc_LAW_17542/", "https://www.consultant.ru/document/cons_doc_LAW_34661/b945e9baa2f86ef7eafc3db4cd85e34064cb6801/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Раздельный учёт ГОЗ в 1С", "item": "https://kaznaexpert.ru/baza-znaniy/razdelnyy-uchet-goz-v-1s/"}]}
@@ -91,7 +56,7 @@
 ]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -131,9 +96,9 @@
 <meta property="og:title" content="Раздельный учёт по ГОЗ в 1С: настройка и ведение в 2026 году">
 <meta property="og:description" content="Раздельный учёт ГОЗ в 1С:Бухгалтерии КОРП: включение функциональности контрактов госзаказа, аналитика по ИГК, отдельные счета, распределение затрат, отчёт исполнения контракта, ст. 7.30.3 КоАП.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/razdelnyy-uchet-goz-v-1s/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/razdelnyy-uchet-goz-v-1s-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Раздельный учёт по ГОЗ в 1С: настройка и ведение в 2026 году — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-15T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-27T09:00:00+03:00">
@@ -142,7 +107,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Раздельный учёт по ГОЗ в 1С: настройка и ведение в 2026 году">
 <meta name="twitter:description" content="Раздельный учёт ГОЗ в 1С:Бухгалтерии КОРП: включение функциональности контрактов госзаказа, аналитика по ИГК, отдельные счета, распределение затрат, отчёт исполнения контракта, ст. 7.30.3 КоАП.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/razdelnyy-uchet-goz-v-1s-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
