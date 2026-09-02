@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "datePublished": "2026-06-25", "dateModified": "2026-08-31", "name": "Сопровождение контракта с авансом", "serviceType": "Казначейское сопровождение авансового госконтракта", "description": "Полное сопровождение контракта с авансом: контроль целевого использования, санкционирование платежей, цепочка кооперации, раздельный учёт и сведения об операциях. Безлимит операций до закрытия контракта.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "105000", "priceCurrency": "RUB", "description": "Ежемесячное сопровождение контракта с авансом, безлимит операций", "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-avans/", "priceValidUntil": "2026-12-31"}, "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-avans/"}
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "datePublished": "2026-06-25", "dateModified": "2026-09-02", "name": "Сопровождение контракта с авансом", "serviceType": "Казначейское сопровождение авансового госконтракта", "description": "Полное сопровождение контракта с авансом: контроль целевого использования, санкционирование платежей, цепочка кооперации, раздельный учёт и сведения об операциях. Безлимит операций до закрытия контракта.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "105000", "priceCurrency": "RUB", "description": "Ежемесячное сопровождение контракта с авансом, безлимит операций", "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-avans/", "priceValidUntil": "2026-12-31"}, "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-avans/"}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Сопровождение: аванс"}]}
@@ -91,7 +91,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Сопровождение контракта с авансом — под контролем — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-02T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -164,7 +164,7 @@
           <span class="v2-eyebrow">Услуга · аванс · 44-ФЗ · 223-ФЗ · ГОЗ</span>
           <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
         </div>
-        <h1>Сопровождение контракта с авансом<br><em>под полным контролем</em></h1>
+        <h1>Сопровождение контракта с авансом <br><em>под полным контролем</em></h1>
 <a href="/#reviews" style="display:inline-flex;align-items:center;gap:7px;margin:12px 0 0;padding:7px 15px;background:rgba(139,111,71,.07);border:1px solid rgba(139,111,71,.35);border-radius:999px;text-decoration:none;font-size:14px;color:#1A1A1A"><span style="color:#8B6F47;letter-spacing:1px">★★★★★</span><b>4,9</b><span style="color:#6E6B66">— отзывы клиентов</span></a>
         <p class="v2-hero-lede"><strong>Аванс по госконтракту — деньги под казначейским контролем.</strong> Каждый платёж санкционируется, целевое использование подтверждается, цепочка кооперации отслеживается. Ведём контракт от поступления аванса до закрытия — безлимит операций.</p>
         <div class="v2-hero-trust"><div class="v2-trust-item"><div class="v2-trust-num">безлимит<span class="v2-trust-suffix"></span></div><div class="v2-trust-label">операций</div></div><div class="v2-trust-item"><div class="v2-trust-num">2021</div><div class="v2-trust-label">год регистрации ИП</div></div><div class="v2-trust-item"><div class="v2-trust-num">100<span class="v2-trust-suffix">%</span></div><div class="v2-trust-label">дистанционно, вся РФ</div></div><div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div></div>
@@ -247,24 +247,11 @@
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Пороги 2026</div>
-      <h2 class="v2-section-title">Какой аванс попадает под <em>казначейское сопровождение</em> в 2026 году</h2>
-      <p class="v2-section-lede">Режим включается не от желания сторон, а от вида денег и суммы контракта. Основания на 2026 год перечислены в статье 5 Федерального закона от 28.11.2025 № 426-ФЗ о федеральном бюджете.</p>
+      <h2 class="v2-section-title">Какой аванс попадает под <em>казначейское сопровождение</em></h2>
+      <p class="v2-section-lede">Режим включается не от желания сторон, а от вида денег и суммы контракта: основания на 2026 год перечислены в статье 5 закона о федеральном бюджете от 28.11.2025 № 426-ФЗ, и порог привязан к цене контракта, а не к проценту аванса.</p>
     </div>
     <div class="lp2-block">
-      <div class="lp2-answer"><p><strong>Коротко:</strong> под казначейское сопровождение попадают авансовые платежи по государственным контрактам на сумму 100 млн ₽ и более, авансы по контрактам федеральных бюджетных и автономных учреждений на сумму 10 млн ₽ и более за счёт субсидий, а также авансы исполнителей и соисполнителей в рамках таких контрактов на сумму свыше 3 млн ₽. Авансы за счёт субсидий и бюджетных инвестиций юридическим лицам сопровождаются независимо от суммы.</p></div>
-      <table class="lp2-table">
-        <caption>Авансовые платежи под казначейским сопровождением в 2026 году (ст. 5 Федерального закона № 426-ФЗ)</caption>
-        <thead><tr><th>Основание</th><th>Порог суммы</th><th>Норма</th></tr></thead>
-        <tbody>
-          <tr><td>Авансы по государственным контрактам (кроме гособоронзаказа)</td><td>100 млн ₽ и более</td><td>п. 5 ч. 2 ст. 5</td></tr>
-          <tr><td>Авансы по контрактам федеральных бюджетных и автономных учреждений за счёт субсидий</td><td>10 млн ₽ и более</td><td>п. 6 ч. 2 ст. 5</td></tr>
-          <tr><td>Авансы исполнителей и соисполнителей в рамках таких контрактов</td><td>свыше 3 млн ₽</td><td>п. 9 ч. 2 ст. 5</td></tr>
-          <tr><td>Авансы по контрактам за счёт субсидий и бюджетных инвестиций юридическим лицам</td><td>любая сумма</td><td>п. 4 ч. 2 ст. 5</td></tr>
-          <tr><td>Расчёты по контрактам с единственным поставщиком по п. 2 ч. 1 ст. 93 закона № 44-ФЗ</td><td>свыше 3 млн ₽</td><td>п. 7 ч. 2 ст. 5</td></tr>
-        </tbody>
-      </table>
-      <p>Обратите внимание на распространённое заблуждение: доля аванса в цене контракта сама по себе основанием не является. В законе о бюджете на 2026 год пороги привязаны к сумме контракта и к источнику финансирования, а не к проценту аванса. Поэтому контракт на 120 млн ₽ с авансом 10% попадает под сопровождение, а контракт на 20 млн ₽ с авансом 50% — нет, если только источником не служат субсидия или бюджетная инвестиция.</p>
-      <p class="lp2-note">Полный перечень оснований, включая региональный уровень и целевые межбюджетные трансферты, разобран в материале <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-v-2026-godu/">«Казначейское сопровождение в 2026 году»</a>.</p>
+      <p>Мы определяем основание сопровождения до подписания договора — это первый шаг работы. Полный разбор порогов, региональных случаев и авансов, которые не сопровождаются вообще, вынесен в базу знаний: <a href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/">аванс при казначейском сопровождении</a> и <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-v-2026-godu/">казначейское сопровождение в 2026 году</a>.</p>
     </div>
   </div>
 </section>
@@ -297,18 +284,11 @@
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Размер аванса</div>
-      <h2 class="v2-section-title">Сколько аванса <em>можно получить</em> по 44-ФЗ</h2>
-      <p class="v2-section-lede">Предельный размер аванса устанавливает не закон № 44-ФЗ, а бюджетные акты — и это ежегодно меняющаяся величина.</p>
+      <h2 class="v2-section-title">Сколько аванса <em>можно получить</em></h2>
+      <p class="v2-section-lede">Предельный размер аванса задаёт не закон № 44-ФЗ, а бюджетные акты на каждый год, поэтому цифру нужно сверять по текущему году, а не по прошлогодней памятке.</p>
     </div>
     <div class="lp2-block">
-      <p>Механика такая: для получателей средств федерального бюджета предельные размеры авансовых платежей задаются Положением о мерах по обеспечению исполнения федерального бюджета (утверждено постановлением Правительства РФ от 09.12.2017 № 1496) и актом Правительства на соответствующий финансовый год. Отдельные правила действуют для закупок промышленных товаров — постановление Правительства РФ от 24.12.2022 № 2411. Регионы и муниципалитеты устанавливают свои предельные размеры собственными актами.</p>
-      <ul class="lp2-list">
-        <li>Единой цифры «аванс по 44-ФЗ = столько-то процентов» не существует: размер зависит от уровня бюджета, предмета закупки и года.</li>
-        <li>Аванс не может превышать доведённые до заказчика лимиты бюджетных обязательств на соответствующие цели.</li>
-        <li>Конкретный размер всегда прописан в извещении и в проекте контракта — с ним и нужно сверяться при подаче заявки.</li>
-      </ul>
-      <p>Мы не гадаем по процентам, а разбираем ваш конкретный контракт: смотрим источник финансирования, попадает ли аванс под сопровождение, какой режим счёта потребуется и что это значит для обеспечения. Такой разбор — первый шаг работы, до заключения договора.</p>
-      <p class="lp2-note">Разбор авансирования по шагам — в материале <a href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/">«Аванс при казначейском сопровождении»</a>.</p>
+      <p>Что это значит для обеспечения исполнения и как отработать аванс без возврата — разбираем на вашем контракте до заключения договора. Механика лимитов по шагам — в материале <a href="/baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/">аванс при казначейском сопровождении</a>, возврат неотработанного аванса — в <a href="/baza-znaniy/vozvrat-avansa-po-goskontraktu/">отдельном разборе</a>.</p>
     </div>
   </div>
 </section>
@@ -414,7 +394,7 @@
 
 <section class="v2-section" aria-label="Актуальность страницы">
   <div class="v2-container">
-    <p class="v2-freshness">Страница актуальна на <time datetime="2026-08-31">31 августа 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
+    <p class="v2-freshness">Страница актуальна на <time datetime="2026-09-02">2 сентября 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
   </div>
 </section>
 
