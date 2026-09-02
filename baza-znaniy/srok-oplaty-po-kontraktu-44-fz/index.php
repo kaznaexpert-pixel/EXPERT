@@ -388,6 +388,7 @@
 <section class="related" aria-labelledby="relTitle">
   <div class="related__head"><h2 id="relTitle">Что почитать ещё</h2><a href="/baza-znaniy/">Вся база знаний →</a></div>
   <div class="related__grid">
+    <a class="card reveal" href="/baza-znaniy/priyomka-rabot-ks-2-ks-3/"><div class="card__cover"><span>База знаний</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Приёмка работ по КС-2 и КС-3: оформление без расхождений</h3><div class="card__meta">Стройка · 13 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/zaklyuchenie-kontrakta-44-fz/"><div class="card__cover"><span>База знаний</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Заключение контракта по 44-ФЗ: подписание и сроки</h3><div class="card__meta">44-ФЗ · 13 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/peni-i-shtrafy-po-44-fz/"><div class="card__cover"><span>Неустойка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Пени и штрафы по 44-ФЗ: расчёт + калькулятор</h3><div class="card__meta">Применимость · 14 мин</div></div></a>
     <a class="card reveal" href="/baza-znaniy/elektronnoe-aktirovanie-priyomka-44-fz/"><div class="card__cover"><span>Приёмка</span></div><div class="card__body"><span class="card__cat">База знаний</span><h3 class="card__title">Электронное актирование и приёмка в ЕИС по 44-ФЗ</h3><div class="card__meta">Операции · 14 мин</div></div></a>
