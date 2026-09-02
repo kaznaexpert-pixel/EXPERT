@@ -26,45 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Нормы прибыли по гособоронзаказу: правило «1% + 25%» постановления № 1465",
-  "description": "Плановая прибыль в цене ГОЗ по п. 54 ПП № 1465: до 1% привнесённых + до 25% собственных затрат, но не менее 10%; на развитие производства — до 30%. Пример расчёта.",
-  "inLanguage": "ru-RU",
-  "datePublished": "2026-07-02",
-  "dateModified": "2026-08-27",
-  "author": {
-    "@type": "Person",
-    "name": "Ярослав Михайлов",
-    "jobTitle": "Главный эксперт по казначейскому сопровождению",
-    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
-    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "КазнаЭксперт",
-    "url": "https://kaznaexpert.ru",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://kaznaexpert.ru/img/logogold.png"
-    },
-    "@id": "https://kaznaexpert.ru/#organization"
-  },
-  "image": "https://kaznaexpert.ru/img/og-image.png",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://kaznaexpert.ru/baza-znaniy/normy-pribyli-goz/"
-  },
-  "citation": [
-    "Постановление Правительства РФ от 02.12.2017 № 1465 «О государственном регулировании цен на продукцию, поставляемую по государственному оборонному заказу…» (ред. от 14.02.2026): пункт 2 (определения привнесённых и собственных затрат), раздел IV — пункты 54–58 (порядок определения плановой рентабельности). Гарант — https://base.garant.ru/71825654/",
-    "Постановление Правительства РФ от 21.05.2022 № 935 — действующая редакция пункта 54: потолок 25% собственных затрат, повышение до 25–30% на развитие производства; не распространяется на цены, сформированные до 24.05.2022.",
-    "Постановление Правительства РФ от 01.10.2020 № 1582 — предыдущая редакция пункта 54 (минимум 10% собственных затрат, правило 5% себестоимости).",
-    "Постановление Правительства РФ от 13.02.2021 № 189 — редакция пункта 57: фактическая рентабельность по выполненному контракту не ограничивается плановой.",
-    "Постановление Правительства РФ от 23.08.2021 № 1388 — уточнение определения привнесённых затрат (командировочные расходы исключены); защита ранее сформированных цен от пересмотра.",
-    "Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе»: статья 8 (ч. 3 — запрет необоснованного завышения цены), статья 9 (цели и принципы государственного регулирования цен). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_140175/"
-  ]
-}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Нормы прибыли по гособоронзаказу: правило «1% + 25%» постановления № 1465", "description": "Плановая прибыль в цене ГОЗ по п. 54 ПП № 1465: до 1% привнесённых + до 25% собственных затрат, но не менее 10%; на развитие производства — до 30%. Пример расчёта.", "inLanguage": "ru-RU", "datePublished": "2026-07-02", "dateModified": "2026-08-27", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/normy-pribyli-goz-16x9.jpg", "https://kaznaexpert.ru/img/og/normy-pribyli-goz-4x3.jpg", "https://kaznaexpert.ru/img/og/normy-pribyli-goz-1x1.jpg"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/normy-pribyli-goz/"}, "citation": ["Постановление Правительства РФ от 02.12.2017 № 1465 «О государственном регулировании цен на продукцию, поставляемую по государственному оборонному заказу…» (ред. от 14.02.2026): пункт 2 (определения привнесённых и собственных затрат), раздел IV — пункты 54–58 (порядок определения плановой рентабельности). Гарант — https://base.garant.ru/71825654/", "Постановление Правительства РФ от 21.05.2022 № 935 — действующая редакция пункта 54: потолок 25% собственных затрат, повышение до 25–30% на развитие производства; не распространяется на цены, сформированные до 24.05.2022.", "Постановление Правительства РФ от 01.10.2020 № 1582 — предыдущая редакция пункта 54 (минимум 10% собственных затрат, правило 5% себестоимости).", "Постановление Правительства РФ от 13.02.2021 № 189 — редакция пункта 57: фактическая рентабельность по выполненному контракту не ограничивается плановой.", "Постановление Правительства РФ от 23.08.2021 № 1388 — уточнение определения привнесённых затрат (командировочные расходы исключены); защита ранее сформированных цен от пересмотра.", "Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе»: статья 8 (ч. 3 — запрет необоснованного завышения цены), статья 9 (цели и принципы государственного регулирования цен). КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_140175/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Нормы прибыли по гособоронзаказу", "item": "https://kaznaexpert.ru/baza-znaniy/normy-pribyli-goz/"}]}
@@ -79,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: нормы прибыли по гособоронзаказу", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Плановая рентабельность (прибыль)", "description": "Прибыль, закладываемая в цену продукции при её формировании; при затратном методе нормируется пунктом 54 Положения № 1465 по правилу «до 1% привнесённых + до 25% собственных затрат»."}, {"@type": "DefinedTerm", "name": "Привнесённые затраты", "description": "Затраты на приобретение товаров, работ, услуг и на оплату связанных с приобретением налогов и сборов, включаемые в себестоимость в составе прямых затрат; командировочные расходы к ним не относятся."}, {"@type": "DefinedTerm", "name": "Собственные затраты", "description": "Разница между себестоимостью продукции и привнесёнными затратами: оплата труда с начислениями, амортизация, общепроизводственные и общехозяйственные расходы и другие «свои» затраты организации."}, {"@type": "DefinedTerm", "name": "Затратный метод", "description": "Метод определения цены как суммы затрат на поставку (включая производство) продукции и рентабельности, определяемой по разделу IV Положения № 1465."}, {"@type": "DefinedTerm", "name": "Базовая цена", "description": "Фиксированная цена, определённая затратным методом в условиях базового года и используемая для расчёта цен последующих лет методами индексации; повышенная рентабельность «на развитие» при её установлении не применяется."}, {"@type": "DefinedTerm", "name": "Существенные изменения условий поставки", "description": "Обстоятельства, при которых себестоимость меняется более чем на 5% и плановая прибыль опускается ниже минимумов пункта 54 из-за внешних факторов (изменение требований, объёмов, курса, нормативных актов); основание для постановки вопроса о цене."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -119,9 +81,9 @@
 <meta property="og:title" content="Нормы прибыли по гособоронзаказу: правило «1% + 25%» по ПП № 1465">
 <meta property="og:description" content="Как считается плановая рентабельность в цене на продукцию ГОЗ: формула пункта 54, нижние границы 10% и 5%, повышение до 30% на развитие производства и пример расчёта.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/normy-pribyli-goz/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/normy-pribyli-goz-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Нормы прибыли по гособоронзаказу: правило «1% + 25%» по ПП № 1465 — КазнаЭксперт">
 <meta property="article:published_time" content="2026-07-02T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-27T09:00:00+03:00">
@@ -130,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Нормы прибыли по гособоронзаказу: правило «1% + 25%» по ПП № 1465">
 <meta name="twitter:description" content="Как считается плановая рентабельность в цене на продукцию ГОЗ: формула пункта 54, нижние границы 10% и 5%, повышение до 30% на развитие производства и пример расчёта.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/normy-pribyli-goz-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
