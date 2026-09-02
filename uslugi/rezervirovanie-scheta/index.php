@@ -257,7 +257,7 @@
           <span class="v2-eyebrow">Услуга · до тендера · 44-ФЗ · 223-ФЗ</span>
           <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
         </div>
-        <h1>Зарезервируем казначейский счёт<br><em>к дате тендера</em></h1>
+        <h1>Зарезервируем казначейский счёт <br><em>к дате тендера</em></h1>
 <a href="/#reviews" style="display:inline-flex;align-items:center;gap:7px;margin:12px 0 0;padding:7px 15px;background:rgba(139,111,71,.07);border:1px solid rgba(139,111,71,.35);border-radius:999px;text-decoration:none;font-size:14px;color:#1A1A1A"><span style="color:#8B6F47;letter-spacing:1px">★★★★★</span><b>4,9</b><span style="color:#6E6B66">— отзывы клиентов</span></a>
         <p class="v2-hero-lede"><strong>Готовим реквизиты заранее</strong> — к моменту победы счёт уже на старте. Подтверждение готовности для заказчика, фиксация позиции в очереди УФК. Не выиграли тендер — закрываем без расходов.</p>
         <div class="v2-hero-trust"><div class="v2-trust-item"><div class="v2-trust-num">1<span class="v2-trust-suffix">&nbsp;день</span></div><div class="v2-trust-label">на резервирование</div></div><div class="v2-trust-item"><div class="v2-trust-num">2021</div><div class="v2-trust-label">год регистрации ИП</div></div><div class="v2-trust-item"><div class="v2-trust-num">100<span class="v2-trust-suffix">%</span></div><div class="v2-trust-label">дистанционно, вся РФ</div></div><div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div></div>
