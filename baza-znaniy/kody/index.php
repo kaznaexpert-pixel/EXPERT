@@ -645,5 +645,6 @@ var tail=document.querySelector('.related')||document.querySelector('.v2-footer'
 function upd(){m.classList.toggle('mtr--tail', tail.getBoundingClientRect().top < window.innerHeight*0.65);}
 var t;window.addEventListener('scroll',function(){if(t)return;t=setTimeout(function(){t=null;upd();},100);},{passive:true});
 window.addEventListener('resize',upd,{passive:true});upd();})();</script>
+<link rel="stylesheet" href="/assets/kg-lead.css"><script src="/assets/kg-lead.js" defer></script>
 </body>
 </html>
