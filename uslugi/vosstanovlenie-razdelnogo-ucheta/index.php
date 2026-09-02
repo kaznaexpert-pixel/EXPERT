@@ -25,7 +25,7 @@
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "datePublished": "2026-06-25", "dateModified": "2026-09-02", "name": "Восстановление раздельного учёта по ГОЗ и госконтракту", "serviceType": "Восстановление раздельного учёта результатов финансово-хозяйственной деятельности по контрактам ГОЗ (275-ФЗ) и 44-ФЗ", "description": "Восстановление раздельного учёта за прошедшие периоды: диагностика, методика в учётной политике, регистры по статьям, распределение общих затрат, сверка с платежами по лицевому счёту, пояснительная записка для проверки. Фиксированная цена за контракт.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/vosstanovlenie-razdelnogo-ucheta/", "offers": {"@type": "Offer", "name": "Восстановление раздельного учёта по одному контракту", "price": "99000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/vosstanovlenie-razdelnogo-ucheta/", "priceValidUntil": "2026-12-31"}}
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": ["https://kaznaexpert.ru/img/og/uslugi__vosstanovlenie-razdelnogo-ucheta-16x9.jpg", "https://kaznaexpert.ru/img/og/uslugi__vosstanovlenie-razdelnogo-ucheta-4x3.webp", "https://kaznaexpert.ru/img/og/uslugi__vosstanovlenie-razdelnogo-ucheta-1x1.webp"], "datePublished": "2026-06-25", "dateModified": "2026-09-02", "name": "Восстановление раздельного учёта по ГОЗ и госконтракту", "serviceType": "Восстановление раздельного учёта результатов финансово-хозяйственной деятельности по контрактам ГОЗ (275-ФЗ) и 44-ФЗ", "description": "Восстановление раздельного учёта за прошедшие периоды: диагностика, методика в учётной политике, регистры по статьям, распределение общих затрат, сверка с платежами по лицевому счёту, пояснительная записка для проверки. Фиксированная цена за контракт.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/vosstanovlenie-razdelnogo-ucheta/", "offers": {"@type": "Offer", "name": "Восстановление раздельного учёта по одному контракту", "price": "99000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/vosstanovlenie-razdelnogo-ucheta/", "priceValidUntil": "2026-12-31"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Восстановление раздельного учёта"}]}
@@ -71,9 +71,9 @@
 <meta property="og:title" content="Восстановление раздельного учёта по ГОЗ — 99 000 ₽ за контракт">
 <meta property="og:description" content="Регистры за весь период, сверка с лицевым счётом, пакет для проверки УФК и ВП. Фиксированная цена, число операций не влияет.">
 <meta property="og:url" content="https://kaznaexpert.ru/uslugi/vosstanovlenie-razdelnogo-ucheta/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/uslugi__vosstanovlenie-razdelnogo-ucheta-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Восстановление раздельного учёта по ГОЗ — 99 000 ₽ за контракт — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-09-02T09:00:00+03:00">
@@ -82,7 +82,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Восстановление раздельного учёта по ГОЗ — 99 000 ₽ за контракт">
 <meta name="twitter:description" content="Регистры за весь период, сверка с лицевым счётом, пакет для проверки УФК и ВП. Фиксированная цена, число операций не влияет.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/uslugi__vosstanovlenie-razdelnogo-ucheta-16x9.jpg">
 
 <!-- Schema: Article -->
 <!-- Schema: HowTo -->

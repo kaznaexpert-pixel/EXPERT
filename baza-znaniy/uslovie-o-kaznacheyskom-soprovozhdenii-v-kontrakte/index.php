@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Условие о казначейском сопровождении в контракте: формулировка и образец", "description": "Когда условие о казначейском сопровождении обязательно в контракте по 44-ФЗ, какие положения должны быть в тексте (лицевой счёт, идентификатор, санкционирование, отчётность) и образец формулировки.", "inLanguage": "ru-RU", "datePublished": "2026-06-15", "dateModified": "2026-08-28", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/", "http://publication.pravo.gov.ru/", "https://www.consultant.ru/document/cons_doc_LAW_144624/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Условие о казначейском сопровождении в контракте: формулировка и образец", "description": "Когда условие о казначейском сопровождении обязательно в контракте по 44-ФЗ, какие положения должны быть в тексте (лицевой счёт, идентификатор, санкционирование, отчётность) и образец формулировки.", "inLanguage": "ru-RU", "datePublished": "2026-06-15", "dateModified": "2026-08-28", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/", "http://publication.pravo.gov.ru/", "https://www.consultant.ru/document/cons_doc_LAW_144624/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Условие о казначейском сопровождении в контракте", "item": "https://kaznaexpert.ru/baza-znaniy/uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte/"}]}
@@ -54,7 +54,7 @@
 ]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -94,9 +94,9 @@
 <meta property="og:title" content="Условие о казначейском сопровождении в контракте: формулировка и образец">
 <meta property="og:description" content="Условие о казначейском сопровождении в контракте: когда обязательно, обязательные элементы (лицевой счёт в ТОФК, идентификатор, санкционирование, отчётность, кооперация), образец формулировки и чек-лист проверки.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Условие о казначейском сопровождении в контракте: формулировка и образец — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-15T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-28T09:00:00+03:00">
@@ -105,7 +105,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Условие о казначейском сопровождении в контракте: формулировка и образец">
 <meta name="twitter:description" content="Условие о казначейском сопровождении в контракте: когда обязательно, обязательные элементы (лицевой счёт в ТОФК, идентификатор, санкционирование, отчётность, кооперация), образец формулировки и чек-лист проверки.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__uslovie-o-kaznacheyskom-soprovozhdenii-v-kontrakte-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

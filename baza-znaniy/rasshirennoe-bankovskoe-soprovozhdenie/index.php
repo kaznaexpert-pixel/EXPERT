@@ -62,9 +62,9 @@
 <meta property="og:title" content="Расширенное банковское сопровождение контракта: критерии, плата, проверка и отказ в платеже">
 <meta property="og:description" content="Расширенное банковское сопровождение: когда устанавливается, сколько стоит, что банк проверяет по документам и как действовать при отказе в платеже.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/rasshirennoe-bankovskoe-soprovozhdenie/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__rasshirennoe-bankovskoe-soprovozhdenie-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Пени и штрафы по 44-ФЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-08-16T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-27T09:00:00+03:00">
@@ -73,11 +73,11 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Расширенное банковское сопровождение контракта: критерии, плата, проверка и отказ в платеже">
 <meta name="twitter:description" content="Расширенное банковское сопровождение: когда устанавливается, сколько стоит, что банк проверяет по документам и как действовать при отказе в платеже.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__rasshirennoe-bankovskoe-soprovozhdenie-16x9.jpg">
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Расширенное банковское сопровождение контракта: критерии, плата, проверка и отказ в платеже", "description": "Расширенное банковское сопровождение: когда устанавливается, сколько стоит, что банк проверяет по документам и как действовать при отказе в платеже.", "datePublished": "2026-08-16T09:00:00+03:00", "dateModified": "2026-08-27", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/rasshirennoe-bankovskoe-soprovozhdenie/"}, "image": "https://kaznaexpert.ru/img/og-image.png"}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Расширенное банковское сопровождение контракта: критерии, плата, проверка и отказ в платеже", "description": "Расширенное банковское сопровождение: когда устанавливается, сколько стоит, что банк проверяет по документам и как действовать при отказе в платеже.", "datePublished": "2026-08-16T09:00:00+03:00", "dateModified": "2026-08-27", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/rasshirennoe-bankovskoe-soprovozhdenie/"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__rasshirennoe-bankovskoe-soprovozhdenie-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__rasshirennoe-bankovskoe-soprovozhdenie-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__rasshirennoe-bankovskoe-soprovozhdenie-1x1.webp"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Расширенное банковское сопровождение", "item": "https://kaznaexpert.ru/baza-znaniy/rasshirennoe-bankovskoe-soprovozhdenie/"}]}

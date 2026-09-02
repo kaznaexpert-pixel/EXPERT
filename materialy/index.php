@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"material", cluster:"materialy"};</script>
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"CollectionPage","name":"Материалы и чек-листы по казначейскому сопровождению","url":"https://kaznaexpert.ru/materialy/","dateModified":"2026-07-13","inLanguage":"ru-RU","publisher":{"@id":"https://kaznaexpert.ru/#organization"}}
+{"@context": "https://schema.org", "@type": "CollectionPage", "name": "Материалы и чек-листы по казначейскому сопровождению", "url": "https://kaznaexpert.ru/materialy/", "dateModified": "2026-07-13", "inLanguage": "ru-RU", "publisher": {"@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/materialy-16x9.jpg", "https://kaznaexpert.ru/img/og/materialy-4x3.webp", "https://kaznaexpert.ru/img/og/materialy-1x1.webp"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"Материалы"}]}
@@ -69,9 +69,9 @@
 <meta property="og:title" content="Материалы и чек-листы по казначейскому сопровождению — скачать PDF">
 <meta property="og:description" content="Бесплатные материалы КазнаЭксперт: чек-листы первого контракта и платежа по ГОЗ (PDF для печати), календарь дедлайнов казначейского сопровождения 2026.">
 <meta property="og:url" content="https://kaznaexpert.ru/materialy/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/materialy-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Материалы и чек-листы по казначейскому сопровождению — скачать PDF">
 <meta property="article:published_time" content="2026-06-05T10:00:00+03:00">
 <meta property="article:modified_time" content="2026-07-13T10:00:00+03:00">
@@ -80,7 +80,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Материалы и чек-листы по казначейскому сопровождению — скачать PDF">
 <meta name="twitter:description" content="Бесплатные материалы КазнаЭксперт: чек-листы первого контракта и платежа по ГОЗ (PDF для печати), календарь дедлайнов казначейского сопровождения 2026.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/materialy-16x9.jpg">
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
 </head>

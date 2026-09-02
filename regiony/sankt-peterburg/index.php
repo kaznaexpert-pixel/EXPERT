@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"region", cluster:"regiony"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Service", "name": "Казначейское сопровождение в Санкт-Петербурге", "serviceType": "Казначейское сопровождение госконтрактов", "description": "Казначейское сопровождение госконтрактов в Санкт-Петербурге: открытие лицевого счёта в УФК по г. Санкт-Петербургу, ведение платежей, санкционирование, спасение контрактов. Дистанционно по всему региону.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png"}, "areaServed": {"@type": "AdministrativeArea", "name": "город Санкт-Петербург"}, "url": "https://kaznaexpert.ru/regiony/sankt-peterburg/"}
+{"@context": "https://schema.org", "@type": "Service", "name": "Казначейское сопровождение в Санкт-Петербурге", "serviceType": "Казначейское сопровождение госконтрактов", "description": "Казначейское сопровождение госконтрактов в Санкт-Петербурге: открытие лицевого счёта в УФК по г. Санкт-Петербургу, ведение платежей, санкционирование, спасение контрактов. Дистанционно по всему региону.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png"}, "areaServed": {"@type": "AdministrativeArea", "name": "город Санкт-Петербург"}, "url": "https://kaznaexpert.ru/regiony/sankt-peterburg/", "image": ["https://kaznaexpert.ru/img/og/regiony__sankt-peterburg-16x9.jpg", "https://kaznaexpert.ru/img/og/regiony__sankt-peterburg-4x3.webp", "https://kaznaexpert.ru/img/og/regiony__sankt-peterburg-1x1.webp"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Регионы", "item": "https://kaznaexpert.ru/regiony/"}, {"@type": "ListItem", "position": 3, "name": "Казначейское сопровождение в Санкт-Петербурге"}]}
@@ -75,9 +75,9 @@
 <meta property="og:title" content="Казначейское сопровождение в Санкт-Петербурге">
 <meta property="og:description" content="Казначейское сопровождение госконтрактов в Санкт-Петербурге: открытие счёта в УФК, платежи, санкционирование, спасение контрактов. Дистанционно, фикс-цены.">
 <meta property="og:url" content="https://kaznaexpert.ru/regiony/sankt-peterburg/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/regiony__sankt-peterburg-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-16T09:00:00+03:00">
@@ -86,7 +86,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Казначейское сопровождение в Санкт-Петербурге">
 <meta name="twitter:description" content="Казначейское сопровождение госконтрактов в Санкт-Петербурге: открытие счёта в УФК, платежи, санкционирование, спасение контрактов. Дистанционно, фикс-цены.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/regiony__sankt-peterburg-16x9.jpg">
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
 </head>

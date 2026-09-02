@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"primenenie"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение в здравоохранении: медизделия, лекарства и контракты учреждений", "description": "Когда контракты в здравоохранении попадают под казначейское сопровождение в 2026: медизделия, лекарства, оборудование, нацпроект и порог 10 млн для учреждений.", "inLanguage": "ru-RU", "datePublished": "2026-08-04", "dateModified": "2026-08-27", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-medicina/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение в здравоохранении: медизделия, лекарства и контракты учреждений", "description": "Когда контракты в здравоохранении попадают под казначейское сопровождение в 2026: медизделия, лекарства, оборудование, нацпроект и порог 10 млн для учреждений.", "inLanguage": "ru-RU", "datePublished": "2026-08-04", "dateModified": "2026-08-27", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-medicina-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-medicina-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-medicina-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-medicina/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Казначейское сопровождение в здравоохранении", "item": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-medicina/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: казначейское сопровождение в здравоохранении", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Целевые средства", "description": "Средства контракта, субсидии или инвестиции с целевым характером, операции с которыми ведутся через лицевой счёт в казначействе."}, {"@type": "DefinedTerm", "name": "Национальный проект «Здравоохранение»", "description": "Целевая программа, контракты в рамках которой подпадают под казначейское сопровождение независимо от суммы."}, {"@type": "DefinedTerm", "name": "Порог 10 млн рублей", "description": "Сумма контракта бюджетного или автономного учреждения, с которой авансовые платежи подлежат сопровождению в 2026 году."}, {"@type": "DefinedTerm", "name": "Медизделие", "description": "Товар медицинского назначения; поставка по целевому контракту подтверждается регистрационными и товарными документами."}, {"@type": "DefinedTerm", "name": "Санкционирование", "description": "Проверка казначейством каждого платежа по целевому контракту перед списанием средств."}, {"@type": "DefinedTerm", "name": "Раздельный учёт", "description": "Обособленный учёт целевых средств по контракту, обязательный при казначейском сопровождении."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Казначейское сопровождение в медицине и здравоохранении">
 <meta property="og:description" content="Когда контракты в сфере здравоохранения подпадают под казначейское сопровождение: поставки медизделий, лекарств и оборудования, контракты медучреждений, нацпроект и порог 10 млн рублей.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-medicina/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-medicina-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Казначейское сопровождение в медицине и здравоохранении — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-27T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Казначейское сопровождение в медицине и здравоохранении">
 <meta name="twitter:description" content="Когда контракты в сфере здравоохранения подпадают под казначейское сопровождение: поставки медизделий, лекарств и оборудования, контракты медучреждений, нацпроект и порог 10 млн рублей.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-medicina-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

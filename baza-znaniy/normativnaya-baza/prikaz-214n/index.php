@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"npa", cluster:"normativka"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Article", "Legislation"], "headline": "Приказ Минфина № 214н — санкционирование операций при казначейском сопровождении", "description": "Главный приказ о санкционировании: сам Порядок, форма Сведений об операциях (ОКУД 0501213, Прил. 1) и перечни кодов направлений расходования.", "datePublished": "2026-06-06T10:00:00+03:00", "dateModified": "2026-08-20T10:00:00+03:00", "inLanguage": "ru-RU", "legislationIdentifier": "214н", "about": "Приказ Минфина России от 17.12.2021 № 214н «Об утверждении Порядка осуществления территориальными органами Федерального казначейства санкционирования операций со средствами участников казначейского сопровождения»", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/prikaz-214n/"}, "image": "https://kaznaexpert.ru/img/og-image.png"}
+{"@context": "https://schema.org", "@type": ["Article", "Legislation"], "headline": "Приказ Минфина № 214н — санкционирование операций при казначейском сопровождении", "description": "Главный приказ о санкционировании: сам Порядок, форма Сведений об операциях (ОКУД 0501213, Прил. 1) и перечни кодов направлений расходования.", "datePublished": "2026-06-06T10:00:00+03:00", "dateModified": "2026-08-20T10:00:00+03:00", "inLanguage": "ru-RU", "legislationIdentifier": "214н", "about": "Приказ Минфина России от 17.12.2021 № 214н «Об утверждении Порядка осуществления территориальными органами Федерального казначейства санкционирования операций со средствами участников казначейского сопровождения»", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/prikaz-214n/"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__prikaz-214n-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__prikaz-214n-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__prikaz-214n-1x1.webp"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Нормативная база", "item": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/"}, {"@type": "ListItem", "position": 4, "name": "Приказ Минфина № 214н"}]}
@@ -72,9 +72,9 @@
 <meta property="og:title" content="Приказ Минфина № 214н — санкционирование операций при казначейском">
 <meta property="og:description" content="Главный приказ о санкционировании: сам Порядок, форма Сведений об операциях (ОКУД 0501213, Прил. 1) и перечни кодов направлений расходования.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/prikaz-214n/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__prikaz-214n-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Приказ Минфина № 214н — санкционирование операций при казначейском">
 <meta property="article:published_time" content="2026-06-06T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-20T10:00:00+03:00">
@@ -83,7 +83,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Приказ Минфина № 214н — санкционирование операций при казначейском">
 <meta name="twitter:description" content="Главный приказ о санкционировании: сам Порядок, форма Сведений об операциях (ОКУД 0501213, Прил. 1) и перечни кодов направлений расходования.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__prikaz-214n-16x9.jpg">
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
 </head>

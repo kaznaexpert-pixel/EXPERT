@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение контракта: как работать в 2026", "description": "Казначейское сопровождение контракта: условия договора, лицевой счёт 71 и ИГК, санкционирование платежей, расчёты с соисполнителями и вывод прибыли.", "inLanguage": "ru-RU", "datePublished": "2026-06-11", "dateModified": "2026-08-14", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskiy-kontrakt/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/c4bad396d963c79cf5c4665d8fc50e017a94309f/", "https://www.consultant.ru/document/cons_doc_LAW_520057/", "https://www.consultant.ru/document/cons_doc_LAW_401366/", "http://publication.pravo.gov.ru/Document/View/0001202111260048", "https://www.consultant.ru/document/cons_doc_LAW_403670/", "https://www.consultant.ru/document/cons_doc_LAW_34661/f270e072df75fc0b9a8cf700e186d6b213f50172/", "https://www.consultant.ru/document/cons_doc_LAW_518324/b48bd9242136e1f526456eeeccf977e42c79d9bb/", "https://www.consultant.ru/document/cons_doc_LAW_525453/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение контракта: как работать в 2026", "description": "Казначейское сопровождение контракта: условия договора, лицевой счёт 71 и ИГК, санкционирование платежей, расчёты с соисполнителями и вывод прибыли.", "inLanguage": "ru-RU", "datePublished": "2026-06-11", "dateModified": "2026-08-14", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskiy-kontrakt-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskiy-kontrakt-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskiy-kontrakt-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskiy-kontrakt/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/c4bad396d963c79cf5c4665d8fc50e017a94309f/", "https://www.consultant.ru/document/cons_doc_LAW_520057/", "https://www.consultant.ru/document/cons_doc_LAW_401366/", "http://publication.pravo.gov.ru/Document/View/0001202111260048", "https://www.consultant.ru/document/cons_doc_LAW_403670/", "https://www.consultant.ru/document/cons_doc_LAW_34661/f270e072df75fc0b9a8cf700e186d6b213f50172/", "https://www.consultant.ru/document/cons_doc_LAW_518324/b48bd9242136e1f526456eeeccf977e42c79d9bb/", "https://www.consultant.ru/document/cons_doc_LAW_525453/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Казначейский контракт", "item": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskiy-kontrakt/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Глоссарий: казначейский контракт", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Казначейский контракт", "description": "Обиходное название контракта, средства по которому подлежат казначейскому сопровождению (гл. 24.4 БК РФ)."}, {"@type": "DefinedTerm", "name": "Лицевой счёт 71", "description": "Счёт участника казначейского сопровождения в ТОФК для операций с целевыми средствами."}, {"@type": "DefinedTerm", "name": "ИГК", "description": "Идентификатор государственного контракта — сквозной код для привязки платежей к контракту."}, {"@type": "DefinedTerm", "name": "Целевые средства", "description": "Средства из бюджета, подлежащие казначейскому сопровождению и расходуемые через санкционирование."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Казначейское сопровождение контракта: как работать в 2026">
 <meta property="og:description" content="Казначейское сопровождение контракта: условия договора, лицевой счёт 71 и ИГК, санкционирование платежей, расчёты с соисполнителями и вывод прибыли.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/kaznacheyskiy-kontrakt/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskiy-kontrakt-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Казначейский контракт: что это и как по нему работать — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-11T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-14T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Казначейское сопровождение контракта: как работать в 2026">
 <meta name="twitter:description" content="Казначейское сопровождение контракта: условия договора, лицевой счёт 71 и ИГК, санкционирование платежей, расчёты с соисполнителями и вывод прибыли.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskiy-kontrakt-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

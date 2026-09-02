@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ecp"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Продление ЭЦП казначейства: как продлить и отозвать сертификат", "description": "Продление ЭЦП казначейства: когда начинать перевыпуск, какие документы нужны, чем отзыв отличается от аннулирования и что делать при компрометации ключа подписи.", "inLanguage": "ru-RU", "datePublished": "2026-06-09", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kak-prodlit-i-otozvat-ecp-kaznachejstva/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_112701/", "https://crl.roskazna.ru/crl/", "https://roskazna.gov.ru/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Продление ЭЦП казначейства: как продлить и отозвать сертификат", "description": "Продление ЭЦП казначейства: когда начинать перевыпуск, какие документы нужны, чем отзыв отличается от аннулирования и что делать при компрометации ключа подписи.", "inLanguage": "ru-RU", "datePublished": "2026-06-09", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__kak-prodlit-i-otozvat-ecp-kaznachejstva-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__kak-prodlit-i-otozvat-ecp-kaznachejstva-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__kak-prodlit-i-otozvat-ecp-kaznachejstva-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kak-prodlit-i-otozvat-ecp-kaznachejstva/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_112701/", "https://crl.roskazna.ru/crl/", "https://roskazna.gov.ru/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Как продлить и отозвать ЭЦП казначейства"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTerm", "name": "Аннулирование сертификата", "description": "Досрочное прекращение действия квалифицированного сертификата электронной подписи удостоверяющим центром с внесением сведений в список аннулированных сертификатов (отзыв ЭЦП).", "inDefinedTermSet": "https://kaznaexpert.ru/baza-znaniy/glossary/"}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Продление ЭЦП казначейства: как продлить и отозвать сертификат">
 <meta property="og:description" content="Продление ЭЦП казначейства: когда начинать перевыпуск, какие документы нужны, чем отзыв отличается от аннулирования и что делать при компрометации ключа подписи.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/kak-prodlit-i-otozvat-ecp-kaznachejstva/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__kak-prodlit-i-otozvat-ecp-kaznachejstva-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Как продлить и отозвать ЭЦП казначейства в 2026 — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-09T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Продление ЭЦП казначейства: как продлить и отозвать сертификат">
 <meta name="twitter:description" content="Продление ЭЦП казначейства: когда начинать перевыпуск, какие документы нужны, чем отзыв отличается от аннулирования и что делать при компрометации ключа подписи.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__kak-prodlit-i-otozvat-ecp-kaznachejstva-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

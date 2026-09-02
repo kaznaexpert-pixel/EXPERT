@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"npa", cluster:"normativka"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Article", "Legislation"], "headline": "Письмо Минфина и Казначейства № 02-12-10/1232 — почему оно больше не действует и чем руководствоваться", "description": "Письмо прекратило действие 27.05.2025 вместе со вступлением в силу приказа № 197н. Разбираем, что оно разъясняло и на какие документы опираться при заполнении Сведений (ф. 0501213) сейчас.", "datePublished": "2026-06-06T10:00:00+03:00", "dateModified": "2026-08-18T10:00:00+03:00", "inLanguage": "ru-RU", "legislationIdentifier": "02-12-10/1232", "about": "Письмо Минфина России и Федерального казначейства от 13.01.2025 № 02-12-10/1232, 07-04-05/04-344 «О порядке представления в 2025 году Сведений об операциях с целевыми средствами»", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/pismo-1232-svedeniya/"}, "image": "https://kaznaexpert.ru/img/og-image.png"}
+{"@context": "https://schema.org", "@type": ["Article", "Legislation"], "headline": "Письмо Минфина и Казначейства № 02-12-10/1232 — почему оно больше не действует и чем руководствоваться", "description": "Письмо прекратило действие 27.05.2025 вместе со вступлением в силу приказа № 197н. Разбираем, что оно разъясняло и на какие документы опираться при заполнении Сведений (ф. 0501213) сейчас.", "datePublished": "2026-06-06T10:00:00+03:00", "dateModified": "2026-08-18T10:00:00+03:00", "inLanguage": "ru-RU", "legislationIdentifier": "02-12-10/1232", "about": "Письмо Минфина России и Федерального казначейства от 13.01.2025 № 02-12-10/1232, 07-04-05/04-344 «О порядке представления в 2025 году Сведений об операциях с целевыми средствами»", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/pismo-1232-svedeniya/"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__pismo-1232-svedeniya-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__pismo-1232-svedeniya-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__pismo-1232-svedeniya-1x1.webp"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Нормативная база", "item": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/"}, {"@type": "ListItem", "position": 4, "name": "Письмо № 02-12-10/1232 (Сведения)"}]}
@@ -72,9 +72,9 @@
 <meta property="og:title" content="Письмо Минфина и Казначейства № 02-12-10/1232 — как формировать">
 <meta property="og:description" content="Разъясняет формирование и представление Сведений (ф. 0501213) с учётом приказа № 197н: отражение показателей, указание кодов источников.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/pismo-1232-svedeniya/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__pismo-1232-svedeniya-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Письмо Минфина и Казначейства № 02-12-10/1232 — как формировать">
 <meta property="article:published_time" content="2026-06-06T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-18T09:00:00+03:00">
@@ -83,7 +83,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Письмо Минфина и Казначейства № 02-12-10/1232 — как формировать">
 <meta name="twitter:description" content="Разъясняет формирование и представление Сведений (ф. 0501213) с учётом приказа № 197н: отражение показателей, указание кодов источников.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__pismo-1232-svedeniya-16x9.jpg">
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
 </head>

@@ -26,44 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Уполномоченные банки по гособоронзаказу: ПСБ, опорный банк ОПК и режим счёта",
-  "description": "Уполномоченные банки по гособоронзаказу: что это и требования 275-ФЗ, ПСБ как опорный банк ОПК, банковское сопровождение и режим отдельного счёта в 2026 году.",
-  "inLanguage": "ru-RU",
-  "datePublished": "2026-06-19",
-  "dateModified": "2026-08-16",
-  "author": {
-    "@type": "Person",
-    "name": "Ярослав Михайлов",
-    "jobTitle": "Главный эксперт по казначейскому сопровождению",
-    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
-    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "КазнаЭксперт",
-    "url": "https://kaznaexpert.ru",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://kaznaexpert.ru/img/logogold.png"
-    },
-    "@id": "https://kaznaexpert.ru/#organization"
-  },
-  "image": "https://kaznaexpert.ru/img/og-image.png",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://kaznaexpert.ru/baza-znaniy/upolnomochennye-banki-po-goz/"
-  },
-  "citation": [
-    "Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе», глава 3.1 «Банковское сопровождение» (ст. 8.1–8.6) — уполномоченный банк, отдельный счёт, режим использования. Тексты: consultant.ru, garant.ru, pravo.gov.ru. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_140175/",
-    "Федеральный закон от 27.12.2019 № 517-ФЗ — закрепление статуса опорного банка для оборонно-промышленного комплекса (ПАО «Промсвязьбанк») и полномочий Правительства РФ по размещению средств ГОЗ. Тексты: consultant.ru, pravo.gov.ru.",
-    "Статья 8.3 закона № 275-ФЗ — режим использования отдельного счёта (разрешённые операции). consultant.ru. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_140175/",
-    "Статья 8.4 закона № 275-ФЗ — операции, совершение которых по отдельному счёту не допускается. consultant.ru. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_140175/",
-    "Банк России — требования к уполномоченным банкам и информация о банковском сопровождении расчётов по ГОЗ. cbr.ru."
-  ]
-}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Уполномоченные банки по гособоронзаказу: ПСБ, опорный банк ОПК и режим счёта", "description": "Уполномоченные банки по гособоронзаказу: что это и требования 275-ФЗ, ПСБ как опорный банк ОПК, банковское сопровождение и режим отдельного счёта в 2026 году.", "inLanguage": "ru-RU", "datePublished": "2026-06-19", "dateModified": "2026-08-16", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__upolnomochennye-banki-po-goz-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__upolnomochennye-banki-po-goz-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__upolnomochennye-banki-po-goz-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/upolnomochennye-banki-po-goz/"}, "citation": ["Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе», глава 3.1 «Банковское сопровождение» (ст. 8.1–8.6) — уполномоченный банк, отдельный счёт, режим использования. Тексты: consultant.ru, garant.ru, pravo.gov.ru. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_140175/", "Федеральный закон от 27.12.2019 № 517-ФЗ — закрепление статуса опорного банка для оборонно-промышленного комплекса (ПАО «Промсвязьбанк») и полномочий Правительства РФ по размещению средств ГОЗ. Тексты: consultant.ru, pravo.gov.ru.", "Статья 8.3 закона № 275-ФЗ — режим использования отдельного счёта (разрешённые операции). consultant.ru. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_140175/", "Статья 8.4 закона № 275-ФЗ — операции, совершение которых по отдельному счёту не допускается. consultant.ru. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_140175/", "Банк России — требования к уполномоченным банкам и информация о банковском сопровождении расчётов по ГОЗ. cbr.ru."]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Уполномоченные банки по ГОЗ", "item": "https://kaznaexpert.ru/baza-znaniy/upolnomochennye-banki-po-goz/"}]}
@@ -78,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Глоссарий: банковское сопровождение гособоронзаказа", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Уполномоченный банк", "description": "Банк, отобранный для банковского сопровождения расчётов по гособоронзаказу; в нём открываются отдельные счета по контракту."}, {"@type": "DefinedTerm", "name": "Опорный банк ОПК", "description": "Банк, законодательно закреплённый для обслуживания оборонно-промышленного комплекса. Эту роль выполняет ПАО «Промсвязьбанк» (ПСБ)."}, {"@type": "DefinedTerm", "name": "Отдельный счёт", "description": "Специальный счёт в уполномоченном банке, открываемый под конкретный государственный контракт ГОЗ с особым режимом использования."}, {"@type": "DefinedTerm", "name": "Банковское сопровождение", "description": "Контроль уполномоченным банком целевого использования средств и расчётов по гособоронзаказу."}, {"@type": "DefinedTerm", "name": "ИГК", "description": "Идентификатор государственного контракта — код, который сопровождает каждый платёж по ГОЗ и связывает всю кооперацию."}, {"@type": "DefinedTerm", "name": "Кооперация", "description": "Цепочка головного исполнителя и соисполнителей, работающих по одному контракту под единым ИГК."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -118,9 +81,9 @@
 <meta property="og:title" content="Уполномоченные банки по гособоронзаказу: ПСБ и опорный банк ОПК">
 <meta property="og:description" content="Что такое уполномоченный банк по ГОЗ, требования 275-ФЗ, роль опорного банка ОПК (ПСБ), банковское сопровождение и режим отдельного счёта. Экспертный разбор со ссылками на закон.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/upolnomochennye-banki-po-goz/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__upolnomochennye-banki-po-goz-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Уполномоченные банки по гособоронзаказу: ПСБ и опорный банк ОПК — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-19T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-16T09:00:00+03:00">
@@ -129,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Уполномоченные банки по гособоронзаказу: ПСБ и опорный банк ОПК">
 <meta name="twitter:description" content="Что такое уполномоченный банк по ГОЗ, требования 275-ФЗ, роль опорного банка ОПК (ПСБ), банковское сопровождение и режим отдельного счёта. Экспертный разбор со ссылками на закон.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__upolnomochennye-banki-po-goz-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

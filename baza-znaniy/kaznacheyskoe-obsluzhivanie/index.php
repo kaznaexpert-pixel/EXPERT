@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"osnovy"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское обслуживание и казначейское сопровождение: в чём разница", "description": "Чем казначейское обслуживание отличается от сопровождения: обслуживание — проведение операций по счетам, сопровождение — контроль целевых средств. Разбор 2026.", "inLanguage": "ru-RU", "datePublished": "2026-08-04", "dateModified": "2026-08-21", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-obsluzhivanie/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское обслуживание и казначейское сопровождение: в чём разница", "description": "Чем казначейское обслуживание отличается от сопровождения: обслуживание — проведение операций по счетам, сопровождение — контроль целевых средств. Разбор 2026.", "inLanguage": "ru-RU", "datePublished": "2026-08-04", "dateModified": "2026-08-21", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-obsluzhivanie-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-obsluzhivanie-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-obsluzhivanie-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-obsluzhivanie/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Казначейское обслуживание", "item": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-obsluzhivanie/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: казначейское обслуживание и сопровождение", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Казначейское обслуживание", "description": "Проведение и отражение Федеральным казначейством операций по казначейским счетам; техническая инфраструктура расчётов."}, {"@type": "DefinedTerm", "name": "Казначейское сопровождение", "description": "Режим контроля за целевым расходованием конкретных средств по главе 24.4 Бюджетного кодекса."}, {"@type": "DefinedTerm", "name": "Казначейский счёт", "description": "Счёт в системе казначейских платежей, через который проводятся операции; ведётся в рамках обслуживания."}, {"@type": "DefinedTerm", "name": "Санкционирование", "description": "Проверка казначейством операции на целевое назначение и документы — элемент сопровождения, а не обслуживания."}, {"@type": "DefinedTerm", "name": "Система казначейских платежей", "description": "Инфраструктура проведения расчётов через казначейские счета, привязанные к единому казначейскому счёту."}, {"@type": "DefinedTerm", "name": "Целевые средства", "description": "Средства с целевым характером (авансы, субсидии, ГОЗ), для которых включается режим сопровождения."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Казначейское обслуживание и сопровождение: разница">
 <meta property="og:description" content="Казначейское обслуживание и казначейское сопровождение — не одно и то же: обслуживание проводит операции по казначейским счетам, сопровождение контролирует целевое расходование средств.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-obsluzhivanie/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-obsluzhivanie-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Казначейское обслуживание и сопровождение: разница — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-21T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Казначейское обслуживание и сопровождение: разница">
 <meta name="twitter:description" content="Казначейское обслуживание и казначейское сопровождение — не одно и то же: обслуживание проводит операции по казначейским счетам, сопровождение контролирует целевое расходование средств.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-obsluzhivanie-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение средств национальных проектов", "description": "Как деньги нацпроектов доходят до исполнителя: федпроект, трансферт региону, контракт или субсидия. Кто сопровождает и что меняется для подрядчика.", "inLanguage": "ru-RU", "datePublished": "2026-07-31", "dateModified": "2026-08-28", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-nacionalnyh-proektov/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение средств национальных проектов", "description": "Как деньги нацпроектов доходят до исполнителя: федпроект, трансферт региону, контракт или субсидия. Кто сопровождает и что меняется для подрядчика.", "inLanguage": "ru-RU", "datePublished": "2026-07-31", "dateModified": "2026-08-28", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-nacionalnyh-proektov-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-nacionalnyh-proektov-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-nacionalnyh-proektov-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-nacionalnyh-proektov/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Нацпроекты и сопровождение", "item": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-nacionalnyh-proektov/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: нацпроекты и казначейское сопровождение", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Национальный проект", "description": "форма организации бюджетных расходов для достижения национальных целей развития; состоит из федеральных проектов с мероприятиями и результатами."}, {"@type": "DefinedTerm", "name": "Федеральный проект", "description": "структурный элемент национального проекта и государственной программы, на уровне которого закрепляются мероприятия, результаты и бюджетные ассигнования."}, {"@type": "DefinedTerm", "name": "Межбюджетный трансферт", "description": "средства, передаваемые из одного бюджета бюджетной системы другому; целевые трансферты сохраняют режим расходования по цепочке."}, {"@type": "DefinedTerm", "name": "Целевые средства", "description": "средства, признанные целевыми в соответствии с бюджетным законодательством и подлежащие казначейскому сопровождению."}, {"@type": "DefinedTerm", "name": "Санкционирование расходов", "description": "проверка органом, сопровождающим средства, соответствия платежа условиям контракта, сведениям об операциях и подтверждающим документам до его совершения."}, {"@type": "DefinedTerm", "name": "Идентификатор государственного контракта (ИГК)", "description": "уникальный код контракта, указываемый в расчётных и первичных документах при казначейском сопровождении."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Казначейское сопровождение средств нацпроектов">
 <meta property="og:description" content="Маршрут нацпроектных денег от федерального бюджета до лицевого счёта исполнителя: межбюджетные трансферты, региональные контракты и субсидии, кто сопровождает — казначейство или финорган региона.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-nacionalnyh-proektov/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-nacionalnyh-proektov-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Казначейское сопровождение средств нацпроектов — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-28T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Казначейское сопровождение средств нацпроектов">
 <meta name="twitter:description" content="Маршрут нацпроектных денег от федерального бюджета до лицевого счёта исполнителя: межбюджетные трансферты, региональные контракты и субсидии, кто сопровождает — казначейство или финорган региона.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-nacionalnyh-proektov-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

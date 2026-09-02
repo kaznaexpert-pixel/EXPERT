@@ -26,42 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Соисполнители и цепочка кооперации в ГОЗ при казначейском сопровождении",
-  "description": "Цепочка кооперации в ГОЗ: кто такие соисполнители, что прописать в договоре, единый идентификатор (ИГК), отдельные счета и сопровождение по всей цепочке.",
-  "inLanguage": "ru-RU",
-  "datePublished": "2026-06-16",
-  "dateModified": "2026-08-31",
-  "author": {
-    "@type": "Person",
-    "name": "Ярослав Михайлов",
-    "jobTitle": "Главный эксперт по казначейскому сопровождению",
-    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
-    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "КазнаЭксперт",
-    "url": "https://kaznaexpert.ru",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://kaznaexpert.ru/img/logogold.png"
-    },
-    "@id": "https://kaznaexpert.ru/#organization"
-  },
-  "image": "https://kaznaexpert.ru/img/og-image.png",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://kaznaexpert.ru/baza-znaniy/soispolniteli-kooperaciya-goz/"
-  },
-  "citation": [
-    "https://www.consultant.ru/document/cons_doc_LAW_140175/",
-    "https://base.garant.ru/70291366/31de5683116b8d79b08fa2d768e33df6/",
-    "https://www.consultant.ru/document/cons_doc_LAW_34661/b945e9baa2f86ef7eafc3db4cd85e34064cb6801/"
-  ]
-}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Соисполнители и цепочка кооперации в ГОЗ при казначейском сопровождении", "description": "Цепочка кооперации в ГОЗ: кто такие соисполнители, что прописать в договоре, единый идентификатор (ИГК), отдельные счета и сопровождение по всей цепочке.", "inLanguage": "ru-RU", "datePublished": "2026-06-16", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__soispolniteli-kooperaciya-goz-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__soispolniteli-kooperaciya-goz-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__soispolniteli-kooperaciya-goz-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/soispolniteli-kooperaciya-goz/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_140175/", "https://base.garant.ru/70291366/31de5683116b8d79b08fa2d768e33df6/", "https://www.consultant.ru/document/cons_doc_LAW_34661/b945e9baa2f86ef7eafc3db4cd85e34064cb6801/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Соисполнители и кооперация ГОЗ", "item": "https://kaznaexpert.ru/baza-znaniy/soispolniteli-kooperaciya-goz/"}]}
@@ -76,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Глоссарий: кооперация и соисполнители в ГОЗ", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Кооперация головного исполнителя", "description": "Совокупность взаимодействующих лиц, участвующих в поставках по сопровождаемым сделкам в рамках одного гособоронзаказа."}, {"@type": "DefinedTerm", "name": "Соисполнитель", "description": "Исполнитель в цепочке кооперации, заключивший контракт с головным исполнителем или с другим исполнителем."}, {"@type": "DefinedTerm", "name": "Сопровождаемая сделка", "description": "Контракт по ГОЗ, расчёты по которому подлежат банковскому или казначейскому сопровождению."}, {"@type": "DefinedTerm", "name": "ИГК", "description": "Идентификатор государственного контракта; единый код, проходящий через всю цепочку кооперации."}, {"@type": "DefinedTerm", "name": "Отдельный счёт", "description": "Счёт в уполномоченном банке для расчётов по контракту ГОЗ с особым режимом использования."}, {"@type": "DefinedTerm", "name": "Уполномоченный банк", "description": "Банк, отобранный для банковского сопровождения расчётов по гособоронзаказу."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -116,9 +81,9 @@
 <meta property="og:title" content="Соисполнители и цепочка кооперации в ГОЗ: договоры, ИГК, счета">
 <meta property="og:description" content="Кооперация головного исполнителя по 275-ФЗ: статус соисполнителя, обязательные условия договора, единый ИГК по всей цепочке, отдельные счета каждого участника и банковское или казначейское сопровождение.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/soispolniteli-kooperaciya-goz/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__soispolniteli-kooperaciya-goz-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Соисполнители и цепочка кооперации в ГОЗ: договоры, ИГК, счета — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-16T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
@@ -127,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Соисполнители и цепочка кооперации в ГОЗ: договоры, ИГК, счета">
 <meta name="twitter:description" content="Кооперация головного исполнителя по 275-ФЗ: статус соисполнителя, обязательные условия договора, единый ИГК по всей цепочке, отдельные счета каждого участника и банковское или казначейское сопровождение.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__soispolniteli-kooperaciya-goz-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

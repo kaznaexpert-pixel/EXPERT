@@ -25,7 +25,7 @@
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"sankcionirovanie"};</script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Причины отказа казначейства в санкционировании: 10 причин и как их избежать в 2026", "description": "10 типичных причин отказа казначейства в санкционировании операций (ИГК, код направления расходования, документы, сведения об операциях) и чек-лист, как их избежать в 2026 году.", "inLanguage": "ru-RU", "datePublished": "2026-06-04", "dateModified": "2026-08-28T10:00:00+03:00", "author": {"@type": "Person", "name": "Анна Богданова", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_405138/9ddf6d7911b13fc8d06086699ee770debd0f3ba2/", "https://www.garant.ru/products/ipo/prime/doc/413428698/", "https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/", "https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Причины отказа казначейства в санкционировании: 10 причин и как их избежать в 2026", "description": "10 типичных причин отказа казначейства в санкционировании операций (ИГК, код направления расходования, документы, сведения об операциях) и чек-лист, как их избежать в 2026 году.", "inLanguage": "ru-RU", "datePublished": "2026-06-04", "dateModified": "2026-08-28T10:00:00+03:00", "author": {"@type": "Person", "name": "Анна Богданова", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person", "image": "https://kaznaexpert.ru/img/team/bogdanova-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__prichiny-otkaza-kaznacheystva-v-sankcionirovanii-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__prichiny-otkaza-kaznacheystva-v-sankcionirovanii-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__prichiny-otkaza-kaznacheystva-v-sankcionirovanii-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_405138/9ddf6d7911b13fc8d06086699ee770debd0f3ba2/", "https://www.garant.ru/products/ipo/prime/doc/413428698/", "https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/", "https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Причины отказа казначейства в санкционировании"}]}
@@ -43,7 +43,7 @@
 ]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Анна Богданова", "alternateName": "Богданова Анна Андреевна", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "image": "https://kaznaexpert.ru/img/team/bogdanova-768.jpg", "colleague": {"@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Анна Богданова", "alternateName": "Богданова Анна Андреевна", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "image": "https://kaznaexpert.ru/img/team/bogdanova-photo.jpg", "colleague": {"@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -83,9 +83,9 @@
 <meta property="og:title" content="Причины отказа казначейства в санкционировании: 10 причин и как избежать">
 <meta property="og:description" content="ИГК, код направления расходования, документы, сведения об операциях — что чаще всего приводит к возврату платежа и как этого избежать.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__prichiny-otkaza-kaznacheystva-v-sankcionirovanii-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-04T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-28T10:00:00+03:00">
@@ -94,7 +94,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Казначейское сопровождение ГОЗ в 2026 году: разбор по 275-ФЗ">
 <meta name="twitter:description" content="Кто обязан, порог 3 млн ₽, счёт, раздельный учёт, штрафы. Со ссылками на НПА.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__prichiny-otkaza-kaznacheystva-v-sankcionirovanii-16x9.jpg">
 
 <!-- Schema: Article -->
 <!-- Schema: HowTo -->

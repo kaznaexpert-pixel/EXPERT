@@ -25,7 +25,7 @@
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение в 2026 году: что это, как работает и кому нужно", "description": "Что такое казначейское сопровождение, кому и от какой суммы оно нужно в 2026 году, обычное и расширенное казначейское сопровождение, отличие от банковского, пороги по 426-ФЗ и как проходит санкционирование платежей.", "inLanguage": "ru-RU", "datePublished": "2026-06-05", "dateModified": "2026-07-23", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"}, "citation": ["https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/", "https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/", "https://www.consultant.ru/document/cons_doc_LAW_401366/", "https://www.garant.ru/news/1927461/", "https://www.garant.ru/products/ipo/prime/doc/413709754/", "https://www.consultant.ru/document/cons_doc_LAW_405138/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение в 2026 году: что это, как работает и кому нужно", "description": "Что такое казначейское сопровождение, кому и от какой суммы оно нужно в 2026 году, обычное и расширенное казначейское сопровождение, отличие от банковского, пороги по 426-ФЗ и как проходит санкционирование платежей.", "inLanguage": "ru-RU", "datePublished": "2026-06-05", "dateModified": "2026-07-23", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__chto-takoe-kaznacheyskoe-soprovozhdenie-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__chto-takoe-kaznacheyskoe-soprovozhdenie-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__chto-takoe-kaznacheyskoe-soprovozhdenie-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/"}, "citation": ["https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/", "https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/", "https://www.consultant.ru/document/cons_doc_LAW_401366/", "https://www.garant.ru/news/1927461/", "https://www.garant.ru/products/ipo/prime/doc/413709754/", "https://www.consultant.ru/document/cons_doc_LAW_405138/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Казначейское сопровождение: что это и как работает"}]}
@@ -44,7 +44,7 @@
 ]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
 <link rel="preload" as="font" type="font/woff2" href="/fonts/playfairdisplay-normal-500-cyrillic.woff2" crossorigin>
@@ -83,9 +83,9 @@
 <meta property="og:title" content="Казначейское сопровождение в 2026 году: что это, как работает и кому нужно">
 <meta property="og:description" content="Кому нужно казначейского сопровождения и от какой суммы, обычное и расширенное сопровождение, отличие от банковского, пороги 2026 и как проходит санкционирование платежей.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__chto-takoe-kaznacheyskoe-soprovozhdenie-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Казначейское сопровождение — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-07-23T09:00:00+03:00">
@@ -94,7 +94,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Казначейское сопровождение в 2026: что это и как работает">
 <meta name="twitter:description" content="Кому нужно казначейского сопровождения, от какой суммы, обычное и расширенное, отличие от банковского. Со ссылками на НПА.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__chto-takoe-kaznacheyskoe-soprovozhdenie-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

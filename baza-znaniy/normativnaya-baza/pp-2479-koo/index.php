@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"npa", cluster:"normativka"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Article", "Legislation"], "headline": "Постановление № 2479 — казначейское обеспечение обязательств (КОО): зачем оно исполнителю", "description": "Порядок выдачи, перевода и отзыва казначейского обеспечения обязательств (КОО) по ст. 242.22 БК: сроки территориального органа — не позднее 2-го рабочего дня, проверка через «Электронный бюджет». К госконтрактам в рамках гособоронзаказа Правила не применяются.", "datePublished": "2026-06-06T10:00:00+03:00", "dateModified": "2026-08-18T10:00:00+03:00", "inLanguage": "ru-RU", "legislationIdentifier": "ПП № 2479", "about": "Постановление Правительства РФ от 25.12.2021 № 2479 «Об утверждении Правил выдачи (перевода, отзыва) казначейского обеспечения обязательств…»", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/pp-2479-koo/"}, "image": "https://kaznaexpert.ru/img/og-image.png"}
+{"@context": "https://schema.org", "@type": ["Article", "Legislation"], "headline": "Постановление № 2479 — казначейское обеспечение обязательств (КОО): зачем оно исполнителю", "description": "Порядок выдачи, перевода и отзыва казначейского обеспечения обязательств (КОО) по ст. 242.22 БК: сроки территориального органа — не позднее 2-го рабочего дня, проверка через «Электронный бюджет». К госконтрактам в рамках гособоронзаказа Правила не применяются.", "datePublished": "2026-06-06T10:00:00+03:00", "dateModified": "2026-08-18T10:00:00+03:00", "inLanguage": "ru-RU", "legislationIdentifier": "ПП № 2479", "about": "Постановление Правительства РФ от 25.12.2021 № 2479 «Об утверждении Правил выдачи (перевода, отзыва) казначейского обеспечения обязательств…»", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/pp-2479-koo/"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__pp-2479-koo-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__pp-2479-koo-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__pp-2479-koo-1x1.webp"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Нормативная база", "item": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/"}, {"@type": "ListItem", "position": 4, "name": "ПП № 2479 (КОО)"}]}
@@ -72,9 +72,9 @@
 <meta property="og:title" content="Постановление № 2479: казначейское обеспечение обязательств">
 <meta property="og:description" content="Порядок выдачи, перевода и отзыва казначейского обеспечения обязательств (КОО) по ст. 242.22 БК; сроки операций ФК.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/pp-2479-koo/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__pp-2479-koo-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Постановление № 2479: казначейское обеспечение обязательств">
 <meta property="article:published_time" content="2026-06-06T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-18T09:00:00+03:00">
@@ -83,7 +83,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Постановление № 2479: казначейское обеспечение обязательств">
 <meta name="twitter:description" content="Порядок выдачи, перевода и отзыва казначейского обеспечения обязательств (КОО) по ст. 242.22 БК; сроки операций ФК.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__pp-2479-koo-16x9.jpg">
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
 </head>

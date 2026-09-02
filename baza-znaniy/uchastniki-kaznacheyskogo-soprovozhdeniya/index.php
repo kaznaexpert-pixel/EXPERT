@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"osnovy"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Участники казначейского сопровождения: кто это и кто в контур не входит", "description": "Кто такие участники казначейского сопровождения: заказчик, исполнитель, соисполнители по кооперации, их лицевые счета — и кто в контур не входит. Разбор по БК РФ.", "inLanguage": "ru-RU", "datePublished": "2026-08-04", "dateModified": "2026-08-27", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/uchastniki-kaznacheyskogo-soprovozhdeniya/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Участники казначейского сопровождения: кто это и кто в контур не входит", "description": "Кто такие участники казначейского сопровождения: заказчик, исполнитель, соисполнители по кооперации, их лицевые счета — и кто в контур не входит. Разбор по БК РФ.", "inLanguage": "ru-RU", "datePublished": "2026-08-04", "dateModified": "2026-08-27", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__uchastniki-kaznacheyskogo-soprovozhdeniya-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__uchastniki-kaznacheyskogo-soprovozhdeniya-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__uchastniki-kaznacheyskogo-soprovozhdeniya-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/uchastniki-kaznacheyskogo-soprovozhdeniya/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Участники казначейского сопровождения", "item": "https://kaznaexpert.ru/baza-znaniy/uchastniki-kaznacheyskogo-soprovozhdeniya/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: участники казначейского сопровождения", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Участник казначейского сопровождения", "description": "Лицо, которому открыт лицевой счёт в казначействе для операций с целевыми средствами по контракту: заказчик, исполнитель или соисполнитель."}, {"@type": "DefinedTerm", "name": "Целевые средства", "description": "Средства по контракту, субсидии или инвестиции, операции с которыми ведутся через лицевой счёт и проходят санкционирование."}, {"@type": "DefinedTerm", "name": "Кооперация", "description": "Цепочка исполнителей и соисполнителей по контракту, по которой доводится режим казначейского сопровождения."}, {"@type": "DefinedTerm", "name": "Лицевой счёт «71»", "description": "Счёт участника казначейского сопровождения, не являющегося участником бюджетного процесса, для учёта целевых средств."}, {"@type": "DefinedTerm", "name": "Санкционирование", "description": "Проверка территориальным органом казначейства каждой операции участника перед списанием средств."}, {"@type": "DefinedTerm", "name": "Неучастник бюджетного процесса", "description": "Организация, не имеющая бюджетно-правового статуса участника бюджетного процесса; ей открывается лицевой счёт с кодом «71»."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Участники казначейского сопровождения: кто это">
 <meta property="og:description" content="Кто входит в контур казначейского сопровождения по Бюджетному кодексу: заказчик, исполнитель и соисполнители по цепочке кооперации, их роли и лицевые счета — и кого сопровождение не касается.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/uchastniki-kaznacheyskogo-soprovozhdeniya/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__uchastniki-kaznacheyskogo-soprovozhdeniya-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Участники казначейского сопровождения: кто это — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-27T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Участники казначейского сопровождения: кто это">
 <meta name="twitter:description" content="Кто входит в контур казначейского сопровождения по Бюджетному кодексу: заказчик, исполнитель и соисполнители по цепочке кооперации, их роли и лицевые счета — и кого сопровождение не касается.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__uchastniki-kaznacheyskogo-soprovozhdeniya-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

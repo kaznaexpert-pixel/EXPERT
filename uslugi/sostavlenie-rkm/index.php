@@ -25,7 +25,7 @@
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "datePublished": "2026-08-12", "dateModified": "2026-09-02", "name": "Составление расчётно-калькуляционных материалов (РКМ) по гособоронзаказу", "serviceType": "Составление РКМ по ГОЗ (275-ФЗ), формы приказа ФАС № 995/22", "description": "Составление РКМ по гособоронзаказу под ключ: плановые и отчётные калькуляции по формам приказа ФАС № 995/22, расшифровки статей затрат, обоснование прибыли, пояснительная записка, ответы на замечания военного представительства до принятия. Фиксированная цена, NDA.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/sostavlenie-rkm/", "offers": {"@type": "Offer", "name": "Составление РКМ под ключ", "price": "105000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/sostavlenie-rkm/", "priceValidUntil": "2026-12-31"}}
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": ["https://kaznaexpert.ru/img/og/uslugi__sostavlenie-rkm-16x9.jpg", "https://kaznaexpert.ru/img/og/uslugi__sostavlenie-rkm-4x3.webp", "https://kaznaexpert.ru/img/og/uslugi__sostavlenie-rkm-1x1.webp"], "datePublished": "2026-08-12", "dateModified": "2026-09-02", "name": "Составление расчётно-калькуляционных материалов (РКМ) по гособоронзаказу", "serviceType": "Составление РКМ по ГОЗ (275-ФЗ), формы приказа ФАС № 995/22", "description": "Составление РКМ по гособоронзаказу под ключ: плановые и отчётные калькуляции по формам приказа ФАС № 995/22, расшифровки статей затрат, обоснование прибыли, пояснительная записка, ответы на замечания военного представительства до принятия. Фиксированная цена, NDA.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/sostavlenie-rkm/", "offers": {"@type": "Offer", "name": "Составление РКМ под ключ", "price": "105000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/sostavlenie-rkm/", "priceValidUntil": "2026-12-31"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Составление РКМ по ГОЗ"}]}
@@ -71,9 +71,9 @@
 <meta property="og:title" content="Составление РКМ по ГОЗ — 105 000 ₽ за комплект">
 <meta property="og:description" content="Формы 995/22, расшифровки, обоснование прибыли, ответы на замечания ВП без лимита. Фиксированная цена в договоре.">
 <meta property="og:url" content="https://kaznaexpert.ru/uslugi/sostavlenie-rkm/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/uslugi__sostavlenie-rkm-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Составление РКМ по ГОЗ — 105 000 ₽ за комплект — КазнаЭксперт">
 <meta property="article:published_time" content="2026-08-12T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-09-02T09:00:00+03:00">
@@ -82,7 +82,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Составление РКМ по ГОЗ — 105 000 ₽ за комплект">
 <meta name="twitter:description" content="Формы 995/22, расшифровки, обоснование прибыли, ответы на замечания ВП без лимита. Фиксированная цена в договоре.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/uslugi__sostavlenie-rkm-16x9.jpg">
 
 <!-- Schema: Article -->
 <!-- Schema: HowTo -->

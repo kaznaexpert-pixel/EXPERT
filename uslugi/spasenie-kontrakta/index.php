@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "datePublished": "2026-06-25", "dateModified": "2026-08-13", "name": "Спасение госконтракта", "serviceType": "Срочное восстановление исполнения госконтракта", "description": "Срочная помощь по проблемному госконтракту: диагностика причины возвратов и блокировок, восстановление раздельного учёта и документооборота, снятие приостановки операций, проведение зависших платежей и защита перед казначейством до исполнения контракта.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "99000", "priceCurrency": "RUB", "description": "Восстановление исполнения госконтракта под ключ, после экспресс-аудита", "url": "https://kaznaexpert.ru/uslugi/spasenie-kontrakta/", "priceValidUntil": "2026-12-31"}, "url": "https://kaznaexpert.ru/uslugi/spasenie-kontrakta/"}
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": ["https://kaznaexpert.ru/img/og/uslugi__spasenie-kontrakta-16x9.jpg", "https://kaznaexpert.ru/img/og/uslugi__spasenie-kontrakta-4x3.webp", "https://kaznaexpert.ru/img/og/uslugi__spasenie-kontrakta-1x1.webp"], "datePublished": "2026-06-25", "dateModified": "2026-08-13", "name": "Спасение госконтракта", "serviceType": "Срочное восстановление исполнения госконтракта", "description": "Срочная помощь по проблемному госконтракту: диагностика причины возвратов и блокировок, восстановление раздельного учёта и документооборота, снятие приостановки операций, проведение зависших платежей и защита перед казначейством до исполнения контракта.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "99000", "priceCurrency": "RUB", "description": "Восстановление исполнения госконтракта под ключ, после экспресс-аудита", "url": "https://kaznaexpert.ru/uslugi/spasenie-kontrakta/", "priceValidUntil": "2026-12-31"}, "url": "https://kaznaexpert.ru/uslugi/spasenie-kontrakta/"}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Спасение контракта"}]}
@@ -72,9 +72,9 @@
 <meta property="og:title" content="Спасение госконтракта — срочная помощь">
 <meta property="og:description" content="Диагностика, снятие блокировок, восстановление учёта, проведение зависших платежей. Срочно, по всей России.">
 <meta property="og:url" content="https://kaznaexpert.ru/uslugi/spasenie-kontrakta/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/uslugi__spasenie-kontrakta-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Спасение госконтракта — срочная помощь — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-13T09:00:00+03:00">
@@ -83,7 +83,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Спасение госконтракта — срочная помощь">
 <meta name="twitter:description" content="Диагностика, снятие блокировок, восстановление учёта, проведение зависших платежей. Срочно, по всей России.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/uslugi__spasenie-kontrakta-16x9.jpg">
 
 <link rel="stylesheet" href="/css/landing-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/landing-shared.css') ?>">
 </head>

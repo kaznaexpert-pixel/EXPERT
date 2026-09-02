@@ -26,42 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Виды цен на продукцию ГОЗ в 2026: ориентировочная, фиксированная и возмещающая издержки",
-  "description": "Три вида цен на продукцию ГОЗ по ст. 11 Закона № 275-ФЗ: ориентировочная (уточняемая), фиксированная и возмещающая издержки. Чем отличаются, когда применяются, методы определения цены по Постановлению № 1465 и перевод в фиксированную.",
-  "inLanguage": "ru-RU",
-  "datePublished": "2026-06-08",
-  "dateModified": "2026-08-28",
-  "author": {
-    "@type": "Person",
-    "name": "Ярослав Михайлов",
-    "jobTitle": "Главный эксперт по казначейскому сопровождению",
-    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
-    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "КазнаЭксперт",
-    "url": "https://kaznaexpert.ru",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://kaznaexpert.ru/img/logogold.png"
-    },
-    "@id": "https://kaznaexpert.ru/#organization"
-  },
-  "image": "https://kaznaexpert.ru/img/og-image.png",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://kaznaexpert.ru/baza-znaniy/vidy-cen-goz/"
-  },
-  "citation": [
-    "https://www.consultant.ru/document/cons_doc_LAW_140175/95e8c3b05edb1a60675216d30a5099c3d96f75ec/",
-    "https://base.garant.ru/71825654/",
-    "http://government.ru/docs/all/114310/"
-  ]
-}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Виды цен на продукцию ГОЗ в 2026: ориентировочная, фиксированная и возмещающая издержки", "description": "Три вида цен на продукцию ГОЗ по ст. 11 Закона № 275-ФЗ: ориентировочная (уточняемая), фиксированная и возмещающая издержки. Чем отличаются, когда применяются, методы определения цены по Постановлению № 1465 и перевод в фиксированную.", "inLanguage": "ru-RU", "datePublished": "2026-06-08", "dateModified": "2026-08-28", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__vidy-cen-goz-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__vidy-cen-goz-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__vidy-cen-goz-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/vidy-cen-goz/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_140175/95e8c3b05edb1a60675216d30a5099c3d96f75ec/", "https://base.garant.ru/71825654/", "http://government.ru/docs/all/114310/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Виды цен на продукцию ГОЗ"}]}
@@ -77,7 +42,7 @@
 ]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -117,9 +82,9 @@
 <meta property="og:title" content="Виды цен на продукцию ГОЗ: ориентировочная, фиксированная, возмещающая издержки">
 <meta property="og:description" content="Три вида цен ГОЗ по ст. 11 № 275-ФЗ, методы по ПП № 1465 и перевод в фиксированную. Экспертный разбор со ссылками на НПА.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/vidy-cen-goz/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__vidy-cen-goz-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Виды цен на продукцию ГОЗ: ориентировочная, фиксированная, возмещающая издержки — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-08T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-28T09:00:00+03:00">
@@ -128,7 +93,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Виды цен на продукцию ГОЗ: ориентировочная, фиксированная, возмещающая издержки">
 <meta name="twitter:description" content="Три вида цен ГОЗ по ст. 11 № 275-ФЗ, методы по ПП № 1465 и перевод в фиксированную. Экспертный разбор со ссылками на НПА.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__vidy-cen-goz-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

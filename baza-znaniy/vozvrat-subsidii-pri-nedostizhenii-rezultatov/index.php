@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"subsidii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Возврат субсидии при недостижении результатов: порядок, расчёт и санкции", "description": "Что делать, если результат субсидии не достигнут: мониторинг и отчёты, требование о возврате, расчёт суммы, штрафные санкции, отличие от нецелевого использования.", "inLanguage": "ru-RU", "datePublished": "2026-07-31", "dateModified": "2026-08-28", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/vozvrat-subsidii-pri-nedostizhenii-rezultatov/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Возврат субсидии при недостижении результатов: порядок, расчёт и санкции", "description": "Что делать, если результат субсидии не достигнут: мониторинг и отчёты, требование о возврате, расчёт суммы, штрафные санкции, отличие от нецелевого использования.", "inLanguage": "ru-RU", "datePublished": "2026-07-31", "dateModified": "2026-08-28", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__vozvrat-subsidii-pri-nedostizhenii-rezultatov-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__vozvrat-subsidii-pri-nedostizhenii-rezultatov-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__vozvrat-subsidii-pri-nedostizhenii-rezultatov-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/vozvrat-subsidii-pri-nedostizhenii-rezultatov/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Возврат субсидии", "item": "https://kaznaexpert.ru/baza-znaniy/vozvrat-subsidii-pri-nedostizhenii-rezultatov/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: возврат субсидии при недостижении результатов", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Результат предоставления субсидии", "description": "измеримый показатель с конкретным значением и датой достижения, зафиксированный в соглашении; ради него предоставляется субсидия."}, {"@type": "DefinedTerm", "name": "Характеристика результата", "description": "уточняющий параметр результата, установленный соглашением; её недостижение может иметь самостоятельные последствия."}, {"@type": "DefinedTerm", "name": "Контрольная точка", "description": "промежуточное событие плана мероприятий по достижению результата с плановой датой; Правила требуют не менее одной контрольной точки в квартал."}, {"@type": "DefinedTerm", "name": "Мониторинг достижения результата", "description": "непрерывное отслеживание достижения результата распорядителем по отчётам получателя; порядок и формы установлены приказом Минфина № 53н."}, {"@type": "DefinedTerm", "name": "Требование о возврате", "description": "документ распорядителя с суммой, основанием, реквизитами и сроком возврата средств субсидии в бюджет."}, {"@type": "DefinedTerm", "name": "Штрафные санкции", "description": "дополнительная к возврату мера, устанавливаемая решением о порядке предоставления субсидии в соответствии с пунктом 40 Правил № 1780."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Возврат субсидии при недостижении результатов">
 <meta property="og:description" content="Как считается сумма возврата, чем недостижение результата отличается от нецелевого использования и возврата остатка, какие штрафные санкции применяются и что можно сделать до требования распорядителя.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/vozvrat-subsidii-pri-nedostizhenii-rezultatov/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__vozvrat-subsidii-pri-nedostizhenii-rezultatov-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Возврат субсидии при недостижении результатов — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-28T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Возврат субсидии при недостижении результатов">
 <meta name="twitter:description" content="Как считается сумма возврата, чем недостижение результата отличается от нецелевого использования и возврата остатка, какие штрафные санкции применяются и что можно сделать до требования распорядителя.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__vozvrat-subsidii-pri-nedostizhenii-rezultatov-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"subsidii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Целевая субсидия юридическому лицу: что это, виды и режим расходования", "description": "Целевая субсидия юридическому лицу: что это по Бюджетному кодексу, виды (на затраты и финобеспечение), режим целевых средств и казначейское сопровождение.", "inLanguage": "ru-RU", "datePublished": "2026-06-17", "dateModified": "2026-08-16", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/celevaya-subsidiya-yuridicheskomu-licu/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/1b6959f23cc516d0e11ddc2e213ca2dca83560df/", "https://www.consultant.ru/document/cons_doc_LAW_19702/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Целевая субсидия юридическому лицу: что это, виды и режим расходования", "description": "Целевая субсидия юридическому лицу: что это по Бюджетному кодексу, виды (на затраты и финобеспечение), режим целевых средств и казначейское сопровождение.", "inLanguage": "ru-RU", "datePublished": "2026-06-17", "dateModified": "2026-08-16", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__celevaya-subsidiya-yuridicheskomu-licu-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__celevaya-subsidiya-yuridicheskomu-licu-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__celevaya-subsidiya-yuridicheskomu-licu-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/celevaya-subsidiya-yuridicheskomu-licu/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/1b6959f23cc516d0e11ddc2e213ca2dca83560df/", "https://www.consultant.ru/document/cons_doc_LAW_19702/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Целевая субсидия юрлицу", "item": "https://kaznaexpert.ru/baza-znaniy/celevaya-subsidiya-yuridicheskomu-licu/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Глоссарий: целевая субсидия юридическому лицу", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Целевая субсидия", "description": "Бюджетные средства, предоставляемые юридическому лицу на безвозмездной и безвозвратной основе на конкретную цель."}, {"@type": "DefinedTerm", "name": "Субсидия на возмещение затрат", "description": "Субсидия, компенсирующая уже понесённые получателем расходы или недополученные доходы."}, {"@type": "DefinedTerm", "name": "Субсидия на финансовое обеспечение", "description": "Субсидия, выделяемая авансом под будущие затраты получателя."}, {"@type": "DefinedTerm", "name": "Грант в форме субсидии", "description": "Субсидия, предоставляемая на конкурсной основе по статье 78.1 Бюджетного кодекса."}, {"@type": "DefinedTerm", "name": "Соглашение о предоставлении субсидии", "description": "Договор между распорядителем бюджетных средств и получателем, определяющий цель, сумму и условия субсидии."}, {"@type": "DefinedTerm", "name": "Целевые средства", "description": "Деньги, которые можно расходовать только на цели, определённые при их предоставлении."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Целевая субсидия юридическому лицу: что это, виды и режим">
 <meta property="og:description" content="Что такое целевая субсидия юридическому лицу: правовая основа по статьям 78, 78.1 и 78.2 Бюджетного кодекса, виды субсидий, соглашение и реестр, режим целевых средств и казначейское сопровождение субсидий.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/celevaya-subsidiya-yuridicheskomu-licu/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__celevaya-subsidiya-yuridicheskomu-licu-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Целевая субсидия юридическому лицу: что это, виды и режим — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-17T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-16T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Целевая субсидия юридическому лицу: что это, виды и режим">
 <meta name="twitter:description" content="Что такое целевая субсидия юридическому лицу: правовая основа по статьям 78, 78.1 и 78.2 Бюджетного кодекса, виды субсидий, соглашение и реестр, режим целевых средств и казначейское сопровождение субсидий.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__celevaya-subsidiya-yuridicheskomu-licu-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

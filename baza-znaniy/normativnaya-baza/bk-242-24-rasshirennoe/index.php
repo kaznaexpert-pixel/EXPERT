@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"npa", cluster:"normativka"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Article", "Legislation"], "headline": "Статья 242.24 БК РФ — расширенное казначейское сопровождение: чем оно строже обычного", "description": "Расширенное казначейское сопровождение по ст. 242.24 БК: проверка фактической поставки, в том числе фото- и видеофиксацией, расходная декларация и перевод денег на банковский счёт только после уведомления заказчика о полном исполнении контракта.", "datePublished": "2026-06-06T10:00:00+03:00", "dateModified": "2026-08-18T10:00:00+03:00", "inLanguage": "ru-RU", "legislationIdentifier": "ст. 242.24 БК РФ", "about": "Бюджетный кодекс РФ, ст. 242.24 «Расширенное казначейское сопровождение»", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/bk-242-24-rasshirennoe/"}, "image": "https://kaznaexpert.ru/img/og-image.png"}
+{"@context": "https://schema.org", "@type": ["Article", "Legislation"], "headline": "Статья 242.24 БК РФ — расширенное казначейское сопровождение: чем оно строже обычного", "description": "Расширенное казначейское сопровождение по ст. 242.24 БК: проверка фактической поставки, в том числе фото- и видеофиксацией, расходная декларация и перевод денег на банковский счёт только после уведомления заказчика о полном исполнении контракта.", "datePublished": "2026-06-06T10:00:00+03:00", "dateModified": "2026-08-18T10:00:00+03:00", "inLanguage": "ru-RU", "legislationIdentifier": "ст. 242.24 БК РФ", "about": "Бюджетный кодекс РФ, ст. 242.24 «Расширенное казначейское сопровождение»", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/bk-242-24-rasshirennoe/"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__bk-242-24-rasshirennoe-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__bk-242-24-rasshirennoe-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__bk-242-24-rasshirennoe-1x1.webp"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Нормативная база", "item": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/"}, {"@type": "ListItem", "position": 4, "name": "БК РФ ст. 242.24"}]}
@@ -72,9 +72,9 @@
 <meta property="og:title" content="Статья 242.24 БК РФ: расширенное казначейское сопровождение">
 <meta property="og:description" content="Устанавливает расширенное казначейское сопровождение: дополнительно проверяются фактические затраты, структура цены, ведётся раздельный учёт.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/bk-242-24-rasshirennoe/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__bk-242-24-rasshirennoe-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Статья 242.24 БК РФ: расширенное казначейское сопровождение">
 <meta property="article:published_time" content="2026-06-06T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-18T09:00:00+03:00">
@@ -83,7 +83,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Статья 242.24 БК РФ: расширенное казначейское сопровождение">
 <meta name="twitter:description" content="Устанавливает расширенное казначейское сопровождение: дополнительно проверяются фактические затраты, структура цены, ведётся раздельный учёт.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__bk-242-24-rasshirennoe-16x9.jpg">
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
 </head>

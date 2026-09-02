@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"osnovy"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Что такое казначейство: Федеральное казначейство — это служба, а ТОФК — её территориальные органы", "description": "Казначейство — это Федеральное казначейство, служба Минфина, которая ведёт счета бюджета и санкционирует платежи. Полномочия по Положению № 703, структура и ТОФК.", "inLanguage": "ru-RU", "datePublished": "2026-06-09", "dateModified": "2026-09-01", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/chto-takoe-kaznachejstvo-i-tofk/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_50565/", "https://www.consultant.ru/document/cons_doc_LAW_19702/", "https://roskazna.gov.ru/", "https://www.consultant.ru/document/cons_doc_LAW_366057/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Что такое казначейство: Федеральное казначейство — это служба, а ТОФК — её территориальные органы", "description": "Казначейство — это Федеральное казначейство, служба Минфина, которая ведёт счета бюджета и санкционирует платежи. Полномочия по Положению № 703, структура и ТОФК.", "inLanguage": "ru-RU", "datePublished": "2026-06-09", "dateModified": "2026-09-01", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__chto-takoe-kaznachejstvo-i-tofk-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__chto-takoe-kaznachejstvo-i-tofk-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__chto-takoe-kaznachejstvo-i-tofk-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/chto-takoe-kaznachejstvo-i-tofk/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_50565/", "https://www.consultant.ru/document/cons_doc_LAW_19702/", "https://roskazna.gov.ru/", "https://www.consultant.ru/document/cons_doc_LAW_366057/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Что такое казначейство и ТОФК"}]}
@@ -44,7 +44,7 @@
 {"@context":"https://schema.org","@type":"DefinedTerm","name":"Федеральное казначейство","description":"Федеральный орган исполнительной власти (служба) в ведении Минфина России: кассовое обслуживание бюджетов, ведение лицевых счетов, санкционирование и казначейское сопровождение. Статус — ПП РФ от 01.12.2004 № 703.","inDefinedTermSet":"https://kaznaexpert.ru/baza-znaniy/glossary/"}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -84,9 +84,9 @@
 <meta property="og:title" content="Что такое казначейство: полномочия, структура и ТОФК">
 <meta property="og:description" content="Казначейство — это Федеральное казначейство, служба Минфина, которая ведёт счета бюджета и санкционирует платежи. Полномочия по Положению № 703, структура и ТОФК.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/chto-takoe-kaznachejstvo-i-tofk/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__chto-takoe-kaznachejstvo-i-tofk-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Что такое Федеральное казначейство и ТОФК: структура и функции — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-09T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-09-01T09:00:00+03:00">
@@ -95,7 +95,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Что такое казначейство: полномочия, структура и ТОФК">
 <meta name="twitter:description" content="Казначейство — это Федеральное казначейство, служба Минфина, которая ведёт счета бюджета и санкционирует платежи. Полномочия по Положению № 703, структура и ТОФК.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__chto-takoe-kaznachejstvo-i-tofk-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

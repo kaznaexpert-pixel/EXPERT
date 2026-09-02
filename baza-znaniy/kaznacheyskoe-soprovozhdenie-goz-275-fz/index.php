@@ -61,9 +61,9 @@
 <meta property="og:title" content="Казначейское сопровождение ГОЗ в 2026 году: полный разбор по 275-ФЗ">
 <meta property="og:description" content="Кто обязан, порог 3 млн ₽, отдельный и лицевой счёт, раздельный учёт, штрафы КоАП, отличие от банковского сопровождения.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-goz-275-fz-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-26T09:00:00+03:00">
@@ -72,24 +72,11 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Казначейское сопровождение ГОЗ в 2026 году: разбор по 275-ФЗ">
 <meta name="twitter:description" content="Кто обязан, порог 3 млн ₽, счёт, раздельный учёт, штрафы. Со ссылками на НПА.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-goz-275-fz-16x9.jpg">
 
 <!-- Schema: Article -->
 <script type="application/ld+json">
-{
-  "@context":"https://schema.org","@type":"Article",
-  "@id":"https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/#article",
-  "headline":"Казначейское сопровождение ГОЗ в 2026 году: порядок по 275-ФЗ",
-  "image":"https://kaznaexpert.ru/img/og-image.png",
-  "description":"Кто обязан, порог, отдельный и лицевой счёт, раздельный учёт, расширенное казначейское сопровождение, штрафы, отличие от банковского сопровождения.",
-  "author":{"@type":"Person","@id":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person","name":"Ярослав Михайлов","jobTitle":"Главный эксперт по казначейскому сопровождению","worksFor":{"@id":"https://kaznaexpert.ru/#organization"}},
-  "publisher":{"@type":"ProfessionalService","@id":"https://kaznaexpert.ru/#organization","name":"КазнаЭксперт"},
-  "datePublished":"2026-06-03","dateModified": "2026-08-26",
-  "mainEntityOfPage":"https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/",
-  "about":["казначейское сопровождение ГОЗ","275-ФЗ","раздельный учёт гособоронзаказа","отдельный счёт ГОЗ","расширенное казначейское сопровождение"],
-  "citation":["ФЗ № 275-ФЗ от 29.12.2012","ФЗ № 426-ФЗ от 28.11.2025, ст. 5","БК РФ, ст. 242.23–242.27","ФЗ № 406-ФЗ от 04.11.2025","ст. 15.37.1, 15.49 КоАП РФ (введены ФЗ № 506-ФЗ от 28.12.2025)"],
-  "speakable":{"@type":"SpeakableSpecification","cssSelector":[".tldr",".answer",".keyfacts"]},"inLanguage":"ru-RU"
-}
+{"@context": "https://schema.org", "@type": "Article", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/#article", "headline": "Казначейское сопровождение ГОЗ в 2026 году: порядок по 275-ФЗ", "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-goz-275-fz-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-goz-275-fz-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-goz-275-fz-1x1.webp"], "description": "Кто обязан, порог, отдельный и лицевой счёт, раздельный учёт, расширенное казначейское сопровождение, штрафы, отличие от банковского сопровождения.", "author": {"@type": "Person", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "ProfessionalService", "@id": "https://kaznaexpert.ru/#organization", "name": "КазнаЭксперт"}, "datePublished": "2026-06-03", "dateModified": "2026-08-26", "mainEntityOfPage": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/", "about": ["казначейское сопровождение ГОЗ", "275-ФЗ", "раздельный учёт гособоронзаказа", "отдельный счёт ГОЗ", "расширенное казначейское сопровождение"], "citation": ["ФЗ № 275-ФЗ от 29.12.2012", "ФЗ № 426-ФЗ от 28.11.2025, ст. 5", "БК РФ, ст. 242.23–242.27", "ФЗ № 406-ФЗ от 04.11.2025", "ст. 15.37.1, 15.49 КоАП РФ (введены ФЗ № 506-ФЗ от 28.12.2025)"], "speakable": {"@type": "SpeakableSpecification", "cssSelector": [".tldr", ".answer", ".keyfacts"]}, "inLanguage": "ru-RU"}
 </script>
 <!-- Schema: HowTo -->
 <script type="application/ld+json">

@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "datePublished": "2026-06-25", "dateModified": "2026-09-02", "name": "Казначейское сопровождение контракта с авансом и ГОЗ", "serviceType": "Казначейское сопровождение авансового госконтракта и контракта по гособоронзаказу (275-ФЗ)", "description": "Сопровождение контракта с авансом и контрактов по ГОЗ от поступления аванса до закрытия: сведения об операциях, санкционирование каждого платежа, ИГК в документах, счета и платежи соисполнителей, раздельный учёт, вывод прибыли. Без лимита на число операций.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "105000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "priceSpecification": {"@type": "UnitPriceSpecification", "price": "105000", "priceCurrency": "RUB", "unitText": "MONTH", "billingDuration": "P1M"}, "description": "Ежемесячное сопровождение контракта с авансом и ГОЗ, без лимита операций", "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-avans/", "priceValidUntil": "2026-12-31"}, "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-avans/"}
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": ["https://kaznaexpert.ru/img/og/uslugi__soprovozhdenie-avans-16x9.jpg", "https://kaznaexpert.ru/img/og/uslugi__soprovozhdenie-avans-4x3.webp", "https://kaznaexpert.ru/img/og/uslugi__soprovozhdenie-avans-1x1.webp"], "datePublished": "2026-06-25", "dateModified": "2026-09-02", "name": "Казначейское сопровождение контракта с авансом и ГОЗ", "serviceType": "Казначейское сопровождение авансового госконтракта и контракта по гособоронзаказу (275-ФЗ)", "description": "Сопровождение контракта с авансом и контрактов по ГОЗ от поступления аванса до закрытия: сведения об операциях, санкционирование каждого платежа, ИГК в документах, счета и платежи соисполнителей, раздельный учёт, вывод прибыли. Без лимита на число операций.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "105000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "priceSpecification": {"@type": "UnitPriceSpecification", "price": "105000", "priceCurrency": "RUB", "unitText": "MONTH", "billingDuration": "P1M"}, "description": "Ежемесячное сопровождение контракта с авансом и ГОЗ, без лимита операций", "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-avans/", "priceValidUntil": "2026-12-31"}, "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-avans/"}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Сопровождение: аванс"}]}
@@ -86,9 +86,9 @@
 <meta property="og:title" content="Сопровождение контракта с авансом и ГОЗ — 105 000 ₽/мес">
 <meta property="og:description" content="От поступления аванса до закрытия: сведения, каждый платёж, ИГК, соисполнители, раздельный учёт. Без лимита на операции.">
 <meta property="og:url" content="https://kaznaexpert.ru/uslugi/soprovozhdenie-avans/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/uslugi__soprovozhdenie-avans-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Сопровождение контракта с авансом и ГОЗ — 105 000 ₽/мес — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-09-02T09:00:00+03:00">
@@ -97,7 +97,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Сопровождение контракта с авансом и ГОЗ — 105 000 ₽/мес">
 <meta name="twitter:description" content="От поступления аванса до закрытия: сведения, каждый платёж, ИГК, соисполнители, раздельный учёт. Без лимита на операции.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/uslugi__soprovozhdenie-avans-16x9.jpg">
 
 <link rel="stylesheet" href="/css/landing-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/landing-shared.css') ?>">
 </head>

@@ -69,9 +69,9 @@
 <meta property="og:title" content="Чек-лист выхода на первый контракт с казначейским сопровождением (PDF)">
 <meta property="og:description" content="Бесплатный чек-лист PDF: полный маршрут исполнителя к первому госконтракту с казначейским сопровождением — сводный реестр, ЭЦП, лицевой счёт, первый платёж. Для печати.">
 <meta property="og:url" content="https://kaznaexpert.ru/materialy/checklist-pervyy-kontrakt/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/materialy__checklist-pervyy-kontrakt-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Чек-лист выхода на первый контракт с казначейским сопровождением (PDF)">
 <meta property="article:published_time" content="2026-06-05T10:00:00+03:00">
 <meta property="article:modified_time" content="2026-07-13T10:00:00+03:00">
@@ -80,7 +80,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Чек-лист выхода на первый контракт с казначейским сопровождением (PDF)">
 <meta name="twitter:description" content="Бесплатный чек-лист PDF: полный маршрут исполнителя к первому госконтракту с казначейским сопровождением — сводный реестр, ЭЦП, лицевой счёт, первый платёж. Для печати.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/materialy__checklist-pervyy-kontrakt-16x9.jpg">
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
 </head>

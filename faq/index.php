@@ -81,9 +81,9 @@ echo json_encode(['@context' => 'https://schema.org', '@type' => 'FAQPage',
 <meta property="og:title" content="Частые вопросы о казначейском сопровождении — FAQ">
 <meta property="og:description" content="Ответы эксперта на частые вопросы о казначейском сопровождении: счета, санкционирование, ГОЗ, раздельный учёт, ГИИС «Электронный бюджет», услуги и цены. 160+ вопросов по рубрикам.">
 <meta property="og:url" content="https://kaznaexpert.ru/faq/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/faq-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Частые вопросы о казначейском сопровождении — FAQ">
 <meta property="article:published_time" content="2026-06-05T10:00:00+03:00">
 <meta property="article:modified_time" content="2026-07-13T10:00:00+03:00">
@@ -92,7 +92,7 @@ echo json_encode(['@context' => 'https://schema.org', '@type' => 'FAQPage',
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Частые вопросы о казначейском сопровождении — FAQ">
 <meta name="twitter:description" content="Ответы эксперта на частые вопросы о казначейском сопровождении: счета, санкционирование, ГОЗ, раздельный учёт, ГИИС «Электронный бюджет», услуги и цены. 160+ вопросов по рубрикам.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/faq-16x9.jpg">
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
 </head>

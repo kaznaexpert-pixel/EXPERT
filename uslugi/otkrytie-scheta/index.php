@@ -25,7 +25,7 @@
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "datePublished": "2026-06-25", "dateModified": "2026-09-01", "name": "Открытие казначейского счёта под ключ", "serviceType": "Открытие лицевого счёта в Федеральном казначействе (УФК)", "description": "Открытие казначейского счёта за два рабочих дня: анализ контракта, пакет документов, включение в сводный реестр, открытие счёта в УФК и настройка «Электронного бюджета». Без возвратов, гарантия в договоре.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "35000", "priceCurrency": "RUB", "description": "Открытие казначейского счёта под ключ, разово", "url": "https://kaznaexpert.ru/uslugi/otkrytie-scheta/", "priceValidUntil": "2026-12-31"}, "url": "https://kaznaexpert.ru/uslugi/otkrytie-scheta/"}
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": ["https://kaznaexpert.ru/img/og/uslugi__otkrytie-scheta-16x9.jpg", "https://kaznaexpert.ru/img/og/uslugi__otkrytie-scheta-4x3.webp", "https://kaznaexpert.ru/img/og/uslugi__otkrytie-scheta-1x1.webp"], "datePublished": "2026-06-25", "dateModified": "2026-09-01", "name": "Открытие казначейского счёта под ключ", "serviceType": "Открытие лицевого счёта в Федеральном казначействе (УФК)", "description": "Открытие казначейского счёта за два рабочих дня: анализ контракта, пакет документов, включение в сводный реестр, открытие счёта в УФК и настройка «Электронного бюджета». Без возвратов, гарантия в договоре.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "35000", "priceCurrency": "RUB", "description": "Открытие казначейского счёта под ключ, разово", "url": "https://kaznaexpert.ru/uslugi/otkrytie-scheta/", "priceValidUntil": "2026-12-31"}, "url": "https://kaznaexpert.ru/uslugi/otkrytie-scheta/"}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Открытие казначейского счёта"}]}
@@ -85,9 +85,9 @@
 <meta property="og:title" content="Открытие казначейского счёта за 2 рабочих дня — под ключ">
 <meta property="og:description" content="Документы, сводный реестр, открытие счёта в УФК и настройка Электронного бюджета. Без возвратов, гарантия в договоре.">
 <meta property="og:url" content="https://kaznaexpert.ru/uslugi/otkrytie-scheta/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/uslugi__otkrytie-scheta-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Открытие казначейского счёта под ключ: сопровождение за 2 дня">
 <meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-09-01T09:00:00+03:00">
@@ -96,7 +96,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Открытие казначейского счёта под ключ: сопровождение за 2 дня">
 <meta name="twitter:description" content="Сопровождение открытия казначейского счёта юридическому лицу под ключ за два рабочих дня: документы по 44н, МЧД, сводный реестр, «Электронный бюджет». Фикс 35 000 ₽.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/uslugi__otkrytie-scheta-16x9.jpg">
 
 <!-- Schema: Article -->
 <!-- Schema: HowTo -->

@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение по 223-ФЗ: когда применяется в 2026 году", "description": "Подлежат ли контракты по 223-ФЗ казначейскому сопровождению: казначейское сопровождение зависит не от закона о закупке, а от целевого характера средств (субсидии, инвестиции, взносы). Режим лицевого счёта и санкционирования, отличие от 44-ФЗ.", "inLanguage": "ru-RU", "datePublished": "2026-06-15", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-223-fz/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/", "https://www.consultant.ru/document/cons_doc_LAW_116964/", "http://publication.pravo.gov.ru/", "https://www.consultant.ru/document/cons_doc_LAW_34661/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение по 223-ФЗ: когда применяется в 2026 году", "description": "Подлежат ли контракты по 223-ФЗ казначейскому сопровождению: казначейское сопровождение зависит не от закона о закупке, а от целевого характера средств (субсидии, инвестиции, взносы). Режим лицевого счёта и санкционирования, отличие от 44-ФЗ.", "inLanguage": "ru-RU", "datePublished": "2026-06-15", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-po-223-fz-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-po-223-fz-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-po-223-fz-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-223-fz/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/", "https://www.consultant.ru/document/cons_doc_LAW_116964/", "http://publication.pravo.gov.ru/", "https://www.consultant.ru/document/cons_doc_LAW_34661/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "казначейское сопровождение по 223-ФЗ", "item": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-223-fz/"}]}
@@ -65,7 +65,7 @@
 ]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -105,9 +105,9 @@
 <meta property="og:title" content="Казначейское сопровождение по 223-ФЗ: когда применяется в 2026 году">
 <meta property="og:description" content="казначейское сопровождение по 223-ФЗ включается при целевых средствах: субсидиях, инвестициях, взносах в капитал по ст. 5 № 426-ФЗ. Лицевой счёт, идентификатор, санкционирование; закупки за счёт собственных средств — без казначейского сопровождения.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-po-223-fz/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-po-223-fz-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Казначейское сопровождение по 223-ФЗ: когда применяется в 2026 году — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-15T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
@@ -116,7 +116,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Казначейское сопровождение по 223-ФЗ: когда применяется в 2026 году">
 <meta name="twitter:description" content="казначейское сопровождение по 223-ФЗ включается при целевых средствах: субсидиях, инвестициях, взносах в капитал по ст. 5 № 426-ФЗ. Лицевой счёт, идентификатор, санкционирование; закупки за счёт собственных средств — без казначейского сопровождения.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-po-223-fz-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"npa", cluster:"normativka"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Article", "Legislation"], "headline": "426-ФЗ о федеральном бюджете на 2026 год: какие контракты попадают под казначейское сопровождение", "description": "Задаёт на 2026 год конкретные случаи и стоимостные пороги обязательного казначейском сопровождении средств федерального бюджета, включая авансы по госконтрактам.", "datePublished": "2026-06-06T10:00:00+03:00", "dateModified": "2026-08-31T10:00:00+03:00", "inLanguage": "ru-RU", "legislationIdentifier": "426-ФЗ", "about": "Федеральный закон от 28.11.2025 № 426-ФЗ «О федеральном бюджете на 2026 год и на плановый период 2027 и 2028 годов»", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/fz-426-byudzhet-2026/"}, "image": "https://kaznaexpert.ru/img/og-image.png"}
+{"@context": "https://schema.org", "@type": ["Article", "Legislation"], "headline": "426-ФЗ о федеральном бюджете на 2026 год: какие контракты попадают под казначейское сопровождение", "description": "Задаёт на 2026 год конкретные случаи и стоимостные пороги обязательного казначейском сопровождении средств федерального бюджета, включая авансы по госконтрактам.", "datePublished": "2026-06-06T10:00:00+03:00", "dateModified": "2026-08-31T10:00:00+03:00", "inLanguage": "ru-RU", "legislationIdentifier": "426-ФЗ", "about": "Федеральный закон от 28.11.2025 № 426-ФЗ «О федеральном бюджете на 2026 год и на плановый период 2027 и 2028 годов»", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/fz-426-byudzhet-2026/"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__fz-426-byudzhet-2026-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__fz-426-byudzhet-2026-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__fz-426-byudzhet-2026-1x1.webp"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Нормативная база", "item": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/"}, {"@type": "ListItem", "position": 4, "name": "426-ФЗ (бюджет на 2026)"}]}
@@ -72,9 +72,9 @@
 <meta property="og:title" content="426-ФЗ о бюджете на 2026: какие контракты под сопровождением">
 <meta property="og:description" content="Задаёт на 2026 год конкретные случаи и стоимостные пороги обязательного казначейском сопровождении средств федерального бюджета, включая авансы по госконтрактам.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/fz-426-byudzhet-2026/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__fz-426-byudzhet-2026-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="426-ФЗ о бюджете на 2026: какие контракты под сопровождением">
 <meta property="article:published_time" content="2026-06-06T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
@@ -83,7 +83,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="426-ФЗ о бюджете на 2026: какие контракты под сопровождением">
 <meta name="twitter:description" content="Задаёт на 2026 год конкретные случаи и стоимостные пороги обязательного казначейском сопровождении средств федерального бюджета, включая авансы по госконтрактам.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__fz-426-byudzhet-2026-16x9.jpg">
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
 </head>

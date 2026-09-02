@@ -26,42 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Существенные условия контракта по ГОЗ в 2026: отдельный счёт, ИГК, сопровождение",
-  "description": "Существенные условия государственного контракта по ГОЗ: предмет, цена и её вид, ИГК, отдельный счёт и режим использования, банковское или казначейское сопровождение, кооперация. Чек-лист проверки контракта.",
-  "inLanguage": "ru-RU",
-  "datePublished": "2026-06-09",
-  "dateModified": "2026-08-31",
-  "author": {
-    "@type": "Person",
-    "name": "Ярослав Михайлов",
-    "jobTitle": "Главный эксперт по казначейскому сопровождению",
-    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
-    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "КазнаЭксперт",
-    "url": "https://kaznaexpert.ru",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://kaznaexpert.ru/img/logogold.png"
-    },
-    "@id": "https://kaznaexpert.ru/#organization"
-  },
-  "image": "https://kaznaexpert.ru/img/og-image.png",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://kaznaexpert.ru/baza-znaniy/suschestvennye-usloviya-kontrakta-goz/"
-  },
-  "citation": [
-    "https://www.consultant.ru/document/cons_doc_LAW_140175/",
-    "https://www.garant.ru/news/1568443/",
-    "https://www.consultant.ru/document/cons_doc_LAW_144624/"
-  ]
-}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Существенные условия контракта по ГОЗ в 2026: отдельный счёт, ИГК, сопровождение", "description": "Существенные условия государственного контракта по ГОЗ: предмет, цена и её вид, ИГК, отдельный счёт и режим использования, банковское или казначейское сопровождение, кооперация. Чек-лист проверки контракта.", "inLanguage": "ru-RU", "datePublished": "2026-06-09", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__suschestvennye-usloviya-kontrakta-goz-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__suschestvennye-usloviya-kontrakta-goz-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__suschestvennye-usloviya-kontrakta-goz-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/suschestvennye-usloviya-kontrakta-goz/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_140175/", "https://www.garant.ru/news/1568443/", "https://www.consultant.ru/document/cons_doc_LAW_144624/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Существенные условия контракта по ГОЗ"}]}
@@ -86,7 +51,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Глоссарий: Существенные условия контракта по ГОЗ в 2026: отдельный счёт, ИГК, сопровождение", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "ГОЗ", "description": "Государственный оборонный заказ (Федеральный закон № 275-ФЗ)."}, {"@type": "DefinedTerm", "name": "Существенные условия", "description": "Условия, без которых контракт считается незаключённым."}, {"@type": "DefinedTerm", "name": "Отдельный счёт", "description": "Счёт с режимом использования для расчётов по ГОЗ."}, {"@type": "DefinedTerm", "name": "Режим использования", "description": "Правила расходования средств с отдельного счёта."}, {"@type": "DefinedTerm", "name": "ИГК", "description": "Идентификатор государственного контракта (в ГОЗ — 25 знаков)."}, {"@type": "DefinedTerm", "name": "Уполномоченный банк", "description": "Банк, ведущий банковское сопровождение ГОЗ."}, {"@type": "DefinedTerm", "name": "Кооперация", "description": "Цепочка головного исполнителя и соисполнителей по контракту."}, {"@type": "DefinedTerm", "name": "Типовые условия контрактов по гособоронзаказу", "description": "Условия, определённые Правительством по п. 1 ч. 1 ст. 12 № 275-ФЗ; включаются в контракты с исполнителями в силу п. 1.1 ч. 1 и п. 1.1 ч. 2 ст. 8."}, {"@type": "DefinedTerm", "name": "Режим использования отдельного счёта", "description": "Правила ст. 8.3 № 275-ФЗ: списание только с указанием идентификатора контракта и только на другой отдельный счёт, кроме закрытого перечня изъятий."}, {"@type": "DefinedTerm", "name": "Каталогизация продукции", "description": "Включение сведений о товарах в федеральный каталог продукции для федеральных нужд; условие об этом переносится в контракты с исполнителями (пп. 21.1–21.3 ч. 1 ст. 8)."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -126,9 +91,9 @@
 <meta property="og:title" content="Существенные условия контракта по ГОЗ: счёт, ИГК, сопровождение">
 <meta property="og:description" content="Что проверить в контракте по гособоронзаказу: отдельный счёт, ИГК, форма сопровождения, кооперация. Чек-лист по 275-ФЗ и 44-ФЗ.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/suschestvennye-usloviya-kontrakta-goz/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__suschestvennye-usloviya-kontrakta-goz-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Существенные условия контракта по ГОЗ: счёт, ИГК, сопровождение — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-09T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
@@ -137,7 +102,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Существенные условия контракта по ГОЗ: счёт, ИГК, сопровождение">
 <meta name="twitter:description" content="Что проверить в контракте по гособоронзаказу: отдельный счёт, ИГК, форма сопровождения, кооперация. Чек-лист по 275-ФЗ и 44-ФЗ.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__suschestvennye-usloviya-kontrakta-goz-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

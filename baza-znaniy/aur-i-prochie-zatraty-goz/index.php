@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "АУР и прочие затраты в гособоронзаказе: состав, распределение и что снимет заказчик", "description": "АУР и прочие затраты по приказу Минпромторга № 334: чем строка 1600 отличается от общехозяйственных затрат, база распределения и что заказчик снимает из цены.", "inLanguage": "ru-RU", "datePublished": "2026-08-31", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/aur-i-prochie-zatraty-goz/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "АУР и прочие затраты в гособоронзаказе: состав, распределение и что снимет заказчик", "description": "АУР и прочие затраты по приказу Минпромторга № 334: чем строка 1600 отличается от общехозяйственных затрат, база распределения и что заказчик снимает из цены.", "inLanguage": "ru-RU", "datePublished": "2026-08-31", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__aur-i-prochie-zatraty-goz-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__aur-i-prochie-zatraty-goz-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__aur-i-prochie-zatraty-goz-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/aur-i-prochie-zatraty-goz/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "АУР и прочие затраты в ГОЗ", "item": "https://kaznaexpert.ru/baza-znaniy/aur-i-prochie-zatraty-goz/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: АУР и косвенные затраты в ГОЗ", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "АУР", "description": "Административно-управленческие расходы — затраты на управление организацией в целом; в калькуляции цены продукции гособоронзаказа отражаются по строке 1600 приложения № 1 к приказу Минпромторга России № 334."}, {"@type": "DefinedTerm", "name": "Общепроизводственные затраты", "description": "Затраты, связанные с управлением и обслуживанием производства; строка 0800 калькуляции, состав — приложение № 5 к Порядку."}, {"@type": "DefinedTerm", "name": "Общехозяйственные затраты", "description": "Затраты, связанные с управлением деятельностью организации в целом; строка 0900 калькуляции, состав — приложение № 6 к Порядку."}, {"@type": "DefinedTerm", "name": "База распределения", "description": "Показатель прямых затрат, пропорционально которому косвенные затраты включаются в себестоимость продукции контракта; приоритетный показатель — основная заработная плата основных работников."}, {"@type": "DefinedTerm", "name": "Производственная себестоимость", "description": "Сумма затрат по строкам 0100–1200 калькуляции; строка 1300 приложения № 1 к Порядку."}, {"@type": "DefinedTerm", "name": "Себестоимость продукции", "description": "Производственная себестоимость с добавлением коммерческих затрат и административно-управленческих расходов; строка 1700 приложения № 1 к Порядку."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="АУР и прочие затраты в ГОЗ: состав и распределение">
 <meta property="og:description" content="Административно-управленческие расходы — отдельная статья калькуляции (строка 1600), применяется вместо общехозяйственных затрат. База распределения, ограничения, типовые отказы.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/aur-i-prochie-zatraty-goz/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__aur-i-prochie-zatraty-goz-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="АУР и прочие затраты в ГОЗ: состав и распределение — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="АУР и прочие затраты в ГОЗ: состав и распределение">
 <meta name="twitter:description" content="Административно-управленческие расходы — отдельная статья калькуляции (строка 1600), применяется вместо общехозяйственных затрат. База распределения, ограничения, типовые отказы.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__aur-i-prochie-zatraty-goz-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

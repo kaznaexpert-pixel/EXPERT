@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Экономия по госконтракту: кому она остаётся и как её получить исполнителю", "description": "Выполнили контракт дешевле цены: остаётся ли экономия подрядчику. Ст. 710 ГК, твёрдая цена 44-ФЗ, граница с невыполненным объёмом, ГОЗ и вывод с лицевого счёта.", "inLanguage": "ru-RU", "datePublished": "2026-07-29", "dateModified": "2026-08-28", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/ekonomiya-po-goskontraktu/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Экономия по госконтракту: кому она остаётся и как её получить исполнителю", "description": "Выполнили контракт дешевле цены: остаётся ли экономия подрядчику. Ст. 710 ГК, твёрдая цена 44-ФЗ, граница с невыполненным объёмом, ГОЗ и вывод с лицевого счёта.", "inLanguage": "ru-RU", "datePublished": "2026-07-29", "dateModified": "2026-08-28", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__ekonomiya-po-goskontraktu-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__ekonomiya-po-goskontraktu-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__ekonomiya-po-goskontraktu-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/ekonomiya-po-goskontraktu/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Экономия по контракту", "item": "https://kaznaexpert.ru/baza-znaniy/ekonomiya-po-goskontraktu/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: экономия по контракту", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Экономия подрядчика", "description": "положительная разница между ценой работы по договору и меньшими фактическими расходами подрядчика при достижении предусмотренного договором результата (ст. 710 ГК)."}, {"@type": "DefinedTerm", "name": "Твёрдая цена", "description": "цена контракта, установленная на весь срок исполнения и не подлежащая пересчёту по фактическим затратам (ч. 2 ст. 34 закона № 44-ФЗ)."}, {"@type": "DefinedTerm", "name": "Распределение экономии", "description": "договорное условие по п. 2 ст. 710 ГК о разделе полученной экономии между заказчиком и подрядчиком; без него вся экономия остаётся подрядчику."}, {"@type": "DefinedTerm", "name": "Окончательные расчёты", "description": "завершающие операции по лицевому счёту после исполнения контракта: оплата, возмещение, перечисление исполнителю остатка, включая прибыль и экономию."}, {"@type": "DefinedTerm", "name": "Фиксированная цена (ГОЗ)", "description": "вид цены на продукцию гособоронзаказа, не подлежащий пересмотру при полном исполнении контракта; превышение фактической прибыли над плановой не является основанием пересмотра."}, {"@type": "DefinedTerm", "name": "Соразмерное уменьшение цены", "description": "способ защиты заказчика при ненадлежащем качестве (ст. 723 ГК): снижение оплаты пропорционально недостаткам результата."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Экономия по госконтракту: кому остаётся и как получить">
 <meta property="og:description" content="Экономия подрядчика по статье 710 ГК остаётся исполнителю, если не пострадало качество. Где граница между экономией и невыполненным объёмом, что с фиксированной ценой по гособоронзаказу и как вывести экономию с лицевого счёта.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/ekonomiya-po-goskontraktu/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__ekonomiya-po-goskontraktu-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Экономия по госконтракту: кому остаётся и как получить — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-28T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Экономия по госконтракту: кому остаётся и как получить">
 <meta name="twitter:description" content="Экономия подрядчика по статье 710 ГК остаётся исполнителю, если не пострадало качество. Где граница между экономией и невыполненным объёмом, что с фиксированной ценой по гособоронзаказу и как вывести экономию с лицевого счёта.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__ekonomiya-po-goskontraktu-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

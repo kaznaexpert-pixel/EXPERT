@@ -25,7 +25,7 @@
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"about", cluster:"company"};</script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "AboutPage", "name": "О компании КазнаЭксперт", "url": "https://kaznaexpert.ru/o-kompanii/", "dateModified": "2026-07-22", "mainEntity": {"@type": "ProfessionalService", "name": "КазнаЭксперт", "description": "Казначейское сопровождение госконтрактов под ключ по всей России: открытие и резервирование лицевых счетов в ТОФК, ведение операций, ГОЗ, спасение проблемных контрактов.", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "email": "manager@kaznaexpert.ru", "areaServed": {"@type": "Country", "name": "Россия"}, "founder": {"@type": "Person", "name": "Ярослав Михайлов", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "knowsAbout": ["Казначейское сопровождение", "Гособоронзаказ", "Лицевые счета в казначействе", "Санкционирование расходов", "Раздельный учёт по ГОЗ"], "identifier": [{"@type": "PropertyValue", "name": "ОГРНИП", "value": "321784700367672"}, {"@type": "PropertyValue", "name": "ИНН", "value": "781428314589"}], "@id": "https://kaznaexpert.ru/#organization"}}
+{"@context": "https://schema.org", "@type": "AboutPage", "name": "О компании КазнаЭксперт", "url": "https://kaznaexpert.ru/o-kompanii/", "dateModified": "2026-07-22", "mainEntity": {"@type": "ProfessionalService", "name": "КазнаЭксперт", "description": "Казначейское сопровождение госконтрактов под ключ по всей России: открытие и резервирование лицевых счетов в ТОФК, ведение операций, ГОЗ, спасение проблемных контрактов.", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "email": "manager@kaznaexpert.ru", "areaServed": {"@type": "Country", "name": "Россия"}, "founder": {"@type": "Person", "name": "Ярослав Михайлов", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "knowsAbout": ["Казначейское сопровождение", "Гособоронзаказ", "Лицевые счета в казначействе", "Санкционирование расходов", "Раздельный учёт по ГОЗ"], "identifier": [{"@type": "PropertyValue", "name": "ОГРНИП", "value": "321784700367672"}, {"@type": "PropertyValue", "name": "ИНН", "value": "781428314589"}], "@id": "https://kaznaexpert.ru/#organization"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Кто ведёт КазнаЭксперт?", "acceptedAnswer": {"@type": "Answer", "text": "Практику основал и ведёт Ярослав Михайлов — эксперт по казначейскому сопровождению, работавший в системе Федерального казначейства с 2009 по 2019 год. С 2021 года практика работает как ИП «КазнаЭксперт»."}}, {"@type": "Question", "name": "Как проверить компанию перед началом работы?", "acceptedAnswer": {"@type": "Answer", "text": "По открытым реестрам: карточки ИП на Rusprofile, «За честный бизнес» и Audit-it — прямые ссылки есть в подвале сайта и на этой странице. Реквизиты: ИП Михайлов Ярослав Алексеевич, ИНН 781428314589, ОГРНИП 321784700367672."}}, {"@type": "Question", "name": "С какими контрактами вы работаете?", "acceptedAnswer": {"@type": "Answer", "text": "Сопровождаем контракты по 44-ФЗ, 223-ФЗ и гособоронзаказу (275-ФЗ): открытие и ведение лицевых счетов, санкционирование, раздельный учёт, отчётность. Отдельно берём спасение проблемных контрактов и аудит текущего сопровождения."}}, {"@type": "Question", "name": "Работаете ли вы с регионами?", "acceptedAnswer": {"@type": "Answer", "text": "Да, по всей России дистанционно: лицевой счёт открывается в любом территориальном органе Федерального казначейства через «Электронный бюджет», личное присутствие не требуется. Базовый офис — Санкт-Петербург."}}]}
@@ -71,9 +71,9 @@
 <meta property="og:title" content="О компании КазнаЭксперт">
 <meta property="og:description" content="Практика казначейского сопровождения госконтрактов. Опыт изнутри Федерального казначейства с 2009 года, вся РФ, проверка в реестрах.">
 <meta property="og:url" content="https://kaznaexpert.ru/o-kompanii/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/o-kompanii-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-07-22T09:00:00+03:00">
@@ -82,7 +82,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Ярослав Михайлов — Основатель · главный эксперт">
 <meta name="twitter:description" content="Ярослав Михайлов — основатель КазнаЭксперт, эксперт по казначейскому сопровождению. Окончил СПбГУ, в Федеральном казначействе с 2009 по 2019 год. Ведёт сложные кейсы, ГОЗ и спасение контрактов.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/o-kompanii-16x9.jpg">
 
 <link rel="stylesheet" href="/css/landing-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/landing-shared.css') ?>">
 </head>

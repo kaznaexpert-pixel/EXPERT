@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"article", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Кто попадает под казначейское сопровождение в 2026 году: пороги, случаи и контракты", "description": "Кто попадает под казначейское сопровождение в 2026: пороги 100 / 10 / 3 млн ₽, какие контракты, авансы, субсидии и ГОЗ по статье 5 Закона № 426-ФЗ.", "datePublished": "2026-06-07T09:08:00+03:00", "dateModified": "2026-08-16", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/"}, "image": "https://kaznaexpert.ru/img/og-image.png", "citation": ["https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/", "https://www.consultant.ru/document/cons_doc_LAW_19702/", "https://www.consultant.ru/document/cons_doc_LAW_401819/", "https://www.consultant.ru/document/cons_doc_LAW_144624/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Кто попадает под казначейское сопровождение в 2026 году: пороги, случаи и контракты", "description": "Кто попадает под казначейское сопровождение в 2026: пороги 100 / 10 / 3 млн ₽, какие контракты, авансы, субсидии и ГОЗ по статье 5 Закона № 426-ФЗ.", "datePublished": "2026-06-07T09:08:00+03:00", "dateModified": "2026-08-16", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__kto-popadaet-pod-kaznacheyskoe-soprovozhdenie-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__kto-popadaet-pod-kaznacheyskoe-soprovozhdenie-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__kto-popadaet-pod-kaznacheyskoe-soprovozhdenie-1x1.webp"], "citation": ["https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/", "https://www.consultant.ru/document/cons_doc_LAW_19702/", "https://www.consultant.ru/document/cons_doc_LAW_401819/", "https://www.consultant.ru/document/cons_doc_LAW_144624/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Кто попадает под казначейское сопровождение"}]}
@@ -75,9 +75,9 @@
 <meta property="og:title" content="Кто попадает под казначейское сопровождение в 2026 году">
 <meta property="og:description" content="Кто попадает под казначейское сопровождение в 2026: пороги 100 / 10 / 3 млн ₽, какие контракты, авансы, субсидии и ГОЗ по статье 5 Закона № 426-ФЗ.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__kto-popadaet-pod-kaznacheyskoe-soprovozhdenie-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-07T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-16T09:00:00+03:00">
@@ -86,7 +86,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Кто попадает под казначейское сопровождение в 2026 году">
 <meta name="twitter:description" content="Кто попадает под казначейское сопровождение в 2026: пороги 100 / 10 / 3 млн ₽, какие контракты, авансы, субсидии и ГОЗ по статье 5 Закона № 426-ФЗ.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__kto-popadaet-pod-kaznacheyskoe-soprovozhdenie-16x9.jpg">
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
 </head>

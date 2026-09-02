@@ -26,35 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"uchet"};</script>
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Сроки хранения документов по госконтракту и раздельному учёту",
-  "description": "Сколько хранить документы по госконтракту: 5 лет по бухучёту и налогам, 6 лет по 44-ФЗ, документы санкционирования и раздельного учёта ГОЗ. Таблица сроков.",
-  "inLanguage": "ru-RU",
-  "datePublished": "2026-07-31",
-  "dateModified": "2026-09-01",
-  "author": {
-    "@type": "Person",
-    "name": "Ярослав Михайлов",
-    "jobTitle": "Главный эксперт по казначейскому сопровождению",
-    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "КазнаЭксперт",
-    "url": "https://kaznaexpert.ru",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://kaznaexpert.ru/img/logogold.png"
-    }
-  },
-  "image": "https://kaznaexpert.ru/img/og-image.png",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://kaznaexpert.ru/baza-znaniy/sroki-hraneniya-dokumentov-po-goskontraktu/"
-  }
-}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Сроки хранения документов по госконтракту и раздельному учёту", "description": "Сколько хранить документы по госконтракту: 5 лет по бухучёту и налогам, 6 лет по 44-ФЗ, документы санкционирования и раздельного учёта ГОЗ. Таблица сроков.", "inLanguage": "ru-RU", "datePublished": "2026-07-31", "dateModified": "2026-09-01", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__sroki-hraneniya-dokumentov-po-goskontraktu-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__sroki-hraneniya-dokumentov-po-goskontraktu-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__sroki-hraneniya-dokumentov-po-goskontraktu-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/sroki-hraneniya-dokumentov-po-goskontraktu/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Сроки хранения документов", "item": "https://kaznaexpert.ru/baza-znaniy/sroki-hraneniya-dokumentov-po-goskontraktu/"}]}
@@ -69,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: хранение документов по госконтракту", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Первичный учётный документ", "description": "документ, которым оформляется каждый факт хозяйственной жизни; основа регистров бухгалтерского учёта и подтверждение расхода при проверке."}, {"@type": "DefinedTerm", "name": "Перечень Росархива № 236", "description": "Перечень типовых управленческих архивных документов, образующихся в процессе деятельности организаций, с указанием сроков хранения (приказ Росархива от 20.12.2019 № 236)."}, {"@type": "DefinedTerm", "name": "Отметка ЭПК", "description": "пометка в перечне архивных документов, означающая, что срок хранения определяется решением экспертной комиссии; часть таких документов хранится постоянно."}, {"@type": "DefinedTerm", "name": "Документы санкционирования", "description": "сведения об операциях с целевыми средствами, распоряжения о совершении казначейских платежей и документы-основания, представляемые при казначейском сопровождении."}, {"@type": "DefinedTerm", "name": "Раздельный учёт", "description": "учёт результатов финансово-хозяйственной деятельности по каждому контракту с обособлением доходов и расходов; обязателен по ГОЗ и по контрактам с казначейским сопровождением."}, {"@type": "DefinedTerm", "name": "Номенклатура дел", "description": "систематизированный перечень дел организации с индексами и сроками хранения; основа архивного порядка и законного уничтожения документов."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -109,9 +81,9 @@
 <meta property="og:title" content="Сроки хранения документов по госконтракту">
 <meta property="og:description" content="Сводная таблица сроков: бухгалтерская первичка и регистры, налоговые документы, закупочные документы по 44-ФЗ, документы санкционирования и раздельного учёта ГОЗ — и чем грозит их отсутствие при проверке.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/sroki-hraneniya-dokumentov-po-goskontraktu/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__sroki-hraneniya-dokumentov-po-goskontraktu-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Сроки хранения документов по госконтракту — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-09-01T09:00:00+03:00">
@@ -120,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Сроки хранения документов по госконтракту">
 <meta name="twitter:description" content="Сводная таблица сроков: бухгалтерская первичка и регистры, налоговые документы, закупочные документы по 44-ФЗ, документы санкционирования и раздельного учёта ГОЗ — и чем грозит их отсутствие при проверке.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__sroki-hraneniya-dokumentov-po-goskontraktu-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

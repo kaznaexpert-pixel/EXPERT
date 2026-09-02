@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Отчёт о расходах целевых средств: как заполнить и сдать при казначейском сопровождении", "description": "Отчёт о расходах целевых средств при казначейском сопровождении: чем отличается от сведений об операциях, как заполнить в «Электронном бюджете», сроки и коды.", "inLanguage": "ru-RU", "datePublished": "2026-06-18", "dateModified": "2026-09-01T10:00:00+03:00", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/otchet-o-rashodah-celevyh-sredstv/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/", "https://www.consultant.ru/document/cons_doc_LAW_402453/", "https://minfin.gov.ru/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Отчёт о расходах целевых средств: как заполнить и сдать при казначейском сопровождении", "description": "Отчёт о расходах целевых средств при казначейском сопровождении: чем отличается от сведений об операциях, как заполнить в «Электронном бюджете», сроки и коды.", "inLanguage": "ru-RU", "datePublished": "2026-06-18", "dateModified": "2026-09-01T10:00:00+03:00", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__otchet-o-rashodah-celevyh-sredstv-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__otchet-o-rashodah-celevyh-sredstv-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__otchet-o-rashodah-celevyh-sredstv-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/otchet-o-rashodah-celevyh-sredstv/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/", "https://www.consultant.ru/document/cons_doc_LAW_402453/", "https://minfin.gov.ru/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Отчёт о расходах целевых средств", "item": "https://kaznaexpert.ru/baza-znaniy/otchet-o-rashodah-celevyh-sredstv/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Глоссарий: отчётность при казначейском сопровождении", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Отчёт о расходах целевых средств", "description": "Отчётный документ, подтверждающий фактические расходы целевых средств под казначейским сопровождением, формируемый нарастающим итогом."}, {"@type": "DefinedTerm", "name": "Сведения об операциях с целевыми средствами", "description": "Документ, который формируется до расходования и служит основанием для санкционирования расходов."}, {"@type": "DefinedTerm", "name": "Отчёт о достижении результатов", "description": "Отчёт получателя субсидии или гранта о выполнении показателей, установленных соглашением."}, {"@type": "DefinedTerm", "name": "Нарастающий итог", "description": "Способ учёта, при котором данные накапливаются с начала финансового года к каждому следующему периоду."}, {"@type": "DefinedTerm", "name": "Код направления расходования", "description": "Кодовое обозначение направления расхода целевых средств по приложению № 3 к приказу Минфина № 214н."}, {"@type": "DefinedTerm", "name": "Электронный бюджет", "description": "Государственная интегрированная система, в которой формируется и подписывается отчётность по целевым средствам."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Отчёт о расходах целевых средств при казначейском сопровождении">
 <meta property="og:description" content="Как заполнить и сдать отчёт о расходах целевых средств при казначейском сопровождении: отличие от сведений об операциях, структура отчёта, сроки, коды направления по 214н и проверка казначейством.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/otchet-o-rashodah-celevyh-sredstv/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__otchet-o-rashodah-celevyh-sredstv-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Отчёт о расходах целевых средств при казначейском сопровождении — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-18T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-09-01T10:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Отчёт о расходах целевых средств при казначейском сопровождении">
 <meta name="twitter:description" content="Как заполнить и сдать отчёт о расходах целевых средств при казначейском сопровождении: отличие от сведений об операциях, структура отчёта, сроки, коды направления по 214н и проверка казначейством.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__otchet-o-rashodah-celevyh-sredstv-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

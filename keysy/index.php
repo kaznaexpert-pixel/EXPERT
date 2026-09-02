@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cases", cluster:"keysy"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "CollectionPage", "name": "Кейсы клиентов КазнаЭксперт", "url": "https://kaznaexpert.ru/keysy/", "description": "12 обезличенных кейсов казначейского сопровождения: открытие счетов, спасение контрактов, аванс и ГОЗ. Проблема, решение и результат: 44-ФЗ, 223-ФЗ, 275-ФЗ.", "dateModified": "2026-07-07", "isPartOf": {"@type": "WebSite", "url": "https://kaznaexpert.ru/"}}
+{"@context": "https://schema.org", "@type": "CollectionPage", "name": "Кейсы клиентов КазнаЭксперт", "url": "https://kaznaexpert.ru/keysy/", "description": "12 обезличенных кейсов казначейского сопровождения: открытие счетов, спасение контрактов, аванс и ГОЗ. Проблема, решение и результат: 44-ФЗ, 223-ФЗ, 275-ФЗ.", "dateModified": "2026-07-07", "isPartOf": {"@type": "WebSite", "url": "https://kaznaexpert.ru/"}, "image": ["https://kaznaexpert.ru/img/og/keysy-16x9.jpg", "https://kaznaexpert.ru/img/og/keysy-4x3.webp", "https://kaznaexpert.ru/img/og/keysy-1x1.webp"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Кейсы"}]}
@@ -69,9 +69,9 @@
 <meta property="og:title" content="Кейсы клиентов КазнаЭксперт">
 <meta property="og:description" content="12 обезличенных кейсов казначейского сопровождения: открытие счетов, спасение контрактов, аванс и ГОЗ. Проблема, решение и результат: 44-ФЗ, 223-ФЗ, 275-ФЗ.">
 <meta property="og:url" content="https://kaznaexpert.ru/keysy/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/keysy-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-07-07T09:00:00+03:00">
@@ -80,7 +80,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Кейсы клиентов КазнаЭксперт">
 <meta name="twitter:description" content="12 обезличенных кейсов казначейского сопровождения: открытие счетов, спасение контрактов, аванс и ГОЗ. Проблема, решение и результат: 44-ФЗ, 223-ФЗ, 275-ФЗ.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/keysy-16x9.jpg">
 
 <link rel="stylesheet" href="/css/landing-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/landing-shared.css') ?>">
 </head>

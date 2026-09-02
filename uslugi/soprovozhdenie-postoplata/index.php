@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "datePublished": "2026-06-25", "dateModified": "2026-08-31", "name": "Сопровождение постоплаты по госконтракту", "serviceType": "Проведение постоплаты по 44-ФЗ через казначейство", "description": "Проведение постоплаты по госконтракту без возвратов: проверка документов, платёжные поручения, работа с казначейством и контроль до зачисления средств. Повторная подача при замечаниях без доплат.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "65000", "priceCurrency": "RUB", "description": "Сопровождение постоплаты по госконтракту, по этапу", "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-postoplata/", "priceValidUntil": "2026-12-31"}, "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-postoplata/"}
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": ["https://kaznaexpert.ru/img/og/uslugi__soprovozhdenie-postoplata-16x9.jpg", "https://kaznaexpert.ru/img/og/uslugi__soprovozhdenie-postoplata-4x3.webp", "https://kaznaexpert.ru/img/og/uslugi__soprovozhdenie-postoplata-1x1.webp"], "datePublished": "2026-06-25", "dateModified": "2026-08-31", "name": "Сопровождение постоплаты по госконтракту", "serviceType": "Проведение постоплаты по 44-ФЗ через казначейство", "description": "Проведение постоплаты по госконтракту без возвратов: проверка документов, платёжные поручения, работа с казначейством и контроль до зачисления средств. Повторная подача при замечаниях без доплат.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "65000", "priceCurrency": "RUB", "description": "Сопровождение постоплаты по госконтракту, по этапу", "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-postoplata/", "priceValidUntil": "2026-12-31"}, "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-postoplata/"}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Сопровождение: постоплата"}]}
@@ -179,9 +179,9 @@
 <meta property="og:title" content="Постоплата по госконтракту — без возвратов и в срок">
 <meta property="og:description" content="Проведём постоплату по госконтракту без возвратов и в срок: проверка документов, работа с казначейством, контроль до зачисления. 65 000 ₽ фиксированно.">
 <meta property="og:url" content="https://kaznaexpert.ru/uslugi/soprovozhdenie-postoplata/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/uslugi__soprovozhdenie-postoplata-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Постоплата по госконтракту — без возвратов и в срок — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
@@ -190,7 +190,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Постоплата по госконтракту — без возвратов и в срок">
 <meta name="twitter:description" content="Проверка документов, работа с казначейством, контроль до зачисления. Повторная подача без доплат.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/uslugi__soprovozhdenie-postoplata-16x9.jpg">
 
 <link rel="stylesheet" href="/css/landing-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/landing-shared.css') ?>">
 </head>

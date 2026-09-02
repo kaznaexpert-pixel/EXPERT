@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"subsidii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Субсидия на государственное задание и казначейское сопровождение", "description": "Подпадает ли субсидия на государственное задание под казначейское сопровождение в 2026 году, чем она отличается от целевой субсидии и когда сопровождаются авансы.", "inLanguage": "ru-RU", "datePublished": "2026-08-03", "dateModified": "2026-08-27", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/subsidiya-na-gosudarstvennoe-zadanie/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Субсидия на государственное задание и казначейское сопровождение", "description": "Подпадает ли субсидия на государственное задание под казначейское сопровождение в 2026 году, чем она отличается от целевой субсидии и когда сопровождаются авансы.", "inLanguage": "ru-RU", "datePublished": "2026-08-03", "dateModified": "2026-08-27", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__subsidiya-na-gosudarstvennoe-zadanie-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__subsidiya-na-gosudarstvennoe-zadanie-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__subsidiya-na-gosudarstvennoe-zadanie-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/subsidiya-na-gosudarstvennoe-zadanie/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Субсидия на государственное задание", "item": "https://kaznaexpert.ru/baza-znaniy/subsidiya-na-gosudarstvennoe-zadanie/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: государственное задание и субсидии учреждениям", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Государственное (муниципальное) задание", "description": "документ, устанавливающий требования к составу, качеству, объёму, условиям, порядку и результатам оказания государственных услуг или выполнения работ (ст. 69.2 БК РФ)."}, {"@type": "DefinedTerm", "name": "Субсидия на выполнение задания", "description": "средства, доводимые учреждению на финансовое обеспечение выполнения государственного задания исходя из нормативных затрат (абз. 1 п. 1 ст. 78.1 БК РФ)."}, {"@type": "DefinedTerm", "name": "Субсидия на иные цели", "description": "целевая субсидия учреждению на расходы, не включённые в нормативные затраты по заданию; порядок предоставления строится по общим требованиям постановления Правительства РФ № 203."}, {"@type": "DefinedTerm", "name": "Грант в форме субсидии", "description": "средства, предоставляемые по п. 4 ст. 78.1 БК РФ, в том числе бюджетным и автономным учреждениям; подлежат казначейскому сопровождению без стоимостного порога."}, {"@type": "DefinedTerm", "name": "Целевые средства", "description": "средства, поименованные в статье 5 закона о федеральном бюджете, операции с которыми проводятся на лицевых счетах в казначействе с санкционированием расходов."}, {"@type": "DefinedTerm", "name": "Отдельный лицевой счёт учреждения", "description": "счёт с кодом 21 для бюджетного и 31 для автономного учреждения, на котором обособленно учитываются целевые субсидии и средства на капитальные вложения."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Субсидия на государственное задание и казначейское сопровождение">
 <meta property="og:description" content="Разбор по статье 5 Закона № 426-ФЗ: какие деньги учреждения сопровождаются, а какие нет, порог 10 млн рублей по авансам и что это значит для поставщиков учреждений.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/subsidiya-na-gosudarstvennoe-zadanie/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__subsidiya-na-gosudarstvennoe-zadanie-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Субсидия на государственное задание и казначейское сопровождение — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-27T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Субсидия на государственное задание и казначейское сопровождение">
 <meta name="twitter:description" content="Разбор по статье 5 Закона № 426-ФЗ: какие деньги учреждения сопровождаются, а какие нет, порог 10 млн рублей по авансам и что это значит для поставщиков учреждений.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__subsidiya-na-gosudarstvennoe-zadanie-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

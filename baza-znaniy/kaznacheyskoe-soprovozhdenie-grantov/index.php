@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"subsidii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение грантов в форме субсидий", "description": "Когда грант в форме субсидии попадает под казначейское сопровождение в 2026: правовая основа по ст. 78.1 БК, кто получатели, режим целевых средств и отчётность.", "inLanguage": "ru-RU", "datePublished": "2026-06-18", "dateModified": "2026-08-08", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-grantov/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/2a2fd8efeffb727e38658d8fcbfc12849b352733/", "https://www.consultant.ru/document/cons_doc_LAW_19702/", "http://pravo.gov.ru/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение грантов в форме субсидий", "description": "Когда грант в форме субсидии попадает под казначейское сопровождение в 2026: правовая основа по ст. 78.1 БК, кто получатели, режим целевых средств и отчётность.", "inLanguage": "ru-RU", "datePublished": "2026-06-18", "dateModified": "2026-08-08", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-grantov-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-grantov-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-grantov-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-grantov/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/2a2fd8efeffb727e38658d8fcbfc12849b352733/", "https://www.consultant.ru/document/cons_doc_LAW_19702/", "http://pravo.gov.ru/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Сопровождение грантов", "item": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-grantov/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Глоссарий: казначейское сопровождение грантов", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Грант в форме субсидии", "description": "Бюджетные средства на безвозмездной и безвозвратной основе, предоставляемые по пункту 4 статьи 78.1 БК, как правило, по результатам отбора."}, {"@type": "DefinedTerm", "name": "Казначейское сопровождение", "description": "Режим, при котором целевые средства зачисляются на лицевой счёт в казначействе, а каждый расход санкционируется."}, {"@type": "DefinedTerm", "name": "Целевые средства", "description": "Средства с установленным назначением, расходование которых контролирует казначейство."}, {"@type": "DefinedTerm", "name": "Соглашение о предоставлении гранта", "description": "Договор между грантодателем и получателем, в котором фиксируются цели, результаты и условия, включая сопровождение."}, {"@type": "DefinedTerm", "name": "Санкционирование", "description": "Проверка казначейством каждого расхода на соответствие целям и подтверждённость документами до проведения платежа."}, {"@type": "DefinedTerm", "name": "Идентификатор соглашения", "description": "Уникальный код соглашения, который указывается в документах и платежах по гранту."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Казначейское сопровождение грантов в форме субсидий">
 <meta property="og:description" content="Гранты в форме субсидий под казначейским сопровождением: правовая основа по п. 4 ст. 78.1 БК и главе 24.4, кто из получателей попадает под казначейское сопровождение в 2026, режим целевых средств, лицевой счёт и отчётность.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-grantov/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-grantov-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Казначейское сопровождение грантов в форме субсидий — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-18T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-08T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Казначейское сопровождение грантов в форме субсидий">
 <meta name="twitter:description" content="Гранты в форме субсидий под казначейским сопровождением: правовая основа по п. 4 ст. 78.1 БК и главе 24.4, кто из получателей попадает под казначейское сопровождение в 2026, режим целевых средств, лицевой счёт и отчётность.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-grantov-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

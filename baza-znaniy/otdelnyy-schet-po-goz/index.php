@@ -26,45 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Отдельный счёт по ГОЗ: режим использования, запрещённые операции и вывод прибыли",
-  "description": "Отдельный счёт по гособоронзаказу в уполномоченном банке: режим ст. 8.3 № 275-ФЗ, запрещённые операции ст. 8.4, лимит «иных расходов» с индексацией, мораторий по зарплате и порядок вывода прибыли.",
-  "inLanguage": "ru-RU",
-  "datePublished": "2026-06-12",
-  "dateModified": "2026-08-14",
-  "author": {
-    "@type": "Person",
-    "name": "Ярослав Михайлов",
-    "jobTitle": "Главный эксперт по казначейскому сопровождению",
-    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
-    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "КазнаЭксперт",
-    "url": "https://kaznaexpert.ru",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://kaznaexpert.ru/img/logogold.png"
-    },
-    "@id": "https://kaznaexpert.ru/#organization"
-  },
-  "image": "https://kaznaexpert.ru/img/og-image.png",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://kaznaexpert.ru/baza-znaniy/otdelnyy-schet-po-goz/"
-  },
-  "citation": [
-    "https://www.consultant.ru/document/cons_doc_LAW_140175/42f2ebc16f058a3f73a37ad8bee6cd894857fb46/",
-    "https://www.consultant.ru/document/cons_doc_LAW_140175/",
-    "https://www.consultant.ru/document/cons_doc_LAW_140175/57abb8d1c98491ad8c16d16391568c38135abc7d/",
-    "http://publication.pravo.gov.ru/document/0001202312120050",
-    "https://www.economy.gov.ru/",
-    "https://www.consultant.ru/document/cons_doc_LAW_140175/a5f95674709f710d3cc64fa9f4df596b66be2c4c/"
-  ]
-}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Отдельный счёт по ГОЗ: режим использования, запрещённые операции и вывод прибыли", "description": "Отдельный счёт по гособоронзаказу в уполномоченном банке: режим ст. 8.3 № 275-ФЗ, запрещённые операции ст. 8.4, лимит «иных расходов» с индексацией, мораторий по зарплате и порядок вывода прибыли.", "inLanguage": "ru-RU", "datePublished": "2026-06-12", "dateModified": "2026-08-14", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__otdelnyy-schet-po-goz-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__otdelnyy-schet-po-goz-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__otdelnyy-schet-po-goz-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/otdelnyy-schet-po-goz/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_140175/42f2ebc16f058a3f73a37ad8bee6cd894857fb46/", "https://www.consultant.ru/document/cons_doc_LAW_140175/", "https://www.consultant.ru/document/cons_doc_LAW_140175/57abb8d1c98491ad8c16d16391568c38135abc7d/", "http://publication.pravo.gov.ru/document/0001202312120050", "https://www.economy.gov.ru/", "https://www.consultant.ru/document/cons_doc_LAW_140175/a5f95674709f710d3cc64fa9f4df596b66be2c4c/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Отдельный счёт по ГОЗ", "item": "https://kaznaexpert.ru/baza-znaniy/otdelnyy-schet-po-goz/"}]}
@@ -91,7 +53,7 @@
 ]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -131,9 +93,9 @@
 <meta property="og:title" content="Отдельный счёт по ГОЗ: режим использования и вывод прибыли">
 <meta property="og:description" content="Что разрешено и запрещено по ст. 8.3–8.4 № 275-ФЗ, лимит «иных расходов» 2026, мораторий по зарплате и два маршрута вывода прибыли.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/otdelnyy-schet-po-goz/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__otdelnyy-schet-po-goz-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Отдельный счёт по ГОЗ: режим использования и вывод прибыли — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-12T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-14T09:00:00+03:00">
@@ -142,7 +104,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Отдельный счёт по ГОЗ: режим использования и вывод прибыли">
 <meta name="twitter:description" content="Что разрешено и запрещено по ст. 8.3–8.4 № 275-ФЗ, лимит «иных расходов» 2026, мораторий по зарплате и два маршрута вывода прибыли.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__otdelnyy-schet-po-goz-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

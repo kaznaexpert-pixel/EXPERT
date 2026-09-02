@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Взыскание долга с заказчика по госконтракту: претензия, суд, исполнение", "description": "Заказчик не платит по госконтракту: претензия по ч. 5 ст. 4 АПК, пеня 1/300, госпошлина 2026, упрощённое производство и исполнение решения через казначейство.", "inLanguage": "ru-RU", "datePublished": "2026-07-30", "dateModified": "2026-08-27", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/vzyskanie-dolga-s-zakazchika-po-goskontraktu/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Взыскание долга с заказчика по госконтракту: претензия, суд, исполнение", "description": "Заказчик не платит по госконтракту: претензия по ч. 5 ст. 4 АПК, пеня 1/300, госпошлина 2026, упрощённое производство и исполнение решения через казначейство.", "inLanguage": "ru-RU", "datePublished": "2026-07-30", "dateModified": "2026-08-27", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__vzyskanie-dolga-s-zakazchika-po-goskontraktu-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__vzyskanie-dolga-s-zakazchika-po-goskontraktu-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__vzyskanie-dolga-s-zakazchika-po-goskontraktu-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/vzyskanie-dolga-s-zakazchika-po-goskontraktu/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Взыскание долга с заказчика", "item": "https://kaznaexpert.ru/baza-znaniy/vzyskanie-dolga-s-zakazchika-po-goskontraktu/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: взыскание долга по госконтракту", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Досудебный (претензионный) порядок", "description": "обязательная стадия по денежным спорам из договоров: иск подаётся по истечении 30 календарных дней со дня направления претензии, если иные срок или порядок не установлены законом или договором (ч. 5 ст. 4 АПК)."}, {"@type": "DefinedTerm", "name": "Пеня по ч. 5 ст. 34 закона № 44-ФЗ", "description": "законная неустойка за просрочку оплаты заказчиком: 1/300 ключевой ставки Банка России от невыплаченной суммы за каждый день просрочки."}, {"@type": "DefinedTerm", "name": "Упрощённое производство", "description": "рассмотрение дела по документам без вызова сторон в срок до двух месяцев: денежные иски до 1,2 млн ₽ для юрлиц и 600 тыс. ₽ для ИП, а также признанные долги независимо от суммы (ст. 226–227 АПК)."}, {"@type": "DefinedTerm", "name": "Судебный приказ", "description": "судебный акт по бесспорному требованию из договора до 750 тыс. ₽ (ст. 229.2 АПК); отменяется по возражениям должника, после чего требование заявляется иском."}, {"@type": "DefinedTerm", "name": "Акт сверки взаимных расчётов", "description": "двусторонний документ о состоянии расчётов; подписанный заказчиком, подтверждает признание долга и открывает упрощённый порядок независимо от цены иска."}, {"@type": "DefinedTerm", "name": "Глава 24.1 Бюджетного кодекса", "description": "порядок исполнения судебных актов по обращению взыскания на средства бюджетной системы: исполнительный лист подаётся в казначейство или финорган, срок исполнения — до трёх месяцев."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Взыскание долга с заказчика по госконтракту">
 <meta property="og:description" content="Пошаговый маршрут исполнителя: претензия с 30-дневным сроком, расчёт пени, госпошлина по новым ставкам, упрощённое или общее производство и исполнение решения по правилам главы 24.1 Бюджетного кодекса.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/vzyskanie-dolga-s-zakazchika-po-goskontraktu/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__vzyskanie-dolga-s-zakazchika-po-goskontraktu-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Взыскание долга с заказчика по госконтракту — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-27T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Взыскание долга с заказчика по госконтракту">
 <meta name="twitter:description" content="Пошаговый маршрут исполнителя: претензия с 30-дневным сроком, расчёт пени, госпошлина по новым ставкам, упрощённое или общее производство и исполнение решения по правилам главы 24.1 Бюджетного кодекса.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__vzyskanie-dolga-s-zakazchika-po-goskontraktu-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

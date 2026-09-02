@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Распоряжение о совершении казначейского платежа: заполнение, реквизиты и возврат", "description": "Что такое распоряжение о совершении казначейского платежа: виды (перечисление, возврат, уточнение), реквизиты и заполнение по приказу Казначейства № 21н, причины возврата распоряжения и как исправить.", "inLanguage": "ru-RU", "datePublished": "2026-06-09", "dateModified": "2026-08-21", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha/"}, "citation": ["https://base.garant.ru/74375044/", "https://www.consultant.ru/document/cons_doc_LAW_19702/", "https://www.consultant.ru/document/cons_doc_LAW_487063/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Распоряжение о совершении казначейского платежа: заполнение, реквизиты и возврат", "description": "Что такое распоряжение о совершении казначейского платежа: виды (перечисление, возврат, уточнение), реквизиты и заполнение по приказу Казначейства № 21н, причины возврата распоряжения и как исправить.", "inLanguage": "ru-RU", "datePublished": "2026-06-09", "dateModified": "2026-08-21", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha/"}, "citation": ["https://base.garant.ru/74375044/", "https://www.consultant.ru/document/cons_doc_LAW_19702/", "https://www.consultant.ru/document/cons_doc_LAW_487063/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Распоряжение о совершении казначейского платежа"}]}
@@ -46,7 +46,7 @@
 {"@context":"https://schema.org","@type":"DefinedTerm","name":"Распоряжение о совершении казначейского платежа","description":"Электронный документ-основание, по которому Федеральное казначейство проводит казначейский платёж (перечисление, возврат, уточнение). Формы и реквизиты — приказ Казначейства от 14.05.2020 № 21н.","inDefinedTermSet":"https://kaznaexpert.ru/baza-znaniy/glossary/"}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -86,9 +86,9 @@
 <meta property="og:title" content="Распоряжение о совершении казначейского платежа: формы и сроки">
 <meta property="og:description" content="Где формируется распоряжение о совершении казначейского платежа: ЕИС или «Электронный бюджет», формы по КФД, уточнение платежа, сроки исполнения и возврат.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Распоряжение о совершении казначейского платежа: заполнение и возврат — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-09T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-21T09:00:00+03:00">
@@ -97,7 +97,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Распоряжение о совершении казначейского платежа: формы и сроки">
 <meta name="twitter:description" content="Где формируется распоряжение о совершении казначейского платежа: ЕИС или «Электронный бюджет», формы по КФД, уточнение платежа, сроки исполнения и возврат.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

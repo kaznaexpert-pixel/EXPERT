@@ -25,43 +25,7 @@
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Сведения об операциях с целевыми средствами: как заполнить в 2026 году",
-  "description": "Что такое сведения об операциях с целевыми средствами (форма 0501213), из чего состоят, кто формирует и утверждает, код направления расходования, сроки и как заполнить — по Порядку санкционирования (приказ Минфина № 214н).",
-  "inLanguage": "ru-RU",
-  "datePublished": "2026-06-05",
-  "dateModified": "2026-08-27",
-  "author": {
-    "@type": "Person",
-    "name": "Ярослав Михайлов",
-    "jobTitle": "Главный эксперт по казначейскому сопровождению",
-    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
-    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "КазнаЭксперт",
-    "url": "https://kaznaexpert.ru",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://kaznaexpert.ru/img/logogold.png"
-    },
-    "@id": "https://kaznaexpert.ru/#organization"
-  },
-  "image": "https://kaznaexpert.ru/img/og-image.png",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://kaznaexpert.ru/baza-znaniy/svedeniya-ob-operaciyah-s-celevymi-sredstvami/"
-  },
-  "citation": [
-    "https://www.consultant.ru/document/cons_doc_LAW_405138/",
-    "https://www.consultant.ru/document/cons_doc_LAW_405138/de4649fe56038006ee16bce420115b7ba6a80da5/",
-    "https://www.consultant.ru/document/cons_doc_LAW_401366/",
-    "https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/"
-  ]
-}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Сведения об операциях с целевыми средствами: как заполнить в 2026 году", "description": "Что такое сведения об операциях с целевыми средствами (форма 0501213), из чего состоят, кто формирует и утверждает, код направления расходования, сроки и как заполнить — по Порядку санкционирования (приказ Минфина № 214н).", "inLanguage": "ru-RU", "datePublished": "2026-06-05", "dateModified": "2026-08-27", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__svedeniya-ob-operaciyah-s-celevymi-sredstvami-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__svedeniya-ob-operaciyah-s-celevymi-sredstvami-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__svedeniya-ob-operaciyah-s-celevymi-sredstvami-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/svedeniya-ob-operaciyah-s-celevymi-sredstvami/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_405138/", "https://www.consultant.ru/document/cons_doc_LAW_405138/de4649fe56038006ee16bce420115b7ba6a80da5/", "https://www.consultant.ru/document/cons_doc_LAW_401366/", "https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Сведения об операциях с целевыми средствами: как заполнить"}]}
@@ -83,7 +47,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Глоссарий: сведения об операциях с целевыми средствами", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Сведения об операциях", "description": "Плановый документ (форма 0501213) о поступлениях и расходах по контракту."}, {"@type": "DefinedTerm", "name": "Целевые средства", "description": "Бюджетные деньги по контракту, расходуемые строго на его исполнение."}, {"@type": "DefinedTerm", "name": "Код направления расходования", "description": "Классификатор статьи затрат, на которую идёт платёж."}, {"@type": "DefinedTerm", "name": "Источник поступлений", "description": "Основание, по которому средства поступают на счёт."}, {"@type": "DefinedTerm", "name": "ТОФК", "description": "Территориальный орган Федерального казначейства."}, {"@type": "DefinedTerm", "name": "Санкционирование", "description": "Проверка операции казначейством перед списанием."}, {"@type": "DefinedTerm", "name": "Электронный бюджет", "description": "ГИИС для формирования сведений и взаимодействия с казначейством."}, {"@type": "DefinedTerm", "name": "Разрешение на утверждение Сведений", "description": "Документ заказчика по рекомендуемому образцу приложения № 5 к Порядку № 214н, дающий участнику право утверждать Сведения самостоятельно; может быть отозван при нарушении условий контракта."}, {"@type": "DefinedTerm", "name": "Уведомление об отказе в утверждении Сведений", "description": "Документ заказчика с указанием причины, по которой Сведения не могут быть утверждены; направляется для доработки, рекомендуемый образец — приложение № 4 к Порядку № 214н."}, {"@type": "DefinedTerm", "name": "Средства без права расходования", "description": "Режим учёта на лицевом счёте остатков прошлых лет и возвращённой дебиторской задолженности до принятия решения об их использовании и утверждения соответствующих Сведений."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
 <link rel="preload" as="font" type="font/woff2" href="/fonts/playfairdisplay-normal-500-cyrillic.woff2" crossorigin>
@@ -122,9 +86,9 @@
 <meta property="og:title" content="Сведения об операциях с целевыми средствами: как заполнить в 2026 году">
 <meta property="og:description" content="Форма 0501213: состав, кто утверждает и в какой срок, код направления расходования, как заполнить и частые ошибки.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/svedeniya-ob-operaciyah-s-celevymi-sredstvami/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__svedeniya-ob-operaciyah-s-celevymi-sredstvami-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Сведения об операциях с целевыми средствами — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-27T09:00:00+03:00">
@@ -133,7 +97,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Сведения об операциях с целевыми средствами: как заполнить">
 <meta name="twitter:description" content="Форма 0501213, кто утверждает, коды направления расходования, сроки и ошибки. Со ссылками на НПА.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__svedeniya-ob-operaciyah-s-celevymi-sredstvami-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

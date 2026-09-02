@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"hub", cluster:"komanda"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "CollectionPage", "name": "Команда КазнаЭксперт", "url": "https://kaznaexpert.ru/komanda/", "description": "Команда КазнаЭксперт — эксперты по казначейскому сопровождению с опытом работы внутри Федерального казначейства. На сопровождении — более 7000 госконтрактов и свыше 90 млрд ₽.", "dateModified": "2026-08-20", "isPartOf": {"@id": "https://kaznaexpert.ru/#website"}, "about": {"@id": "https://kaznaexpert.ru/#organization"}, "mainEntity": {"@type": "ItemList", "itemListElement": [{"@type": "ListItem", "position": 1, "item": {"@type": "Person", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "name": "Ярослав Михайлов", "jobTitle": "Основатель · главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-768.jpg", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}}}, {"@type": "ListItem", "position": 2, "item": {"@type": "Person", "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person", "name": "Анна Богданова", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "image": "https://kaznaexpert.ru/img/team/bogdanova-768.jpg", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}}}]}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "@id": "https://kaznaexpert.ru/#organization"}}
+{"@context": "https://schema.org", "@type": "CollectionPage", "name": "Команда КазнаЭксперт", "url": "https://kaznaexpert.ru/komanda/", "description": "Команда КазнаЭксперт — эксперты по казначейскому сопровождению с опытом работы внутри Федерального казначейства. На сопровождении — более 7000 госконтрактов и свыше 90 млрд ₽.", "dateModified": "2026-08-20", "isPartOf": {"@id": "https://kaznaexpert.ru/#website"}, "about": {"@id": "https://kaznaexpert.ru/#organization"}, "mainEntity": {"@type": "ItemList", "itemListElement": [{"@type": "ListItem", "position": 1, "item": {"@type": "Person", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "name": "Ярослав Михайлов", "jobTitle": "Основатель · главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}}}, {"@type": "ListItem", "position": 2, "item": {"@type": "Person", "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person", "name": "Анна Богданова", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "image": "https://kaznaexpert.ru/img/team/bogdanova-photo.jpg", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}}}]}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/komanda-16x9.jpg", "https://kaznaexpert.ru/img/og/komanda-4x3.webp", "https://kaznaexpert.ru/img/og/komanda-1x1.webp"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Команда"}]}
@@ -69,9 +69,9 @@
 <meta property="og:title" content="Команда КазнаЭксперт — эксперты по казначейскому сопровождению">
 <meta property="og:description" content="Команда КазнаЭксперт — эксперты по казначейскому сопровождению с опытом работы внутри Федерального казначейства. На сопровождении — более 7000 госконтрактов и свыше 90 млрд ₽.">
 <meta property="og:url" content="https://kaznaexpert.ru/komanda/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/komanda-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="КазнаЭксперт">
 <meta property="article:published_time" content="2026-08-20T12:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-20T12:00:00+03:00">
@@ -80,7 +80,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Команда КазнаЭксперт — эксперты по казначейскому сопровождению">
 <meta name="twitter:description" content="Команда КазнаЭксперт — эксперты по казначейскому сопровождению с опытом работы внутри Федерального казначейства. На сопровождении — более 7000 госконтрактов и свыше 90 млрд ₽.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/komanda-16x9.jpg">
 
 <link rel="stylesheet" href="/css/landing-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/landing-shared.css') ?>">
 </head>

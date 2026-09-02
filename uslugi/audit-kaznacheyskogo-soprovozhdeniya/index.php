@@ -25,7 +25,7 @@
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "datePublished": "2026-06-25", "dateModified": "2026-08-11", "name": "Аудит казначейского сопровождения контракта", "serviceType": "Независимая проверка казначейского сопровождения (второе мнение)", "description": "Независимый аудит казначейского сопровождения контракта: проверка применимости, открытия счёта, санкционирования, раздельного учёта, сведений и отчётности. Отчёт с приоритизацией рисков и планом исправления. NDA, 15 лет практики в Казначействе.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/audit-kaznacheyskogo-soprovozhdeniya/", "offers": {"@type": "Offer", "price": "160000", "priceCurrency": "RUB", "description": "Полный аудит казначейского сопровождения с отчётом и планом исправления", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/audit-kaznacheyskogo-soprovozhdeniya/", "priceValidUntil": "2026-12-31"}}
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": ["https://kaznaexpert.ru/img/og/uslugi__audit-kaznacheyskogo-soprovozhdeniya-16x9.jpg", "https://kaznaexpert.ru/img/og/uslugi__audit-kaznacheyskogo-soprovozhdeniya-4x3.webp", "https://kaznaexpert.ru/img/og/uslugi__audit-kaznacheyskogo-soprovozhdeniya-1x1.webp"], "datePublished": "2026-06-25", "dateModified": "2026-08-11", "name": "Аудит казначейского сопровождения контракта", "serviceType": "Независимая проверка казначейского сопровождения (второе мнение)", "description": "Независимый аудит казначейского сопровождения контракта: проверка применимости, открытия счёта, санкционирования, раздельного учёта, сведений и отчётности. Отчёт с приоритизацией рисков и планом исправления. NDA, 15 лет практики в Казначействе.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/audit-kaznacheyskogo-soprovozhdeniya/", "offers": {"@type": "Offer", "price": "160000", "priceCurrency": "RUB", "description": "Полный аудит казначейского сопровождения с отчётом и планом исправления", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/audit-kaznacheyskogo-soprovozhdeniya/", "priceValidUntil": "2026-12-31"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Аудит казначейского сопровождения"}]}
@@ -71,9 +71,9 @@
 <meta property="og:title" content="Аудит казначейского сопровождения — второе мнение эксперта">
 <meta property="og:description" content="Независимая проверка казначейского сопровождения: санкционирование, раздельный учёт, отчётность. Найдём ошибки до казначейства. 160 000 ₽ фиксированно.">
 <meta property="og:url" content="https://kaznaexpert.ru/uslugi/audit-kaznacheyskogo-soprovozhdeniya/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/uslugi__audit-kaznacheyskogo-soprovozhdeniya-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Аудит казначейского сопровождения — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-11T09:00:00+03:00">
@@ -82,7 +82,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Аудит казначейского сопровождения — второе мнение">
 <meta name="twitter:description" content="Независимая проверка контракта: санкционирование, раздельный учёт, отчётность. Найдём ошибки до проверки.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/uslugi__audit-kaznacheyskogo-soprovozhdeniya-16x9.jpg">
 
 <!-- Schema: Article -->
 <!-- Schema: HowTo -->

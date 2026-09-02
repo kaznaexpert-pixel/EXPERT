@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"elektronnyy-byudzhet"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Регистрация в ГИИС «Электронный бюджет»: как подключиться исполнителю госконтракта в 2026 году", "description": "Как исполнителю госконтракта зарегистрироваться в ГИИС «Электронный бюджет» в 2026: регистрация в ПОИБ СОБИ, электронная подпись, СКЗИ, роли и МЧД — пошагово.", "inLanguage": "ru-RU", "datePublished": "2026-08-04", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/registraciya-v-giis-elektronnyy-byudzhet/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Регистрация в ГИИС «Электронный бюджет»: как подключиться исполнителю госконтракта в 2026 году", "description": "Как исполнителю госконтракта зарегистрироваться в ГИИС «Электронный бюджет» в 2026: регистрация в ПОИБ СОБИ, электронная подпись, СКЗИ, роли и МЧД — пошагово.", "inLanguage": "ru-RU", "datePublished": "2026-08-04", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__registraciya-v-giis-elektronnyy-byudzhet-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__registraciya-v-giis-elektronnyy-byudzhet-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__registraciya-v-giis-elektronnyy-byudzhet-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/registraciya-v-giis-elektronnyy-byudzhet/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Регистрация в ГИИС «Электронный бюджет»", "item": "https://kaznaexpert.ru/baza-znaniy/registraciya-v-giis-elektronnyy-byudzhet/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: подключение к ГИИС «Электронный бюджет»", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "ГИИС «Электронный бюджет»", "description": "Государственная интегрированная информационная система управления общественными финансами; оператор — Федеральное казначейство."}, {"@type": "DefinedTerm", "name": "ПОИБ СОБИ", "description": "Подсистема обеспечения информационной безопасности «Электронного бюджета», с регистрации в которой начинается подключение организации."}, {"@type": "DefinedTerm", "name": "СКЗИ", "description": "Средства криптографической защиты информации, обеспечивающие защищённый канал связи с системой."}, {"@type": "DefinedTerm", "name": "ЕСИА", "description": "Единая система идентификации и аутентификации; вход в систему по подтверждённому профилю организации."}, {"@type": "DefinedTerm", "name": "МЧД", "description": "Машиночитаемая доверенность, связывающая электронную подпись сотрудника с полномочиями действовать от имени организации."}, {"@type": "DefinedTerm", "name": "УКЭП", "description": "Усиленная квалифицированная электронная подпись, которой подписывают документы в системе."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Регистрация в ГИИС «Электронный бюджет»: подключение в 2026">
 <meta property="og:description" content="Пошаговое подключение исполнителя казначейского сопровождения к ГИИС «Электронный бюджет»: ПОИБ СОБИ, электронная подпись, СКЗИ, настройка рабочего места, роли и машиночитаемая доверенность.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/registraciya-v-giis-elektronnyy-byudzhet/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__registraciya-v-giis-elektronnyy-byudzhet-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Регистрация в ГИИС «Электронный бюджет»: подключение в 2026 — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Регистрация в ГИИС «Электронный бюджет»: подключение в 2026">
 <meta name="twitter:description" content="Пошаговое подключение исполнителя казначейского сопровождения к ГИИС «Электронный бюджет»: ПОИБ СОБИ, электронная подпись, СКЗИ, настройка рабочего места, роли и машиночитаемая доверенность.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__registraciya-v-giis-elektronnyy-byudzhet-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

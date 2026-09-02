@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"npa", cluster:"normativka"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Article", "Legislation"], "headline": "Постановление № 2024 — Правила казначейского сопровождения: как устроена работа на практике", "description": "Действующие Правила казначейского сопровождения и расширенного сопровождения: порядок проведения операций, перечисления, документы. Заменило прежние ежегодные правила.", "datePublished": "2026-06-06T10:00:00+03:00", "dateModified": "2026-08-25", "inLanguage": "ru-RU", "legislationIdentifier": "ПП № 2024", "about": "Постановление Правительства РФ от 24.11.2021 № 2024 «О правилах казначейского сопровождения»", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/pp-2024-pravila-ks/"}, "image": "https://kaznaexpert.ru/img/og-image.png"}
+{"@context": "https://schema.org", "@type": ["Article", "Legislation"], "headline": "Постановление № 2024 — Правила казначейского сопровождения: как устроена работа на практике", "description": "Действующие Правила казначейского сопровождения и расширенного сопровождения: порядок проведения операций, перечисления, документы. Заменило прежние ежегодные правила.", "datePublished": "2026-06-06T10:00:00+03:00", "dateModified": "2026-08-25", "inLanguage": "ru-RU", "legislationIdentifier": "ПП № 2024", "about": "Постановление Правительства РФ от 24.11.2021 № 2024 «О правилах казначейского сопровождения»", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/pp-2024-pravila-ks/"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__pp-2024-pravila-ks-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__pp-2024-pravila-ks-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__pp-2024-pravila-ks-1x1.webp"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Нормативная база", "item": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/"}, {"@type": "ListItem", "position": 4, "name": "ПП № 2024 (Правила казначейского сопровождения)"}]}
@@ -72,9 +72,9 @@
 <meta property="og:title" content="Постановление № 2024 — Правила казначейского сопровождения: как">
 <meta property="og:description" content="Действующие Правила казначейского сопровождения и расширенного сопровождения: порядок проведения операций, перечисления, документы. Заменило прежние ежегодные правила.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/pp-2024-pravila-ks/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__pp-2024-pravila-ks-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Постановление № 2024 — Правила казначейского сопровождения: как">
 <meta property="article:published_time" content="2026-06-06T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-25T09:00:00+03:00">
@@ -83,7 +83,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Постановление № 2024 — Правила казначейского сопровождения: как">
 <meta name="twitter:description" content="Действующие Правила казначейского сопровождения: порядок проведения операций, перечисления, документы. Заменило прежние ежегодные правила.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__pp-2024-pravila-ks-16x9.jpg">
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
 </head>

@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Зарплата с лицевого счёта при казначейском сопровождении: как выплатить", "description": "Как выплатить зарплату с лицевого счёта в казначействе: исключение п. 3 ст. 242.23 БК, код 0100, документы для санкционирования, НДФЛ и взносы, типовые отказы.", "inLanguage": "ru-RU", "datePublished": "2026-07-30", "dateModified": "2026-08-10", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/zarplata-s-licevogo-scheta-pri-ks/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Зарплата с лицевого счёта при казначейском сопровождении: как выплатить", "description": "Как выплатить зарплату с лицевого счёта в казначействе: исключение п. 3 ст. 242.23 БК, код 0100, документы для санкционирования, НДФЛ и взносы, типовые отказы.", "inLanguage": "ru-RU", "datePublished": "2026-07-30", "dateModified": "2026-08-10", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__zarplata-s-licevogo-scheta-pri-ks-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__zarplata-s-licevogo-scheta-pri-ks-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__zarplata-s-licevogo-scheta-pri-ks-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/zarplata-s-licevogo-scheta-pri-ks/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Зарплата с лицевого счёта", "item": "https://kaznaexpert.ru/baza-znaniy/zarplata-s-licevogo-scheta-pri-ks/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: зарплата при казначейском сопровождении", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Лицевой счёт участника казначейского сопровождения", "description": "счёт, открываемый в территориальном органе казначейства для операций с целевыми средствами; перечисления с него на банковские счета исполнителя запрещены за закрытым перечнем исключений."}, {"@type": "DefinedTerm", "name": "Оплата труда (исключение режима)", "description": "разрешённое перечисление с лицевого счёта на банковские счета: зарплата с начислениями и социальными выплатами и иные выплаты в пользу работников (п. 3 ст. 242.23 БК)."}, {"@type": "DefinedTerm", "name": "Код направления расходования 0100", "description": "укрупнённый код «Выплаты персоналу» по Приложению 3 к приказу Минфина № 214н, которым маркируются зарплатные платежи с лицевого счёта."}, {"@type": "DefinedTerm", "name": "Сведения об операциях с целевыми средствами", "description": "плановый документ (ф. 0501213), в пределах показателей которого казначейство санкционирует расходы; выплаты сверх показателя кода возвращаются."}, {"@type": "DefinedTerm", "name": "Санкционирование", "description": "проверка казначейством каждого распоряжения на соответствие Сведениям, кодам и документам до проведения платежа (приказ Минфина № 214н)."}, {"@type": "DefinedTerm", "name": "Раздельный учёт", "description": "учёт затрат по каждому сопровождаемому контракту отдельно; для зарплаты — табели и база распределения, подтверждающие долю персонала, занятого на контракте."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Зарплата с лицевого счёта при казначейском сопровождении">
 <meta property="og:description" content="Оплата труда — разрешённое исключение из режима лицевого счёта: как провести выплату через санкционирование, какой код направления указать, что с НДФЛ и взносами и почему казначейство отказывает в зарплатных платежах.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/zarplata-s-licevogo-scheta-pri-ks/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__zarplata-s-licevogo-scheta-pri-ks-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Зарплата с лицевого счёта при казначейском сопровождении — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-10T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Зарплата с лицевого счёта при казначейском сопровождении">
 <meta name="twitter:description" content="Оплата труда — разрешённое исключение из режима лицевого счёта: как провести выплату через санкционирование, какой код направления указать, что с НДФЛ и взносами и почему казначейство отказывает в зарплатных платежах.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__zarplata-s-licevogo-scheta-pri-ks-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

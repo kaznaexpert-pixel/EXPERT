@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"article", cluster:"peni"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Пени и штрафы по 44-ФЗ: как считается неустойка за просрочку", "description": "Как рассчитать пени и штрафы по 44-ФЗ: формула 1/300 ключевой ставки (ч. 7 ст. 34), база начисления, таблица штрафов по ПП № 1042, калькулятор и способы снизить неустойку.", "datePublished": "2026-06-05T09:00:00+03:00", "dateModified": "2026-08-24T09:00:00+03:00", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/peni-i-shtrafy-po-44-fz/"}, "image": "https://kaznaexpert.ru/img/og-image.png", "citation": ["https://www.consultant.ru/document/cons_doc_LAW_144624/", "https://www.consultant.ru/document/cons_doc_LAW_227100/", "https://www.cbr.ru/hd_base/keyrate/", "https://www.consultant.ru/document/cons_doc_LAW_5142/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Пени и штрафы по 44-ФЗ: как считается неустойка за просрочку", "description": "Как рассчитать пени и штрафы по 44-ФЗ: формула 1/300 ключевой ставки (ч. 7 ст. 34), база начисления, таблица штрафов по ПП № 1042, калькулятор и способы снизить неустойку.", "datePublished": "2026-06-05T09:00:00+03:00", "dateModified": "2026-08-24T09:00:00+03:00", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/peni-i-shtrafy-po-44-fz/"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__peni-i-shtrafy-po-44-fz-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__peni-i-shtrafy-po-44-fz-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__peni-i-shtrafy-po-44-fz-1x1.webp"], "citation": ["https://www.consultant.ru/document/cons_doc_LAW_144624/", "https://www.consultant.ru/document/cons_doc_LAW_227100/", "https://www.cbr.ru/hd_base/keyrate/", "https://www.consultant.ru/document/cons_doc_LAW_5142/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Пени и штрафы по 44-ФЗ"}]}
@@ -54,7 +54,7 @@
 ]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -94,9 +94,9 @@
 <meta property="og:title" content="Пени и штрафы по 44-ФЗ: как считается неустойка за просрочку">
 <meta property="og:description" content="Формула пеней 1/300 ставки (ч. 7 ст. 34), база начисления, таблица штрафов ПП № 1042, калькулятор и способы снизить неустойку.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/peni-i-shtrafy-po-44-fz/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__peni-i-shtrafy-po-44-fz-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Пени и штрафы по 44-ФЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-24T09:00:00+03:00">
@@ -105,7 +105,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Пени и штрафы по 44-ФЗ: расчёт неустойки + калькулятор">
 <meta name="twitter:description" content="Формула 1/300 ставки, штрафы ПП № 1042, онлайн-калькулятор. Со ссылками на НПА.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__peni-i-shtrafy-po-44-fz-16x9.jpg">
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
 </head>

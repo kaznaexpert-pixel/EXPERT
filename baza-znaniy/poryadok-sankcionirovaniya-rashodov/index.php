@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"article", cluster:"sankcionirovanie"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Санкционирование расходов при казначейском сопровождении", "description": "Что такое санкционирование расходов: как ТОФК проверяет операции, правовая основа (ст. 242.23 БК РФ), сведения об операциях, основания отказа, сроки и расширенное санкционирование.", "datePublished": "2026-06-05T10:00:00+03:00", "dateModified": "2026-08-28", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Анна Богданова", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/poryadok-sankcionirovaniya-rashodov/"}, "image": "https://kaznaexpert.ru/img/og-image.png", "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/", "https://www.consultant.ru/document/cons_doc_LAW_405138/", "https://www.consultant.ru/document/cons_doc_LAW_401819/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Санкционирование расходов при казначейском сопровождении", "description": "Что такое санкционирование расходов: как ТОФК проверяет операции, правовая основа (ст. 242.23 БК РФ), сведения об операциях, основания отказа, сроки и расширенное санкционирование.", "datePublished": "2026-06-05T10:00:00+03:00", "dateModified": "2026-08-28", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Анна Богданова", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person", "image": "https://kaznaexpert.ru/img/team/bogdanova-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/poryadok-sankcionirovaniya-rashodov/"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__poryadok-sankcionirovaniya-rashodov-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__poryadok-sankcionirovaniya-rashodov-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__poryadok-sankcionirovaniya-rashodov-1x1.webp"], "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/", "https://www.consultant.ru/document/cons_doc_LAW_405138/", "https://www.consultant.ru/document/cons_doc_LAW_401819/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Санкционирование расходов"}]}
@@ -38,7 +38,7 @@
 {"@context": "https://schema.org", "@type": "HowTo", "name": "Как проходит санкционирование расходов при казначейском сопровождении", "inLanguage": "ru-RU", "step": [{"@type": "HowToStep", "position": 1, "name": "Утвердить сведения об операциях", "text": "Сформировать и утвердить сведения об операциях с целевыми средствами — план расходов по контракту в разрезе кодов."}, {"@type": "HowToStep", "position": 2, "name": "Сформировать распоряжение", "text": "Подготовить распоряжение о совершении казначейского платежа с корректным назначением и кодами."}, {"@type": "HowToStep", "position": 3, "name": "Приложить документы-основания", "text": "Приложить договор, счёт, акт или УПД, подтверждающие расход, и указать идентификатор контракта, где требуется."}, {"@type": "HowToStep", "position": 4, "name": "Проверка казначейством", "text": "ТОФК проверяет целевое использование, соответствие сведениям, коды и назначение, документы и непревышение остатка целевых средств."}, {"@type": "HowToStep", "position": 5, "name": "Санкционирование и платёж", "text": "При отсутствии нарушений казначейство санкционирует операцию и платёж исполняется; при нарушении документ возвращается на доработку."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Анна Богданова", "alternateName": "Богданова Анна Андреевна", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "image": "https://kaznaexpert.ru/img/team/bogdanova-768.jpg", "colleague": {"@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Анна Богданова", "alternateName": "Богданова Анна Андреевна", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "image": "https://kaznaexpert.ru/img/team/bogdanova-photo.jpg", "colleague": {"@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -78,9 +78,9 @@
 <meta property="og:title" content="Санкционирование расходов при казначейском сопровождении">
 <meta property="og:description" content="Как ТОФК проверяет и санкционирует платежи по контракту: правовая основа, сведения об операциях, основания отказа и сроки.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/poryadok-sankcionirovaniya-rashodov/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__poryadok-sankcionirovaniya-rashodov-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Санкционирование расходов при казначейском сопровождении">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-28T09:00:00+03:00">
@@ -89,7 +89,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Санкционирование расходов при казначейском сопровождении">
 <meta name="twitter:description" content="Как ТОФК проверяет и санкционирует платежи по контракту: правовая основа, сведения об операциях, основания отказа и сроки.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__poryadok-sankcionirovaniya-rashodov-16x9.jpg">
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
 </head>

@@ -24,42 +24,7 @@
 <!-- ╚════════════════════════════════════════════════════════════════════════════╝ -->
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"schet"};</script>
-<script type="application/ld+json">{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Как открыть лицевой счёт казначейского сопровождения (счёт 71) в ТОФК",
-  "description": "Лицевой счёт с кодом 71: кому и когда нужен, какие документы, как открыть через ГИИС «Электронный бюджет», сроки и частые задержки. Порядок открытия счёта казначейского сопровождения в 2026.",
-  "inLanguage": "ru-RU",
-  "datePublished": "2026-06-04",
-  "dateModified": "2026-08-31",
-  "author": {
-    "@type": "Person",
-    "name": "Ярослав Михайлов",
-    "jobTitle": "Главный эксперт по казначейскому сопровождению",
-    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
-    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "КазнаЭксперт",
-    "url": "https://kaznaexpert.ru",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://kaznaexpert.ru/img/logogold.png"
-    },
-    "@id": "https://kaznaexpert.ru/#organization"
-  },
-  "image": "https://kaznaexpert.ru/img/og-image.png",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://kaznaexpert.ru/baza-znaniy/licevoy-schet-71-kak-otkryt/"
-  },
-  "citation": [
-    "http://publication.pravo.gov.ru/",
-    "https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/",
-    "https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/"
-  ]
-}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Как открыть лицевой счёт казначейского сопровождения (счёт 71) в ТОФК", "description": "Лицевой счёт с кодом 71: кому и когда нужен, какие документы, как открыть через ГИИС «Электронный бюджет», сроки и частые задержки. Порядок открытия счёта казначейского сопровождения в 2026.", "inLanguage": "ru-RU", "datePublished": "2026-06-04", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__licevoy-schet-71-kak-otkryt-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__licevoy-schet-71-kak-otkryt-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__licevoy-schet-71-kak-otkryt-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/licevoy-schet-71-kak-otkryt/"}, "citation": ["http://publication.pravo.gov.ru/", "https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/", "https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/"]}</script>
 <script type="application/ld+json">{
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
@@ -122,21 +87,7 @@
     }
   ]
 }</script>
-<script type="application/ld+json">{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Ярослав Михайлов",
-  "jobTitle": "Главный эксперт по казначейскому сопровождению",
-  "worksFor": {
-    "@id": "https://kaznaexpert.ru/#organization"
-  },
-  "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
-  "sameAs": [
-    "https://t.me/Kaznaexpert",
-    "https://www.rusprofile.ru/ip/321784700367672"
-  ],
-  "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
-}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}</script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
 <link rel="preload" as="font" type="font/woff2" href="/fonts/playfairdisplay-normal-500-cyrillic.woff2" crossorigin>
@@ -175,9 +126,9 @@
 <meta property="og:title" content="Лицевой счёт казначейского сопровождения (71): как открыть в 2026">
 <meta property="og:description" content="Лицевой счёт казначейского сопровождения (счёт 71): документы, пошаговый порядок открытия через «Электронный бюджет», сроки и резервирование. Актуально на 2026 год.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/licevoy-schet-71-kak-otkryt/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__licevoy-schet-71-kak-otkryt-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-04T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
@@ -186,7 +137,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Лицевой счёт казначейского сопровождения (71): как открыть в 2026">
 <meta name="twitter:description" content="Лицевой счёт казначейского сопровождения (счёт 71): документы, пошаговый порядок открытия через «Электронный бюджет», сроки и резервирование. Актуально на 2026 год.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__licevoy-schet-71-kak-otkryt-16x9.jpg">
 
 <!-- Schema: Article -->
 <!-- Schema: HowTo -->

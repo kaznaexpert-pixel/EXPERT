@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"elektronnyy-byudzhet"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Единая бюджетная платформа (ЕБП): что меняется для исполнителя контракта в 2026 году", "description": "ЕБП — новая учётно-платёжная модель казначейства взамен АСФК: конструктор РСКП, МЧД вместо карточек, версия 3.2 с 18.07.2026 и что это значит для исполнителя.", "inLanguage": "ru-RU", "datePublished": "2026-08-10", "dateModified": "2026-08-26", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/edinaya-byudzhetnaya-platforma-ebp/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Единая бюджетная платформа (ЕБП): что меняется для исполнителя контракта в 2026 году", "description": "ЕБП — новая учётно-платёжная модель казначейства взамен АСФК: конструктор РСКП, МЧД вместо карточек, версия 3.2 с 18.07.2026 и что это значит для исполнителя.", "inLanguage": "ru-RU", "datePublished": "2026-08-10", "dateModified": "2026-08-26", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__edinaya-byudzhetnaya-platforma-ebp-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__edinaya-byudzhetnaya-platforma-ebp-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__edinaya-byudzhetnaya-platforma-ebp-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/edinaya-byudzhetnaya-platforma-ebp/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Единая бюджетная платформа (ЕБП)", "item": "https://kaznaexpert.ru/baza-znaniy/edinaya-byudzhetnaya-platforma-ebp/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: Единая бюджетная платформа", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "ЕБП", "description": "Единая бюджетная платформа — новая учётно-платёжная модель ГИИС «Электронный бюджет», заменяющая АСФК."}, {"@type": "DefinedTerm", "name": "АСФК", "description": "Прежняя автоматизированная система Федерального казначейства, контур которой закрывается к 2029 году."}, {"@type": "DefinedTerm", "name": "РСКП", "description": "Распоряжение о совершении казначейского платежа — основной платёжный документ участника."}, {"@type": "DefinedTerm", "name": "Конструктор РСКП", "description": "Механизм формирования распоряжения в ЕБП с автозаполнением до 80% реквизитов вместо выбора из 16 форм."}, {"@type": "DefinedTerm", "name": "МЧД", "description": "Машиночитаемая доверенность — электронное оформление полномочий подписантов взамен карточек образцов подписей."}, {"@type": "DefinedTerm", "name": "Платёжные центры", "description": "Три центра обработки платежей казначейства: Нижний Новгород, Новосибирская область, Приморский край."}, {"@type": "DefinedTerm", "name": "Массовое санкционирование", "description": "Выбор итогового результата контроля РСКП из списковой формы без входа в карточку каждого документа."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Единая бюджетная платформа (ЕБП): что меняется в 2026">
 <meta property="og:description" content="ЕБП заменяет АСФК: операции в реальном времени, конструктор распоряжений с автозаполнением до 80% реквизитов, МЧД вместо карточек подписей, массовое санкционирование в версии 3.2.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/edinaya-byudzhetnaya-platforma-ebp/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__edinaya-byudzhetnaya-platforma-ebp-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Единая бюджетная платформа (ЕБП): что меняется в 2026 — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-26T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Единая бюджетная платформа (ЕБП): что меняется в 2026">
 <meta name="twitter:description" content="ЕБП заменяет АСФК: операции в реальном времени, конструктор распоряжений с автозаполнением до 80% реквизитов, МЧД вместо карточек подписей, массовое санкционирование в версии 3.2.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__edinaya-byudzhetnaya-platforma-ebp-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

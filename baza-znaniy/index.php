@@ -69,9 +69,9 @@
 <meta property="og:title" content="База знаний по казначейскому сопровождению">
 <meta property="og:description" content="Экспертные статьи и инструкции по казначейскому сопровождению, ГОЗ, раздельному учёту, счетам и санкционированию.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="База знаний по казначейскому сопровождению">
 <meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-06-25T09:00:00+03:00">
@@ -80,7 +80,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="База знаний по казначейскому сопровождению">
 <meta name="twitter:description" content="База знаний КазнаЭксперт: экспертные статьи и инструкции по казначейскому сопровождению госконтрактов, ГОЗ, раздельному учёту, лицевым счетам и санкционированию.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy-16x9.jpg">
 
 <!-- Schema: Article -->
 <!-- Schema: HowTo -->

@@ -26,44 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"schet"};</script>
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Единый казначейский счёт (ЕКС): что это и как устроен в системе казначейских платежей",
-  "description": "Единый казначейский счёт: банковский счёт ФК в Банке России на балансовом счёте 40102, связка с казначейскими счетами 03, поля 15 и 17 платёжного поручения, частые ошибки.",
-  "inLanguage": "ru-RU",
-  "datePublished": "2026-06-11",
-  "dateModified": "2026-09-02",
-  "author": {
-    "@type": "Person",
-    "name": "Ярослав Михайлов",
-    "jobTitle": "Главный эксперт по казначейскому сопровождению",
-    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
-    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "КазнаЭксперт",
-    "url": "https://kaznaexpert.ru",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://kaznaexpert.ru/img/logogold.png"
-    },
-    "@id": "https://kaznaexpert.ru/#organization"
-  },
-  "image": "https://kaznaexpert.ru/img/og-image.png",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://kaznaexpert.ru/baza-znaniy/edinyy-kaznacheyskiy-schet/"
-  },
-  "citation": [
-    "https://www.consultant.ru/document/cons_doc_LAW_19702/2e0d2b0f64b3ff765b8d3f4adc70ec3061c79c7f/",
-    "https://www.cbr.ru/explan/eks/",
-    "http://www.consultant.ru/document/cons_doc_LAW_352105/",
-    "https://roskazna.gov.ru/dokumenty/sistemakaznacheyskikh-platezhey/",
-    "https://roskazna.gov.ru/dokumenty/sistemakaznacheyskikh-platezhey/kaznacheyskie-scheta/"
-  ]
-}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Единый казначейский счёт (ЕКС): что это и как устроен в системе казначейских платежей", "description": "Единый казначейский счёт: банковский счёт ФК в Банке России на балансовом счёте 40102, связка с казначейскими счетами 03, поля 15 и 17 платёжного поручения, частые ошибки.", "inLanguage": "ru-RU", "datePublished": "2026-06-11", "dateModified": "2026-09-02", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__edinyy-kaznacheyskiy-schet-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__edinyy-kaznacheyskiy-schet-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__edinyy-kaznacheyskiy-schet-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/edinyy-kaznacheyskiy-schet/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/2e0d2b0f64b3ff765b8d3f4adc70ec3061c79c7f/", "https://www.cbr.ru/explan/eks/", "http://www.consultant.ru/document/cons_doc_LAW_352105/", "https://roskazna.gov.ru/dokumenty/sistemakaznacheyskikh-platezhey/", "https://roskazna.gov.ru/dokumenty/sistemakaznacheyskikh-platezhey/kaznacheyskie-scheta/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Единый казначейский счёт (ЕКС)", "item": "https://kaznaexpert.ru/baza-znaniy/edinyy-kaznacheyskiy-schet/"}]}
@@ -89,7 +52,7 @@
 ]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -129,9 +92,9 @@
 <meta property="og:title" content="Единый казначейский счёт: что это в системе казначейства">
 <meta property="og:description" content="ЕКС — счёт Федерального казначейства в Банке России, ядро системы казначейских платежей: чей это счёт, зачем введён и чем отличается от расчётного.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/edinyy-kaznacheyskiy-schet/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__edinyy-kaznacheyskiy-schet-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Единый казначейский счёт (ЕКС): что это и реквизиты в платёжке — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-11T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-09-02T09:00:00+03:00">
@@ -140,7 +103,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="ЕКС в реквизитах: что это значит и какой счёт указывать">
 <meta name="twitter:description" content="ЕКС в реквизитах банка — что это значит: единый казначейский счёт (40102) в поле 15 платёжки, казначейский счёт (03) в поле 17. Какой счёт указывать.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__edinyy-kaznacheyskiy-schet-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

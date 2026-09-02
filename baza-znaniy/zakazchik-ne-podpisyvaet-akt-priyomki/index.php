@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Заказчик не подписывает акт приёмки: что делать исполнителю", "description": "Заказчик молчит или отказывается подписывать документ о приёмке: сроки по ч. 13 ст. 94 44-ФЗ, мотивированный отказ, односторонний акт по ГК и взыскание оплаты.", "inLanguage": "ru-RU", "datePublished": "2026-07-24", "dateModified": "2026-08-27", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/zakazchik-ne-podpisyvaet-akt-priyomki/"}, "citation": ["Федеральный закон от 05.04.2013 № 44-ФЗ, ст. 94, 34. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_144624/", "Гражданский кодекс РФ, ст. 753, 720, 406. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_9027/", "КоАП РФ, ч. 8 ст. 7.30.2.", "Бюджетный кодекс РФ, гл. 24.1, 24.4."]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Заказчик не подписывает акт приёмки: что делать исполнителю", "description": "Заказчик молчит или отказывается подписывать документ о приёмке: сроки по ч. 13 ст. 94 44-ФЗ, мотивированный отказ, односторонний акт по ГК и взыскание оплаты.", "inLanguage": "ru-RU", "datePublished": "2026-07-24", "dateModified": "2026-08-27", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__zakazchik-ne-podpisyvaet-akt-priyomki-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__zakazchik-ne-podpisyvaet-akt-priyomki-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__zakazchik-ne-podpisyvaet-akt-priyomki-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/zakazchik-ne-podpisyvaet-akt-priyomki/"}, "citation": ["Федеральный закон от 05.04.2013 № 44-ФЗ, ст. 94, 34. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_144624/", "Гражданский кодекс РФ, ст. 753, 720, 406. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_9027/", "КоАП РФ, ч. 8 ст. 7.30.2.", "Бюджетный кодекс РФ, гл. 24.1, 24.4."]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Заказчик не подписывает акт приёмки", "item": "https://kaznaexpert.ru/baza-znaniy/zakazchik-ne-podpisyvaet-akt-priyomki/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: приёмка по 44-ФЗ", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Документ о приёмке", "description": "структурированный электронный документ в ЕИС, которым оформляется приёмка товара, работы, услуги по 44-ФЗ."}, {"@type": "DefinedTerm", "name": "Мотивированный отказ", "description": "отказ заказчика от подписания документа о приёмке с указанием конкретных причин несоответствия результата условиям контракта."}, {"@type": "DefinedTerm", "name": "Односторонний акт", "description": "акт сдачи результата работ, подписанный одной стороной с отметкой об отказе другой (п. 4 ст. 753 ГК)."}, {"@type": "DefinedTerm", "name": "Просрочка кредитора", "description": "уклонение заказчика от принятия надлежащего исполнения — ст. 406 ГК."}, {"@type": "DefinedTerm", "name": "Экспертиза результатов", "description": "обязательная проверка заказчиком результата исполнения контракта своими силами или с привлечением экспертов."}, {"@type": "DefinedTerm", "name": "Пеня 1/300", "description": "неустойка за просрочку оплаты заказчиком — 1/300 ключевой ставки ЦБ от неуплаченной суммы за каждый день просрочки."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Заказчик не подписывает акт приёмки: что делать">
 <meta property="og:description" content="Заказчик молчит или отказывается подписывать документ о приёмке: сроки по ч. 13 ст. 94 44-ФЗ, мотивированный отказ, односторонний акт по ГК и взыскание оплаты.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/zakazchik-ne-podpisyvaet-akt-priyomki/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__zakazchik-ne-podpisyvaet-akt-priyomki-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Заказчик не подписывает акт приёмки: что делать — КазнаЭксперт">
 <meta property="article:published_time" content="2026-07-24T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-27T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Заказчик не подписывает акт приёмки: что делать">
 <meta name="twitter:description" content="Заказчик молчит или отказывается подписывать документ о приёмке: сроки по ч. 13 ст. 94 44-ФЗ, мотивированный отказ, односторонний акт по ГК и взыскание оплаты.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__zakazchik-ne-podpisyvaet-akt-priyomki-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

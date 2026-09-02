@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"npa", cluster:"normativka"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Article", "Legislation"], "headline": "Новый порядок санкционирования вместо 214н — что меняется с 01.09.2026", "description": "Новый порядок санкционирования при казначейском сопровождении: заявлен с 01.09.2026 взамен 214н, на 20.08.2026 не подписан. Сохраняет форму Сведений 0501213 и систему кодов направлений расходования, закрепляет документооборот в «Электронном бюджете» и блок расширенного казначейского сопровождения.", "datePublished": "2026-06-06T10:00:00+03:00", "dateModified": "2026-08-20T10:00:00+03:00", "inLanguage": "ru-RU", "legislationIdentifier": "проект 01/02/05-26/00168022", "about": "Приказ Минфина России «Об утверждении Порядка осуществления территориальными органами Федерального казначейства санкционирования операций со средствами участников казначейского сопровождения» (подготовленный текст от 20.05.2026; заменит приказ № 214н)", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/novyy-poryadok-sankcionirovaniya-2026/"}, "image": "https://kaznaexpert.ru/img/og-image.png"}
+{"@context": "https://schema.org", "@type": ["Article", "Legislation"], "headline": "Новый порядок санкционирования вместо 214н — что меняется с 01.09.2026", "description": "Новый порядок санкционирования при казначейском сопровождении: заявлен с 01.09.2026 взамен 214н, на 20.08.2026 не подписан. Сохраняет форму Сведений 0501213 и систему кодов направлений расходования, закрепляет документооборот в «Электронном бюджете» и блок расширенного казначейского сопровождения.", "datePublished": "2026-06-06T10:00:00+03:00", "dateModified": "2026-08-20T10:00:00+03:00", "inLanguage": "ru-RU", "legislationIdentifier": "проект 01/02/05-26/00168022", "about": "Приказ Минфина России «Об утверждении Порядка осуществления территориальными органами Федерального казначейства санкционирования операций со средствами участников казначейского сопровождения» (подготовленный текст от 20.05.2026; заменит приказ № 214н)", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/novyy-poryadok-sankcionirovaniya-2026/"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__novyy-poryadok-sankcionirovaniya-2026-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__novyy-poryadok-sankcionirovaniya-2026-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__novyy-poryadok-sankcionirovaniya-2026-1x1.webp"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Нормативная база", "item": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/"}, {"@type": "ListItem", "position": 4, "name": "Новый порядок санкционирования (с 01.09.2026)"}]}
@@ -72,9 +72,9 @@
 <meta property="og:title" content="Новый порядок санкционирования вместо 214н — что меняется с 01.09.2026">
 <meta property="og:description" content="Новый порядок санкционирования при казначейском сопровождении: заявлен с 01.09.2026 взамен 214н, на 20.08.2026 не подписан.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/novyy-poryadok-sankcionirovaniya-2026/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__novyy-poryadok-sankcionirovaniya-2026-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Новый порядок санкционирования вместо 214н — что меняется с 01.09.2026">
 <meta property="article:published_time" content="2026-06-06T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-20T10:00:00+03:00">
@@ -83,7 +83,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Новый порядок санкционирования вместо 214н — что меняется с 01.09.2026">
 <meta name="twitter:description" content="Новый порядок санкционирования при казначейском сопровождении: заявлен с 01.09.2026 взамен 214н, на 20.08.2026 не подписан.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__novyy-poryadok-sankcionirovaniya-2026-16x9.jpg">
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
 </head>

@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Дополнительные работы по госконтракту: как оформить и добиться оплаты", "description": "Как оформить дополнительные работы по госконтракту: уведомление по ст. 743 ГК, 10 дней на ответ, лимит 10% по ст. 95 44-ФЗ и почему без допсоглашения не оплатят.", "inLanguage": "ru-RU", "datePublished": "2026-07-29", "dateModified": "2026-07-29", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/dopolnitelnye-raboty-po-goskontraktu/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Дополнительные работы по госконтракту: как оформить и добиться оплаты", "description": "Как оформить дополнительные работы по госконтракту: уведомление по ст. 743 ГК, 10 дней на ответ, лимит 10% по ст. 95 44-ФЗ и почему без допсоглашения не оплатят.", "inLanguage": "ru-RU", "datePublished": "2026-07-29", "dateModified": "2026-07-29", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__dopolnitelnye-raboty-po-goskontraktu-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__dopolnitelnye-raboty-po-goskontraktu-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__dopolnitelnye-raboty-po-goskontraktu-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/dopolnitelnye-raboty-po-goskontraktu/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Дополнительные работы", "item": "https://kaznaexpert.ru/baza-znaniy/dopolnitelnye-raboty-po-goskontraktu/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: дополнительные работы", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Дополнительные работы", "description": "работы, не учтённые в технической документации и смете, без выполнения которых недостижим предусмотренный контрактом результат; порядок их согласования установлен ст. 743 ГК."}, {"@type": "DefinedTerm", "name": "Допсоглашение", "description": "соглашение сторон об изменении контракта; для допработ — единственная легальная форма увеличения объёма и цены в пределах оснований ст. 95 закона № 44-ФЗ."}, {"@type": "DefinedTerm", "name": "Правило 10 дней", "description": "срок ответа заказчика на сообщение подрядчика о неучтённых работах (п. 3 ст. 743 ГК); при молчании подрядчик обязан приостановить работы."}, {"@type": "DefinedTerm", "name": "Правило 10%", "description": "предел изменения объёма работ и цены контракта по предложению заказчика (п. 1.2 ч. 1 ст. 95 закона № 44-ФЗ) при неизменной цене единицы."}, {"@type": "DefinedTerm", "name": "Неосновательное обогащение", "description": "получение имущества без правовых оснований (гл. 60 ГК); в спорах о самовольных допработах по госконтрактам этот иск по общему правилу не работает."}, {"@type": "DefinedTerm", "name": "Дефектная ведомость", "description": "документ, фиксирующий выявленные дефекты и необходимые работы; основа дополнительной сметы и обоснование необходимости допработ."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Дополнительные работы по госконтракту: оформление и оплата">
 <meta property="og:description" content="Дополнительные работы без допсоглашения по общему правилу не оплачиваются. Порядок статьи 743 ГК, лимит 10% по статье 95 закона № 44-ФЗ, исключение для экстренных работ и пошаговый алгоритм исполнителя.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/dopolnitelnye-raboty-po-goskontraktu/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__dopolnitelnye-raboty-po-goskontraktu-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Дополнительные работы по госконтракту: оформление и оплата — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-07-29T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Дополнительные работы по госконтракту: оформление и оплата">
 <meta name="twitter:description" content="Дополнительные работы без допсоглашения по общему правилу не оплачиваются. Порядок статьи 743 ГК, лимит 10% по статье 95 закона № 44-ФЗ, исключение для экстренных работ и пошаговый алгоритм исполнителя.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__dopolnitelnye-raboty-po-goskontraktu-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

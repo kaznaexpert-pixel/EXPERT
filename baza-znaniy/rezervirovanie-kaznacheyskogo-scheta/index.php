@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"otkrytie"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Резервирование казначейского счёта: что это, срок и когда нужно", "description": "Что такое резервирование казначейского счёта: номер получают заранее до контракта, резерв действует 6 месяцев, заявление по форме 0531368, дистанционно.", "inLanguage": "ru-RU", "datePublished": "2026-08-10", "dateModified": "2026-09-01", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/rezervirovanie-kaznacheyskogo-scheta/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Резервирование казначейского счёта: что это, срок и когда нужно", "description": "Что такое резервирование казначейского счёта: номер получают заранее до контракта, резерв действует 6 месяцев, заявление по форме 0531368, дистанционно.", "inLanguage": "ru-RU", "datePublished": "2026-08-10", "dateModified": "2026-09-01", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__rezervirovanie-kaznacheyskogo-scheta-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__rezervirovanie-kaznacheyskogo-scheta-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__rezervirovanie-kaznacheyskogo-scheta-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/rezervirovanie-kaznacheyskogo-scheta/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Резервирование казначейского счёта", "item": "https://kaznaexpert.ru/baza-znaniy/rezervirovanie-kaznacheyskogo-scheta/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: резервирование казначейского счёта", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Резервирование счёта", "description": "Получение номера лицевого счёта в казначействе заранее, до заключения контракта."}, {"@type": "DefinedTerm", "name": "Форма по КФД 0531368", "description": "Заявление на резервирование (открытие, закрытие) лицевого счёта участника казначейского сопровождения."}, {"@type": "DefinedTerm", "name": "Лицевой счёт «71»", "description": "Счёт участника казначейского сопровождения, не являющегося участником бюджетного процесса."}, {"@type": "DefinedTerm", "name": "ТОФК", "description": "Территориальный орган Федерального казначейства, который резервирует и открывает счёт."}, {"@type": "DefinedTerm", "name": "ГИИС «Электронный бюджет»", "description": "Система, через которую подаётся заявление на резервирование и открытие счёта."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Резервирование казначейского счёта: что это и срок">
 <meta property="og:description" content="Резервирование казначейского счёта — получение номера лицевого счёта заранее, до заключения контракта: срок резерва 6 месяцев, форма 0531368, подача через «Электронный бюджет».">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/rezervirovanie-kaznacheyskogo-scheta/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__rezervirovanie-kaznacheyskogo-scheta-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Резервирование казначейского счёта: что это и срок — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-09-01T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Резервирование казначейского счёта: что это и срок">
 <meta name="twitter:description" content="Резервирование казначейского счёта — получение номера лицевого счёта заранее, до заключения контракта: срок резерва 6 месяцев, форма 0531368, подача через «Электронный бюджет».">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__rezervirovanie-kaznacheyskogo-scheta-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

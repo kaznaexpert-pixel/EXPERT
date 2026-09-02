@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "datePublished": "2026-06-25", "dateModified": "2026-08-31", "name": "Резервирование казначейского счёта", "serviceType": "Резервирование лицевого счёта к дате тендера", "description": "Резервирование казначейского счёта за один рабочий день: анализ тендера, подготовка заявки, подача в УФК и подтверждение готовности для заказчика. Зачёт стоимости в открытие счёта.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "25000", "priceCurrency": "RUB", "description": "Резервирование казначейского счёта под ключ, разово", "url": "https://kaznaexpert.ru/uslugi/rezervirovanie-scheta/", "priceValidUntil": "2026-12-31"}, "url": "https://kaznaexpert.ru/uslugi/rezervirovanie-scheta/"}
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": ["https://kaznaexpert.ru/img/og/uslugi__rezervirovanie-scheta-16x9.jpg", "https://kaznaexpert.ru/img/og/uslugi__rezervirovanie-scheta-4x3.webp", "https://kaznaexpert.ru/img/og/uslugi__rezervirovanie-scheta-1x1.webp"], "datePublished": "2026-06-25", "dateModified": "2026-08-31", "name": "Резервирование казначейского счёта", "serviceType": "Резервирование лицевого счёта к дате тендера", "description": "Резервирование казначейского счёта за один рабочий день: анализ тендера, подготовка заявки, подача в УФК и подтверждение готовности для заказчика. Зачёт стоимости в открытие счёта.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "25000", "priceCurrency": "RUB", "description": "Резервирование казначейского счёта под ключ, разово", "url": "https://kaznaexpert.ru/uslugi/rezervirovanie-scheta/", "priceValidUntil": "2026-12-31"}, "url": "https://kaznaexpert.ru/uslugi/rezervirovanie-scheta/"}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Резервирование счёта"}]}
@@ -179,9 +179,9 @@
 <meta property="og:title" content="Резервирование казначейского счёта к дате тендера">
 <meta property="og:description" content="За 1 рабочий день: подтверждение готовности для заказчика, зачёт в открытие счёта. По всей России.">
 <meta property="og:url" content="https://kaznaexpert.ru/uslugi/rezervirovanie-scheta/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/uslugi__rezervirovanie-scheta-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Резервирование казначейского счёта к дате тендера — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
@@ -190,7 +190,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Резервирование казначейского счёта к дате тендера">
 <meta name="twitter:description" content="За 1 рабочий день: подтверждение готовности для заказчика, зачёт в открытие счёта. По всей России.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/uslugi__rezervirovanie-scheta-16x9.jpg">
 
 <link rel="stylesheet" href="/css/landing-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/landing-shared.css') ?>">
 </head>

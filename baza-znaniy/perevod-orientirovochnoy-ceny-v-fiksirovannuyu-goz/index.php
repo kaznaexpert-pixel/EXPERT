@@ -26,42 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"article", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Перевод ориентировочной цены в фиксированную по ГОЗ: порядок в 2026 году",
-  "description": "Как перевести ориентировочную цену в фиксированную по ГОЗ: виды цен, сроки (не позднее 2 мес. до поставки), пакет РКМ, 20 рабочих дней, ПП № 1465 и 275-ФЗ.",
-  "datePublished": "2026-06-07T09:08:00+03:00",
-  "dateModified": "2026-09-01",
-  "inLanguage": "ru-RU",
-  "author": {
-    "@type": "Person",
-    "name": "Ярослав Михайлов",
-    "jobTitle": "Главный эксперт",
-    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
-    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "КазнаЭксперт",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://kaznaexpert.ru/img/logogold.png"
-    },
-    "@id": "https://kaznaexpert.ru/#organization"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://kaznaexpert.ru/baza-znaniy/perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz/"
-  },
-  "image": "https://kaznaexpert.ru/img/og-image.png",
-  "citation": [
-    "https://www.consultant.ru/document/cons_doc_LAW_140175/",
-    "https://base.garant.ru/71825654/",
-    "https://www.consultant.ru/document/cons_doc_LAW_34661/",
-    "https://www.consultant.ru/document/cons_doc_LAW_462509/"
-  ]
-}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Перевод ориентировочной цены в фиксированную по ГОЗ: порядок в 2026 году", "description": "Как перевести ориентировочную цену в фиксированную по ГОЗ: виды цен, сроки (не позднее 2 мес. до поставки), пакет РКМ, 20 рабочих дней, ПП № 1465 и 275-ФЗ.", "datePublished": "2026-06-07T09:08:00+03:00", "dateModified": "2026-09-01", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz/"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz-1x1.webp"], "citation": ["https://www.consultant.ru/document/cons_doc_LAW_140175/", "https://base.garant.ru/71825654/", "https://www.consultant.ru/document/cons_doc_LAW_34661/", "https://www.consultant.ru/document/cons_doc_LAW_462509/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Перевод цены ГОЗ"}]}
@@ -113,9 +78,9 @@
 <meta property="og:title" content="Перевод ориентировочной цены в фиксированную по ГОЗ">
 <meta property="og:description" content="Как перевести ориентировочную цену в фиксированную по ГОЗ: виды цен, сроки (не позднее 2 мес. до поставки), пакет РКМ, 20 рабочих дней, ПП № 1465 и 275-ФЗ.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-07T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-09-01T09:00:00+03:00">
@@ -124,7 +89,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Перевод ориентировочной цены в фиксированную по ГОЗ">
 <meta name="twitter:description" content="Как перевести ориентировочную цену в фиксированную по ГОЗ: виды цен, сроки (не позднее 2 мес. до поставки), пакет РКМ, 20 рабочих дней, ПП № 1465 и 275-ФЗ.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz-16x9.jpg">
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
 </head>

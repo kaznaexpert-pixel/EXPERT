@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Командировочные и подотчётные при казначейском сопровождении: как оплатить", "description": "Как оплатить командировку с лицевого счёта при казначейском сопровождении: суточные, билеты и гостиницы, коды выплат, запрет наличных и возмещение расходов.", "inLanguage": "ru-RU", "datePublished": "2026-07-24", "dateModified": "2026-09-01", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/komandirovochnye-i-podotchetnye-pri-ks/"}, "citation": ["Бюджетный кодекс РФ, ст. 242.23. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_19702/68f24d27edee7d0ca5315de64a951b15f0af209f/", "Приказ Минфина России от 17.12.2021 № 214н, Приложение 3.", "Налоговый кодекс РФ, ст. 217, 422.", "Постановление Правительства РФ от 13.10.2008 № 749.", "Федеральный закон от 29.12.2012 № 275-ФЗ, ст. 8.3–8.4."]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Командировочные и подотчётные при казначейском сопровождении: как оплатить", "description": "Как оплатить командировку с лицевого счёта при казначейском сопровождении: суточные, билеты и гостиницы, коды выплат, запрет наличных и возмещение расходов.", "inLanguage": "ru-RU", "datePublished": "2026-07-24", "dateModified": "2026-09-01", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__komandirovochnye-i-podotchetnye-pri-ks-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__komandirovochnye-i-podotchetnye-pri-ks-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__komandirovochnye-i-podotchetnye-pri-ks-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/komandirovochnye-i-podotchetnye-pri-ks/"}, "citation": ["Бюджетный кодекс РФ, ст. 242.23. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_19702/68f24d27edee7d0ca5315de64a951b15f0af209f/", "Приказ Минфина России от 17.12.2021 № 214н, Приложение 3.", "Налоговый кодекс РФ, ст. 217, 422.", "Постановление Правительства РФ от 13.10.2008 № 749.", "Федеральный закон от 29.12.2012 № 275-ФЗ, ст. 8.3–8.4."]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Командировочные при казначейском сопровождении", "item": "https://kaznaexpert.ru/baza-znaniy/komandirovochnye-i-podotchetnye-pri-ks/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: командировочные при казначейском сопровождении", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Командировочные расходы", "description": "проезд, наём жилого помещения, суточные и иные расходы, связанные со служебной командировкой (ст. 168 ТК РФ)."}, {"@type": "DefinedTerm", "name": "Суточные", "description": "дополнительные расходы, связанные с проживанием вне места жительства; не облагаются НДФЛ и взносами в пределах 700 ₽ по России и 2500 ₽ за границей."}, {"@type": "DefinedTerm", "name": "Подотчётные средства", "description": "аванс, выданный работнику под отчёт; при казначейском сопровождении перечисляется на банковский счёт сотрудника."}, {"@type": "DefinedTerm", "name": "Прямая оплата", "description": "перечисление с лицевого счёта на счёт поставщика услуг из перечня исключений пп. 4 п. 3 ст. 242.23 БК."}, {"@type": "DefinedTerm", "name": "Возмещение произведённых расходов", "description": "возврат с лицевого счёта средств, ранее оплаченных с расчётного счёта исполнителя, кодом с первым разрядом 9."}, {"@type": "DefinedTerm", "name": "Код направления расходования", "description": "код по Приложению 3 к приказу Минфина № 214н, привязывающий выплату с лицевого счёта к её экономическому содержанию."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Командировочные при казначейском сопровождении">
 <meta property="og:description" content="Наличные с лицевого счёта не выдаются — но командировку оплатить можно: выплаты работнику, прямая оплата билетов и гостиниц, возмещение расходов. Разбор с кодами.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/komandirovochnye-i-podotchetnye-pri-ks/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__komandirovochnye-i-podotchetnye-pri-ks-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Командировочные при казначейском сопровождении — КазнаЭксперт">
 <meta property="article:published_time" content="2026-07-24T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-09-01T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Командировочные при казначейском сопровождении">
 <meta name="twitter:description" content="Наличные с лицевого счёта не выдаются — но командировку оплатить можно: выплаты работнику, прямая оплата билетов и гостиниц, возмещение расходов. Разбор с кодами.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__komandirovochnye-i-podotchetnye-pri-ks-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

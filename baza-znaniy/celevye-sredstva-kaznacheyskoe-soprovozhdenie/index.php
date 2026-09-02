@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Целевые средства при казначейском сопровождении: что это, виды, режим и коды", "description": "Что такое целевые средства, какие средства относятся к целевым в 2026 году по ст. 5 Закона № 426-ФЗ, как они маркируются ИГК и кодами и в каком режиме расходуются с лицевого счёта 71.", "inLanguage": "ru-RU", "datePublished": "2026-06-14", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/c4bad396d963c79cf5c4665d8fc50e017a94309f/", "https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/", "https://www.consultant.ru/law/hotdocs/92017.html", "https://www.garant.ru/products/ipo/prime/doc/413709754/", "https://www.consultant.ru/document/cons_doc_LAW_437073/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Целевые средства при казначейском сопровождении: что это, виды, режим и коды", "description": "Что такое целевые средства, какие средства относятся к целевым в 2026 году по ст. 5 Закона № 426-ФЗ, как они маркируются ИГК и кодами и в каком режиме расходуются с лицевого счёта 71.", "inLanguage": "ru-RU", "datePublished": "2026-06-14", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__celevye-sredstva-kaznacheyskoe-soprovozhdenie-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__celevye-sredstva-kaznacheyskoe-soprovozhdenie-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__celevye-sredstva-kaznacheyskoe-soprovozhdenie-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_19702/c4bad396d963c79cf5c4665d8fc50e017a94309f/", "https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/", "https://www.consultant.ru/law/hotdocs/92017.html", "https://www.garant.ru/products/ipo/prime/doc/413709754/", "https://www.consultant.ru/document/cons_doc_LAW_437073/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Целевые средства", "item": "https://kaznaexpert.ru/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/"}]}
@@ -53,7 +53,7 @@
 ]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -93,9 +93,9 @@
 <meta property="og:title" content="Целевые средства: что это, виды, назначение и коды в 2026">
 <meta property="og:description" content="Целевые средства: что это, какие бывают виды, кто определяет назначение целевых средств, чем различаются коды поступления и расходования и когда статус снимается.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__celevye-sredstva-kaznacheyskoe-soprovozhdenie-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Целевые средства при казначейском сопровождении: что это, виды, режим и коды — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-14T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
@@ -104,7 +104,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Целевые средства: что это, виды, назначение и коды в 2026">
 <meta name="twitter:description" content="Целевые средства: что это, какие бывают виды, кто определяет назначение целевых средств, чем различаются коды поступления и расходования и когда статус снимается.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__celevye-sredstva-kaznacheyskoe-soprovozhdenie-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

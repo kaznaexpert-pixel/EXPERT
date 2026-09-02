@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"giis"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "ГИИС «Электронный бюджет» для исполнителя контракта: подключение, вход по сертификату, личный кабинет", "description": "ГИИС «Электронный бюджет» для исполнителя контракта: карта подсистем и адресов входа, чем отличается от СУФД, как подключиться через ТОФК и войти по подписи.", "inLanguage": "ru-RU", "datePublished": "2026-06-13", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_182473/", "https://minfin.gov.ru/ru/ismf/electronic_budget/connect/regional/order/", "https://roskazna.gov.ru/gis/ehlektronnyj-byudzhet/", "https://www.consultant.ru/document/cons_doc_LAW_19702/68f24d27edee7d0ca5315de64a951b15f0af209f/", "https://www.consultant.ru/document/cons_doc_LAW_208093/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "ГИИС «Электронный бюджет» для исполнителя контракта: подключение, вход по сертификату, личный кабинет", "description": "ГИИС «Электронный бюджет» для исполнителя контракта: карта подсистем и адресов входа, чем отличается от СУФД, как подключиться через ТОФК и войти по подписи.", "inLanguage": "ru-RU", "datePublished": "2026-06-13", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_182473/", "https://minfin.gov.ru/ru/ismf/electronic_budget/connect/regional/order/", "https://roskazna.gov.ru/gis/ehlektronnyj-byudzhet/", "https://www.consultant.ru/document/cons_doc_LAW_19702/68f24d27edee7d0ca5315de64a951b15f0af209f/", "https://www.consultant.ru/document/cons_doc_LAW_208093/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Электронный бюджет для исполнителя", "item": "https://kaznaexpert.ru/baza-znaniy/elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta/"}]}
@@ -53,7 +53,7 @@
 ]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -93,9 +93,9 @@
 <meta property="og:title" content="Электронный бюджет: вход по сертификату и личный кабинет">
 <meta property="og:description" content="ГИИС «Электронный бюджет» для исполнителя контракта: карта подсистем и адресов входа, чем отличается от СУФД, как подключиться через ТОФК и войти по подписи.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Электронный бюджет для исполнителя контракта: подключение и вход — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-13T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
@@ -104,7 +104,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Электронный бюджет для исполнителя контракта: подключение и вход">
 <meta name="twitter:description" content="ГИИС «Электронный бюджет» для исполнителя контракта: карта подсистем и адресов входа, чем отличается от СУФД, как подключиться через ТОФК и войти по подписи.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"code", cluster:"kody"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Код 0820 — Иные выплаты в казначейском сопровождении", "description": "Код направления расходования целевых средств 0820 «Иные выплаты»: значение, детализированные подкоды, варианты 6/8/9, примеры из практики, ошибки санкционирования, документы.", "datePublished": "2026-06-05T10:00:00+03:00", "dateModified": "2026-08-17T10:00:00+03:00", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kody/0820/"}, "image": "https://kaznaexpert.ru/img/og-image.png", "citation": ["Приказ Минфина России от 17.12.2021 № 214н (ред. от 27.06.2025), Приложение 3 «Направления расходования целевых средств». КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_405138/de4649fe56038006ee16bce420115b7ba6a80da5/", "Правило первого разряда кода (6/8/9) — Приказ Минфина России от 21.06.2023 № 97н. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_405138/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Код 0820 — Иные выплаты в казначейском сопровождении", "description": "Код направления расходования целевых средств 0820 «Иные выплаты»: значение, детализированные подкоды, варианты 6/8/9, примеры из практики, ошибки санкционирования, документы.", "datePublished": "2026-06-05T10:00:00+03:00", "dateModified": "2026-08-17T10:00:00+03:00", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kody/0820/"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__kody__0820-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__kody__0820-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__kody__0820-1x1.webp"], "citation": ["Приказ Минфина России от 17.12.2021 № 214н (ред. от 27.06.2025), Приложение 3 «Направления расходования целевых средств». КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_405138/de4649fe56038006ee16bce420115b7ba6a80da5/", "Правило первого разряда кода (6/8/9) — Приказ Минфина России от 21.06.2023 № 97н. КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_405138/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Коды", "item": "https://kaznaexpert.ru/baza-znaniy/kody/"}, {"@type": "ListItem", "position": 4, "name": "Код 0820"}]}
@@ -75,9 +75,9 @@
 <meta property="og:title" content="Код 0820/8820/9820 — Иные выплаты | КазнаЭксперт">
 <meta property="og:description" content="Код направления расходования 0820 «Иные выплаты» в казначейском сопровождении: подкоды, варианты 6/8/9, ошибки санкционирования, документы.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/kody/0820/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__kody__0820-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Код 0820/8820/9820 — Иные выплаты">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-17T09:00:00+03:00">
@@ -86,7 +86,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Код 0820/8820/9820 — Иные выплаты">
 <meta name="twitter:description" content="Код направления расходования 0820 «Иные выплаты» в казначейском сопровождении: подкоды, варианты 6/8/9, ошибки санкционирования, документы.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__kody__0820-16x9.jpg">
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
 </head>

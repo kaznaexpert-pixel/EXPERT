@@ -25,7 +25,7 @@
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "datePublished": "2026-08-13", "dateModified": "2026-08-16", "name": "Банковское сопровождение контракта под ключ", "serviceType": "Банковское сопровождение госконтрактов и ГОЗ (ПП № 963, 275-ФЗ)", "description": "Банковское сопровождение контракта под ключ: выбор уполномоченного банка, открытие отдельного счёта, подготовка платежей с ИГК, прохождение банковского контроля без блокировок, разблокировка проблемных платежей. Ведёт эксперт по банковскому сопровождению.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/bankovskoe-soprovozhdenie/", "offers": [{"@type": "Offer", "name": "Банковское сопровождение под ключ", "price": "105000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "priceValidUntil": "2026-12-31"}, {"@type": "Offer", "name": "Пакет «банковское + казначейское сопровождение»", "price": "180000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "priceValidUntil": "2026-12-31"}]}
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": ["https://kaznaexpert.ru/img/og/uslugi__bankovskoe-soprovozhdenie-16x9.jpg", "https://kaznaexpert.ru/img/og/uslugi__bankovskoe-soprovozhdenie-4x3.webp", "https://kaznaexpert.ru/img/og/uslugi__bankovskoe-soprovozhdenie-1x1.webp"], "datePublished": "2026-08-13", "dateModified": "2026-08-16", "name": "Банковское сопровождение контракта под ключ", "serviceType": "Банковское сопровождение госконтрактов и ГОЗ (ПП № 963, 275-ФЗ)", "description": "Банковское сопровождение контракта под ключ: выбор уполномоченного банка, открытие отдельного счёта, подготовка платежей с ИГК, прохождение банковского контроля без блокировок, разблокировка проблемных платежей. Ведёт эксперт по банковскому сопровождению.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/bankovskoe-soprovozhdenie/", "offers": [{"@type": "Offer", "name": "Банковское сопровождение под ключ", "price": "105000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "priceValidUntil": "2026-12-31"}, {"@type": "Offer", "name": "Пакет «банковское + казначейское сопровождение»", "price": "180000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "priceValidUntil": "2026-12-31"}]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Банковское сопровождение"}]}
@@ -71,9 +71,9 @@
 <meta property="og:title" content="Банковское сопровождение контракта — под ключ, 105 000 ₽/мес">
 <meta property="og:description" content="Уполномоченный банк, отдельный счёт, платежи с ИГК без блокировок. Банковский контур контракта под ключ. Вся Россия.">
 <meta property="og:url" content="https://kaznaexpert.ru/uslugi/bankovskoe-soprovozhdenie/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/uslugi__bankovskoe-soprovozhdenie-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Восстановление раздельного учёта — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-16T09:00:00+03:00">
@@ -82,7 +82,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Банковское сопровождение контракта — под ключ">
 <meta name="twitter:description" content="Выбор банка, ОБС, платежи с ИГК, прохождение банковского контроля. 105 000 ₽/мес без лимита операций.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/uslugi__bankovskoe-soprovozhdenie-16x9.jpg">
 
 <!-- Schema: Article -->
 <!-- Schema: HowTo -->

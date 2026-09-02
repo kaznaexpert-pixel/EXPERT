@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Приостановка работ по госконтракту: когда исполнитель вправе остановиться", "description": "Когда подрядчик вправе приостановить работы по госконтракту: статьи 716 и 719 ГК, обязательное уведомление, риски одностороннего отказа и РНП, неоплата и 44-ФЗ.", "inLanguage": "ru-RU", "datePublished": "2026-07-29", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/priostanovka-rabot-po-goskontraktu/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Приостановка работ по госконтракту: когда исполнитель вправе остановиться", "description": "Когда подрядчик вправе приостановить работы по госконтракту: статьи 716 и 719 ГК, обязательное уведомление, риски одностороннего отказа и РНП, неоплата и 44-ФЗ.", "inLanguage": "ru-RU", "datePublished": "2026-07-29", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__priostanovka-rabot-po-goskontraktu-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__priostanovka-rabot-po-goskontraktu-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__priostanovka-rabot-po-goskontraktu-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/priostanovka-rabot-po-goskontraktu/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Приостановка работ", "item": "https://kaznaexpert.ru/baza-znaniy/priostanovka-rabot-po-goskontraktu/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: приостановка работ по контракту", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Приостановка работ", "description": "юридически оформленное прекращение выполнения работ по основаниям, предусмотренным законом или договором, с уведомлением заказчика; исключает период простоя из просрочки исполнителя."}, {"@type": "DefinedTerm", "name": "Встречное исполнение", "description": "исполнение обязательства одной стороной, обусловленное исполнением обязательств другой стороной (ст. 328 ГК); основа права подрядчика не работать без площадки, документации, материалов заказчика."}, {"@type": "DefinedTerm", "name": "Просрочка кредитора", "description": "ситуация ст. 406 ГК: кредитор не совершил действий, до которых должник не мог исполнить обязательство; должник не считается просрочившим, пока обязательство нельзя было исполнить из-за кредитора."}, {"@type": "DefinedTerm", "name": "Консервация объекта", "description": "комплекс мер по обеспечению сохранности объекта при остановке строительства; при приостановке по вине заказчика её стоимость относится к убыткам простоя."}, {"@type": "DefinedTerm", "name": "Односторонний отказ", "description": "внесудебное расторжение контракта по решению одной стороны (ст. 95 закона № 44-ФЗ); у заказчика — по основаниям ГК, если право предусмотрено контрактом."}, {"@type": "DefinedTerm", "name": "РНП", "description": "реестр недобросовестных поставщиков — двухлетнее отлучение от госзакупок; стандартное последствие одностороннего отказа заказчика."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Приостановка работ по госконтракту: права исполнителя">
 <meta property="og:description" content="Статьи 716, 719 и 743 ГК дают подрядчику право, а иногда обязанность приостановить работы. Как оформить уведомление, чем приостановка грозит по 44-ФЗ и можно ли останавливаться из-за неоплаты.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/priostanovka-rabot-po-goskontraktu/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__priostanovka-rabot-po-goskontraktu-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Приостановка работ по госконтракту: права исполнителя — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Приостановка работ по госконтракту: права исполнителя">
 <meta name="twitter:description" content="Статьи 716, 719 и 743 ГК дают подрядчику право, а иногда обязанность приостановить работы. Как оформить уведомление, чем приостановка грозит по 44-ФЗ и можно ли останавливаться из-за неоплаты.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__priostanovka-rabot-po-goskontraktu-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

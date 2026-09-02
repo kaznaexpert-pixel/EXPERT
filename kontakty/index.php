@@ -62,9 +62,9 @@
 <meta property="og:title" content="Контакты КазнаЭксперт">
 <meta property="og:description" content="Телефон +7 (981) 833-10-10, почта manager@kaznaexpert.ru, Telegram @Kaznaexpert, реквизиты ИП. Казначейское сопровождение под ключ.">
 <meta property="og:url" content="https://kaznaexpert.ru/kontakty/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/kontakty-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-07-22T09:00:00+03:00">
@@ -73,7 +73,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Контакты КазнаЭксперт">
 <meta name="twitter:description" content="Телефон, почта, Telegram и реквизиты КазнаЭксперт.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/kontakty-16x9.jpg">
 
 <style>
 :root{

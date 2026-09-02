@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ecp"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Корневые сертификаты казначейства: как установить в 2026", "description": "Корневые сертификаты казначейства: где скачать, в какие хранилища установить, как выстроить цепочку доверия, что делать на сервере и при замене сертификата центра.", "inLanguage": "ru-RU", "datePublished": "2026-06-10", "dateModified": "2026-08-28", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kornevye-sertifikaty-kaznachejstva/"}, "citation": ["https://roskazna.gov.ru/gis/udostoveryayushhij-centr/", "http://crl.roskazna.ru/crl/", "https://www.consultant.ru/document/cons_doc_LAW_112701/", "https://cryptopro.ru/", "https://cpdn.cryptopro.ru/content/ngate/admin-guide/source/10-source-csp/task-root-certificate-installation.html"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Корневые сертификаты казначейства: как установить в 2026", "description": "Корневые сертификаты казначейства: где скачать, в какие хранилища установить, как выстроить цепочку доверия, что делать на сервере и при замене сертификата центра.", "inLanguage": "ru-RU", "datePublished": "2026-06-10", "dateModified": "2026-08-28", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__kornevye-sertifikaty-kaznachejstva-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__kornevye-sertifikaty-kaznachejstva-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__kornevye-sertifikaty-kaznachejstva-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kornevye-sertifikaty-kaznachejstva/"}, "citation": ["https://roskazna.gov.ru/gis/udostoveryayushhij-centr/", "http://crl.roskazna.ru/crl/", "https://www.consultant.ru/document/cons_doc_LAW_112701/", "https://cryptopro.ru/", "https://cpdn.cryptopro.ru/content/ngate/admin-guide/source/10-source-csp/task-root-certificate-installation.html"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Корневые сертификаты УЦ казначейства"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTerm", "name": "Корневые сертификаты УЦ казначейства", "description": "Сертификаты вышестоящих удостоверяющих центров (Головной УЦ Минцифры и УЦ Федерального казначейства), подтверждающие подлинность подписи пользователя и образующие цепочку доверия.", "inDefinedTermSet": "https://kaznaexpert.ru/baza-znaniy/glossary/"}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Корневые сертификаты казначейства: как установить в 2026">
 <meta property="og:description" content="Корневые сертификаты казначейства: где скачать, в какие хранилища установить, как выстроить цепочку доверия, что делать на сервере и при замене сертификата центра.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/kornevye-sertifikaty-kaznachejstva/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__kornevye-sertifikaty-kaznachejstva-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Корневые сертификаты УЦ казначейства: где скачать и установить — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-10T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-28T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Корневые сертификаты казначейства: как установить в 2026">
 <meta name="twitter:description" content="Корневые сертификаты казначейства: где скачать, в какие хранилища установить, как выстроить цепочку доверия, что делать на сервере и при замене сертификата центра.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__kornevye-sertifikaty-kaznachejstva-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

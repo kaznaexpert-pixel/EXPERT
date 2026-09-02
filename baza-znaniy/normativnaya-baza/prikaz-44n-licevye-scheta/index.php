@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"npa", cluster:"normativka"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Article", "Legislation"], "headline": "Приказ Казначейства № 44н — открытие лицевых счетов участников казначейского сопровождения в ТОФК", "description": "Порядок открытия, переоформления и закрытия лицевых счетов участников казначейского сопровождения в ТОФК (в т.ч. счёта с кодом 71). Действующая редакция — с учётом изменений по приказу Казначейства от 22.06.2026 № 14н, применяемых с 1 сентября 2026 года.", "datePublished": "2026-06-06T10:00:00+03:00", "dateModified": "2026-09-01T10:00:00+03:00", "inLanguage": "ru-RU", "legislationIdentifier": "44н", "about": "Приказ Федерального казначейства от 22.12.2021 № 44н «Об утверждении Порядка открытия лицевых счетов территориальными органами Федерального казначейства участникам казначейского сопровождения»", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/prikaz-44n-licevye-scheta/"}, "image": "https://kaznaexpert.ru/img/og-image.png"}
+{"@context": "https://schema.org", "@type": ["Article", "Legislation"], "headline": "Приказ Казначейства № 44н — открытие лицевых счетов участников казначейского сопровождения в ТОФК", "description": "Порядок открытия, переоформления и закрытия лицевых счетов участников казначейского сопровождения в ТОФК (в т.ч. счёта с кодом 71). Действующая редакция — с учётом изменений по приказу Казначейства от 22.06.2026 № 14н, применяемых с 1 сентября 2026 года.", "datePublished": "2026-06-06T10:00:00+03:00", "dateModified": "2026-09-01T10:00:00+03:00", "inLanguage": "ru-RU", "legislationIdentifier": "44н", "about": "Приказ Федерального казначейства от 22.12.2021 № 44н «Об утверждении Порядка открытия лицевых счетов территориальными органами Федерального казначейства участникам казначейского сопровождения»", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/prikaz-44n-licevye-scheta/"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__prikaz-44n-licevye-scheta-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__prikaz-44n-licevye-scheta-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__prikaz-44n-licevye-scheta-1x1.webp"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Нормативная база", "item": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/"}, {"@type": "ListItem", "position": 4, "name": "Приказ Казначейства № 44н (лицевые счета)"}]}
@@ -72,9 +72,9 @@
 <meta property="og:title" content="Приказ Казначейства № 44н — открытие лицевых счетов участников казначейского сопровождения в">
 <meta property="og:description" content="Порядок открытия, переоформления и закрытия лицевых счетов участников казначейского сопровождения в ТОФК (в т.ч. счёта с кодом 71), состав документов и форм.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/prikaz-44n-licevye-scheta/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__prikaz-44n-licevye-scheta-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Приказ Казначейства № 44н: открытие лицевых счетов «71»">
 <meta property="article:published_time" content="2026-06-06T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-09-01T09:00:00+03:00">
@@ -83,7 +83,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Приказ Казначейства № 44н: открытие лицевых счетов «71»">
 <meta name="twitter:description" content="Порядок открытия, переоформления и закрытия лицевых счетов участников казначейского сопровождения в ТОФК (в т.ч. счёта с кодом 71), состав документов и форм.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__prikaz-44n-licevye-scheta-16x9.jpg">
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
 </head>

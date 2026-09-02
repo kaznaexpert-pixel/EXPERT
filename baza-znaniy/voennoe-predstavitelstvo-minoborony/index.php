@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Военное представительство Минобороны: функции, заключение о цене и приёмка", "description": "Что такое военное представительство Минобороны, какие у него полномочия, как выдаётся заключение о цене по ГОЗ, когда ВП приостанавливает приёмку продукции.", "inLanguage": "ru-RU", "datePublished": "2026-08-03", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/voennoe-predstavitelstvo-minoborony/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Военное представительство Минобороны: функции, заключение о цене и приёмка", "description": "Что такое военное представительство Минобороны, какие у него полномочия, как выдаётся заключение о цене по ГОЗ, когда ВП приостанавливает приёмку продукции.", "inLanguage": "ru-RU", "datePublished": "2026-08-03", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__voennoe-predstavitelstvo-minoborony-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__voennoe-predstavitelstvo-minoborony-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__voennoe-predstavitelstvo-minoborony-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/voennoe-predstavitelstvo-minoborony/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Военное представительство", "item": "https://kaznaexpert.ru/baza-znaniy/voennoe-predstavitelstvo-minoborony/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: военное представительство и цена по ГОЗ", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Военное представительство (ВП)", "description": "подразделение в составе Вооружённых Сил Российской Федерации, создаваемое в организациях для контроля качества и приёмки военной продукции и выдачи заключений о её цене."}, {"@type": "DefinedTerm", "name": "Военная продукция", "description": "вооружение, военная техника, военно-техническое и иное имущество, научно-техническая и иная продукция, а также работы, выполняемые в интересах обороны (п. 1 Положения о ВП)."}, {"@type": "DefinedTerm", "name": "Заключение о цене", "description": "документ военного представительства по форме приказа Министра обороны РФ № 224, в котором фиксируются принятые и отклонённые затраты, вид цены и размер цены единицы продукции по годам."}, {"@type": "DefinedTerm", "name": "Прогнозная цена", "description": "цена единицы продукции, определяемая на перспективу для потенциального единственного поставщика; одна из процедур, по которым выдаётся заключение ВП."}, {"@type": "DefinedTerm", "name": "Привнесённые затраты", "description": "затраты, связанные с приобретением продукции, работ и услуг у сторонних организаций; в калькуляции отделяются от собственных затрат предприятия."}, {"@type": "DefinedTerm", "name": "Удостоверение на принятую продукцию", "description": "документ, который военное представительство выдаёт организации по результатам приёмки военной продукции."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Военное представительство Минобороны: функции и заключение о цене">
 <meta property="og:description" content="Полномочия военного представительства по постановлению № 804, форма заключения о цене по приказу Минобороны № 224, приостановка приёмки и правила работы предприятия с ВП.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/voennoe-predstavitelstvo-minoborony/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__voennoe-predstavitelstvo-minoborony-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Военное представительство Минобороны: функции и заключение о цене — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Военное представительство Минобороны: функции и заключение о цене">
 <meta name="twitter:description" content="Полномочия военного представительства по постановлению № 804, форма заключения о цене по приказу Минобороны № 224, приостановка приёмки и правила работы предприятия с ВП.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__voennoe-predstavitelstvo-minoborony-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

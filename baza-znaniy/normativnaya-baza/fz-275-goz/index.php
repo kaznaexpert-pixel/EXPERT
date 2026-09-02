@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"npa", cluster:"normativka"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Article", "Legislation"], "headline": "275-ФЗ о гособоронзаказе: казначейское и банковское сопровождение расчётов по ГОЗ", "description": "Банковское и казначейское сопровождение расчётов по ГОЗ, режим отдельного счёта (ст. 8.3), освобождение от обеспечения исполнения контракта при сопровождении.", "datePublished": "2026-06-06T10:00:00+03:00", "dateModified": "2026-08-31T10:00:00+03:00", "inLanguage": "ru-RU", "legislationIdentifier": "275-ФЗ", "about": "Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе»", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/fz-275-goz/"}, "image": "https://kaznaexpert.ru/img/og-image.png"}
+{"@context": "https://schema.org", "@type": ["Article", "Legislation"], "headline": "275-ФЗ о гособоронзаказе: казначейское и банковское сопровождение расчётов по ГОЗ", "description": "Банковское и казначейское сопровождение расчётов по ГОЗ, режим отдельного счёта (ст. 8.3), освобождение от обеспечения исполнения контракта при сопровождении.", "datePublished": "2026-06-06T10:00:00+03:00", "dateModified": "2026-08-31T10:00:00+03:00", "inLanguage": "ru-RU", "legislationIdentifier": "275-ФЗ", "about": "Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе»", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/fz-275-goz/"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__fz-275-goz-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__fz-275-goz-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__fz-275-goz-1x1.webp"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Нормативная база", "item": "https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/"}, {"@type": "ListItem", "position": 4, "name": "275-ФЗ (ГОЗ)"}]}
@@ -72,9 +72,9 @@
 <meta property="og:title" content="275-ФЗ о гособоронзаказе: казначейское и банковское сопровождение">
 <meta property="og:description" content="Банковское и казначейское сопровождение расчётов по ГОЗ, режим отдельного счёта (ст. 8.3), освобождение от обеспечения исполнения контракта при сопровождении.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/normativnaya-baza/fz-275-goz/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__fz-275-goz-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="275-ФЗ о гособоронзаказе: казначейское и банковское сопровождение">
 <meta property="article:published_time" content="2026-06-06T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
@@ -83,7 +83,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="275-ФЗ о гособоронзаказе: казначейское и банковское сопровождение">
 <meta name="twitter:description" content="Банковское и казначейское сопровождение расчётов по ГОЗ, режим отдельного счёта (ст. 8.3), освобождение от обеспечения исполнения контракта при сопровождении.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__normativnaya-baza__fz-275-goz-16x9.jpg">
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
 </head>

@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "АСТ ГОЗ: что это и как работает электронная площадка в 2026", "description": "АСТ ГОЗ: аккредитация по постановлению № 223 (срок 3 года), вход в личный кабинет по подписи и защищённому каналу, лицензия для закупок с гостайной.", "inLanguage": "ru-RU", "datePublished": "2026-06-10", "dateModified": "2026-08-18", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/ast-goz-elektronnaya-ploschadka/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_302473/", "https://www.consultant.ru/document/cons_doc_LAW_144624/74fd366280bf5a8a071c18cc77f48daf80f5102f/", "https://www.consultant.ru/document/cons_doc_LAW_140175/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "АСТ ГОЗ: что это и как работает электронная площадка в 2026", "description": "АСТ ГОЗ: аккредитация по постановлению № 223 (срок 3 года), вход в личный кабинет по подписи и защищённому каналу, лицензия для закупок с гостайной.", "inLanguage": "ru-RU", "datePublished": "2026-06-10", "dateModified": "2026-08-18", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__ast-goz-elektronnaya-ploschadka-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__ast-goz-elektronnaya-ploschadka-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__ast-goz-elektronnaya-ploschadka-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/ast-goz-elektronnaya-ploschadka/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_302473/", "https://www.consultant.ru/document/cons_doc_LAW_144624/74fd366280bf5a8a071c18cc77f48daf80f5102f/", "https://www.consultant.ru/document/cons_doc_LAW_140175/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"АСТ ГОЗ: электронная площадка"}]}
@@ -48,7 +48,7 @@
 {"@context":"https://schema.org","@type":"DefinedTerm","name":"АСТ ГОЗ","description":"Специализированная электронная площадка (оператор — ООО «АСТ ГОЗ») для проведения закрытых конкурентных закупок в электронной форме, в том числе по государственному оборонному заказу. Основание — распоряжение Правительства РФ от 12.07.2018 № 1447-р.","inDefinedTermSet":"https://kaznaexpert.ru/baza-znaniy/glossary/"}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -88,9 +88,9 @@
 <meta property="og:title" content="АСТ ГОЗ: электронная площадка, официальный сайт и вход 44-ФЗ">
 <meta property="og:description" content="АСТ ГОЗ: электронная площадка закрытых закупок ГОЗ. Официальный перечень операторов, аккредитация по постановлению № 223, вход в личный кабинет и плата оператора.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/ast-goz-elektronnaya-ploschadka/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__ast-goz-elektronnaya-ploschadka-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="АСТ ГОЗ: что это и как работает электронная площадка — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-10T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-18T09:00:00+03:00">
@@ -99,7 +99,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="АСТ ГОЗ: электронная площадка, официальный сайт и вход 44-ФЗ">
 <meta name="twitter:description" content="АСТ ГОЗ: электронная площадка закрытых закупок ГОЗ. Официальный перечень операторов, аккредитация по постановлению № 223, вход в личный кабинет и плата оператора.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__ast-goz-elektronnaya-ploschadka-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"uchet"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Промежуточная бухгалтерская отчётность исполнителя ГОЗ в 2026 году", "description": "Кто из исполнителей гособоронзаказа сдаёт промежуточную бухгалтерскую отчётность, за какие периоды, в какие сроки и по какому формату. Порядок по ПП № 797.", "inLanguage": "ru-RU", "datePublished": "2026-08-03", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/promezhutochnaya-otchetnost-goz/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Промежуточная бухгалтерская отчётность исполнителя ГОЗ в 2026 году", "description": "Кто из исполнителей гособоронзаказа сдаёт промежуточную бухгалтерскую отчётность, за какие периоды, в какие сроки и по какому формату. Порядок по ПП № 797.", "inLanguage": "ru-RU", "datePublished": "2026-08-03", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__promezhutochnaya-otchetnost-goz-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__promezhutochnaya-otchetnost-goz-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__promezhutochnaya-otchetnost-goz-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/promezhutochnaya-otchetnost-goz/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Промежуточная отчётность по ГОЗ", "item": "https://kaznaexpert.ru/baza-znaniy/promezhutochnaya-otchetnost-goz/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: промежуточная отчётность по гособоронзаказу", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Промежуточная бухгалтерская (финансовая) отчётность", "description": "отчётность, составленная за отчётный период менее отчётного года — в контексте гособоронзаказа за первый квартал, первое полугодие и девять месяцев."}, {"@type": "DefinedTerm", "name": "Головной исполнитель", "description": "юридическое лицо, заключившее с государственным заказчиком государственный контракт по государственному оборонному заказу."}, {"@type": "DefinedTerm", "name": "Исполнитель", "description": "лицо, входящее в кооперацию головного исполнителя и заключившее контракт в целях исполнения государственного контракта по гособоронзаказу."}, {"@type": "DefinedTerm", "name": "ГИРБО", "description": "государственный информационный ресурс бухгалтерской (финансовой) отчётности, который ведёт ФНС России; в него попадает как годовая, так и промежуточная отчётность исполнителей гособоронзаказа."}, {"@type": "DefinedTerm", "name": "Отчётная дата", "description": "дата, по состоянию на которую составляется отчётность: 31 марта, 30 июня или 30 сентября; от следующего за ней дня отсчитывается 30-дневный срок."}, {"@type": "DefinedTerm", "name": "ФСБУ 4/2023", "description": "федеральный стандарт бухгалтерского учёта «Бухгалтерская (финансовая) отчётность», определяющий состав и содержание отчётности организации."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Промежуточная бухгалтерская отчётность исполнителя ГОЗ">
 <meta property="og:description" content="Новая обязанность с отчётности за первое полугодие 2026 года: кто представляет, за какие периоды, куда, в какой срок и что происходит с доступом к этой отчётности в ГИРБО.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/promezhutochnaya-otchetnost-goz/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__promezhutochnaya-otchetnost-goz-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Промежуточная бухгалтерская отчётность исполнителя ГОЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Промежуточная бухгалтерская отчётность исполнителя ГОЗ">
 <meta name="twitter:description" content="Новая обязанность с отчётности за первое полугодие 2026 года: кто представляет, за какие периоды, куда, в какой срок и что происходит с доступом к этой отчётности в ГИРБО.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__promezhutochnaya-otchetnost-goz-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">

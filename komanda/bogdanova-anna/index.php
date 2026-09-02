@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"author", cluster:"komanda"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "ProfilePage", "dateModified": "2026-08-20", "mainEntity": {"@type": "Person", "name": "Анна Богданова", "alternateName": "Богданова Анна Андреевна", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "description": "Анна Богданова — ведущий эксперт КазнаЭксперт по казначейскому сопровождению. Около 20 лет в профессии, 15 лет на стороне казначейства. Сложные операции, крупные контракты, иностранные поставки.", "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "image": "https://kaznaexpert.ru/img/team/bogdanova-photo.jpg", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "knowsAbout": ["Сложные и нестандартные операции казначейского сопровождения", "Казначейское сопровождение крупных контрактов", "Иностранные поставки и инвойсы", "Расчёты в разных валютах", "Санкционирование платежей и работа с замечаниями", "Аудит процесса казначейского сопровождения"], "colleague": {"@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person"}}
+{"@context": "https://schema.org", "@type": "ProfilePage", "dateModified": "2026-08-20", "mainEntity": {"@type": "Person", "name": "Анна Богданова", "alternateName": "Богданова Анна Андреевна", "jobTitle": "Ведущий эксперт по казначейскому сопровождению", "description": "Анна Богданова — ведущий эксперт КазнаЭксперт по казначейскому сопровождению. Около 20 лет в профессии, 15 лет на стороне казначейства. Сложные операции, крупные контракты, иностранные поставки.", "url": "https://kaznaexpert.ru/komanda/bogdanova-anna/", "image": "https://kaznaexpert.ru/img/team/bogdanova-photo.jpg", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "knowsAbout": ["Сложные и нестандартные операции казначейского сопровождения", "Казначейское сопровождение крупных контрактов", "Иностранные поставки и инвойсы", "Расчёты в разных валютах", "Санкционирование платежей и работа с замечаниями", "Аудит процесса казначейского сопровождения"], "colleague": {"@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}, "@id": "https://kaznaexpert.ru/komanda/bogdanova-anna/#person"}, "image": ["https://kaznaexpert.ru/img/og/komanda__bogdanova-anna-16x9.jpg", "https://kaznaexpert.ru/img/og/komanda__bogdanova-anna-4x3.webp", "https://kaznaexpert.ru/img/og/komanda__bogdanova-anna-1x1.webp"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Команда", "item": "https://kaznaexpert.ru/komanda/"}, {"@type": "ListItem", "position": 3, "name": "Анна Богданова"}]}
@@ -69,9 +69,9 @@
 <meta property="og:title" content="Анна Богданова — ведущий эксперт по казначейскому сопровождению">
 <meta property="og:description" content="Анна Богданова — ведущий эксперт КазнаЭксперт по казначейскому сопровождению. Около 20 лет в профессии, 15 лет на стороне казначейства. Сложные операции, крупные контракты, иностранные поставки.">
 <meta property="og:url" content="https://kaznaexpert.ru/komanda/bogdanova-anna/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/komanda__bogdanova-anna-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="КазнаЭксперт">
 <meta property="article:published_time" content="2026-08-20T12:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-20T12:00:00+03:00">
@@ -80,7 +80,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Анна Богданова — ведущий эксперт по казначейскому сопровождению">
 <meta name="twitter:description" content="Анна Богданова — ведущий эксперт КазнаЭксперт по казначейскому сопровождению. Около 20 лет в профессии, 15 лет на стороне казначейства. Сложные операции, крупные контракты, иностранные поставки.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/komanda__bogdanova-anna-16x9.jpg">
 
 <link rel="stylesheet" href="/css/landing-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/landing-shared.css') ?>">
 </head>

@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"scheta"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Закрытие лицевого счёта в казначействе: основания, сроки и остаток средств", "description": "Когда закрывают лицевой счёт участника казначейского сопровождения: шесть оснований по п. 49 Порядка № 44н, форма 0531368, сроки, судьба остатка средств.", "inLanguage": "ru-RU", "datePublished": "2026-08-17", "dateModified": "2026-09-01", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/zakrytie-licevogo-scheta-v-kaznachejstve/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Закрытие лицевого счёта в казначействе: основания, сроки и остаток средств", "description": "Когда закрывают лицевой счёт участника казначейского сопровождения: шесть оснований по п. 49 Порядка № 44н, форма 0531368, сроки, судьба остатка средств.", "inLanguage": "ru-RU", "datePublished": "2026-08-17", "dateModified": "2026-09-01", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__zakrytie-licevogo-scheta-v-kaznachejstve-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__zakrytie-licevogo-scheta-v-kaznachejstve-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__zakrytie-licevogo-scheta-v-kaznachejstve-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/zakrytie-licevogo-scheta-v-kaznachejstve/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Закрытие лицевого счёта", "item": "https://kaznaexpert.ru/baza-znaniy/zakrytie-licevogo-scheta-v-kaznachejstve/"}]}
@@ -41,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: закрытие лицевого счёта в казначействе", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Лицевой счёт участника казначейского сопровождения", "description": "счёт с кодом 71, который территориальный орган Федерального казначейства открывает исполнителю сопровождаемого контракта для операций с целевыми средствами."}, {"@type": "DefinedTerm", "name": "Раздел на лицевом счёте", "description": "аналитическая часть лицевого счёта, открываемая под каждый документ-основание; закрывается отдельно от самого счёта."}, {"@type": "DefinedTerm", "name": "Учтённые показатели", "description": "отражённые на лицевом счёте суммы обязательств и целевых средств; их наличие блокирует закрытие счёта."}, {"@type": "DefinedTerm", "name": "Заявление на резервирование/закрытие лицевого счёта", "description": "форма приложения № 1 к Порядку № 44н, код по КФД 0531368; применяется и для резервирования номера счёта, и для его закрытия."}, {"@type": "DefinedTerm", "name": "Отчёт о состоянии лицевого счёта", "description": "форма 0531372, по которой территориальный орган и клиент сверяют показатели перед закрытием счёта."}, {"@type": "DefinedTerm", "name": "Акт приёмки-передачи показателей лицевого счёта", "description": "форма 0531375, которой оформляется передача показателей правопреемнику при реорганизации."}, {"@type": "DefinedTerm", "name": "Книга регистрации лицевых счетов", "description": "электронный реестр территориального органа, где фиксируются открытие и закрытие лицевых счетов."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"]}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -81,9 +81,9 @@
 <meta property="og:title" content="Закрытие лицевого счёта в казначействе">
 <meta property="og:description" content="Шесть оснований закрытия по пункту 49 Порядка № 44н, форма 0531368, цепочка сроков, что делать с остатком целевых средств и чем закрытие раздела отличается от закрытия счёта.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/zakrytie-licevogo-scheta-v-kaznachejstve/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__zakrytie-licevogo-scheta-v-kaznachejstve-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Закрытие лицевого счёта в казначействе — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-09-01T09:00:00+03:00">
@@ -92,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Закрытие лицевого счёта в казначействе">
 <meta name="twitter:description" content="Шесть оснований закрытия по пункту 49 Порядка № 44н, форма 0531368, цепочка сроков, что делать с остатком целевых средств и чем закрытие раздела отличается от закрытия счёта.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/baza-znaniy__zakrytie-licevogo-scheta-v-kaznachejstve-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
