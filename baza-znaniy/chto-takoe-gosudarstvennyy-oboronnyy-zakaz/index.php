@@ -26,43 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Что такое гособоронзаказ (ГОЗ): простыми словами в 2026 году",
-  "description": "Гособоронзаказ (ГОЗ) — задания государства на поставки для обороны по Закону № 275-ФЗ: понятие, участники, кооперация, цены, сопровождение и ответственность.",
-  "inLanguage": "ru-RU",
-  "datePublished": "2026-06-16",
-  "dateModified": "2026-08-27",
-  "author": {
-    "@type": "Person",
-    "name": "Ярослав Михайлов",
-    "jobTitle": "Главный эксперт по казначейскому сопровождению",
-    "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/",
-    "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "КазнаЭксперт",
-    "url": "https://kaznaexpert.ru",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://kaznaexpert.ru/img/logogold.png"
-    },
-    "@id": "https://kaznaexpert.ru/#organization"
-  },
-  "image": "https://kaznaexpert.ru/img/og-image.png",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://kaznaexpert.ru/baza-znaniy/chto-takoe-gosudarstvennyy-oboronnyy-zakaz/"
-  },
-  "citation": [
-    "https://www.consultant.ru/document/cons_doc_LAW_140175/",
-    "https://www.consultant.ru/document/cons_doc_LAW_144624/",
-    "https://www.consultant.ru/document/cons_doc_LAW_284546/",
-    "https://www.consultant.ru/document/cons_doc_LAW_19702/"
-  ]
-}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Что такое гособоронзаказ (ГОЗ): простыми словами в 2026 году", "description": "Гособоронзаказ (ГОЗ) — задания государства на поставки для обороны по Закону № 275-ФЗ: понятие, участники, кооперация, цены, сопровождение и ответственность.", "inLanguage": "ru-RU", "datePublished": "2026-06-16", "dateModified": "2026-08-27", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/chto-takoe-gosudarstvennyy-oboronnyy-zakaz-16x9.jpg", "https://kaznaexpert.ru/img/og/chto-takoe-gosudarstvennyy-oboronnyy-zakaz-4x3.jpg", "https://kaznaexpert.ru/img/og/chto-takoe-gosudarstvennyy-oboronnyy-zakaz-1x1.jpg"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/chto-takoe-gosudarstvennyy-oboronnyy-zakaz/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_140175/", "https://www.consultant.ru/document/cons_doc_LAW_144624/", "https://www.consultant.ru/document/cons_doc_LAW_284546/", "https://www.consultant.ru/document/cons_doc_LAW_19702/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Что такое гособоронзаказ", "item": "https://kaznaexpert.ru/baza-znaniy/chto-takoe-gosudarstvennyy-oboronnyy-zakaz/"}]}
@@ -77,7 +41,7 @@
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Глоссарий: гособоронзаказ (ГОЗ)", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Гособоронзаказ (ГОЗ)", "description": "Установленные государством задания на поставки товаров, работ и услуг для обороны и безопасности страны и для военно-технического сотрудничества."}, {"@type": "DefinedTerm", "name": "Государственный заказчик", "description": "Федеральный орган власти, «Росатом» или «Роскосмос», обеспечивающий поставки по гособоронзаказу и заключающий госконтракт."}, {"@type": "DefinedTerm", "name": "Головной исполнитель", "description": "Юридическое лицо, заключившее государственный контракт с заказчиком и организующее выполнение заказа."}, {"@type": "DefinedTerm", "name": "Исполнитель", "description": "Лицо, входящее в кооперацию головного исполнителя и заключившее контракт с ним или с другим исполнителем."}, {"@type": "DefinedTerm", "name": "Кооперация головного исполнителя", "description": "Совокупность взаимодействующих лиц, участвующих в поставках по сопровождаемым сделкам в рамках одного гособоронзаказа."}, {"@type": "DefinedTerm", "name": "Сопровождаемая сделка", "description": "Контракт по ГОЗ, расчёты по которому подлежат банковскому или казначейскому сопровождению."}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"}
+{"@context": "https://schema.org", "@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "worksFor": {"@id": "https://kaznaexpert.ru/#organization"}, "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "sameAs": ["https://t.me/Kaznaexpert", "https://www.rusprofile.ru/ip/321784700367672"], "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -117,9 +81,9 @@
 <meta property="og:title" content="Что такое гособоронзаказ (ГОЗ): простыми словами в 2026 году">
 <meta property="og:description" content="Государственный оборонный заказ простыми словами: понятие по ст. 3 Закона № 275-ФЗ, участники (госзаказчик, головной исполнитель, исполнитель), кооперация, отличие от обычных госзакупок, цены и сопровождение.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/chto-takoe-gosudarstvennyy-oboronnyy-zakaz/">
-<meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta property="og:image" content="https://kaznaexpert.ru/img/og/chto-takoe-gosudarstvennyy-oboronnyy-zakaz-16x9.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Что такое гособоронзаказ (ГОЗ): простыми словами в 2026 году — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-16T09:00:00+03:00">
 <meta property="article:modified_time" content="2026-08-27T09:00:00+03:00">
@@ -128,7 +92,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Что такое гособоронзаказ (ГОЗ): простыми словами в 2026 году">
 <meta name="twitter:description" content="Государственный оборонный заказ простыми словами: понятие по ст. 3 Закона № 275-ФЗ, участники (госзаказчик, головной исполнитель, исполнитель), кооперация, отличие от обычных госзакупок, цены и сопровождение.">
-<meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
+<meta name="twitter:image" content="https://kaznaexpert.ru/img/og/chto-takoe-gosudarstvennyy-oboronnyy-zakaz-16x9.jpg">
 
 
 <link rel="stylesheet" href="/css/article-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/article-shared.css') ?>">
