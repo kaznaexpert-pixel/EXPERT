@@ -1,0 +1,29 @@
+/* kg-lead — компактный блок перехода из статьи в услугу.
+   Вставляется скриптом kg-lead.js перед H2 первой трети текста.
+   Мобильная сетка: один столбец, без горизонтального скролла на 375px. */
+.kg-lead{box-sizing:border-box;margin:36px 0;padding:22px 24px;border:1px solid var(--line,#e8e2d6);border-left:3px solid #9a7b4f;border-radius:14px;background:var(--soft,#fbf8f1);font-family:'Inter',system-ui,sans-serif;color:var(--ink,#1a1a1a)}
+.kg-lead *{box-sizing:border-box}
+.kg-lead__eyebrow{display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#9a7b4f;font-weight:600;margin:0 0 8px}
+.kg-lead__title{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:clamp(1.15rem,1vw+.9rem,1.4rem);line-height:1.25;letter-spacing:-.01em;margin:0 0 8px}
+.kg-lead__text{font-size:15px;line-height:1.55;color:var(--mute,#6e6b66);margin:0 0 14px}
+.kg-lead__text a{color:inherit;text-decoration:underline;text-underline-offset:2px}
+.kg-lead__form{display:grid;grid-template-columns:1fr 1fr auto;gap:10px;align-items:start}
+.kg-lead__fld{width:100%;min-width:0;padding:11px 13px;border:1px solid var(--line,#e8e2d6);border-radius:10px;background:#fff;font:inherit;font-size:15px;color:inherit}
+.kg-lead__fld:focus{outline:none;border-color:#9a7b4f;box-shadow:0 0 0 3px rgba(154,123,79,.14)}
+.kg-lead__btn{padding:11px 18px;border:0;border-radius:10px;background:var(--ink,#1a1a1a);color:#fff;font:inherit;font-size:15px;font-weight:600;cursor:pointer;white-space:nowrap;transition:opacity .15s}
+.kg-lead__btn:hover{opacity:.88}
+.kg-lead__btn[disabled]{opacity:.55;cursor:default}
+.kg-lead__policy{grid-column:1/-1;display:flex;gap:9px;align-items:flex-start;font-size:13px;line-height:1.45;color:var(--mute,#6e6b66);margin:0}
+.kg-lead__policy input{margin:3px 0 0;flex:none}
+.kg-lead__policy a{color:inherit;text-decoration:underline;text-underline-offset:2px}
+.kg-lead__hp{position:absolute;left:-9999px;width:1px;height:1px;opacity:0}
+.kg-lead__msg{grid-column:1/-1;font-size:13px;color:#a33;margin:0}
+.kg-lead__msg[hidden]{display:none}
+.kg-lead__ok{display:none;font-size:15px;line-height:1.5}
+.kg-lead.is-done .kg-lead__form{display:none}
+.kg-lead.is-done .kg-lead__ok{display:block}
+@media (max-width:640px){
+  .kg-lead{padding:18px 16px;margin:28px 0}
+  .kg-lead__form{grid-template-columns:1fr}
+  .kg-lead__btn{width:100%}
+}
