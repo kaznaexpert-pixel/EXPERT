@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>ЕКС в реквизитах: что это значит — единый казначейский счёт</title>
-<meta name="description" content="ЕКС в реквизитах банка — что это значит: единый казначейский счёт (40102) в поле 15 платёжки, казначейский счёт (03) в поле 17. Какой счёт указывать.">
+<title>Единый казначейский счёт: что это в системе казначейства</title>
+<meta name="description" content="ЕКС — счёт Федерального казначейства в Банке России, ядро системы казначейских платежей: чей это счёт, зачем введён и чем отличается от расчётного.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -29,11 +29,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Единый казначейский счёт (ЕКС): что это, реквизиты и как указать в платёжке",
+  "headline": "Единый казначейский счёт (ЕКС): что это и как устроен в системе казначейских платежей",
   "description": "Единый казначейский счёт: банковский счёт ФК в Банке России на балансовом счёте 40102, связка с казначейскими счетами 03, поля 15 и 17 платёжного поручения, частые ошибки.",
   "inLanguage": "ru-RU",
   "datePublished": "2026-06-11",
-  "dateModified": "2026-08-24",
+  "dateModified": "2026-09-02",
   "author": {
     "@type": "Person",
     "name": "Ярослав Михайлов",
@@ -126,15 +126,15 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="ЕКС в реквизитах: что это значит и какой счёт указывать">
-<meta property="og:description" content="ЕКС в реквизитах банка — что это значит: единый казначейский счёт (40102) в поле 15 платёжки, казначейский счёт (03) в поле 17. Какой счёт указывать.">
+<meta property="og:title" content="Единый казначейский счёт: что это в системе казначейства">
+<meta property="og:description" content="ЕКС — счёт Федерального казначейства в Банке России, ядро системы казначейских платежей: чей это счёт, зачем введён и чем отличается от расчётного.">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/edinyy-kaznacheyskiy-schet/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Единый казначейский счёт (ЕКС): что это и реквизиты в платёжке — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-11T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-24T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-02T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -222,8 +222,8 @@
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Счета в казначействе <span class="fresh">Актуально на август 2026</span></div>
-    <h1>Единый казначейский счёт (ЕКС): что это, реквизиты и как указать в платёжке</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 24 августа 2026 · учтён приказ Казначейства России от 16.02.2026 № 2н, изменивший Правила системы казначейских платежей</span></div>
+    <h1>Единый казначейский счёт (ЕКС): что это и как устроен в системе казначейских платежей</h1>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 2 сентября 2026 · первый экран переведён на сущность счёта; учтён приказ Казначейства России от 16.02.2026 № 2н</span></div>
     </div>
 
     <div class="share">
@@ -233,7 +233,7 @@
       <button type="button" id="printBtn"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9V2h12v7M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2M6 14h12v8H6z"/></svg>Скачать PDF</button>
     </div>
 
-    <div class="tldr">ЕКС — это единый казначейский счёт Федерального казначейства в Банке России на балансовом счёте 40102. Это не расчётный счёт организации: в платёжном поручении ЕКС указывают в поле 15 «Счёт банка получателя», а в поле 17 — казначейский счёт, начинающийся с 03.<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a></div>
+    <div class="tldr">ЕКС — это единый казначейский счёт: счёт, открытый Федеральному казначейству в Банке России (балансовый счёт 40102), на котором учитываются средства всех бюджетов бюджетной системы. Понятие введено в Бюджетный кодекс законом от 27.12.2019 № 479-ФЗ вместе с системой казначейских платежей, действующей с 1 января 2021 года. Организации такой счёт не открывают — это счёт самого казначейства.<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a></div>
 
     <details class="mtoc"><summary>Содержание статьи</summary>
       <ol>
@@ -250,8 +250,8 @@
         <div class="kf"><div class="kf__n">40102</div><div class="kf__t"><b>Балансовый счёт</b> ЕКС в Банке России</div></div>
         <div class="kf"><div class="kf__n">гл. 24.2</div><div class="kf__t"><b>Основа</b> — БК РФ, введена 479-ФЗ от 27.12.2019</div></div>
         <div class="kf"><div class="kf__n">01.01.2021</div><div class="kf__t"><b>Старт</b> — переход на систему казначейских платежей</div></div>
-        <div class="kf"><div class="kf__n">поле 15</div><div class="kf__t"><b>В платёжке</b> — ЕКС идёт как счёт банка получателя</div></div>
-        <div class="kf"><div class="kf__n">03…</div><div class="kf__t"><b>Поле 17</b> — казначейский счёт получателя, 20 знаков с нуля</div></div>
+        <div class="kf"><div class="kf__n">ст. 6 БК</div><div class="kf__t"><b>Понятие ЕКС</b> — закреплено в Бюджетном кодексе как счёт Федерального казначейства</div></div>
+        <div class="kf"><div class="kf__n">ФК</div><div class="kf__t"><b>Владелец счёта</b> — Федеральное казначейство, оператор системы казначейских платежей</div></div>
         <div class="kf"><div class="kf__n">запрет</div><div class="kf__t"><b>Взыскание</b> на средства ЕКС не допускается (ст. 242.12 БК)</div></div>
       </div>
     </section>
@@ -347,7 +347,7 @@
 
     <h2 id="ostatki">Управление остатками и новации главы 24.2</h2>
     <p>Концентрация денег на одном счёте — не только про контроль, но и про доходность. Статья 242.13 БК РФ позволяет Федеральному казначейству управлять остатками средств на ЕКС: размещать временно свободные средства на банковских депозитах, по договорам репо и в другие инструменты. Проценты от размещения — доход бюджета. Для участников системы это незаметно: ликвидность для текущих платежей поддерживается ежедневным прогнозированием движения средств.<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a></p>
-    <p>Глава 24.2 продолжает развиваться. В неё добавлены статья 242.11-1 об особенностях использования счёта цифрового рубля Федерального казначейства — бюджетная система готова проводить отдельные операции в цифровых рублях, и статья 242.13-1 о казначейском мониторинге — наблюдении за операциями участников системы казначейских платежей. Обе нормы действуют и отражают общий вектор: платежи бюджета становятся прозрачнее и контролируемее.<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a></p>
+    <p>Глава 24.2 продолжает развиваться. В неё добавлены статья 242.11-1 об особенностях использования счёта цифрового рубля Федерального казначейства — бюджетная система готова проводить отдельные операции в цифровых рублях, и статья 242.13-1 о казначейском мониторинге — наблюдении за операциями участников системы казначейских платежей. Обе нормы действуют и отражают общий вектор: платежи бюджета становятся прозрачнее и контролируемее. Статья 242.13-1 с 1 сентября 2026 года применяется в редакции Федерального закона от 24.06.2025 № 158-ФЗ — мониторинг в системе казначейских платежей теперь регулируется новым порядком, разбор которого вынесен в <a href="/baza-znaniy/priostanovlenie-operaciy-po-licevomu-schetu/">материал о приостановлении операций по лицевому счёту</a>.<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a></p>
 
     <h2 id="svyaz-ks">ЕКС и казначейское сопровождение: что это значит для подрядчика</h2>
     <p>Если ваш контракт попал под <a href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/">казначейское сопровождение</a>, вся цепочка счетов выглядит так: заказчик платит на казначейский счёт (поле 17) через ЕКС (поле 15), а внутри казначейства деньги отражаются на вашем лицевом счёте 71 в разрезе ИГК. Снять их на расчётный счёт нельзя — каждый платёж проходит санкционирование в ТОФК.</p>
@@ -421,7 +421,7 @@
         <li id="ref-4">Приказ Казначейства России от 14.05.2020 № 21н «О Порядке казначейского обслуживания» — <a href="https://roskazna.gov.ru/dokumenty/sistemakaznacheyskikh-platezhey/" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
         <li id="ref-5">Казначейство России. Раздел «Документы / Система казначейских платежей / Казначейские счета» (актуальные реквизиты) — <a href="https://roskazna.gov.ru/dokumenty/sistemakaznacheyskikh-platezhey/kaznacheyskie-scheta/" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
       </ol>
-      <p class="refs__note">Материал носит информационный характер, не является финансовой или юридической консультацией. Нормы приведены в редакциях, действующих на 24 августа 2026 года; перед платежом сверяйте реквизиты с первоисточниками.</p>
+      <p class="refs__note">Материал носит информационный характер, не является финансовой или юридической консультацией. Нормы приведены в редакциях, действующих на 2 сентября 2026 года; перед платежом сверяйте реквизиты с первоисточниками.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">
