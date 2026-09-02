@@ -160,7 +160,7 @@ $body .= "IP:        $ip\n";
 $body .= "Referer:   $referer\n";
 $body .= "Согласие:  $consent_at\n";
 $body .= "─────────────────────\n";
-$body .= "Перезвонить в течение 15 минут\n";
+$body .= "Перезвонить в течение часа в рабочее время\n";
 
 $headers = "From: КазнаЭксперт <{$CONFIG['email_from']}>\r\n";
 $headers .= "Reply-To: {$CONFIG['email_from']}\r\n";

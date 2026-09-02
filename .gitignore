@@ -10,3 +10,4 @@ php/lead.config.php
 
 # Preview-панель Claude Code (рендер страниц, не для коммита)
 __preview.html
+.fuse_hidden*

@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Восстановление раздельного учёта по ГОЗ и госконтрактам</title>
-<meta name="description" content="Восстановим раздельный учёт по гособоронзаказу и госконтрактам: первичка, регистры, калькуляции, 1С. 99 000 ₽ фиксированно, до проверки и штрафа.">
+<title>Восстановление раздельного учёта по ГОЗ и госконтракту — 99 000 ₽</title>
+<meta name="description" content="Восстанавливаем раздельный учёт результатов ФХД по контрактам ГОЗ 275-ФЗ и 44-ФЗ за прошедшие периоды: методика, регистры, распределение затрат, сверка с лицевым счётом, пакет для проверки. 99 000 ₽ за контракт, фиксированно.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -25,13 +25,13 @@
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "datePublished": "2026-06-25", "dateModified": "2026-08-24", "name": "Восстановление раздельного учёта по гособоронзаказу и госконтрактам", "serviceType": "Восстановление раздельного учёта (ГОЗ, целевые средства)", "description": "Восстановление раздельного учёта по гособоронзаказу и контрактам с казначейским сопровождением: первичка, регистры прямых и косвенных затрат, отчётные калькуляции и РКМ, настройка раздельного учёта в 1С, учётная политика. NDA, 15 лет практики.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/vosstanovlenie-razdelnogo-ucheta/", "offers": {"@type": "Offer", "name": "Восстановление раздельного учёта", "price": "99000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "priceValidUntil": "2026-12-31"}}
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "datePublished": "2026-06-25", "dateModified": "2026-09-02", "name": "Восстановление раздельного учёта по ГОЗ и госконтракту", "serviceType": "Восстановление раздельного учёта результатов финансово-хозяйственной деятельности по контрактам ГОЗ (275-ФЗ) и 44-ФЗ", "description": "Восстановление раздельного учёта за прошедшие периоды: диагностика, методика в учётной политике, регистры по статьям, распределение общих затрат, сверка с платежами по лицевому счёту, пояснительная записка для проверки. Фиксированная цена за контракт.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/vosstanovlenie-razdelnogo-ucheta/", "offers": {"@type": "Offer", "name": "Восстановление раздельного учёта по одному контракту", "price": "99000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/vosstanovlenie-razdelnogo-ucheta/", "priceValidUntil": "2026-12-31"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Восстановление раздельного учёта"}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Можно ли восстановить раздельный учёт задним числом?", "acceptedAnswer": {"@type": "Answer", "text": "Да, почти всегда. Восстановление ведётся по сохранившейся первичке и данным контрактов: собираем документы, разносим затраты по контрактам и ИГК, формируем регистры и калькуляции. Вопрос только в объёме — чем раньше начать, тем он меньше."}}, {"@type": "Question", "name": "Что грозит за отсутствие раздельного учёта по гособоронзаказу?", "acceptedAnswer": {"@type": "Answer", "text": "Ответственность установлена частью 11 статьи 7.30.3 КоАП: на должностных лиц — 20–50 тыс ₽, на юридических — 300–500 тыс ₽. Отдельная норма (статья 15.37.1 КоАП) с 1 января 2026 года касается нарушений при казначейском сопровождении контрактов."}}, {"@type": "Question", "name": "Сколько стоит восстановление?", "acceptedAnswer": {"@type": "Answer", "text": "Зависит от числа контрактов, глубины периодов и состояния документов. Базовое восстановление раздельного учёта — фиксированные 99 000 ₽. По сложным случаям после оценки объёма фиксируем точную стоимость в договоре — без доплат по ходу."}}, {"@type": "Question", "name": "Восстановите учёт в 1С?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Настраиваем раздельный учёт по гособоронзаказу в 1С и восстанавливаем данные за прошлые периоды, чтобы дальше учёт вёлся корректно и автоматически."}}, {"@type": "Question", "name": "Поможет ли это перевести цену в фиксированную?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Без отчётных калькуляций фактические затраты не обосновать. Мы собираем калькуляции и расчётно-калькуляционные материалы под перевод ориентировочной цены в фиксированную."}}, {"@type": "Question", "name": "Что от меня нужно?", "acceptedAnswer": {"@type": "Answer", "text": "Перечень контрактов с ИГК, доступ к 1С и имеющиеся первичные документы. Остальное собираем и восстанавливаем сами."}}, {"@type": "Question", "name": "Это конфиденциально?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Подписываем NDA до передачи документов, данные третьим лицам не передаём."}}, {"@type": "Question", "name": "Успеем до проверки?", "acceptedAnswer": {"@type": "Answer", "text": "Если проверка уже назначена — начинаем с самого критичного. Точные сроки зависят от объёма и фиксируются в договоре."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Можно ли восстановить раздельный учёт задним числом?", "acceptedAnswer": {"@type": "Answer", "text": "Да, почти всегда. Восстановление ведётся по сохранившейся первичке, выпискам по лицевому счёту и сведениям об операциях: разносим затраты по контракту и ИГК, распределяем общие расходы, формируем регистры. Вопрос только в объёме — чем раньше начать, тем он меньше."}}, {"@type": "Question", "name": "Что грозит за отсутствие раздельного учёта по гособоронзаказу?", "acceptedAnswer": {"@type": "Answer", "text": "Ответственность установлена частью 11 статьи 7.30.3 КоАП: на должностных лиц — 20–50 тыс ₽, на юридических — 300–500 тыс ₽. Отдельная норма (статья 15.37.1 КоАП) с 1 января 2026 года касается нарушений при казначейском сопровождении контрактов."}}, {"@type": "Question", "name": "Работаете в нашей 1С?", "acceptedAnswer": {"@type": "Answer", "text": "Да, удалённо через TeamViewer или AnyDesk, в вашей базе. Регистры остаются у вас, а не в чужой системе."}}, {"@type": "Question", "name": "Это разово или на постоянной основе?", "acceptedAnswer": {"@type": "Answer", "text": "Восстановление — разовая работа с фиксированной ценой 99 000 ₽ за контракт. Ведение учёта дальше входит в сопровождение контракта с авансом и ГОЗ — 105 000 ₽ в месяц."}}, {"@type": "Question", "name": "Чем восстановление отличается от аудита?", "acceptedAnswer": {"@type": "Answer", "text": "Аудит — заключение о состоянии учёта и сопровождения с перечнем нарушений. Восстановление — исправление: регистры, распределение, сверка, пакет для проверки."}}, {"@type": "Question", "name": "Нужна ли новая учётная политика?", "acceptedAnswer": {"@type": "Answer", "text": "Раздел по раздельному учёту входит в работу: базы распределения, статьи, порядок отнесения затрат."}}, {"@type": "Question", "name": "Поможет ли это перевести ориентировочную цену в фиксированную?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Перевод строится на отчётной калькуляции по фактическим затратам, а её нельзя собрать без регистров. После восстановления составляем РКМ на этих же данных."}}, {"@type": "Question", "name": "Что от нас нужно?", "acceptedAnswer": {"@type": "Answer", "text": "Перечень контрактов с ИГК, доступ к 1С, выписки по лицевому счёту и имеющаяся первичка. Остальное собираем сами. NDA подписываем до передачи документов."}}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -68,20 +68,20 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Восстановление раздельного учёта по ГОЗ и госконтрактам">
-<meta property="og:description" content="Восстановим раздельный учёт по гособоронзаказу и госконтрактам: первичка, регистры, калькуляции, 1С. 99 000 ₽ фиксированно, до проверки и штрафа.">
+<meta property="og:title" content="Восстановление раздельного учёта по ГОЗ — 99 000 ₽ за контракт">
+<meta property="og:description" content="Регистры за весь период, сверка с лицевым счётом, пакет для проверки УФК и ВП. Фиксированная цена, число операций не влияет.">
 <meta property="og:url" content="https://kaznaexpert.ru/uslugi/vosstanovlenie-razdelnogo-ucheta/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Восстановление раздельного учёта — КазнаЭксперт">
+<meta property="og:image:alt" content="Восстановление раздельного учёта по ГОЗ — 99 000 ₽ за контракт — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-24T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-02T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Восстановление раздельного учёта по ГОЗ">
-<meta name="twitter:description" content="Первичка, регистры затрат, отчётные калькуляции, 1С. Приведём учёт в порядок до проверки и штрафа.">
+<meta name="twitter:title" content="Восстановление раздельного учёта по ГОЗ — 99 000 ₽ за контракт">
+<meta name="twitter:description" content="Регистры за весь период, сверка с лицевым счётом, пакет для проверки УФК и ВП. Фиксированная цена, число операций не влияет.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <!-- Schema: Article -->
@@ -143,47 +143,77 @@
 
 <div class="v2">
 
-<style>@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}</style>
+<style>@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}
+.railform textarea.fld{resize:vertical;min-height:64px;line-height:1.45}
+.v2 .lp2-risk{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin:28px 0 0}
+.v2 .lp2-risk div{padding:16px 18px;border:1px solid #E4DDD0;border-left:3px solid #A8844A;background:#FFFDF8;font-size:15px;line-height:1.5}
+.v2 .lp2-risk b{display:block;font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:#8B6F47;margin-bottom:6px}
+.v2 .lp2-price{display:flex;flex-wrap:wrap;align-items:baseline;gap:10px 22px;margin:22px 0 0;padding:18px 0 0;border-top:1px solid #E4DDD0}
+.v2 .lp2-price b{font-family:var(--font-display);font-weight:500;font-size:34px;letter-spacing:-.02em}
+.v2 .lp2-price span{color:#5F5A52;font-size:15px}
+.v2 .lp2-scen{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
+.v2 .lp2-scen article{padding:22px 24px;background:var(--paper);border:1px solid var(--hair-strong)}
+.v2 .lp2-scen h3{font-family:var(--font-display);font-weight:500;font-size:20px;margin:0 0 10px;letter-spacing:-.01em}
+.v2 .lp2-scen p{margin:0;font-size:16px;line-height:1.6;color:#3A3A3A}
+.v2 .lp2-scen p b{color:#1A1A1A}
+.lp2-table{width:100%;border-collapse:collapse;margin:8px 0 20px;font-size:16px;border-top:2px solid #8B6F47}
+.lp2-table caption{caption-side:top;text-align:left;font-size:14px;color:#7A7263;font-style:italic;padding:0 0 12px}
+.lp2-table th,.lp2-table td{padding:12px 16px;text-align:left;vertical-align:top;border-bottom:1px solid #E4DDD0;line-height:1.5}
+.lp2-table th{font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;font-weight:600}
+.lp2-block{max-width:900px;margin:0 auto}
+.lp2-note{font-size:15px;color:#5F5A52;line-height:1.6;border-top:1px solid #E4DDD0;padding-top:14px;margin-top:6px}
+.lp2-note a{color:#8B6F47}
+@media(max-width:920px){.v2 .lp2-risk{grid-template-columns:repeat(2,1fr)}.v2 .lp2-scen{grid-template-columns:1fr}}
+@media(max-width:680px){.lp2-table{font-size:15px}.lp2-table th,.lp2-table td{padding:10px 10px}}
+@media(max-width:560px){.v2 .lp2-risk{grid-template-columns:1fr}.v2 .lp2-price b{font-size:28px}}
+</style>
 
 <section class="v2-hero">
   <div class="v2-container">
-    <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › Восстановление раздельного учёта</nav>
+    <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a> › Восстановление раздельного учёта</nav>
     <div class="v2-hero-grid">
       <div class="v2-hero-main">
         <div class="v2-hero-eyebrow-row">
-          <span class="v2-eyebrow">Услуга · ГОЗ · Раздельный учёт</span>
+          <span class="v2-eyebrow">Услуга · ГОЗ 275-ФЗ · 44-ФЗ · Раздельный учёт</span>
           <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
         </div>
-        <h1>Восстановление раздельного учёта <em>по ГОЗ и госконтрактам</em></h1>
+        <h1>Восстановим раздельный учёт по контракту — <em>до проверки</em></h1>
 <a href="/#reviews" style="display:inline-flex;align-items:center;gap:7px;margin:12px 0 0;padding:7px 15px;background:rgba(139,111,71,.07);border:1px solid rgba(139,111,71,.35);border-radius:999px;text-decoration:none;font-size:14px;color:#1A1A1A"><span style="color:#8B6F47;letter-spacing:1px">★★★★★</span><b>4,9</b><span style="color:#6E6B66">— отзывы клиентов</span></a>
-        <p class="v2-hero-lede"><strong>Приведём раздельный учёт в порядок задним числом:</strong> восстановим первичку и регистры затрат по контрактам и ИГК, соберём отчётные калькуляции и настроим раздельный учёт в 1С. До проверки контролёра и до штрафа по КоАП.</p>
-        <div class="v2-hero-trust"><div class="v2-trust-item"><div class="v2-trust-num">2021</div><div class="v2-trust-label">год регистрации ИП</div></div><div class="v2-trust-item"><div class="v2-trust-num">90<span class="v2-trust-suffix">&nbsp;млрд&nbsp;₽</span></div><div class="v2-trust-label">прошло через счета</div></div><div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div><div class="v2-trust-item"><div class="v2-trust-num">1С<span class="v2-trust-suffix"></span></div><div class="v2-trust-label">настройка учёта</div></div></div>
+        <p class="v2-hero-lede"><strong>Для исполнителей ГОЗ и контрактов под казначейским сопровождением, у которых раздельный учёт не вёлся, вёлся частично или не сходится с платежами по лицевому счёту.</strong> Восстанавливаем учёт за весь период контракта и передаём регистры, которые проходят проверку УФК и военного представительства.</p>
+        <div class="lp2-risk">
+          <div><b>Снимаем риск</b>Штраф за нарушение правил раздельного учёта — до 500 000 ₽ на юрлицо</div>
+          <div><b>Снимаем риск</b>Замечания ВП к РКМ и обоснованию прибыли</div>
+          <div><b>Снимаем риск</b>Невозможность вывести прибыль по контракту</div>
+          <div><b>Снимаем риск</b>Представление финконтроля по итогам проверки</div>
+        </div>
+        <div class="lp2-price"><b>99 000 ₽</b><span>За один контракт, фиксируется в договоре</span><span>Число операций за период на цену не влияет</span></div>
         <div class="v2-hero-expert">
           <div class="v2-expert-name">Михайлов Ярослав</div>
           <div class="v2-expert-role">Эксперт · 15 лет в Казначействе</div>
-          <p class="v2-expert-quote">«Восстановить учёт за прошлые периоды реально почти всегда — вопрос в том, успеть до проверки или калькуляции цены. Чем раньше начать, тем меньше объём и риск».</p>
+          <p class="v2-expert-quote">«Восстановить учёт за прошлые периоды реально почти всегда — вопрос в том, успеть до проверки или до калькуляции цены. Чем раньше начать, тем меньше объём и риск».</p>
         </div>
       </div>
       <aside class="v2-hero-action">
-        <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
-        <h2>Оценим объём</h2>
-        <p class="v2-hero-action-sub">Оставьте контакты — эксперт перезвонит за 15 минут, оценит объём восстановления и назовёт стоимость. NDA — до передачи документов.</p>
+        <div class="v2-hero-action-eyebrow">Заявка</div>
+        <h2>Восстановим учёт по вашему контракту</h2>
+        <p class="v2-hero-action-sub">Напишите, сколько контрактов и с какого периода не вёлся учёт — ответим в течение часа в рабочее время. NDA подписываем до передачи документов.</p>
         <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="vosstanovlenie-razdelnogo-ucheta">
           <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
           <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
+          <textarea class="fld" name="message" placeholder="Комментарий: число контрактов, период, назначена ли проверка (необязательно)" rows="2" maxlength="3000"></textarea>
           <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
           <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-          <button class="submit" type="submit">Получить расчёт →</button>
+          <button class="submit" type="submit">Отправить заявку →</button>
           <div class="formmsg" id="formMsg" hidden></div>
-          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
+          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA до документов</span></div>
           <div class="success" id="leadSuccess" role="status" aria-live="polite">
             <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
             <h3>Заявка принята</h3>
-            <p>Эксперт перезвонит <b>в течение 15 минут</b> (9:00–21:00 МСК) и разберёт ваш контракт.</p>
+            <p>Эксперт свяжется <b>в течение часа</b> в рабочее время (пн–пт, 9:00–19:00 МСК) и разберёт вашу ситуацию.</p>
             <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
           </div>
         </form>
-        <div class="v2-hero-alt">Или напишите — ответим за 5 минут<div class="v2-hero-alt-links"><a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a><a href="tel:+79818331010">+7 981 833-10-10</a></div></div>
+        <div class="v2-hero-alt">Или напишите — ответим в течение часа<div class="v2-hero-alt-links"><a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a><a href="tel:+79818331010">+7 981 833-10-10</a></div></div>
       </aside>
     </div>
   </div>
@@ -193,75 +223,69 @@
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Для кого</div>
-      <h2 class="v2-section-title">Когда нужно <em>восстановление</em></h2>
-      <p class="v2-section-lede">Ситуации, в которых раздельный учёт нужно собрать или пересобрать задним числом.</p>
+      <h2 class="v2-section-title">Кому подходит <em>и какой риск снимает</em></h2>
+      <p class="v2-section-lede">Четыре ситуации, в которых раздельный учёт нужно собрать или пересобрать задним числом.</p>
     </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Учёт не вёлся</h3><p class="v2-process-desc">Контракт по гособоронзаказу есть, а раздельного учёта по нему фактически нет. Соберём с нуля по первичке.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Вёлся неправильно</h3><p class="v2-process-desc">Затраты разнесены неверно, нет привязки к ИГК, не бьются калькуляции. Пересоберём корректно.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Перевод цены</h3><p class="v2-process-desc">Переводите ориентировочную цену в фиксированную — нужны отчётные калькуляции и обоснование фактических затрат. С 10 января 2026 года состав затрат определяется приказом Минпромторга № 334 в редакции от 26.11.2025, поэтому калькуляции за прошлые периоды пересобираем под действующий перечень статей.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Перед проверкой</h3><p class="v2-process-desc">Ждёте проверку военного представительства, ФАС или финконтроля. Восстановим учёт и подготовим документы заранее.</p></article></div>
+    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Учёт не вёлся вообще</h3><p class="v2-process-desc">Контракт по ГОЗ или под казначейским сопровождением исполняется, а раздельного учёта по нему нет. Первая же проверка фиксирует нарушение.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Вёлся, но не сходится</h3><p class="v2-process-desc">Затраты разнесены неверно, общие расходы не распределены, регистры не бьются с платежами по лицевому счёту и со сведениями об операциях.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Впереди РКМ или перевод цены</h3><p class="v2-process-desc">Отчётная калькуляция и обоснование прибыли строятся на фактических регистрах. Нет регистров — нет цены.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Проверка уже назначена</h3><p class="v2-process-desc">ВП, ФАС или орган финансового контроля запросили документы. Начинаем с самого критичного периода и контракта.</p></article></div>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="pod-kluch">
+<section class="v2-section v2-screen" id="etapy">
   <div class="v2-container">
     <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Что входит</div>
-      <h2 class="v2-section-title">Что делаем <em>при восстановлении</em></h2>
-      <p class="v2-section-lede">Собираем раздельный учёт так, чтобы он выдержал проверку и обосновал калькуляцию цены.</p>
+      <div class="v2-section-eyebrow">Состав работ</div>
+      <h2 class="v2-section-title">Четыре этапа — <em>от диагностики до передачи регистров</em></h2>
+      <p class="v2-section-lede">Работаем в вашей базе удалённо через TeamViewer или AnyDesk. Оригиналы документов не нужны.</p>
     </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Диагностика состояния</h3><p class="v2-process-desc">Оцениваем, что есть и чего не хватает: контракты, ИГК, первичка, регистры, калькуляции.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Восстановление первички</h3><p class="v2-process-desc">Собираем и восстанавливаем первичные документы по контрактам и привязываем их к идентификатору контракта.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Регистры затрат</h3><p class="v2-process-desc">Восстанавливаем раздельный учёт прямых и косвенных затрат по каждому контракту, выстраиваем базу распределения.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Отчётные калькуляции</h3><p class="v2-process-desc">Формируем отчётные калькуляции и расчётно-калькуляционные материалы под обоснование цены.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Настройка 1С</h3><p class="v2-process-desc">Настраиваем раздельный учёт по гособоронзаказу в 1С, чтобы дальше он вёлся корректно и автоматически.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Учётная политика</h3><p class="v2-process-desc">Приводим в порядок учётную политику в части раздельного учёта — методику закрепляем документально.</p></article></div>
+    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">Этап 1</div><h3>Диагностика</h3><p class="v2-process-desc">Смотрим учётную политику, план счетов, аналитику в 1С, выписки по лицевому счёту, сведения об операциях. Фиксируем, что есть, чего нет, где расхождения.</p><ul class="v2-process-checks"><li>Карта расхождений</li><li>Объём по периодам</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">Этап 2</div><h3>Методика</h3><p class="v2-process-desc">Раздел учётной политики по раздельному учёту под ваш контракт: базы распределения, статьи затрат, порядок отнесения накладных, привнесённых и собственных затрат.</p><ul class="v2-process-checks"><li>Методика утверждена</li><li>Статьи закреплены</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">Этап 3</div><h3>Восстановление</h3><p class="v2-process-desc">Разносим операции за весь период по контракту, распределяем общие затраты, формируем регистры по статьям. Сверяем с платежами через лицевой счёт и со сведениями.</p><ul class="v2-process-checks"><li>Регистры собраны</li><li>Сверка с УФК сошлась</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><div class="v2-process-day">Этап 4</div><h3>Передача</h3><p class="v2-process-desc">Регистры раздельного учёта, расшифровки затрат, пояснительная записка для проверяющих, инструкция бухгалтеру — как вести дальше.</p><ul class="v2-process-checks"><li>Пакет для проверки</li><li>Инструкция передана</li></ul></article></div>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="ot-vas">
+<section class="v2-section v2-screen" id="proverka">
   <div class="v2-container">
     <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Что от вас</div>
-      <h2 class="v2-section-title">Что потребуется <em>от вас</em></h2>
-      <p class="v2-section-lede">Доступ к учёту и документам — восстановление ведёт эксперт. Всё под NDA.</p>
+      <div class="v2-section-eyebrow">Что сверяем</div>
+      <h2 class="v2-section-title">Четыре сверки, <em>без которых регистры не примут</em></h2>
     </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Перечень контрактов</h3><p class="v2-process-desc">Контракты по гособоронзаказу и их идентификаторы (ИГК).</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Доступ к 1С</h3><p class="v2-process-desc">База или выгрузки для анализа и настройки учёта.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Первичные документы</h3><p class="v2-process-desc">То, что есть: акты, накладные, расчёты — соберём остальное.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Контакт для связи</h3><p class="v2-process-desc">Ответственный, с кем уточняем детали.</p></article></div>
+    <div class="lp2-block">
+      <table class="lp2-table">
+        <caption>Контрольные точки при восстановлении учёта по одному контракту</caption>
+        <thead><tr><th>Что сверяем</th><th>Зачем</th></tr></thead>
+        <tbody>
+          <tr><td>Каждый платёж с лицевого счёта — с учётной записью по контракту</td><td>Платёж без затраты по контракту — первый вопрос проверяющего</td></tr>
+          <tr><td>Затраты по статьям — со структурой цены в РКМ (для ГОЗ)</td><td>Расхождение со структурой цены — замечание военного представительства</td></tr>
+          <tr><td>ИГК в первичных документах</td><td>Документ без ИГК по ГОЗ не подтверждает затрату</td></tr>
+          <tr><td>Базы распределения накладных и общехозяйственных расходов</td><td>Необоснованная база — пересчёт прибыли в меньшую сторону</td></tr>
+        </tbody>
+      </table>
+      <p class="lp2-note">Как устроен раздел учётной политики по раздельному учёту — в материале <a href="/baza-znaniy/uchetnaya-politika-razdelnyy-uchet-goz/">«Учётная политика: раздельный учёт по ГОЗ»</a>. Настройка в 1С своими силами — <a href="/baza-znaniy/razdelnyy-uchet-goz-v-1s/">«Раздельный учёт ГОЗ в 1С»</a>.</p>
+    </div>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="process">
+<section class="v2-section v2-screen" id="bez-limita">
   <div class="v2-container">
     <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Процесс</div>
-      <h2 class="v2-section-title">От оценки объёма до настроенного учёта — <em>по шагам</em></h2>
-      <p class="v2-section-lede">Восстановление идёт этапами, каждый завершается измеримым результатом.</p>
+      <div class="v2-section-eyebrow">Без лимита</div>
+      <h2 class="v2-section-title">Что входит <em>без ограничения по количеству</em></h2>
     </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">Сегодня · 15 минут</div><h3>Оценка объёма</h3><p class="v2-process-desc">Перезваниваем, смотрим контракты и состояние учёта, оцениваем объём и фиксируем стоимость и NDA.</p><ul class="v2-process-checks"><li>Объём оценён</li><li>Цена в договоре</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">По объёму</div><h3>Восстановление</h3><p class="v2-process-desc">Восстанавливаем первичку и регистры, разносим затраты по контрактам и ИГК, собираем калькуляции.</p><ul class="v2-process-checks"><li>Регистры собраны</li><li>Калькуляции готовы</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">Финал</div><h3>Настройка и сдача</h3><p class="v2-process-desc">Настраиваем раздельный учёт в 1С, передаём документы и методику, даём рекомендации по дальнейшему ведению.</p><ul class="v2-process-checks"><li>1С настроена</li><li>Документы переданы</li></ul></article></div>
+    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Операции за период</h3><p class="v2-process-desc">Сто документов или три тысячи — цена за контракт одна. Число операций и первички на стоимость не влияет.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Итерации правок</h3><p class="v2-process-desc">Правим регистры до передачи столько раз, сколько нужно, пока сверка с лицевым счётом и сведениями не сойдётся.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Ответы проверяющим</h3><p class="v2-process-desc">Вопросы УФК, ВП или финконтроля по переданным регистрам — отвечаем по нашей части документов.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Вопросы бухгалтера</h3><p class="v2-process-desc">Как проводить дальше, куда относить накладные, как закрывать месяц по контракту — отвечаем в рабочее время без счётчика.</p></article></div>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="riski">
+<section class="v2-section v2-screen" id="scenarii">
   <div class="v2-container">
     <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Цена ошибки</div>
-      <h2 class="v2-section-title">Чем грозит <em>запущенный учёт</em></h2>
-      <p class="v2-section-lede">Отсутствие раздельного учёта по гособоронзаказу — это не только риск штрафа, но и проблемы с ценой и приёмкой.</p>
+      <div class="v2-section-eyebrow">Сценарии</div>
+      <h2 class="v2-section-title">Что делаем <em>в каждом случае</em></h2>
     </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Штраф по статье 7.30.3 КоАП</h3><p class="v2-process-desc">За нарушение правил ведения раздельного учёта по гособоронзаказу: на должностных лиц 20–50 тыс ₽, на юридических — 300–500 тыс ₽.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Проблемы с ценой</h3><p class="v2-process-desc">Без отчётных калькуляций не обосновать фактические затраты и не перевести ориентировочную цену в фиксированную.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Отказ в приёмке</h3><p class="v2-process-desc">Военное представительство не принимает расчётно-калькуляционные материалы без корректного раздельного учёта.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Претензии финконтроля</h3><p class="v2-process-desc">Проверка органа финансового контроля фиксирует нарушение и выносит представление или предписание.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Доначисления</h3><p class="v2-process-desc">Некорректный учёт целевых средств — налоговые претензии и доначисления.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Рост объёма</h3><p class="v2-process-desc">Чем дольше учёт не ведётся, тем больше периодов восстанавливать и тем выше стоимость работ.</p></article></div>
-    <div class="related-inline"><b>Смежные услуги и разборы</b> <a href="/uslugi/audit-kaznacheyskogo-soprovozhdeniya/">→ Аудит сопровождения: проверим учёт до контролёра</a><a href="/uslugi/kaznacheyskoe-soprovozhdenie/">→ Казначейское сопровождение под ключ: услуги и цены</a><a href="/baza-znaniy/otvetstvennost-za-narusheniya-goz/">→ Ответственность за нарушения в сфере ГОЗ</a></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="compare">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Сравнение</div>
-      <h2 class="v2-section-title">Своими силами, новый бухгалтер или <em>с нами</em></h2>
-      <p class="v2-section-lede">Почему восстановление учёта задним числом лучше отдать профильному эксперту.</p>
+    <div class="lp2-scen">
+      <article class="reveal"><h3>Учёт не вёлся вообще</h3><p><b>Что делаем:</b> полное восстановление по документам, выпискам по лицевому счёту и сведениям об операциях. Каждая операция получает статью и привязку к контракту.</p></article>
+      <article class="reveal"><h3>Учёт вёлся, но общие затраты не распределены</h3><p><b>Что делаем:</b> ставим базу распределения в учётной политике, пересчитываем накладные и общехозяйственные расходы по контракту за весь период.</p></article>
+      <article class="reveal"><h3>Регистры не сходятся с платежами по лицевому счёту</h3><p><b>Что делаем:</b> находим разрывы платёж-за-платежом, документируем причину каждого, правим регистры. Итог — сверка, которую можно показать УФК.</p></article>
+      <article class="reveal"><h3>Проверка назначена, времени мало</h3><p><b>Что делаем:</b> начинаем с проверяемого контракта и периода, готовим пояснительную записку для проверяющих параллельно с восстановлением. Срок фиксируем в договоре по итогам диагностики.</p></article>
     </div>
-    <div class="v2-compare" role="table">
-      <div class="v2-compare-head" role="row">
-        <div role="columnheader" class="v2-compare-head-cell">Параметр</div>
-        <div role="columnheader" class="v2-compare-head-cell">Самостоятельно</div>
-        <div role="columnheader" class="v2-compare-head-cell">Штатный спец</div>
-        <div role="columnheader" class="v2-compare-head-cell is-us">С КазнаЭксперт</div>
-      </div>
-      <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Опыт восстановления</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Разовый, без практики</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Зависит от человека</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Профильный, постоянно</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Знание требований ГОЗ</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Поверхностное</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Ограниченное</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>15 лет практики</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Калькуляции и РКМ</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Сложно собрать</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">По компетенции</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Собираем под обоснование</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Настройка 1С</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Сами</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">По загрузке</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Настраиваем под ГОЗ</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Срок</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Затягивается</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">По остаточному принципу</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>По графику</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Готовность к проверке</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Под вопросом</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Под вопросом</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Документы в порядке</strong></div></div>
-    </div>
-    <div class="v2-compare-cta"><a href="#zayavka">Обсудить ваш контракт <span aria-hidden="true">→</span></a></div>
+    <div class="related-inline" style="margin-top:28px"><b>Смежные услуги</b> <a href="/uslugi/audit-kaznacheyskogo-soprovozhdeniya/">→ Аудит сопровождения: заключение о состоянии учёта, 160 000 ₽</a><a href="/uslugi/sostavlenie-rkm/">→ Составление РКМ по ГОЗ на восстановленных регистрах, 105 000 ₽</a><a href="/uslugi/soprovozhdenie-avans/">→ Ведение учёта дальше — в сопровождении контракта с авансом и ГОЗ</a></div>
   </div>
 </section>
 
@@ -269,29 +293,29 @@
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Стоимость</div>
-      <h2 class="v2-section-title">Стоимость — <em>по объёму восстановления</em></h2>
-      <p class="v2-section-lede">Цену считаем после оценки объёма: она зависит от числа контрактов, глубины периодов и состояния документов. Сумму фиксируем в договоре до начала.</p>
+      <h2 class="v2-section-title">99 000 ₽ за контракт — <em>фиксированная цена</em></h2>
+      <p class="v2-section-lede">Цена записывается в договоре до начала работ и не меняется от числа операций и итераций правок. Оплата — после подписания договора.</p>
     </div>
     <div class="v2-tariffs-grid lp-3col"><article class="v2-tariff is-featured">
         <div class="v2-tariff-no">01</div>
-        <div class="v2-tariff-stage">Старт</div>
-        <h3>Оценка объёма</h3>
-        <p class="v2-tariff-desc">Смотрим контракты и состояние учёта, определяем глубину восстановления и называем точную стоимость.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">по запросу</div><div class="v2-tariff-price-note">После звонка · 15 минут</div><a href="#zayavka" class="v2-tariff-link">Заказать <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-stage">Основное</div>
+        <h3>Восстановление раздельного учёта</h3>
+        <p class="v2-tariff-desc">Диагностика, методика, восстановление регистров за весь период, сверка с лицевым счётом, пакет для проверки и инструкция бухгалтеру.</p>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">99 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">За один контракт · в договоре</div><a href="#zayavka" class="v2-tariff-link">Оставить заявку <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">02</div>
-        <div class="v2-tariff-stage">Основное</div>
-        <h3>Восстановление учёта</h3>
-        <p class="v2-tariff-desc">Первичка, регистры затрат, отчётные калькуляции и привязка к ИГК — до корректного состояния.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">99 000 ₽</div><div class="v2-tariff-price-note">Фиксированная цена · в договоре</div><a href="#zayavka" class="v2-tariff-link">Обсудить <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-stage">Следом</div>
+        <h3>РКМ по ГОЗ</h3>
+        <p class="v2-tariff-desc">Отчётная калькуляция, расшифровки и обоснование прибыли на восстановленных регистрах — с защитой у военного представительства.</p>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">105 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">За комплект по контракту</div><a href="/uslugi/sostavlenie-rkm/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">03</div>
         <div class="v2-tariff-stage">Дальше</div>
-        <h3>Ведение под ключ</h3>
-        <p class="v2-tariff-desc">После восстановления берём раздельный учёт и сопровождение контракта на постоянное ведение.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">смета</div><div class="v2-tariff-price-note">По контракту</div><a href="/uslugi/kaznacheyskoe-soprovozhdenie/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <h3>Сопровождение с авансом и ГОЗ</h3>
+        <p class="v2-tariff-desc">Чтобы учёт не пришлось восстанавливать снова: ведём регистры, сведения и платежи по контракту ежемесячно.</p>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">105 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Без лимита на операции</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article></div>
-    <p class="v2-tariffs-footnote">Точная стоимость — после анализа вашего контракта.</p>
+    <p class="v2-tariffs-footnote">Несколько контрактов или период больше года — состав и цену фиксируем в договоре после диагностики. Все цены — на странице <a href="/baza-znaniy/stoimost-kaznacheyskogo-soprovozhdeniya/">«Стоимость казначейского сопровождения»</a>.</p>
   </div>
 </section>
 
@@ -301,13 +325,20 @@
       <div class="v2-section-eyebrow">Вопросы</div>
       <h2 class="v2-section-title">Отвечаем <em>прямо</em></h2>
     </div>
-    <div class="faq"><details open><summary>Можно ли восстановить раздельный учёт задним числом?</summary><p>Да, почти всегда. Восстановление ведётся по сохранившейся первичке и данным контрактов: собираем документы, разносим затраты по контрактам и ИГК, формируем регистры и калькуляции. Вопрос только в объёме — чем раньше начать, тем он меньше.</p></details><details><summary>Что грозит за отсутствие раздельного учёта по гособоронзаказу?</summary><p>Ответственность установлена частью 11 статьи 7.30.3 КоАП: на должностных лиц — 20–50 тыс ₽, на юридических — 300–500 тыс ₽. Отдельная норма (статья 15.37.1 КоАП) с 1 января 2026 года касается нарушений при казначейском сопровождении контрактов.</p></details><details><summary>Сколько стоит восстановление?</summary><p>Зависит от числа контрактов, глубины периодов и состояния документов. Базовое восстановление раздельного учёта — фиксированные 99 000 ₽. По сложным случаям после оценки объёма фиксируем точную стоимость в договоре — без доплат по ходу.</p></details><details><summary>Восстановите учёт в 1С?</summary><p>Да. Настраиваем раздельный учёт по гособоронзаказу в 1С и восстанавливаем данные за прошлые периоды, чтобы дальше учёт вёлся корректно и автоматически.</p></details><details><summary>Поможет ли это перевести цену в фиксированную?</summary><p>Да. Без отчётных калькуляций фактические затраты не обосновать. Мы собираем калькуляции и расчётно-калькуляционные материалы под перевод ориентировочной цены в фиксированную.</p></details><details><summary>Что от меня нужно?</summary><p>Перечень контрактов с ИГК, доступ к 1С и имеющиеся первичные документы. Остальное собираем и восстанавливаем сами.</p></details><details><summary>Это конфиденциально?</summary><p>Да. Подписываем NDA до передачи документов, данные третьим лицам не передаём.</p></details><details><summary>Успеем до проверки?</summary><p>Если проверка уже назначена — начинаем с самого критичного. Точные сроки зависят от объёма и фиксируются в договоре.</p></details></div>
+    <div class="faq"><details open><summary>Можно ли восстановить раздельный учёт задним числом?</summary><p>Да, почти всегда. Восстановление ведётся по сохранившейся первичке, выпискам по лицевому счёту и сведениям об операциях: разносим затраты по контракту и ИГК, распределяем общие расходы, формируем регистры. Вопрос только в объёме — чем раньше начать, тем он меньше.</p></details>
+      <details><summary>Что грозит за отсутствие раздельного учёта по гособоронзаказу?</summary><p>Ответственность установлена частью 11 статьи 7.30.3 КоАП: на должностных лиц — 20–50 тыс ₽, на юридических — 300–500 тыс ₽. Отдельная норма (статья 15.37.1 КоАП) с 1 января 2026 года касается нарушений при казначейском сопровождении контрактов. Подробно — в материале <a href="/baza-znaniy/otvetstvennost-za-narusheniya-goz/">«Ответственность за нарушения в сфере ГОЗ»</a>.</p></details>
+      <details><summary>Работаете в нашей 1С?</summary><p>Да, удалённо через TeamViewer или AnyDesk, в вашей базе. Регистры остаются у вас, а не в чужой системе.</p></details>
+      <details><summary>Это разово или на постоянной основе?</summary><p>Восстановление — разовая работа с фиксированной ценой 99 000 ₽ за контракт. Ведение учёта дальше входит в <a href="/uslugi/soprovozhdenie-avans/">сопровождение контракта с авансом и ГОЗ</a>.</p></details>
+      <details><summary>Чем восстановление отличается от аудита?</summary><p><a href="/uslugi/audit-kaznacheyskogo-soprovozhdeniya/">Аудит</a> — заключение о состоянии учёта и сопровождения с перечнем нарушений. Восстановление — исправление: регистры, распределение, сверка, пакет для проверки.</p></details>
+      <details><summary>Нужна ли новая учётная политика?</summary><p>Раздел по раздельному учёту входит в работу: базы распределения, статьи, порядок отнесения затрат. Как он устроен — в <a href="/baza-znaniy/uchetnaya-politika-razdelnyy-uchet-goz/">базе знаний</a>.</p></details>
+      <details><summary>Поможет ли это перевести ориентировочную цену в фиксированную?</summary><p>Да. Перевод строится на отчётной калькуляции по фактическим затратам, а её нельзя собрать без регистров. После восстановления делаем <a href="/uslugi/sostavlenie-rkm/">РКМ</a> на этих же данных.</p></details>
+      <details><summary>Что от нас нужно?</summary><p>Перечень контрактов с ИГК, доступ к 1С, выписки по лицевому счёту и имеющаяся первичка. Остальное собираем сами. NDA подписываем до передачи документов.</p></details></div>
   </div>
 </section>
 
 <section class="v2-section" aria-label="Актуальность страницы">
   <div class="v2-container">
-    <p class="v2-freshness">Страница актуальна на <time datetime="2026-08-24">24 августа 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
+    <p class="v2-freshness">Страница актуальна на <time datetime="2026-09-02">2 сентября 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
   </div>
 </section>
 
@@ -315,24 +346,26 @@
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Заявка</div>
-      <h2 class="v2-section-title">Оценим объём</h2>
-      <p class="v2-section-lede">Оставьте контакты — эксперт перезвонит за 15 минут, оценит объём восстановления и назовёт стоимость. NDA — до передачи документов.</p>
+      <h2 class="v2-section-title">Восстановим учёт по вашему контракту</h2>
+      <p class="v2-section-lede">Напишите, сколько контрактов и с какого периода — ответим в течение часа в рабочее время. 99 000 ₽ за контракт фиксируется в договоре, NDA — до передачи документов.</p>
     </div>
     <div style="max-width:520px;margin:0 auto">
       <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="vosstanovlenie-razdelnogo-ucheta-cta">
         <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
         <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
+        <textarea class="fld" name="message" placeholder="Комментарий: число контрактов, период, назначена ли проверка (необязательно)" rows="2" maxlength="3000"></textarea>
         <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
         <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-        <button class="submit" type="submit">Получить расчёт →</button>
+        <button class="submit" type="submit">Отправить заявку →</button>
         <div class="formmsg" id="formMsgBottom" hidden></div>
-        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
+        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA до документов</span></div>
         <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
           <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
           <h3>Заявка принята</h3>
-          <p>Эксперт перезвонит <b>в течение 15 минут</b> (9:00–21:00 МСК).</p>
+          <p>Эксперт свяжется <b>в течение часа</b> в рабочее время (пн–пт, 9:00–19:00 МСК).</p>
         </div>
       </form>
+      <p style="text-align:center;margin:18px 0 0;font-size:15px;color:#5F5A52">Телефон <a href="tel:+79818331010" style="color:#8B6F47">+7 981 833-10-10</a> · <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener" style="color:#8B6F47">Telegram</a> · <a href="https://wa.me/+79818331010" target="_blank" rel="noopener" style="color:#8B6F47">WhatsApp</a></p>
     </div>
   </div>
 </section>
@@ -364,7 +397,7 @@
     if(!/\d[\s\d().-]*\d{3}/.test(phone)||phone.replace(/\D/g,'').length<10){show('Проверьте телефон');return;}
     if(!f.consent.checked){show('Подтвердите согласие');return;}
     var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';
-    fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})})
+    fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,message:(f.message&&f.message.value||'').trim(),consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})})
       .then(function(r){ if(!r.ok) throw 0; return r; })
       .then(function(){
         [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; });
@@ -531,7 +564,7 @@
     if(form.name.value.trim().length<2||form.phone.value.replace(/\D/g,'').length<10){show('Проверьте имя и телефон');return;}
     var DEMO=false;
     var btn=form.querySelector('.submit'),orig=btn.textContent;btn.disabled=true;btn.textContent='Отправляем…';
-    var data={phone:form.phone.value.trim(),source:SRC,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+SRC+')',consent_at:new Date().toISOString(),page_url:location.href,name:form.name.value.trim()};
+    var data={phone:form.phone.value.trim(),source:SRC,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+SRC+')',consent_at:new Date().toISOString(),page_url:location.href,name:form.name.value.trim(),message:(form.message&&form.message.value||'').trim()};
     fetch(form.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)})
       .then(function(r){if(!r.ok)throw 0;return r;}).then(succeed).catch(function(){if(DEMO){succeed();}else{fail();}});
     function succeed(){[].forEach.call(form.children,function(el){if(el!==ok)el.style.display='none';});ok.classList.add('on');try{window.ym&&ym(94305898,'reachGoal','lead',{source:SRC});}catch(e){}}

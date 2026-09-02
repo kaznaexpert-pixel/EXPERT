@@ -56,7 +56,7 @@ h1{font-family:var(--font-display);font-weight:500;font-size:clamp(28px,4.5vw,40
   <div class="card">
     <div class="mark" aria-hidden="true">✓</div>
     <h1>Заявка принята</h1>
-    <p class="sub">Перезвоним в течение <b>15 минут</b> в рабочее время
+    <p class="sub">Перезвоним в течение <b>в течение часа</b> в рабочее время
     (пн–пт, 9:00–19:00 МСК). NDA подписываем до анализа документов.</p>
 
     <div class="steps">

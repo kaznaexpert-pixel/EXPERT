@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Стоимость казначейского сопровождения: цены 2026</title>
-<meta name="description" content="Сколько стоит казначейское сопровождение в 2026 году: резервирование счёта 25 000 ₽, открытие 35 000 ₽, ведение от 65 000 ₽, спасение контракта от 35 000 ₽.">
+<title>Стоимость казначейского сопровождения госконтракта в 2026 году — цены КазнаЭксперт</title>
+<meta name="description" content="Сколько стоит казначейское сопровождение: четыре фиксированных тарифа по этапу контракта — резервирование счёта 25 000 ₽, открытие 35 000 ₽, контракт с постоплатой 65 000 ₽, контракт с авансом и ГОЗ 105 000 ₽/мес. Что входит в каждый тариф и как выбрать.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -23,19 +23,19 @@
 <!-- Метрика 94305898 грузится из /js/cookie-consent.js (по согласию, единый счётчик сайта) -->
 <!-- ╚════════════════════════════════════════════════════════════════════════════╝ -->
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
-<script>window.YM_PARAMS = {page_type:"cluster", cluster:"primenenie"};</script>
+<script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Стоимость казначейского сопровождения: из чего складывается цена в 2026 году", "description": "Сколько стоит казначейское сопровождение в 2026 году: резервирование счёта 25 000 ₽, открытие 35 000 ₽, ведение от 65 000 ₽, спасение контракта от 35 000 ₽.", "inLanguage": "ru-RU", "datePublished": "2026-08-10", "dateModified": "2026-08-11", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/stoimost-kaznacheyskogo-soprovozhdeniya/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Сколько стоит казначейское сопровождение госконтракта: цены 2026", "description": "Сколько стоит казначейское сопровождение: четыре фиксированных тарифа по этапу контракта — резервирование счёта 25 000 ₽, открытие 35 000 ₽, контракт с постоплатой 65 000 ₽, контракт с авансом и ГОЗ 105 000 ₽/мес. Что входит в каждый тариф и как выбрать.", "inLanguage": "ru-RU", "datePublished": "2026-08-10", "dateModified": "2026-09-02", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": "https://kaznaexpert.ru/img/og-image.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/stoimost-kaznacheyskogo-soprovozhdeniya/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Стоимость казначейского сопровождения", "item": "https://kaznaexpert.ru/baza-znaniy/stoimost-kaznacheyskogo-soprovozhdeniya/"}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Сколько стоит казначейское сопровождение в 2026 году?", "acceptedAnswer": {"@type": "Answer", "text": "Ориентировочные фиксированные цены: резервирование казначейского счёта — 25 000 ₽, открытие лицевого счёта под ключ — 35 000 ₽, ведение контракта — от 65 000 ₽ (или 105 000 ₽ в месяц), спасение контракта — от 35 000 ₽, аудит сопровождения — 160 000 ₽, восстановление учёта — от 99 000 ₽. Точную цену называют после анализа контракта."}}, {"@type": "Question", "name": "От чего зависит стоимость казначейского сопровождения?", "acceptedAnswer": {"@type": "Answer", "text": "От типа задачи (разовое открытие счёта дешевле полного ведения), числа и сложности операций, наличия проблем (восстановление учёта, спасение) и режима контракта (гособоронзаказ, расширенное сопровождение)."}}, {"@type": "Question", "name": "Зависит ли цена от региона?", "acceptedAnswer": {"@type": "Answer", "text": "Нет. Цены фиксированные по всей России: сопровождение ведётся дистанционно через «Электронный бюджет», надбавок за регион нет."}}, {"@type": "Question", "name": "Сколько стоит открыть казначейский счёт?", "acceptedAnswer": {"@type": "Answer", "text": "Открытие лицевого счёта под ключ — 35 000 ₽: подготовка документов, включение в Сводный реестр и открытие счёта за два рабочих дня."}}, {"@type": "Question", "name": "Сколько стоит ведение казначейского счёта?", "acceptedAnswer": {"@type": "Answer", "text": "Ведение контракта — от 65 000 ₽ за весь срок или 105 000 ₽ в месяц: сведения об операциях, распоряжения, санкционирование платежей и отчётность без лимита операций."}}, {"@type": "Question", "name": "Есть ли скрытые доплаты?", "acceptedAnswer": {"@type": "Answer", "text": "Нет. Объём работ и стоимость фиксируются в договоре до начала работ, поэтому итоговая цена известна заранее."}}, {"@type": "Question", "name": "Как узнать точную стоимость по моему контракту?", "acceptedAnswer": {"@type": "Answer", "text": "Передайте контракт на анализ: эксперт оценит предмет, сумму, аванс и режим сопровождения и назовёт фиксированную цену. Оставьте заявку — разберём ваш случай."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Сколько стоит казначейское сопровождение в 2026 году?", "acceptedAnswer": {"@type": "Answer", "text": "Четыре фиксированных тарифа по этапу контракта: резервирование счёта — 25 000 ₽, открытие счёта — 35 000 ₽, контракт с постоплатой — 65 000 ₽ разово, контракт с авансом и ГОЗ — 105 000 ₽ в месяц. Отдельные работы: РКМ — 105 000 ₽, восстановление раздельного учёта — 99 000 ₽, аудит — 160 000 ₽, обучение — 150 000 ₽, банковское сопровождение — 105 000 ₽/мес."}}, {"@type": "Question", "name": "Почему цены фиксированные, а не «от»?", "acceptedAnswer": {"@type": "Answer", "text": "Объём работ по этапу известен заранее. Цена записывается в договоре и не меняется после того, как исполнитель увидит документы."}}, {"@type": "Question", "name": "Есть ли скрытые платежи за операции?", "acceptedAnswer": {"@type": "Answer", "text": "Нет. Внутри тарифа нет лимита на число платежей, переутверждений сведений, разборов отказов и обращений."}}, {"@type": "Question", "name": "Когда платить?", "acceptedAnswer": {"@type": "Answer", "text": "После подписания договора. Предоплаты до договора нет. NDA подписывается до передачи документов."}}, {"@type": "Question", "name": "Зависит ли цена от региона?", "acceptedAnswer": {"@type": "Answer", "text": "Нет. Сопровождение ведётся удалённо через «Электронный бюджет» по всей России, надбавок за регион нет."}}, {"@type": "Question", "name": "Сколько стоит ведение казначейского счёта?", "acceptedAnswer": {"@type": "Answer", "text": "Ведение входит в сопровождение контракта: 65 000 ₽ разово при постоплате или 105 000 ₽ в месяц при авансе и ГОЗ — сведения, распоряжения, санкционирование, раздельный учёт и отчётность без лимита операций."}}, {"@type": "Question", "name": "Контракт по ГОЗ, но без аванса — какой тариф?", "acceptedAnswer": {"@type": "Answer", "text": "Контракты по 275-ФЗ ведутся по тарифу с авансом и ГОЗ — 105 000 ₽ в месяц: режим отдельного счёта, ИГК и раздельный учёт по ГОЗ требуют того же объёма работы независимо от аванса."}}, {"@type": "Question", "name": "Как выбрать тариф?", "acceptedAnswer": {"@type": "Answer", "text": "Опишите контракт в заявке — КазнаЭксперт отвечает в течение часа в рабочее время, каким тарифом закрывается ваш случай."}}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "HowTo", "name": "Как узнать стоимость казначейского сопровождения по вашему контракту", "inLanguage": "ru-RU", "step": [{"@type": "HowToStep", "position": 1, "name": "Определить тип задачи", "text": "Уточните, что нужно: резервирование, открытие счёта, ведение контракта, спасение или восстановление учёта — от этого зависит цена."}, {"@type": "HowToStep", "position": 2, "name": "Оценить объём операций", "text": "Прикиньте число платежей, соисполнителей и этапов контракта — это влияет на стоимость ведения."}, {"@type": "HowToStep", "position": 3, "name": "Учесть режим контракта", "text": "Гособоронзаказ и расширенное сопровождение требуют больше работы по учёту и тарифицируются выше."}, {"@type": "HowToStep", "position": 4, "name": "Передать контракт на анализ", "text": "Эксперт разбирает контракт и называет фиксированную стоимость по вашему случаю."}, {"@type": "HowToStep", "position": 5, "name": "Зафиксировать цену в договоре", "text": "Стоимость и объём работ закрепляются в договоре до начала работ — без скрытых доплат."}]}
+{"@context": "https://schema.org", "@type": "Service", "name": "Казначейское сопровождение госконтрактов", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/baza-znaniy/stoimost-kaznacheyskogo-soprovozhdeniya/", "hasOfferCatalog": {"@type": "OfferCatalog", "name": "Тарифы казначейского сопровождения 2026", "itemListElement": [{"@type": "Offer", "name": "Резервирование казначейского счёта к дате тендера", "price": "25000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/rezervirovanie-scheta/", "priceValidUntil": "2026-12-31"}, {"@type": "Offer", "name": "Открытие казначейского счёта", "price": "35000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/otkrytie-scheta/", "priceValidUntil": "2026-12-31"}, {"@type": "Offer", "name": "Сопровождение контракта с постоплатой", "price": "65000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-postoplata/", "priceValidUntil": "2026-12-31"}, {"@type": "Offer", "name": "Сопровождение контракта с авансом и ГОЗ", "price": "105000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-avans/", "priceValidUntil": "2026-12-31", "priceSpecification": {"@type": "UnitPriceSpecification", "price": "105000", "priceCurrency": "RUB", "unitText": "MONTH", "billingDuration": "P1M"}}, {"@type": "Offer", "name": "Составление РКМ по ГОЗ", "price": "105000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/sostavlenie-rkm/", "priceValidUntil": "2026-12-31"}, {"@type": "Offer", "name": "Восстановление раздельного учёта", "price": "99000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/vosstanovlenie-razdelnogo-ucheta/", "priceValidUntil": "2026-12-31"}, {"@type": "Offer", "name": "Аудит казначейского сопровождения", "price": "160000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/audit-kaznacheyskogo-soprovozhdeniya/", "priceValidUntil": "2026-12-31"}, {"@type": "Offer", "name": "Обучение казначейскому сопровождению", "price": "150000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/", "priceValidUntil": "2026-12-31"}, {"@type": "Offer", "name": "Банковское сопровождение контракта ГОЗ", "price": "105000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/bankovskoe-soprovozhdenie/", "priceValidUntil": "2026-12-31", "priceSpecification": {"@type": "UnitPriceSpecification", "price": "105000", "priceCurrency": "RUB", "unitText": "MONTH", "billingDuration": "P1M"}}]}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Термины: стоимость казначейского сопровождения", "inLanguage": "ru-RU", "hasDefinedTerm": [{"@type": "DefinedTerm", "name": "Резервирование счёта", "description": "Заблаговременное резервирование казначейского счёта до подписания контракта."}, {"@type": "DefinedTerm", "name": "Ведение контракта", "description": "Полное сопровождение операций по контракту: сведения, распоряжения, санкционирование, отчётность."}, {"@type": "DefinedTerm", "name": "Спасение контракта", "description": "Срочная помощь при возвратах и блокировках с восстановлением контракта до исполнения."}, {"@type": "DefinedTerm", "name": "Расширенное сопровождение", "description": "Режим с углублённой проверкой обоснованности затрат, требует больше работы по учёту."}, {"@type": "DefinedTerm", "name": "Раздельный учёт", "description": "Обособленный учёт целевых средств по контракту при казначейском сопровождении."}]}
@@ -78,20 +78,20 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Стоимость казначейского сопровождения: цены 2026">
-<meta property="og:description" content="Из чего складывается стоимость казначейского сопровождения: фиксированные цены на резервирование и открытие счёта, ведение контракта, спасение и восстановление учёта.">
+<meta property="og:title" content="Стоимость казначейского сопровождения — цены 2026">
+<meta property="og:description" content="Четыре фиксированных тарифа по этапу контракта: 25 000 / 35 000 / 65 000 ₽ и 105 000 ₽/мес. Без лимита на операции, без «от».">
 <meta property="og:url" content="https://kaznaexpert.ru/baza-znaniy/stoimost-kaznacheyskogo-soprovozhdeniya/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Стоимость казначейского сопровождения: цены 2026 — КазнаЭксперт">
+<meta property="og:image:alt" content="Стоимость казначейского сопровождения — цены 2026 — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-11T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-02T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Стоимость казначейского сопровождения: цены 2026">
-<meta name="twitter:description" content="Из чего складывается стоимость казначейского сопровождения: фиксированные цены на резервирование и открытие счёта, ведение контракта, спасение и восстановление учёта.">
+<meta name="twitter:title" content="Стоимость казначейского сопровождения — цены 2026">
+<meta name="twitter:description" content="Четыре фиксированных тарифа по этапу контракта: 25 000 / 35 000 / 65 000 ₽ и 105 000 ₽/мес. Без лимита на операции, без «от».">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 
@@ -150,104 +150,129 @@
 <div class="layout">
   <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/baza-znaniy/">База знаний</a> › Стоимость казначейского сопровождения</nav>
 
-  <aside class="toc" aria-label="Содержание">
-    <div class="toc__label">Содержание</div>
-    <ul class="toc__list" id="tocList">
-      <li><a href="#korotkiy-otvet">Короткий ответ: сколько стоит казначейское сопровождение</a></li>
-      <li><a href="#tablica">Стоимость по видам работ</a></li>
-      <li><a href="#iz-chego">Из чего складывается цена</a></li>
-      <li><a href="#faktory">Что влияет на стоимость</a></li>
-      <li><a href="#kak-uznat">Как узнать точную цену по контракту</a></li>
-      <li><a href="#glossary">Глоссарий</a></li>
-      <li><a href="#faq">Частые вопросы</a></li>
-    </ul>
-  </aside>
-
   <article class="content" id="main">
+    <style>
+    .st-hero-price{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:26px 0 8px}
+    .st-hero-price a{display:block;padding:16px 18px;background:var(--card);border:1px solid var(--line);border-radius:12px;text-decoration:none;color:inherit;transition:border-color .2s}
+    .st-hero-price a:hover{border-color:var(--sepia)}
+    .st-hero-price .k{display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--sepia);margin-bottom:8px}
+    .st-hero-price .n{display:block;font-size:15px;line-height:1.35;margin-bottom:10px;min-height:2.7em}
+    .st-hero-price .p{display:block;font-family:var(--font-display,'Playfair Display',serif);font-size:24px;font-weight:500;letter-spacing:-.01em}
+    .st-hero-price .p small{font-family:inherit;font-size:14px;color:var(--mute,#6E6B66);font-weight:400}
+    .st-form{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--sepia);border-radius:14px;padding:24px 26px;margin:28px 0 34px}
+    .st-form h3{margin:0 0 6px;font-size:22px}
+    .st-form p.st-form__sub{margin:0 0 16px;color:var(--mute,#6E6B66);font-size:15px}
+    .st-form .railform{background:transparent;border:0;box-shadow:none;padding:0}
+    .st-form textarea.fld{resize:vertical;min-height:64px;line-height:1.45}
+    .st-form .st-contacts{margin:14px 0 0;font-size:15px;color:var(--mute,#6E6B66)}
+    .st-form .st-contacts a{color:var(--sepia)}
+    .content table.st-inc td:not(:first-child){text-align:center;white-space:nowrap}
+    .content table.st-inc td:first-child{min-width:220px}
+    .st-scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+    @media(max-width:980px){.st-hero-price{grid-template-columns:repeat(2,1fr)}}
+    @media(max-width:520px){.st-hero-price{grid-template-columns:1fr}.st-hero-price .n{min-height:0}}
+    </style>
     <div class="hero">
       <img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
-      <div class="eyebrow">База знаний · Стоимость <span class="fresh">Актуально на 2026</span></div>
-    <h1>Стоимость казначейского сопровождения: из чего складывается цена в 2026 году</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>9 мин чтения</span><span class="dot">·</span><span>Обновлено 11 августа 2026</span></div>
+      <div class="eyebrow">Цены · Казначейское сопровождение <span class="fresh">Актуально на 2026</span></div>
+    <h1>Сколько стоит казначейское сопровождение госконтракта</h1>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>Обновлено 2 сентября 2026</span></div>
     </div>
 
-    <div class="share">
-      <span class="share__label">Поделиться:</span>
-      <a href="https://t.me/share/url?url=https%3A%2F%2Fkaznaexpert.ru%2Fbaza-znaniy%2Fstoimost-kaznacheyskogo-soprovozhdeniya%2F&amp;text=%D0%A1%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%20%D0%BA%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B2%202026%3A%20%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D1%87%D1%91%D1%82%D0%B0%2019%20000%20%E2%82%BD%2C%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B5%2029%20000%20%E2%82%BD%2C%20%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%B0%20%D0%BE%D1%82%2055%20000%20%E2%82%BD%2C%20%D1%81%D0%BF%D0%B0%D1%81%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%2029%20000%20%E2%82%BD.%20%D0%A4%D0%B8%D0%BA%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%86%D0%B5%D0%BD%D1%8B%20%D0%BF%D0%BE%20%D0%B2%D1%81%D0%B5%D0%B9%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" target="_blank" rel="noopener"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.56 8.25l-1.86 8.76c-.14.62-.5.77-1.02.48l-2.82-2.08-1.36 1.31c-.15.15-.28.28-.57.28l.2-2.89 5.27-4.76c.23-.2-.05-.32-.35-.12l-6.51 4.1-2.8-.88c-.61-.19-.62-.61.13-.9l10.95-4.22c.5-.18.95.12.79.85z"/></svg>Telegram</a>
-      <button type="button" id="copyLink"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.07 0l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.07 0l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg><span>Копировать ссылку</span></button>
-      <button type="button" id="printBtn"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9V2h12v7M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2M6 14h12v8H6z"/></svg>Скачать PDF</button>
+    <div class="tldr">Цена зависит от одного: на каком этапе контракт и есть ли аванс. Четыре тарифа — резервирование счёта 25 000 ₽, открытие счёта 35 000 ₽, контракт с постоплатой 65 000 ₽ разово, контракт с авансом и ГОЗ 105 000 ₽ в месяц. Все цены фиксированные, записываются в договоре, не зависят от региона и числа операций. Оплата — после подписания договора.</div>
+
+    <div class="st-hero-price">
+      <a href="/uslugi/rezervirovanie-scheta/"><span class="k">Тендер</span><span class="n">Резервирование счёта к дате тендера</span><span class="p">25 000 ₽</span></a>
+      <a href="/uslugi/otkrytie-scheta/"><span class="k">Победа</span><span class="n">Открытие казначейского счёта, 2 рабочих дня</span><span class="p">35 000 ₽</span></a>
+      <a href="/uslugi/soprovozhdenie-postoplata/"><span class="k">Постоплата</span><span class="n">Сопровождение контракта с постоплатой до закрытия</span><span class="p">65 000 ₽</span></a>
+      <a href="/uslugi/soprovozhdenie-avans/"><span class="k">Аванс · ГОЗ</span><span class="n">Сопровождение контракта с авансом и ГОЗ</span><span class="p">105 000 ₽<small> /мес</small></span></a>
     </div>
 
-    <details class="mtoc"><summary>Содержание статьи</summary>
-      <ol>
-        <li><a href="#korotkiy-otvet">Короткий ответ: сколько стоит казначейское сопровождение</a></li><li><a href="#tablica">Стоимость по видам работ</a></li><li><a href="#iz-chego">Из чего складывается цена</a></li><li><a href="#faktory">Что влияет на стоимость</a></li><li><a href="#kak-uznat">Как узнать точную цену по контракту</a></li><li><a href="#glossary">Глоссарий</a></li><li><a href="#faq">Частые вопросы</a></li>
-      </ol>
-    </details>
+    <div class="st-form" id="zayavka">
+      <h3>Какой тариф подходит вашему контракту</h3>
+      <p class="st-form__sub">Опишите контракт в двух словах — ответим в течение часа в рабочее время и скажем, каким тарифом он закрывается. Цена фиксируется в договоре, NDA — до передачи документов.</p>
+      <form class="railform" id="leadFormTop" novalidate data-endpoint="/php/lead.php" data-source="stoimost-kaznacheyskogo-soprovozhdeniya-top">
+        <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
+        <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
+        <textarea class="fld" name="message" placeholder="Комментарий: сумма контракта, аванс, ГОЗ или 44-ФЗ (необязательно)" rows="2" maxlength="3000"></textarea>
+        <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
+        <button class="submit" type="submit">Отправить заявку →</button>
+        <div class="formmsg" id="formMsgTop" hidden></div>
+        <div class="success" id="leadSuccessTop" role="status" aria-live="polite">
+          <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
+          <h3>Заявка принята</h3>
+          <p>Эксперт свяжется <b>в течение часа</b> в рабочее время (пн–пт, 9:00–19:00 МСК).</p>
+        </div>
+      </form>
+      <p class="st-contacts">Телефон <a href="tel:+79818331010">+7 981 833-10-10</a> · <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> · <a href="https://wa.me/+79818331010" target="_blank" rel="noopener">WhatsApp</a></p>
+    </div>
 
-    <div class="tldr"><p>Стоимость казначейского сопровождения в 2026 году зависит от объёма работ по контракту. Ориентировочные фиксированные цены: резервирование казначейского счёта — 25 000 ₽, открытие лицевого счёта под ключ — 35 000 ₽, ведение контракта — от 65 000 ₽ (или 105 000 ₽ в месяц), спасение контракта при возвратах и блокировках — от 35 000 ₽, аудит сопровождения — 160 000 ₽, восстановление раздельного учёта — от 99 000 ₽.</p><p>Цены не зависят от региона и фиксируются в договоре до начала работ; точную стоимость называют после анализа контракта.</p></div>
+    <h2 id="ot-chego">От чего зависит стоимость</h2>
+    <p><strong>Этап контракта.</strong> Нужны только реквизиты для заказчика — платите за открытие счёта. Нужно провести платежи — за сопровождение. Не платите за весь цикл, если задача одна.</p>
+    <p><strong>Аванс.</strong> При постоплате Казначейство санкционирует платежи по актам и УПД — объём конечный, цена разовая за весь контракт. При авансе санкционируется каждое расходование, объём растёт вместе с контрактом — цена помесячная.</p>
+    <p><strong>Гособоронзаказ.</strong> Контракты по 275-ФЗ ведутся по тарифу с авансом: добавляются ИГК в каждом документе, отдельный счёт, раздельный учёт по ГОЗ и отчётность по исполнению. Как устроен режим — в разборе <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/">казначейского сопровождения по 275-ФЗ</a>.</p>
+    <p><strong>Соисполнители.</strong> Счета и платежи соисполнителей в рамках вашего контракта входят в сопровождение. Открытие счёта соисполнителю как отдельная услуга — 35 000 ₽.</p>
+    <p>Что на цену <em>не</em> влияет: число платежей, переутверждений сведений об операциях и обращений, регион. Сопровождение ведётся удалённо через «Электронный бюджет» по всей России, надбавок за регион нет.</p>
 
-    <section class="keyfacts grain" aria-label="Ключевые факты">
-      <h2>Коротко о главном</h2>
-      <div class="keyfacts__grid">
-        <div class="kf"><div class="kf__n">Резервирование счёта</div><div class="kf__t"><b>25 000 ₽</b> — Резервирование казначейского счёта заранее, до подписания контракта</div></div>
-        <div class="kf"><div class="kf__n">Открытие счёта</div><div class="kf__t"><b>35 000 ₽</b> — Открытие лицевого счёта в территориальном органе казначейства под ключ</div></div>
-        <div class="kf"><div class="kf__n">Ведение контракта</div><div class="kf__t"><b>от 65 000 ₽</b> — Сопровождение контракта: сведения, распоряжения, санкционирование (или 105 000 ₽/мес)</div></div>
-        <div class="kf"><div class="kf__n">Спасение контракта</div><div class="kf__t"><b>от 35 000 ₽</b> — Срочная помощь при возвратах и блокировках; аудит сопровождения — 160 000 ₽, восстановление учёта — от 99 000 ₽</div></div>
-      </div>
-    </section>
-
-    <h2 id="korotkiy-otvet">Короткий ответ: сколько стоит казначейское сопровождение</h2>
-    <div class="answer reveal"><p>Казначейское сопровождение стоит от 25 000 ₽ за отдельную операцию до фиксированной цены за полное ведение контракта. Базовые ориентиры на 2026 год: резервирование казначейского счёта — 25 000 ₽, открытие лицевого счёта под ключ — 35 000 ₽, ведение контракта — от 65 000 ₽ (или 105 000 ₽ в месяц), спасение контракта — от 35 000 ₽, аудит сопровождения — 160 000 ₽, восстановление раздельного учёта — от 99 000 ₽. Цены не зависят от региона и фиксируются в договоре.</p></div>
-
-    <h2 id="tablica">Стоимость по видам работ</h2>
-    <table>
-      <caption>Ориентировочные фиксированные цены на 2026 год</caption>
-      <tr><th>Услуга</th><th>Что входит</th><th>Цена</th></tr>
-      <tr><td>Резервирование счёта</td><td>Резервирование казначейского счёта заранее, до подписания контракта</td><td>25 000 ₽</td></tr>
-      <tr><td>Открытие счёта под ключ</td><td>Документы, включение в Сводный реестр, открытие лицевого счёта за 2 рабочих дня</td><td>35 000 ₽</td></tr>
-      <tr><td>Ведение контракта</td><td>Сведения об операциях, распоряжения, санкционирование платежей, отчётность</td><td>от 65 000 ₽ (или 105 000 ₽/мес)</td></tr>
-      <tr><td>Спасение контракта</td><td>Диагностика возвратов и блокировок, восстановление до исполнения</td><td>от 35 000 ₽</td></tr>
-      <tr><td>Аудит сопровождения</td><td>Проверка всей цепочки с отчётом: риски, последствия, план исправления</td><td>160 000 ₽</td></tr>
-      <tr><td>Восстановление учёта</td><td>Восстановление раздельного учёта по контракту</td><td>от 99 000 ₽</td></tr>
+    <h2 id="chto-vhodit">Что входит в каждый тариф</h2>
+    <div class="st-scroll">
+    <table class="st-inc">
+      <caption>Состав работ по четырём тарифам</caption>
+      <tr><th>Работы</th><th>Резерв<br>25 000 ₽</th><th>Открытие<br>35 000 ₽</th><th>Постоплата<br>65 000 ₽</th><th>Аванс / ГОЗ<br>105 000 ₽/мес</th></tr>
+      <tr><td>Сводный реестр, ГИИС «Электронный бюджет» (1–2 часа)</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td></tr>
+      <tr><td>Лицевой счёт в ТОФК</td><td>резерв</td><td>✓</td><td>✓</td><td>✓</td></tr>
+      <tr><td>Закрытие счёта, если контракт не выигран</td><td>✓</td><td>—</td><td>—</td><td>—</td></tr>
+      <tr><td>Сведения об операциях и переутверждения</td><td>—</td><td>—</td><td>✓</td><td>✓</td></tr>
+      <tr><td>Платежи и санкционирование</td><td>—</td><td>—</td><td>по актам и УПД</td><td>каждое расходование</td></tr>
+      <tr><td>Разбор отказов УФК</td><td>—</td><td>до открытия</td><td>✓</td><td>✓</td></tr>
+      <tr><td>Счета и платежи соисполнителей</td><td>—</td><td>—</td><td>✓</td><td>✓</td></tr>
+      <tr><td>Раздельный учёт по контракту</td><td>—</td><td>—</td><td>✓</td><td>✓</td></tr>
+      <tr><td>ИГК, отдельный счёт и отчётность по ГОЗ</td><td>—</td><td>—</td><td>—</td><td>✓</td></tr>
+      <tr><td>Закрытие счёта, вывод прибыли</td><td>—</td><td>—</td><td>✓</td><td>✓</td></tr>
+      <tr><td>Лимит операций</td><td>—</td><td>—</td><td>нет</td><td>нет</td></tr>
     </table>
-    <p>Оформить любую из услуг можно на странице <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">казначейское сопровождение под ключ</a>.</p>
+    </div>
+    <p>Подробно по каждому тарифу: <a href="/uslugi/rezervirovanie-scheta/">резервирование счёта</a>, <a href="/uslugi/otkrytie-scheta/">открытие счёта</a>, <a href="/uslugi/soprovozhdenie-postoplata/">контракт с постоплатой</a>, <a href="/uslugi/soprovozhdenie-avans/">контракт с авансом и ГОЗ</a>.</p>
 
-    <h2 id="iz-chego">Из чего складывается цена</h2>
-    <p>Стоимость формируется из конкретных этапов работы, а не из абстрактного «сопровождения». В неё входит подготовка документов и открытие лицевого счёта, ведение <a href="/baza-znaniy/razdelnyy-uchet-po-goskontraktu/">раздельного учёта</a>, формирование сведений об операциях и распоряжений, прохождение <a href="/baza-znaniy/poryadok-sankcionirovaniya-rashodov/">санкционирования</a> по каждому платежу и отчётность перед казначейством.</p>
-    <p>Разовые задачи (резервирование, открытие счёта) стоят фиксированную сумму, а ведение контракта тарифицируется за весь срок или помесячно — в зависимости от того, что выгоднее по конкретному контракту.</p>
+    <h2 id="otdelnye">Отдельные работы по ГОЗ и сложным случаям</h2>
+    <table>
+      <caption>Фиксированные цены на разовые работы</caption>
+      <tr><th>Услуга</th><th>Что входит</th><th>Цена</th></tr>
+      <tr><td><a href="/uslugi/sostavlenie-rkm/">Составление РКМ по ГОЗ</a></td><td>Плановые и отчётные калькуляции по формам 995/22, расшифровки, обоснование прибыли, ответы на замечания ВП без лимита</td><td>105 000 ₽ за комплект</td></tr>
+      <tr><td><a href="/uslugi/vosstanovlenie-razdelnogo-ucheta/">Восстановление раздельного учёта</a></td><td>Методика, регистры за весь период, распределение затрат, сверка с лицевым счётом, пакет для проверки</td><td>99 000 ₽ за контракт</td></tr>
+      <tr><td><a href="/uslugi/audit-kaznacheyskogo-soprovozhdeniya/">Аудит казначейского сопровождения</a></td><td>Проверка всей цепочки с отчётом: нарушения, последствия, план исправления</td><td>160 000 ₽</td></tr>
+      <tr><td><a href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/">Обучение казначейскому сопровождению</a></td><td>Индивидуальный курс от практика на ваших контрактах</td><td>150 000 ₽</td></tr>
+      <tr><td><a href="/uslugi/bankovskoe-soprovozhdenie/">Банковское сопровождение контракта ГОЗ</a></td><td>Отдельный счёт в уполномоченном банке, платежи, отчётность — ежемесячно</td><td>105 000 ₽/мес</td></tr>
+      <tr><td><a href="/uslugi/spasenie-kontrakta/">Спасение контракта</a></td><td>Экспресс-аудит при блокировках, возвратах и отказах УФК; исправление и доведение до закрытия — по смете после аудита</td><td>экспресс-аудит 35 000 ₽</td></tr>
+    </table>
 
-    <h2 id="faktory">Что влияет на стоимость</h2>
-    <ul>
-      <li>Тип задачи: разовое открытие счёта дешевле, чем полное ведение контракта до исполнения.</li>
-      <li>Количество и сложность операций: число платежей, соисполнителей, этапов.</li>
-      <li>Наличие проблем: восстановление учёта и спасение контракта после возвратов тарифицируются отдельно.</li>
-      <li>Режим контракта: гособоронзаказ и расширенное сопровождение требуют больше работы по учёту.</li>
-    </ul>
-    <p>При этом цена не зависит от региона: сопровождение ведётся дистанционно через «Электронный бюджет» по всей России.</p>
+    <h2 id="sravnenie">Самостоятельно, штатный специалист или с нами</h2>
+    <table>
+      <caption>Сравнение по пяти критериям</caption>
+      <tr><th></th><th>Самостоятельно</th><th>Штатный специалист</th><th>КазнаЭксперт</th></tr>
+      <tr><td>Старт</td><td>Недели на изучение</td><td>1–2 месяца на подбор</td><td>2 рабочих дня</td></tr>
+      <tr><td>Стоимость</td><td>Время сотрудника и риск возвратов</td><td>Зарплата, взносы, рабочее место</td><td>65 000 ₽ разово или 105 000 ₽/мес</td></tr>
+      <tr><td>Опыт с УФК</td><td>По ходу контракта</td><td>Один человек, его уровень</td><td>Команда с опытом работы в Казначействе</td></tr>
+      <tr><td>Отказ УФК</td><td>Разбираетесь сами</td><td>По компетенции сотрудника</td><td>Берём на себя до принятия</td></tr>
+      <tr><td>Кадровый риск</td><td>—</td><td>Отпуск, увольнение, замена</td><td>Закреплённый эксперт и замена в команде</td></tr>
+    </table>
 
-    <h2 id="kak-uznat">Как узнать точную цену по контракту</h2>
-    <p>Точная стоимость называется после анализа контракта: эксперт смотрит предмет, сумму, наличие аванса и режим сопровождения и фиксирует цену в договоре до начала работ. Так исключаются скрытые доплаты — объём и стоимость известны заранее.</p>
-    <p>Чтобы понять, попадает ли ваш контракт под сопровождение и с какой суммы, посмотрите разбор <a href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/">кто попадает под казначейское сопровождение</a>.</p>
-
-    <h2 id="glossary">Глоссарий</h2>
-    <dl class="gloss">
-      <div><dt>Резервирование счёта</dt><dd>Заблаговременное резервирование казначейского счёта до подписания контракта.</dd></div>
-      <div><dt>Ведение контракта</dt><dd>Полное сопровождение операций по контракту: сведения, распоряжения, санкционирование, отчётность.</dd></div>
-      <div><dt>Спасение контракта</dt><dd>Срочная помощь при возвратах и блокировках с восстановлением контракта до исполнения.</dd></div>
-      <div><dt>Расширенное сопровождение</dt><dd>Режим с углублённой проверкой обоснованности затрат, требует больше работы по учёту.</dd></div>
-      <div><dt>Раздельный учёт</dt><dd>Обособленный учёт целевых средств по контракту при казначейском сопровождении.</dd></div>
-    </dl>
+    <h2 id="kak-vybrat">Как выбрать тариф</h2>
+    <p>Контракт ещё не подписан, реквизиты нужны к дате тендера — <a href="/uslugi/rezervirovanie-scheta/">резервирование</a>. Контракт подписан, заказчик ждёт реквизиты — <a href="/uslugi/otkrytie-scheta/">открытие счёта</a>. Аванса нет, платежи пойдут по актам — <a href="/uslugi/soprovozhdenie-postoplata/">постоплата</a>. Есть аванс, ГОЗ или соисполнители — <a href="/uslugi/soprovozhdenie-avans/">аванс и ГОЗ</a>. Контракт уже идёт, и по нему есть возвраты — начните со <a href="/uslugi/spasenie-kontrakta/">спасения контракта</a>.</p>
+    <p>Попадает ли ваш контракт под сопровождение и с какой суммы — в разборе <a href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/">кто попадает под казначейское сопровождение</a>. Чем казначейское сопровождение отличается от банковского — <a href="/baza-znaniy/kaznacheyskoe-i-bankovskoe-soprovozhdenie/">здесь</a>.</p>
 
     <h2 id="faq">Частые вопросы</h2>
     <div class="faq">
-      <details open><summary>Сколько стоит казначейское сопровождение в 2026 году?</summary><p>Ориентировочные фиксированные цены: резервирование казначейского счёта — 25 000 ₽, открытие лицевого счёта под ключ — 35 000 ₽, ведение контракта — от 65 000 ₽ (или 105 000 ₽ в месяц), спасение контракта — от 35 000 ₽, аудит сопровождения — 160 000 ₽, восстановление учёта — от 99 000 ₽. Точную цену называют после анализа контракта.</p></details>
-      <details><summary>От чего зависит стоимость казначейского сопровождения?</summary><p>От типа задачи (разовое открытие счёта дешевле полного ведения), числа и сложности операций, наличия проблем (восстановление учёта, спасение) и режима контракта (гособоронзаказ, расширенное сопровождение).</p></details>
-      <details><summary>Зависит ли цена от региона?</summary><p>Нет. Цены фиксированные по всей России: сопровождение ведётся дистанционно через «Электронный бюджет», надбавок за регион нет.</p></details>
-      <details><summary>Сколько стоит открыть казначейский счёт?</summary><p>Открытие лицевого счёта под ключ — 35 000 ₽: подготовка документов, включение в Сводный реестр и открытие счёта за два рабочих дня.</p></details>
-      <details><summary>Сколько стоит ведение казначейского счёта?</summary><p>Ведение контракта — от 65 000 ₽ за весь срок или 105 000 ₽ в месяц: сведения об операциях, распоряжения, санкционирование платежей и отчётность без лимита операций.</p></details>
-      <details><summary>Есть ли скрытые доплаты?</summary><p>Нет. Объём работ и стоимость фиксируются в договоре до начала работ, поэтому итоговая цена известна заранее.</p></details>
-      <details><summary>Как узнать точную стоимость по моему контракту?</summary><p>Передайте контракт на анализ: эксперт оценит предмет, сумму, аванс и режим сопровождения и назовёт фиксированную цену. Оставьте заявку — разберём ваш случай.</p></details>
+      <details open><summary>Сколько стоит казначейское сопровождение в 2026 году?</summary><p>Четыре фиксированных тарифа по этапу контракта: резервирование счёта — 25 000 ₽, открытие счёта — 35 000 ₽, контракт с постоплатой — 65 000 ₽ разово, контракт с авансом и ГОЗ — 105 000 ₽ в месяц. Отдельные работы: РКМ — 105 000 ₽, восстановление раздельного учёта — 99 000 ₽, аудит — 160 000 ₽, обучение — 150 000 ₽, банковское сопровождение — 105 000 ₽/мес.</p></details>
+      <details><summary>Почему цены фиксированные, а не «от»?</summary><p>Объём работ по этапу известен заранее. «От» появляется, когда исполнитель не знает, что будет делать. Цена записывается в договоре и не меняется после того, как мы увидим документы.</p></details>
+      <details><summary>Есть ли скрытые платежи за операции?</summary><p>Нет. Внутри тарифа нет лимита на число платежей, переутверждений сведений, разборов отказов и обращений. Счёт «за превышение» не выставляем.</p></details>
+      <details><summary>Когда платить?</summary><p>После подписания договора. Предоплаты до договора нет. NDA подписываем до передачи документов.</p></details>
+      <details><summary>Зависит ли цена от региона?</summary><p>Нет. Сопровождение ведётся удалённо через «Электронный бюджет» по всей России, надбавок за регион нет.</p></details>
+      <details><summary>Сколько стоит ведение казначейского счёта?</summary><p>Ведение входит в сопровождение контракта: 65 000 ₽ разово при постоплате или 105 000 ₽ в месяц при авансе и ГОЗ — сведения, распоряжения, санкционирование, раздельный учёт и отчётность без лимита операций.</p></details>
+      <details><summary>Контракт по ГОЗ, но без аванса — какой тариф?</summary><p>Контракты по 275-ФЗ ведутся по тарифу с авансом и ГОЗ — 105 000 ₽ в месяц: режим отдельного счёта, ИГК и раздельный учёт по ГОЗ требуют того же объёма работы независимо от аванса.</p></details>
+      <details><summary>Как выбрать тариф?</summary><p>Опишите контракт в заявке — ответим в течение часа в рабочее время, каким тарифом закрывается ваш случай.</p></details>
     </div>
 
     <div class="author">
@@ -261,25 +286,20 @@
     </div>
 
     <div class="refs">
-      <h2>Источники и нормативная база</h2>
-      <ol>
-        <li id="ref-1">Услуги и цены казначейского сопровождения — kaznaexpert.ru — <a href="https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie/" target="_blank" rel="noopener">kaznaexpert.ru</a></li>
-        <li id="ref-2">Бюджетный кодекс РФ, глава 24.4 «Казначейское сопровождение» — <a href="https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/" target="_blank" rel="noopener">base.garant.ru</a></li>
-      </ol>
-      <p class="refs__note">Цены ориентировочные и фиксируются в договоре по итогам анализа конкретного контракта. Материал носит справочный характер. Проверено экспертом КазнаЭксперт. Дата актуализации — 11 августа 2026.</p>
+      <p class="refs__note">Все цены фиксируются в договоре. Дата актуализации — 2 сентября 2026.</p>
     </div>
   </article>
 
   <aside class="rail">
     <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="stoimost-kaznacheyskogo-soprovozhdeniya">
       <div class="railform__badge">Разбор эксперта</div>
-      <h3 class="railform__title">Назовём точную цену по вашему контракту</h3>
-      <p class="railform__sub">Разберём контракт, определим объём работ и назовём фиксированную стоимость. Разбор эксперта — в течение часа.</p>
+      <h3 class="railform__title">Скажем, какой тариф закрывает ваш контракт</h3>
+      <p class="railform__sub">Опишите контракт — ответим в течение часа в рабочее время. Цена фиксируется в договоре, NDA — до передачи документов.</p>
       <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
       <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
       <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
       <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-      <button class="submit" type="submit">Получить расчёт →</button>
+      <button class="submit" type="submit">Отправить заявку →</button>
       <div class="formmsg" id="formMsg" hidden></div>
       <div class="railform__trust">
         <span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span>
@@ -288,12 +308,12 @@
       <div class="success" id="leadSuccess" role="status" aria-live="polite">
         <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
         <h3>Заявка принята</h3>
-        <p>Эксперт перезвонит <b>в течение 1 часа</b> (9:00–21:00 МСК) и разберёт ваш случай.</p>
+        <p>Эксперт свяжется <b>в течение часа</b> в рабочее время (пн–пт, 9:00–19:00 МСК) и разберёт ваш случай.</p>
         <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
       </div>
     </form>
   <!-- rail-svc -->
-<a class="rail-svc" href="/uslugi/soprovozhdenie-postoplata/"><span class="rail-svc__k">Поможем под ключ</span><span class="rail-svc__n">Сопровождение контракта (постоплата) →</span></a>
+<a class="rail-svc" href="/uslugi/kaznacheyskoe-soprovozhdenie/"><span class="rail-svc__k">Все услуги</span><span class="rail-svc__n">Казначейское сопровождение по ГОЗ и сложным контрактам →</span></a>
 </aside>
 </div>
 
@@ -668,5 +688,25 @@ var tail=document.querySelector('.related')||document.querySelector('.v2-footer'
 function upd(){m.classList.toggle('mtr--tail', tail.getBoundingClientRect().top < window.innerHeight*0.65);}
 var t;window.addEventListener('scroll',function(){if(t)return;t=setTimeout(function(){t=null;upd();},100);},{passive:true});
 window.addEventListener('resize',upd,{passive:true});upd();})();</script>
+<script>
+(function(){
+  var f=document.getElementById('leadFormTop'); if(!f) return;
+  var msg=document.getElementById('formMsgTop'), ok=document.getElementById('leadSuccessTop');
+  function show(t){ if(msg){msg.hidden=false;msg.textContent=t;} }
+  f.addEventListener('submit',function(e){
+    e.preventDefault();
+    if(f.company_extra && f.company_extra.value) return;
+    var name=(f.name.value||'').trim(), phone=(f.phone.value||'').trim();
+    if(name.length<2){show('Введите имя');return;}
+    if(phone.replace(/\D/g,'').length<10){show('Проверьте телефон');return;}
+    if(!f.consent.checked){show('Подтвердите согласие');return;}
+    var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';
+    fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,message:(f.message&&f.message.value||'').trim(),consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})})
+      .then(function(r){ if(!r.ok) throw 0; return r; })
+      .then(function(){ [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; }); if(ok) ok.style.display='block'; try{ if(typeof ym==='function') ym(94305898,'reachGoal','lead',{source:f.dataset.source}); }catch(_){} })
+      .catch(function(){ btn.disabled=false; btn.textContent=orig; show('Не удалось отправить. Позвоните +7 981 833-10-10 или напишите в Telegram.'); });
+  });
+})();
+</script>
 </body>
 </html>

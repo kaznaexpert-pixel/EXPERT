@@ -270,7 +270,7 @@
       <aside class="v2-hero-action">
         <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
         <h2>Зарезервируем счёт за вас</h2>
-        <p class="v2-hero-action-sub">Передайте номер тендера или требования заказчика — эксперт перезвонит за 15 минут и зарезервирует счёт за один рабочий день.</p>
+        <p class="v2-hero-action-sub">Передайте номер тендера или требования заказчика — эксперт перезвонит в течение часа и зарезервирует счёт за один рабочий день.</p>
         <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="rezervirovanie-scheta">
           <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
           <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
@@ -278,15 +278,15 @@
           <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
           <button class="submit" type="submit">Получить расчёт →</button>
           <div class="formmsg" id="formMsg" hidden></div>
-          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
+          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA по запросу</span></div>
           <div class="success" id="leadSuccess" role="status" aria-live="polite">
             <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
             <h3>Заявка принята</h3>
-            <p>Эксперт перезвонит <b>в течение 15 минут</b> (9:00–21:00 МСК) и разберёт ваш контракт.</p>
+            <p>Эксперт перезвонит <b>в течение часа</b> (9:00–21:00 МСК) и разберёт ваш контракт.</p>
             <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
           </div>
         </form>
-        <div class="v2-hero-alt">Или напишите — ответим за 5 минут<div class="v2-hero-alt-links"><a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a><a href="tel:+79818331010">+7 981 833-10-10</a></div></div>
+        <div class="v2-hero-alt">Или напишите — ответим в течение часа<div class="v2-hero-alt-links"><a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a><a href="tel:+79818331010">+7 981 833-10-10</a></div></div>
       </aside>
     </div>
   </div>
@@ -332,7 +332,7 @@
       <h2 class="v2-section-title">От заявки до резерва — <em>один рабочий день</em></h2>
       <p class="v2-section-lede">Каждый шаг — конкретное действие на нашей стороне. Прозрачно и в срок.</p>
     </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">Сегодня · 15 минут</div><h3>Заявка и старт</h3><p class="v2-process-desc">Перезваниваем за 15 минут, уточняем тендер, подписываем договор и NDA.</p><ul class="v2-process-checks"><li>Договор подписан</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">2–4 часа</div><h3>Заявка в УФК</h3><p class="v2-process-desc">Анализируем тендер, формируем пакет и подаём заявку на резервирование.</p><ul class="v2-process-checks"><li>Пакет собран</li><li>Заявка подана</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">1 рабочий день</div><h3>Счёт зарезервирован</h3><p class="v2-process-desc">Получаете подтверждение резервирования и реквизиты для предоставления заказчику.</p><ul class="v2-process-checks"><li>Резерв подтверждён</li><li>Документ передан</li></ul></article></div>
+    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">Сегодня · в течение часа</div><h3>Заявка и старт</h3><p class="v2-process-desc">Перезваниваем в течение часа, уточняем тендер, подписываем договор и NDA.</p><ul class="v2-process-checks"><li>Договор подписан</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">2–4 часа</div><h3>Заявка в УФК</h3><p class="v2-process-desc">Анализируем тендер, формируем пакет и подаём заявку на резервирование.</p><ul class="v2-process-checks"><li>Пакет собран</li><li>Заявка подана</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">1 рабочий день</div><h3>Счёт зарезервирован</h3><p class="v2-process-desc">Получаете подтверждение резервирования и реквизиты для предоставления заказчику.</p><ul class="v2-process-checks"><li>Резерв подтверждён</li><li>Документ передан</li></ul></article></div>
   </div>
 </section>
 
@@ -507,9 +507,9 @@
         <div class="v2-tariff-stage">После открытия</div>
         <h3>Сопровождение контракта</h3>
         <p class="v2-tariff-desc">Ведём контракт после открытия счёта: платежи, сведения, отчётность — до закрытия.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 65 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу контракта</div><a href="/uslugi/soprovozhdenie-postoplata/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">65 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу контракта</div><a href="/uslugi/soprovozhdenie-postoplata/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article></div>
-    <p class="v2-tariffs-footnote">Точная стоимость — после анализа вашего контракта.</p>
+    <p class="v2-tariffs-footnote">Все цены фиксируются в договоре.</p>
   </div>
 </section>
 
@@ -562,7 +562,7 @@
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Заявка</div>
       <h2 class="v2-section-title">Зарезервируем счёт за вас</h2>
-      <p class="v2-section-lede">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт ваш контракт и назовёт точную стоимость.</p>
+      <p class="v2-section-lede">Оставьте контакты — эксперт перезвонит в течение часа, разберёт ваш контракт и назовёт точную стоимость.</p>
     </div>
     <div style="max-width:520px;margin:0 auto">
       <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="rezervirovanie-scheta-cta">
@@ -572,11 +572,11 @@
         <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
         <button class="submit" type="submit">Получить расчёт →</button>
         <div class="formmsg" id="formMsgBottom" hidden></div>
-        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
+        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA по запросу</span></div>
         <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
           <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
           <h3>Заявка принята</h3>
-          <p>Эксперт перезвонит <b>в течение 15 минут</b> (9:00–21:00 МСК).</p>
+          <p>Эксперт перезвонит <b>в течение часа</b> (9:00–21:00 МСК).</p>
         </div>
       </form>
     </div>

@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Услуга казначейского сопровождения под ключ: цена и сроки</title>
-<meta name="description" content="Казначейское сопровождение контрактов под ключ: резерв и открытие счёта, ведение, отчётность. Фиксированные цены 25–105 тыс ₽, без «от». 15 лет в Казначействе.">
+<title>Казначейское сопровождение по ГОЗ и 275-ФЗ под ключ — КазнаЭксперт</title>
+<meta name="description" content="Ведём контракты под казначейским сопровождением по гособоронзаказу, расширенному режиму и сложным случаям: сведения, платежи, ИГК, раздельный учёт, соисполнители, РКМ. Фиксированная цена по этапу контракта, без лимита на число операций.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -25,13 +25,13 @@
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "datePublished": "2026-06-25", "dateModified": "2026-08-31", "name": "Казначейское сопровождение контрактов под ключ", "serviceType": "Казначейское сопровождение государственных контрактов (44-ФЗ, 223-ФЗ, гособоронзаказ)", "description": "Полное казначейское сопровождение контрактов под ключ: резерв и открытие казначейского счёта, настройка «Электронного бюджета», санкционирование платежей, раздельный учёт целевых средств, отчётность и закрытие счёта. Фиксированные цены, гарантия в договоре, вся Россия.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie/", "hasOfferCatalog": {"@type": "OfferCatalog", "name": "Тарифы казначейского сопровождения", "itemListElement": [{"@type": "Offer", "name": "Резерв казначейского счёта к дате тендера", "price": "25000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/rezervirovanie-scheta/"}, {"@type": "Offer", "name": "Открытие казначейского счёта под ключ", "price": "35000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/otkrytie-scheta/"}, {"@type": "Offer", "name": "Контракт с постоплатой под ключ", "price": "65000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-postoplata/"}, {"@type": "Offer", "name": "Контракт с авансом под ключ", "price": "105000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-avans/"}, {"@type": "Offer", "name": "Обучение казначейскому сопровождению (9 ак. часов)", "price": "120000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/"}]}, "offers": {"@type": "AggregateOffer", "lowPrice": "25000", "highPrice": "105000", "priceCurrency": "RUB", "offerCount": "5", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie/", "description": "Резерв счёта 25 000 ₽, открытие счёта 35 000 ₽, сопровождение постоплаты 65 000 ₽, сопровождение контракта с авансом и ГОЗ 105 000 ₽/мес", "priceValidUntil": "2026-12-31"}}
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": "https://kaznaexpert.ru/img/og-image.png", "datePublished": "2026-06-25", "dateModified": "2026-09-02", "name": "Казначейское сопровождение по ГОЗ и сложным контрактам под ключ", "serviceType": "Казначейское сопровождение контрактов по гособоронзаказу (275-ФЗ), расширенное казначейское сопровождение, контракты с цепочкой соисполнителей (44-ФЗ, 223-ФЗ)", "description": "Сопровождение контракта от подписания до вывода прибыли: лицевой счёт в ТОФК, сведения об операциях, санкционирование каждого платежа, ИГК в документах, счета и платежи соисполнителей, раздельный учёт, отчётность по ГОЗ, закрытие счёта. Фиксированная цена по этапу контракта, без лимита на число операций.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie/", "hasOfferCatalog": {"@type": "OfferCatalog", "name": "Тарифы казначейского сопровождения", "itemListElement": [{"@type": "Offer", "name": "Резервирование казначейского счёта к дате тендера", "price": "25000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/rezervirovanie-scheta/", "priceValidUntil": "2026-12-31"}, {"@type": "Offer", "name": "Открытие казначейского счёта", "price": "35000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/otkrytie-scheta/", "priceValidUntil": "2026-12-31"}, {"@type": "Offer", "name": "Сопровождение контракта с постоплатой", "price": "65000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-postoplata/", "priceValidUntil": "2026-12-31"}, {"@type": "Offer", "name": "Сопровождение контракта с авансом и ГОЗ", "price": "105000", "priceCurrency": "RUB", "priceSpecification": {"@type": "UnitPriceSpecification", "price": "105000", "priceCurrency": "RUB", "unitText": "MONTH", "billingDuration": "P1M"}, "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-avans/", "priceValidUntil": "2026-12-31"}, {"@type": "Offer", "name": "Составление РКМ по ГОЗ", "price": "105000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/sostavlenie-rkm/", "priceValidUntil": "2026-12-31"}, {"@type": "Offer", "name": "Восстановление раздельного учёта", "price": "99000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/vosstanovlenie-razdelnogo-ucheta/", "priceValidUntil": "2026-12-31"}, {"@type": "Offer", "name": "Аудит казначейского сопровождения", "price": "160000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/audit-kaznacheyskogo-soprovozhdeniya/", "priceValidUntil": "2026-12-31"}, {"@type": "Offer", "name": "Обучение казначейскому сопровождению", "price": "150000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/", "priceValidUntil": "2026-12-31"}]}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Казначейское сопровождение"}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что входит в казначейское сопровождение под ключ?", "acceptedAnswer": {"@type": "Answer", "text": "Полный цикл: анализ применимости, резерв и открытие казначейского счёта, оформление подписи и настройка «Электронного бюджета», подготовка распоряжений и сведений, санкционирование платежей, раздельный учёт целевых средств, отчётность и закрытие счёта с возвратом остатков."}}, {"@type": "Question", "name": "Сколько стоит казначейское сопровождение?", "acceptedAnswer": {"@type": "Answer", "text": "Цена фиксированная и зависит от этапа: резерв счёта — 25 000 ₽, открытие — 35 000 ₽, контракт с постоплатой под ключ — 65 000 ₽, контракт с авансом — 105 000 ₽/мес. Для гособоронзаказа считаем отдельную смету. Точную стоимость называем после анализа контракта."}}, {"@type": "Question", "name": "От чего зависит цена?", "acceptedAnswer": {"@type": "Answer", "text": "От этапа подключения, типа контракта (44-ФЗ, 223-ФЗ, гособоронзаказ), наличия аванса, числа платежей и соисполнителей. Мы фиксируем цену в договоре заранее — без «от» и доплат по ходу."}}, {"@type": "Question", "name": "Работаете по 223-ФЗ и гособоронзаказу?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Сопровождаем контракты по 44-ФЗ и 223-ФЗ, а также гособоронзаказ по 275-ФЗ. Для гособоронзаказа применяется отдельный режим счёта и раздельного учёта — считаем по отдельной смете."}}, {"@type": "Question", "name": "Вы открываете счёт или только ведёте?", "acceptedAnswer": {"@type": "Answer", "text": "И то, и другое. Можем подключиться на любом этапе: зарезервировать счёт до тендера, открыть после победы или взять на ведение уже открытый счёт, если по нему были возвраты и отказы."}}, {"@type": "Question", "name": "Работаете с регионами?", "acceptedAnswer": {"@type": "Answer", "text": "Да, со всеми регионами России удалённо. Весь документооборот ведётся электронно через «Электронный бюджет» — личное присутствие не требуется."}}, {"@type": "Question", "name": "Какие гарантии результата?", "acceptedAnswer": {"@type": "Answer", "text": "Объём работ, срок и стоимость прописаны в договоре. Замечания казначейства устраняем без доплат — это входит в услугу."}}, {"@type": "Question", "name": "С чего начать?", "acceptedAnswer": {"@type": "Answer", "text": "Оставьте заявку — эксперт перезвонит за 15 минут, разберёт контракт и назовёт точную стоимость. Анализ контракта — до подписания договора, по NDA."}}, {"@type": "Question", "name": "Как заказать казначейское сопровождение?", "acceptedAnswer": {"@type": "Answer", "text": "Оставьте заявку на сайте или напишите в Telegram — эксперт перезвонит за 15 минут, разберёт контракт, назовёт точную цену и пришлёт договор. Анализ контракта — до подписания, по NDA. Подключаемся на любом этапе: резерв счёта, открытие или ведение уже открытого счёта."}}, {"@type": "Question", "name": "Помогаете вести казначейское сопровождение под ключ?", "acceptedAnswer": {"@type": "Answer", "text": "Да, берём весь цикл: открытие казначейского счёта, настройка «Электронного бюджета», санкционирование платежей, раздельный учёт целевых средств и отчётность — до закрытия контракта. Можно передать весь цикл или отдельный блок. Работаем со всеми регионами России удалённо."}}, {"@type": "Question", "name": "Какие сроки казначейского сопровождения?", "acceptedAnswer": {"@type": "Answer", "text": "Казначейский счёт открываем за 2 рабочих дня после подачи документов. Санкционирование каждого платежа проходит в срок по регламенту ТОФК (приказ Минфина № 214н). Раздельный учёт и отчётность ведём весь срок контракта, счёт закрываем после его исполнения."}}, {"@type": "Question", "name": "Какие штрафы возможны при казначейском сопровождении и как их избежать?", "acceptedAnswer": {"@type": "Answer", "text": "С 1 января 2026 года действует статья 15.37.1 КоАП: за отсутствие раздельного учёта по контракту, средства которого подлежат казначейскому сопровождению, для юридических лиц предусмотрен штраф от 5 до 10% цены сделки, но не более 500 тысяч рублей, для индивидуальных предпринимателей — не более 250 тысяч, для должностных лиц — от 10 до 50 тысяч рублей. Отвечает исполнитель. Смежный состав — статья 15.49 КоАП за просрочку утверждения сведений об операциях — адресован стороне, которая эти сведения утверждает. Раздельный учёт по гособоронзаказу — отдельный состав, часть 11 статьи 7.30.3 КоАП. Надёжная защита одна: реальный раздельный учёт с первого дня исполнения и соблюдение сроков подачи документов."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Чем казначейское сопровождение по ГОЗ отличается от обычного?", "acceptedAnswer": {"@type": "Answer", "text": "ИГК во всех документах, отдельный счёт, раздельный учёт по 275-ФЗ, РКМ и проверка военного представительства. Каждый пункт — отдельная точка отказа, поэтому контракты по ГОЗ ведутся по тарифу с авансом: 105 000 ₽ в месяц, без лимита на число операций."}}, {"@type": "Question", "name": "Что такое расширенное казначейское сопровождение?", "acceptedAnswer": {"@type": "Answer", "text": "Режим с дополнительной проверкой фактических поставок, работ и затрат — Казначейство смотрит не только документы, но и исполнение. КазнаЭксперт ведёт контракты в этом режиме."}}, {"@type": "Question", "name": "Сколько стоит казначейское сопровождение?", "acceptedAnswer": {"@type": "Answer", "text": "Цена фиксированная и зависит от этапа: резервирование счёта — 25 000 ₽, открытие — 35 000 ₽, контракт с постоплатой — 65 000 ₽ разово, контракт с авансом и ГОЗ — 105 000 ₽ в месяц. Внутри тарифа нет лимита на число операций."}}, {"@type": "Question", "name": "Ведёте соисполнителей?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Счета и платежи соисполнителей в рамках контракта клиента входят в тариф. Счета открываются на всех уровнях цепочки, документы без ИГК возвращаются контрагенту с точной правкой."}}, {"@type": "Question", "name": "Можно подключиться в середине контракта?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Если по контракту уже есть возвраты и неутверждённые сведения — работа начинается со спасения контракта или аудита, затем контракт переводится на сопровождение."}}, {"@type": "Question", "name": "Что нужно от клиента?", "acceptedAnswer": {"@type": "Answer", "text": "Контракт, доверенность на сотрудника, документы по расходам и контакт ответственного. Формы, сведения и распоряжения заполняет КазнаЭксперт. Работа ведётся удалённо через TeamViewer или AnyDesk со всеми регионами, оригиналы не нужны."}}, {"@type": "Question", "name": "Сколько операций можно провести?", "acceptedAnswer": {"@type": "Answer", "text": "Сколько нужно по контракту. Лимита на платежи, переутверждения сведений, разборы отказов и обращения нет."}}, {"@type": "Question", "name": "Какие гарантии?", "acceptedAnswer": {"@type": "Answer", "text": "Объём работ, срок и стоимость прописаны в договоре. Замечания Казначейства по документам исполнителя устраняются без доплат. NDA подписывается до передачи документов."}}, {"@type": "Question", "name": "Какие штрафы возможны при казначейском сопровождении и как их избежать?", "acceptedAnswer": {"@type": "Answer", "text": "С 1 января 2026 года действует статья 15.37.1 КоАП: за отсутствие раздельного учёта по контракту, средства которого подлежат казначейскому сопровождению, для юридических лиц предусмотрен штраф от 5 до 10% цены сделки, но не более 500 тысяч рублей, для индивидуальных предпринимателей — не более 250 тысяч, для должностных лиц — от 10 до 50 тысяч рублей. Отвечает исполнитель. Смежный состав — статья 15.49 КоАП за просрочку утверждения сведений об операциях — адресован стороне, которая эти сведения утверждает. Раздельный учёт по гособоронзаказу — отдельный состав, часть 11 статьи 7.30.3 КоАП. Надёжная защита одна: реальный раздельный учёт с первого дня исполнения и соблюдение сроков подачи документов."}}, {"@type": "Question", "name": "Работаете по 44-ФЗ и 223-ФЗ без ГОЗ?", "acceptedAnswer": {"@type": "Answer", "text": "Да, контракты по 44-ФЗ и 223-ФЗ под казначейским сопровождением ведутся по тем же тарифам: с постоплатой — 65 000 ₽, с авансом — 105 000 ₽ в месяц."}}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -68,20 +68,20 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Услуга казначейского сопровождения под ключ: цена и сроки">
-<meta property="og:description" content="Полный цикл: резерв и открытие счёта, ведение контракта, отчётность. Фиксированные цены, гарантия в договоре. Вся Россия.">
+<meta property="og:title" content="Казначейское сопровождение по ГОЗ и сложным контрактам — под ключ">
+<meta property="og:description" content="Сведения, каждый платёж, ИГК, соисполнители, раздельный учёт, РКМ. Цены фиксированные по этапу контракта, без лимита на операции.">
 <meta property="og:url" content="https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Казначейское сопровождение под ключ — КазнаЭксперт">
+<meta property="og:image:alt" content="Казначейское сопровождение по ГОЗ и сложным контрактам — под ключ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-02T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Казначейское сопровождение под ключ — услуги и цены">
-<meta name="twitter:description" content="Резерв и открытие счёта, ведение, отчётность. Фиксированные цены 25–105 тыс ₽. Эксперт 15 лет в Казначействе.">
+<meta name="twitter:title" content="Казначейское сопровождение по ГОЗ и сложным контрактам — под ключ">
+<meta name="twitter:description" content="Сведения, каждый платёж, ИГК, соисполнители, раздельный учёт, РКМ. Цены фиксированные по этапу контракта, без лимита на операции.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og-image.png">
 
 <!-- Schema: Article -->
@@ -143,136 +143,153 @@
 
 <div class="v2">
 
-<style>@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}</style>
+<style>@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}
+.railform textarea.fld{resize:vertical;min-height:64px;line-height:1.45}
+.v2 .lp2-risk{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin:28px 0 0}
+.v2 .lp2-risk div{padding:16px 18px;border:1px solid #E4DDD0;border-left:3px solid #A8844A;background:#FFFDF8;font-size:15px;line-height:1.5}
+.v2 .lp2-risk b{display:block;font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:#8B6F47;margin-bottom:6px}
+.v2 .lp2-price{display:flex;flex-wrap:wrap;align-items:baseline;gap:10px 22px;margin:22px 0 0;padding:18px 0 0;border-top:1px solid #E4DDD0}
+.v2 .lp2-price b{font-family:var(--font-display);font-weight:500;font-size:30px;letter-spacing:-.02em}
+.v2 .lp2-price span{color:#5F5A52;font-size:15px}
+.v2 .lp2-scen{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
+.v2 .lp2-scen article{padding:22px 24px;background:var(--paper);border:1px solid var(--hair-strong)}
+.v2 .lp2-scen h3{font-family:var(--font-display);font-weight:500;font-size:20px;margin:0 0 10px;letter-spacing:-.01em}
+.v2 .lp2-scen p{margin:0;font-size:16px;line-height:1.6;color:#3A3A3A}
+.v2 .lp2-scen p b{color:#1A1A1A}
+.lp2-table{width:100%;border-collapse:collapse;margin:8px 0 20px;font-size:16px;border-top:2px solid #8B6F47}
+.lp2-table caption{caption-side:top;text-align:left;font-size:14px;color:#7A7263;font-style:italic;padding:0 0 12px}
+.lp2-table th,.lp2-table td{padding:12px 16px;text-align:left;vertical-align:top;border-bottom:1px solid #E4DDD0;line-height:1.5}
+.lp2-table th{font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;font-weight:600}
+.lp2-block{max-width:900px;margin:0 auto}
+.lp2-note{font-size:15px;color:#5F5A52;line-height:1.6;border-top:1px solid #E4DDD0;padding-top:14px;margin-top:6px}
+.lp2-note a{color:#8B6F47}
+@media(max-width:920px){.v2 .lp2-risk{grid-template-columns:repeat(2,1fr)}.v2 .lp2-scen{grid-template-columns:1fr}}
+@media(max-width:680px){.lp2-table{font-size:15px}.lp2-table th,.lp2-table td{padding:10px 10px}}
+@media(max-width:560px){.v2 .lp2-risk{grid-template-columns:1fr}.v2 .lp2-price b{font-size:26px}}
+</style>
 
 <section class="v2-hero">
   <div class="v2-container">
-    <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › Казначейское сопровождение</nav>
+    <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › Услуги</nav>
     <div class="v2-hero-grid">
       <div class="v2-hero-main">
         <div class="v2-hero-eyebrow-row">
-          <span class="v2-eyebrow">Услуги и цены · 44-ФЗ · 223-ФЗ · ГОЗ</span>
+          <span class="v2-eyebrow">Услуги · ГОЗ 275-ФЗ · Расширенное сопровождение · Сложные контракты</span>
           <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
         </div>
-        <h1>Казначейское сопровождение <em>под ключ</em></h1>
+        <h1>Казначейское сопровождение по ГОЗ и сложным контрактам — <em>под ключ</em></h1>
 <a href="/#reviews" style="display:inline-flex;align-items:center;gap:7px;margin:12px 0 0;padding:7px 15px;background:rgba(139,111,71,.07);border:1px solid rgba(139,111,71,.35);border-radius:999px;text-decoration:none;font-size:14px;color:#1A1A1A"><span style="color:#8B6F47;letter-spacing:1px">★★★★★</span><b>4,9</b><span style="color:#6E6B66">— отзывы клиентов</span></a>
-        <p class="v2-hero-lede"><strong>Берём весь цикл на себя:</strong> резервируем и открываем казначейский счёт, настраиваем «Электронный бюджет», проводим платежи через санкционирование, ведём раздельный учёт и сдаём отчётность — до закрытия контракта. Без возвратов и срыва сроков. По всей России.</p>
-        <div class="v2-hero-trust"><div class="v2-trust-item"><div class="v2-trust-num">2021</div><div class="v2-trust-label">год регистрации ИП</div></div><div class="v2-trust-item"><div class="v2-trust-num">90<span class="v2-trust-suffix">&nbsp;млрд&nbsp;₽</span></div><div class="v2-trust-label">прошло через счета</div></div><div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div><div class="v2-trust-item"><div class="v2-trust-num">Вся<span class="v2-trust-suffix">&nbsp;РФ</span></div><div class="v2-trust-label">работаем удалённо</div></div></div>
+        <p class="v2-hero-lede"><strong>Для головных исполнителей и соисполнителей гособоронзаказа, контрактов с расширенным казначейским сопровождением и контрактов с цепочкой субподрядчиков.</strong> Берём на себя счёт в ТОФК, сведения об операциях, каждый платёж, ИГК в документах и раздельный учёт — так, чтобы Казначейство и военное представительство не вернули ни одного документа, а прибыль по контракту дошла до вашего расчётного счёта.</p>
+        <div class="lp2-risk">
+          <div><b>Снимаем риск</b>Возврат платежей УФК и простой контракта</div>
+          <div><b>Снимаем риск</b>Блокировка аванса из-за неутверждённых сведений</div>
+          <div><b>Снимаем риск</b>Штраф за раздельный учёт, замечания ВП к РКМ и ИГК</div>
+          <div><b>Снимаем риск</b>Остановка цепочки соисполнителей</div>
+        </div>
+        <div class="lp2-price"><b>65 000 ₽</b><span>контракт с постоплатой, разово</span><b>105 000 ₽/мес</b><span>контракт с авансом и ГОЗ</span><span>Без лимита на число операций</span></div>
         <div class="v2-hero-expert">
           <div class="v2-expert-name">Михайлов Ярослав</div>
           <div class="v2-expert-role">Эксперт · 15 лет в Казначействе</div>
-          <p class="v2-expert-quote">«Казначейское сопровождение — это не одна услуга, а цепочка из десятка шагов, где любой сбой останавливает деньги. Мы ведём её целиком и отвечаем за результат договором».</p>
+          <p class="v2-expert-quote">«Казначейское сопровождение — цепочка из десятка шагов, где любой сбой останавливает деньги. По ГОЗ к ней добавляются ИГК, отдельный счёт и военпред. Мы ведём цепочку целиком и отвечаем за результат договором».</p>
         </div>
       </div>
       <aside class="v2-hero-action">
-        <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
-        <h2>Рассчитаем стоимость</h2>
-        <p class="v2-hero-action-sub">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт ваш контракт и назовёт точную цену. NDA — до анализа документов.</p>
+        <div class="v2-hero-action-eyebrow">Заявка</div>
+        <h2>Возьмём контракт на сопровождение</h2>
+        <p class="v2-hero-action-sub">Опишите контракт в двух словах — ответим в течение часа в рабочее время и скажем, каким тарифом он закрывается. NDA подписываем до передачи документов.</p>
         <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="kaznacheyskoe-soprovozhdenie">
           <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
           <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
+          <textarea class="fld" name="message" placeholder="Комментарий: ГОЗ или 44-ФЗ, аванс, соисполнители (необязательно)" rows="2" maxlength="3000"></textarea>
           <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
           <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-          <button class="submit" type="submit">Получить расчёт →</button>
+          <button class="submit" type="submit">Отправить заявку →</button>
           <div class="formmsg" id="formMsg" hidden></div>
-          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
+          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA до документов</span></div>
           <div class="success" id="leadSuccess" role="status" aria-live="polite">
             <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
             <h3>Заявка принята</h3>
-            <p>Эксперт перезвонит <b>в течение 15 минут</b> (9:00–21:00 МСК) и разберёт ваш контракт.</p>
+            <p>Эксперт свяжется <b>в течение часа</b> в рабочее время (пн–пт, 9:00–19:00 МСК) и разберёт ваш контракт.</p>
             <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
           </div>
         </form>
-        <div class="v2-hero-alt">Или напишите — ответим за 5 минут<div class="v2-hero-alt-links"><a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a><a href="tel:+79818331010">+7 981 833-10-10</a></div></div>
+        <div class="v2-hero-alt">Или напишите — ответим в течение часа<div class="v2-hero-alt-links"><a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a><a href="tel:+79818331010">+7 981 833-10-10</a></div></div>
       </aside>
     </div>
   </div>
 </section>
 
-
-<!-- uslugi-passage -->
-<section class="v2-section v2-screen" id="chto-vhodit-kratko">
-<style>#chto-vhodit-kratko .svc-tab{width:100%;border-collapse:collapse;margin:18px 0;font-size:.95rem}#chto-vhodit-kratko .svc-tab th,#chto-vhodit-kratko .svc-tab td{border:1px solid #e3ddcf;padding:10px 12px;text-align:left;vertical-align:top}#chto-vhodit-kratko .svc-tab th{background:#f4f1ea;font-weight:600}#chto-vhodit-kratko .svc-tab td:last-child{white-space:nowrap;color:#8B6F47}</style>
-<div class="v2-container">
-<div class="v2-section-head"><div class="v2-section-eyebrow">Коротко</div><h2 class="v2-section-title">Казначейское сопровождение под ключ — что входит, сроки, для кого</h2></div>
-<p class="answer"><strong>Казначейское сопровождение под ключ</strong> — это передача всей операционной работы по госконтракту эксперту: анализ контракта, резервирование и открытие казначейского счёта в территориальном органе Казначейства (ТОФК), настройка ГИИС «Электронный бюджет» и электронной подписи, санкционирование платежей, раздельный учёт целевых средств, Сведения об операциях и отчётность — до закрытия счёта. Казначейский счёт открываем за 2 рабочих дня, контракт ведём весь срок. Услуга — для исполнителей госконтрактов по 44-ФЗ, 223-ФЗ и гособоронзаказу (ООО и ИП), по всей России дистанционно. Цена фиксированная, от 25 000 ₽ за этап.</p>
-<table class="svc-tab"><thead><tr><th>Этап</th><th>Что делаем</th><th>Срок</th></tr></thead><tbody><tr><td>Анализ и резерв счёта</td><td>Проверяем контракт на условие о сопровождении, резервируем реквизиты казначейского счёта к дате тендера</td><td>1 день / к дате тендера</td></tr><tr><td>Открытие счёта и доступы</td><td>Открываем лицевой счёт в территориальном органе Казначейства (ТОФК), включаем в Сводный реестр, настраиваем «Электронный бюджет» и электронную подпись</td><td>2 рабочих дня</td></tr><tr><td>Санкционирование платежей</td><td>Готовим распоряжения и Сведения об операциях, проводим платежи через казначейский контроль без возвратов</td><td>по каждому платежу</td></tr><tr><td>Раздельный учёт и отчётность</td><td>Ведём раздельный учёт целевых средств, формируем Сведения и отчёт о расходах целевых средств</td><td>весь срок контракта</td></tr><tr><td>Закрытие счёта</td><td>Возврат неиспользованных остатков, закрытие лицевого счёта</td><td>по завершении контракта</td></tr></tbody></table>
-</div>
-</section>
 <section class="v2-section v2-screen" id="komu">
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Для кого</div>
-      <h2 class="v2-section-title">Когда нужно <em>казначейское сопровождение</em></h2>
-      <p class="v2-section-lede">Если средства по контракту попадают под казначейское сопровождение — без открытого счёта и корректных операций деньги просто не пройдут.</p>
+      <h2 class="v2-section-title">Кому подходит <em>и какой риск снимает</em></h2>
+      <p class="v2-section-lede">Четыре типа контрактов, где сопровождение нельзя вести «по ходу дела».</p>
     </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Выиграли контракт под сопровождение</h3><p class="v2-process-desc">Контракт по 44-ФЗ, 223-ФЗ или гособоронзаказу требует казначейский счёт. Разберём требования и запустим сопровождение с первого дня.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Аванс или субсидия</h3><p class="v2-process-desc">Авансовые платежи, целевые субсидии и бюджетные инвестиции подпадают под сопровождение по статье 5 ФЗ № 426-ФЗ. Проведём через счёт без нарушений.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Нет своего казначейского специалиста</h3><p class="v2-process-desc">Санкционирование, сведения, раздельный учёт — не профиль вашей бухгалтерии. Делегируйте весь блок эксперту.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Был отказ или возврат</h3><p class="v2-process-desc">Казначейство вернуло документы или отказало в санкционировании. Возьмём контракт на ведение и закроем причины отказов.</p></article></div>
+    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Гособоронзаказ по 275-ФЗ</h3><p class="v2-process-desc">Отдельный счёт, ИГК в каждом документе, раздельный учёт, РКМ, проверка военного представительства. Каждое требование — отдельная точка отказа, по каждому есть штраф.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Расширенное казначейское сопровождение</h3><p class="v2-process-desc">Казначейство проверяет не только документы, но и фактические поставки и затраты. Без выстроенного учёта и первички режим останавливает платежи.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Цепочка соисполнителей</h3><p class="v2-process-desc">Каждому звену нужен лицевой счёт, а их документы без ИГК не пройдут ни в УФК, ни у заказчика. Открываем счета и ведём платежи на всех уровнях.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Контракт уже идёт, и есть возвраты</h3><p class="v2-process-desc">Предыдущий подрядчик или бухгалтерия не справились: протоколы отказов, неутверждённые сведения, зависший аванс. Берём в середине исполнения.</p></article></div>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="pod-kluch">
+<section class="v2-section v2-screen" id="etapy">
   <div class="v2-container">
     <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Что входит</div>
-      <h2 class="v2-section-title">Весь цикл — <em>от анализа контракта до закрытия счёта</em></h2>
-      <p class="v2-section-lede">Делаем всё сами. Вы получаете работающий счёт, проходящие платежи и сданную отчётность.</p>
+      <div class="v2-section-eyebrow">Состав работ</div>
+      <h2 class="v2-section-title">Что делаем <em>на каждом этапе контракта</em></h2>
+      <p class="v2-section-lede">Маршрут контракта от подписания до вывода прибыли — и наша работа на каждом шаге.</p>
     </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Анализ применимости</h3><p class="v2-process-desc">Определяем, попадает ли контракт под казначейское сопровождение, по какому основанию и какой режим счёта нужен.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Резерв и открытие счёта</h3><p class="v2-process-desc">Резервируем номер заранее, открываем лицевой счёт в УФК и включаем компанию в сводный реестр — с первой подачи.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Доступы и «Электронный бюджет»</h3><p class="v2-process-desc">Оформляем сертификаты и электронную подпись, настраиваем роли и рабочее место в ГИИС.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Санкционирование платежей</h3><p class="v2-process-desc">Готовим распоряжения и сведения, проводим платежи через казначейский контроль без возвратов.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Раздельный учёт и отчётность</h3><p class="v2-process-desc">Ведём раздельный учёт целевых средств, формируем сведения об операциях и отчёт о расходах.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Закрытие и возврат остатков</h3><p class="v2-process-desc">Завершаем сопровождение: возврат остатков целевых средств и закрытие лицевого счёта по правилам.</p></article></div>
+    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">До подписания</div><h3>Режим и структура</h3><p class="v2-process-desc">Определяем режим сопровождения (обычное, расширенное, ГОЗ), структуру аванса, цепочку соисполнителей — от этого зависит число счетов и структура сведений. Для ГОЗ проверяем существенные условия и ИГК.</p><ul class="v2-process-checks"><li>Режим определён</li><li>Схема счетов готова</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">Старт · 2 рабочих дня</div><h3>ГИИС, реестр, счёт</h3><p class="v2-process-desc">ГИИС «Электронный бюджет» за 1–2 часа, сводный реестр, лицевой счёт в ТОФК. Для ГОЗ — отдельный счёт. Реквизиты передаём для заказчика.</p><ul class="v2-process-checks"><li>Счёт активен</li><li>Реквизиты у клиента</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">Сведения</div><h3>Сведения об операциях</h3><p class="v2-process-desc">Раскладываем сумму контракта по кодам направлений расходования, утверждаем в УФК. При каждом изменении контракта, цены или структуры — переутверждаем.</p><ul class="v2-process-checks"><li>Сведения утверждены</li><li>Коды сверены</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><div class="v2-process-day">Платежи</div><h3>Каждый платёж до санкционирования</h3><p class="v2-process-desc">Обосновывающие документы, ИГК, код, распоряжение, подача, контроль статуса. При отказе — расшифровка протокола, устранение, повторная подача.</p><ul class="v2-process-checks"><li>Платежи проходят</li><li>Отказы закрыты</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><div class="v2-process-day">Соисполнители и учёт</div><h3>Цепочка и раздельный учёт</h3><p class="v2-process-desc">Счета на всех уровнях цепочки, платежи соисполнителям, возврат документов без ИГК с точной правкой. Методика, регистры, отчётность для УФК и ВП. РКМ — по <a href="/uslugi/sostavlenie-rkm/">отдельному тарифу</a>.</p><ul class="v2-process-checks"><li>Соисполнители оплачены</li><li>Регистры ведутся</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><div class="v2-process-day">Закрытие</div><h3>Вывод прибыли и закрытие счёта</h3><p class="v2-process-desc">Сверка с УФК, вывод прибыли на расчётный счёт, закрытие лицевого счёта, отчётность по исполнению ГОЗ.</p><ul class="v2-process-checks"><li>Прибыль выведена</li><li>Счёт закрыт</li></ul></article></div>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="ot-vas">
+<section class="v2-section v2-screen" id="proverka">
   <div class="v2-container">
     <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Что от вас</div>
-      <h2 class="v2-section-title">Что потребуется <em>от вас</em></h2>
-      <p class="v2-section-lede">Список минимальный — 5 минут на пересылку. Всё остальное берём на себя.</p>
+      <div class="v2-section-eyebrow">До платежа</div>
+      <h2 class="v2-section-title">Что проверяем <em>перед отправкой каждого платежа</em></h2>
+      <p class="v2-section-lede">Казначейство не исправляет документы — оно отказывает. Поэтому проверка идёт до подачи, а не после протокола.</p>
     </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Госконтракт</h3><p class="v2-process-desc">Текст и реквизиты — для анализа применимости и режима счёта.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>ИНН и ОГРН</h3><p class="v2-process-desc">Регистрационные данные организации.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>СНИЛС руководителя</h3><p class="v2-process-desc">Для оформления доступа и электронной подписи.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Контакт для связи</h3><p class="v2-process-desc">Телефон ответственного — держим в курсе каждого шага.</p></article></div>
+    <div class="lp2-block">
+      <table class="lp2-table">
+        <caption>Чек-лист по каждому распоряжению о совершении казначейского платежа</caption>
+        <thead><tr><th>Что проверяем</th><th>Почему критично</th></tr></thead>
+        <tbody>
+          <tr><td>Код направления расходования в распоряжении</td><td>Не совпадает с утверждёнными сведениями — отказ</td></tr>
+          <tr><td>ИГК в контракте, счёте, УПД и платёжном поручении</td><td>Расхождение в одном символе — возврат документа</td></tr>
+          <tr><td>Сумма по коду в утверждённых сведениях</td><td>Превышение остатка по коду — отказ</td></tr>
+          <tr><td>Назначение платежа</td><td>Не читается как целевое — запрос УФК, потеря дней</td></tr>
+          <tr><td>Лицевой счёт соисполнителя</td><td>Платёж мимо казначейского счёта — нарушение режима</td></tr>
+          <tr><td>Комплектность обосновывающих документов</td><td>Нет договора, акта или счёта — санкционирование не пройдёт</td></tr>
+          <tr><td>Для ГОЗ: режим отдельного счёта, лимиты перечислений на расчётный счёт</td><td>Нарушение 275-ФЗ</td></tr>
+        </tbody>
+      </table>
+      <p class="lp2-note">Что именно проверяет УФК и по каким причинам отказывает — в материалах <a href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/">«Причины отказа Казначейства в санкционировании»</a> и <a href="/baza-znaniy/poryadok-sankcionirovaniya-rashodov/">«Порядок санкционирования расходов»</a>.</p>
+    </div>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="process">
+<section class="v2-section v2-screen" id="bez-limita">
   <div class="v2-container">
     <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Процесс</div>
-      <h2 class="v2-section-title">От заявки до проходящих платежей — <em>понятный маршрут</em></h2>
-      <p class="v2-section-lede">Каждый шаг — конкретное действие на нашей стороне. Прозрачно и без неожиданностей.</p>
+      <div class="v2-section-eyebrow">Без лимита</div>
+      <h2 class="v2-section-title">Что входит <em>без ограничения по количеству</em></h2>
+      <p class="v2-section-lede">Мы не считаем операции и не выставляем счёт «за превышение». В тариф входит без лимита:</p>
     </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">Сегодня · 15 минут</div><h3>Заявка и анализ</h3><p class="v2-process-desc">Перезваниваем за 15 минут, разбираем контракт, подписываем договор и NDA, фиксируем стоимость.</p><ul class="v2-process-checks"><li>Договор подписан</li><li>Цена зафиксирована</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">2 рабочих дня</div><h3>Счёт и доступы</h3><p class="v2-process-desc">Открываем казначейский счёт, включаем в сводный реестр, настраиваем «Электронный бюджет» и подпись.</p><ul class="v2-process-checks"><li>Счёт активен</li><li>ГИИС настроен</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">Весь срок контракта</div><h3>Ведение и отчётность</h3><p class="v2-process-desc">Проводим платежи, ведём раздельный учёт, сдаём сведения и отчёты — до закрытия счёта.</p><ul class="v2-process-checks"><li>Платежи проходят</li><li>Отчётность сдана</li></ul></article></div>
+    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Платежи и распоряжения</h3><p class="v2-process-desc">Сколько требует контракт — столько и проводим. Двадцать или двести в месяц — цена одна.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Переутверждения сведений</h3><p class="v2-process-desc">Изменилась цена, структура расходов, появился соисполнитель — переутверждаем столько раз, сколько нужно.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Разборы отказов УФК</h3><p class="v2-process-desc">Каждый протокол отказа расшифровываем, устраняем причину, подаём повторно — без доплат.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Счета соисполнителей</h3><p class="v2-process-desc">Лицевые счета и платежи соисполнителей в рамках вашего контракта — в тарифе.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Вопросы в мессенджере</h3><p class="v2-process-desc">Любой вопрос по контракту, документу или требованию заказчика — в рабочее время, без счётчика обращений.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Запросы УФК и заказчика</h3><p class="v2-process-desc">Отвечаем на запросы Казначейства и заказчика по нашей части документов сами, вы только в копии.</p></article></div>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="riski">
+<section class="v2-section v2-screen" id="scenarii">
   <div class="v2-container">
     <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Цена ошибки</div>
-      <h2 class="v2-section-title">Что идёт не так <em>без специалиста</em></h2>
-      <p class="v2-section-lede">Ошибки в казначейском сопровождении стоят денег и срока контракта — а часть из них образует состав по КоАП.</p>
+      <div class="v2-section-eyebrow">Когда что-то пошло не так</div>
+      <h2 class="v2-section-title">Четыре типовых сбоя — <em>и что мы делаем в каждом</em></h2>
     </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Отказ в санкционировании</h3><p class="v2-process-desc">Неверные распоряжения и сведения — казначейство не пропускает платёж, деньги стоят.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Зависший аванс</h3><p class="v2-process-desc">Аванс не проходит на счёт с ошибочными реквизитами — средства зависают или возвращаются заказчику.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Штраф по КоАП</h3><p class="v2-process-desc">Нарушение раздельного учёта по гособоронзаказу — ответственность по части 11 статьи 7.30.3 КоАП; по контрактам под сопровождением — по статье 15.37.1 КоАП: для юридических лиц от 5 до 10% цены сделки, но не более 500 тысяч рублей. <a href="/baza-znaniy/shtrafy-pri-kaznacheyskom-soprovozhdenii-2026/">Разбор составов &rarr;</a></p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Срыв срока контракта</h3><p class="v2-process-desc">Пока счёт не открыт и платежи не идут, срок исполнения горит, а с ним — пени и риск реестра недобросовестных.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Налоговые риски</h3><p class="v2-process-desc">Некорректный раздельный учёт целевых средств — претензии и доначисления при проверке.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Потерянное время</h3><p class="v2-process-desc">Десятки часов на освоение матчасти вместо профильной работы по контракту.</p></article></div>
-    <p class="v2-section-lede" style="margin-top:22px">Каждая из этих потерь закрывается процессом, а не героизмом: распоряжения и сведения проверяются до подачи в казначейство, раздельный учёт обособляется с первого дня исполнения, а сроки рассмотрения контролируются по каждому документу — до результата, а не до отправки. Это и есть то, за что платят при сопровождении контракта.</p>
-    <div class="related-inline"><b>Смежные услуги и разборы</b> <a href="/uslugi/kaznacheyskoe-soprovozhdenie-dlya-ooo/">→ Казначейское сопровождение для ООО</a><a href="/uslugi/autsorsing-kaznacheyskogo-soprovozhdeniya/">→ Аутсорсинг казначейского сопровождения</a><a href="/uslugi/audit-kaznacheyskogo-soprovozhdeniya/">→ Аудит казначейского сопровождения: второе мнение эксперта</a><a href="/uslugi/vosstanovlenie-razdelnogo-ucheta/">→ Восстановление раздельного учёта по ГОЗ и госконтрактам</a><a href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/">→ 10 причин отказа казначейства в санкционировании</a></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="compare">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Сравнение</div>
-      <h2 class="v2-section-title">Самостоятельно, штатный спец или <em>с нами</em></h2>
-      <p class="v2-section-lede">Шесть критериев, по которым подрядчики выбирают, как закрыть казначейское сопровождение.</p>
+    <div class="lp2-scen">
+      <article class="reveal"><h3>УФК вернуло платёж</h3><p><b>Что делаем:</b> в течение рабочего дня расшифровываем причину из протокола, правим документ или сведения, подаём повторно. Об отказе вы узнаёте от нас, а не из портала.</p></article>
+      <article class="reveal"><h3>В счёте соисполнителя нет ИГК</h3><p><b>Что делаем:</b> возвращаем контрагенту с формулировкой, что именно исправить, чтобы второй раз документ был принят. Без ИГК по ГОЗ документ не пройдёт ни в УФК, ни у заказчика.</p></article>
+      <article class="reveal"><h3>Сведения не утверждаются, аванс стоит</h3><p><b>Что делаем:</b> пересобираем структуру по кодам, спорные позиции согласуем с ТОФК напрямую, переутверждаем. Аванс начинает работать.</p></article>
+      <article class="reveal"><h3>Предыдущий подрядчик по сопровождению подвёл</h3><p><b>Что делаем:</b> берём контракт в середине исполнения — через <a href="/uslugi/spasenie-kontrakta/">экспресс-аудит и спасение контракта</a>: пересобираем сведения, закрываем возвраты, восстанавливаем учёт, ведём до закрытия.</p></article>
     </div>
-    <div class="v2-compare" role="table">
-      <div class="v2-compare-head" role="row">
-        <div role="columnheader" class="v2-compare-head-cell">Параметр</div>
-        <div role="columnheader" class="v2-compare-head-cell">Самостоятельно</div>
-        <div role="columnheader" class="v2-compare-head-cell">Штатный спец</div>
-        <div role="columnheader" class="v2-compare-head-cell is-us">С КазнаЭксперт</div>
-      </div>
-      <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Запуск</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">2–4 недели на освоение</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">1–2 месяца на подбор</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>2 рабочих дня</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Риск отказов и возвратов</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Высокий — без опыта</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Зависит от сотрудника</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Минимальный</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Ведение и отчётность</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Сами, без поддержки</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">По компетенциям спеца</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт">Полный цикл включён</div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Стоимость</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Ваше время + риск</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">120–180 тыс ₽/мес + взносы</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>от 25 000 ₽</strong> по этапу</div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Гарантия в договоре</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Нет</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Нет</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Прописана</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Ваши затраты времени</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Десятки часов</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Контроль сотрудника</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>5 минут</strong></div></div>
-    </div>
-    <div class="v2-compare-cta"><a href="#zayavka">Обсудить ваш контракт <span aria-hidden="true">→</span></a></div>
   </div>
 </section>
 
@@ -281,34 +298,54 @@
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Стоимость</div>
       <h2 class="v2-section-title">Цены — <em>фиксированные, по этапу контракта</em></h2>
-      <p class="v2-section-lede">Стоимость зависит от того, на каком этапе вы подключаетесь. Цена прописана в договоре, без «от» и скрытых доплат.</p>
+      <p class="v2-section-lede">Стоимость зависит от того, на каком этапе вы подключаетесь и есть ли аванс. Цена записывается в договоре, без «от» и доплат за операции. Оплата — после подписания договора.</p>
     </div>
-    <div class="v2-tariffs-grid lp-3col"><article class="v2-tariff">
+    <div class="v2-tariffs-grid"><article class="v2-tariff">
         <div class="v2-tariff-no">01</div>
         <div class="v2-tariff-stage">До тендера</div>
-        <h3>Резерв счёта к дате тендера</h3>
-        <p class="v2-tariff-desc">Резервируем казначейский счёт заранее — реквизиты готовы к моменту победы. Не выиграли — закрываем без расходов.</p>
+        <h3>Резервирование счёта к дате тендера</h3>
+        <p class="v2-tariff-desc">Реквизиты готовы к моменту победы. Контракт не достался — закрываем счёт без расходов с вашей стороны.</p>
         <div class="v2-tariff-price"><div class="v2-tariff-price-num">25 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · к дате тендера</div><a href="/uslugi/rezervirovanie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
-      </article><article class="v2-tariff is-featured">
+      </article><article class="v2-tariff">
         <div class="v2-tariff-no">02</div>
-        <div class="v2-tariff-stage">Победа в тендере</div>
-        <h3>Открытие счёта за два дня</h3>
-        <p class="v2-tariff-desc">Анализ контракта, пакет документов, включение в сводный реестр, открытие счёта в УФК и настройка «Электронного бюджета».</p>
+        <div class="v2-tariff-stage">Победа</div>
+        <h3>Открытие счёта</h3>
+        <p class="v2-tariff-desc">Сводный реестр, ГИИС «Электронный бюджет», договор с ТОФК, лицевой счёт — 2 рабочих дня, с первой подачи.</p>
         <div class="v2-tariff-price"><div class="v2-tariff-price-num">35 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">03</div>
         <div class="v2-tariff-stage">Постоплата</div>
-        <h3>Контракт с постоплатой под ключ</h3>
-        <p class="v2-tariff-desc">Ведём контракт без аванса: платежи, сведения, раздельный учёт и отчётность — до закрытия счёта.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">65 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · за контракт</div><a href="/uslugi/soprovozhdenie-postoplata/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
-      </article><article class="v2-tariff">
+        <h3>Контракт с постоплатой</h3>
+        <p class="v2-tariff-desc">Счёт, сведения, платежи по актам и УПД, раздельный учёт, закрытие — объём конечный, цена разовая.</p>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">65 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · до закрытия контракта</div><a href="/uslugi/soprovozhdenie-postoplata/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+      </article><article class="v2-tariff is-featured">
         <div class="v2-tariff-no">04</div>
-        <div class="v2-tariff-stage">Аванс</div>
-        <h3>Контракт с авансом под ключ</h3>
-        <p class="v2-tariff-desc">Полное сопровождение контракта с авансом: санкционирование предоплаты, обеспечение, отработка аванса, отчётность.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">105 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Под ключ · весь срок</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-stage">Аванс · ГОЗ</div>
+        <h3>Контракт с авансом и ГОЗ</h3>
+        <p class="v2-tariff-desc">Каждое расходование аванса, ИГК, отдельный счёт, соисполнители, раздельный учёт, отчётность по ГОЗ — ежемесячно, до закрытия.</p>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">105 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Без лимита на операции</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article></div>
-    <p class="v2-tariffs-footnote">Точная стоимость — после анализа вашего контракта.</p>
+    <div class="related-inline" style="margin-top:32px"><b>Отдельные работы по ГОЗ и сложным случаям</b> <a href="/uslugi/sostavlenie-rkm/">→ Составление РКМ по ГОЗ — 105 000 ₽ за комплект</a><a href="/uslugi/vosstanovlenie-razdelnogo-ucheta/">→ Восстановление раздельного учёта — 99 000 ₽ за контракт</a><a href="/uslugi/audit-kaznacheyskogo-soprovozhdeniya/">→ Аудит казначейского сопровождения — 160 000 ₽</a><a href="/uslugi/spasenie-kontrakta/">→ Спасение контракта: блокировки, возвраты, отказы УФК</a><a href="/uslugi/bankovskoe-soprovozhdenie/">→ Банковское сопровождение контракта ГОЗ — 105 000 ₽/мес</a><a href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/">→ Обучение казначейскому сопровождению — 150 000 ₽</a><a href="/baza-znaniy/stoimost-kaznacheyskogo-soprovozhdeniya/">→ Все цены и сравнение тарифов</a></div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="compare">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Сравнение</div>
+      <h2 class="v2-section-title">Самостоятельно, штатный спец или <em>с нами</em></h2>
+      <p class="v2-section-lede">Шесть критериев, по которым выбирают, кому доверить казначейский контур контракта.</p>
+    </div>
+    <div class="v2-compare" role="table">
+      <div class="v2-compare-head" role="row">
+        <div role="columnheader" class="v2-compare-head-cell">Параметр</div>
+        <div role="columnheader" class="v2-compare-head-cell">Самостоятельно</div>
+        <div role="columnheader" class="v2-compare-head-cell">Штатный спец</div>
+        <div role="columnheader" class="v2-compare-head-cell is-us">С КазнаЭксперт</div>
+      </div>
+      <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Запуск</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Недели на освоение</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">1–2 месяца на подбор</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>2 рабочих дня</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Опыт с УФК и ГОЗ</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">По ходу контракта</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Один человек, его уровень</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Команда с опытом работы в Казначействе</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Отказ УФК</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Разбираетесь сами</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">По компетенции сотрудника</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Берём на себя до принятия</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Лимит операций</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Ограничен вашим временем</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Ограничен загрузкой</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Нет</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Кадровый риск</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">—</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Отпуск, увольнение, замена</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Закреплённый эксперт и замена в команде</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Гарантия в договоре</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Нет</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Нет</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Прописана</strong></div></div>
+    </div>
+    <div class="v2-compare-cta"><a href="#zayavka">Обсудить ваш контракт <span aria-hidden="true">→</span></a></div>
   </div>
 </section>
 
@@ -318,17 +355,22 @@
       <div class="v2-section-eyebrow">Вопросы</div>
       <h2 class="v2-section-title">Отвечаем <em>прямо</em></h2>
     </div>
-    <div class="faq">
-      <details><summary>Какие штрафы возможны при казначейском сопровождении и как их избежать?</summary><p>С 1 января 2026 года действует статья 15.37.1 КоАП: за отсутствие раздельного учёта по контракту, средства которого подлежат казначейскому сопровождению, для юридических лиц предусмотрен штраф от 5 до 10% цены сделки, но не более 500 тысяч рублей, для индивидуальных предпринимателей — не более 250 тысяч, для должностных лиц — от 10 до 50 тысяч рублей. Отвечает исполнитель. Смежный состав — статья 15.49 КоАП за просрочку утверждения сведений об операциях — адресован стороне, которая эти сведения утверждает. Раздельный учёт по гособоронзаказу — отдельный состав, часть 11 статьи 7.30.3 КоАП. Надёжная защита одна: реальный раздельный учёт с первого дня исполнения и соблюдение сроков подачи документов.</p></details><details open><summary>Что входит в казначейское сопровождение под ключ?</summary><p>Полный цикл: анализ применимости, резерв и открытие казначейского счёта, оформление подписи и настройка «Электронного бюджета», подготовка распоряжений и сведений, санкционирование платежей, раздельный учёт целевых средств, отчётность и закрытие счёта с возвратом остатков.</p></details><details><summary>Сколько стоит казначейское сопровождение?</summary><p>Цена фиксированная и зависит от этапа: резерв счёта — 25 000 ₽, открытие — 35 000 ₽, контракт с постоплатой под ключ — 65 000 ₽, контракт с авансом — 105 000 ₽/мес. Для гособоронзаказа считаем отдельную смету. Точную стоимость называем после анализа контракта.</p></details><details><summary>От чего зависит цена?</summary><p>От этапа подключения, типа контракта (44-ФЗ, 223-ФЗ, гособоронзаказ), наличия аванса, числа платежей и соисполнителей. Мы фиксируем цену в договоре заранее — без «от» и доплат по ходу.</p></details><details><summary>Работаете по 223-ФЗ и гособоронзаказу?</summary><p>Да. Сопровождаем контракты по 44-ФЗ и 223-ФЗ, а также гособоронзаказ по 275-ФЗ. Для гособоронзаказа применяется отдельный режим счёта и раздельного учёта — считаем по отдельной смете.</p></details><details><summary>Вы открываете счёт или только ведёте?</summary><p>И то, и другое. Можем подключиться на любом этапе: зарезервировать счёт до тендера, открыть после победы или взять на ведение уже открытый счёт, если по нему были возвраты и отказы.</p></details><details><summary>Работаете с регионами?</summary><p>Да, со всеми регионами России удалённо. Весь документооборот ведётся электронно через «Электронный бюджет» — личное присутствие не требуется.</p></details><details><summary>Какие гарантии результата?</summary><p>Объём работ, срок и стоимость прописаны в договоре. Замечания казначейства устраняем без доплат — это входит в услугу.</p></details><details><summary>С чего начать?</summary><p>Оставьте заявку — эксперт перезвонит за 15 минут, разберёт контракт и назовёт точную стоимость. Анализ контракта — до подписания договора, по NDA.</p></details>
-      <details><summary>Как заказать казначейское сопровождение?</summary><p>Оставьте заявку на сайте или напишите в Telegram — эксперт перезвонит за 15 минут, разберёт контракт, назовёт точную цену и пришлёт договор. Анализ контракта — до подписания, по NDA. Подключаемся на любом этапе: резерв счёта, открытие или ведение уже открытого счёта.</p></details>
-      <details><summary>Помогаете вести казначейское сопровождение под ключ?</summary><p>Да, берём весь цикл: открытие казначейского счёта, настройка «Электронного бюджета», санкционирование платежей, раздельный учёт целевых средств и отчётность — до закрытия контракта. Можно передать весь цикл или отдельный блок. Работаем со всеми регионами России удалённо.</p></details>
-      <details><summary>Какие сроки казначейского сопровождения?</summary><p>Казначейский счёт открываем за 2 рабочих дня после подачи документов. Санкционирование каждого платежа проходит в срок по регламенту ТОФК (приказ Минфина № 214н). Раздельный учёт и отчётность ведём весь срок контракта, счёт закрываем после его исполнения.</p></details></div>
+    <div class="faq"><details open><summary>Чем сопровождение по ГОЗ отличается от обычного?</summary><p>ИГК во всех документах, отдельный счёт, раздельный учёт по 275-ФЗ, РКМ и проверка военного представительства. Каждый пункт — отдельная точка отказа, поэтому контракты по ГОЗ ведутся по тарифу с авансом: <a href="/uslugi/soprovozhdenie-avans/">105 000 ₽/мес</a>. Как устроен режим — в материале <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/">«Казначейское сопровождение ГОЗ по 275-ФЗ»</a>.</p></details>
+      <details><summary>Что такое расширенное казначейское сопровождение и ведёте ли вы его?</summary><p>Режим с дополнительной проверкой фактических поставок, работ и затрат — Казначейство смотрит не только документы, но и исполнение. Ведём. Подробно — в <a href="/baza-znaniy/rasshirennoe-kaznacheyskoe-soprovozhdenie/">базе знаний</a>.</p></details>
+      <details><summary>Сколько стоит казначейское сопровождение?</summary><p>Цена фиксированная и зависит от этапа: резервирование счёта — 25 000 ₽, открытие — 35 000 ₽, контракт с постоплатой — 65 000 ₽ разово, контракт с авансом и ГОЗ — 105 000 ₽/мес. Внутри тарифа нет лимита на число операций. Все цены и сравнение — на странице <a href="/baza-znaniy/stoimost-kaznacheyskogo-soprovozhdeniya/">«Стоимость казначейского сопровождения»</a>.</p></details>
+      <details><summary>Ведёте соисполнителей?</summary><p>Да. Счета и платежи соисполнителей в рамках вашего контракта — в тарифе. Открываем счета на всех уровнях цепочки, документы без ИГК возвращаем контрагенту с точной правкой.</p></details>
+      <details><summary>Можно подключиться в середине контракта?</summary><p>Да. Если по контракту уже есть возвраты и неутверждённые сведения — начинаем со <a href="/uslugi/spasenie-kontrakta/">спасения контракта</a> или <a href="/uslugi/audit-kaznacheyskogo-soprovozhdeniya/">аудита</a>, затем переводим на сопровождение.</p></details>
+      <details><summary>Что нужно от нас?</summary><p>Контракт, доверенность на сотрудника, документы по расходам и контакт ответственного. Формы, сведения и распоряжения заполняем сами. Работаем удалённо через TeamViewer или AnyDesk со всеми регионами, оригиналы не нужны.</p></details>
+      <details><summary>Сколько операций можно провести?</summary><p>Сколько нужно по контракту. Лимита на платежи, переутверждения сведений, разборы отказов и обращения нет.</p></details>
+      <details><summary>Какие гарантии?</summary><p>Объём работ, срок и стоимость прописаны в договоре. Замечания Казначейства по нашим документам устраняем без доплат. NDA подписываем до того, как увидим документы.</p></details>
+            <details><summary>Какие штрафы возможны при казначейском сопровождении и как их избежать?</summary><p>С 1 января 2026 года действует статья 15.37.1 КоАП: за отсутствие раздельного учёта по контракту, средства которого подлежат казначейскому сопровождению, для юридических лиц предусмотрен штраф от 5 до 10% цены сделки, но не более 500 тысяч рублей, для индивидуальных предпринимателей — не более 250 тысяч, для должностных лиц — от 10 до 50 тысяч рублей. Отвечает исполнитель. Смежный состав — статья 15.49 КоАП за просрочку утверждения сведений об операциях — адресован стороне, которая эти сведения утверждает. Раздельный учёт по гособоронзаказу — отдельный состав, часть 11 статьи 7.30.3 КоАП. Надёжная защита одна: реальный раздельный учёт с первого дня исполнения и соблюдение сроков подачи документов.</p></details>
+      <details><summary>Работаете по 44-ФЗ и 223-ФЗ без ГОЗ?</summary><p>Да, контракты по 44-ФЗ и 223-ФЗ под казначейским сопровождением ведём по тем же тарифам: <a href="/uslugi/soprovozhdenie-postoplata/">с постоплатой</a> — 65 000 ₽, <a href="/uslugi/soprovozhdenie-avans/">с авансом</a> — 105 000 ₽/мес.</p></details></div>
   </div>
 </section>
 
 <section class="v2-section" aria-label="Актуальность страницы">
   <div class="v2-container">
-    <p class="v2-freshness">Страница актуальна на <time datetime="2026-08-31">31 августа 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
+    <p class="v2-freshness">Страница актуальна на <time datetime="2026-09-02">2 сентября 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
   </div>
 </section>
 
@@ -336,24 +378,26 @@
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Заявка</div>
-      <h2 class="v2-section-title">Рассчитаем стоимость</h2>
-      <p class="v2-section-lede">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт ваш контракт и назовёт точную цену. NDA — до анализа документов.</p>
+      <h2 class="v2-section-title">Возьмём контракт на сопровождение</h2>
+      <p class="v2-section-lede">Опишите контракт — ответим в течение часа в рабочее время и скажем, каким тарифом он закрывается. Цена фиксируется в договоре, NDA — до передачи документов.</p>
     </div>
     <div style="max-width:520px;margin:0 auto">
       <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="kaznacheyskoe-soprovozhdenie-cta">
         <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
         <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
+        <textarea class="fld" name="message" placeholder="Комментарий: ГОЗ или 44-ФЗ, аванс, соисполнители (необязательно)" rows="2" maxlength="3000"></textarea>
         <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
         <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-        <button class="submit" type="submit">Получить расчёт →</button>
+        <button class="submit" type="submit">Отправить заявку →</button>
         <div class="formmsg" id="formMsgBottom" hidden></div>
-        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
+        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA до документов</span></div>
         <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
           <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
           <h3>Заявка принята</h3>
-          <p>Эксперт перезвонит <b>в течение 15 минут</b> (9:00–21:00 МСК).</p>
+          <p>Эксперт свяжется <b>в течение часа</b> в рабочее время (пн–пт, 9:00–19:00 МСК).</p>
         </div>
       </form>
+      <p style="text-align:center;margin:18px 0 0;font-size:15px;color:#5F5A52">Телефон <a href="tel:+79818331010" style="color:#8B6F47">+7 981 833-10-10</a> · <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener" style="color:#8B6F47">Telegram</a> · <a href="https://wa.me/+79818331010" target="_blank" rel="noopener" style="color:#8B6F47">WhatsApp</a></p>
     </div>
   </div>
 </section>
@@ -386,7 +430,7 @@
     if(!/\d[\s\d().-]*\d{3}/.test(phone)||phone.replace(/\D/g,'').length<10){show('Проверьте телефон');return;}
     if(!f.consent.checked){show('Подтвердите согласие');return;}
     var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';
-    fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})})
+    fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,message:(f.message&&f.message.value||'').trim(),consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})})
       .then(function(r){ if(!r.ok) throw 0; return r; })
       .then(function(){
         [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; });
@@ -553,7 +597,7 @@
     if(form.name.value.trim().length<2||form.phone.value.replace(/\D/g,'').length<10){show('Проверьте имя и телефон');return;}
     var DEMO=false;
     var btn=form.querySelector('.submit'),orig=btn.textContent;btn.disabled=true;btn.textContent='Отправляем…';
-    var data={phone:form.phone.value.trim(),source:SRC,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+SRC+')',consent_at:new Date().toISOString(),page_url:location.href,name:form.name.value.trim()};
+    var data={phone:form.phone.value.trim(),source:SRC,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+SRC+')',consent_at:new Date().toISOString(),page_url:location.href,name:form.name.value.trim(),message:(form.message&&form.message.value||'').trim()};
     fetch(form.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)})
       .then(function(r){if(!r.ok)throw 0;return r;}).then(succeed).catch(function(){if(DEMO){succeed();}else{fail();}});
     function succeed(){[].forEach.call(form.children,function(el){if(el!==ok)el.style.display='none';});ok.classList.add('on');try{window.ym&&ym(94305898,'reachGoal','lead',{source:SRC});}catch(e){}}

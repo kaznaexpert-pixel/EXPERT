@@ -292,7 +292,7 @@
 
 <section class="v2-section v2-screen" id="zayavka">
   <div class="v2-container">
-    <div class="v2-section-head"><div class="v2-section-eyebrow">Заявка</div><h2 class="v2-section-title">Разберём <em>ваш контракт</em></h2><p class="v2-section-lede">Оставьте контакты — эксперт перезвонит за 15 минут, разберёт вашу ситуацию и назовёт точную стоимость.</p></div>
+    <div class="v2-section-head"><div class="v2-section-eyebrow">Заявка</div><h2 class="v2-section-title">Разберём <em>ваш контракт</em></h2><p class="v2-section-lede">Оставьте контакты — эксперт перезвонит в течение часа, разберёт вашу ситуацию и назовёт точную стоимость.</p></div>
     <div style="max-width:520px;margin:0 auto">
       <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="keysy-cta">
         <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
@@ -301,10 +301,10 @@
         <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
         <button class="submit" type="submit">Получить расчёт →</button>
         <div class="formmsg" id="formMsgBottom" hidden></div>
-        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ за <b>15 минут</b> · NDA по запросу</span></div>
+        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA по запросу</span></div>
         <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
           <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
-          <h3>Заявка принята</h3><p>Перезвоним <b>в течение 15 минут</b> (9:00–21:00 МСК).</p>
+          <h3>Заявка принята</h3><p>Перезвоним <b>в течение часа в рабочее время</b> (9:00–21:00 МСК).</p>
         </div>
       </form>
     </div>
