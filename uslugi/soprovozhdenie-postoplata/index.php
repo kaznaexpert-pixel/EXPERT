@@ -257,7 +257,7 @@
           <span class="v2-eyebrow">Услуга · постоплата · 44-ФЗ · 223-ФЗ</span>
           <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
         </div>
-        <h1>Проведём постоплату по госконтракту<br><em>без возврата и в срок</em></h1>
+        <h1>Проведём постоплату по госконтракту <br><em>без возврата и в срок</em></h1>
 <a href="/#reviews" style="display:inline-flex;align-items:center;gap:7px;margin:12px 0 0;padding:7px 15px;background:rgba(139,111,71,.07);border:1px solid rgba(139,111,71,.35);border-radius:999px;text-decoration:none;font-size:14px;color:#1A1A1A"><span style="color:#8B6F47;letter-spacing:1px">★★★★★</span><b>4,9</b><span style="color:#6E6B66">— отзывы клиентов</span></a>
         <p class="v2-hero-lede"><strong>Постоплата — строго регламентированная процедура.</strong> Одна ошибка в документах или коде операции возвращает платёж. Готовим и проводим правильно с первого раза — через банк, казначейство и до зачисления средств.</p>
         <div class="v2-hero-trust"><div class="v2-trust-item"><div class="v2-trust-num">в срок<span class="v2-trust-suffix"></span></div><div class="v2-trust-label">по контракту</div></div><div class="v2-trust-item"><div class="v2-trust-num">2021</div><div class="v2-trust-label">год регистрации ИП</div></div><div class="v2-trust-item"><div class="v2-trust-num">100<span class="v2-trust-suffix">%</span></div><div class="v2-trust-label">дистанционно, вся РФ</div></div><div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div></div>
