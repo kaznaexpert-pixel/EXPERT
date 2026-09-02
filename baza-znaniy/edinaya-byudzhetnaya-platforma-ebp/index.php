@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Единая бюджетная платформа (ЕБП): что меняется в 2026 — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-26T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-02T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -327,7 +327,7 @@
         <li id="ref-2">ГИС-документы (форматы обмена) — Федеральное казначейство — <a href="https://roskazna.gov.ru/gis/dokumenty/" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
         <li id="ref-3">ГИИС «Электронный бюджет» — Федеральное казначейство — <a href="https://roskazna.gov.ru/gis/elektronnyj-byudzhet/" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
       </ol>
-      <p class="refs__note">Материал подготовлен по выступлениям представителей Федерального казначейства на вебинаре о релизе версии 3.2 ЕБП; функциональность и сроки могут уточняться — актуальный перечень изменений публикуется в разделе «Журнал версий» платформы. Проверено экспертом КазнаЭксперт. Дата актуализации — 26 августа 2026.</p>
+      <p class="refs__note">Материал подготовлен по выступлениям представителей Федерального казначейства на вебинаре о релизе версии 3.2 ЕБП; функциональность и сроки могут уточняться — актуальный перечень изменений публикуется в разделе «Журнал версий» платформы. Проверено экспертом КазнаЭксперт. Дата актуализации — 2 сентября 2026.</p>
     </div>
   </article>
 

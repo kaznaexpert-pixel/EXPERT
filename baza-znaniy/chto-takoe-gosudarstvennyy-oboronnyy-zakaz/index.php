@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Что такое гособоронзаказ (ГОЗ): простыми словами в 2026 году — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-16T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-27T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-02T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -361,7 +361,7 @@
         <li id="ref-3">Постановление Правительства РФ от 02.12.2017 № 1465 о государственном регулировании цен на продукцию по ГОЗ — <a href="https://www.consultant.ru/document/cons_doc_LAW_284546/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-4">Бюджетный кодекс РФ, ст. 242.26 — казначейское сопровождение целевых средств — <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>
-      <p class="refs__note">Материал актуален на 27 августа 2026 года и носит справочный характер, не являясь юридической консультацией. Перед принятием решений сверяйтесь с действующими редакциями Закона № 275-ФЗ и подзаконных актов; по конкретному контракту правила могут уточняться заказчиком.</p>
+      <p class="refs__note">Материал актуален на 2 сентября 2026 года и носит справочный характер, не являясь юридической консультацией. Перед принятием решений сверяйтесь с действующими редакциями Закона № 275-ФЗ и подзаконных актов; по конкретному контракту правила могут уточняться заказчиком.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

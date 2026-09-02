@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Заключение контракта по 44-ФЗ: сроки, протокол разногласий, уклонение — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-28T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-27T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-02T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -370,7 +370,7 @@
         <li id="ref-4">Федеральный закон от 05.04.2013 № 44-ФЗ, статья 104 (реестр недобросовестных поставщиков; часть 10 — порядок направления сведений). <a href="https://www.consultant.ru/document/cons_doc_LAW_144624/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
         <li id="ref-5">Федеральный закон от 05.04.2013 № 44-ФЗ, часть 8 статьи 51 (право заказчика на возмещение убытков, причинённых уклонением). <a href="https://www.consultant.ru/document/cons_doc_LAW_144624/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
       </ol>
-      <p class="refs__note">Нормы приведены в редакции, действующей на 27 августа 2026 года. Материал носит справочный характер и не заменяет юридическую консультацию по конкретной закупке.</p>
+      <p class="refs__note">Нормы приведены в редакции, действующей на 2 сентября 2026 года. Материал носит справочный характер и не заменяет юридическую консультацию по конкретной закупке.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

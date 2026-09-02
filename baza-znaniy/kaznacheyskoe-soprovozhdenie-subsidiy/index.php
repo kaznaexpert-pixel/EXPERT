@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"subsidii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение субсидий в 2026: какие субсидии, счёт, порядок", "description": "Казначейское сопровождение субсидий юрлицам в 2026: какие субсидии попадают (ст. 5 № 426-ФЗ), правовая база (гл. 24.4 БК РФ), лицевой счёт в ТОФК, санкционирование расходов и порядок для получателя.", "inLanguage": "ru-RU", "datePublished": "2026-06-09", "dateModified": "2026-08-14", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-subsidiy-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-subsidiy-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-subsidiy-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-subsidiy/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/", "https://www.consultant.ru/document/cons_doc_LAW_19702/", "https://www.consultant.ru/document/cons_doc_LAW_50565/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Казначейское сопровождение субсидий в 2026: какие субсидии, счёт, порядок", "description": "Казначейское сопровождение субсидий юрлицам в 2026: какие субсидии попадают (ст. 5 № 426-ФЗ), правовая база (гл. 24.4 БК РФ), лицевой счёт в ТОФК, санкционирование расходов и порядок для получателя.", "inLanguage": "ru-RU", "datePublished": "2026-06-09", "dateModified": "2026-09-02", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-subsidiy-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-subsidiy-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__kaznacheyskoe-soprovozhdenie-subsidiy-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-subsidiy/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/", "https://www.consultant.ru/document/cons_doc_LAW_19702/", "https://www.consultant.ru/document/cons_doc_LAW_50565/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Казначейское сопровождение субсидий"}]}
@@ -93,7 +93,7 @@
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Казначейское сопровождение субсидий: какие субсидии и как работает — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-09T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-14T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-02T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -180,7 +180,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Субсидии и инвестиции <span class="fresh">Актуально на 2026</span></div>
     <h1>Казначейское сопровождение субсидий в 2026: какие субсидии, счёт, порядок</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 14 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 2 сентября 2026</span></div>
     </div>
 
     <div class="share">
@@ -354,6 +354,8 @@
       <tr><td>Подтверждение целей</td><td>В отчёте</td><td>На каждом расходе</td></tr>
     </table>
 
+    <p data-ctx="auto-ctx:otchet-eb">Помимо отчётности перед казначейством получатель сдаёт распорядителю отчёты по самому соглашению — о достижении результатов, о расходах и о контрольных точках; сроки и порядок их подачи через систему описаны в статье <a href="/baza-znaniy/otchet-po-soglasheniyu-v-elektronnom-byudzhete/">об отчёте по соглашению в «Электронном бюджете»</a>.</p>
+
     <h2 id="oshibki">Частые ошибки</h2>
     <div class="answer reveal">
       <p>Большинство проблем получателей субсидий под сопровождением — организационные: поздно открыли счёт, не подтвердили расход, перепутали целевое назначение. Ниже — типичные ошибки.</p>
@@ -453,7 +455,7 @@
         <li id="ref-4">Федеральный закон от 24.06.2025 № 158-ФЗ (введены пункты 4.1 и 4.2 статьи 242.23 БК РФ) и Федеральный закон от 28.11.2025 № 432-ФЗ (редакция подпункта 2 пункта 1, пункт 4.3) — <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/68f24d27edee7d0ca5315de64a951b15f0af209f/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-5">Постановление Правительства РФ от 24.11.2021 № 2024 (ред. от 15.10.2025) «О правилах казначейского сопровождения» — <a href="https://www.consultant.ru/document/cons_doc_LAW_401366/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>
-      <p class="refs__note">Материал носит справочный характер и не заменяет индивидуальную консультацию. Случаи и пороги казначейского сопровождения субсидий устанавливаются БК РФ и ежегодным законом о федеральном бюджете и могут уточняться; перечень для конкретной субсидии определяется законом и соглашением. Проверено экспертом КазнаЭксперт. Дата актуализации — 14 августа 2026.</p>
+      <p class="refs__note">Материал носит справочный характер и не заменяет индивидуальную консультацию. Случаи и пороги казначейского сопровождения субсидий устанавливаются БК РФ и ежегодным законом о федеральном бюджете и могут уточняться; перечень для конкретной субсидии определяется законом и соглашением. Проверено экспертом КазнаЭксперт. Дата актуализации — 2 сентября 2026.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Срок оплаты по контракту 44-ФЗ: 7 и 10 рабочих дней — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-27T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-28T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-02T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -332,7 +332,7 @@
         <li id="ref-4">Кодекс РФ об административных правонарушениях, часть 8 статьи 7.30.2 (нарушение срока либо порядка оплаты; введена Федеральным законом от 28.12.2024 № 500-ФЗ, применяется с 01.03.2025; статья 7.32.5 с этой даты утратила силу).</li>
         <li id="ref-5">Гражданский кодекс РФ, статья 395 (ответственность за неисполнение денежного обязательства — для общих случаев). <a href="https://www.consultant.ru/document/cons_doc_LAW_5142/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
       </ol>
-      <p class="refs__note">Нормы приведены в редакции, действующей на 28 августа 2026 года. Материал носит справочный характер и не заменяет юридическую консультацию по конкретному спору.</p>
+      <p class="refs__note">Нормы приведены в редакции, действующей на 2 сентября 2026 года. Материал носит справочный характер и не заменяет юридическую консультацию по конкретному спору.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

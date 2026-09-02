@@ -70,7 +70,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/licevoy-schet-71-kak-otkryt/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -185,7 +185,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/sertifikat-ecp-kaznachejstvo/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
@@ -599,7 +599,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-subsidiy/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -713,7 +713,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -947,7 +947,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/poib-sobi-elektronnyy-byudzhet/</loc>
-    <lastmod>2026-08-24</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1499,7 +1499,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/neuchastnik-byudzhetnogo-processa/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1871,7 +1871,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/soglashenie-o-predostavlenii-subsidii/</loc>
-    <lastmod>2026-08-28</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1982,5 +1982,11 @@
     <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/otchet-po-soglasheniyu-v-elektronnom-byudzhete/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
   </url>
 </urlset>
