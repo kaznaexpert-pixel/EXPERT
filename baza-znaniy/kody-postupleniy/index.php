@@ -203,7 +203,7 @@
     <div class="note">Смотрите также: <a href="/baza-znaniy/kody/">коды направлений расходования</a> (на что тратятся средства) · <a href="/baza-znaniy/svedeniya-ob-operaciyah-s-celevymi-sredstvami/">как заполнить Сведения об операциях</a> · <a href="/baza-znaniy/tofk/">справочник ТОФК по регионам</a> · <a href="/baza-znaniy/chto-takoe-kaznacheyskoe-soprovozhdenie/">что такое казначейское сопровождение</a>.</div>
 
     <section class="refs" aria-label="Источники"><h2>Источники</h2><ol>
-      <li id="ref-1">Приказ Минфина России от 17.12.2021 № 214н (ред. от 27.06.2025), Приложение 2 «Источники поступлений целевых средств». <a href="https://www.consultant.ru/document/cons_doc_LAW_405138/ae24eb0b4c73bef0340068032905f83da620924d/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
+      <li id="ref-1">Приказ Минфина России от 17.12.2021 № 214н (ред. от 16.06.2026), Приложение 2 «Источники поступлений целевых средств». <a href="https://www.consultant.ru/document/cons_doc_LAW_405138/ae24eb0b4c73bef0340068032905f83da620924d/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
     </ol><p class="refs__note">Перечень приведён по действующей редакции; приказ обновляется — сверяйтесь с актуальной редакцией и условиями вашего контракта.</p></section>
   
     <div class="art-promo" style="margin:26px 0 6px;display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px">

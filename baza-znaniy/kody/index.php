@@ -194,7 +194,7 @@
     <div class="note">Смотрите также: <a href="/baza-znaniy/kody-postupleniy/">коды источников поступлений</a> (откуда пришли средства), <a href="/baza-znaniy/tofk/">справочник ТОФК по регионам</a> (где открыть лицевой счёт) и <a href="/baza-znaniy/normativnaya-baza/">нормативная база</a> (законы и приказы по казначейскому сопровождению).</div>
 
     <section class="refs" aria-label="Источники"><h2>Источники и нормативная база</h2><ol>
-      <li id="ref-1">Приказ Минфина России от 17.12.2021 № 214н (ред. от 27.06.2025), Приложение 3 «Направления расходования целевых средств». <a href="https://www.consultant.ru/document/cons_doc_LAW_405138/de4649fe56038006ee16bce420115b7ba6a80da5/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
+      <li id="ref-1">Приказ Минфина России от 17.12.2021 № 214н (ред. от 16.06.2026), Приложение 3 «Направления расходования целевых средств». <a href="https://www.consultant.ru/document/cons_doc_LAW_405138/de4649fe56038006ee16bce420115b7ba6a80da5/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
       <li id="ref-2">Правило первого разряда кода (6/8/9) — Приказ Минфина России от 21.06.2023 № 97н. <a href="https://www.consultant.ru/document/cons_doc_LAW_405138/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
     </ol><p class="refs__note">Информация справочная. Приказ 214н регулярно обновляется — сверяйтесь с действующей редакцией; конкретный код согласуйте с вашим ТОФК и условиями контракта.</p></section>
   
