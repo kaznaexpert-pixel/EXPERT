@@ -226,7 +226,7 @@
         <span style="display:inline-block;margin-top:10px;font-size:14px;color:#9a7b4f;font-weight:600">Записаться на курс &rarr;</span>
       </a>
     </div>
-  <div class="related-inline"><b>Рядом в нормативной базе:</b> <a href="/baza-znaniy/normativnaya-baza/fz-275-goz/">275-ФЗ о гособоронзаказе</a> · <a href="/baza-znaniy/normativnaya-baza/novyy-poryadok-sankcionirovaniya-2026/">Новый порядок санкционирования вместо 214н</a> · <a href="/baza-znaniy/normativnaya-baza/">все разборы НПА</a></div>
+  <div class="related-inline"><b>Рядом в нормативной базе:</b> <a href="/baza-znaniy/normativnaya-baza/fz-275-goz/">275-ФЗ о гособоронзаказе</a> · <a href="/baza-znaniy/normativnaya-baza/novyy-poryadok-sankcionirovaniya-2026/">Приказ 75н: санкционирование с 01.09.2026</a> · <a href="/baza-znaniy/normativnaya-baza/">все разборы НПА</a></div>
 
     <div class="author">
       <div class="author__av">ЯМ</div>
