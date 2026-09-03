@@ -64,7 +64,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/</loc>
-    <lastmod>2026-08-31</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/poryadok-sankcionirovaniya-rashodov/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
@@ -611,7 +611,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/poryadok-kaznacheyskogo-soprovozhdeniya-sredstv/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -659,7 +659,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/kaznacheyskiy-kontrakt/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -737,7 +737,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/celevye-sredstva-kaznacheyskoe-soprovozhdenie/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -839,7 +839,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-municipalnyh-kontraktov/</loc>
-    <lastmod>2026-08-24</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -905,7 +905,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/kaznacheyskiy-monitoring/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -953,7 +953,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-ispolnenie-kontrakta/</loc>
-    <lastmod>2026-08-27</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1986,6 +1986,12 @@
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/otchet-po-soglasheniyu-v-elektronnom-byudzhete/</loc>
     <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/vygruzka-eb-pur-ks-v-1s/</loc>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
