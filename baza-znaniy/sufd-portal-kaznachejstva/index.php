@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"giis"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "СУФД-портал казначейства: что это, как подключиться и работать", "description": "СУФД — система удалённого финансового документооборота Федерального казначейства: возможности портала, пошаговое подключение через УФК, требования к рабочему месту и типовые ошибки.", "inLanguage": "ru-RU", "datePublished": "2026-06-11", "dateModified": "2026-08-21", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__sufd-portal-kaznachejstva-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__sufd-portal-kaznachejstva-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__sufd-portal-kaznachejstva-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/sufd-portal-kaznachejstva/"}, "citation": ["https://kirov.roskazna.gov.ru/gis/sufd-onlajn/poryadok-podklyucheniya/", "https://mo.roskazna.gov.ru/gis/sufd-onlayn/", "https://roskazna.gov.ru/gis/ehlektronnyj-byudzhet/", "https://www.consultant.ru/document/cons_doc_LAW_112701/", "https://cryptopro.ru/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "СУФД-портал казначейства: что это, как подключиться и работать", "description": "СУФД — система удалённого финансового документооборота Федерального казначейства: возможности портала, пошаговое подключение через УФК, требования к рабочему месту и типовые ошибки.", "inLanguage": "ru-RU", "datePublished": "2026-06-11", "dateModified": "2026-09-03", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__sufd-portal-kaznachejstva-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__sufd-portal-kaznachejstva-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__sufd-portal-kaznachejstva-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/sufd-portal-kaznachejstva/"}, "citation": ["https://kirov.roskazna.gov.ru/gis/sufd-onlajn/poryadok-podklyucheniya/", "https://mo.roskazna.gov.ru/gis/sufd-onlayn/", "https://roskazna.gov.ru/gis/ehlektronnyj-byudzhet/", "https://www.consultant.ru/document/cons_doc_LAW_112701/", "https://cryptopro.ru/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "СУФД-портал казначейства", "item": "https://kaznaexpert.ru/baza-znaniy/sufd-portal-kaznachejstva/"}]}
@@ -43,7 +43,7 @@
 {"@type": "Question", "name": "Используют ли СУФД участники казначейского сопровождения?", "acceptedAnswer": {"@type": "Answer", "text": "Коммерческим подрядчикам с лицевым счётом 71 операции чаще настраивают через ГИИС «Электронный бюджет»; решение зависит от категории клиента и практики УФК."}},
 {"@type": "Question", "name": "Можно ли работать в СУФД с нескольких рабочих мест?", "acceptedAnswer": {"@type": "Answer", "text": "Да, каждое рабочее место настраивается отдельно: СКЗИ, TLS-клиент, цепочка доверия и личный сертификат. Передавать ключи подписи между сотрудниками нельзя."}},
 {"@type": "Question", "name": "Где брать инструкции по работе с СУФД?", "acceptedAnswer": {"@type": "Answer", "text": "На сайте своего управления Федерального казначейства в разделе «ГИС → СУФД-онлайн»: там публикуются порядок подключения, памятки и требования к программному обеспечению."}}
-]}
+, {"@type": "Question", "name": "Как в СУФД распечатать платёжное поручение с отметкой казначейства?", "acceptedAnswer": {"@type": "Answer", "text": "Дождитесь исполнения заявки на кассовый расход (состояние «Отправлено в банк» или «Исполнено»), откройте связанное с ней платёжное поручение, сформированное территориальным органом, и вызовите печатную форму — в ней будут дата исполнения и реквизиты казначейства. Сохраните в PDF или распечатайте."}}, {"@type": "Question", "name": "Чем подтвердить оплату контрагенту, если платёж прошёл через казначейство?", "acceptedAnswer": {"@type": "Answer", "text": "Выпиской из лицевого счёта за день операции и платёжным поручением казначейства с реквизитами исполнения. Оба документа электронные и подписаны усиленной квалифицированной подписью; распечатка с реквизитами подписи — визуализация электронного документа, отдельный бумажный штамп не требуется."}}]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "HowTo", "name": "Как подключиться к СУФД-порталу казначейства", "inLanguage": "ru-RU", "step": [
@@ -108,7 +108,7 @@
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="СУФД-портал казначейства: подключение, вход и работа — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-11T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-21T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-03T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -184,7 +184,7 @@
       <li><a href="#trebovaniya">Требования к рабочему месту</a></li>
       <li><a href="#vhod">Вход в систему</a></li>
       <li><a href="#statusy">Статусы документа</a></li>
-       <li><a href="#roli">Роли, права и подписи</a></li>
+       <li><a href="#pechat-pp">Печать платёжного поручения с отметкой</a></li><li><a href="#roli">Роли, права и подписи</a></li>
        <li><a href="#oshibki">Типовые ошибки и решения</a></li>
       <li><a href="#checklist">Чек-лист первого платежа</a></li>
       <li><a href="#bezopasnost">Подписи и безопасность</a></li>
@@ -200,7 +200,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · ГИИС и ЭЦП <span class="fresh">Актуально на 2026</span></div>
     <h1>СУФД-портал казначейства: что это, как подключиться и работать</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 21 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 3 сентября 2026</span></div>
     </div>
 
     <div class="share">
@@ -384,6 +384,25 @@
 
     <p>Документарный контроль выдаёт список ошибок с разделением на критичные и некритичные. Критичные блокируют переход к подписи, некритичные — предупреждения, с которыми документ можно провести. Отдельно стоит помнить, что успешный статус в портале означает только приём документа: содержательная проверка расходования средств — это уже санкционирование, и по её итогам платёж может быть <a href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/">не принят к исполнению с уведомлением о причине отказа</a>.</p>
 
+    <h2 id="pechat-pp">Как распечатать платёжное поручение с отметкой казначейства из СУФД</h2>
+    <div class="answer reveal">
+      <p>Платёжное поручение с отметкой казначейства печатают из СУФД-портала после исполнения документа: открыть исполненную заявку на кассовый расход, перейти к прикреплённому платёжному поручению, сформированному органом казначейства, и вызвать печатную форму — в ней стоят дата исполнения и реквизиты территориального органа. Электронный документ, подписанный усиленной квалифицированной подписью казначейства, равнозначен бумажному со штампом.</p>
+    </div>
+
+    <h3 id="pechat-gde">Где искать документ: заявка и платёжное поручение — разные объекты</h3>
+    <p>Клиент подаёт в казначейство заявку на кассовый расход (форма 0531801), а платёжное поручение по форме 0401060 формирует уже территориальный орган и направляет в банк.<a class="fn" href="#ref-5" aria-label="Источник 5">[5]</a> Поэтому в портале это два связанных документа: заявка в списке исходящих и платёжное поручение казначейства во входящих или в связанных документах к заявке. Печатать «платёжку с отметкой» нужно именно из второго объекта.</p>
+
+    <h3 id="pechat-shagi">Порядок действий в портале</h3>
+    <ol>
+      <li>Убедитесь, что заявка дошла до состояния «Отправлено в банк» (344) или «Исполнено» — до этого отметки об исполнении нет, и печатная форма покажет только реквизиты документа.</li>
+      <li>Откройте заявку и перейдите к связанному платёжному поручению либо найдите его в разделе входящих документов по дате и сумме.</li>
+      <li>Выберите печатную форму документа. В ней отражаются дата исполнения, наименование и код территориального органа — это и есть отметка казначейства.</li>
+      <li>Сохраните файл в PDF или распечатайте; при необходимости приложите к нему выписку из лицевого счёта за тот же день.</li>
+    </ol>
+
+    <h3 id="pechat-vypiska">Что подтверждает платёж юридически</h3>
+    <p>Для контрагента, суда или проверяющего доказательством оплаты служит не столько печатная форма, сколько <a href="/baza-znaniy/vypiska-iz-licevogo-scheta-kaznachejstva/">выписка из лицевого счёта</a>, которую территориальный орган формирует по итогам операционного дня, и платёжное поручение казначейства с реквизитами исполнения. Если контрагент настаивает на «синем штампе», объясните, что документооборот с органом казначейства ведётся в электронной форме, а распечатка с реквизитами подписи — визуализация электронного документа. Как та же операция выглядит для участника казначейского сопровождения в «Электронном бюджете», описано в статье о <a href="/baza-znaniy/rasporyazhenie-o-sovershenii-kaznacheyskogo-platezha/#pp-pechat">распоряжении о совершении казначейского платежа</a>.</p>
+
     <h2 id="roli">Роли, права доступа и порядок подписей</h2>
     <p>Права в портале раздаются не «на организацию», а на конкретного пользователя через набор ролей: аутентификация клиента плюс ветка ролей автоматизированной системы казначейства с вложенными полномочиями. Разделение труда внутри бухгалтерии повторяет привычное: один сотрудник вводит документы, другой проверяет, третий подписывает и отправляет.</p>
 
@@ -481,6 +500,8 @@
       <details><summary>Почему портал не видит сертификат?</summary><p>Либо не установлен личный сертификат/контейнер ключей (проверьте через КриптоПро), либо не собрана цепочка доверия — установите корневой сертификат Минцифры и сертификат УЦ ФК, обновите список отзыва.</p></details>
       <details><summary>Работает ли СУФД для участников казначейского сопровождения?</summary><p>Коммерческим подрядчикам с лицевым счётом 71 операции чаще настраивают через ГИИС «Электронный бюджет». Решение зависит от категории клиента и практики УФК — уточните при открытии счёта.</p></details>
       <details><summary>Где брать инструкции по СУФД?</summary><p>На сайте своего управления ФК (раздел «ГИС → СУФД-онлайн» на региональном поддомене roskazna.gov.ru): там публикуются памятки подключения, инструкции пользователя и требования к ПО.</p></details>
+          <details><summary>Как в СУФД распечатать платёжное поручение с отметкой казначейства?</summary><p>Дождитесь исполнения заявки на кассовый расход (состояние «Отправлено в банк» или «Исполнено»), откройте связанное с ней платёжное поручение, сформированное территориальным органом, и вызовите печатную форму — в ней будут дата исполнения и реквизиты казначейства. Сохраните в PDF или распечатайте.</p></details>
+      <details><summary>Чем подтвердить оплату контрагенту, если платёж прошёл через казначейство?</summary><p>Выпиской из лицевого счёта за день операции и платёжным поручением казначейства с реквизитами исполнения. Оба документа электронные и подписаны усиленной квалифицированной подписью; распечатка с реквизитами подписи — визуализация электронного документа, отдельный бумажный штамп не требуется.</p></details>
     </div>
 
     <div class="author">
@@ -504,7 +525,7 @@
         <li id="ref-7">Приказ Федерального казначейства от 15.12.2021 № 40н «Об утверждении Порядка казначейского обслуживания операций со средствами участников казначейского сопровождения» (Минюст 31.01.2022 № 67059; ред. приказа Федерального казначейства от 01.10.2025 № 13н) — <a href="http://publication.pravo.gov.ru/document/0001202511060003" target="_blank" rel="noopener">publication.pravo.gov.ru</a></li>
         <li id="ref-4">Федеральный закон от 06.04.2011 № 63-ФЗ «Об электронной подписи» — <a href="https://www.consultant.ru/document/cons_doc_LAW_112701/" target="_blank" rel="noopener">consultant.ru</a>; документация КриптоПро CSP — <a href="https://cryptopro.ru/" target="_blank" rel="noopener">cryptopro.ru</a></li>
       </ol>
-      <p class="refs__note">Материал носит информационный характер. Состав ПО и порядок подключения зависят от требований вашего УФК; сверяйтесь с актуальными памятками на региональном сайте казначейства. Информация актуальна на 21 августа 2026 года.</p>
+      <p class="refs__note">Материал носит информационный характер. Состав ПО и порядок подключения зависят от требований вашего УФК; сверяйтесь с актуальными памятками на региональном сайте казначейства. Информация актуальна на 3 сентября 2026 года.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">
