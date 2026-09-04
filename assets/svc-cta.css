@@ -24,7 +24,8 @@
 .svc-cta__card{position:relative;padding:24px 26px;border-radius:16px;background:#141310;overflow:hidden;display:flex;flex-direction:column;gap:6px}
 .svc-cta__card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:#C9A24B}
 .svc-cta__card--edu{background:linear-gradient(135deg,#1c1a15,#141310)}
-.svc-cta .svc-cta__card a.svc-cta__btn{margin-top:14px;align-self:flex-start}
+.svc-cta .svc-cta__card span.svc-cta__price{margin-bottom:14px}
+.svc-cta .svc-cta__card a.svc-cta__btn{margin-top:auto;align-self:flex-start}
 @media (max-width:760px){
   .svc-cta--top{grid-template-columns:1fr;gap:16px}
   .svc-cta--top a.svc-cta__btn{width:100%;justify-content:center}
