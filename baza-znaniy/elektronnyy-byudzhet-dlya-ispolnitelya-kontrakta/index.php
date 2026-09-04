@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Электронный бюджет: вход по сертификату и личный кабинет</title>
-<meta name="description" content="ГИИС «Электронный бюджет» для исполнителя контракта: карта подсистем и адресов входа, чем отличается от СУФД, как подключиться через ТОФК и войти по подписи.">
+<meta name="description" content="Вход в «Электронный бюджет» по сертификату УЦ ФК: точка входа eb.cert.roskazna.ru, старый lk.budget.gov.ru не работает; подключение через ТОФК и ошибки входа.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"giis"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "ГИИС «Электронный бюджет» для исполнителя контракта: подключение, вход по сертификату, личный кабинет", "description": "ГИИС «Электронный бюджет» для исполнителя контракта: карта подсистем и адресов входа, чем отличается от СУФД, как подключиться через ТОФК и войти по подписи.", "inLanguage": "ru-RU", "datePublished": "2026-06-13", "dateModified": "2026-09-03", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_182473/", "https://minfin.gov.ru/ru/ismf/electronic_budget/connect/regional/order/", "https://roskazna.gov.ru/gis/ehlektronnyj-byudzhet/", "https://www.consultant.ru/document/cons_doc_LAW_19702/68f24d27edee7d0ca5315de64a951b15f0af209f/", "https://www.consultant.ru/document/cons_doc_LAW_208093/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "ГИИС «Электронный бюджет» для исполнителя контракта: подключение, вход по сертификату, личный кабинет", "description": "Вход в «Электронный бюджет» по сертификату УЦ ФК: точка входа eb.cert.roskazna.ru, старый lk.budget.gov.ru не работает; подключение через ТОФК и ошибки входа.", "inLanguage": "ru-RU", "datePublished": "2026-06-13", "dateModified": "2026-09-04", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_182473/", "https://minfin.gov.ru/ru/ismf/electronic_budget/connect/regional/order/", "https://roskazna.gov.ru/gis/ehlektronnyj-byudzhet/", "https://www.consultant.ru/document/cons_doc_LAW_19702/68f24d27edee7d0ca5315de64a951b15f0af209f/", "https://www.consultant.ru/document/cons_doc_LAW_208093/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Электронный бюджет для исполнителя", "item": "https://kaznaexpert.ru/baza-znaniy/elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta/"}]}
@@ -98,7 +98,7 @@
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Электронный бюджет для исполнителя контракта: подключение и вход — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-13T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-09-03T10:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-04T10:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -192,7 +192,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · ГИИС и ЭЦП <span class="fresh">Актуально на 2026</span></div>
     <h1>ГИИС «Электронный бюджет» для исполнителя контракта: подключение, вход по сертификату, личный кабинет</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 3 сентября 2026 · добавлен блок о технической поддержке: телефон и почта единого контакт-центра ФК, проверены 03.09.2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 4 сентября 2026 · первый экран переписан под вход по сертификату (точка входа, старый адрес), раздел «Вход» расширен пошагово; добавлен блок техподдержки с проверенными 03.09.2026 контактами</span></div>
     </div>
 
     <div class="share">
@@ -207,7 +207,7 @@
         <li><a href="#chto-takoe">Что такое «Электронный бюджет»</a></li><li><a href="#zachem">Зачем исполнителю контракта личный кабинет</a></li><li><a href="#eb-sufd-fzs">Электронный бюджет, СУФД и ФЗС: кто за что отвечает</a></li><li><a href="#pravovaya">Правовая база</a></li><li><a href="#podsistemy">Подсистемы, с которыми работает исполнитель</a></li><li><a href="#arm">Подготовка рабочего места</a></li><li><a href="#podklyuchenie">Как подключиться: пошагово</a></li><li><a href="#vhod">Вход по сертификату</a></li><li><a href="#lk">Личный кабинет: что внутри</a></li><li><a href="#kak-rabotat">Как работать: пошаговая инструкция</a></li><li><a href="#pautina">Электронный бюджет в цепочке сопровождения</a></li><li><a href="#oshibki">Частые проблемы со входом и доступом</a></li><li><a href="#keys">Пример из практики</a></li><li><a href="#glossary">Глоссарий</a></li><li><a href="#tehpodderzhka">Техподдержка: телефон и почта</a></li><li><a href="#faq">Частые вопросы</a></li><li><a href="#karta-podsistem">Карта подсистем и адресов входа</a></li><li><a href="#putanica-adresov">Три частые путаницы с адресами</a></li><li><a href="#kakaya-podsistema">Какая подсистема нужна под задачу</a></li></ol>
     </details>
 
-    <div class="tldr">ГИИС «Электронный бюджет» — государственная система управления общественными финансами, которую ведёт Минфин и Федеральное казначейство по Постановлению Правительства РФ № 658. Для исполнителя контракта под казначейским сопровождением это основной рабочий контур: здесь открывают лицевой счёт, утверждают сведения об операциях и проводят платежи. Подключение идёт через ТОФК, вход — по квалифицированному сертификату ЭП.<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a></div>
+    <div class="tldr">Вход в «Электронный бюджет» для исполнителя контракта — по квалифицированному сертификату УЦ Федерального казначейства через точку входа eb.cert.roskazna.ru (компонент казначейского сопровождения); старый адрес lk.budget.gov.ru не работает с 27 ноября 2021 года, а budget.gov.ru — публичный портал без рабочих операций. Сама ГИИС «Электронный бюджет» — государственная система управления общественными финансами (Постановление Правительства РФ № 658), в которой исполнитель открывает лицевой счёт, утверждает сведения об операциях и проводит платежи; подключение идёт через ТОФК.</div>
 
     <section class="keyfacts grain" aria-label="Ключевые факты">
       <h2>Коротко о главном</h2>
@@ -299,8 +299,21 @@
     <div class="note"><b>Очерёдность.</b> Подпись (ФЗС) → настройка АРМ → заявка на подключение и открытие счёта → работа в личном кабинете. Перепрыгнуть шаг подписи или АРМ не получится: система просто не пустит.</div>
 
     <h2 id="vhod">Вход по сертификату</h2>
-    <p>Вход в «Электронный бюджет» выполняется по сертификату квалифицированной электронной подписи через личный кабинет соответствующей подсистемы. Коротко: настроенное рабочее место (криптопровайдер, ГОСТ-браузер, корневые сертификаты) → страница входа подсистемы → выбор сертификата → подтверждение. Пошаговая инструкция входа по сертификату со всеми настройками и разбором ошибок — в отдельном материале: <a href="https://kazna-gov.ru/blog/vhod-v-elektronnyy-byudzhet-po-sertifikatu" rel="noopener">вход в «Электронный бюджет» по сертификату</a>.</p>
-    <p>На этой странице фокус — работа исполнителя контракта после входа: подсистемы, полномочия, сведения об операциях и санкционирование платежей.</p>
+        <div class="answer reveal">
+      <p>Вход в «Электронный бюджет» выполняется по сертификату квалифицированной электронной подписи УЦ Федерального казначейства: на настроенном рабочем месте открывают точку входа компонента казначейского сопровождения eb.cert.roskazna.ru, выбирают сертификат организации и подтверждают вход; для защищённого контура и управления полномочиями используется ПОИБ СОБИ. Логина и пароля в привычном смысле нет — «паролем» служит сертификат.</p>
+    </div>
+    <h3 id="vhod-shagi">Пошагово: от рабочего места до кабинета</h3>
+    <ol>
+      <li><b>Рабочее место.</b> Криптопровайдер с поддержкой ГОСТ, плагин для браузера, корневые сертификаты УЦ ФК и Минцифры, для защищённого контура — «Континент TLS». Чек-лист — в статье о <a href="/baza-znaniy/nastroyka-arm-elektronnyy-byudzhet/">настройке АРМ для «Электронного бюджета»</a>.</li>
+      <li><b>Сертификат.</b> Действующий квалифицированный сертификат сотрудника, выданный УЦ ФК, с закрытым ключом на носителе; коммерческий сертификат ФНС или другого УЦ система не примет. Как получить — <a href="/baza-znaniy/sertifikat-ecp-kaznachejstvo/">сертификат и ЭЦП казначейства</a>.</li>
+      <li><b>Точка входа.</b> Открыть eb.cert.roskazna.ru — компонент казначейского сопровождения, где живут лицевой счёт, сведения об операциях, распоряжения и выписки. Закладки на lk.budget.gov.ru устарели: адрес прекратил работу для подсистемы учёта и отчётности 27 ноября 2021 года.</li>
+      <li><b>Выбор сертификата.</b> В окне браузера выбрать сертификат организации и подтвердить доступ к закрытому ключу; при первом входе система проверяет полномочия пользователя, заведённые в ПОИБ СОБИ.</li>
+      <li><b>Кабинет.</b> После входа — раздел лицевого счёта: сведения, распоряжения, выписки. Если полномочий не хватает, нужный раздел не отображается — это вопрос ролей, а не «сломанного входа»; как назначаются роли, разобрано в статье <a href="/baza-znaniy/poib-sobi-elektronnyy-byudzhet/">о ПОИБ и СОБИ</a>.</li>
+    </ol>
+    <h3 id="vhod-oshibki">Три причины, по которым вход не проходит</h3>
+    <p>Первая — старый адрес или закладка из инструкции 2020 года: страница просто не открывается. Вторая — не построена цепочка доверия: система пишет «сертификат не доверен», лечится установкой корневых сертификатов и списков отзыва. Третья — сертификат не от УЦ ФК или истёк: браузер не показывает его в списке либо показывает серым. Полный разбор с сообщениями об ошибках — в разделе <a href="#oshibki">«Частые проблемы со входом и доступом»</a>, контакты техподдержки — в разделе <a href="#tehpodderzhka">«Техподдержка: телефон и почта»</a>.</p>
+    <p>На этой странице дальше — работа исполнителя контракта после входа: подсистемы, полномочия, сведения об операциях и санкционирование платежей.</p>
+
 <h2 id="lk">Личный кабинет: что внутри</h2>
     <p>После входа исполнитель видит рабочий стол с доступными подсистемами. Ориентиры для первых недель:</p>
     <table>
@@ -550,7 +563,7 @@
         <li id="ref-7">Письмо Казначейства России от 13.02.2025 № 07-04-05/04-4105 об актуализации данных в подсистеме управления расходами (компонент казначейского сопровождения) ГИИС «Электронный бюджет» — контроль соответствия кодов УКО и КМИ в документе-основании, Сведениях (ОКУД 0501213) и распоряжениях с 01.04.2025 — <a href="https://www.garant.ru/products/ipo/prime/doc/411404481/" target="_blank" rel="noopener">garant.ru</a></li>
         <li id="ref-8">Казначейство России — «Техническая поддержка ГИС Электронного бюджета»: единый контакт-центр 8 (800) 30-10-777, support_eb@roskazna.ru (проверено 03.09.2026) — <a href="https://roskazna.gov.ru/gis/ehlektronnyj-byudzhet/tekhnicheskaya-podderzhka-gis-ehlektronnogo-byudzheta" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
        </ol>
-      <p class="refs__note">Материал актуален на 3 сентября 2026 года. Состав заявки на подключение, требования к рабочему месту и перечень полномочий уточняйте в действующих регламентах и памятке вашего ТОФК.</p>
+      <p class="refs__note">Материал актуален на 4 сентября 2026 года. Состав заявки на подключение, требования к рабочему месту и перечень полномочий уточняйте в действующих регламентах и памятке вашего ТОФК.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">
