@@ -3663,16 +3663,17 @@ body {
 
 /* === Выравнивание по ширине (владелец, 04.09.2026): длинный текст — justify + автопереносы (lang="ru"),
    последняя строка влево. Карточки, формы, таблицы, подписи и CTA остаются по левому краю —
-   на коротких строках justify даёт «реки» из пробелов. === */
-.content p,.content li,.content dd,.content .tldr,.content details p,.content blockquote,
-.v2-section p,.v2-section li,.v2-section dd,.legal p,.legal li,.privacy p,.privacy li{
+   на коротких строках justify даёт «реки» из пробелов. Префикс .v2 — чтобы перебить `.v2 article p{text-align:left}`. === */
+.v2 .content p,.v2 .content li,.v2 .content dd,.v2 .content .tldr,.v2 .content details p,.v2 .content blockquote,
+.v2 article p,.v2 article li,.v2 .v2-section p,.v2 .v2-section li,.v2 .v2-section dd,.v2 .legal p,.v2 .legal li,.v2 .privacy p,.v2 .privacy li{
   text-align:justify;text-align-last:left;hyphens:auto;-webkit-hyphens:auto;text-wrap:pretty}
-.content .card p,.content .card li,.content form *,.content .railform *,.content .kz-sub *,.content .svc-cta *,
-.content .kg-lead *,.content .kf,.content .kf *,.content .byline *,.content .share *,.content th,.content td,
-.content .toc *,.content .mtoc *,.content .related *,.content figcaption,.content .refs li,.content .refs__note,
-.content .success *,.content .eyebrow,.content .rail *,.content .author *,.content .trust *,.content .caption,
-.v2-section .v2-tariff *,.v2-section .v2-process-step *,.v2-section form *,.v2-section .card *,.v2-section th,
-.v2-section td,.v2-section [class*="__sub"],.v2-section [class*="__meta"],.v2-section [class*="__note"],
-.v2-section .kb-strip *,.v2-section .trust *,.v2-section .svc-cta *,.v2-section .rail-svc *,.v2-section .v2-cta *,
-.v2-section .v2-faq summary,.v2-section .v2-stat *,.v2-section figcaption{
+.v2 .content .card p,.v2 .content .card li,.v2 .content form *,.v2 .content .railform *,.v2 .content .kz-sub *,.v2 .content .svc-cta *,
+.v2 .content .kg-lead *,.v2 .content .kf,.v2 .content .kf *,.v2 .content .byline *,.v2 .content .share *,.v2 .content th,.v2 .content td,
+.v2 .content .toc *,.v2 .content .mtoc *,.v2 .content .related *,.v2 .content figcaption,.v2 .content .refs li,.v2 .content .refs__note,
+.v2 .content .success *,.v2 .content .eyebrow,.v2 .content .rail *,.v2 .content .author *,.v2 .content .trust *,.v2 .content .caption,
+.v2 article .card *,.v2 article form *,.v2 article th,.v2 article td,.v2 article figcaption,.v2 article .svc-cta *,.v2 article .kg-lead *,
+.v2 .v2-section .v2-tariff *,.v2 .v2-section .v2-process-step *,.v2 .v2-section form *,.v2 .v2-section .card *,.v2 .v2-section th,
+.v2 .v2-section td,.v2 .v2-section [class*="__sub"],.v2 .v2-section [class*="__meta"],.v2 .v2-section [class*="__note"],
+.v2 .v2-section .kb-strip *,.v2 .v2-section .trust *,.v2 .v2-section .svc-cta *,.v2 .v2-section .rail-svc *,.v2 .v2-section .v2-cta *,
+.v2 .v2-section .v2-faq summary,.v2 .v2-section .v2-stat *,.v2 .v2-section figcaption,.v2 .related *,.v2 .kz-sub *,.v2 .trust *,.v2 .v2-footer *{
   text-align:left;text-align-last:auto;hyphens:manual}
