@@ -393,7 +393,3 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 /* мини-навигатор (.mtr) прячется на «Что почитать ещё» и в подвале, чтобы не налезать */
 .mtr{transition:opacity .28s ease, visibility .28s ease}
 .mtr.mtr--tail{opacity:0;visibility:hidden;pointer-events:none}
-
-/* Выравнивание по ширине (04.09.2026): лид, answer и tldr тоже по ширине — правило выше держало их слева
-   (специфичность .content .answer p выше, чем у общего .content p в v2.css). */
-.v2 .content .answer,.v2 .content .answer p,.v2 .content p.answer,.v2 .content .lead-p,.v2 .tldr,.v2 article .answer p{text-align:justify;text-align-last:left;hyphens:auto;-webkit-hyphens:auto}
