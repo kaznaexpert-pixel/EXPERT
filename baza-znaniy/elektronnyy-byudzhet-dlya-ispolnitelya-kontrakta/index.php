@@ -992,7 +992,7 @@
   if(h){var u=function(){h.classList.toggle('is-scrolled',(window.scrollY||0)>12);};addEventListener('scroll',u,{passive:true});u();}
 })();
 </script>
-<link rel="stylesheet" href="/assets/svc-cta.css">
-<link rel="stylesheet" href="/assets/kg-lead.css"><script src="/assets/kg-lead.js" defer></script>
+<link rel="stylesheet" href="/assets/svc-cta.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/assets/svc-cta.css') ?>">
+<link rel="stylesheet" href="/assets/kg-lead.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/assets/kg-lead.css') ?>"><script src="/assets/kg-lead.js?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/assets/kg-lead.js') ?>" defer></script>
 </body>
 </html>
