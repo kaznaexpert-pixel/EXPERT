@@ -204,6 +204,10 @@
         <div class="kf"><div class="kf__n">Ст. 8.3, 8.4 № 275-ФЗ</div><div class="kf__t"><b>ГОЗ</b> — по гособоронзаказу режим отдельного счёта ограничивает списания — залог и кредитное обременение выручки практически исключены</div></div>
       </div>
     </section>
+    <!-- svc-cta:top -->
+    <div class="svc-cta svc-cta--top" role="complementary" aria-label="Услуга КазнаЭксперт"><div class="svc-cta__body"><span class="svc-cta__eyebrow">Сопровождение контракта</span><p class="svc-cta__title">Возьмём казначейское сопровождение контракта на себя</p><p class="svc-cta__text">Счёт в ТОФК, сведения об операциях, каждый платёж, ИГК в документах и раздельный учёт — так, чтобы казначейство не вернуло ни одного документа. Без лимита на число операций.</p><span class="svc-cta__price">65 000 ₽ постоплата · 105 000 ₽/мес аванс и ГОЗ</span></div><a class="svc-cta__btn" href="/uslugi/kaznacheyskoe-soprovozhdenie/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'kaznacheyskoe-soprovozhdenie',pos:'top'})}catch(e){}">Обсудить контракт →</a></div>
+    <!-- /svc-cta:top -->
+
 
     <div class="takeaways" style="background:rgba(139,111,71,.06);border-left:3px solid var(--sepia,#8B6F47);margin:0 0 22px">
       <p style="margin:0"><b>Важно.</b> Это справочный материал, а не финансовая, инвестиционная или юридическая рекомендация. Решение о кредите и залоге принимают банк и заёмщик исходя из конкретных условий; перед сделкой сверяйте действующие нормы и консультируйтесь со специалистом.</p>
@@ -321,7 +325,11 @@
       </div>
     </div>
 
-    <div class="refs">
+    
+    <!-- svc-cta:end -->
+    <div class="svc-cta svc-cta--end" role="complementary" aria-label="Услуги КазнаЭксперт"><div class="svc-cta__card"><span class="svc-cta__eyebrow">Сопровождение контракта</span><p class="svc-cta__title">Возьмём казначейское сопровождение контракта на себя</p><p class="svc-cta__text">Счёт в ТОФК, сведения об операциях, каждый платёж, ИГК в документах и раздельный учёт — так, чтобы казначейство не вернуло ни одного документа. Без лимита на число операций.</p><span class="svc-cta__price">65 000 ₽ постоплата · 105 000 ₽/мес аванс и ГОЗ</span><a class="svc-cta__btn" href="/uslugi/kaznacheyskoe-soprovozhdenie/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'kaznacheyskoe-soprovozhdenie',pos:'end'})}catch(e){}">Обсудить контракт →</a></div><div class="svc-cta__card svc-cta__card--edu"><span class="svc-cta__eyebrow">Топ-услуга · обучение</span><p class="svc-cta__title">Научим вести казначейское сопровождение самостоятельно</p><p class="svc-cta__text">9 академических часов один на один с экспертом Федерального казначейства — на ваших контрактах: счёт, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса вы ведёте контракт сами, без отказов.</p><span class="svc-cta__price">150 000 ₽ · индивидуально</span><a class="svc-cta__btn" href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'obuchenie',pos:'end'})}catch(e){}">Записаться на обучение →</a></div></div>
+    <!-- /svc-cta:end -->
+<div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
         <li id="ref-1">Гражданский кодекс РФ, ст. 334 (понятие залога), ст. 358.1 (залог обязательственных прав, в том числе будущих), ч. 7 ст. 448 (ограничение прав победителя торгов). <a href="https://www.consultant.ru/document/cons_doc_LAW_5142/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
@@ -747,5 +755,7 @@
   if(h){var u=function(){h.classList.toggle('is-scrolled',(window.scrollY||0)>12);};addEventListener('scroll',u,{passive:true});u();}
 })();
 </script>
+<link rel="stylesheet" href="/assets/svc-cta.css">
+<link rel="stylesheet" href="/assets/kg-lead.css"><script src="/assets/kg-lead.js" defer></script>
 </body>
 </html>

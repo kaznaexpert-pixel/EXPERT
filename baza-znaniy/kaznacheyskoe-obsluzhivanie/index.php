@@ -204,6 +204,10 @@
         <div class="kf"><div class="kf__n">Не путать</div><div class="kf__t"><b>Разный смысл</b> — Обслуживание есть всегда, где идут бюджетные расчёты; сопровождение включается только для целевых средств по условию контракта</div></div>
       </div>
     </section>
+    <!-- svc-cta:top -->
+    <div class="svc-cta svc-cta--top" role="complementary" aria-label="Услуга КазнаЭксперт"><div class="svc-cta__body"><span class="svc-cta__eyebrow">Сопровождение контракта</span><p class="svc-cta__title">Возьмём казначейское сопровождение контракта на себя</p><p class="svc-cta__text">Счёт в ТОФК, сведения об операциях, каждый платёж, ИГК в документах и раздельный учёт — так, чтобы казначейство не вернуло ни одного документа. Без лимита на число операций.</p><span class="svc-cta__price">65 000 ₽ постоплата · 105 000 ₽/мес аванс и ГОЗ</span></div><a class="svc-cta__btn" href="/uslugi/kaznacheyskoe-soprovozhdenie/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'kaznacheyskoe-soprovozhdenie',pos:'top'})}catch(e){}">Обсудить контракт →</a></div>
+    <!-- /svc-cta:top -->
+
 
     <h2 id="korotkiy-otvet">Короткий ответ: это разные вещи</h2>
     <p>Казначейское обслуживание и казначейское сопровождение путают из-за похожих слов, но это разные понятия. <b>Обслуживание</b> — это проведение и учёт операций по казначейским счетам, то есть сама инфраструктура расчётов. <b>Сопровождение</b> — это режим контроля за целевым использованием конкретных средств по контракту или субсидии.</p>
@@ -394,7 +398,11 @@
       </div>
     </div>
 
-    <div class="refs">
+    
+    <!-- svc-cta:end -->
+    <div class="svc-cta svc-cta--end" role="complementary" aria-label="Услуги КазнаЭксперт"><div class="svc-cta__card"><span class="svc-cta__eyebrow">Сопровождение контракта</span><p class="svc-cta__title">Возьмём казначейское сопровождение контракта на себя</p><p class="svc-cta__text">Счёт в ТОФК, сведения об операциях, каждый платёж, ИГК в документах и раздельный учёт — так, чтобы казначейство не вернуло ни одного документа. Без лимита на число операций.</p><span class="svc-cta__price">65 000 ₽ постоплата · 105 000 ₽/мес аванс и ГОЗ</span><a class="svc-cta__btn" href="/uslugi/kaznacheyskoe-soprovozhdenie/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'kaznacheyskoe-soprovozhdenie',pos:'end'})}catch(e){}">Обсудить контракт →</a></div><div class="svc-cta__card svc-cta__card--edu"><span class="svc-cta__eyebrow">Топ-услуга · обучение</span><p class="svc-cta__title">Научим вести казначейское сопровождение самостоятельно</p><p class="svc-cta__text">9 академических часов один на один с экспертом Федерального казначейства — на ваших контрактах: счёт, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса вы ведёте контракт сами, без отказов.</p><span class="svc-cta__price">150 000 ₽ · индивидуально</span><a class="svc-cta__btn" href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'obuchenie',pos:'end'})}catch(e){}">Записаться на обучение →</a></div></div>
+    <!-- /svc-cta:end -->
+<div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
         <li id="ref-1">Бюджетный кодекс РФ, статья 242.19-1 «Казначейское обслуживание операций со средствами участников казначейского сопровождения» — <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/3ff4c08ea40ac0bb2ae3321f0b358f86bf5ab639/" target="_blank" rel="noopener">consultant.ru</a></li>
@@ -808,5 +816,7 @@ var tail=document.querySelector('.related')||document.querySelector('.v2-footer'
 function upd(){m.classList.toggle('mtr--tail', tail.getBoundingClientRect().top < window.innerHeight*0.65);}
 var t;window.addEventListener('scroll',function(){if(t)return;t=setTimeout(function(){t=null;upd();},100);},{passive:true});
 window.addEventListener('resize',upd,{passive:true});upd();})();</script>
+<link rel="stylesheet" href="/assets/svc-cta.css">
+<link rel="stylesheet" href="/assets/kg-lead.css"><script src="/assets/kg-lead.js" defer></script>
 </body>
 </html>

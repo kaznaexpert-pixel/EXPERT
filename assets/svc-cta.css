@@ -1,0 +1,33 @@
+/* svc-cta — переход из статьи базы знаний в услугу. Два места: после первого ответа (--top)
+   и в конце статьи перед источниками (--end, две карточки: релевантная услуга + обучение).
+   Палитра фиксированная (тёмный фон сайта + золото), поэтому одинаково читается в светлой
+   и тёмной теме. Никакого JS: обычные ссылки; цель Метрики — inline onclick на ссылке.
+   Мобильная сетка — один столбец, без горизонтального скролла на 375px. */
+.svc-cta{box-sizing:border-box;position:relative;margin:34px 0;padding:24px 26px;border-radius:16px;background:#141310;color:#F4F1EB;font-family:'Inter',system-ui,sans-serif;overflow:hidden}
+.svc-cta *{box-sizing:border-box}
+.svc-cta::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:#C9A24B}
+.svc-cta__eyebrow{display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#C9A24B;font-weight:600;margin:0 0 8px}
+.svc-cta__title{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:clamp(1.15rem,1vw+.95rem,1.45rem);line-height:1.25;letter-spacing:-.01em;margin:0 0 8px;color:#F4F1EB}
+.svc-cta__text{font-size:15px;line-height:1.55;color:rgba(244,241,235,.72);margin:0}
+.svc-cta__text b{color:#F4F1EB;font-weight:600}
+.svc-cta__price{display:inline-block;margin-top:10px;font-size:14px;color:#C9A24B;font-weight:600;letter-spacing:.01em}
+.svc-cta__btn{display:inline-flex;align-items:center;gap:8px;padding:12px 20px;border-radius:10px;background:#C9A24B;color:#141310;font-weight:600;font-size:15px;text-decoration:none;white-space:nowrap;transition:background .15s,transform .15s}
+.svc-cta__btn:hover{background:#D9B45E;transform:translateY(-1px)}
+.svc-cta__link{display:inline-block;margin-top:12px;font-size:14px;color:#C9A24B;text-decoration:underline;text-underline-offset:3px}
+/* верхний блок: текст слева, кнопка справа */
+.svc-cta--top{display:grid;grid-template-columns:1fr auto;gap:22px;align-items:center}
+/* нижний блок: две карточки */
+.svc-cta--end{padding:0;background:transparent;overflow:visible;display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.svc-cta--end::before{display:none}
+.svc-cta__card{position:relative;padding:24px 26px;border-radius:16px;background:#141310;overflow:hidden;display:flex;flex-direction:column;gap:6px}
+.svc-cta__card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:#C9A24B}
+.svc-cta__card--edu{background:linear-gradient(135deg,#1c1a15,#141310)}
+.svc-cta__card .svc-cta__btn{margin-top:14px;align-self:flex-start}
+@media (max-width:760px){
+  .svc-cta--top{grid-template-columns:1fr;gap:16px}
+  .svc-cta--top .svc-cta__btn{width:100%;justify-content:center}
+  .svc-cta--end{grid-template-columns:1fr}
+  .svc-cta,.svc-cta__card{padding:20px 18px}
+  .svc-cta__card .svc-cta__btn{align-self:stretch;justify-content:center}
+}
+@media print{.svc-cta{display:none}}

@@ -225,6 +225,10 @@
         <div class="kf"><div class="kf__n">ст. 333</div><div class="kf__t"><b>Снижение</b> несоразмерной неустойки судом (ГК РФ)</div></div>
       </div>
     </section>
+    <!-- svc-cta:top -->
+    <div class="svc-cta svc-cta--top" role="complementary" aria-label="Услуга КазнаЭксперт"><div class="svc-cta__body"><span class="svc-cta__eyebrow">Когда всё пошло не так</span><p class="svc-cta__title">Разблокируем платежи и вернём контракт в график</p><p class="svc-cta__text">Возвраты распоряжений, неутверждённые сведения, приостановка операций, арест счёта — находим причину, готовим документы и доводим платежи до исполнения.</p><span class="svc-cta__price">экспресс-аудит 35 000 ₽, восстановление 99 000 ₽</span></div><a class="svc-cta__btn" href="/uslugi/spasenie-kontrakta/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'spasenie-kontrakta',pos:'top'})}catch(e){}">Спасти контракт →</a></div>
+    <!-- /svc-cta:top -->
+
 
     <p class="answer lead-p">Просрочка по госконтракту почти всегда стоит денег — заказчик обязан начислить неустойку, как только нарушен срок. Но «штраф» и «пени» в 44-ФЗ — это разные суммы с разными правилами расчёта, и их легко перепутать. Ниже — калькулятор пеней и подробный разбор: как формируется база, какие проценты установлены и в каких случаях неустойку можно законно уменьшить.</p>
 
@@ -539,7 +543,11 @@
     <p data-ctx="auto-ctx:srok-oplaty-po-kontraktu-44-fz">Неустойка возникает не только у поставщика: за нарушение <a href="/baza-znaniy/srok-oplaty-po-kontraktu-44-fz/">срока оплаты по контракту</a> заказчик платит пеню 1/300 ключевой ставки за каждый день, а его должностное лицо отвечает по части 8 статьи 7.30.2 КоАП: штраф 1 процент цены контракта, этапа или предусмотренного контрактом аванса, но не менее 10 и не более 50 тысяч рублей. Прежняя статья 7.32.5 КоАП утратила силу с 1 марта 2025 года.</p>
     <p data-ctx="auto-ctx:ispolnitelnyy-list-v-kaznachejstvo">Если заказчик не платит и после претензии с расчётом неустойки, долг взыскивается через суд с предъявлением листа не приставам, а в казначейство — маршрут разобран в статье об <a href="/baza-znaniy/ispolnitelnyy-list-v-kaznachejstvo/">исполнительном листе в казначейство</a>.</p>
     <p data-ctx="auto-ctx:uderzhanie-neustoyki-pri-kaznacheyskom-soprovozhdenii">Рассчитать неустойку — половина дела; вторая половина в том, как заказчик её получает: удержанием из обеспечения или зачётом из оплаты. Эти механизмы и их особенности на лицевом счёте разобраны в статье про <a href="/baza-znaniy/uderzhanie-neustoyki-pri-kaznacheyskom-soprovozhdenii/">удержание и зачёт неустойки при казначейском сопровождении</a>.</p>
-    <div class="author">
+    
+    <!-- svc-cta:end -->
+    <div class="svc-cta svc-cta--end" role="complementary" aria-label="Услуги КазнаЭксперт"><div class="svc-cta__card"><span class="svc-cta__eyebrow">Когда всё пошло не так</span><p class="svc-cta__title">Разблокируем платежи и вернём контракт в график</p><p class="svc-cta__text">Возвраты распоряжений, неутверждённые сведения, приостановка операций, арест счёта — находим причину, готовим документы и доводим платежи до исполнения.</p><span class="svc-cta__price">экспресс-аудит 35 000 ₽, восстановление 99 000 ₽</span><a class="svc-cta__btn" href="/uslugi/spasenie-kontrakta/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'spasenie-kontrakta',pos:'end'})}catch(e){}">Спасти контракт →</a></div><div class="svc-cta__card svc-cta__card--edu"><span class="svc-cta__eyebrow">Топ-услуга · обучение</span><p class="svc-cta__title">Научим вести казначейское сопровождение самостоятельно</p><p class="svc-cta__text">9 академических часов один на один с экспертом Федерального казначейства — на ваших контрактах: счёт, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса вы ведёте контракт сами, без отказов.</p><span class="svc-cta__price">150 000 ₽ · индивидуально</span><a class="svc-cta__btn" href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'obuchenie',pos:'end'})}catch(e){}">Записаться на обучение →</a></div></div>
+    <!-- /svc-cta:end -->
+<div class="author">
       <div class="author__av">ЯМ</div>
       <div>
         <div class="author__name">Ярослав Михайлов</div>
@@ -1045,5 +1053,7 @@ var tail=document.querySelector('.related')||document.querySelector('.v2-footer'
 function upd(){m.classList.toggle('mtr--tail', tail.getBoundingClientRect().top < window.innerHeight*0.65);}
 var t;window.addEventListener('scroll',function(){if(t)return;t=setTimeout(function(){t=null;upd();},100);},{passive:true});
 window.addEventListener('resize',upd,{passive:true});upd();})();</script>
+<link rel="stylesheet" href="/assets/svc-cta.css">
+<link rel="stylesheet" href="/assets/kg-lead.css"><script src="/assets/kg-lead.js" defer></script>
 </body>
 </html>

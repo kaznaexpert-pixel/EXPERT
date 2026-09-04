@@ -204,6 +204,10 @@
         <div class="kf"><div class="kf__n">12 мес.</div><div class="kf__t"><b>Срок действия</b> сертификата (продлевается заранее)</div></div>
       </div>
     </section>
+    <!-- svc-cta:top -->
+    <div class="svc-cta svc-cta--top" role="complementary" aria-label="Услуга КазнаЭксперт"><div class="svc-cta__body"><span class="svc-cta__eyebrow">Топ-услуга · обучение</span><p class="svc-cta__title">Научим вести казначейское сопровождение самостоятельно</p><p class="svc-cta__text">9 академических часов один на один с экспертом Федерального казначейства — на ваших контрактах: счёт, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса вы ведёте контракт сами, без отказов.</p><span class="svc-cta__price">150 000 ₽ · индивидуально</span></div><a class="svc-cta__btn" href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'obuchenie',pos:'top'})}catch(e){}">Записаться на обучение →</a></div>
+    <!-- /svc-cta:top -->
+
 
     <p class="answer lead-p">Без действующей подписи нельзя ни открыть казначейский счёт, ни провести платёж через «Электронный бюджет» — поэтому сертификат УЦ Федерального казначейства часто оказывается самым первым и самым непонятным шагом для подрядчика по госконтракту. Разберём по порядку: кому нужна именно эта подпись, чем она отличается от подписи ФНС, какие документы подготовить и как пройти получение через ФЗС без возвратов. Пошаговая подача первичного запроса разобрана в материале про <a href="/baza-znaniy/portal-zayavitelya-kaznachejstva/">портал заявителя ФЗС</a>.</p>
     <p class="answer">Выпуск ЭЦП казначейства сейчас проходит онлайн: заявка на сертификат подаётся через <a href="/baza-znaniy/portal-zayavitelya-kaznachejstva/">ФЗС</a>, а личный визит в территориальный орган нужен только на первичную идентификацию. Эта статья — о первичном получении. Если подпись уже есть и срок действия подходит к концу, смотрите отдельный разбор — <a href="/baza-znaniy/kak-prodlit-i-otozvat-ecp-kaznachejstva/">как продлить или отозвать сертификат ЭЦП казначейства</a>.</p>
@@ -519,7 +523,11 @@
     <p>Практический минимум для организации с сопровождаемым контрактом — два действующих сертификата: у руководителя и у того, кто ведёт расчёты изо дня в день. Логика простая: отпуск, больничный или командировка одного подписанта не должны останавливать платежи по контракту. Состав подписантов при этом должен совпадать с тем, что заявлено в <a href="/baza-znaniy/kartochka-obrazcov-podpisey-kaznachejstvo/">карточке образцов подписей</a>, иначе документы вернут ещё на входном контроле.</p>
     <p>И отдельно — про срок. Подпись действительна, пока действителен сертификат: по статье 11 закона № 63-ФЗ квалифицированная подпись признаётся действительной, если сертификат действовал на момент подписания документа (либо на день проверки, когда момент подписания не определён) и срок действия ключа не истёк. Поэтому дату окончания сертификата стоит держать в календаре наравне со сроками по контракту, а перевыпуск начинать заранее — порядок описан в материале про <a href="/baza-znaniy/kak-prodlit-i-otozvat-ecp-kaznachejstva/">продление и отзыв подписи</a>.</p>
 
-    <div class="author">
+    
+    <!-- svc-cta:end -->
+    <div class="svc-cta svc-cta--end" role="complementary" aria-label="Услуги КазнаЭксперт"><div class="svc-cta__card svc-cta__card--edu"><span class="svc-cta__eyebrow">Топ-услуга · обучение</span><p class="svc-cta__title">Научим вести казначейское сопровождение самостоятельно</p><p class="svc-cta__text">9 академических часов один на один с экспертом Федерального казначейства — на ваших контрактах: счёт, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса вы ведёте контракт сами, без отказов.</p><span class="svc-cta__price">150 000 ₽ · индивидуально</span><a class="svc-cta__btn" href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'obuchenie',pos:'end'})}catch(e){}">Записаться на обучение →</a></div><div class="svc-cta__card"><span class="svc-cta__eyebrow">Сопровождение контракта</span><p class="svc-cta__title">Возьмём казначейское сопровождение контракта на себя</p><p class="svc-cta__text">Счёт в ТОФК, сведения об операциях, каждый платёж, ИГК в документах и раздельный учёт — так, чтобы казначейство не вернуло ни одного документа. Без лимита на число операций.</p><span class="svc-cta__price">65 000 ₽ постоплата · 105 000 ₽/мес аванс и ГОЗ</span><a class="svc-cta__btn" href="/uslugi/kaznacheyskoe-soprovozhdenie/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'kaznacheyskoe-soprovozhdenie',pos:'end'})}catch(e){}">Обсудить контракт →</a></div></div>
+    <!-- /svc-cta:end -->
+<div class="author">
       <div class="author__av">ЯМ</div>
       <div>
         <div class="author__name">Ярослав Михайлов</div>
@@ -1000,5 +1008,7 @@ var tail=document.querySelector('.related')||document.querySelector('.v2-footer'
 function upd(){m.classList.toggle('mtr--tail', tail.getBoundingClientRect().top < window.innerHeight*0.65);}
 var t;window.addEventListener('scroll',function(){if(t)return;t=setTimeout(function(){t=null;upd();},100);},{passive:true});
 window.addEventListener('resize',upd,{passive:true});upd();})();</script>
+<link rel="stylesheet" href="/assets/svc-cta.css">
+<link rel="stylesheet" href="/assets/kg-lead.css"><script src="/assets/kg-lead.js" defer></script>
 </body>
 </html>

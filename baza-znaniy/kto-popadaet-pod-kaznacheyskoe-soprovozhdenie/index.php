@@ -182,6 +182,10 @@
         <div class="kf"><div class="kf__n">ТОФК</div><div class="kf__t"><b>Кто ведёт</b> — территориальный орган Федерального казначейства</div></div>
       </div>
     </section>
+    <!-- svc-cta:top -->
+    <div class="svc-cta svc-cta--top" role="complementary" aria-label="Услуга КазнаЭксперт"><div class="svc-cta__body"><span class="svc-cta__eyebrow">Сопровождение контракта</span><p class="svc-cta__title">Возьмём казначейское сопровождение контракта на себя</p><p class="svc-cta__text">Счёт в ТОФК, сведения об операциях, каждый платёж, ИГК в документах и раздельный учёт — так, чтобы казначейство не вернуло ни одного документа. Без лимита на число операций.</p><span class="svc-cta__price">65 000 ₽ постоплата · 105 000 ₽/мес аванс и ГОЗ</span></div><a class="svc-cta__btn" href="/uslugi/kaznacheyskoe-soprovozhdenie/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'kaznacheyskoe-soprovozhdenie',pos:'top'})}catch(e){}">Обсудить контракт →</a></div>
+    <!-- /svc-cta:top -->
+
 
     <section class="ks-quiz" id="quiz" aria-labelledby="ksQuizTitle">
       <style>
@@ -483,7 +487,11 @@
     <p data-ctx="auto-ctx:stroitelnyy-kontrol-pri-kaznacheyskom-soprovozhdenii">Под сопровождение попадает не только основной строительный контракт, но и отдельный договор технического надзора, если он финансируется из бюджета и превышает порог, — об этом статья про <a href="/baza-znaniy/stroitelnyy-kontrol-pri-kaznacheyskom-soprovozhdenii/">строительный контроль при казначейском сопровождении</a>.</p>
     <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-it-kontrakta">У отраслевых контрактов своя специфика прохождения казначейского контура: как исполнителю платить за лицензии, облако и труд разработчиков и сдавать этапы через ЕИС, разобрано в статье про <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-it-kontrakta/">казначейское сопровождение IT-контракта</a>.</p>
     <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-nacionalnyh-proektov">Отдельная развилка — контракты, финансируемые национальными проектами: маршрут денег от федерального бюджета через межбюджетный трансферт региону до лицевого счёта исполнителя разобран в статье про <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-nacionalnyh-proektov/">казначейское сопровождение средств национальных проектов</a>.</p>
-    <div class="author">
+    
+    <!-- svc-cta:end -->
+    <div class="svc-cta svc-cta--end" role="complementary" aria-label="Услуги КазнаЭксперт"><div class="svc-cta__card"><span class="svc-cta__eyebrow">Сопровождение контракта</span><p class="svc-cta__title">Возьмём казначейское сопровождение контракта на себя</p><p class="svc-cta__text">Счёт в ТОФК, сведения об операциях, каждый платёж, ИГК в документах и раздельный учёт — так, чтобы казначейство не вернуло ни одного документа. Без лимита на число операций.</p><span class="svc-cta__price">65 000 ₽ постоплата · 105 000 ₽/мес аванс и ГОЗ</span><a class="svc-cta__btn" href="/uslugi/kaznacheyskoe-soprovozhdenie/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'kaznacheyskoe-soprovozhdenie',pos:'end'})}catch(e){}">Обсудить контракт →</a></div><div class="svc-cta__card svc-cta__card--edu"><span class="svc-cta__eyebrow">Топ-услуга · обучение</span><p class="svc-cta__title">Научим вести казначейское сопровождение самостоятельно</p><p class="svc-cta__text">9 академических часов один на один с экспертом Федерального казначейства — на ваших контрактах: счёт, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса вы ведёте контракт сами, без отказов.</p><span class="svc-cta__price">150 000 ₽ · индивидуально</span><a class="svc-cta__btn" href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'obuchenie',pos:'end'})}catch(e){}">Записаться на обучение →</a></div></div>
+    <!-- /svc-cta:end -->
+<div class="author">
       <div class="author__av">ЯМ</div>
       <div>
         <div class="author__name">Ярослав Михайлов</div>
@@ -968,5 +976,7 @@ var tail=document.querySelector('.related')||document.querySelector('.v2-footer'
 function upd(){m.classList.toggle('mtr--tail', tail.getBoundingClientRect().top < window.innerHeight*0.65);}
 var t;window.addEventListener('scroll',function(){if(t)return;t=setTimeout(function(){t=null;upd();},100);},{passive:true});
 window.addEventListener('resize',upd,{passive:true});upd();})();</script>
+<link rel="stylesheet" href="/assets/svc-cta.css">
+<link rel="stylesheet" href="/assets/kg-lead.css"><script src="/assets/kg-lead.js" defer></script>
 </body>
 </html>

@@ -188,6 +188,10 @@
         <div class="kf"><div class="kf__n">Целевое</div><div class="kf__t"><b>Расход</b> — только под санкционирование и по назначению</div></div>
       </div>
     </section>
+    <!-- svc-cta:top -->
+    <div class="svc-cta svc-cta--top" role="complementary" aria-label="Услуга КазнаЭксперт"><div class="svc-cta__body"><span class="svc-cta__eyebrow">Контракт с авансом</span><p class="svc-cta__title">Проведём аванс через лицевой счёт без возвратов</p><p class="svc-cta__text">Сведения под структуру аванса, санкционирование каждого платежа, раздельный учёт и отчёт заказчику — эксперт ведёт контракт от зачисления до закрытия.</p><span class="svc-cta__price">105 000 ₽/мес</span></div><a class="svc-cta__btn" href="/uslugi/soprovozhdenie-avans/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'soprovozhdenie-avans',pos:'top'})}catch(e){}">Обсудить контракт →</a></div>
+    <!-- /svc-cta:top -->
+
 
     <p class="answer lead-p">Аванс под казначейским сопровождением живёт по другим правилам, чем обычная предоплата. Деньги поступают на лицевой счёт в казначействе, и распоряжаться ими свободно нельзя: каждый платёж с этого счёта проходит санкционирование, а заказчик и казначейство следят за целевым расходованием. Ниже — когда аванс вообще попадает под сопровождение, в каком размере его можно получить, какое нужно обеспечение и как авансовые средства проходят путь от зачисления до списания.</p>
 
@@ -464,7 +468,11 @@
     <p data-ctx="auto-ctx:vozvrat-avansa-po-goskontraktu">Обратная сторона авансирования — <a href="/baza-znaniy/vozvrat-avansa-po-goskontraktu/">возврат неотработанного аванса</a>: если объём не выполнен или контракт прекращён, неиспользованную часть нужно вернуть заказчику.</p>
     <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-stroitelnyh-kontraktov">В строительстве аванс чаще всего нужен на закупку материалов, и с 2026 года для него действует специальное правило — перечисление по перечню из проектной документации: как это работает, показано в материале про <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-stroitelnyh-kontraktov/">казначейское сопровождение строительных контрактов</a>.</p>
     <p data-ctx="auto-ctx:avans-na-stroitelnye-materialy-pri-ks">В строительстве аванс чаще всего нужен на материалы, и для него с 2026 года действует отдельное правило — перечисление поставщику по перечню из проектной документации: подробности — в статье про <a href="/baza-znaniy/avans-na-stroitelnye-materialy-pri-ks/">аванс на строительные материалы при казначейском сопровождении</a>.</p>
-    <div class="author">
+    
+    <!-- svc-cta:end -->
+    <div class="svc-cta svc-cta--end" role="complementary" aria-label="Услуги КазнаЭксперт"><div class="svc-cta__card"><span class="svc-cta__eyebrow">Контракт с авансом</span><p class="svc-cta__title">Проведём аванс через лицевой счёт без возвратов</p><p class="svc-cta__text">Сведения под структуру аванса, санкционирование каждого платежа, раздельный учёт и отчёт заказчику — эксперт ведёт контракт от зачисления до закрытия.</p><span class="svc-cta__price">105 000 ₽/мес</span><a class="svc-cta__btn" href="/uslugi/soprovozhdenie-avans/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'soprovozhdenie-avans',pos:'end'})}catch(e){}">Обсудить контракт →</a></div><div class="svc-cta__card svc-cta__card--edu"><span class="svc-cta__eyebrow">Топ-услуга · обучение</span><p class="svc-cta__title">Научим вести казначейское сопровождение самостоятельно</p><p class="svc-cta__text">9 академических часов один на один с экспертом Федерального казначейства — на ваших контрактах: счёт, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса вы ведёте контракт сами, без отказов.</p><span class="svc-cta__price">150 000 ₽ · индивидуально</span><a class="svc-cta__btn" href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'obuchenie',pos:'end'})}catch(e){}">Записаться на обучение →</a></div></div>
+    <!-- /svc-cta:end -->
+<div class="author">
       <div class="author__av">ЯМ</div>
       <div>
         <div class="author__name">Ярослав Михайлов</div>
@@ -940,5 +948,7 @@ var tail=document.querySelector('.related')||document.querySelector('.v2-footer'
 function upd(){m.classList.toggle('mtr--tail', tail.getBoundingClientRect().top < window.innerHeight*0.65);}
 var t;window.addEventListener('scroll',function(){if(t)return;t=setTimeout(function(){t=null;upd();},100);},{passive:true});
 window.addEventListener('resize',upd,{passive:true});upd();})();</script>
+<link rel="stylesheet" href="/assets/svc-cta.css">
+<link rel="stylesheet" href="/assets/kg-lead.css"><script src="/assets/kg-lead.js" defer></script>
 </body>
 </html>

@@ -204,6 +204,10 @@
         <div class="kf"><div class="kf__n">Смета → оплата</div><div class="kf__t"><b>Сопровождение</b> — Смета задаёт цену контракта, перечень материалов для аванса и величины, с которыми казначейство сверяет оплату по КС-2 и КС-3</div></div>
       </div>
     </section>
+    <!-- svc-cta:top -->
+    <div class="svc-cta svc-cta--top" role="complementary" aria-label="Услуга КазнаЭксперт"><div class="svc-cta__body"><span class="svc-cta__eyebrow">Второе мнение</span><p class="svc-cta__title">Аудит казначейского сопровождения: найдём ошибки до проверки</p><p class="svc-cta__text">Проверяем сведения, платежи, коды, раздельный учёт и документы по контракту — с перечнем нарушений и планом исправления.</p><span class="svc-cta__price">160 000 ₽</span></div><a class="svc-cta__btn" href="/uslugi/audit-kaznacheyskogo-soprovozhdeniya/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'audit-kaznacheyskogo-soprovozhdeniya',pos:'top'})}catch(e){}">Заказать аудит →</a></div>
+    <!-- /svc-cta:top -->
+
 
     <h2 id="sut">Коротко: смета, достоверность и сопровождение</h2>
     <p>Смета отвечает на главный денежный вопрос стройки — сколько и за что платить. Для частного заказчика это внутренний расчёт, а для стройки за счёт бюджета — строго регламентированный документ: его считают по государственным нормативам, проверяют в экспертизе и потом сверяют с ним каждый платёж. Казначейское сопровождение встроено именно в эту логику: оно контролирует, чтобы целевые средства уходили ровно на то и в тех суммах, что заложены в проверенной смете.</p>
@@ -321,7 +325,11 @@
       </div>
     </div>
 
-    <div class="refs">
+    
+    <!-- svc-cta:end -->
+    <div class="svc-cta svc-cta--end" role="complementary" aria-label="Услуги КазнаЭксперт"><div class="svc-cta__card"><span class="svc-cta__eyebrow">Второе мнение</span><p class="svc-cta__title">Аудит казначейского сопровождения: найдём ошибки до проверки</p><p class="svc-cta__text">Проверяем сведения, платежи, коды, раздельный учёт и документы по контракту — с перечнем нарушений и планом исправления.</p><span class="svc-cta__price">160 000 ₽</span><a class="svc-cta__btn" href="/uslugi/audit-kaznacheyskogo-soprovozhdeniya/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'audit-kaznacheyskogo-soprovozhdeniya',pos:'end'})}catch(e){}">Заказать аудит →</a></div><div class="svc-cta__card svc-cta__card--edu"><span class="svc-cta__eyebrow">Топ-услуга · обучение</span><p class="svc-cta__title">Научим вести казначейское сопровождение самостоятельно</p><p class="svc-cta__text">9 академических часов один на один с экспертом Федерального казначейства — на ваших контрактах: счёт, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса вы ведёте контракт сами, без отказов.</p><span class="svc-cta__price">150 000 ₽ · индивидуально</span><a class="svc-cta__btn" href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'obuchenie',pos:'end'})}catch(e){}">Записаться на обучение →</a></div></div>
+    <!-- /svc-cta:end -->
+<div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
         <li id="ref-1">Градостроительный кодекс РФ, ст. 8.3 (введена Федеральным законом от 03.07.2016 № 369-ФЗ) — ценообразование и сметное нормирование; определение сметной стоимости строек с бюджетным финансированием по сметным нормативам и сметным ценам строительных ресурсов.</li>
@@ -749,5 +757,7 @@ var tail=document.querySelector('.related')||document.querySelector('.v2-footer'
 function upd(){m.classList.toggle('mtr--tail', tail.getBoundingClientRect().top < window.innerHeight*0.65);}
 var t;window.addEventListener('scroll',function(){if(t)return;t=setTimeout(function(){t=null;upd();},100);},{passive:true});
 window.addEventListener('resize',upd,{passive:true});upd();})();</script>
+<link rel="stylesheet" href="/assets/svc-cta.css">
+<link rel="stylesheet" href="/assets/kg-lead.css"><script src="/assets/kg-lead.js" defer></script>
 </body>
 </html>

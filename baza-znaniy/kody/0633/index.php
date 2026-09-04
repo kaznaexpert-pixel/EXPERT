@@ -167,6 +167,10 @@
     </div>
 
     <div class="tldr">Код <b>0633</b> «Доходы по договорам факторинга» — направление расходования целевых средств по Приложению 3 к Приказу Минфина № 214н. Выплаты за счёт доходов, поступивших как вознаграждение по договорам факторинга.</div>
+    <!-- svc-cta:top -->
+    <div class="svc-cta svc-cta--top" role="complementary" aria-label="Услуга КазнаЭксперт"><div class="svc-cta__body"><span class="svc-cta__eyebrow">Топ-услуга · обучение</span><p class="svc-cta__title">Научим вести казначейское сопровождение самостоятельно</p><p class="svc-cta__text">9 академических часов один на один с экспертом Федерального казначейства — на ваших контрактах: счёт, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса вы ведёте контракт сами, без отказов.</p><span class="svc-cta__price">150 000 ₽ · индивидуально</span></div><a class="svc-cta__btn" href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'obuchenie',pos:'top'})}catch(e){}">Записаться на обучение →</a></div>
+    <!-- /svc-cta:top -->
+
 
     <h2 id="chto">Что означает код 0633</h2>
     <div class="answer reveal"><p class="lead-p">Выплаты за счёт доходов, поступивших как вознаграждение по договорам факторинга.</p><p>Применяется при расходовании доходов, полученных по факторинговым операциям.</p><p class="kosgu"><b>Связь с бюджетной классификацией.</b> Ориентир КОСГУ: доходы по финансовым операциям (группа 120) с последующим целевым расходованием. Соответствие справочное (Приказ 209н), не нормативное 1:1 — уточняйте у бухгалтера.</p></div>
@@ -217,7 +221,11 @@
     </div>
   <div class="related-inline"><b>Рядом в справочнике:</b> <a href="/baza-znaniy/kody/0632/">код 0632</a> · <a href="/baza-znaniy/kody/0810/">код 0810</a> · <a href="/baza-znaniy/kody/">все коды направлений расходования</a> · <a href="/baza-znaniy/kody-postupleniy/">коды поступлений</a></div>
 
-    <div class="author">
+    
+    <!-- svc-cta:end -->
+    <div class="svc-cta svc-cta--end" role="complementary" aria-label="Услуги КазнаЭксперт"><div class="svc-cta__card svc-cta__card--edu"><span class="svc-cta__eyebrow">Топ-услуга · обучение</span><p class="svc-cta__title">Научим вести казначейское сопровождение самостоятельно</p><p class="svc-cta__text">9 академических часов один на один с экспертом Федерального казначейства — на ваших контрактах: счёт, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса вы ведёте контракт сами, без отказов.</p><span class="svc-cta__price">150 000 ₽ · индивидуально</span><a class="svc-cta__btn" href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'obuchenie',pos:'end'})}catch(e){}">Записаться на обучение →</a></div><div class="svc-cta__card"><span class="svc-cta__eyebrow">Сопровождение контракта</span><p class="svc-cta__title">Возьмём казначейское сопровождение контракта на себя</p><p class="svc-cta__text">Счёт в ТОФК, сведения об операциях, каждый платёж, ИГК в документах и раздельный учёт — так, чтобы казначейство не вернуло ни одного документа. Без лимита на число операций.</p><span class="svc-cta__price">65 000 ₽ постоплата · 105 000 ₽/мес аванс и ГОЗ</span><a class="svc-cta__btn" href="/uslugi/kaznacheyskoe-soprovozhdenie/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'kaznacheyskoe-soprovozhdenie',pos:'end'})}catch(e){}">Обсудить контракт →</a></div></div>
+    <!-- /svc-cta:end -->
+<div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">
         <div class="author__name">Ярослав Михайлов</div>
@@ -623,5 +631,7 @@
   if(h){var u=function(){h.classList.toggle('is-scrolled',(window.scrollY||0)>12);};addEventListener('scroll',u,{passive:true});u();}
 })();
 </script>
+<link rel="stylesheet" href="/assets/svc-cta.css">
+<link rel="stylesheet" href="/assets/kg-lead.css"><script src="/assets/kg-lead.js" defer></script>
 </body>
 </html>

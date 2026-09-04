@@ -213,6 +213,10 @@
         <div class="kf"><div class="kf__n">ЕИ</div><div class="kf__t"><b>Кто применяет</b> — единственный поставщик (исполнитель)</div></div>
       </div>
     </section>
+    <!-- svc-cta:top -->
+    <div class="svc-cta svc-cta--top" role="complementary" aria-label="Услуга КазнаЭксперт"><div class="svc-cta__body"><span class="svc-cta__eyebrow">Цена по ГОЗ</span><p class="svc-cta__title">Составим РКМ так, чтобы военное представительство приняло с первого раза</p><p class="svc-cta__text">Плановая калькуляция, расшифровки статей, обоснование прибыли по правилу «1% + 25%» и нормативам приказа № 334 — комплект под протокол цены.</p><span class="svc-cta__price">105 000 ₽ за комплект</span></div><a class="svc-cta__btn" href="/uslugi/sostavlenie-rkm/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'sostavlenie-rkm',pos:'top'})}catch(e){}">Заказать РКМ →</a></div>
+    <!-- /svc-cta:top -->
+
 
     <h2 id="chto-takoe">Что такое цена ГОЗ и кто её регулирует</h2>
     <div class="answer reveal">
@@ -423,7 +427,11 @@
       </div>
     </div>
 
-    <div class="refs">
+    
+    <!-- svc-cta:end -->
+    <div class="svc-cta svc-cta--end" role="complementary" aria-label="Услуги КазнаЭксперт"><div class="svc-cta__card"><span class="svc-cta__eyebrow">Цена по ГОЗ</span><p class="svc-cta__title">Составим РКМ так, чтобы военное представительство приняло с первого раза</p><p class="svc-cta__text">Плановая калькуляция, расшифровки статей, обоснование прибыли по правилу «1% + 25%» и нормативам приказа № 334 — комплект под протокол цены.</p><span class="svc-cta__price">105 000 ₽ за комплект</span><a class="svc-cta__btn" href="/uslugi/sostavlenie-rkm/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'sostavlenie-rkm',pos:'end'})}catch(e){}">Заказать РКМ →</a></div><div class="svc-cta__card svc-cta__card--edu"><span class="svc-cta__eyebrow">Топ-услуга · обучение</span><p class="svc-cta__title">Научим вести казначейское сопровождение самостоятельно</p><p class="svc-cta__text">9 академических часов один на один с экспертом Федерального казначейства — на ваших контрактах: счёт, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса вы ведёте контракт сами, без отказов.</p><span class="svc-cta__price">150 000 ₽ · индивидуально</span><a class="svc-cta__btn" href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'obuchenie',pos:'end'})}catch(e){}">Записаться на обучение →</a></div></div>
+    <!-- /svc-cta:end -->
+<div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
         <li id="ref-1">Федеральный закон от 29.12.2012 № 275-ФЗ (ред. от 04.07.2026) «О государственном оборонном заказе», ст. 10–11 — <a href="https://www.consultant.ru/document/cons_doc_LAW_140175/95e8c3b05edb1a60675216d30a5099c3d96f75ec/" target="_blank" rel="noopener">consultant.ru</a></li>
@@ -973,5 +981,7 @@ var tail=document.querySelector('.related')||document.querySelector('.v2-footer'
 function upd(){m.classList.toggle('mtr--tail', tail.getBoundingClientRect().top < window.innerHeight*0.65);}
 var t;window.addEventListener('scroll',function(){if(t)return;t=setTimeout(function(){t=null;upd();},100);},{passive:true});
 window.addEventListener('resize',upd,{passive:true});upd();})();</script>
+<link rel="stylesheet" href="/assets/svc-cta.css">
+<link rel="stylesheet" href="/assets/kg-lead.css"><script src="/assets/kg-lead.js" defer></script>
 </body>
 </html>

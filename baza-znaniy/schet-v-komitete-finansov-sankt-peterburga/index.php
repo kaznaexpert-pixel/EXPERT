@@ -205,6 +205,10 @@
         <div class="kf"><div class="kf__n">242.23 БК</div><div class="kf__t"><b>Правовая рамка</b> — право субъекта сопровождать средства своего бюджета закреплено в статье 242.23 Бюджетного кодекса — в случаях и порядке, которые устанавливает сам субъект</div></div>
       </div>
     </section>
+    <!-- svc-cta:top -->
+    <div class="svc-cta svc-cta--top" role="complementary" aria-label="Услуга КазнаЭксперт"><div class="svc-cta__body"><span class="svc-cta__eyebrow">Открытие счёта за 2 рабочих дня</span><p class="svc-cta__title">Откроем лицевой счёт в казначействе за вас — с первой подачи</p><p class="svc-cta__text">Анализ контракта, пакет документов, сводный реестр, открытие счёта и настройка «Электронного бюджета». Без возвратов, гарантия в договоре, вся Россия дистанционно.</p><span class="svc-cta__price">35 000 ₽ разово</span></div><a class="svc-cta__btn" href="/uslugi/otkrytie-scheta/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'otkrytie-scheta',pos:'top'})}catch(e){}">Открыть счёт →</a></div>
+    <!-- /svc-cta:top -->
+
 
     <h2 id="kogda">Когда счёт открывают в Комитете финансов, а не в ТОФК</h2>
     <p class="lead-p">Вопрос «где открывать лицевой счёт» кажется техническим, но именно на нём спотыкаются исполнители петербургских контрактов. Привычка подсказывает идти в казначейство и открывать «счёт 71». Однако если деньги по контракту идут из <b>бюджета Санкт-Петербурга</b> и подпадают под казначейское сопровождение, счёт открывают в Комитете финансов города, а не в территориальном органе Федерального казначейства.</p>
@@ -330,7 +334,11 @@
       </div>
     </div>
 
-    <div class="refs">
+    
+    <!-- svc-cta:end -->
+    <div class="svc-cta svc-cta--end" role="complementary" aria-label="Услуги КазнаЭксперт"><div class="svc-cta__card"><span class="svc-cta__eyebrow">Открытие счёта за 2 рабочих дня</span><p class="svc-cta__title">Откроем лицевой счёт в казначействе за вас — с первой подачи</p><p class="svc-cta__text">Анализ контракта, пакет документов, сводный реестр, открытие счёта и настройка «Электронного бюджета». Без возвратов, гарантия в договоре, вся Россия дистанционно.</p><span class="svc-cta__price">35 000 ₽ разово</span><a class="svc-cta__btn" href="/uslugi/otkrytie-scheta/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'otkrytie-scheta',pos:'end'})}catch(e){}">Открыть счёт →</a></div><div class="svc-cta__card svc-cta__card--edu"><span class="svc-cta__eyebrow">Топ-услуга · обучение</span><p class="svc-cta__title">Научим вести казначейское сопровождение самостоятельно</p><p class="svc-cta__text">9 академических часов один на один с экспертом Федерального казначейства — на ваших контрактах: счёт, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса вы ведёте контракт сами, без отказов.</p><span class="svc-cta__price">150 000 ₽ · индивидуально</span><a class="svc-cta__btn" href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'obuchenie',pos:'end'})}catch(e){}">Записаться на обучение →</a></div></div>
+    <!-- /svc-cta:end -->
+<div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
         <li id="ref-1">Распоряжение Комитета финансов Санкт-Петербурга от 10.02.2022 № 10-р «Об утверждении Порядка открытия и ведения лицевых счетов участников казначейского сопровождения, санкционирования операций со средствами участников казначейского сопровождения» (с последующими изменениями).</li>
@@ -759,5 +767,7 @@
   if(h){var u=function(){h.classList.toggle('is-scrolled',(window.scrollY||0)>12);};addEventListener('scroll',u,{passive:true});u();}
 })();
 </script>
+<link rel="stylesheet" href="/assets/svc-cta.css">
+<link rel="stylesheet" href="/assets/kg-lead.css"><script src="/assets/kg-lead.js" defer></script>
 </body>
 </html>

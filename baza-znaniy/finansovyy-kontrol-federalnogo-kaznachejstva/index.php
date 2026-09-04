@@ -207,6 +207,10 @@
         <div class="kf"><div class="kf__n">Меры принуждения</div><div class="kf__t"><b>Риск</b> — взыскание средств и приостановление трансфертов</div></div>
       </div>
     </section>
+    <!-- svc-cta:top -->
+    <div class="svc-cta svc-cta--top" role="complementary" aria-label="Услуга КазнаЭксперт"><div class="svc-cta__body"><span class="svc-cta__eyebrow">Второе мнение</span><p class="svc-cta__title">Аудит казначейского сопровождения: найдём ошибки до проверки</p><p class="svc-cta__text">Проверяем сведения, платежи, коды, раздельный учёт и документы по контракту — с перечнем нарушений и планом исправления.</p><span class="svc-cta__price">160 000 ₽</span></div><a class="svc-cta__btn" href="/uslugi/audit-kaznacheyskogo-soprovozhdeniya/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'audit-kaznacheyskogo-soprovozhdeniya',pos:'top'})}catch(e){}">Заказать аудит →</a></div>
+    <!-- /svc-cta:top -->
+
 
     <h2 id="chto-takoe">Что такое финансовый контроль Федерального казначейства</h2>
     <div class="answer reveal">
@@ -469,7 +473,11 @@
       </div>
     </div>
 
-    <div class="refs">
+    
+    <!-- svc-cta:end -->
+    <div class="svc-cta svc-cta--end" role="complementary" aria-label="Услуги КазнаЭксперт"><div class="svc-cta__card"><span class="svc-cta__eyebrow">Второе мнение</span><p class="svc-cta__title">Аудит казначейского сопровождения: найдём ошибки до проверки</p><p class="svc-cta__text">Проверяем сведения, платежи, коды, раздельный учёт и документы по контракту — с перечнем нарушений и планом исправления.</p><span class="svc-cta__price">160 000 ₽</span><a class="svc-cta__btn" href="/uslugi/audit-kaznacheyskogo-soprovozhdeniya/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'audit-kaznacheyskogo-soprovozhdeniya',pos:'end'})}catch(e){}">Заказать аудит →</a></div><div class="svc-cta__card svc-cta__card--edu"><span class="svc-cta__eyebrow">Топ-услуга · обучение</span><p class="svc-cta__title">Научим вести казначейское сопровождение самостоятельно</p><p class="svc-cta__text">9 академических часов один на один с экспертом Федерального казначейства — на ваших контрактах: счёт, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса вы ведёте контракт сами, без отказов.</p><span class="svc-cta__price">150 000 ₽ · индивидуально</span><a class="svc-cta__btn" href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'obuchenie',pos:'end'})}catch(e){}">Записаться на обучение →</a></div></div>
+    <!-- /svc-cta:end -->
+<div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
         <li id="ref-1">Бюджетный кодекс РФ от 31.07.1998 № 145-ФЗ, ст. 269.2 — полномочия органов внутреннего госфинконтроля — <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/f9326f84473ca91312e73a717befd43c925de20f/" target="_blank" rel="noopener">consultant.ru</a></li>
@@ -902,5 +910,7 @@
   if(h){var u=function(){h.classList.toggle('is-scrolled',(window.scrollY||0)>12);};addEventListener('scroll',u,{passive:true});u();}
 })();
 </script>
+<link rel="stylesheet" href="/assets/svc-cta.css">
+<link rel="stylesheet" href="/assets/kg-lead.css"><script src="/assets/kg-lead.js" defer></script>
 </body>
 </html>

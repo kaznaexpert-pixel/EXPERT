@@ -198,6 +198,10 @@
         <div class="kf"><div class="kf__n">Подача</div><div class="kf__t"><b>Электронный бюджет</b> — Оформляется дистанционно через ГИИС «Электронный бюджет», обычно за один рабочий день</div></div>
       </div>
     </section>
+    <!-- svc-cta:top -->
+    <div class="svc-cta svc-cta--top" role="complementary" aria-label="Услуга КазнаЭксперт"><div class="svc-cta__body"><span class="svc-cta__eyebrow">К дате тендера</span><p class="svc-cta__title">Зарезервируем номер казначейского счёта к подаче заявки</p><p class="svc-cta__text">Когда счёт нужен в заявке, а контракта ещё нет: резервируем номер в ТОФК, дальше открываем счёт под подписанный контракт.</p><span class="svc-cta__price">25 000 ₽ разово</span></div><a class="svc-cta__btn" href="/uslugi/rezervirovanie-scheta/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'rezervirovanie-scheta',pos:'top'})}catch(e){}">Зарезервировать счёт →</a></div>
+    <!-- /svc-cta:top -->
+
 
     <h2 id="korotkiy-otvet">Короткий ответ: что такое резервирование казначейского счёта</h2>
     <div class="answer reveal"><p>Резервирование казначейского счёта — это получение номера лицевого счёта в территориальном органе казначейства заранее, до заключения контракта. По заявлению организации ТОФК закрепляет за ней реквизиты счёта, и их можно сразу указать в заявке на тендер или в проекте контракта. Заявление подаётся по форме по КФД 0531368 через ГИИС «Электронный бюджет» и обрабатывается, как правило, за один рабочий день.</p></div>
@@ -388,7 +392,11 @@
       </div>
     </div>
 
-    <div class="refs">
+    
+    <!-- svc-cta:end -->
+    <div class="svc-cta svc-cta--end" role="complementary" aria-label="Услуги КазнаЭксперт"><div class="svc-cta__card"><span class="svc-cta__eyebrow">К дате тендера</span><p class="svc-cta__title">Зарезервируем номер казначейского счёта к подаче заявки</p><p class="svc-cta__text">Когда счёт нужен в заявке, а контракта ещё нет: резервируем номер в ТОФК, дальше открываем счёт под подписанный контракт.</p><span class="svc-cta__price">25 000 ₽ разово</span><a class="svc-cta__btn" href="/uslugi/rezervirovanie-scheta/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'rezervirovanie-scheta',pos:'end'})}catch(e){}">Зарезервировать счёт →</a></div><div class="svc-cta__card svc-cta__card--edu"><span class="svc-cta__eyebrow">Топ-услуга · обучение</span><p class="svc-cta__title">Научим вести казначейское сопровождение самостоятельно</p><p class="svc-cta__text">9 академических часов один на один с экспертом Федерального казначейства — на ваших контрактах: счёт, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса вы ведёте контракт сами, без отказов.</p><span class="svc-cta__price">150 000 ₽ · индивидуально</span><a class="svc-cta__btn" href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'obuchenie',pos:'end'})}catch(e){}">Записаться на обучение →</a></div></div>
+    <!-- /svc-cta:end -->
+<div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
         <li id="ref-1">Порядок открытия лицевых счетов участникам казначейского сопровождения (приказ Казначейства № 44н, ред. № 22н от 06.12.2024) — <a href="https://base.garant.ru/403497186/" target="_blank" rel="noopener">base.garant.ru</a></li>
@@ -797,5 +805,7 @@ var tail=document.querySelector('.related')||document.querySelector('.v2-footer'
 function upd(){m.classList.toggle('mtr--tail', tail.getBoundingClientRect().top < window.innerHeight*0.65);}
 var t;window.addEventListener('scroll',function(){if(t)return;t=setTimeout(function(){t=null;upd();},100);},{passive:true});
 window.addEventListener('resize',upd,{passive:true});upd();})();</script>
+<link rel="stylesheet" href="/assets/svc-cta.css">
+<link rel="stylesheet" href="/assets/kg-lead.css"><script src="/assets/kg-lead.js" defer></script>
 </body>
 </html>

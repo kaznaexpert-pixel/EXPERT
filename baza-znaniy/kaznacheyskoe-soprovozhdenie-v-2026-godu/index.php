@@ -207,6 +207,10 @@
         <div class="kf"><div class="kf__n">Мониторинг</div><div class="kf__t"><b>Контроль</b> — казначейский мониторинг — переходный режим до 01.09.2026</div></div>
       </div>
     </section>
+    <!-- svc-cta:top -->
+    <div class="svc-cta svc-cta--top" role="complementary" aria-label="Услуга КазнаЭксперт"><div class="svc-cta__body"><span class="svc-cta__eyebrow">Сопровождение контракта</span><p class="svc-cta__title">Возьмём казначейское сопровождение контракта на себя</p><p class="svc-cta__text">Счёт в ТОФК, сведения об операциях, каждый платёж, ИГК в документах и раздельный учёт — так, чтобы казначейство не вернуло ни одного документа. Без лимита на число операций.</p><span class="svc-cta__price">65 000 ₽ постоплата · 105 000 ₽/мес аванс и ГОЗ</span></div><a class="svc-cta__btn" href="/uslugi/kaznacheyskoe-soprovozhdenie/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'kaznacheyskoe-soprovozhdenie',pos:'top'})}catch(e){}">Обсудить контракт →</a></div>
+    <!-- /svc-cta:top -->
+
 
     <h2 id="izmeneniya-2026">Изменения в казначейском сопровождении в 2026 году</h2>
     <div class="answer reveal"><p>Ключевые изменения казначейского сопровождения в 2026 году: перечень целевых средств задаёт статья 5 Федерального закона от 28.11.2025 № 426-ФЗ; для контрактов бюджетных и автономных учреждений порог по авансам снижен с 50 до 10 млн рублей; по гособоронзаказу действуют редакции 275-ФЗ (изменения Федеральным законом от 04.07.2026 № 232-ФЗ); с 1 января 2026 года введена ответственность по статье 15.49 КоАП за нарушение срока утверждения сведений об операциях; с 1 сентября 2026 года порядок санкционирования (приказ Минфина № 214н) применяется в редакции приказа Минфина от 16.06.2026 № 75н — заявленная замена 214н новым порядком не состоялась, приказ 214н продолжает действовать.</p></div>
@@ -364,7 +368,11 @@
       </div>
     </div>
 
-    <div class="refs">
+    
+    <!-- svc-cta:end -->
+    <div class="svc-cta svc-cta--end" role="complementary" aria-label="Услуги КазнаЭксперт"><div class="svc-cta__card"><span class="svc-cta__eyebrow">Сопровождение контракта</span><p class="svc-cta__title">Возьмём казначейское сопровождение контракта на себя</p><p class="svc-cta__text">Счёт в ТОФК, сведения об операциях, каждый платёж, ИГК в документах и раздельный учёт — так, чтобы казначейство не вернуло ни одного документа. Без лимита на число операций.</p><span class="svc-cta__price">65 000 ₽ постоплата · 105 000 ₽/мес аванс и ГОЗ</span><a class="svc-cta__btn" href="/uslugi/kaznacheyskoe-soprovozhdenie/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'kaznacheyskoe-soprovozhdenie',pos:'end'})}catch(e){}">Обсудить контракт →</a></div><div class="svc-cta__card svc-cta__card--edu"><span class="svc-cta__eyebrow">Топ-услуга · обучение</span><p class="svc-cta__title">Научим вести казначейское сопровождение самостоятельно</p><p class="svc-cta__text">9 академических часов один на один с экспертом Федерального казначейства — на ваших контрактах: счёт, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса вы ведёте контракт сами, без отказов.</p><span class="svc-cta__price">150 000 ₽ · индивидуально</span><a class="svc-cta__btn" href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'obuchenie',pos:'end'})}catch(e){}">Записаться на обучение →</a></div></div>
+    <!-- /svc-cta:end -->
+<div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
         <li id="ref-1">Федеральный закон от 28.11.2025 № 426-ФЗ «О федеральном бюджете на 2026 год и на плановый период 2027 и 2028 годов», статья 5 — особенности использования средств и казначейское сопровождение в 2026 году (перечень целевых средств, пороги 100/10/3 млн ₽, остатки, мониторинг). consultant.ru, pravo.gov.ru. <a href="https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
@@ -797,5 +805,7 @@
   if(h){var u=function(){h.classList.toggle('is-scrolled',(window.scrollY||0)>12);};addEventListener('scroll',u,{passive:true});u();}
 })();
 </script>
+<link rel="stylesheet" href="/assets/svc-cta.css">
+<link rel="stylesheet" href="/assets/kg-lead.css"><script src="/assets/kg-lead.js" defer></script>
 </body>
 </html>

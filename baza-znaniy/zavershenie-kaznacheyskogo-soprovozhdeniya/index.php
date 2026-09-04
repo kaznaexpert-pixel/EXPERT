@@ -219,6 +219,10 @@
         <div class="kf"><div class="kf__n">реестр</div><div class="kf__t"><b>После</b> запись в сводном реестре сохраняется для новых контрактов</div></div>
       </div>
     </section>
+    <!-- svc-cta:top -->
+    <div class="svc-cta svc-cta--top" role="complementary" aria-label="Услуга КазнаЭксперт"><div class="svc-cta__body"><span class="svc-cta__eyebrow">Контракт с постоплатой</span><p class="svc-cta__title">Проведём постоплату по госконтракту без возврата и в срок</p><p class="svc-cta__text">Сведения под этапы, перечисление оплаты за принятую продукцию на ваш расчётный счёт, закрытие лицевого счёта — разово, под результат.</p><span class="svc-cta__price">65 000 ₽ разово</span></div><a class="svc-cta__btn" href="/uslugi/soprovozhdenie-postoplata/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'soprovozhdenie-postoplata',pos:'top'})}catch(e){}">Провести постоплату →</a></div>
+    <!-- /svc-cta:top -->
+
 
     <h2 id="chto-takoe">Что значит завершить сопровождение</h2>
     <div class="answer reveal">
@@ -403,7 +407,11 @@
       </div>
     </div>
 
-    <div class="refs">
+    
+    <!-- svc-cta:end -->
+    <div class="svc-cta svc-cta--end" role="complementary" aria-label="Услуги КазнаЭксперт"><div class="svc-cta__card"><span class="svc-cta__eyebrow">Контракт с постоплатой</span><p class="svc-cta__title">Проведём постоплату по госконтракту без возврата и в срок</p><p class="svc-cta__text">Сведения под этапы, перечисление оплаты за принятую продукцию на ваш расчётный счёт, закрытие лицевого счёта — разово, под результат.</p><span class="svc-cta__price">65 000 ₽ разово</span><a class="svc-cta__btn" href="/uslugi/soprovozhdenie-postoplata/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'soprovozhdenie-postoplata',pos:'end'})}catch(e){}">Провести постоплату →</a></div><div class="svc-cta__card svc-cta__card--edu"><span class="svc-cta__eyebrow">Топ-услуга · обучение</span><p class="svc-cta__title">Научим вести казначейское сопровождение самостоятельно</p><p class="svc-cta__text">9 академических часов один на один с экспертом Федерального казначейства — на ваших контрактах: счёт, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса вы ведёте контракт сами, без отказов.</p><span class="svc-cta__price">150 000 ₽ · индивидуально</span><a class="svc-cta__btn" href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'obuchenie',pos:'end'})}catch(e){}">Записаться на обучение →</a></div></div>
+    <!-- /svc-cta:end -->
+<div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
         <li id="ref-1">Бюджетный кодекс РФ, глава 24.4 «Казначейское сопровождение» (ст. 242.23–242.27) — <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/c4bad396d963c79cf5c4665d8fc50e017a94309f/" target="_blank" rel="noopener">consultant.ru</a></li>
@@ -832,5 +840,7 @@
   if(h){var u=function(){h.classList.toggle('is-scrolled',(window.scrollY||0)>12);};addEventListener('scroll',u,{passive:true});u();}
 })();
 </script>
+<link rel="stylesheet" href="/assets/svc-cta.css">
+<link rel="stylesheet" href="/assets/kg-lead.css"><script src="/assets/kg-lead.js" defer></script>
 </body>
 </html>

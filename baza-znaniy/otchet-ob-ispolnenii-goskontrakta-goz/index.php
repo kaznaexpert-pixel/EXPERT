@@ -207,6 +207,10 @@
         <div class="kf"><div class="kf__n">до 300 тыс. ₽</div><div class="kf__t"><b>Штраф за нарушение</b> — Нарушение сроков или порядка представления отчёта — часть 16 статьи 7.30.3 КоАП: должностным лицам 20–50 тысяч, юрлицам 100–300 тысяч рублей.</div></div>
       </div>
     </section>
+    <!-- svc-cta:top -->
+    <div class="svc-cta svc-cta--top" role="complementary" aria-label="Услуга КазнаЭксперт"><div class="svc-cta__body"><span class="svc-cta__eyebrow">До проверки</span><p class="svc-cta__title">Восстановим раздельный учёт по контракту</p><p class="svc-cta__text">От выписок казначейства и первички — до регистров по каждому контракту и отчёта об исполнении, который примет заказчик и военное представительство.</p><span class="svc-cta__price">99 000 ₽</span></div><a class="svc-cta__btn" href="/uslugi/vosstanovlenie-razdelnogo-ucheta/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'vosstanovlenie-razdelnogo-ucheta',pos:'top'})}catch(e){}">Восстановить учёт →</a></div>
+    <!-- /svc-cta:top -->
+
 
     <h2 id="sut">Что это за отчёт и зачем он нужен</h2>
     <p>Отчёт об исполнении государственного контракта, контракта — это витрина раздельного учёта исполнителя гособоронзаказа. Он показывает государственному заказчику в одном документе всю экономику конкретного контракта: сколько денег получено и на что потрачено, какие ресурсы привлечены, что списано в производство, какая продукция отгружена и какая прибыль сформировалась. Форма отчёта и правила его заполнения утверждены постановлением Правительства РФ от 19.01.1998 № 47 — тем самым, которое устанавливает правила раздельного учёта результатов финансово-хозяйственной деятельности; блок об отчёте введён в него постановлением от 04.05.2018 № 543.<a class="refjump" href="#ref-1">[1]</a></p>
@@ -349,7 +353,11 @@
       <details><summary>Чем отчёт № 47 отличается от отчёта о расходах целевых средств?</summary><p>Отчёт № 47 — про экономику исполнения контракта в целом, сдаётся в Минобороны через ЕИС ГОЗ. Отчёт о расходах целевых средств — про использование денег при казначейском сопровождении, живёт в контуре казначейства. Разные формы, получатели и основания.</p></details>
     </div>
 
-    <div class="refs">
+    
+    <!-- svc-cta:end -->
+    <div class="svc-cta svc-cta--end" role="complementary" aria-label="Услуги КазнаЭксперт"><div class="svc-cta__card"><span class="svc-cta__eyebrow">До проверки</span><p class="svc-cta__title">Восстановим раздельный учёт по контракту</p><p class="svc-cta__text">От выписок казначейства и первички — до регистров по каждому контракту и отчёта об исполнении, который примет заказчик и военное представительство.</p><span class="svc-cta__price">99 000 ₽</span><a class="svc-cta__btn" href="/uslugi/vosstanovlenie-razdelnogo-ucheta/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'vosstanovlenie-razdelnogo-ucheta',pos:'end'})}catch(e){}">Восстановить учёт →</a></div><div class="svc-cta__card svc-cta__card--edu"><span class="svc-cta__eyebrow">Топ-услуга · обучение</span><p class="svc-cta__title">Научим вести казначейское сопровождение самостоятельно</p><p class="svc-cta__text">9 академических часов один на один с экспертом Федерального казначейства — на ваших контрактах: счёт, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса вы ведёте контракт сами, без отказов.</p><span class="svc-cta__price">150 000 ₽ · индивидуально</span><a class="svc-cta__btn" href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'obuchenie',pos:'end'})}catch(e){}">Записаться на обучение →</a></div></div>
+    <!-- /svc-cta:end -->
+<div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
         <li id="ref-1">Постановление Правительства РФ от 19.01.1998 № 47 (ред. от 15.07.2022) «О Правилах ведения организациями, выполняющими государственный заказ за счет средств федерального бюджета, раздельного учета результатов финансово-хозяйственной деятельности» — Правила заполнения отчёта (введены постановлением от 04.05.2018 № 543) и форма отчёта. consultant.ru, pravo.gov.ru.</li>
@@ -755,5 +763,7 @@ var tail=document.querySelector('.related')||document.querySelector('.v2-footer'
 function upd(){m.classList.toggle('mtr--tail', tail.getBoundingClientRect().top < window.innerHeight*0.65);}
 var t;window.addEventListener('scroll',function(){if(t)return;t=setTimeout(function(){t=null;upd();},100);},{passive:true});
 window.addEventListener('resize',upd,{passive:true});upd();})();</script>
+<link rel="stylesheet" href="/assets/svc-cta.css">
+<link rel="stylesheet" href="/assets/kg-lead.css"><script src="/assets/kg-lead.js" defer></script>
 </body>
 </html>

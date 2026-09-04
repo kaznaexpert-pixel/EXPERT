@@ -202,6 +202,10 @@
         <div class="kf"><div class="kf__n">Единый счёт</div><div class="kf__t"><b>Новые контракты</b> — при последующих контрактах счёт повторно не открывают — добавляется раздел с аналитическим кодом в рамках единого лицевого счёта</div></div>
       </div>
     </section>
+    <!-- svc-cta:top -->
+    <div class="svc-cta svc-cta--top" role="complementary" aria-label="Услуга КазнаЭксперт"><div class="svc-cta__body"><span class="svc-cta__eyebrow">Открытие счёта за 2 рабочих дня</span><p class="svc-cta__title">Откроем лицевой счёт в казначействе за вас — с первой подачи</p><p class="svc-cta__text">Анализ контракта, пакет документов, сводный реестр, открытие счёта и настройка «Электронного бюджета». Без возвратов, гарантия в договоре, вся Россия дистанционно.</p><span class="svc-cta__price">35 000 ₽ разово</span></div><a class="svc-cta__btn" href="/uslugi/otkrytie-scheta/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'otkrytie-scheta',pos:'top'})}catch(e){}">Открыть счёт →</a></div>
+    <!-- /svc-cta:top -->
+
 
     <h2 id="chto">Что такое счёт в Департаменте финансов Москвы</h2>
     <p class="lead-p">Счёт в Департаменте финансов города Москвы — это лицевой счёт, который открывают исполнителю контракта, когда средства идут из бюджета Москвы и подпадают под казначейское сопровождение на региональном уровне. Функционально это московский аналог федерального лицевого счёта под сопровождением: на нём учитываются целевые средства, а операции проходят санкционирование. Разница в том, кто ведёт счёт и по каким правилам.</p>
@@ -324,7 +328,11 @@
       </div>
     </div>
 
-    <div class="refs">
+    
+    <!-- svc-cta:end -->
+    <div class="svc-cta svc-cta--end" role="complementary" aria-label="Услуги КазнаЭксперт"><div class="svc-cta__card"><span class="svc-cta__eyebrow">Открытие счёта за 2 рабочих дня</span><p class="svc-cta__title">Откроем лицевой счёт в казначействе за вас — с первой подачи</p><p class="svc-cta__text">Анализ контракта, пакет документов, сводный реестр, открытие счёта и настройка «Электронного бюджета». Без возвратов, гарантия в договоре, вся Россия дистанционно.</p><span class="svc-cta__price">35 000 ₽ разово</span><a class="svc-cta__btn" href="/uslugi/otkrytie-scheta/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'otkrytie-scheta',pos:'end'})}catch(e){}">Открыть счёт →</a></div><div class="svc-cta__card svc-cta__card--edu"><span class="svc-cta__eyebrow">Топ-услуга · обучение</span><p class="svc-cta__title">Научим вести казначейское сопровождение самостоятельно</p><p class="svc-cta__text">9 академических часов один на один с экспертом Федерального казначейства — на ваших контрактах: счёт, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса вы ведёте контракт сами, без отказов.</p><span class="svc-cta__price">150 000 ₽ · индивидуально</span><a class="svc-cta__btn" href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'obuchenie',pos:'end'})}catch(e){}">Записаться на обучение →</a></div></div>
+    <!-- /svc-cta:end -->
+<div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
         <li id="ref-1">Бюджетный кодекс РФ, статьи 242.23 и 220.2 (казначейское сопровождение; лицевые счета, открываемые в финансовых органах). <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
@@ -755,5 +763,7 @@
   if(h){var u=function(){h.classList.toggle('is-scrolled',(window.scrollY||0)>12);};addEventListener('scroll',u,{passive:true});u();}
 })();
 </script>
+<link rel="stylesheet" href="/assets/svc-cta.css">
+<link rel="stylesheet" href="/assets/kg-lead.css"><script src="/assets/kg-lead.js" defer></script>
 </body>
 </html>

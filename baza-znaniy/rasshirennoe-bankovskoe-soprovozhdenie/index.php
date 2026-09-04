@@ -148,6 +148,10 @@
   <article class="content" id="main">
     <div class="hero"><img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy"><img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy"><div class="eyebrow">База знаний · Банковское сопровождение <span class="fresh">Актуально на 2026</span></div><h1>Расширенное банковское сопровождение контракта: критерии, плата, проверка и отказ в платеже</h1><div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>Обновлено 27 августа 2026</span></div></div>
 <div class="tldr">Расширенное банковское сопровождение — это режим, в котором банк не просто смотрит на движение денег по отдельному счёту, а проверяет документы под каждый платёж и вправе платёж не провести. Для подрядчика это меняет всё: оплата зависит не только от подписи заказчика, но и от того, соберёте ли вы комплект, который сойдётся с фактом.</div>
+    <!-- svc-cta:top -->
+    <div class="svc-cta svc-cta--top" role="complementary" aria-label="Услуга КазнаЭксперт"><div class="svc-cta__body"><span class="svc-cta__eyebrow">Уполномоченный банк</span><p class="svc-cta__title">Банковское сопровождение контракта — под ключ</p><p class="svc-cta__text">Договор с банком, отдельный счёт, режим статей 8.3–8.4, платежи по кооперации и вывод прибыли — ведём цепочку целиком.</p><span class="svc-cta__price">105 000 ₽/мес</span></div><a class="svc-cta__btn" href="/uslugi/bankovskoe-soprovozhdenie/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'bankovskoe-soprovozhdenie',pos:'top'})}catch(e){}">Обсудить сопровождение →</a></div>
+    <!-- /svc-cta:top -->
+
 
 <div class="answer reveal"><p class="lead-p">Расширенное банковское сопровождение — сопровождение контракта, при котором банк в дополнение к мониторингу расчётов оказывает услуги, позволяющие обеспечить соответствие принимаемых товаров, работ и услуг условиям контракта. Банк проверяет документы, подтверждающие основание платежа, на соответствие фактическому исполнению и вправе отказать в платеже. Осуществляется за плату — от 1 до 1,15 процента цены контракта.</p></div>
 
@@ -309,6 +313,10 @@
 <h3 id="kak-rasshivaetsya-otkaz">Как расшивается такой отказ</h3>
 <p>Расшивается это не спором о том, «кто главнее», а приведением первичных документов к структуре графика и проекта: детализация позиций, привязка к этапам, устранение расхождений в объёмах. Пример иллюстративный и приведён как типовая схема; результат в конкретном случае зависит от условий контракта и договора о банковском сопровождении.</p></div>
 
+
+    <!-- svc-cta:end -->
+    <div class="svc-cta svc-cta--end" role="complementary" aria-label="Услуги КазнаЭксперт"><div class="svc-cta__card"><span class="svc-cta__eyebrow">Уполномоченный банк</span><p class="svc-cta__title">Банковское сопровождение контракта — под ключ</p><p class="svc-cta__text">Договор с банком, отдельный счёт, режим статей 8.3–8.4, платежи по кооперации и вывод прибыли — ведём цепочку целиком.</p><span class="svc-cta__price">105 000 ₽/мес</span><a class="svc-cta__btn" href="/uslugi/bankovskoe-soprovozhdenie/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'bankovskoe-soprovozhdenie',pos:'end'})}catch(e){}">Обсудить сопровождение →</a></div><div class="svc-cta__card svc-cta__card--edu"><span class="svc-cta__eyebrow">Топ-услуга · обучение</span><p class="svc-cta__title">Научим вести казначейское сопровождение самостоятельно</p><p class="svc-cta__text">9 академических часов один на один с экспертом Федерального казначейства — на ваших контрактах: счёт, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса вы ведёте контракт сами, без отказов.</p><span class="svc-cta__price">150 000 ₽ · индивидуально</span><a class="svc-cta__btn" href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'obuchenie',pos:'end'})}catch(e){}">Записаться на обучение →</a></div></div>
+    <!-- /svc-cta:end -->
 <h2 id="faq">Частые вопросы</h2>
 <div class="faq">
 <details><summary>Чем расширенное банковское сопровождение отличается от обычного?</summary><p>При обычном сопровождении банк ведёт мониторинг расчётов по отдельному счёту и передаёт результаты заказчику. При расширенном он дополнительно проверяет документы, подтверждающие основание платежа, на соответствие фактически поставленным товарам, выполненным работам и оказанным услугам и вправе отказать в платеже.</p></details>
@@ -811,5 +819,7 @@ var tail=document.querySelector('.related')||document.querySelector('.v2-footer'
 function upd(){m.classList.toggle('mtr--tail', tail.getBoundingClientRect().top < window.innerHeight*0.65);}
 var t;window.addEventListener('scroll',function(){if(t)return;t=setTimeout(function(){t=null;upd();},100);},{passive:true});
 window.addEventListener('resize',upd,{passive:true});upd();})();</script>
+<link rel="stylesheet" href="/assets/svc-cta.css">
+<link rel="stylesheet" href="/assets/kg-lead.css"><script src="/assets/kg-lead.js" defer></script>
 </body>
 </html>

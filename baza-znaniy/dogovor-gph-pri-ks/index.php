@@ -200,6 +200,10 @@
         <div class="kf"><div class="kf__n">Коды 0200 / 0100 008 / 0813</div><div class="kf__t"><b>Санкционирование</b> — Вознаграждение проходит по коду 0200, НДФЛ — по коду 0100 008, страховые взносы — по коду 0813; каждый платёж санкционируется отдельно</div></div>
       </div>
     </section>
+    <!-- svc-cta:top -->
+    <div class="svc-cta svc-cta--top" role="complementary" aria-label="Услуга КазнаЭксперт"><div class="svc-cta__body"><span class="svc-cta__eyebrow">Топ-услуга · обучение</span><p class="svc-cta__title">Научим вести казначейское сопровождение самостоятельно</p><p class="svc-cta__text">9 академических часов один на один с экспертом Федерального казначейства — на ваших контрактах: счёт, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса вы ведёте контракт сами, без отказов.</p><span class="svc-cta__price">150 000 ₽ · индивидуально</span></div><a class="svc-cta__btn" href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'obuchenie',pos:'top'})}catch(e){}">Записаться на обучение →</a></div>
+    <!-- /svc-cta:top -->
+
 
     <h2 id="sut">Коротко: выплата физлицу по ГПХ с лицевого счёта</h2>
     <div class="answer reveal">
@@ -393,7 +397,11 @@
       </div>
     </div>
 
-    <div class="refs">
+    
+    <!-- svc-cta:end -->
+    <div class="svc-cta svc-cta--end" role="complementary" aria-label="Услуги КазнаЭксперт"><div class="svc-cta__card svc-cta__card--edu"><span class="svc-cta__eyebrow">Топ-услуга · обучение</span><p class="svc-cta__title">Научим вести казначейское сопровождение самостоятельно</p><p class="svc-cta__text">9 академических часов один на один с экспертом Федерального казначейства — на ваших контрактах: счёт, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса вы ведёте контракт сами, без отказов.</p><span class="svc-cta__price">150 000 ₽ · индивидуально</span><a class="svc-cta__btn" href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'obuchenie',pos:'end'})}catch(e){}">Записаться на обучение →</a></div><div class="svc-cta__card"><span class="svc-cta__eyebrow">Сопровождение контракта</span><p class="svc-cta__title">Возьмём казначейское сопровождение контракта на себя</p><p class="svc-cta__text">Счёт в ТОФК, сведения об операциях, каждый платёж, ИГК в документах и раздельный учёт — так, чтобы казначейство не вернуло ни одного документа. Без лимита на число операций.</p><span class="svc-cta__price">65 000 ₽ постоплата · 105 000 ₽/мес аванс и ГОЗ</span><a class="svc-cta__btn" href="/uslugi/kaznacheyskoe-soprovozhdenie/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'kaznacheyskoe-soprovozhdenie',pos:'end'})}catch(e){}">Обсудить контракт →</a></div></div>
+    <!-- /svc-cta:end -->
+<div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol><li id="ref-91">Налоговый кодекс РФ, ст. 224 — ставки налога на доходы физических лиц (пятиступенчатая шкала с 2025 года), ст. 226 — обязанности налогового агента. <a href="https://www.consultant.ru/document/cons_doc_LAW_28165/" target="_blank" rel="noopener">КонсультантПлюс</a></li><li id="ref-92">Налоговый кодекс РФ, ст. 425 — тарифы страховых взносов (30% и 15,1%). <a href="https://www.consultant.ru/document/cons_doc_LAW_28165/a3f603ffd57b1431ed51e1693ba710093347235d/" target="_blank" rel="noopener">КонсультантПлюс</a></li><li id="ref-93">Постановление Правительства РФ от 31.10.2025 № 1705 «О единой предельной величине базы для исчисления страховых взносов с 1 января 2026 г.» — 2 979 000 ₽. <a href="https://www.consultant.ru/document/cons_doc_LAW_518016/" target="_blank" rel="noopener">КонсультантПлюс</a></li><li id="ref-94">Бюджетный кодекс РФ, ст. 242.23, абз. 3 пп. 3 п. 3 — выплаты лицам, не состоящим в штате участника казначейского сопровождения. <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/68f24d27edee7d0ca5315de64a951b15f0af209f/" target="_blank" rel="noopener">КонсультантПлюс</a></li><li id="ref-95">Трудовой кодекс РФ, ст. 19.1 — признание отношений трудовыми; КоАП РФ, ч. 4 ст. 5.27. <a href="https://www.consultant.ru/document/cons_doc_LAW_34683/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
         <li id="ref-1">Гражданский кодекс РФ, глава 37 (подряд, ст. 702) и глава 39 (возмездное оказание услуг, ст. 779) — договоры гражданско-правового характера с физическим лицом. <a href="https://www.consultant.ru/document/cons_doc_LAW_5142/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
@@ -804,5 +812,7 @@ var tail=document.querySelector('.related')||document.querySelector('.v2-footer'
 function upd(){m.classList.toggle('mtr--tail', tail.getBoundingClientRect().top < window.innerHeight*0.65);}
 var t;window.addEventListener('scroll',function(){if(t)return;t=setTimeout(function(){t=null;upd();},100);},{passive:true});
 window.addEventListener('resize',upd,{passive:true});upd();})();</script>
+<link rel="stylesheet" href="/assets/svc-cta.css">
+<link rel="stylesheet" href="/assets/kg-lead.css"><script src="/assets/kg-lead.js" defer></script>
 </body>
 </html>

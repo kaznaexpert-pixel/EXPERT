@@ -201,6 +201,10 @@
         <div class="kf"><div class="kf__n">Форматы ФК</div><div class="kf__t"><b>Казначейский контур</b> — обмен платёжными документами с органами казначейства в форматах Федерального казначейства штатно поддержан в «1С:БГУ» (СУФД); у ГИИС «Электронный бюджет» свой интерфейс</div></div>
       </div>
     </section>
+    <!-- svc-cta:top -->
+    <div class="svc-cta svc-cta--top" role="complementary" aria-label="Услуга КазнаЭксперт"><div class="svc-cta__body"><span class="svc-cta__eyebrow">До проверки</span><p class="svc-cta__title">Восстановим раздельный учёт по контракту</p><p class="svc-cta__text">От выписок казначейства и первички — до регистров по каждому контракту и отчёта об исполнении, который примет заказчик и военное представительство.</p><span class="svc-cta__price">99 000 ₽</span></div><a class="svc-cta__btn" href="/uslugi/vosstanovlenie-razdelnogo-ucheta/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'vosstanovlenie-razdelnogo-ucheta',pos:'top'})}catch(e){}">Восстановить учёт →</a></div>
+    <!-- /svc-cta:top -->
+
 
     <h2 id="zachem">Зачем связывать 1С с ЕИС: что даёт интеграция</h2>
     <div class="answer reveal">
@@ -354,7 +358,11 @@
       </div>
     </div>
 
-    <div class="refs">
+    
+    <!-- svc-cta:end -->
+    <div class="svc-cta svc-cta--end" role="complementary" aria-label="Услуги КазнаЭксперт"><div class="svc-cta__card"><span class="svc-cta__eyebrow">До проверки</span><p class="svc-cta__title">Восстановим раздельный учёт по контракту</p><p class="svc-cta__text">От выписок казначейства и первички — до регистров по каждому контракту и отчёта об исполнении, который примет заказчик и военное представительство.</p><span class="svc-cta__price">99 000 ₽</span><a class="svc-cta__btn" href="/uslugi/vosstanovlenie-razdelnogo-ucheta/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'vosstanovlenie-razdelnogo-ucheta',pos:'end'})}catch(e){}">Восстановить учёт →</a></div><div class="svc-cta__card svc-cta__card--edu"><span class="svc-cta__eyebrow">Топ-услуга · обучение</span><p class="svc-cta__title">Научим вести казначейское сопровождение самостоятельно</p><p class="svc-cta__text">9 академических часов один на один с экспертом Федерального казначейства — на ваших контрактах: счёт, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса вы ведёте контракт сами, без отказов.</p><span class="svc-cta__price">150 000 ₽ · индивидуально</span><a class="svc-cta__btn" href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'obuchenie',pos:'end'})}catch(e){}">Записаться на обучение →</a></div></div>
+    <!-- /svc-cta:end -->
+<div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
         <li id="ref-1">Федеральный закон от 05.04.2013 № 44-ФЗ, статья 94, части 13–14 — электронное актирование: документ о приёмке в ЕИС (ред. от 04.08.2026). <a href="https://www.consultant.ru/document/cons_doc_LAW_144624/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
@@ -784,5 +792,7 @@
   if(h){var u=function(){h.classList.toggle('is-scrolled',(window.scrollY||0)>12);};addEventListener('scroll',u,{passive:true});u();}
 })();
 </script>
+<link rel="stylesheet" href="/assets/svc-cta.css">
+<link rel="stylesheet" href="/assets/kg-lead.css"><script src="/assets/kg-lead.js" defer></script>
 </body>
 </html>

@@ -210,6 +210,10 @@
         <div class="kf"><div class="kf__n">приказ</div><div class="kf__t"><b>Форма</b> — внутренний приказ об учётной политике</div></div>
       </div>
     </section>
+    <!-- svc-cta:top -->
+    <div class="svc-cta svc-cta--top" role="complementary" aria-label="Услуга КазнаЭксперт"><div class="svc-cta__body"><span class="svc-cta__eyebrow">До проверки</span><p class="svc-cta__title">Восстановим раздельный учёт по контракту</p><p class="svc-cta__text">От выписок казначейства и первички — до регистров по каждому контракту и отчёта об исполнении, который примет заказчик и военное представительство.</p><span class="svc-cta__price">99 000 ₽</span></div><a class="svc-cta__btn" href="/uslugi/vosstanovlenie-razdelnogo-ucheta/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'vosstanovlenie-razdelnogo-ucheta',pos:'top'})}catch(e){}">Восстановить учёт →</a></div>
+    <!-- /svc-cta:top -->
+
 
     <h2 id="chto-takoe">Что такое учётная политика по раздельному учёту ГОЗ</h2>
     <div class="answer reveal">
@@ -459,7 +463,11 @@
       </div>
     </div>
 
-    <div class="refs">
+    
+    <!-- svc-cta:end -->
+    <div class="svc-cta svc-cta--end" role="complementary" aria-label="Услуги КазнаЭксперт"><div class="svc-cta__card"><span class="svc-cta__eyebrow">До проверки</span><p class="svc-cta__title">Восстановим раздельный учёт по контракту</p><p class="svc-cta__text">От выписок казначейства и первички — до регистров по каждому контракту и отчёта об исполнении, который примет заказчик и военное представительство.</p><span class="svc-cta__price">99 000 ₽</span><a class="svc-cta__btn" href="/uslugi/vosstanovlenie-razdelnogo-ucheta/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'vosstanovlenie-razdelnogo-ucheta',pos:'end'})}catch(e){}">Восстановить учёт →</a></div><div class="svc-cta__card svc-cta__card--edu"><span class="svc-cta__eyebrow">Топ-услуга · обучение</span><p class="svc-cta__title">Научим вести казначейское сопровождение самостоятельно</p><p class="svc-cta__text">9 академических часов один на один с экспертом Федерального казначейства — на ваших контрактах: счёт, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса вы ведёте контракт сами, без отказов.</p><span class="svc-cta__price">150 000 ₽ · индивидуально</span><a class="svc-cta__btn" href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/" onclick="try{ym(94305898,'reachGoal','svccta_click',{svc:'obuchenie',pos:'end'})}catch(e){}">Записаться на обучение →</a></div></div>
+    <!-- /svc-cta:end -->
+<div class="refs">
       <h2>Источники и нормативная база</h2>
       <ol>
         <li id="ref-1">Постановление Правительства РФ от 19.01.1998 № 47 (ред. от 15.07.2022) «О Правилах ведения организациями, выполняющими государственный заказ за счёт средств федерального бюджета, раздельного учёта результатов финансово-хозяйственной деятельности» — <a href="https://www.consultant.ru/document/cons_doc_LAW_17542/" target="_blank" rel="noopener">consultant.ru</a></li>
@@ -1011,5 +1019,7 @@ var tail=document.querySelector('.related')||document.querySelector('.v2-footer'
 function upd(){m.classList.toggle('mtr--tail', tail.getBoundingClientRect().top < window.innerHeight*0.65);}
 var t;window.addEventListener('scroll',function(){if(t)return;t=setTimeout(function(){t=null;upd();},100);},{passive:true});
 window.addEventListener('resize',upd,{passive:true});upd();})();</script>
+<link rel="stylesheet" href="/assets/svc-cta.css">
+<link rel="stylesheet" href="/assets/kg-lead.css"><script src="/assets/kg-lead.js" defer></script>
 </body>
 </html>
