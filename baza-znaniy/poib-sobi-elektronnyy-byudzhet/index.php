@@ -380,7 +380,7 @@
     </table>
 
     <h3 id="sobi-dalshe">Куда идти дальше на нашем сайте</h3>
-    <p>Если ошибка не снимается за десять минут, идите по слоям, а не наугад: рабочее место — <a href="/baza-znaniy/nastroyka-arm-elektronnyy-byudzhet/">настройка АРМ для «Электронного бюджета»</a>; цепочка доверия — <a href="/baza-znaniy/kornevye-sertifikaty-kaznachejstva/">корневые сертификаты казначейства</a> и <a href="/baza-znaniy/sertifikaty-i-spiski-otzyva-uc-kaznachejstva/">списки отзыва УЦ</a>; сама подпись — <a href="/baza-znaniy/sertifikat-ecp-kaznachejstvo/">как получить сертификат казначейства</a>. По остаточным вопросам работает единый контактный центр Казначейства 8 (800) 301-07-77<a class="fn" href="#ref-7" aria-label="Источник 7">[7]</a>.</p>
+    <p>Если ошибка не снимается за десять минут, идите по слоям, а не наугад: рабочее место — <a href="/baza-znaniy/nastroyka-arm-elektronnyy-byudzhet/">настройка АРМ для «Электронного бюджета»</a>; цепочка доверия — <a href="/baza-znaniy/kornevye-sertifikaty-kaznachejstva/">корневые сертификаты казначейства</a> и <a href="/baza-znaniy/sertifikaty-i-spiski-otzyva-uc-kaznachejstva/">списки отзыва УЦ</a>; сама подпись — <a href="/baza-znaniy/sertifikat-ecp-kaznachejstvo/">как получить сертификат казначейства</a>. По остаточным вопросам работает единый контактный центр Казначейства 8 (800) 30-10-777<a class="fn" href="#ref-7" aria-label="Источник 7">[7]</a>.</p>
 
     <h2 id="glossary">Глоссарий</h2>
     <dl class="gloss">

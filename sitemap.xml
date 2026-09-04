@@ -185,7 +185,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/sertifikat-ecp-kaznachejstvo/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
@@ -713,7 +713,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1991,6 +1991,12 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/vygruzka-eb-pur-ks-v-1s/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/byudzhetnye-assignovaniya-i-lbo/</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
