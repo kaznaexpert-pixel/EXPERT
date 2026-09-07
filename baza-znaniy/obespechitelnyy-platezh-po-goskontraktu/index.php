@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Что такое обеспечительный платёж: госконтракт и возврат</title>
-<meta name="description" content="Обеспечительный платёж — это денежная сумма, которую сторона вносит заранее в счёт возможных долгов, убытков и неустойки. Когда вносится по госконтракту и как вернуть.">
+<meta name="description" content="Обеспечительный платёж — сумма, которую сторона вносит заранее в счёт возможных долгов, убытков и неустойки. Когда вносится по госконтракту и как её вернуть.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
