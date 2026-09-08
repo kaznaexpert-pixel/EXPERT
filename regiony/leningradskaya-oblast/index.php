@@ -173,7 +173,7 @@
     <div class="v2-hero-grid">
       <div class="v2-hero-main">
         <div class="v2-hero-eyebrow-row"><span class="v2-eyebrow">Казначейское сопровождение · Ленинградская область</span><span class="v2-hero-eyebrow-dash" aria-hidden="true"></span></div>
-        <h1>Казначейское сопровождение<br><em>в Ленинградской области</em></h1>
+        <h1>Казначейское сопровождение <br><em>в Ленинградской области</em></h1>
         <p class="v2-hero-lede"><strong>Сопровождаем расчёты по госконтрактам в Ленинградской области под ключ:</strong> лицевой счёт в УФК по Ленинградской области за два рабочих дня, платежи и раздельный учёт без отказов казначейства, срочная помощь при блокировках. Приезжать никуда не нужно — всё через «Электронный бюджет».</p>
         <div class="v2-hero-trust">
           <div class="v2-trust-item"><div class="v2-trust-num">2<span class="v2-trust-suffix">&nbsp;рабочих&nbsp;дня</span></div><div class="v2-trust-label">до открытия счёта</div></div>

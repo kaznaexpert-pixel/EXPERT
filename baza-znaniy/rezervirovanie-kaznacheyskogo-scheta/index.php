@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"otkrytie"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Резервирование казначейского счёта: что это, срок и когда нужно", "description": "Что такое резервирование казначейского счёта: номер получают заранее до контракта, резерв действует 6 месяцев, заявление по форме 0531368, дистанционно.", "inLanguage": "ru-RU", "datePublished": "2026-08-10", "dateModified": "2026-09-03", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__rezervirovanie-kaznacheyskogo-scheta-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__rezervirovanie-kaznacheyskogo-scheta-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__rezervirovanie-kaznacheyskogo-scheta-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/rezervirovanie-kaznacheyskogo-scheta/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Резервирование казначейского счёта: что это, срок и когда нужно", "description": "Что такое резервирование казначейского счёта: номер получают заранее до контракта, резерв действует 6 месяцев, заявление по форме 0531368, дистанционно.", "inLanguage": "ru-RU", "datePublished": "2026-08-10", "dateModified": "2026-09-08", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__rezervirovanie-kaznacheyskogo-scheta-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__rezervirovanie-kaznacheyskogo-scheta-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__rezervirovanie-kaznacheyskogo-scheta-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/rezervirovanie-kaznacheyskogo-scheta/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Резервирование казначейского счёта", "item": "https://kaznaexpert.ru/baza-znaniy/rezervirovanie-kaznacheyskogo-scheta/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Резервирование казначейского счёта: что это и срок — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-09-03T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-08T10:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -154,7 +154,7 @@
     <div class="toc__label">Содержание</div>
     <ul class="toc__list" id="tocList">
       <li><a href="#korotkiy-otvet">Короткий ответ: что такое резервирование казначейского счёта</a></li>
-      <li><a href="#zachem">Зачем резервировать счёт заранее</a></li>
+      <li><a href="#zachem">Зачем и когда резервируют счёт</a></li>
       <li><a href="#srok-forma">Срок резервирования и форма заявления</a></li>
       <li><a href="#kogda">Когда резервирование нужно</a></li>
       <li><a href="#rezerv-vs-otkrytie">Резервирование и открытие счёта — не одно и то же</a></li>
@@ -170,7 +170,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Открытие счёта <span class="fresh">Актуально на 2026</span></div>
     <h1>Резервирование казначейского счёта: что это, срок и когда нужно</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 3 сентября 2026 · сверено по Порядку № 44н в ред. приказа № 14н от 22.06.2026 и Памятке Казначейства от 19.03.2025</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 8 сентября 2026 · прямой ответ дополнен отличием от открытия счёта, добавлена таблица этапов резервирования; Порядок № 44н сверен в ред. приказа № 14н</span></div>
     </div>
 
     <div class="share">
@@ -182,7 +182,7 @@
 
     <details class="mtoc"><summary>Содержание статьи</summary>
       <ol>
-        <li><a href="#korotkiy-otvet">Короткий ответ: что такое резервирование казначейского счёта</a></li><li><a href="#zachem">Зачем резервировать счёт заранее</a></li><li><a href="#srok-forma">Срок резервирования и форма заявления</a></li><li><a href="#kogda">Когда резервирование нужно</a></li><li><a href="#rezerv-vs-otkrytie">Резервирование и открытие счёта — не одно и то же</a></li><li><a href="#kak">Как зарезервировать счёт: пошагово</a></li><li><a href="#norma">Норма, по которой резервируют счёт</a></li><li><a href="#dva-puti">Два пути резервирования: заявление и перечень</a></li><li><a href="#sroki-tofk">Сроки на стороне казначейства</a></li><li><a href="#samostoyatelno">Резервирование без обращения в ТОФК</a></li><li><a href="#chto-dalshe">Что происходит после брони</a></li><li><a href="#6-mesyacev">Почему резерв сгорает через 6 месяцев</a></li><li><a href="#oshibki">Типичные ошибки</a></li><li><a href="#keys">Пример из практики</a></li><li><a href="#glossary">Глоссарий</a></li><li><a href="#faq">Частые вопросы</a></li>
+        <li><a href="#korotkiy-otvet">Короткий ответ: что такое резервирование казначейского счёта</a></li><li><a href="#zachem">Зачем и когда резервируют счёт</a></li><li><a href="#srok-forma">Срок резервирования и форма заявления</a></li><li><a href="#kogda">Когда резервирование нужно</a></li><li><a href="#rezerv-vs-otkrytie">Резервирование и открытие счёта — не одно и то же</a></li><li><a href="#kak">Как зарезервировать счёт: пошагово</a></li><li><a href="#norma">Норма, по которой резервируют счёт</a></li><li><a href="#dva-puti">Два пути резервирования: заявление и перечень</a></li><li><a href="#sroki-tofk">Сроки на стороне казначейства</a></li><li><a href="#samostoyatelno">Резервирование без обращения в ТОФК</a></li><li><a href="#chto-dalshe">Что происходит после брони</a></li><li><a href="#6-mesyacev">Почему резерв сгорает через 6 месяцев</a></li><li><a href="#oshibki">Типичные ошибки</a></li><li><a href="#keys">Пример из практики</a></li><li><a href="#glossary">Глоссарий</a></li><li><a href="#faq">Частые вопросы</a></li>
       </ol>
     </details>
 
@@ -204,9 +204,9 @@
 
 
     <h2 id="korotkiy-otvet">Короткий ответ: что такое резервирование казначейского счёта</h2>
-    <div class="answer reveal"><p>Резервирование казначейского счёта — это получение номера лицевого счёта в территориальном органе казначейства заранее, до заключения контракта. По заявлению организации ТОФК закрепляет за ней реквизиты счёта, и их можно сразу указать в заявке на тендер или в проекте контракта. Заявление подаётся по форме по КФД 0531368 через ГИИС «Электронный бюджет» и обрабатывается, как правило, за один рабочий день.</p></div>
+    <div class="answer reveal"><p class="lead-p">Резервирование казначейского счёта — это закрепление номера лицевого счёта в территориальном органе казначейства заранее, до контракта: номер нужен в заявке на тендер или в проекте контракта. Резервируют по заявлению 0531368 через «Электронный бюджет», как правило, за один рабочий день. От открытия отличается тем, что резерв даёт только номер без права операций и сгорает через 6 месяцев, а открытие идёт по контракту и сразу создаёт раздел по ИГК.</p></div>
 
-    <h2 id="zachem">Зачем резервировать счёт заранее</h2>
+    <h2 id="zachem">Зачем и когда резервируют казначейский счёт</h2>
     <p>Резервирование решает проблему сроков: реквизиты казначейского счёта иногда нужны ещё до того, как контракт подписан, — например, чтобы указать их в заявке или в проекте контракта. Без зарезервированного номера пришлось бы ждать открытия счёта уже после подписания, теряя время на старте.</p>
     <p>Получив номер заранее, участник казначейского сопровождения выходит на подписание контракта подготовленным: реквизиты известны, а открытие счёта проходит быстрее, потому что часть данных уже в системе.</p>
 
@@ -235,6 +235,19 @@
       <li>Получить зарезервированный номер счёта (обычно в течение рабочего дня) и использовать его в заявке или проекте контракта.</li>
       <li>После подписания контракта — подать документы на открытие счёта в течение 6 месяцев, пока резерв действует.</li>
     </ol>
+
+    <!-- neuro-0908:etapy -->
+    <h3 id="etapy">Резервирование казначейского счёта по этапам: документ и срок</h3>
+    <table>
+      <caption>Этап резервирования → документ → срок</caption>
+      <tr><th>Этап</th><th>Документ</th><th>Срок</th></tr>
+      <tr><td>Подготовка</td><td>Квалифицированная электронная подпись УЦ ФК, машиночитаемая доверенность, доступ в «Электронный бюджет»</td><td>До подачи заявления; занимает больше времени, чем само резервирование</td></tr>
+      <tr><td>Заявление на резервирование</td><td>Форма по КФД 0531368 (приложение № 1 к Порядку № 44н), подаётся исполнителем через «Электронный бюджет»; либо перечень участников, который направляет заказчик</td><td>ТОФК резервирует номер, как правило, в течение одного рабочего дня</td></tr>
+      <tr><td>Использование номера</td><td>Реквизиты зарезервированного счёта — в заявке на тендер или в проекте контракта</td><td>Номер действует 6 месяцев с даты резервирования</td></tr>
+      <tr><td>Открытие счёта</td><td>Контракт (выписка) или карточка контракта из «Электронного бюджета» — пункт 24 Порядка № 44н</td><td>Счёт открывается в день представления проверенных документов (пункт 35)</td></tr>
+      <tr><td>Если контракта нет</td><td>Ничего не подаётся</td><td>По истечении 6 месяцев резерв аннулируется; резервировать заново</td></tr>
+    </table>
+<!-- /neuro-0908:etapy -->
 
     <h2 id="norma">Норма, по которой резервируют счёт</h2>
     <p>Резервирование — не обычай делового оборота и не услуга «по договорённости с инспектором». Это процедура, прописанная в <b>Порядке открытия лицевых счетов территориальными органами Федерального казначейства участникам казначейского сопровождения</b>, утверждённом приказом Федерального казначейства от 22.12.2021 № 44н<a class="fn" href="#ref-44n" aria-label="Источник 44н">[44н]</a>. Значительная часть пунктов о резервировании действует в редакции приказа Казначейства России от 06.12.2024 № 22н — если вы держите под рукой распечатку 2022 года, она устарела.</p>
@@ -403,7 +416,7 @@
         <li id="ref-2">Бюджетный кодекс РФ, глава 24.4 «Казначейское сопровождение» — <a href="https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/" target="_blank" rel="noopener">base.garant.ru</a></li>
         <li id="ref-3">Приложение № 1 к Порядку открытия лицевых счетов участникам казначейского сопровождения (приказ Казначейства № 44н, ред. от 22.06.2026) — Заявление на резервирование/закрытие лицевого счёта, код формы по КФД 0531368 — <a href="https://www.consultant.ru/document/cons_doc_LAW_405524/e6976c87f16a345ffe8c1757059ac8dc2695dca3/" target="_blank" rel="noopener">consultant.ru</a></li><li id="ref-44n">Приказ Федерального казначейства от 22.12.2021 № 44н «Об утверждении Порядка открытия лицевых счетов территориальными органами Федерального казначейства участникам казначейского сопровождения» — пункты 13–24, 29 (в редакции приказа Казначейства России от 06.12.2024 № 22н). <a href="https://www.consultant.ru/document/cons_doc_LAW_405524/" target="_blank" rel="noopener">КонсультантПлюс</a></li><li id="ref-pamyatka">Письмо Казначейства России от 19.03.2025 № 07-04-05/04-7639 с Памяткой о порядке работы в целях включения участника казначейского сопровождения в Сводный реестр (Реестр ИП и КФХ), открытия и резервирования лицевого счёта — разделы III и IV. <a href="https://www.consultant.ru/document/cons_doc_LAW_501323/67828b5d82984ca0fa1d15ec312fd22bdc7f91c6/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
       </ol>
-      <p class="refs__note">Порядок и формы могут уточняться территориальными органами; актуальные памятки публикует Федеральное казначейство. Материал носит справочный характер. Проверено экспертом КазнаЭксперт. Дата актуализации — 3 сентября 2026.</p>
+      <p class="refs__note">Порядок и формы могут уточняться территориальными органами; актуальные памятки публикует Федеральное казначейство. Материал носит справочный характер. Проверено экспертом КазнаЭксперт. Дата актуализации — 8 сентября 2026.</p>
     </div>
   </article>
 

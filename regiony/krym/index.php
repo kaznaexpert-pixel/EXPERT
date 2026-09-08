@@ -173,7 +173,7 @@
     <div class="v2-hero-grid">
       <div class="v2-hero-main">
         <div class="v2-hero-eyebrow-row"><span class="v2-eyebrow">Казначейское сопровождение · Крым</span><span class="v2-hero-eyebrow-dash" aria-hidden="true"></span></div>
-        <h1>Казначейское сопровождение<br><em>в Крыму</em></h1>
+        <h1>Казначейское сопровождение <br><em>в Крыму</em></h1>
         <p class="v2-hero-lede"><strong>Полностью закрываем работу с казначейством по вашему госконтракту в Крыму:</strong> от включения в сводный реестр и лицевого счёта в УФК по Республике Крым до санкционирования каждого платежа и восстановления раздельного учёта. Работаем удалённо, сроки фиксируем в договоре.</p>
         <div class="v2-hero-trust">
           <div class="v2-trust-item"><div class="v2-trust-num">2<span class="v2-trust-suffix">&nbsp;рабочих&nbsp;дня</span></div><div class="v2-trust-label">до открытия счёта</div></div>
