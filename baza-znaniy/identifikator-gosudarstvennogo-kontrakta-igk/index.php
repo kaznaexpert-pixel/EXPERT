@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Идентификатор государственного контракта (ИГК): что это, структура, как добавить в 1С", "description": "Идентификатор государственного контракта: зачем нужен, отличие от ИКЗ, структура кода, где найти ИГК и что делать, если он не указан в договоре или счёте.", "inLanguage": "ru-RU", "datePublished": "2026-06-08", "dateModified": "2026-08-04", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__identifikator-gosudarstvennogo-kontrakta-igk-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__identifikator-gosudarstvennogo-kontrakta-igk-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__identifikator-gosudarstvennogo-kontrakta-igk-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/identifikator-gosudarstvennogo-kontrakta-igk/"}, "citation": ["https://minfin.gov.ru/ru/document/?id_4=135052", "https://base.garant.ru/403325114/", "https://base.garant.ru/71169728/", "https://www.consultant.ru/document/cons_doc_LAW_19702/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Идентификатор государственного контракта (ИГК): что это, структура, как добавить в 1С", "description": "Идентификатор государственного контракта: зачем нужен, отличие от ИКЗ, структура кода, где найти ИГК и что делать, если он не указан в договоре или счёте.", "inLanguage": "ru-RU", "datePublished": "2026-06-08", "dateModified": "2026-09-02", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__identifikator-gosudarstvennogo-kontrakta-igk-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__identifikator-gosudarstvennogo-kontrakta-igk-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__identifikator-gosudarstvennogo-kontrakta-igk-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/identifikator-gosudarstvennogo-kontrakta-igk/"}, "citation": ["https://minfin.gov.ru/ru/document/?id_4=135052", "https://base.garant.ru/403325114/", "https://base.garant.ru/71169728/", "https://www.consultant.ru/document/cons_doc_LAW_19702/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Идентификатор государственного контракта (ИГК)"}]}
@@ -92,7 +92,7 @@
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Идентификатор государственного контракта (ИГК): что это, структура, 1С — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-08T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-04T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-02T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -184,7 +184,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Операции и отчётность <span class="fresh">Актуально на 2026</span></div>
     <h1>Идентификатор государственного контракта (ИГК): что это, структура, как добавить в 1С</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 4 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>15 мин чтения</span><span class="dot">·</span><span>Обновлено 2 сентября 2026</span></div>
     </div>
 
     <div class="share">
@@ -454,7 +454,7 @@
         <li>Совместный приказ Министра обороны РФ № 475 и Федерального казначейства № 13н от 11.08.2015 (порядок формирования идентификатора государственного контракта по гособоронзаказу) — <a href="https://base.garant.ru/71169728/" target="_blank" rel="noopener">base.garant.ru</a></li>
         <li id="ref-3">Бюджетный кодекс РФ, глава 24.4 «Казначейское сопровождение» — <a href="https://www.consultant.ru/document/cons_doc_LAW_19702/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>
-      <p class="refs__note">Материал носит справочный характер и не заменяет индивидуальную консультацию; актуальные структура и порядок формирования ИГК устанавливаются НПА и могут уточняться. Названия полей в 1С зависят от версии конфигурации. Проверено экспертом КазнаЭксперт. Дата актуализации — 4 августа 2026.</p>
+      <p class="refs__note">Материал носит справочный характер и не заменяет индивидуальную консультацию; актуальные структура и порядок формирования ИГК устанавливаются НПА и могут уточняться. Названия полей в 1С зависят от версии конфигурации. Проверено экспертом КазнаЭксперт. Дата актуализации — 2 сентября 2026.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"operacii"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Зарплата с лицевого счёта при казначейском сопровождении: как выплатить", "description": "Как выплатить зарплату с лицевого счёта в казначействе: исключение п. 3 ст. 242.23 БК, код 0100, документы для санкционирования, НДФЛ и взносы, типовые отказы.", "inLanguage": "ru-RU", "datePublished": "2026-07-30", "dateModified": "2026-08-10", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__zarplata-s-licevogo-scheta-pri-ks-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__zarplata-s-licevogo-scheta-pri-ks-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__zarplata-s-licevogo-scheta-pri-ks-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/zarplata-s-licevogo-scheta-pri-ks/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Зарплата с лицевого счёта при казначейском сопровождении: как выплатить", "description": "Как выплатить зарплату с лицевого счёта в казначействе: исключение п. 3 ст. 242.23 БК, код 0100, документы для санкционирования, НДФЛ и взносы, типовые отказы.", "inLanguage": "ru-RU", "datePublished": "2026-07-30", "dateModified": "2026-09-03", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__zarplata-s-licevogo-scheta-pri-ks-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__zarplata-s-licevogo-scheta-pri-ks-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__zarplata-s-licevogo-scheta-pri-ks-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/zarplata-s-licevogo-scheta-pri-ks/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Зарплата с лицевого счёта", "item": "https://kaznaexpert.ru/baza-znaniy/zarplata-s-licevogo-scheta-pri-ks/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Зарплата с лицевого счёта при казначейском сопровождении — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-10T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-03T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -176,7 +176,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Операции <span class="fresh">Актуально на 2026</span></div>
     <h1>Зарплата с лицевого счёта при казначейском сопровождении: как выплатить</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 10 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 3 сентября 2026</span></div>
     </div>
 
     <div class="share">
