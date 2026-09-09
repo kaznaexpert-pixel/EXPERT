@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/poryadok-sankcionirovaniya-rashodov/</loc>
-    <lastmod>2026-09-03</lastmod>
+    <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
@@ -593,7 +593,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/uchetnaya-politika-razdelnyy-uchet-goz/</loc>
-    <lastmod>2026-09-03</lastmod>
+    <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -677,7 +677,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/rkm-po-gosoboronzakazu/</loc>
-    <lastmod>2026-09-08</lastmod>
+    <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2004,6 +2004,24 @@
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/giis-elektronnyy-byudzhet/</loc>
     <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/proverka-razdelnogo-ucheta-goz/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/razdelnyy-uchet-nds-pri-ks/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/uchet-rashodov-na-soprovozhdenie-goz/</loc>
+    <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>

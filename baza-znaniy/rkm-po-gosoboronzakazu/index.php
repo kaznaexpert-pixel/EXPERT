@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "РКМ по гособоронзаказу: формы, порядок заполнения и пояснительная записка", "description": "РКМ (обосновывающие документы) по ГОЗ: формы приказа ФАС № 995/22, привнесённые и собственные затраты, обоснование прибыли по формуле «1 + 25», пояснительная записка и типичные замечания ВП.", "inLanguage": "ru-RU", "datePublished": "2026-06-12", "dateModified": "2026-09-08", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__rkm-po-gosoboronzakazu-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__rkm-po-gosoboronzakazu-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__rkm-po-gosoboronzakazu-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/rkm-po-gosoboronzakazu/"}, "citation": ["http://publication.pravo.gov.ru/Document/View/0001202212300048", "https://www.consultant.ru/document/cons_doc_LAW_436477/", "https://www.consultant.ru/document/cons_doc_LAW_284195/", "http://publication.pravo.gov.ru/Document/View/0001201904190019", "https://www.consultant.ru/document/cons_doc_LAW_322968/", "https://www.consultant.ru/document/cons_doc_LAW_140175/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "РКМ по гособоронзаказу: формы, порядок заполнения и пояснительная записка", "description": "РКМ (обосновывающие документы) по ГОЗ: формы приказа ФАС № 995/22, привнесённые и собственные затраты, обоснование прибыли по формуле «1 + 25», пояснительная записка и типичные замечания ВП.", "inLanguage": "ru-RU", "datePublished": "2026-06-12", "dateModified": "2026-09-09", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__rkm-po-gosoboronzakazu-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__rkm-po-gosoboronzakazu-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__rkm-po-gosoboronzakazu-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/rkm-po-gosoboronzakazu/"}, "citation": ["http://publication.pravo.gov.ru/Document/View/0001202212300048", "https://www.consultant.ru/document/cons_doc_LAW_436477/", "https://www.consultant.ru/document/cons_doc_LAW_284195/", "http://publication.pravo.gov.ru/Document/View/0001201904190019", "https://www.consultant.ru/document/cons_doc_LAW_322968/", "https://www.consultant.ru/document/cons_doc_LAW_140175/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "РКМ по гособоронзаказу", "item": "https://kaznaexpert.ru/baza-znaniy/rkm-po-gosoboronzakazu/"}]}
@@ -100,7 +100,7 @@
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="РКМ по гособоронзаказу: формы, заполнение, пояснительная записка — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-12T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-09-08T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-09T10:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -191,7 +191,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на август 2026</span></div>
     <h1>РКМ по гособоронзаказу: формы, порядок заполнения и пояснительная записка</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 16 августа 2026 · сверены редакции: постановление № 1465 от 14.02.2026, приказ ФАС № 995/22 от 18.12.2025, приказ Минпромторга № 334 от 26.11.2025</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>16 мин чтения</span><span class="dot">·</span><span>Обновлено 9 сентября 2026 · раздел «Как заполнить РКМ» дополнен таблицей источников данных по формам приказа № 995/22</span></div>
     </div>
 
     <div class="share">
@@ -335,6 +335,22 @@
     <p>Записка без конкретики («затраты определены расчётным методом») — маркер слабого комплекта: именно после такой формулировки начинаются запросы на дорасшифровку каждой строки.</p>
 
     <h2 id="kak-zapolnit">Как заполнить РКМ: пошагово</h2>
+<!-- kontr-0909:istochniki -->
+    <div class="answer reveal">
+      <p>Заполнение РКМ идёт в шесть шагов: определить вид цены и метод, собрать исходные данные, рассчитать трудоёмкость и оплату труда, заполнить расшифровки материальных затрат, собрать калькуляцию и прибыль, написать пояснительную записку. На каждом шаге данные берутся из конкретных документов организации — таблица ниже показывает, какая форма приказа № 995/22 чем заполняется.</p>
+    </div>
+    <table>
+      <caption>Как заполнить РКМ: шаг → формы приказа № 995/22 → откуда берутся данные</caption>
+      <tr><th>Шаг</th><th>Формы 995/22</th><th>Источник данных в организации</th></tr>
+      <tr><td>1. Вид цены и метод её определения</td><td>Состав комплекта по разделу II приказа</td><td>Контракт или проект контракта, протокол согласования цены, письмо заказчика о методе (ПП № 1465)</td></tr>
+      <tr><td>2. Исходные данные</td><td>Форма № 1 (структура цены), пояснительная записка</td><td>Техническое задание, ведомость исполнения, план производства, договоры с соисполнителями</td></tr>
+      <tr><td>3. Трудоёмкость и оплата труда</td><td>Формы № 23, № 9, № 10</td><td>Нормы времени по техпроцессам, наряды и табели, штатное расписание, положение об оплате труда, средние тарифные ставки по цехам</td></tr>
+      <tr><td>4. Материальные затраты</td><td>Формы № 4–№ 8</td><td>Нормы расхода и спецификации, прайс-листы и договоры поставки, счета-фактуры прошлых закупок, акты списания</td></tr>
+      <tr><td>5. Накладные, коммерческие, привнесённые затраты, прибыль</td><td>Формы № 11–№ 13, строка 1700, форма № 20</td><td>Справки распределения по базе из учётной политики, плановые сметы общепроизводственных и общехозяйственных затрат, расчёт прибыли по постановлению № 1465, раздельный учёт по постановлению № 47</td></tr>
+      <tr><td>6. Пояснительная записка и самопроверка</td><td>Пояснительная записка, опись комплекта</td><td>Все документы шагов 1–5, учётная политика, отчётные калькуляции прошлых периодов</td></tr>
+    </table>
+    <p>Если данных по шагам 3–5 в организации нет в готовом виде — нет нормированной трудоёмкости, справок распределения, раздельного учёта, — комплект собирается с восстановлением этих данных; такой комплект под проверку военного представительства готовит <a href="/uslugi/sostavlenie-rkm/">услуга составления РКМ по ГОЗ</a> — 105 000 ₽ за комплект.</p>
+<!-- /kontr-0909:istochniki -->
     <h3>Шаг 1. Определите вид цены и метод её определения</h3>
     <p>От этого зависит состав форм: для фиксированной цены затратным методом комплект максимален, для метода сравнимой цены — короче. Сверьтесь с Положением № 1465 и условиями запроса.</p>
     <h3>Шаг 2. Соберите исходные данные</h3>
@@ -458,7 +474,7 @@
         <li id="ref-3">Приказ Минпромторга России от 08.02.2019 № 334 «Об утверждении порядка определения состава затрат, включаемых в цену продукции, поставляемой в рамках государственного оборонного заказа» (ред. от 26.11.2025, изменения действуют с 10.01.2026) — <a href="http://publication.pravo.gov.ru/Document/View/0001201904190019" target="_blank" rel="noopener">pravo.gov.ru</a>, <a href="https://www.consultant.ru/document/cons_doc_LAW_322968/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-4">Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе» (ред. от 04.07.2026) — <a href="https://www.consultant.ru/document/cons_doc_LAW_140175/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>
-      <p class="refs__note">Материал актуален на 8 сентября 2026 года. Состав форм и порядок обоснования цены по конкретному контракту определяются запросом заказчика (ВП) и действующими редакциями ПП № 1465, приказов № 995/22 и № 334 — сверяйте редакции на дату подачи комплекта.</p>
+      <p class="refs__note">Материал актуален на 9 сентября 2026 года. Состав форм и порядок обоснования цены по конкретному контракту определяются запросом заказчика (ВП) и действующими редакциями ПП № 1465, приказов № 995/22 и № 334 — сверяйте редакции на дату подачи комплекта.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">
