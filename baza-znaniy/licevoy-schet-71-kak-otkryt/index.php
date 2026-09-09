@@ -33,18 +33,18 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Главная",
-      "item": "https://kaznaexpert.ru/"
+      "item": "https://kaznaexpert.ru/", "url": "https://kaznaexpert.ru/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "База знаний",
-      "item": "https://kaznaexpert.ru/baza-znaniy/"
+      "item": "https://kaznaexpert.ru/baza-znaniy/", "url": "https://kaznaexpert.ru/baza-znaniy/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Как открыть лицевой счёт 71 в ТОФК"
+      "name": "Как открыть лицевой счёт 71 в ТОФК", "url": "https://kaznaexpert.ru/baza-znaniy/licevoy-schet-71-kak-otkryt/"
     }
   ]
 }</script>

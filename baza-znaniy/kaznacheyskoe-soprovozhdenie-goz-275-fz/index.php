@@ -99,9 +99,9 @@
 <script type="application/ld+json">
 {
   "@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
-  {"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},
-  {"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},
-  {"@type":"ListItem","position":3,"name":"Казначейское сопровождение ГОЗ (275-ФЗ)","item":"https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/"}
+  {"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/", "url": "https://kaznaexpert.ru/"},
+  {"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/", "url": "https://kaznaexpert.ru/baza-znaniy/"},
+  {"@type":"ListItem","position":3,"name":"Казначейское сопровождение ГОЗ (275-ФЗ)","item":"https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/", "url": "https://kaznaexpert.ru/baza-znaniy/kaznacheyskoe-soprovozhdenie-goz-275-fz/"}
 ]}
 </script>
 <!-- Schema: DefinedTermSet (глоссарий — для entity-распознавания AI) -->

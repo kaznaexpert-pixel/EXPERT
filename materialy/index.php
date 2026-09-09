@@ -29,7 +29,7 @@
 {"@context": "https://schema.org", "@type": "CollectionPage", "name": "Материалы и чек-листы по казначейскому сопровождению", "url": "https://kaznaexpert.ru/materialy/", "dateModified": "2026-07-13", "inLanguage": "ru-RU", "publisher": {"@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/materialy-16x9.jpg", "https://kaznaexpert.ru/img/og/materialy-4x3.webp", "https://kaznaexpert.ru/img/og/materialy-1x1.webp"]}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"Материалы"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/", "url": "https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"Материалы", "url": "https://kaznaexpert.ru/materialy/"}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>

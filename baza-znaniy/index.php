@@ -29,7 +29,7 @@
 {"@context":"https://schema.org","@type":"CollectionPage", "datePublished": "2026-06-25", "dateModified": "2026-06-25","name":"База знаний по казначейскому сопровождению","url":"https://kaznaexpert.ru/baza-znaniy/","inLanguage":"ru-RU","isPartOf":{"@type":"WebSite","name":"КазнаЭксперт","url":"https://kaznaexpert.ru"},"about":"Казначейское сопровождение государственных контрактов, ГОЗ, раздельный учёт, лицевые счета, санкционирование"}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/", "url": "https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний", "url": "https://kaznaexpert.ru/baza-znaniy/"}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>

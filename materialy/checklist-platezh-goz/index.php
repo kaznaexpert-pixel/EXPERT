@@ -29,7 +29,7 @@
 {"@context":"https://schema.org","@type":"DigitalDocument","name":"Чек-лист платежа с отдельного счёта по ГОЗ","url":"https://kaznaexpert.ru/materialy/checklist-platezh-goz/","dateModified":"2026-07-27","encodingFormat":"application/pdf","contentUrl":"https://kaznaexpert.ru/files/checklist-platezh-obs-goz.pdf","isAccessibleForFree":true,"inLanguage":"ru-RU","author":{"@id":"https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person"},"publisher":{"@id":"https://kaznaexpert.ru/#organization"}}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"Материалы","item":"https://kaznaexpert.ru/materialy/"},{"@type":"ListItem","position":3,"name":"Чек-лист платежа по ГОЗ"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/", "url": "https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"Материалы","item":"https://kaznaexpert.ru/materialy/", "url": "https://kaznaexpert.ru/materialy/"},{"@type":"ListItem","position":3,"name":"Чек-лист платежа по ГОЗ", "url": "https://kaznaexpert.ru/materialy/checklist-platezh-goz/"}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
