@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "АУР и прочие затраты в гособоронзаказе: состав, распределение и что снимет заказчик", "description": "АУР и прочие затраты по приказу Минпромторга № 334: чем строка 1600 отличается от общехозяйственных затрат, база распределения и что заказчик снимает из цены.", "inLanguage": "ru-RU", "datePublished": "2026-08-31", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__aur-i-prochie-zatraty-goz-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__aur-i-prochie-zatraty-goz-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__aur-i-prochie-zatraty-goz-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/aur-i-prochie-zatraty-goz/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "АУР и прочие затраты в гособоронзаказе: состав, распределение и что снимет заказчик", "description": "АУР и прочие затраты по приказу Минпромторга № 334: чем строка 1600 отличается от общехозяйственных затрат, база распределения и что заказчик снимает из цены.", "inLanguage": "ru-RU", "datePublished": "2026-08-31", "dateModified": "2026-09-09", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__aur-i-prochie-zatraty-goz-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__aur-i-prochie-zatraty-goz-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__aur-i-prochie-zatraty-goz-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/aur-i-prochie-zatraty-goz/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "АУР и прочие затраты в ГОЗ", "item": "https://kaznaexpert.ru/baza-znaniy/aur-i-prochie-zatraty-goz/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="АУР и прочие затраты в ГОЗ: состав и распределение — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-09T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -173,7 +173,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на 2026</span></div>
     <h1>АУР и прочие затраты в гособоронзаказе: состав, распределение и что снимет заказчик</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 31 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 9 сентября 2026</span></div>
     </div>
 
     <div class="share">

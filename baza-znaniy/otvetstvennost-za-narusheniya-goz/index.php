@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"ks"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Ответственность за нарушения в сфере ГОЗ и казначейского сопровождения", "description": "Ответственность за нарушения в ГОЗ в 2026: новая ст. 7.30.3 КоАП с 01.03.2025, штрафы за учёт и завышение цены, уголовные ст. 201.1 и 285.4 УК РФ.", "inLanguage": "ru-RU", "datePublished": "2026-06-16", "dateModified": "2026-08-31", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__otvetstvennost-za-narusheniya-goz-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__otvetstvennost-za-narusheniya-goz-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__otvetstvennost-za-narusheniya-goz-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/otvetstvennost-za-narusheniya-goz/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_34661/b945e9baa2f86ef7eafc3db4cd85e34064cb6801/", "https://www.consultant.ru/document/cons_doc_LAW_494748/", "https://www.consultant.ru/document/cons_doc_LAW_10699/86ce4e80dc5e967a8a7729335d522944034ccbc8/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Ответственность за нарушения в сфере ГОЗ и казначейского сопровождения", "description": "Ответственность за нарушения в ГОЗ в 2026: новая ст. 7.30.3 КоАП с 01.03.2025, штрафы за учёт и завышение цены, уголовные ст. 201.1 и 285.4 УК РФ.", "inLanguage": "ru-RU", "datePublished": "2026-06-16", "dateModified": "2026-09-09", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__otvetstvennost-za-narusheniya-goz-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__otvetstvennost-za-narusheniya-goz-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__otvetstvennost-za-narusheniya-goz-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/otvetstvennost-za-narusheniya-goz/"}, "citation": ["https://www.consultant.ru/document/cons_doc_LAW_34661/b945e9baa2f86ef7eafc3db4cd85e34064cb6801/", "https://www.consultant.ru/document/cons_doc_LAW_494748/", "https://www.consultant.ru/document/cons_doc_LAW_10699/86ce4e80dc5e967a8a7729335d522944034ccbc8/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Ответственность за нарушения в ГОЗ", "item": "https://kaznaexpert.ru/baza-znaniy/otvetstvennost-za-narusheniya-goz/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Ответственность за нарушения в сфере ГОЗ и казначейского сопровождения — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-16T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-09T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -174,7 +174,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Ответственность и штрафы <span class="fresh">Актуально на 2026</span></div>
     <h1>Ответственность за нарушения в сфере ГОЗ и казначейского сопровождения</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>18 мин чтения</span><span class="dot">·</span><span>Обновлено 31 августа 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>18 мин чтения</span><span class="dot">·</span><span>Обновлено 9 сентября 2026</span></div>
     </div>
 
     <div class="share">
@@ -411,7 +411,7 @@
         <li id="ref-2">Федеральный закон от 28.12.2024 № 500-ФЗ — введение ст. 7.30.3 и признание утратившими силу ст. 14.55–14.55.2, 15.37 КоАП РФ — <a href="https://www.consultant.ru/document/cons_doc_LAW_494748/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-3">Уголовный кодекс РФ, ст. 285.4 (ред. от 20.02.2026) и ст. 201.1 — злоупотребление полномочиями при выполнении ГОЗ — <a href="https://www.consultant.ru/document/cons_doc_LAW_10699/86ce4e80dc5e967a8a7729335d522944034ccbc8/" target="_blank" rel="noopener">consultant.ru</a></li>
       </ol>
-      <p class="refs__note">Материал актуален на 31 августа 2026 года и носит справочный, а не консультационный характер. Размеры санкций приведены по действующей редакции КоАП РФ и УК РФ; квалификация конкретного нарушения и наказание определяются уполномоченными органами и судом. Перед принятием решений сверяйтесь с действующими редакциями норм.</p>
+      <p class="refs__note">Материал актуален на 9 сентября 2026 года и носит справочный, а не консультационный характер. Размеры санкций приведены по действующей редакции КоАП РФ и УК РФ; квалификация конкретного нарушения и наказание определяются уполномоченными органами и судом. Перед принятием решений сверяйтесь с действующими редакциями норм.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

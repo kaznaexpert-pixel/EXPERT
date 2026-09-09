@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"uchet"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Раздельный учёт по госконтракту в 2026: когда вести, как организовать, штрафы", "description": "Раздельный учёт по госконтракту при казначейском сопровождении: когда обязателен, как организовать аналитику и учётную политику, что проверяет казначейство и штраф по статье 15.37.1 КоАП РФ (до 500 000 ₽).", "inLanguage": "ru-RU", "datePublished": "2026-06-08", "dateModified": "2026-09-03", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__razdelnyy-uchet-po-goskontraktu-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__razdelnyy-uchet-po-goskontraktu-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__razdelnyy-uchet-po-goskontraktu-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/razdelnyy-uchet-po-goskontraktu/"}, "citation": ["https://pravo.ppt.ru/kodeks/koap/st-15.37.1", "https://www.consultant.ru/document/cons_doc_LAW_401366/", "https://www.consultant.ru/document/cons_doc_LAW_405143/", "https://roskazna.gov.ru/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Раздельный учёт по госконтракту в 2026: когда вести, как организовать, штрафы", "description": "Раздельный учёт по госконтракту при казначейском сопровождении: когда обязателен, как организовать аналитику и учётную политику, что проверяет казначейство и штраф по статье 15.37.1 КоАП РФ (до 500 000 ₽).", "inLanguage": "ru-RU", "datePublished": "2026-06-08", "dateModified": "2026-09-09", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__razdelnyy-uchet-po-goskontraktu-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__razdelnyy-uchet-po-goskontraktu-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__razdelnyy-uchet-po-goskontraktu-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/razdelnyy-uchet-po-goskontraktu/"}, "citation": ["https://pravo.ppt.ru/kodeks/koap/st-15.37.1", "https://www.consultant.ru/document/cons_doc_LAW_401366/", "https://www.consultant.ru/document/cons_doc_LAW_405143/", "https://roskazna.gov.ru/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Раздельный учёт по госконтракту"}]}
@@ -90,7 +90,7 @@
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Раздельный учёт по госконтракту: когда вести, как организовать, штрафы — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-08T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-09-03T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-09T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -179,7 +179,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Раздельный учёт <span class="fresh">Актуально на 2026</span></div>
     <h1>Раздельный учёт по госконтракту в 2026: когда вести, как организовать, штрафы</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>17 мин чтения</span><span class="dot">·</span><span>Обновлено 3 сентября 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>17 мин чтения</span><span class="dot">·</span><span>Обновлено 9 сентября 2026</span></div>
     </div>
 
     <div class="share">
@@ -412,7 +412,7 @@
         <li>Приказ Минфина России от 10.12.2021 № 210н (ред. от 27.06.2025) — порядок ведения учёта доходов и затрат участников казначейского сопровождения по каждому контракту — <a href="https://www.consultant.ru/document/cons_doc_LAW_405143/" target="_blank" rel="noopener">consultant.ru</a></li>
         <li id="ref-3">Приказ Федерального казначейства от 30.09.2025 № 12н (порядок раздельного учёта и проверок при расширенном казначейском сопровождении) — <a href="https://roskazna.gov.ru/" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
       </ol>
-      <p class="refs__note">Материал носит справочный характер и не заменяет индивидуальную консультацию; актуальные требования, размеры штрафов и порядок устанавливаются НПА и могут уточняться. Проверено экспертом КазнаЭксперт. Дата актуализации — 3 сентября 2026.</p>
+      <p class="refs__note">Материал носит справочный характер и не заменяет индивидуальную консультацию; актуальные требования, размеры штрафов и порядок устанавливаются НПА и могут уточняться. Проверено экспертом КазнаЭксперт. Дата актуализации — 9 сентября 2026.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">
