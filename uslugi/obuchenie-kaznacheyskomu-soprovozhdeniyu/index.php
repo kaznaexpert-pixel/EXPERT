@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Обучение казначейскому сопровождению: курс от практика</title>
-<meta name="description" content="Индивидуальное обучение казначейскому сопровождению госконтрактов: 9 академических часов с экспертом Федерального казначейства на ваших контрактах. Цена 150 000 ₽.">
+<title>Обучение казначейскому сопровождению — 9 ак. часов, 150 000 ₽</title>
+<meta name="description" content="Курс от практика Казначейства: 9 академических часов на ваших контрактах — счёт 71, «Электронный бюджет», сведения, санкционирование, раздельный учёт. 150 000 ₽.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -24,11 +24,39 @@
 <!-- ╚════════════════════════════════════════════════════════════════════════════╝ -->
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": ["https://kaznaexpert.ru/img/og/uslugi__obuchenie-kaznacheyskomu-soprovozhdeniyu-16x9.jpg", "https://kaznaexpert.ru/img/og/uslugi__obuchenie-kaznacheyskomu-soprovozhdeniyu-4x3.webp", "https://kaznaexpert.ru/img/og/uslugi__obuchenie-kaznacheyskomu-soprovozhdeniyu-1x1.webp"], "datePublished": "2026-07-15", "dateModified": "2026-09-09", "name": "Обучение казначейскому сопровождению", "serviceType": "Индивидуальное обучение казначейскому сопровождению государственных контрактов", "description": "Индивидуальный курс из 9 академических часов на контрактах и документах слушателя: открытие лицевого счёта 71, «Электронный бюджет», сведения об операциях и коды, санкционирование и разбор отказов, раздельный учёт и отчётность. Материалы и чек-листы остаются.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "150000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "description": "9 академических часов индивидуально, онлайн; второй сотрудник — 50 000 ₽", "url": "https://kaznaexpert.ru/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/", "priceValidUntil": "2026-12-31"}, "url": "https://kaznaexpert.ru/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/"}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Услуги", "item": "https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie/"}, {"@type": "ListItem", "position": 3, "name": "Обучение", "item": "https://kaznaexpert.ru/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/"}]}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Чем это отличается от курсов по казначейскому сопровождению контрактов?", "acceptedAnswer": {"@type": "Answer", "text": "Это не поток с записанными лекциями, а индивидуальная работа один на один: разбираются ваши контракты, ваши коды и ваши отказы казначейства. По итогам слушатель делает операции сам — открывает счёт, формирует сведения, проводит платёж, — а не пересказывает теорию."}}, {"@type": "Question", "name": "Что входит в стоимость 150 000 ₽?", "acceptedAnswer": {"@type": "Answer", "text": "Девять академических часов индивидуальной работы с экспертом на ваших контрактах и документах: открытие лицевого счёта и доступы, настройка «Электронного бюджета», сведения об операциях и коды, санкционирование и разбор отказов, раздельный учёт и отчётность, разбор ваших кейсов; материалы и чек-листы. Обучение второго сотрудника — 50 000 ₽."}}, {"@type": "Question", "name": "Подойдёт ли обучение бухгалтеру без опыта казначейского сопровождения?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Программа строится от нуля: начинаем с того, что такое лицевой счёт с кодом 71, и доводим до самостоятельного платежа и отчётности. Темп и глубина подстраиваются под слушателя, разбор идёт на документах вашей организации."}}, {"@type": "Question", "name": "Сколько длится обучение и как строится график?", "acceptedAnswer": {"@type": "Answer", "text": "Девять академических часов, обычно 3–4 онлайн-сессии в течение одной-двух недель — под вашу загрузку. Начать можно на следующий рабочий день после подписания договора."}}, {"@type": "Question", "name": "Когда выгоднее курс, а когда сопровождение?", "acceptedAnswer": {"@type": "Answer", "text": "Курс — если есть сотрудник, который будет вести контракты, и контрактов два и больше: 150 000 ₽ один раз против 105 000 ₽ в месяц. Сопровождение — если учиться некому, контракт один и срочный или по нему уже идут возвраты: казначейское сопровождение под ключ."}}, {"@type": "Question", "name": "Что нужно для обучения?", "acceptedAnswer": {"@type": "Answer", "text": "Контракт (или проект) с условием о казначейском сопровождении, рабочее место слушателя с электронной подписью или готовность её получить, доступ к учётной системе для блока раздельного учёта. Остальное — по ходу курса."}}, {"@type": "Question", "name": "Выдаёте ли документ об обучении?", "acceptedAnswer": {"@type": "Answer", "text": "Курс индивидуальный и не является образовательной программой с лицензией; по итогам слушатель получает материалы, чек-листы и письменный разбор своих кейсов. Если вам нужен документ для внутреннего учёта, оформим акт с программой и объёмом часов."}}]}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Course", "name": "Обучение казначейскому сопровождению государственных контрактов", "description": "Индивидуальное обучение работе с казначейским сопровождением: открытие лицевого счёта, «Электронный бюджет», сведения об операциях и коды, санкционирование платежей, раздельный учёт и отчётность. 9 академических часов на документах и контрактах слушателя.", "url": "https://kaznaexpert.ru/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "@id": "https://kaznaexpert.ru/#organization"}, "teaches": ["Открытие лицевого счёта с кодом 71", "Работа в ГИИС «Электронный бюджет»", "Формирование сведений об операциях с целевыми средствами", "Коды направления расходования целевых средств", "Санкционирование платежей и работа с отказами", "Раздельный учёт целевых средств и отчётность"], "inLanguage": "ru-RU", "offers": {"@type": "Offer", "price": "150000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/", "priceValidUntil": "2026-12-31", "description": "9 академических часов индивидуально; второй сотрудник — 50 000 ₽"}, "hasCourseInstance": {"@type": "CourseInstance", "courseMode": "online", "courseWorkload": "PT9H", "instructor": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}}}
+</script>
+
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
 <link rel="preload" as="font" type="font/woff2" href="/fonts/playfairdisplay-normal-500-cyrillic.woff2" crossorigin>
 <style id="fonts-crit">/* критические @font-face (кириллица, выше первого экрана): H1 Playfair 500 + body Inter 400. Остальные начертания — из fonts.css (async). */
 @font-face{font-family:'Inter';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/inter-normal-400-cyrillic.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
-@font-face{font-family:'Playfair Display';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/playfairdisplay-normal-500-cyrillic.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}</style>
+@font-face{font-family:'Playfair Display';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/playfairdisplay-normal-500-cyrillic.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+.lp2-answer{background:#FFFDF8;border:1px solid #E4DDD0;border-left:3px solid #A8844A;border-radius:8px;padding:16px 20px;margin:0 0 24px;font-size:17px;line-height:1.6}
+.lp2-answer p{margin:0}
+.lp2-block{max-width:900px;margin:0 auto}
+.lp2-block p{font-size:17px;line-height:1.68;margin:0 0 16px}
+.lp2-table{width:100%;border-collapse:collapse;margin:8px 0 20px;font-size:16px;border-top:2px solid #8B6F47}
+.lp2-table caption{caption-side:top;text-align:left;font-size:14px;color:#7A7263;font-style:italic;padding:0 0 12px}
+.lp2-table th,.lp2-table td{padding:12px 16px;text-align:left;vertical-align:top;border-bottom:1px solid #E4DDD0;line-height:1.5}
+.lp2-table th{font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;font-weight:600}
+.lp2-list{margin:0 0 18px;padding-left:22px}
+.lp2-list li{margin:0 0 10px;line-height:1.6;font-size:17px}
+.lp2-note{font-size:15px;color:#5F5A52;line-height:1.6;border-top:1px solid #E4DDD0;padding-top:14px;margin-top:6px}
+.lp2-note a{color:#8B6F47}
+@media(max-width:680px){.lp2-table{font-size:15px}.lp2-table th,.lp2-table td{padding:10px 10px}.lp2-block p,.lp2-list li{font-size:16px}}
+</style>
 <link rel="preload" href="/css/fonts.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/fonts.css') ?>" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/css/fonts.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/fonts.css') ?>"></noscript>
 <style id="v2-crit">/* critical: v2-шапка (above-the-fold); полный v2.css грузится асинхронно */
@@ -55,30 +83,25 @@
 <link rel="preload" href="/css/v2.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/v2.css') ?>" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/css/v2.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/v2.css') ?>"></noscript>
 
-<meta property="og:type" content="article">
+<meta property="og:type" content="website">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Обучение казначейскому сопровождению: курс от практика">
-<meta property="og:description" content="Индивидуальное обучение казначейскому сопровождению госконтрактов: 9 академических часов с экспертом Федерального казначейства на ваших контрактах. Цена 150 000 ₽.">
+<meta property="og:title" content="Обучение казначейскому сопровождению — 9 ак. часов, 150 000 ₽">
+<meta property="og:description" content="Индивидуально, онлайн, на ваших контрактах: счёт 71, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса ведёте сопровождение сами.">
 <meta property="og:url" content="https://kaznaexpert.ru/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og/uslugi__obuchenie-kaznacheyskomu-soprovozhdeniyu-16x9.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="675">
-<meta property="og:image:alt" content="Обучение казначейскому сопровождению: курс от практика">
-<meta property="article:published_time" content="2026-07-15T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
+<meta property="og:image:alt" content="Обучение казначейскому сопровождению — 9 ак. часов, 150 000 ₽ — КазнаЭксперт">
+<meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-09T10:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Обучение казначейскому сопровождению: курс от практика">
-<meta name="twitter:description" content="Индивидуальное обучение казначейскому сопровождению госконтрактов: 9 академических часов с экспертом Федерального казначейства на ваших контрактах. Цена 150 000 ₽.">
+<meta name="twitter:title" content="Обучение казначейскому сопровождению — 9 ак. часов, 150 000 ₽">
+<meta name="twitter:description" content="Индивидуально, онлайн, на ваших контрактах: счёт 71, «Электронный бюджет», сведения и коды, санкционирование, раздельный учёт. После курса ведёте сопровождение сами.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og/uslugi__obuchenie-kaznacheyskomu-soprovozhdeniyu-16x9.jpg">
 
-<!-- Schema: Article -->
-<!-- Schema: HowTo -->
-<!-- Schema: FAQPage -->
-<!-- Schema: BreadcrumbList -->
-<!-- Schema: DefinedTermSet (глоссарий — для entity-распознавания AI) -->
 <link rel="stylesheet" href="/css/landing-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/landing-shared.css') ?>">
 </head>
 <body>
@@ -132,42 +155,262 @@
         </header>
 
 <div class="v2">
-<style>@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}</style>
-<section class="v2-hero"><div class="v2-container"><nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a> › Обучение</nav><h1>Обучение казначейскому сопровождению: индивидуальный курс от практика</h1>
-<a href="/#reviews" class="v2-reviews-link">Отзывы клиентов →</a><p class="v2-lede">9 академических часов один на один с экспертом Федерального казначейства. Разбираем ваши контракты и процессы: открытие лицевого счёта, ГИИС «Электронный бюджет», санкционирование, раздельный учёт. После курса вы ведёте казначейское сопровождение самостоятельно — без отказов и срыва сроков.</p><div class="v2-hero-cta"><a href="#zayavka" class="v2-btn">Записаться на обучение <span aria-hidden="true">→</span></a><span class="v2-hero-note">9 ак. часов · индивидуально · 150 000 ₽</span></div></div></section><section class="v2-section v2-screen"><div class="v2-container"><h2>Для кого это обучение</h2><p>Курс — для тех, кто ведёт государственные контракты с казначейским сопровождением и хочет разобраться в процессе до автономии: бухгалтеров и финансистов подрядчиков, руководителей и специалистов по госзакупкам, сотрудников, которых назначили ответственными за лицевой счёт и «Электронный бюджет». Подойдёт и как ввод в тему с нуля, и как разбор конкретных проблем на действующем контракте.</p></div></section><section class="v2-section v2-screen"><div class="v2-container"><h2>Программа: 9 академических часов</h2><table style="width:100%;border-collapse:collapse;margin:8px 0 0"><caption style="text-align:left;font-size:13px;color:#7A7263;font-style:italic;padding:0 0 10px">Каждый блок — на ваших документах и контрактах</caption><tr><th style="text-align:left;padding:12px 14px;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;border-bottom:2px solid #8B6F47">Блок</th><th style="text-align:left;padding:12px 14px;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;border-bottom:2px solid #8B6F47">Что разбираем</th></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-weight:600">Счёт и доступы</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0">Открытие лицевого счёта «71», Сводный реестр, электронная подпись и машиночитаемая доверенность</td></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-weight:600">Электронный бюджет</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0">Настройка рабочего места, вход по сертификату, личный кабинет исполнителя</td></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-weight:600">Сведения и коды</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0">Формирование Сведений об операциях, коды направлений расходования целевых средств</td></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-weight:600">Санкционирование</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0">Как проходит проверка платежа, частые причины отказов и как их избегать</td></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-weight:600">Учёт и отчётность</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0">Раздельный учёт целевых средств, отчётность, закрытие лицевого счёта</td></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-weight:600">Разбор ваших кейсов</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0">Ответы на вопросы и разбор ситуаций по вашим действующим контрактам</td></tr></table></div></section><section class="v2-section v2-screen"><div class="v2-container"><h2>Формат обучения</h2><p>Занятия проходят индивидуально и онлайн, на ваших реальных документах и контрактах, а не на абстрактных примерах. Учит практик с 15+ годами работы в системе Федерального казначейства — санкционирование, лицевые счета и требования УФК он знает со стороны проверяющего. График подстраиваем под вас; после курса остаются материалы и чек-листы, к которым можно возвращаться.</p><p>Программа актуальна на июль 2026 года и отражает действующий порядок: открытие лицевого счёта с кодом «71» и подача документов полностью переведены в электронный формат через ГИИС «Электронный бюджет», без личного визита в отделение Федерального казначейства.</p></div></section><section class="v2-section v2-screen"><div class="v2-container"><h2>Что вы получите</h2><p>По итогам обучения вы самостоятельно открываете лицевой счёт, работаете в «Электронном бюджете», формируете Сведения об операциях, проводите платежи через санкционирование без лишних возвратов и ведёте раздельный учёт. На руках — понятный алгоритм и чек-листы под ваши контракты.</p></div></section><section class="v2-section v2-screen"><div class="v2-container"><h2>Учиться самостоятельно или с наставником</h2><p>Освоить казначейское сопровождение можно и по открытым источникам — нормативка публична, а в нашей <a href="/baza-znaniy/">базе знаний</a> больше сотни разборов. Разница не в доступности информации, а в цене ошибки на живом контракте: возврат платежа сдвигает расчёты с поставщиками, а несданные вовремя сведения — это уже административный штраф. Наставник нужен, чтобы пройти первый контракт без этих потерь и забрать себе рабочую методику.</p><table style="width:100%;border-collapse:collapse;margin:14px 0 0"><caption style="text-align:left;font-size:13px;color:#7A7263;font-style:italic;padding:0 0 10px">Честное сравнение форматов освоения</caption><tr><th style="text-align:left;padding:12px 14px;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;border-bottom:2px solid #8B6F47">Критерий</th><th style="text-align:left;padding:12px 14px;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;border-bottom:2px solid #8B6F47">Самостоятельно</th><th style="text-align:left;padding:12px 14px;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;border-bottom:2px solid #8B6F47">Курс с экспертом</th></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-weight:600">Источник ответов</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0">Форумы, чужие кейсы, метод проб</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0">Практик, который видел процесс со стороны УФК</td></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-weight:600">Материал для разбора</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0">Абстрактные примеры из статей</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0">Ваши контракты, сведения и платёжки</td></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-weight:600">Цена ошибки</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0">Возвраты платежей и риск штрафов на живом контракте</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0">Ошибки разбираются до подачи документов</td></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-weight:600">Что остаётся после</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0">Разрозненные заметки</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0">Чек-листы и алгоритм под ваши процессы</td></tr></table></div></section><section class="v2-section v2-screen"><div class="v2-container"><h2>Какие ошибки чаще всего совершают без подготовки</h2><p>Пять ситуаций, которые мы стабильно видим у компаний, осваивавших сопровождение на ходу — каждая стоит от нескольких дней простоя до штрафа:</p><ul><li>аванс перечисляют контрагенту, который не открыл лицевой счёт в казначействе, — платёж не проходит санкционирование;</li><li>сведения об операциях не бьются с детализацией затрат — казначейство возвращает платёжки на доработку;</li><li>пропускают срок утверждения сведений — с 2026 года за это предусмотрен отдельный штраф по КоАП;</li><li>электронную подпись и машиночитаемую доверенность настраивают в последний момент — теряют недели на доступ к «Электронному бюджету»;</li><li>раздельный учёт начинают вести задним числом перед проверкой вместо настройки с первого дня контракта.</li></ul><div class="related-inline"><b>По теме в базе знаний:</b> <a href="/baza-znaniy/kak-proyti-proverku-kaznachejstva/">как пройти проверку казначейства</a>, <a href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/">10 причин отказа в санкционировании</a>, <a href="/baza-znaniy/nastroyka-arm-elektronnyy-byudzhet/">настройка рабочего места «Электронного бюджета»</a>.</div></div></section><section class="v2-section v2-screen"><div class="v2-container"><h2>Стоимость обучения</h2><div style="max-width:420px;border:1px solid #E4DDD0;border-radius:14px;padding:24px 26px;background:#FFFDF8"><div style="font-family:'Playfair Display',serif;font-size:20px;margin:0 0 4px">Обучение · 9 академических часов</div><div style="font-family:'Playfair Display',serif;font-size:34px;color:#1A1A1A;margin:6px 0">150 000 ₽</div><div style="font-size:14px;color:#6E6B66;margin:2px 0 0">+ 50 000 ₽ за второго сотрудника</div><div style="font-size:14px;color:#7A7263;margin:0 0 16px">Индивидуально · онлайн · на ваших документах · фиксированная цена</div><a href="#zayavka" class="v2-btn">Записаться <span aria-hidden="true">→</span></a></div></div></section><section class="v2-section v2-screen"><div class="v2-container"><h2 id="faq">Отвечаем прямо</h2><div class="faq">
-      <details><summary>Чем это отличается от курсов по казначейскому сопровождению контрактов?</summary><p>Это не поток с записанными лекциями, а индивидуальная работа один на один: разбираются ваши контракты, ваши коды и ваши отказы казначейства. По итогам слушатель делает операции сам — открывает счёт, формирует сведения, проводит платёж, — а не пересказывает теорию.</p></details>
-      <details><summary>Подойдёт ли обучение бухгалтеру без опыта казначейского сопровождения?</summary><p>Да. Программа строится от нуля: начинаем с того, что такое лицевой счёт с кодом 71 и зачем он нужен, и доводим до самостоятельного проведения платежа и сдачи отчётности. Поскольку занятия индивидуальные, темп и глубина подстраиваются под уровень слушателя, а разбор идёт на документах вашей организации, а не на учебных примерах.</p></details>
-      <details><summary>Что входит в стоимость 150 000 ₽?</summary><p>Девять академических часов индивидуальной работы с экспертом на ваших контрактах и документах: открытие лицевого счёта и доступы, настройка «Электронного бюджета», формирование сведений об операциях и подбор кодов, санкционирование платежей и разбор отказов, раздельный учёт и отчётность, а также разбор ваших рабочих кейсов. Обучение второго сотрудника — 50 000 ₽.</p></details><details><summary>Сколько длится обучение казначейскому сопровождению?</summary><p>Курс рассчитан на 9 академических часов. График гибкий: занятия можно распределить на несколько сессий и подстроить под вашу загрузку.</p></details><details><summary>В каком формате проходит обучение?</summary><p>Индивидуально и онлайн, на ваших реальных контрактах и документах. Учит эксперт с 15+ годами в Федеральном казначействе; после курса остаются материалы и чек-листы.</p></details><details><summary>Кому подходит курс?</summary><p>Бухгалтерам и финансистам подрядчиков, специалистам по госзакупкам и ответственным за лицевой счёт и «Электронный бюджет» — как для старта с нуля, так и для разбора проблем на действующем контракте.</p></details><details><summary>Что нужно для обучения?</summary><p>Достаточно доступа к вашим контрактам и рабочему месту с электронной подписью. Программу и примеры строим на ваших контрактах.</p></details></div></div></section>
 
-<section class="v2-section" aria-label="Актуальность страницы">
+<style>@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}
+.railform textarea.fld{resize:vertical;min-height:64px;line-height:1.45}
+.v2 .lp2-risk{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin:28px 0 0}
+.v2 .lp2-risk div{padding:16px 18px;border:1px solid #E4DDD0;border-left:3px solid #A8844A;background:#FFFDF8;font-size:15px;line-height:1.5}
+.v2 .lp2-risk b{display:block;font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:#8B6F47;margin-bottom:6px}
+.v2 .lp2-price{display:flex;flex-wrap:wrap;align-items:baseline;gap:10px 22px;margin:22px 0 0;padding:18px 0 0;border-top:1px solid #E4DDD0}
+.v2 .lp2-price b{font-family:var(--font-display);font-weight:500;font-size:34px;letter-spacing:-.02em}
+.v2 .lp2-price span{color:#5F5A52;font-size:15px}
+.v2 .lp2-scen{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
+.v2 .lp2-scen article{padding:22px 24px;background:var(--paper);border:1px solid var(--hair-strong)}
+.v2 .lp2-scen h3{font-family:var(--font-display);font-weight:500;font-size:20px;margin:0 0 10px;letter-spacing:-.01em}
+.v2 .lp2-scen p{margin:0;font-size:16px;line-height:1.6;color:#3A3A3A}
+.v2 .lp2-scen p b{color:#1A1A1A}
+@media(max-width:920px){.v2 .lp2-risk{grid-template-columns:repeat(2,1fr)}.v2 .lp2-scen{grid-template-columns:1fr}}
+@media(max-width:560px){.v2 .lp2-risk{grid-template-columns:1fr}.v2 .lp2-price b{font-size:28px}}
+</style>
+
+<section class="v2-hero">
   <div class="v2-container">
-    <p class="v2-freshness">Страница актуальна на <time datetime="2026-08-31">31 августа 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
-  </div>
-</section><section class="v2-section v2-screen" id="zayavka">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Заявка</div>
-      <h2 class="v2-section-title">Записаться на <em>обучение</em></h2>
-      <p class="v2-section-lede">Оставьте контакты — эксперт перезвонит в течение часа в рабочее время (9:00–21:00 МСК), ответит на вопросы и подберёт удобный график обучения.</p>
-    </div>
-    <div style="max-width:520px;margin:0 auto">
-      <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="obuchenie-cta">
-        <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
-        <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
-        <input class="hp" name="kz_note" tabindex="-1" autocomplete="off" aria-hidden="true">
-        <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-        <button class="submit" type="submit">Оставить заявку →</button>
-        <div class="formmsg" id="formMsgBottom" hidden></div>
-        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA по запросу</span></div>
-        <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
-          <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
-          <h3>Заявка принята</h3>
-          <p>Эксперт перезвонит <b>в течение часа</b> (9:00–21:00 МСК).</p>
+    <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a> › Обучение</nav>
+    <div class="v2-hero-grid">
+      <div class="v2-hero-main">
+        <div class="v2-hero-eyebrow-row">
+          <span class="v2-eyebrow">Услуга · обучение · индивидуально · онлайн</span>
+          <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
         </div>
-      </form>
+        <h1>Научим вести казначейское сопровождение <em>самостоятельно — за 9 академических часов</em></h1>
+<a href="/#reviews" class="v2-reviews-link">Отзывы клиентов →</a>
+        <p class="v2-hero-lede"><strong>Один на один с экспертом, который 15 лет работал в системе Федерального казначейства и знает санкционирование со стороны проверяющего.</strong> Разбираем не учебные примеры, а ваши контракты: открываем счёт, настраиваем «Электронный бюджет», формируем сведения, проводим платёж, ставим раздельный учёт. После курса ваш сотрудник ведёт контракт сам — без возвратов и сорванных сроков.</p>
+        <div class="lp2-risk">
+          <div><b>Снимаем риск</b>Возвраты платежей из-за неверного кода или комплекта документов</div>
+          <div><b>Снимаем риск</b>Штраф за срок утверждения сведений (ст. 15.49 КоАП с 2026 года)</div>
+          <div><b>Снимаем риск</b>Недели простоя на подписи, доверенности и доступе в «Электронный бюджет»</div>
+          <div><b>Снимаем риск</b>Раздельный учёт «задним числом» перед проверкой</div>
+        </div>
+        <div class="lp2-price"><b>150 000 ₽</b><span>9 академических часов · индивидуально · онлайн</span><span>Второй сотрудник — 50 000 ₽</span><span>Материалы и чек-листы остаются у вас</span></div>
+        <div class="v2-hero-expert">
+          <div class="v2-expert-name">Михайлов Ярослав</div>
+          <div class="v2-expert-role">Эксперт · 15 лет в Казначействе</div>
+          <p class="v2-expert-quote">«Курс нужен не для того, чтобы пересказать нормативку — она открыта. Он нужен, чтобы ваш сотрудник провёл первый платёж под моим контролем и второй — уже сам, без возврата. Один непрошедший платёж стоит дороже курса».</p>
+        </div>
+      </div>
+      <aside class="v2-hero-action">
+        <div class="v2-hero-action-eyebrow">Заявка</div>
+        <h2>Записаться на обучение</h2>
+        <p class="v2-hero-action-sub">Напишите, кто будет учиться и какие контракты ведёте — ответим в течение часа в рабочее время (9:00–21:00 МСК), согласуем программу и график. NDA — до передачи документов.</p>
+        <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="obuchenie-kaznacheyskomu-soprovozhdeniyu">
+          <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
+          <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
+          <textarea class="fld" name="message" placeholder="Комментарий: кто учится, сколько контрактов, что уже не получается (необязательно)" rows="2" maxlength="3000"></textarea>
+          <input class="hp" name="kz_note" tabindex="-1" autocomplete="off" aria-hidden="true">
+          <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
+          <button class="submit" type="submit">Отправить заявку →</button>
+          <div class="formmsg" id="formMsg" hidden></div>
+          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA до документов</span></div>
+          <div class="success" id="leadSuccess" role="status" aria-live="polite">
+            <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
+            <h3>Заявка принята</h3>
+            <p>Эксперт свяжется <b>в течение часа</b> в рабочее время (пн–пт, 9:00–19:00 МСК) и разберёт ваш контракт.</p>
+            <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
+          </div>
+        </form>
+        <div class="v2-hero-alt">Или напишите — ответим в течение часа<div class="v2-hero-alt-links"><a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a><a href="tel:+79818331010">+7 981 833-10-10</a></div></div>
+      </aside>
     </div>
   </div>
 </section>
+
+<section class="v2-section v2-screen" id="komu">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Для кого</div>
+      <h2 class="v2-section-title">Кому подходит <em>и какой риск снимает</em></h2>
+      <p class="v2-section-lede">Четыре ситуации, в которых дешевле научить своего сотрудника, чем терять на возвратах или платить за сопровождение каждый месяц.</p>
+    </div>
+    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Бухгалтер получил первый контракт под сопровождением</h3><p class="v2-process-desc">Налоги и зарплата знакомы, а лицевой счёт 71, сведения и распоряжения — нет. За 9 часов доводим до самостоятельного платежа.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Контрактов несколько — платить за сопровождение каждый невыгодно</h3><p class="v2-process-desc">При двух и более контрактах в год штатный специалист, обученный один раз за 150 000 ₽, окупается против 105 000 ₽ в месяц за внешнее сопровождение.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Назначили ответственного за «Электронный бюджет»</h3><p class="v2-process-desc">Специалист по закупкам или юрист, которому передали лицевой счёт. Учим с нуля: подпись, доверенность, вход, сведения, платёж.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Контракт уже идёт, отказы копятся</h3><p class="v2-process-desc">Разбираем ваши протоколы отказов и сведения вместо абстрактных примеров — курс превращается в исправление действующего контракта.</p></article></div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="programma">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Программа</div>
+      <h2 class="v2-section-title">9 академических часов: <em>шесть блоков на ваших документах</em></h2>
+      <p class="v2-section-lede">Каждый блок заканчивается действием, которое слушатель делает сам в вашем «Электронном бюджете».</p>
+    </div>
+    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">Блок 1</div><h3>Счёт и доступы</h3><p class="v2-process-desc">Открытие лицевого счёта с кодом 71, Сводный реестр, квалифицированная подпись УЦ Казначейства, машиночитаемая доверенность.</p><ul class="v2-process-checks"><li>Заявка на счёт подана</li><li>Подпись и МЧД работают</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">Блок 2</div><h3>«Электронный бюджет»</h3><p class="v2-process-desc">Настройка рабочего места, вход по сертификату, личный кабинет исполнителя, где что лежит.</p><ul class="v2-process-checks"><li>Вход выполнен</li><li>Кабинет настроен</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">Блок 3</div><h3>Сведения и коды</h3><p class="v2-process-desc">Сведения об операциях с целевыми средствами под структуру вашего контракта, коды направления расходования, утверждение заказчиком.</p><ul class="v2-process-checks"><li>Сведения сформированы</li><li>Коды подобраны</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><div class="v2-process-day">Блок 4</div><h3>Санкционирование</h3><p class="v2-process-desc">Распоряжение о казначейском платеже, документы-основания, как проходит проверка ТОФК, десять причин возврата и как их не допустить.</p><ul class="v2-process-checks"><li>Платёж проведён</li><li>Протокол отказа прочитан</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><div class="v2-process-day">Блок 5</div><h3>Учёт и отчётность</h3><p class="v2-process-desc">Раздельный учёт целевых средств по Порядку № 210н, регистры для проверки, отчётность, закрытие лицевого счёта.</p><ul class="v2-process-checks"><li>Учётная политика дополнена</li><li>Регистры заведены</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><div class="v2-process-day">Блок 6</div><h3>Разбор ваших кейсов</h3><p class="v2-process-desc">Ваши контракты, отказы и вопросы: что делать в каждой ситуации, чек-лист под ваши процессы.</p><ul class="v2-process-checks"><li>Чек-лист составлен</li><li>Вопросы закрыты</li></ul></article></div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="kak">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Как проходит</div>
+      <h2 class="v2-section-title">От заявки до первого самостоятельного платежа</h2>
+      <p class="v2-section-lede">Формат индивидуальный, поэтому программа собирается под ваш контракт, а не наоборот.</p>
+    </div>
+    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">День 0</div><h3>Заявка и диагностика</h3><p class="v2-process-desc">Созвон 20–30 минут: какие контракты, кто учится, что уже не получается. Согласуем программу и график сессий.</p><ul class="v2-process-checks"><li>График согласован</li><li>NDA подписан</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">Дни 1–3</div><h3>Сессии онлайн</h3><p class="v2-process-desc">9 академических часов распределяем на 3–4 сессии под вашу загрузку; каждая — на ваших документах, с демонстрацией экрана и повторением действий слушателем.</p><ul class="v2-process-checks"><li>Действия выполнены слушателем</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">После курса</div><h3>Материалы и чек-листы</h3><p class="v2-process-desc">Остаются алгоритм под ваши контракты, чек-листы перед подачей документов и разбор ваших кейсов в письменном виде.</p><ul class="v2-process-checks"><li>Материалы переданы</li></ul></article></div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="nuzhno">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Подготовка</div>
+      <h2 class="v2-section-title">Что потребуется <em>от вас</em></h2>
+    </div>
+    <div class="lp2-block">
+      <table class="lp2-table">
+        <caption>Что нужно для обучения и зачем</caption>
+        <thead><tr><th>Что нужно</th><th>Зачем</th></tr></thead>
+        <tbody>
+          <tr><td>Действующий или проект контракта с условием о казначейском сопровождении</td><td>Программа строится на нём: сведения, коды, платежи — ваши</td></tr>
+          <tr><td>Рабочее место слушателя с электронной подписью (или готовность её получить в блоке 1)</td><td>Действия выполняются в реальном «Электронном бюджете», а не на слайдах</td></tr>
+          <tr><td>Доступ к 1С или учётной системе (для блока 5)</td><td>Раздельный учёт настраиваем в вашей базе</td></tr>
+          <tr><td>Список вопросов и протоколы отказов, если уже были</td><td>Блок 6 разбирает именно их</td></tr>
+        </tbody>
+      </table>
+      <p class="lp2-note">Ничего заранее изучать не нужно: программа начинается с того, что такое лицевой счёт с кодом 71, и подстраивается под уровень слушателя.</p>
+    </div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="tarif">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Стоимость</div>
+      <h2 class="v2-section-title">150 000 ₽ за курс — <em>фиксированная цена</em></h2>
+      <p class="v2-section-lede">Цена записывается в договоре и не зависит от числа ваших вопросов и контрактов, разобранных на сессиях. Оплата — после подписания договора.</p>
+    </div>
+    <div class="v2-tariffs-grid lp-3col"><article class="v2-tariff is-featured">
+        <div class="v2-tariff-no">01</div>
+        <div class="v2-tariff-stage">Обучение</div>
+        <h3>Индивидуальный курс, 9 ак. часов</h3>
+        <p class="v2-tariff-desc">Шесть блоков на ваших контрактах: счёт и доступы, «Электронный бюджет», сведения и коды, санкционирование, учёт и отчётность, разбор кейсов. Материалы и чек-листы.</p>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">150 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Один слушатель · онлайн</div><a href="#zayavka" class="v2-tariff-link">Записаться <span aria-hidden="true">→</span></a></div>
+      </article><article class="v2-tariff">
+        <div class="v2-tariff-no">02</div>
+        <div class="v2-tariff-stage">Второй слушатель</div>
+        <h3>Коллега на тех же сессиях</h3>
+        <p class="v2-tariff-desc">Бухгалтер и специалист по закупкам учатся вместе — процессы у них общие, а цена второго участника ниже.</p>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">50 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Доплата за второго сотрудника</div><a href="#zayavka" class="v2-tariff-link">Записаться вдвоём <span aria-hidden="true">→</span></a></div>
+      </article><article class="v2-tariff">
+        <div class="v2-tariff-no">03</div>
+        <div class="v2-tariff-stage">Вместо курса</div>
+        <h3>Сопровождение контракта</h3>
+        <p class="v2-tariff-desc">Если учиться некому или некогда — ведём контракт мы: сведения, платежи, учёт, без лимита операций.</p>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">105 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Контракт с авансом · 65 000 ₽ постоплата</div><a href="/uslugi/kaznacheyskoe-soprovozhdenie/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+      </article></div>
+    <p class="v2-tariffs-footnote">Курс окупается на втором контракте: 150 000 ₽ один раз против 105 000 ₽ в месяц за внешнее сопровождение. Все цены — на странице <a href="/baza-znaniy/stoimost-kaznacheyskogo-soprovozhdeniya/">«Стоимость казначейского сопровождения»</a>.</p>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="sravnenie">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Сравнение</div>
+      <h2 class="v2-section-title">Самостоятельно, курс <em>или сопровождение</em></h2>
+    </div>
+    <div class="lp2-block">
+      <table class="lp2-table">
+        <caption>Три способа освоить казначейское сопровождение</caption>
+        <thead><tr><th>Критерий</th><th>Самостоятельно по открытым источникам</th><th>Курс с экспертом</th><th>Внешнее сопровождение</th></tr></thead>
+        <tbody>
+          <tr><td>Источник ответов</td><td>Форумы, чужие кейсы, метод проб</td><td>Практик, видевший процесс со стороны ТОФК</td><td>Делаем за вас</td></tr>
+          <tr><td>Материал</td><td>Абстрактные примеры из статей</td><td>Ваши контракты, сведения и платёжки</td><td>Ваши контракты</td></tr>
+          <tr><td>Цена ошибки</td><td>Возвраты и штрафы на живом контракте</td><td>Ошибки разбираются до подачи документов</td><td>Отвечаем договором</td></tr>
+          <tr><td>Что остаётся после</td><td>Разрозненные заметки</td><td>Чек-листы, алгоритм и обученный сотрудник</td><td>Зависимость от подрядчика</td></tr>
+          <tr><td>Стоимость</td><td>Время и простой контракта</td><td>150 000 ₽ один раз</td><td>105 000 ₽/мес или 65 000 ₽ за контракт</td></tr>
+        </tbody>
+      </table>
+      <p class="lp2-note">Нормативка открыта, в нашей <a href="/baza-znaniy/">базе знаний</a> больше двухсот разборов — разница не в доступности информации, а в цене ошибки на живом контракте.</p>
+    </div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="oshibki">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Без подготовки</div>
+      <h2 class="v2-section-title">Пять ошибок, которые <em>закрывает курс</em></h2>
+    </div>
+    <div class="lp2-scen">
+      <article class="reveal"><h3>Аванс ушёл контрагенту без лицевого счёта</h3><p><b>Что разбираем:</b> кто из соисполнителей обязан открыть счёт 71 и как проверить это до платежа — блок 3 и 4.</p></article>
+      <article class="reveal"><h3>Сведения не бьются с расходами</h3><p><b>Что разбираем:</b> структура сведений под ваш контракт, коды направления, правило «не ниже факта» при изменении — блок 3.</p></article>
+      <article class="reveal"><h3>Пропущен срок утверждения сведений</h3><p><b>Что разбираем:</b> кто утверждает, в какой срок, что делать, если заказчик молчит; штраф по ст. 15.49 КоАП с 2026 года — блок 3.</p></article>
+      <article class="reveal"><h3>Подпись и доверенность — в последний момент</h3><p><b>Что разбираем:</b> сертификат УЦ Казначейства, машиночитаемая доверенность, настройка рабочего места — блок 1 и 2, до первого платежа.</p></article>
+    </div>
+    <p class="lp2-note" style="max-width:900px;margin:22px auto 0">Пятая ошибка — раздельный учёт «задним числом» перед проверкой: блок 5 ставит его с первого дня контракта. Разборы по каждой теме: <a href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/">причины отказа в санкционировании</a>, <a href="/baza-znaniy/nastroyka-arm-elektronnyy-byudzhet/">настройка рабочего места «Электронного бюджета»</a>, <a href="/baza-znaniy/kak-proyti-proverku-kaznachejstva/">как пройти проверку казначейства</a>.</p>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="keys">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Из практики</div>
+      <h2 class="v2-section-title">Как это выглядит <em>на реальном контракте</em></h2>
+    </div>
+    <div class="lp2-block">
+      <p>Производственная компания получила первый контракт с авансом под казначейским сопровождением на 48 млн ₽; бухгалтер до этого с лицевыми счетами не работал. Первые две сессии прошли на открытии счёта и настройке «Электронного бюджета» — к концу второй подпись и доверенность работали, счёт был открыт. Третья сессия — сведения под структуру аванса: коды подобрали по фактическим статьям затрат, заказчик утвердил с первой подачи. Четвёртая — первый платёж поставщику: бухгалтер собрал распоряжение и документы-основания сам, эксперт проверил чек-лист до отправки; платёж прошёл на следующий рабочий день. Дальше контракт компания вела самостоятельно; в чек-листе остались три правила, из-за которых возвращают чаще всего: код, сумма по коду, комплект документов.</p>
+      <p class="lp2-note">Кейсы с другими отраслями — на странице <a href="/keysy/">«Кейсы»</a>.</p>
+    </div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="faq">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Вопросы</div>
+      <h2 class="v2-section-title">Отвечаем <em>прямо</em></h2>
+    </div>
+    <div class="faq"><details open><summary>Чем это отличается от курсов по казначейскому сопровождению контрактов?</summary><p>Это не поток с записанными лекциями, а индивидуальная работа один на один: разбираются ваши контракты, ваши коды и ваши отказы казначейства. По итогам слушатель делает операции сам — открывает счёт, формирует сведения, проводит платёж, — а не пересказывает теорию.</p></details>
+      <details><summary>Что входит в стоимость 150 000 ₽?</summary><p>Девять академических часов индивидуальной работы с экспертом на ваших контрактах и документах: открытие лицевого счёта и доступы, настройка «Электронного бюджета», сведения об операциях и коды, санкционирование и разбор отказов, раздельный учёт и отчётность, разбор ваших кейсов; материалы и чек-листы. Обучение второго сотрудника — 50 000 ₽.</p></details>
+      <details><summary>Подойдёт ли обучение бухгалтеру без опыта казначейского сопровождения?</summary><p>Да. Программа строится от нуля: начинаем с того, что такое лицевой счёт с кодом 71, и доводим до самостоятельного платежа и отчётности. Темп и глубина подстраиваются под слушателя, разбор идёт на документах вашей организации.</p></details>
+      <details><summary>Сколько длится обучение и как строится график?</summary><p>Девять академических часов, обычно 3–4 онлайн-сессии в течение одной-двух недель — под вашу загрузку. Начать можно на следующий рабочий день после подписания договора.</p></details>
+      <details><summary>Когда выгоднее курс, а когда сопровождение?</summary><p>Курс — если есть сотрудник, который будет вести контракты, и контрактов два и больше: 150 000 ₽ один раз против 105 000 ₽ в месяц. Сопровождение — если учиться некому, контракт один и срочный или по нему уже идут возвраты: <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">казначейское сопровождение под ключ</a>.</p></details>
+      <details><summary>Что нужно для обучения?</summary><p>Контракт (или проект) с условием о казначейском сопровождении, рабочее место слушателя с электронной подписью или готовность её получить, доступ к учётной системе для блока раздельного учёта. Остальное — по ходу курса.</p></details>
+      <details><summary>Выдаёте ли документ об обучении?</summary><p>Курс индивидуальный и не является образовательной программой с лицензией; по итогам слушатель получает материалы, чек-листы и письменный разбор своих кейсов. Если вам нужен документ для внутреннего учёта, оформим акт с программой и объёмом часов.</p></details></div>
+  </div>
+</section>
+
+<section class="v2-section" aria-label="Актуальность страницы">
+  <div class="v2-container">
+    <p class="v2-freshness">Страница актуальна на <time datetime="2026-09-09">9 сентября 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="zayavka">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Заявка</div>
+      <h2 class="v2-section-title">Записаться на обучение — <em>150 000 ₽</em></h2>
+      <p class="v2-section-lede">Оставьте контакты — ответим в течение часа в рабочее время (9:00–21:00 МСК), согласуем программу и график. Цена фиксируется в договоре.</p>
+    </div>
+    <div style="max-width:520px;margin:0 auto">
+      <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="obuchenie-kaznacheyskomu-soprovozhdeniyu-cta">
+        <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
+        <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
+        <textarea class="fld" name="message" placeholder="Комментарий: сумма контракта, аванс, ГОЗ или 44-ФЗ (необязательно)" rows="2" maxlength="3000"></textarea>
+        <input class="hp" name="kz_note" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
+        <button class="submit" type="submit">Отправить заявку →</button>
+        <div class="formmsg" id="formMsgBottom" hidden></div>
+        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA до документов</span></div>
+        <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
+          <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
+          <h3>Заявка принята</h3>
+          <p>Эксперт свяжется <b>в течение часа</b> в рабочее время (пн–пт, 9:00–19:00 МСК).</p>
+        </div>
+      </form>
+      <p style="text-align:center;margin:18px 0 0;font-size:15px;color:#5F5A52">Телефон <a href="tel:+79818331010" style="color:#8B6F47">+7 981 833-10-10</a> · <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener" style="color:#8B6F47">Telegram</a> · <a href="https://wa.me/+79818331010" target="_blank" rel="noopener" style="color:#8B6F47">WhatsApp</a></p>
+    </div>
+  </div>
+</section>
+
 </div>
 
 <section class="trust" aria-label="Проверка в реестрах">
@@ -182,7 +425,6 @@
 </section>
 
 <script>
-/* обработчик нижней лид-формы (#leadFormBottom); верхнюю #leadForm обслуживает общий скрипт страницы */
 (function(){
   var f=document.getElementById('leadFormBottom'); if(!f) return;
   var msg=document.getElementById('formMsgBottom'), ok=document.getElementById('leadSuccessBottom');
@@ -195,7 +437,7 @@
     if(!/\d[\s\d().-]*\d{3}/.test(phone)||phone.replace(/\D/g,'').length<10){show('Проверьте телефон');return;}
     if(!f.consent.checked){show('Подтвердите согласие');return;}
     var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';
-    fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})})
+    fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,message:(f.message&&f.message.value||'').trim(),consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})})
       .then(function(r){ if(!r.ok) throw 0; return r; })
       .then(function(){
         [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; });
@@ -208,19 +450,6 @@
 </script>
 
 
-
-<script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Course", "name": "Обучение казначейскому сопровождению государственных контрактов", "description": "Индивидуальное обучение работе с казначейским сопровождением: открытие лицевого счёта, «Электронный бюджет», сведения об операциях и коды, санкционирование платежей, раздельный учёт и отчётность. 9 академических часов на документах и контрактах слушателя.", "url": "https://kaznaexpert.ru/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "@id": "https://kaznaexpert.ru/#organization"}, "teaches": ["Открытие лицевого счёта с кодом 71", "Работа в ГИИС «Электронный бюджет»", "Формирование сведений об операциях с целевыми средствами", "Коды направления расходования целевых средств", "Санкционирование платежей и работа с отказами", "Раздельный учёт целевых средств и отчётность"], "inLanguage": "ru-RU", "offers": {"@type": "Offer", "price": "150000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/", "description": "9 академических часов индивидуально; второй сотрудник — 50 000 ₽"}, "hasCourseInstance": {"@type": "CourseInstance", "courseMode": "online", "courseWorkload": "PT9H", "instructor": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}}}
-</script>
-<script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": ["https://kaznaexpert.ru/img/og/uslugi__obuchenie-kaznacheyskomu-soprovozhdeniyu-16x9.jpg", "https://kaznaexpert.ru/img/og/uslugi__obuchenie-kaznacheyskomu-soprovozhdeniyu-4x3.webp", "https://kaznaexpert.ru/img/og/uslugi__obuchenie-kaznacheyskomu-soprovozhdeniyu-1x1.webp"], "datePublished": "2026-07-15", "dateModified": "2026-08-31", "name": "Обучение казначейскому сопровождению", "serviceType": "Индивидуальное обучение", "description": "Индивидуальное обучение казначейскому сопровождению госконтрактов: 9 академических часов с экспертом Федерального казначейства на ваших контрактах. Цена 150 000 ₽.", "areaServed": "RU", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru/"}, "offers": {"@type": "Offer", "name": "Обучение · 9 академических часов", "price": "150000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/", "priceValidUntil": "2026-12-31"}}
-</script>
-<script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Сколько длится обучение казначейскому сопровождению?", "acceptedAnswer": {"@type": "Answer", "text": "Курс рассчитан на 9 академических часов. График гибкий: занятия можно распределить на несколько сессий и подстроить под вашу загрузку."}}, {"@type": "Question", "name": "В каком формате проходит обучение?", "acceptedAnswer": {"@type": "Answer", "text": "Индивидуально и онлайн, на ваших реальных контрактах и документах. Учит эксперт с 15+ годами в Федеральном казначействе; после курса остаются материалы и чек-листы."}}, {"@type": "Question", "name": "Кому подходит курс?", "acceptedAnswer": {"@type": "Answer", "text": "Бухгалтерам и финансистам подрядчиков, специалистам по госзакупкам и ответственным за лицевой счёт и «Электронный бюджет» — как для старта с нуля, так и для разбора проблем на действующем контракте."}}, {"@type": "Question", "name": "Что нужно для обучения?", "acceptedAnswer": {"@type": "Answer", "text": "Достаточно доступа к вашим контрактам и рабочему месту с электронной подписью. Программу и примеры строим на ваших контрактах."}}, {"@type": "Question", "name": "Что входит в стоимость 150 000 ₽?", "acceptedAnswer": {"@type": "Answer", "text": "Девять академических часов индивидуальной работы с экспертом на ваших контрактах и документах: открытие лицевого счёта и доступы, настройка «Электронного бюджета», формирование сведений об операциях и подбор кодов, санкционирование платежей и разбор отказов, раздельный учёт и отчётность, а также разбор ваших рабочих кейсов. Обучение второго сотрудника — 50 000 ₽."}}, {"@type": "Question", "name": "Подойдёт ли обучение бухгалтеру без опыта казначейского сопровождения?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Программа строится от нуля: начинаем с того, что такое лицевой счёт с кодом 71 и зачем он нужен, и доводим до самостоятельного проведения платежа и сдачи отчётности. Поскольку занятия индивидуальные, темп и глубина подстраиваются под уровень слушателя, а разбор идёт на документах вашей организации, а не на учебных примерах."}}, {"@type": "Question", "name": "Чем это отличается от курсов по казначейскому сопровождению контрактов?", "acceptedAnswer": {"@type": "Answer", "text": "Это не поток с записанными лекциями, а индивидуальная работа один на один: разбираются ваши контракты, ваши коды и ваши отказы казначейства. По итогам слушатель делает операции сам — открывает счёт, формирует сведения, проводит платёж, — а не пересказывает теорию."}}]}
-</script>
-<script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Услуги", "item": "https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie/"}, {"@type": "ListItem", "position": 3, "name": "Обучение казначейскому сопровождению"}]}
-</script>
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
 
@@ -374,7 +603,7 @@
     if(form.name.value.trim().length<2||form.phone.value.replace(/\D/g,'').length<10){show('Проверьте имя и телефон');return;}
     var DEMO=false;
     var btn=form.querySelector('.submit'),orig=btn.textContent;btn.disabled=true;btn.textContent='Отправляем…';
-    var data={phone:form.phone.value.trim(),source:SRC,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+SRC+')',consent_at:new Date().toISOString(),page_url:location.href,name:form.name.value.trim()};
+    var data={phone:form.phone.value.trim(),source:SRC,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+SRC+')',consent_at:new Date().toISOString(),page_url:location.href,name:form.name.value.trim(),message:(form.message&&form.message.value||'').trim()};
     fetch(form.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)})
       .then(function(r){if(!r.ok)throw 0;return r;}).then(succeed).catch(function(){if(DEMO){succeed();}else{fail();}});
     function succeed(){[].forEach.call(form.children,function(el){if(el!==ok)el.style.display='none';});ok.classList.add('on');try{window.ym&&ym(94305898,'reachGoal','lead',{source:SRC});}catch(e){}}
