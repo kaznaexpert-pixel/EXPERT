@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Банковское сопровождение контракта — под ключ, 105 000 ₽/мес</title>
-<meta name="description" content="Банковское сопровождение госконтракта и ГОЗ под ключ: выбор уполномоченного банка, открытие отдельного счёта, платежи с ИГК без блокировок, работа с банком. 105 000 ₽/мес.">
+<title>Банковское сопровождение контракта под ключ — 105 000 ₽/мес</title>
+<meta name="description" content="Банковский контур контракта под ключ: уполномоченный банк, отдельный счёт, платежи с ИГК и основаниями, разблокировка. 44-ФЗ (ПП № 963) и ГОЗ. 105 000 ₽/мес.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -24,21 +24,36 @@
 <!-- ╚════════════════════════════════════════════════════════════════════════════╝ -->
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
+
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": ["https://kaznaexpert.ru/img/og/uslugi__bankovskoe-soprovozhdenie-16x9.jpg", "https://kaznaexpert.ru/img/og/uslugi__bankovskoe-soprovozhdenie-4x3.webp", "https://kaznaexpert.ru/img/og/uslugi__bankovskoe-soprovozhdenie-1x1.webp"], "datePublished": "2026-08-13", "dateModified": "2026-09-09", "name": "Банковское сопровождение контракта под ключ", "serviceType": "Банковское сопровождение госконтрактов и ГОЗ (ПП № 963, 275-ФЗ)", "description": "Банковское сопровождение контракта под ключ: выбор уполномоченного банка, открытие отдельного счёта, подготовка платежей с ИГК, прохождение банковского контроля без блокировок, разблокировка проблемных платежей. Ведёт эксперт по банковскому сопровождению.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/bankovskoe-soprovozhdenie/", "offers": [{"@type": "Offer", "name": "Банковское сопровождение под ключ", "price": "105000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "priceValidUntil": "2026-12-31"}, {"@type": "Offer", "name": "Пакет «банковское + казначейское сопровождение»", "price": "180000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "priceValidUntil": "2026-12-31"}]}
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": ["https://kaznaexpert.ru/img/og/uslugi__bankovskoe-soprovozhdenie-16x9.jpg", "https://kaznaexpert.ru/img/og/uslugi__bankovskoe-soprovozhdenie-4x3.webp", "https://kaznaexpert.ru/img/og/uslugi__bankovskoe-soprovozhdenie-1x1.webp"], "datePublished": "2026-08-13", "dateModified": "2026-09-09", "name": "Банковское сопровождение контракта", "serviceType": "Ведение банковского сопровождения государственного контракта и отдельного счёта по гособоронзаказу: выбор уполномоченного банка, открытие счёта, платежи с ИГК, прохождение банковского контроля", "description": "Полный банковский контур контракта: подбор уполномоченного банка, открытие отдельного счёта, присоединение к правилам сопровождения, платежи с ИГК и документами-основаниями под требования банка, контроль прохождения, разбор возвратов и приостановок. По 44-ФЗ (постановление № 963) и гособоронзаказу (275-ФЗ). Фиксированная цена 105 000 ₽ в месяц без лимита операций.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "105000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "description": "Ежемесячное ведение банковского сопровождения контракта, без лимита операций", "url": "https://kaznaexpert.ru/uslugi/bankovskoe-soprovozhdenie/", "priceValidUntil": "2026-12-31", "priceSpecification": {"@type": "UnitPriceSpecification", "price": "105000", "priceCurrency": "RUB", "unitText": "MONTH", "billingDuration": "P1M"}}, "url": "https://kaznaexpert.ru/uslugi/bankovskoe-soprovozhdenie/"}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Банковское сопровождение"}]}
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Услуги", "item": "https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie/"}, {"@type": "ListItem", "position": 3, "name": "Банковское сопровождение", "item": "https://kaznaexpert.ru/uslugi/bankovskoe-soprovozhdenie/"}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что такое банковское сопровождение контракта?", "acceptedAnswer": {"@type": "Answer", "text": "Режим контроля расчётов по контракту через уполномоченный банк: банк проверяет каждый платёж на соответствие условиям контракта и целевому назначению. Применяется по 44-ФЗ (правила утверждены постановлением Правительства № 963, действует редакция от 04.02.2025 — сверено 9 сентября 2026) и в гособоронзаказе по 275-ФЗ — через отдельный счёт (ОБС)."}}, {"@type": "Question", "name": "Чем банковское сопровождение отличается от казначейского?", "acceptedAnswer": {"@type": "Answer", "text": "Казначейское ведёт Федеральное казначейство через лицевой счёт в УФК, банковское — уполномоченный банк через отдельный банковский счёт. По одному контракту режим всегда один: пункт 2 постановления Правительства № 963 выводит из-под правил банковского сопровождения контракты, средства по которым подлежат казначейскому сопровождению, а по гособоронзаказу отдельный счёт не открывается, если применяется казначейское сопровождение (часть 6 статьи 8 № 275-ФЗ). Зато в портфеле компании оба режима встречаются одновременно — по разным контрактам; тогда мы ведём оба контура."}}, {"@type": "Question", "name": "Разве банк не делает это сам, без доплаты?", "acceptedAnswer": {"@type": "Answer", "text": "Банк выполняет контроль — но не готовит за вас документы. Возвраты платежей, неверные основания, отсутствующий ИГК, споры с банком по назначению платежа — это работа исполнителя. Мы берём её на себя: платежи проходят с первой подачи."}}, {"@type": "Question", "name": "Сколько стоит услуга?", "acceptedAnswer": {"@type": "Answer", "text": "105 000 ₽ в месяц — фиксированно, без лимита на количество платежей и обращений. Пакет «банковское + казначейское сопровождение» — 180 000 ₽ в месяц вместо 210 000 при заказе двух контуров по отдельности. Цена закрепляется в договоре до начала работ."}}, {"@type": "Question", "name": "Поможете, если банк уже заблокировал платёж?", "acceptedAnswer": {"@type": "Answer", "text": "Да, это профильная задача: разбираем причину отказа, исправляем основания и назначение платежа, при необходимости ведём переписку с банком — до прохождения платежа."}}, {"@type": "Question", "name": "Работаете с ОБС по гособоронзаказу?", "acceptedAnswer": {"@type": "Answer", "text": "Да: открытие отдельного счёта в уполномоченном банке (ПСБ, ГПБ, Сбер и др.), режим ст. 8.3 275-ФЗ, платежи с ИГК, раздельный учёт — в связке с казначейским контуром, если он тоже есть."}}, {"@type": "Question", "name": "Какие документы нужны от нас?", "acceptedAnswer": {"@type": "Answer", "text": "Контракт с условием о банковском сопровождении, реквизиты и доступ к банку (или доверенность на взаимодействие), первичные документы по платежам. Остальное готовим сами."}}, {"@type": "Question", "name": "Работаете под NDA?", "acceptedAnswer": {"@type": "Answer", "text": "Да, подписываем NDA до передачи документов. Данные по контрактам и платежам третьим лицам не передаются."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что такое банковское сопровождение контракта?", "acceptedAnswer": {"@type": "Answer", "text": "Режим контроля расчётов по контракту через уполномоченный банк: банк проверяет каждый платёж на соответствие условиям контракта и целевому назначению. Применяется по 44-ФЗ (правила — постановление Правительства № 963) и в гособоронзаказе по 275-ФЗ через отдельный счёт."}}, {"@type": "Question", "name": "Чем банковское сопровождение отличается от казначейского?", "acceptedAnswer": {"@type": "Answer", "text": "Казначейское ведёт Федеральное казначейство через лицевой счёт 71, банковское — уполномоченный банк через отдельный счёт. По одному контракту режим один: пункт 2 постановления № 963 исключает контракты под казначейским сопровождением, а по ГОЗ отдельный счёт не открывается при казначейском сопровождении (часть 6 статьи 8 № 275-ФЗ). В портфеле компании оба режима встречаются по разным контрактам — тогда ведём оба контура."}}, {"@type": "Question", "name": "Разве банк не делает это сам?", "acceptedAnswer": {"@type": "Answer", "text": "Банк контролирует, но не готовит документы за вас. Возвраты, неверные основания, отсутствующий ИГК, споры по назначению платежа — работа исполнителя. Её и берём на себя: платежи проходят с первой подачи."}}, {"@type": "Question", "name": "Сколько стоит услуга?", "acceptedAnswer": {"@type": "Answer", "text": "105 000 ₽ в месяц фиксированно, без лимита на число платежей и обращений. Пакет «банк + казначейство» — 180 000 ₽ в месяц вместо 210 000 при заказе двух контуров по отдельности. Цена закрепляется в договоре до начала работ."}}, {"@type": "Question", "name": "Поможете, если банк уже вернул или приостановил платёж?", "acceptedAnswer": {"@type": "Answer", "text": "Да, это профильная задача: разбираем причину, исправляем основания и назначение, ведём переписку с банком — до прохождения платежа."}}, {"@type": "Question", "name": "Работаете с отдельным счётом по гособоронзаказу?", "acceptedAnswer": {"@type": "Answer", "text": "Да: режим статьи 8.3 закона № 275-ФЗ, ИГК в каждом документе, ограничения по перечислениям, документы кооперации. Расчётно-калькуляционные материалы — отдельная услуга."}}, {"@type": "Question", "name": "Работаете по всей России?", "acceptedAnswer": {"@type": "Answer", "text": "Да, дистанционно. Обмен с банком и документооборот — электронно, личное присутствие не требуется."}}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
 <link rel="preload" as="font" type="font/woff2" href="/fonts/playfairdisplay-normal-500-cyrillic.woff2" crossorigin>
 <style id="fonts-crit">/* критические @font-face (кириллица, выше первого экрана): H1 Playfair 500 + body Inter 400. Остальные начертания — из fonts.css (async). */
 @font-face{font-family:'Inter';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/inter-normal-400-cyrillic.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
-@font-face{font-family:'Playfair Display';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/playfairdisplay-normal-500-cyrillic.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}</style>
+@font-face{font-family:'Playfair Display';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/playfairdisplay-normal-500-cyrillic.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+.lp2-answer{background:#FFFDF8;border:1px solid #E4DDD0;border-left:3px solid #A8844A;border-radius:8px;padding:16px 20px;margin:0 0 24px;font-size:17px;line-height:1.6}
+.lp2-answer p{margin:0}
+.lp2-block{max-width:900px;margin:0 auto}
+.lp2-block p{font-size:17px;line-height:1.68;margin:0 0 16px}
+.lp2-table{width:100%;border-collapse:collapse;margin:8px 0 20px;font-size:16px;border-top:2px solid #8B6F47}
+.lp2-table caption{caption-side:top;text-align:left;font-size:14px;color:#7A7263;font-style:italic;padding:0 0 12px}
+.lp2-table th,.lp2-table td{padding:12px 16px;text-align:left;vertical-align:top;border-bottom:1px solid #E4DDD0;line-height:1.5}
+.lp2-table th{font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;font-weight:600}
+.lp2-list{margin:0 0 18px;padding-left:22px}
+.lp2-list li{margin:0 0 10px;line-height:1.6;font-size:17px}
+.lp2-note{font-size:15px;color:#5F5A52;line-height:1.6;border-top:1px solid #E4DDD0;padding-top:14px;margin-top:6px}
+.lp2-note a{color:#8B6F47}
+@media(max-width:680px){.lp2-table{font-size:15px}.lp2-table th,.lp2-table td{padding:10px 10px}.lp2-block p,.lp2-list li{font-size:16px}}
+</style>
 <link rel="preload" href="/css/fonts.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/fonts.css') ?>" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/css/fonts.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/fonts.css') ?>"></noscript>
 <style id="v2-crit">/* critical: v2-шапка (above-the-fold); полный v2.css грузится асинхронно */
@@ -65,30 +80,25 @@
 <link rel="preload" href="/css/v2.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/v2.css') ?>" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/css/v2.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/v2.css') ?>"></noscript>
 
-<meta property="og:type" content="article">
+<meta property="og:type" content="website">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Банковское сопровождение контракта — под ключ, 105 000 ₽/мес">
-<meta property="og:description" content="Уполномоченный банк, отдельный счёт, платежи с ИГК без блокировок. Банковский контур контракта под ключ. Вся Россия.">
+<meta property="og:title" content="Банковское сопровождение контракта — 105 000 ₽/мес">
+<meta property="og:description" content="Уполномоченный банк, отдельный счёт, платежи с ИГК и основаниями с первой подачи, разблокировка проблемных платежей. 44-ФЗ и ГОЗ. Фиксированная цена.">
 <meta property="og:url" content="https://kaznaexpert.ru/uslugi/bankovskoe-soprovozhdenie/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og/uslugi__bankovskoe-soprovozhdenie-16x9.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="675">
-<meta property="og:image:alt" content="Восстановление раздельного учёта — КазнаЭксперт">
+<meta property="og:image:alt" content="Банковское сопровождение контракта — 105 000 ₽/мес — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-09-09T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-09T10:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Банковское сопровождение контракта — под ключ">
-<meta name="twitter:description" content="Выбор банка, ОБС, платежи с ИГК, прохождение банковского контроля. 105 000 ₽/мес без лимита операций.">
+<meta name="twitter:title" content="Банковское сопровождение контракта — 105 000 ₽/мес">
+<meta name="twitter:description" content="Уполномоченный банк, отдельный счёт, платежи с ИГК и основаниями с первой подачи, разблокировка проблемных платежей. 44-ФЗ и ГОЗ. Фиксированная цена.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og/uslugi__bankovskoe-soprovozhdenie-16x9.jpg">
 
-<!-- Schema: Article -->
-<!-- Schema: HowTo -->
-<!-- Schema: FAQPage -->
-<!-- Schema: BreadcrumbList -->
-<!-- Schema: DefinedTermSet (глоссарий — для entity-распознавания AI) -->
 <link rel="stylesheet" href="/css/landing-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/landing-shared.css') ?>">
 </head>
 <body>
@@ -143,43 +153,65 @@
 
 <div class="v2">
 
-<style>@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}</style>
+<style>@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}
+.railform textarea.fld{resize:vertical;min-height:64px;line-height:1.45}
+.v2 .lp2-risk{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin:28px 0 0}
+.v2 .lp2-risk div{padding:16px 18px;border:1px solid #E4DDD0;border-left:3px solid #A8844A;background:#FFFDF8;font-size:15px;line-height:1.5}
+.v2 .lp2-risk b{display:block;font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:#8B6F47;margin-bottom:6px}
+.v2 .lp2-price{display:flex;flex-wrap:wrap;align-items:baseline;gap:10px 22px;margin:22px 0 0;padding:18px 0 0;border-top:1px solid #E4DDD0}
+.v2 .lp2-price b{font-family:var(--font-display);font-weight:500;font-size:34px;letter-spacing:-.02em}
+.v2 .lp2-price span{color:#5F5A52;font-size:15px}
+.v2 .lp2-scen{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
+.v2 .lp2-scen article{padding:22px 24px;background:var(--paper);border:1px solid var(--hair-strong)}
+.v2 .lp2-scen h3{font-family:var(--font-display);font-weight:500;font-size:20px;margin:0 0 10px;letter-spacing:-.01em}
+.v2 .lp2-scen p{margin:0;font-size:16px;line-height:1.6;color:#3A3A3A}
+.v2 .lp2-scen p b{color:#1A1A1A}
+@media(max-width:920px){.v2 .lp2-risk{grid-template-columns:repeat(2,1fr)}.v2 .lp2-scen{grid-template-columns:1fr}}
+@media(max-width:560px){.v2 .lp2-risk{grid-template-columns:1fr}.v2 .lp2-price b{font-size:28px}}
+</style>
 
 <section class="v2-hero">
   <div class="v2-container">
-    <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › Банковское сопровождение</nav>
+    <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a> › Банковское сопровождение</nav>
     <div class="v2-hero-grid">
       <div class="v2-hero-main">
         <div class="v2-hero-eyebrow-row">
-          <span class="v2-eyebrow">Услуга · Банковский контроль · ГОЗ</span>
+          <span class="v2-eyebrow">Услуга · банковское сопровождение · 44-ФЗ · ГОЗ 275-ФЗ</span>
           <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
         </div>
-        <h1>Банковское сопровождение <em>контракта — под ключ</em></h1>
+        <h1>Банковское сопровождение контракта — <em>платежи проходят с первой подачи</em></h1>
 <a href="/#reviews" class="v2-reviews-link">Отзывы клиентов →</a>
-        <p class="v2-hero-lede"><strong>Берём банковский контур контракта целиком:</strong> выбор уполномоченного банка, открытие отдельного счёта, подготовка платежей с ИГК и документами-основаниями, прохождение банковского контроля и разблокировка проблемных платежей. Платежи проходят с первой подачи.</p>
-        <div class="v2-hero-trust"><div class="v2-trust-item"><div class="v2-trust-num v2-trust-price">105 000 ₽/мес</div><div class="v2-trust-label">фиксированная цена, в договоре</div></div><div class="v2-trust-item"><div class="v2-trust-num">90<span class="v2-trust-suffix">&nbsp;млрд&nbsp;₽</span></div><div class="v2-trust-label">прошло через счета</div></div><div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div><div class="v2-trust-item"><div class="v2-trust-num">1С<span class="v2-trust-suffix"></span></div><div class="v2-trust-label">настройка учёта</div></div></div>
+        <p class="v2-hero-lede"><strong>Для исполнителей контрактов с условием о банковском сопровождении по 44-ФЗ и гособоронзаказа с отдельным счётом по 275-ФЗ.</strong> Берём банковский контур целиком: выбор уполномоченного банка, открытие отдельного счёта, платежи с ИГК и документами-основаниями под требования конкретного банка, контроль прохождения и разблокировка проблемных платежей. Банк проверяет — документы готовим мы.</p>
+        <div class="lp2-risk">
+          <div><b>Снимаем риск</b>Возврат платежа из-за назначения или отсутствующего ИГК — кооперация без денег</div>
+          <div><b>Снимаем риск</b>Фактическая остановка расчётов при систематических нарушениях режима счёта</div>
+          <div><b>Снимаем риск</b>Проблемы с платежами, которые банк передаёт заказчику напрямую</div>
+          <div><b>Снимаем риск</b>Штрафы за нарушение режима отдельного счёта по 275-ФЗ</div>
+        </div>
+        <div class="lp2-price"><b>105 000 ₽/мес</b><span>Фиксируется в договоре, без лимита операций</span><span>Пакет банк + казначейство — 180 000 ₽/мес вместо 210 000</span></div>
         <div class="v2-hero-expert">
           <div class="v2-expert-name">Михайлов Ярослав</div>
           <div class="v2-expert-role">Эксперт · 15 лет в Казначействе</div>
-          <p class="v2-expert-quote">«Банк не объясняет, как правильно, — он просто возвращает платёж. Наша работа в том, чтобы возвратов не было: правильное назначение, ИГК и основания с первой подачи».</p>
+          <p class="v2-expert-quote">«Банк не объясняет, как правильно, — он просто возвращает платёж. Наша работа в том, чтобы возвратов не было: назначение, ИГК и основания с первой подачи, под требования именно вашего банка».</p>
         </div>
       </div>
       <aside class="v2-hero-action">
-        <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
+        <div class="v2-hero-action-eyebrow">Заявка</div>
         <h2>Оценим объём</h2>
-        <p class="v2-hero-action-sub">Оставьте контакты — эксперт перезвонит в течение часа в рабочее время (9:00–21:00 МСК), разберёт контракт и условия банковского сопровождения. NDA — до передачи документов.</p>
+        <p class="v2-hero-action-sub">Расскажите про контракт и банк — перезвоним в течение часа в рабочее время (9:00–21:00 МСК), разберём условия сопровождения и подтвердим состав работ. 105 000 ₽/мес фиксируется в договоре, NDA — до передачи документов.</p>
         <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="bankovskoe-soprovozhdenie">
           <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
           <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
+          <textarea class="fld" name="message" placeholder="Комментарий: контракт, банк, ГОЗ или 44-ФЗ, были ли возвраты (необязательно)" rows="2" maxlength="3000"></textarea>
           <input class="hp" name="kz_note" tabindex="-1" autocomplete="off" aria-hidden="true">
           <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-          <button class="submit" type="submit">Оставить заявку →</button>
+          <button class="submit" type="submit">Отправить заявку →</button>
           <div class="formmsg" id="formMsg" hidden></div>
-          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA по запросу</span></div>
+          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA до документов</span></div>
           <div class="success" id="leadSuccess" role="status" aria-live="polite">
             <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
             <h3>Заявка принята</h3>
-            <p>Эксперт перезвонит <b>в течение часа</b> (9:00–21:00 МСК) и разберёт ваш контракт.</p>
+            <p>Эксперт свяжется <b>в течение часа</b> в рабочее время (пн–пт, 9:00–19:00 МСК) и разберёт ваш контракт.</p>
             <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
           </div>
         </form>
@@ -196,29 +228,18 @@
       <h2 class="v2-section-title">Когда нужно <em>банковское сопровождение</em></h2>
       <p class="v2-section-lede">Четыре ситуации, когда расчёты по контракту идут через контроль уполномоченного банка.</p>
     </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Условие в контракте</h3><p class="v2-process-desc">Заказчик включил банковское сопровождение по правилам постановления № 963 — расчёты только через счёт в уполномоченном банке.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Гособоронзаказ</h3><p class="v2-process-desc">Контракт по 275-ФЗ — отдельный счёт (ОБС) в уполномоченном банке с режимом ст. 8.3: каждый платёж с ИГК и под контролем.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Контракты в двух контурах</h3><p class="v2-process-desc">Одни контракты компании идут под банковским сопровождением, другие — под казначейским. По каждому отдельному контракту режим один, но в портфеле они соседствуют — ведём оба контура.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Платежи не проходят</h3><p class="v2-process-desc">Банк возвращает платёжки, счёт фактически заблокирован, сроки горят — разбираем причины и восстанавливаем расчёты.</p></article></div>
+    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Условие в контракте по 44-ФЗ</h3><p class="v2-process-desc">Заказчик включил банковское сопровождение по правилам постановления № 963 — расчёты только через счёт в уполномоченном банке, каждый платёж под проверкой.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Гособоронзаказ по 275-ФЗ</h3><p class="v2-process-desc">Отдельный счёт в уполномоченном банке с режимом статьи 8.3: ИГК в каждом документе, ограничения по перечислениям, контроль банка.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Контракты в двух контурах</h3><p class="v2-process-desc">Одни контракты под банком, другие под казначейством. По каждому режим один, но в портфеле они соседствуют — ведём оба контура согласованно.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Платежи не проходят</h3><p class="v2-process-desc">Банк возвращает платёжки, счёт фактически стоит, сроки горят. Разбираем причины, исправляем основания и назначения, восстанавливаем расчёты.</p></article></div>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="pod-kluch">
+<section class="v2-section v2-screen" id="sostav">
   <div class="v2-container">
     <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Состав работы</div>
-      <h2 class="v2-section-title">Что берём <em>на себя</em></h2>
-      <p class="v2-section-lede">Полный цикл банковского контура — от выбора банка до последнего платежа по контракту.</p>
+      <div class="v2-section-eyebrow">Что входит</div>
+      <h2 class="v2-section-title">Банковский контур <em>целиком</em></h2>
+      <p class="v2-section-lede">От выбора банка до последнего платежа по контракту — без лимита операций.</p>
     </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Выбор банка и счёт</h3><p class="v2-process-desc">Подбираем уполномоченный банк под ваш контракт, готовим пакет и открываем отдельный счёт без возвратов документов.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Договор сопровождения</h3><p class="v2-process-desc">Присоединение к правилам банковского сопровождения, настройка документооборота с банком.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Платежи с ИГК</h3><p class="v2-process-desc">Готовим распоряжения: корректные назначение платежа, ИГК и документы-основания — под требования конкретного банка.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Контроль прохождения</h3><p class="v2-process-desc">Отслеживаем каждый платёж до списания; замечания банка снимаем сами, без вашего участия.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Проблемные случаи</h3><p class="v2-process-desc">Возвраты, приостановки, запросы банка — разбираем причину, исправляем и доводим платёж.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Связка с казначейством</h3><p class="v2-process-desc">Если параллельно у вас идут контракты под казначейским сопровождением — ведём оба контура согласованно: счета, сведения об операциях, платежи.</p></article></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="ot-vas">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Что от вас</div>
-      <h2 class="v2-section-title">Что потребуется <em>от вас</em></h2>
-      <p class="v2-section-lede">Минимум документов — банковский контур ведём мы. Всё под NDA.</p>
-    </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Контракт и условия БС</h3><p class="v2-process-desc">Контракт с условием о банковском сопровождении, ИГК — если это гособоронзаказ.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Доступ к банку</h3><p class="v2-process-desc">Реквизиты и доступ к банку либо доверенность на взаимодействие с ним.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Первичные документы</h3><p class="v2-process-desc">Договоры с кооперацией, акты и счета — основания для платежей.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Контакт для связи</h3><p class="v2-process-desc">Ответственный, с кем уточняем детали.</p></article></div>
+    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Банк и отдельный счёт</h3><p class="v2-process-desc">Подбираем уполномоченный банк под ваш контракт и заказчика, готовим пакет, открываем отдельный счёт без возвратов документов.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Договор сопровождения</h3><p class="v2-process-desc">Присоединение к правилам банковского сопровождения, настройка документооборота и обмена с банком.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Платежи с ИГК</h3><p class="v2-process-desc">Распоряжения с корректным назначением, ИГК и документами-основаниями — под требования конкретного банка, а не «в общем».</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Контроль прохождения</h3><p class="v2-process-desc">Каждый платёж ведём до списания; запросы и замечания банка снимаем сами.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Проблемные случаи</h3><p class="v2-process-desc">Возвраты, приостановки, запросы — находим причину, исправляем, доводим платёж; при необходимости ведём переписку с банком.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Связка с казначейством</h3><p class="v2-process-desc">Если параллельно есть контракты под казначейским сопровождением — ведём оба контура: счета, сведения, платежи, отчётность.</p></article></div>
   </div>
 </section>
 
@@ -226,51 +247,136 @@
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Процесс</div>
-      <h2 class="v2-section-title">От заявки до работающих платежей — <em>по шагам</em></h2>
+      <h2 class="v2-section-title">От заявки до работающих платежей</h2>
+      <p class="v2-section-lede">Три шага — и дальше ежемесячное ведение без лимита операций.</p>
     </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Разбор контракта</h3><p class="v2-process-desc">Смотрим условия сопровождения, определяем банк и состав работ, фиксируем цену в договоре. NDA — до передачи документов.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Счёт и подключение</h3><p class="v2-process-desc">Открываем отдельный счёт, присоединяемся к правилам сопровождения, настраиваем обмен с банком.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Ведём платежи</h3><p class="v2-process-desc">Каждый платёж — с корректными ИГК и основаниями, до исполнения контракта. Без лимита операций.</p></article></div>
+    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">Сегодня · в течение часа</div><h3>Разбор контракта</h3><p class="v2-process-desc">Условия сопровождения, банк заказчика, режим счёта, состав работ; подписываем договор и NDA.</p><ul class="v2-process-checks"><li>Режим определён</li><li>Договор подписан</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">Дни 1–3</div><h3>Счёт и подключение</h3><p class="v2-process-desc">Открываем отдельный счёт, присоединяемся к правилам сопровождения, настраиваем обмен с банком и шаблоны платежей.</p><ul class="v2-process-checks"><li>Счёт открыт</li><li>Обмен настроен</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">Весь срок</div><h3>Ведём платежи</h3><p class="v2-process-desc">Каждый платёж с ИГК и основаниями, контроль до списания, разбор запросов банка — до исполнения контракта.</p><ul class="v2-process-checks"><li>Платежи проходят</li><li>Кооперация оплачена</li></ul></article></div>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="riski">
+<section class="v2-section v2-screen" id="nuzhno">
   <div class="v2-container">
     <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Риски</div>
-      <h2 class="v2-section-title">Чем грозят <em>ошибки в банковском контуре</em></h2>
+      <div class="v2-section-eyebrow">Что от вас</div>
+      <h2 class="v2-section-title">Что потребуется <em>от вас</em></h2>
     </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Возврат платежа</h3><p class="v2-process-desc">Неверное назначение или отсутствующий ИГК — банк возвращает распоряжение, расчёты с поставщиками встают.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Срыв сроков контракта</h3><p class="v2-process-desc">Пока платежи не проходят, кооперация не получает деньги — под угрозой график исполнения и неустойки.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Блокировка операций</h3><p class="v2-process-desc">Систематические нарушения режима счёта приводят к фактической остановке расчётов по контракту.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Претензии заказчика</h3><p class="v2-process-desc">Банк передаёт информацию о сопровождении заказчику — проблемы с платежами видны ему напрямую.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Путаница между контурами</h3><p class="v2-process-desc">Когда часть контрактов под банком, а часть под казначейством, реквизиты и порядок из одного режима переносят в другой — платёж уходит не туда и возвращается.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Штрафы по ГОЗ</h3><p class="v2-process-desc">Нарушения режима отдельного счёта по 275-ФЗ — административная ответственность и внимание контролёров.</p></article></div>
+    <div class="lp2-block">
+      <table class="lp2-table">
+        <caption>Минимум документов — банковский контур ведём мы</caption>
+        <thead><tr><th>Что нужно</th><th>Зачем</th></tr></thead>
+        <tbody>
+          <tr><td>Контракт с условием о банковском сопровождении; для ГОЗ — ИГК</td><td>Режим счёта, требования банка и заказчика</td></tr>
+          <tr><td>Реквизиты и доступ к банку либо доверенность на взаимодействие</td><td>Платежи и переписка с банком</td></tr>
+          <tr><td>Договоры с кооперацией, акты, счета</td><td>Документы-основания для каждого платежа</td></tr>
+          <tr><td>Ответственный на связи</td><td>Уточняем детали по ходу</td></tr>
+        </tbody>
+      </table>
+      <p class="lp2-note">Не уверены, банковское у вас сопровождение или казначейское, — пришлите контракт: по одному контракту режим всегда один, и мы скажем, какой.</p>
+    </div>
   </div>
 </section>
-
-
 
 <section class="v2-section v2-screen" id="tarif">
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Стоимость</div>
-      <h2 class="v2-section-title">Стоимость — <em>фиксированная</em></h2>
-      <p class="v2-section-lede">Ведение банковского сопровождения — 105 000 ₽ в месяц, фиксированно. Пакет «банк + казначейство» — 180 000 ₽ в месяц вместо 210 000 при заказе двух контуров по отдельности: каждый контур ведёт профильный специалист. Цену закрепляем в договоре до начала работ. Разобраться в теме: <a href="/baza-znaniy/otdelnyy-schet-po-goz/">отдельный счёт по ГОЗ</a>, <a href="/baza-znaniy/upolnomochennye-banki-po-goz/">уполномоченные банки</a>, <a href="/baza-znaniy/kaznacheyskoe-i-bankovskoe-soprovozhdenie/">чем банковское сопровождение отличается от казначейского</a>.</p>
+      <h2 class="v2-section-title">105 000 ₽ в месяц — <em>фиксированная цена</em></h2>
+      <p class="v2-section-lede">Цена записывается в договоре до начала работ и не зависит от числа платежей и обращений в банк. Оплата — после подписания договора.</p>
     </div>
     <div class="v2-tariffs-grid lp-3col"><article class="v2-tariff is-featured">
         <div class="v2-tariff-no">01</div>
-        <div class="v2-tariff-stage">Старт</div>
-        <h3>Разбор контракта</h3>
-        <p class="v2-tariff-desc">Смотрим условия сопровождения и банк, определяем состав работ и называем точную стоимость.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">по запросу</div><div class="v2-tariff-price-note">После звонка · в рабочее время</div><a href="#zayavka" class="v2-tariff-link">Заказать <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-stage">Банк</div>
+        <h3>Банковское сопровождение</h3>
+        <p class="v2-tariff-desc">Счёт, договор с банком, платежи с ИГК, контроль прохождения, проблемные случаи — без лимита операций, до исполнения контракта.</p>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">105 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Фиксированно · без лимита операций</div><a href="#zayavka" class="v2-tariff-link">Оставить заявку <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">02</div>
-        <div class="v2-tariff-stage">Основное</div>
-        <h3>Банковское сопровождение</h3>
-        <p class="v2-tariff-desc">Счёт, договор с банком, платежи с ИГК, контроль прохождения и проблемные случаи — без лимита операций.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">105 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Фиксированная цена · в договоре</div><a href="#zayavka" class="v2-tariff-link">Обсудить <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-stage">Пакет</div>
+        <h3>Банк + казначейство</h3>
+        <p class="v2-tariff-desc">Портфель в двух контурах: по одним контрактам отдельный счёт в банке, по другим — лицевой счёт в УФК. Два профильных специалиста, согласованные платежи и отчётность.</p>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">180 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Вместо 210 000 ₽ при заказе по отдельности</div><a href="#zayavka" class="v2-tariff-link">Обсудить пакет <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">03</div>
-        <div class="v2-tariff-stage">Дальше</div>
-        <h3>Пакет: банк + казначейство</h3>
-        <p class="v2-tariff-desc">Портфель в двух контурах под ключ: по одним контрактам отдельный счёт в банке, по другим — лицевой счёт в УФК. Согласованные платежи и отчётность, два профильных специалиста.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">180 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note"><s style="opacity:.55">210 000 ₽</s> при заказе по отдельности</div><a href="/uslugi/kaznacheyskoe-soprovozhdenie/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-stage">Казначейство</div>
+        <h3>Казначейское сопровождение</h3>
+        <p class="v2-tariff-desc">Лицевой счёт 71, сведения, санкционирование, раздельный учёт — контракты под казначейским контуром.</p>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">105 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Контракт с авансом · 65 000 ₽ постоплата</div><a href="/uslugi/kaznacheyskoe-soprovozhdenie/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article></div>
-    <p class="v2-tariffs-footnote">Все цены фиксируются в договоре.</p>
+    <p class="v2-tariffs-footnote">Все цены — на странице <a href="/baza-znaniy/stoimost-kaznacheyskogo-soprovozhdeniya/">«Стоимость казначейского сопровождения»</a>.</p>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="kontur">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Разграничение</div>
+      <h2 class="v2-section-title">Банковское или казначейское: <em>какой режим у вашего контракта</em></h2>
+      <p class="v2-section-lede">По одному контракту режим всегда один: пункт 2 постановления № 963 выводит из-под банковского сопровождения контракты, средства по которым подлежат казначейскому сопровождению, а по ГОЗ отдельный счёт не открывается, если применяется казначейское сопровождение (часть 6 статьи 8 № 275-ФЗ).</p>
+    </div>
+    <div class="lp2-block">
+      <table class="lp2-table">
+        <caption>Два контура расчётов по контракту</caption>
+        <thead><tr><th>Параметр</th><th>Банковское сопровождение</th><th>Казначейское сопровождение</th></tr></thead>
+        <tbody>
+          <tr><td>Кто контролирует</td><td>Уполномоченный банк</td><td>Территориальный орган Федерального казначейства</td></tr>
+          <tr><td>Счёт</td><td>Отдельный счёт в банке (по ГОЗ — ОБС)</td><td>Лицевой счёт с кодом 71 в УФК</td></tr>
+          <tr><td>Основание</td><td>Условие контракта по ПП № 963; 275-ФЗ для ГОЗ</td><td>Ст. 242.23 БК, закон о бюджете, ПП № 2024</td></tr>
+          <tr><td>Что проверяют</td><td>Назначение платежа, ИГК, основания, режим счёта</td><td>Сведения об операциях, коды направления, документы-основания</td></tr>
+          <tr><td>Кто ведёт у нас</td><td>Профильный специалист по банковскому контуру</td><td>Специалист по казначейскому контуру</td></tr>
+        </tbody>
+      </table>
+      <p class="lp2-note">Подробно: <a href="/baza-znaniy/bankovskoe-soprovozhdenie-kontrakta-44-fz/">банковское сопровождение контракта по 44-ФЗ</a>, <a href="/baza-znaniy/kaznacheyskoe-i-bankovskoe-soprovozhdenie/">чем казначейское отличается от банковского</a>.</p>
+    </div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="scenarii">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Когда что-то пошло не так</div>
+      <h2 class="v2-section-title">Четыре типовых сбоя — <em>и что мы делаем в каждом</em></h2>
+    </div>
+    <div class="lp2-scen">
+      <article class="reveal"><h3>Банк вернул платёж: назначение</h3><p><b>Что делаем:</b> переписываем назначение под требования этого банка — ИГК, реквизиты контракта, основание — и переподаём в тот же день.</p></article>
+      <article class="reveal"><h3>В документах кооперации нет ИГК</h3><p><b>Что делаем:</b> возвращаем контрагенту с точной правкой; по ГОЗ документ без ИГК не пройдёт ни в банке, ни у заказчика.</p></article>
+      <article class="reveal"><h3>Банк приостановил операции</h3><p><b>Что делаем:</b> запрашиваем основание, готовим обоснование и документы, ведём переписку до возобновления расчётов.</p></article>
+      <article class="reveal"><h3>Реквизиты из одного контура ушли в другой</h3><p><b>Что делаем:</b> разводим контракты по контурам в учёте и шаблонах платежей, чтобы деньги по казначейскому контракту не уходили на банковский счёт и наоборот.</p></article>
+    </div>
+    <p class="lp2-note" style="max-width:900px;margin:22px auto 0">По гособоронзаказу: <a href="/baza-znaniy/otdelnyy-schet-po-goz/">отдельный счёт по ГОЗ</a>, <a href="/baza-znaniy/upolnomochennye-banki-po-goz/">уполномоченные банки</a>.</p>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="sravnenie">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Сравнение</div>
+      <h2 class="v2-section-title">Самостоятельно, штатный специалист <em>или с нами</em></h2>
+    </div>
+    <div class="lp2-block">
+      <table class="lp2-table">
+        <caption>Кому доверить банковский контур</caption>
+        <thead><tr><th>Критерий</th><th>Самостоятельно</th><th>Штатный специалист</th><th>КазнаЭксперт</th></tr></thead>
+        <tbody>
+          <tr><td>Возвраты платежей</td><td>Учитесь на своих</td><td>Зависит от опыта с этим банком</td><td>Требования банка знаем заранее</td></tr>
+          <tr><td>Скорость</td><td>Дни на переподачу</td><td>По загрузке</td><td>Переподача в тот же день</td></tr>
+          <tr><td>Два контура</td><td>Путаница реквизитов</td><td>Одна голова на оба режима</td><td>Два профильных специалиста</td></tr>
+          <tr><td>Стоимость</td><td>Время и неустойки</td><td>Оклад и взносы круглый год</td><td>105 000 ₽/мес фиксированно</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="keys">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Из практики</div>
+      <h2 class="v2-section-title">Как это выглядит <em>на реальном контракте</em></h2>
+    </div>
+    <div class="lp2-block">
+      <p>Исполнитель гособоронзаказа с отдельным счётом в уполномоченном банке получил три возврата подряд: банк не принимал платежи субподрядчику из-за назначения без ссылки на ИГК и договор кооперации. Разобрали требования именно этого банка, переписали шаблоны назначений, вернули субподрядчику акты на доработку с точной правкой; платежи прошли на следующий день. Параллельно у компании шёл контракт по 44-ФЗ под казначейским сопровождением — развели контуры в учёте и шаблонах, чтобы реквизиты не путались, и взяли оба контракта в пакет.</p>
+      <p class="lp2-note">Другие кейсы — на странице <a href="/keysy/">«Кейсы»</a>; сопровождение ГОЗ целиком — <a href="/uslugi/soprovozhdenie-avans/">контракт с авансом или ГОЗ</a>.</p>
+    </div>
   </div>
 </section>
 
@@ -280,7 +386,13 @@
       <div class="v2-section-eyebrow">Вопросы</div>
       <h2 class="v2-section-title">Отвечаем <em>прямо</em></h2>
     </div>
-    <div class="faq"><details open><summary>Что такое банковское сопровождение контракта?</summary><p>Режим контроля расчётов по контракту через уполномоченный банк: банк проверяет каждый платёж на соответствие условиям контракта и целевому назначению. Применяется по 44-ФЗ (правила утверждены постановлением Правительства № 963, действует редакция от 04.02.2025 — сверено 9 сентября 2026) и в гособоронзаказе по 275-ФЗ — через отдельный счёт (ОБС).</p></details><details><summary>Чем банковское сопровождение отличается от казначейского?</summary><p>Казначейское ведёт Федеральное казначейство через лицевой счёт в УФК, банковское — уполномоченный банк через отдельный банковский счёт. По одному контракту режим всегда один: пункт 2 постановления Правительства № 963 выводит из-под правил банковского сопровождения контракты, средства по которым подлежат казначейскому сопровождению, а по гособоронзаказу отдельный счёт не открывается, если применяется казначейское сопровождение (часть 6 статьи 8 № 275-ФЗ). Зато в портфеле компании оба режима встречаются одновременно — по разным контрактам; тогда мы ведём оба контура.</p></details><details><summary>Разве банк не делает это сам, без доплаты?</summary><p>Банк выполняет контроль — но не готовит за вас документы. Возвраты платежей, неверные основания, отсутствующий ИГК, споры с банком по назначению платежа — это работа исполнителя. Мы берём её на себя: платежи проходят с первой подачи.</p></details><details><summary>Сколько стоит услуга?</summary><p>105 000 ₽ в месяц — фиксированно, без лимита на количество платежей и обращений. Пакет «банковское + казначейское сопровождение» — 180 000 ₽ в месяц вместо 210 000 при заказе двух контуров по отдельности. Цена закрепляется в договоре до начала работ.</p></details><details><summary>Поможете, если банк уже заблокировал платёж?</summary><p>Да, это профильная задача: разбираем причину отказа, исправляем основания и назначение платежа, при необходимости ведём переписку с банком — до прохождения платежа.</p></details><details><summary>Работаете с ОБС по гособоронзаказу?</summary><p>Да: открытие отдельного счёта в уполномоченном банке (ПСБ, ГПБ, Сбер и др.), режим ст. 8.3 275-ФЗ, платежи с ИГК, раздельный учёт — в связке с казначейским контуром, если он тоже есть.</p></details><details><summary>Какие документы нужны от нас?</summary><p>Контракт с условием о банковском сопровождении, реквизиты и доступ к банку (или доверенность на взаимодействие), первичные документы по платежам. Остальное готовим сами.</p></details><details><summary>Работаете под NDA?</summary><p>Да, подписываем NDA до передачи документов. Данные по контрактам и платежам третьим лицам не передаются.</p></details></div>
+    <div class="faq"><details open><summary>Что такое банковское сопровождение контракта?</summary><p>Режим контроля расчётов по контракту через уполномоченный банк: банк проверяет каждый платёж на соответствие условиям контракта и целевому назначению. Применяется по 44-ФЗ (правила — постановление Правительства № 963) и в гособоронзаказе по 275-ФЗ через отдельный счёт.</p></details>
+      <details><summary>Чем банковское сопровождение отличается от казначейского?</summary><p>Казначейское ведёт Федеральное казначейство через лицевой счёт 71, банковское — уполномоченный банк через отдельный счёт. По одному контракту режим один: пункт 2 постановления № 963 исключает контракты под казначейским сопровождением, а по ГОЗ отдельный счёт не открывается при казначейском сопровождении (часть 6 статьи 8 № 275-ФЗ). В портфеле компании оба режима встречаются по разным контрактам — тогда ведём оба контура.</p></details>
+      <details><summary>Разве банк не делает это сам?</summary><p>Банк контролирует, но не готовит документы за вас. Возвраты, неверные основания, отсутствующий ИГК, споры по назначению платежа — работа исполнителя. Её и берём на себя: платежи проходят с первой подачи.</p></details>
+      <details><summary>Сколько стоит услуга?</summary><p>105 000 ₽ в месяц фиксированно, без лимита на число платежей и обращений. Пакет «банк + казначейство» — 180 000 ₽ в месяц вместо 210 000 при заказе двух контуров по отдельности. Цена закрепляется в договоре до начала работ.</p></details>
+      <details><summary>Поможете, если банк уже вернул или приостановил платёж?</summary><p>Да, это профильная задача: разбираем причину, исправляем основания и назначение, ведём переписку с банком — до прохождения платежа.</p></details>
+      <details><summary>Работаете с отдельным счётом по гособоронзаказу?</summary><p>Да: режим статьи 8.3 закона № 275-ФЗ, ИГК в каждом документе, ограничения по перечислениям, документы кооперации. Расчётно-калькуляционные материалы — <a href="/uslugi/sostavlenie-rkm/">отдельная услуга</a>.</p></details>
+      <details><summary>Работаете по всей России?</summary><p>Да, дистанционно. Обмен с банком и документооборот — электронно, личное присутствие не требуется.</p></details></div>
   </div>
 </section>
 
@@ -294,24 +406,26 @@
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Заявка</div>
-      <h2 class="v2-section-title">Оценим объём</h2>
-      <p class="v2-section-lede">Оставьте контакты — эксперт перезвонит в течение часа в рабочее время (9:00–21:00 МСК), разберёт контракт и условия банковского сопровождения. NDA — до передачи документов.</p>
+      <h2 class="v2-section-title">Возьмём банковский контур <em>на себя</em></h2>
+      <p class="v2-section-lede">Расскажите про контракт и банк — перезвоним в течение часа в рабочее время (9:00–21:00 МСК). 105 000 ₽/мес фиксируется в договоре, NDA — до передачи документов.</p>
     </div>
     <div style="max-width:520px;margin:0 auto">
       <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="bankovskoe-soprovozhdenie-cta">
         <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
         <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
+        <textarea class="fld" name="message" placeholder="Комментарий: сумма контракта, аванс, ГОЗ или 44-ФЗ (необязательно)" rows="2" maxlength="3000"></textarea>
         <input class="hp" name="kz_note" tabindex="-1" autocomplete="off" aria-hidden="true">
         <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-        <button class="submit" type="submit">Оставить заявку →</button>
+        <button class="submit" type="submit">Отправить заявку →</button>
         <div class="formmsg" id="formMsgBottom" hidden></div>
-        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA по запросу</span></div>
+        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA до документов</span></div>
         <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
           <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
           <h3>Заявка принята</h3>
-          <p>Эксперт перезвонит <b>в течение часа</b> (9:00–21:00 МСК).</p>
+          <p>Эксперт свяжется <b>в течение часа</b> в рабочее время (пн–пт, 9:00–19:00 МСК).</p>
         </div>
       </form>
+      <p style="text-align:center;margin:18px 0 0;font-size:15px;color:#5F5A52">Телефон <a href="tel:+79818331010" style="color:#8B6F47">+7 981 833-10-10</a> · <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener" style="color:#8B6F47">Telegram</a> · <a href="https://wa.me/+79818331010" target="_blank" rel="noopener" style="color:#8B6F47">WhatsApp</a></p>
     </div>
   </div>
 </section>
@@ -330,7 +444,6 @@
 </section>
 
 <script>
-/* обработчик нижней лид-формы (#leadFormBottom); верхнюю #leadForm обслуживает общий скрипт страницы */
 (function(){
   var f=document.getElementById('leadFormBottom'); if(!f) return;
   var msg=document.getElementById('formMsgBottom'), ok=document.getElementById('leadSuccessBottom');
@@ -343,7 +456,7 @@
     if(!/\d[\s\d().-]*\d{3}/.test(phone)||phone.replace(/\D/g,'').length<10){show('Проверьте телефон');return;}
     if(!f.consent.checked){show('Подтвердите согласие');return;}
     var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';
-    fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})})
+    fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,message:(f.message&&f.message.value||'').trim(),consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})})
       .then(function(r){ if(!r.ok) throw 0; return r; })
       .then(function(){
         [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; });
@@ -356,14 +469,13 @@
 </script>
 
 
-
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
 
           <div class="v2-footer-cta">
             <div class="v2-footer-cta-lead">
               <span class="v2-footer-cta-eyebrow">Готовы начать</span>
-              <p class="v2-footer-cta-title">Восстановим раздельный учёт <em>до проверки</em></p>
+              <p class="v2-footer-cta-title">Откроем казначейский счёт <em>за два рабочих дня</em></p>
             </div>
             <div class="v2-footer-cta-actions">
               <a href="/#contacts" class="v2-footer-cta-btn">Оставить заявку</a>
@@ -510,7 +622,7 @@
     if(form.name.value.trim().length<2||form.phone.value.replace(/\D/g,'').length<10){show('Проверьте имя и телефон');return;}
     var DEMO=false;
     var btn=form.querySelector('.submit'),orig=btn.textContent;btn.disabled=true;btn.textContent='Отправляем…';
-    var data={phone:form.phone.value.trim(),source:SRC,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+SRC+')',consent_at:new Date().toISOString(),page_url:location.href,name:form.name.value.trim()};
+    var data={phone:form.phone.value.trim(),source:SRC,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+SRC+')',consent_at:new Date().toISOString(),page_url:location.href,name:form.name.value.trim(),message:(form.message&&form.message.value||'').trim()};
     fetch(form.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)})
       .then(function(r){if(!r.ok)throw 0;return r;}).then(succeed).catch(function(){if(DEMO){succeed();}else{fail();}});
     function succeed(){[].forEach.call(form.children,function(el){if(el!==ok)el.style.display='none';});ok.classList.add('on');try{window.ym&&ym(94305898,'reachGoal','lead',{source:SRC});}catch(e){}}
