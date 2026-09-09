@@ -32,7 +32,7 @@
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Спасение контракта"}]}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type": "Question", "name": "Насколько срочно вы подключаетесь?", "acceptedAnswer": {"@type": "Answer", "text": "Перезваниваем в течение часа в рабочее время в рабочее время и начинаем диагностику в тот же день. В кризисных контрактах решают часы, поэтому работаем в режиме срочности."}},{"@type": "Question", "name": "Сколько стоит спасение контракта?", "acceptedAnswer": {"@type": "Answer", "text": "Начинаем с экспресс-аудита за 35 000 ₽ — он находит причину и даёт план. Восстановление — от 99 000 ₽ в зависимости от состояния контракта; точную стоимость называем после аудита. Стоимость аудита засчитывается в восстановление."}},{"@type": "Question", "name": "Реально ли спасти контракт, если уже идёт просрочка?", "acceptedAnswer": {"@type": "Answer", "text": "Часто да. Многие ситуации обратимы, если действовать сразу: снимаем блокировки, проводим платежи, помогаем оспорить или снизить неустойку. Чем раньше подключаемся — тем больше вариантов."}},{"@type": "Question", "name": "Что если казначейство отказывает в санкционировании?", "acceptedAnswer": {"@type": "Answer", "text": "Разбираем основания отказа, устраняем причину — будь то документы, коды операций, раздельный учёт или целевое использование — и доводим платёж до проведения."}},{"@type": "Question", "name": "Поможете в споре с казначейством?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Готовим обоснования, ведём переписку и сопровождаем позицию заказчика и контракта, чтобы снять претензии и восстановить операции."}},{"@type": "Question", "name": "Работаете по всей России?", "acceptedAnswer": {"@type": "Answer", "text": "Да, дистанционно по всем регионам РФ. Документооборот ведётся электронно, личное присутствие не требуется."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type": "Question", "name": "Насколько срочно вы подключаетесь?", "acceptedAnswer": {"@type": "Answer", "text": "Перезваниваем в течение часа в рабочее время в рабочее время и начинаем диагностику в тот же день. В кризисных контрактах решают часы, поэтому работаем в режиме срочности."}},{"@type": "Question", "name": "Сколько стоит спасение контракта?", "acceptedAnswer": {"@type": "Answer", "text": "Начинаем с экспресс-аудита за 35 000 ₽ — он находит причину и даёт план. Восстановление — 99 000 ₽ в зависимости от состояния контракта; точную стоимость называем после аудита. Стоимость аудита засчитывается в восстановление."}},{"@type": "Question", "name": "Реально ли спасти контракт, если уже идёт просрочка?", "acceptedAnswer": {"@type": "Answer", "text": "Часто да. Многие ситуации обратимы, если действовать сразу: снимаем блокировки, проводим платежи, помогаем оспорить или снизить неустойку. Чем раньше подключаемся — тем больше вариантов."}},{"@type": "Question", "name": "Что если казначейство отказывает в санкционировании?", "acceptedAnswer": {"@type": "Answer", "text": "Разбираем основания отказа, устраняем причину — будь то документы, коды операций, раздельный учёт или целевое использование — и доводим платёж до проведения."}},{"@type": "Question", "name": "Поможете в споре с казначейством?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Готовим обоснования, ведём переписку и сопровождаем позицию заказчика и контракта, чтобы снять претензии и восстановить операции."}},{"@type": "Question", "name": "Работаете по всей России?", "acceptedAnswer": {"@type": "Answer", "text": "Да, дистанционно по всем регионам РФ. Документооборот ведётся электронно, личное присутствие не требуется."}}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -151,9 +151,10 @@
           <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
         </div>
         <h1>Спасение госконтракта <br><em>когда всё пошло не так</em></h1>
-<a href="/#reviews" style="display:inline-flex;align-items:center;gap:7px;margin:12px 0 0;padding:7px 15px;background:rgba(139,111,71,.07);border:1px solid rgba(139,111,71,.35);border-radius:999px;text-decoration:none;font-size:14px;color:#1A1A1A"><span style="color:#8B6F47;letter-spacing:1px">★★★★★</span><b>4,9</b><span style="color:#6E6B66">— отзывы клиентов</span></a>
+<a href="/#reviews" class="v2-reviews-link">Отзывы клиентов →</a>
         <p class="v2-hero-lede"><strong>Платежи возвращаются, операции заблокированы, казначейство отказывает, срок горит.</strong> Подключаемся срочно: находим причину, восстанавливаем учёт и документооборот, снимаем блокировки и доводим контракт до исполнения. Чем раньше — тем больше шансов.</p>
-        <div class="v2-hero-trust"><div class="v2-trust-item"><div class="v2-trust-num">срочно<span class="v2-trust-suffix"></span></div><div class="v2-trust-label">подключаемся</div></div><div class="v2-trust-item"><div class="v2-trust-num">2021</div><div class="v2-trust-label">год регистрации ИП</div></div><div class="v2-trust-item"><div class="v2-trust-num">100<span class="v2-trust-suffix">%</span></div><div class="v2-trust-label">дистанционно, вся РФ</div></div><div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div></div>
+        <div class="v2-hero-call"><a href="tel:+79818331010">Позвонить сейчас</a><span>Отвечаем сегодня · 9:00–21:00 МСК · Telegram — круглосуточно</span></div>
+        <div class="v2-hero-trust"><div class="v2-trust-item"><div class="v2-trust-num">срочно<span class="v2-trust-suffix"></span></div><div class="v2-trust-label">подключаемся</div></div><div class="v2-trust-item"><div class="v2-trust-num v2-trust-price">35 000 ₽</div><div class="v2-trust-label">экспресс-аудит, зачёт в восстановление</div></div><div class="v2-trust-item"><div class="v2-trust-num">100<span class="v2-trust-suffix">%</span></div><div class="v2-trust-label">дистанционно, вся РФ</div></div><div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div></div>
         <div class="v2-hero-expert">
           <div class="v2-expert-name">Михайлов Ярослав</div>
           <div class="v2-expert-role">Эксперт · 15 лет в Казначействе</div>
@@ -163,13 +164,13 @@
       <aside class="v2-hero-action">
         <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
         <h2>Разберём вашу ситуацию срочно</h2>
-        <p class="v2-hero-action-sub">Опишите проблему — эксперт перезвонит в течение часа, оценит риск и предложит план спасения контракта. NDA — до разбора документов.</p>
+        <p class="v2-hero-action-sub">Опишите проблему — эксперт перезвонит в течение часа в рабочее время (9:00–21:00 МСК), оценит риск и предложит план спасения контракта. NDA — до разбора документов.</p>
         <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="spasenie-kontrakta">
           <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
           <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
           <input class="hp" name="kz_note" tabindex="-1" autocomplete="off" aria-hidden="true">
           <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-          <button class="submit" type="submit">Получить расчёт →</button>
+          <button class="submit" type="submit">Разобрать ситуацию →</button>
           <div class="formmsg" id="formMsg" hidden></div>
           <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA по запросу</span></div>
           <div class="success" id="leadSuccess" role="status" aria-live="polite">
@@ -272,7 +273,7 @@
         <div class="v2-tariff-stage">Полное спасение</div>
         <h3>Восстановление под ключ</h3>
         <p class="v2-tariff-desc">Восстановление учёта и документооборота, снятие блокировок, проведение зависших платежей и защита перед казначейством до исполнения контракта.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">от 99 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По состоянию контракта · после аудита</div><a href="#zayavka" class="v2-tariff-link">Спасти контракт <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">99 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По состоянию контракта · после аудита</div><a href="#zayavka" class="v2-tariff-link">Спасти контракт <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">01</div>
         <div class="v2-tariff-stage">Старт</div>
@@ -296,7 +297,7 @@
       <div class="v2-section-eyebrow">Вопросы</div>
       <h2 class="v2-section-title">Отвечаем <em>прямо</em></h2>
     </div>
-    <div class="faq"><details open><summary>Насколько срочно вы подключаетесь?</summary><p>Перезваниваем в течение часа в рабочее время в рабочее время и начинаем диагностику в тот же день. В кризисных контрактах решают часы, поэтому работаем в режиме срочности.</p></details><details><summary>Сколько стоит спасение контракта?</summary><p>Начинаем с экспресс-аудита за 35 000 ₽ — он находит причину и даёт план. Восстановление — от 99 000 ₽ в зависимости от состояния контракта; точную стоимость называем после аудита. Стоимость аудита засчитывается в восстановление.</p></details><details><summary>Реально ли спасти контракт, если уже идёт просрочка?</summary><p>Часто да. Многие ситуации обратимы, если действовать сразу: снимаем блокировки, проводим платежи, помогаем оспорить или снизить неустойку. Чем раньше подключаемся — тем больше вариантов.</p></details><details><summary>Что если казначейство отказывает в санкционировании?</summary><p>Разбираем основания отказа, устраняем причину — будь то документы, коды операций, раздельный учёт или целевое использование — и доводим платёж до проведения.</p></details><details><summary>Поможете в споре с казначейством?</summary><p>Да. Готовим обоснования, ведём переписку и сопровождаем позицию заказчика и контракта, чтобы снять претензии и восстановить операции.</p></details><details><summary>Работаете по всей России?</summary><p>Да, дистанционно по всем регионам РФ. Документооборот ведётся электронно, личное присутствие не требуется.</p></details></div>
+    <div class="faq"><details open><summary>Насколько срочно вы подключаетесь?</summary><p>Перезваниваем в течение часа в рабочее время в рабочее время и начинаем диагностику в тот же день. В кризисных контрактах решают часы, поэтому работаем в режиме срочности.</p></details><details><summary>Сколько стоит спасение контракта?</summary><p>Начинаем с экспресс-аудита за 35 000 ₽ — он находит причину и даёт план. Восстановление — 99 000 ₽ в зависимости от состояния контракта; точную стоимость называем после аудита. Стоимость аудита засчитывается в восстановление.</p></details><details><summary>Реально ли спасти контракт, если уже идёт просрочка?</summary><p>Часто да. Многие ситуации обратимы, если действовать сразу: снимаем блокировки, проводим платежи, помогаем оспорить или снизить неустойку. Чем раньше подключаемся — тем больше вариантов.</p></details><details><summary>Что если казначейство отказывает в санкционировании?</summary><p>Разбираем основания отказа, устраняем причину — будь то документы, коды операций, раздельный учёт или целевое использование — и доводим платёж до проведения.</p></details><details><summary>Поможете в споре с казначейством?</summary><p>Да. Готовим обоснования, ведём переписку и сопровождаем позицию заказчика и контракта, чтобы снять претензии и восстановить операции.</p></details><details><summary>Работаете по всей России?</summary><p>Да, дистанционно по всем регионам РФ. Документооборот ведётся электронно, личное присутствие не требуется.</p></details></div>
   </div>
 </section>
 
@@ -311,7 +312,7 @@
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Заявка</div>
       <h2 class="v2-section-title">Разберём вашу ситуацию срочно</h2>
-      <p class="v2-section-lede">Оставьте контакты — эксперт перезвонит в течение часа, разберёт ваш контракт и назовёт точную стоимость.</p>
+      <p class="v2-section-lede">Оставьте контакты — эксперт перезвонит в течение часа в рабочее время (9:00–21:00 МСК), разберёт ваш контракт и подтвердит срок и договор.</p>
     </div>
     <div style="max-width:520px;margin:0 auto">
       <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="spasenie-kontrakta-cta">
@@ -319,7 +320,7 @@
         <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
         <input class="hp" name="kz_note" tabindex="-1" autocomplete="off" aria-hidden="true">
         <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-        <button class="submit" type="submit">Получить расчёт →</button>
+        <button class="submit" type="submit">Разобрать ситуацию →</button>
         <div class="formmsg" id="formMsgBottom" hidden></div>
         <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA по запросу</span></div>
         <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
@@ -632,5 +633,7 @@
   if(h){var u=function(){h.classList.toggle('is-scrolled',(window.scrollY||0)>12);};addEventListener('scroll',u,{passive:true});u();}
 })();
 </script>
+<!-- kz-fix2:sticky --><div class="v2-sticky-cta" id="kzSticky" aria-label="Связаться"><a href="tel:+79818331010">Позвонить</a><a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Написать в Telegram</a></div>
+<script>(function(){var s=document.getElementById('kzSticky');if(!s)return;var u=function(){s.classList.toggle('on',(window.scrollY||0)>600);};addEventListener('scroll',u,{passive:true});u();})();</script>
 </body>
 </html>

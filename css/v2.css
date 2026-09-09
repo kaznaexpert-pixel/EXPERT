@@ -3670,3 +3670,15 @@ body {
 .v2 article p,.v2 article li,.v2 .v2-section p,.v2 .v2-section li,.v2 .v2-section dd,.v2 .legal p,.v2 .legal li,
 .v2 .content .answer,.v2 .content .answer p,.v2 .content p.answer,.v2 .content .lead-p,.v2 .tldr{
   text-align:left;text-align-last:auto;hyphens:none;-webkit-hyphens:none;text-wrap:pretty;overflow-wrap:break-word;word-break:normal}
+
+/* kz-fix2 (09.09.2026): липкая мобильная панель; hero главной компактнее на телефоне */
+.v2-sticky-cta{display:none}
+@media (max-width:768px){
+  .v2-sticky-cta{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:60;gap:1px;background:#E4DDD0;transform:translateY(110%);transition:transform .25s ease;padding-bottom:env(safe-area-inset-bottom)}
+  .v2-sticky-cta.on{transform:none}
+  .v2-sticky-cta a{flex:1;display:flex;align-items:center;justify-content:center;min-height:52px;background:#1A1A1A;color:#fff;font-weight:600;font-size:15px;text-decoration:none}
+  .v2-sticky-cta a+a{background:#8B6F47}
+  .v2 .v2-hero{padding-top:28px;padding-bottom:28px}
+  .v2 .v2-hero h1{margin-bottom:12px}
+  .v2 .v2-hero .v2-hero-lede{margin-bottom:14px}
+}

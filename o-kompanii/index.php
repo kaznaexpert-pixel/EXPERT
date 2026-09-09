@@ -265,6 +265,58 @@
       <details><summary>Работаете ли вы с регионами?</summary><p>Да, по всей России дистанционно: лицевой счёт открывается в любом территориальном органе Федерального казначейства через «Электронный бюджет», личное присутствие не требуется. Базовый офис — Санкт-Петербург.</p></details>
       </div>
 </section>
+<section class="v2-section v2-screen" id="zayavka">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Заявка</div>
+      <h2 class="v2-section-title">Обсудить ваш контракт <em>с экспертом</em></h2>
+      <p class="v2-section-lede">Оставьте контакты — эксперт перезвонит в течение часа в рабочее время (9:00–21:00 МСК). NDA — до передачи документов.</p>
+    </div>
+    <div style="max-width:520px;margin:0 auto">
+      <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="o-kompanii">
+        <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
+        <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
+        <input class="hp" name="kz_note" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
+        <button class="submit" type="submit">Оставить заявку →</button>
+        <div class="formmsg" id="formMsgBottom" hidden></div>
+        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA по запросу</span></div>
+        <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
+          <div class="success__ic"><span aria-hidden="true">✓</span></div>
+          <h3>Заявка принята</h3>
+          <p>Эксперт перезвонит <b>в течение часа</b> (9:00–21:00 МСК).</p>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>
+<script>
+/* обработчик нижней лид-формы (#leadFormBottom); верхнюю #leadForm обслуживает общий скрипт страницы */
+(function(){
+  var f=document.getElementById('leadFormBottom'); if(!f) return;
+  var msg=document.getElementById('formMsgBottom'), ok=document.getElementById('leadSuccessBottom');
+  function show(t){ if(msg){msg.hidden=false;msg.textContent=t;} }
+  f.addEventListener('submit',function(e){
+    e.preventDefault();
+    if(f.kz_note && f.kz_note.value) return;
+    var name=(f.name.value||'').trim(), phone=(f.phone.value||'').trim();
+    if(name.length<2){show('Введите имя');return;}
+    if(!/\d[\s\d().-]*\d{3}/.test(phone)||phone.replace(/\D/g,'').length<10){show('Проверьте телефон');return;}
+    if(!f.consent.checked){show('Подтвердите согласие');return;}
+    var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';
+    fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})})
+      .then(function(r){ if(!r.ok) throw 0; return r; })
+      .then(function(){
+        [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; });
+        if(ok) ok.style.display='block';
+        try{ if(typeof ym==='function') ym(94305898,'reachGoal','lead',{source:f.dataset.source}); }catch(_){}
+      })
+      .catch(function(){ btn.disabled=false; btn.textContent=orig; show('Не удалось отправить. Попробуйте ещё раз.'); });
+  });
+})();
+</script>
+<!-- kz-fix2:sticky --><div class="v2-sticky-cta" id="kzSticky" aria-label="Связаться"><a href="tel:+79818331010">Позвонить</a><a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Написать в Telegram</a></div>
+<script>(function(){var s=document.getElementById('kzSticky');if(!s)return;var u=function(){s.classList.toggle('on',(window.scrollY||0)>600);};addEventListener('scroll',u,{passive:true});u();})();</script>
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
 

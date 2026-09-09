@@ -155,9 +155,9 @@
           <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
         </div>
         <h1>Банковское сопровождение <em>контракта — под ключ</em></h1>
-<a href="/#reviews" style="display:inline-flex;align-items:center;gap:7px;margin:12px 0 0;padding:7px 15px;background:rgba(139,111,71,.07);border:1px solid rgba(139,111,71,.35);border-radius:999px;text-decoration:none;font-size:14px;color:#1A1A1A"><span style="color:#8B6F47;letter-spacing:1px">★★★★★</span><b>4,9</b><span style="color:#6E6B66">— отзывы клиентов</span></a>
+<a href="/#reviews" class="v2-reviews-link">Отзывы клиентов →</a>
         <p class="v2-hero-lede"><strong>Берём банковский контур контракта целиком:</strong> выбор уполномоченного банка, открытие отдельного счёта, подготовка платежей с ИГК и документами-основаниями, прохождение банковского контроля и разблокировка проблемных платежей. Платежи проходят с первой подачи.</p>
-        <div class="v2-hero-trust"><div class="v2-trust-item"><div class="v2-trust-num">2021</div><div class="v2-trust-label">год регистрации ИП</div></div><div class="v2-trust-item"><div class="v2-trust-num">90<span class="v2-trust-suffix">&nbsp;млрд&nbsp;₽</span></div><div class="v2-trust-label">прошло через счета</div></div><div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div><div class="v2-trust-item"><div class="v2-trust-num">1С<span class="v2-trust-suffix"></span></div><div class="v2-trust-label">настройка учёта</div></div></div>
+        <div class="v2-hero-trust"><div class="v2-trust-item"><div class="v2-trust-num v2-trust-price">105 000 ₽/мес</div><div class="v2-trust-label">фиксированная цена, в договоре</div></div><div class="v2-trust-item"><div class="v2-trust-num">90<span class="v2-trust-suffix">&nbsp;млрд&nbsp;₽</span></div><div class="v2-trust-label">прошло через счета</div></div><div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div><div class="v2-trust-item"><div class="v2-trust-num">1С<span class="v2-trust-suffix"></span></div><div class="v2-trust-label">настройка учёта</div></div></div>
         <div class="v2-hero-expert">
           <div class="v2-expert-name">Михайлов Ярослав</div>
           <div class="v2-expert-role">Эксперт · 15 лет в Казначействе</div>
@@ -167,13 +167,13 @@
       <aside class="v2-hero-action">
         <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
         <h2>Оценим объём</h2>
-        <p class="v2-hero-action-sub">Оставьте контакты — эксперт перезвонит в течение часа, разберёт контракт и условия банковского сопровождения. NDA — до передачи документов.</p>
+        <p class="v2-hero-action-sub">Оставьте контакты — эксперт перезвонит в течение часа в рабочее время (9:00–21:00 МСК), разберёт контракт и условия банковского сопровождения. NDA — до передачи документов.</p>
         <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="bankovskoe-soprovozhdenie">
           <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
           <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
           <input class="hp" name="kz_note" tabindex="-1" autocomplete="off" aria-hidden="true">
           <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-          <button class="submit" type="submit">Получить расчёт →</button>
+          <button class="submit" type="submit">Оставить заявку →</button>
           <div class="formmsg" id="formMsg" hidden></div>
           <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA по запросу</span></div>
           <div class="success" id="leadSuccess" role="status" aria-live="polite">
@@ -295,7 +295,7 @@
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Заявка</div>
       <h2 class="v2-section-title">Оценим объём</h2>
-      <p class="v2-section-lede">Оставьте контакты — эксперт перезвонит в течение часа, разберёт контракт и условия банковского сопровождения. NDA — до передачи документов.</p>
+      <p class="v2-section-lede">Оставьте контакты — эксперт перезвонит в течение часа в рабочее время (9:00–21:00 МСК), разберёт контракт и условия банковского сопровождения. NDA — до передачи документов.</p>
     </div>
     <div style="max-width:520px;margin:0 auto">
       <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="bankovskoe-soprovozhdenie-cta">
@@ -303,7 +303,7 @@
         <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
         <input class="hp" name="kz_note" tabindex="-1" autocomplete="off" aria-hidden="true">
         <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-        <button class="submit" type="submit">Получить расчёт →</button>
+        <button class="submit" type="submit">Оставить заявку →</button>
         <div class="formmsg" id="formMsgBottom" hidden></div>
         <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA по запросу</span></div>
         <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
@@ -618,5 +618,7 @@
   if(h){var u=function(){h.classList.toggle('is-scrolled',(window.scrollY||0)>12);};addEventListener('scroll',u,{passive:true});u();}
 })();
 </script>
+<!-- kz-fix2:sticky --><div class="v2-sticky-cta" id="kzSticky" aria-label="Связаться"><a href="tel:+79818331010">Позвонить</a><a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Написать в Telegram</a></div>
+<script>(function(){var s=document.getElementById('kzSticky');if(!s)return;var u=function(){s.classList.toggle('on',(window.scrollY||0)>600);};addEventListener('scroll',u,{passive:true});u();})();</script>
 </body>
 </html>

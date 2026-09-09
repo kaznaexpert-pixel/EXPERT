@@ -703,7 +703,7 @@
                   Или напишите — ответим в течение часа
                   <div class="v2-hero-alt-links">
                     <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a>
-                    <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener">MAX</a>
+                    <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener" title="Мессенджер MAX">MAX</a>
                   </div>
                 </div>
 
@@ -1550,7 +1550,7 @@
           </span>
         </a>
         <a href="https://max.ru/u/f9LHodD0cOK_dA0cxMm6m3-UJ1xRsy79eO5fE11eYanlBeYUtgEpWuyk5m8" target="_blank" rel="noopener noreferrer" class="messenger-btn messenger-btn--max" aria-label="Написать в MAX">
-          <span class="messenger-btn-label">MAX</span>
+          <span class="messenger-btn-label">Мессенджер MAX</span>
           <span class="messenger-btn-ico messenger-btn-text">MAX</span>
         </a>
         <a href="tel:+79818331010" class="messenger-btn messenger-btn--call" aria-label="Позвонить +7 981 833-10-10">
@@ -1760,7 +1760,9 @@
         });
       });
     </script>
-  </body>
+  <!-- kz-fix2:sticky --><div class="v2-sticky-cta" id="kzSticky" aria-label="Связаться"><a href="tel:+79818331010">Позвонить</a><a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Написать в Telegram</a></div>
+<script>(function(){var s=document.getElementById('kzSticky');if(!s)return;var u=function(){s.classList.toggle('on',(window.scrollY||0)>600);};addEventListener('scroll',u,{passive:true});u();})();</script>
+</body>
 
   <div class="svgs">
   <svg>

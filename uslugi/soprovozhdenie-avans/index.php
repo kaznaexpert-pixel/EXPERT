@@ -180,7 +180,7 @@
           <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
         </div>
         <h1>Контракт с авансом или ГОЗ — <em>ведём от поступления аванса до закрытия</em></h1>
-<a href="/#reviews" style="display:inline-flex;align-items:center;gap:7px;margin:12px 0 0;padding:7px 15px;background:rgba(139,111,71,.07);border:1px solid rgba(139,111,71,.35);border-radius:999px;text-decoration:none;font-size:14px;color:#1A1A1A"><span style="color:#8B6F47;letter-spacing:1px">★★★★★</span><b>4,9</b><span style="color:#6E6B66">— отзывы клиентов</span></a>
+<a href="/#reviews" class="v2-reviews-link">Отзывы клиентов →</a>
         <p class="v2-hero-lede"><strong>Для подрядчиков, получивших аванс под казначейским сопровождением, и исполнителей гособоронзаказа по 275-ФЗ.</strong> Здесь контроль жёстче: каждое расходование аванса санкционируется, каждый документ должен нести ИГК, раздельный учёт проверяется. Берём весь цикл на себя, включая соисполнителей.</p>
         <div class="lp2-risk">
           <div><b>Снимаем риск</b>Возврат платежей с аванса и простой контракта</div>
@@ -728,5 +728,7 @@
   if(h){var u=function(){h.classList.toggle('is-scrolled',(window.scrollY||0)>12);};addEventListener('scroll',u,{passive:true});u();}
 })();
 </script>
+<!-- kz-fix2:sticky --><div class="v2-sticky-cta" id="kzSticky" aria-label="Связаться"><a href="tel:+79818331010">Позвонить</a><a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Написать в Telegram</a></div>
+<script>(function(){var s=document.getElementById('kzSticky');if(!s)return;var u=function(){s.classList.toggle('on',(window.scrollY||0)>600);};addEventListener('scroll',u,{passive:true});u();})();</script>
 </body>
 </html>

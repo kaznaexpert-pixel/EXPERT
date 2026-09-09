@@ -182,7 +182,7 @@
           <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
         </div>
         <h1>Составим РКМ по ГОЗ так, чтобы <em>военное представительство приняло с первой подачи</em></h1>
-<a href="/#reviews" style="display:inline-flex;align-items:center;gap:7px;margin:12px 0 0;padding:7px 15px;background:rgba(139,111,71,.07);border:1px solid rgba(139,111,71,.35);border-radius:999px;text-decoration:none;font-size:14px;color:#1A1A1A"><span style="color:#8B6F47;letter-spacing:1px">★★★★★</span><b>4,9</b><span style="color:#6E6B66">— отзывы клиентов</span></a>
+<a href="/#reviews" class="v2-reviews-link">Отзывы клиентов →</a>
         <p class="v2-hero-lede"><strong>Для головных исполнителей и исполнителей гособоронзаказа, которым нужно обосновать цену контракта:</strong> при заключении, при переводе ориентировочной цены в фиксированную, при проверке ВП или заказчика. Готовим полный комплект по формам приказа ФАС № 995/22 — плановые и отчётные калькуляции, расшифровки затрат, обоснование прибыли — и защищаем его до принятия.</p>
         <div class="lp2-risk">
           <div><b>Снимаем риск</b>Возврат комплекта военным представительством</div>
@@ -694,5 +694,7 @@
   if(h){var u=function(){h.classList.toggle('is-scrolled',(window.scrollY||0)>12);};addEventListener('scroll',u,{passive:true});u();}
 })();
 </script>
+<!-- kz-fix2:sticky --><div class="v2-sticky-cta" id="kzSticky" aria-label="Связаться"><a href="tel:+79818331010">Позвонить</a><a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Написать в Telegram</a></div>
+<script>(function(){var s=document.getElementById('kzSticky');if(!s)return;var u=function(){s.classList.toggle('on',(window.scrollY||0)>600);};addEventListener('scroll',u,{passive:true});u();})();</script>
 </body>
 </html>

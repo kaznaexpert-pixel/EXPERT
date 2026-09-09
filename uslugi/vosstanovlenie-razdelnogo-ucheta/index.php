@@ -178,7 +178,7 @@
           <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
         </div>
         <h1>Восстановим раздельный учёт по контракту — <em>до проверки</em></h1>
-<a href="/#reviews" style="display:inline-flex;align-items:center;gap:7px;margin:12px 0 0;padding:7px 15px;background:rgba(139,111,71,.07);border:1px solid rgba(139,111,71,.35);border-radius:999px;text-decoration:none;font-size:14px;color:#1A1A1A"><span style="color:#8B6F47;letter-spacing:1px">★★★★★</span><b>4,9</b><span style="color:#6E6B66">— отзывы клиентов</span></a>
+<a href="/#reviews" class="v2-reviews-link">Отзывы клиентов →</a>
         <p class="v2-hero-lede"><strong>Для исполнителей ГОЗ и контрактов под казначейским сопровождением, у которых раздельный учёт не вёлся, вёлся частично или не сходится с платежами по лицевому счёту.</strong> Восстанавливаем учёт за весь период контракта и передаём регистры, которые проходят проверку УФК и военного представительства.</p>
         <div class="lp2-risk">
           <div><b>Снимаем риск</b>Штраф за нарушение правил раздельного учёта — до 500 000 ₽ на юрлицо</div>
@@ -672,5 +672,7 @@
   if(h){var u=function(){h.classList.toggle('is-scrolled',(window.scrollY||0)>12);};addEventListener('scroll',u,{passive:true});u();}
 })();
 </script>
+<!-- kz-fix2:sticky --><div class="v2-sticky-cta" id="kzSticky" aria-label="Связаться"><a href="tel:+79818331010">Позвонить</a><a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Написать в Telegram</a></div>
+<script>(function(){var s=document.getElementById('kzSticky');if(!s)return;var u=function(){s.classList.toggle('on',(window.scrollY||0)>600);};addEventListener('scroll',u,{passive:true});u();})();</script>
 </body>
 </html>
