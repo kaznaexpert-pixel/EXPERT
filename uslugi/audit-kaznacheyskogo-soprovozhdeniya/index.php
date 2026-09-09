@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Аудит казначейского сопровождения: проверка и второе мнение</title>
-<meta name="description" content="Независимая проверка казначейского сопровождения: санкционирование, раздельный учёт, отчётность. Найдём ошибки до казначейства. 160 000 ₽ фиксированно.">
+<title>Аудит казначейского сопровождения — второе мнение, 160 000 ₽</title>
+<meta name="description" content="Проверка контракта под казначейским сопровождением: счёт, санкционирование, раздельный учёт, отчётность по чек-листу контролёра. Отчёт с рисками и планом. 160 000 ₽.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -24,21 +24,36 @@
 <!-- ╚════════════════════════════════════════════════════════════════════════════╝ -->
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
+
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": ["https://kaznaexpert.ru/img/og/uslugi__audit-kaznacheyskogo-soprovozhdeniya-16x9.jpg", "https://kaznaexpert.ru/img/og/uslugi__audit-kaznacheyskogo-soprovozhdeniya-4x3.webp", "https://kaznaexpert.ru/img/og/uslugi__audit-kaznacheyskogo-soprovozhdeniya-1x1.webp"], "datePublished": "2026-06-25", "dateModified": "2026-08-11", "name": "Аудит казначейского сопровождения контракта", "serviceType": "Независимая проверка казначейского сопровождения (второе мнение)", "description": "Независимый аудит казначейского сопровождения контракта: проверка применимости, открытия счёта, санкционирования, раздельного учёта, сведений и отчётности. Отчёт с приоритизацией рисков и планом исправления. NDA, 15 лет практики в Казначействе.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/audit-kaznacheyskogo-soprovozhdeniya/", "offers": {"@type": "Offer", "price": "160000", "priceCurrency": "RUB", "description": "Полный аудит казначейского сопровождения с отчётом и планом исправления", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/audit-kaznacheyskogo-soprovozhdeniya/", "priceValidUntil": "2026-12-31"}}
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": ["https://kaznaexpert.ru/img/og/uslugi__audit-kaznacheyskogo-soprovozhdeniya-16x9.jpg", "https://kaznaexpert.ru/img/og/uslugi__audit-kaznacheyskogo-soprovozhdeniya-4x3.webp", "https://kaznaexpert.ru/img/og/uslugi__audit-kaznacheyskogo-soprovozhdeniya-1x1.webp"], "datePublished": "2026-06-25", "dateModified": "2026-09-09", "name": "Аудит казначейского сопровождения", "serviceType": "Независимая проверка исполнения государственного контракта под казначейским сопровождением: применимость, лицевой счёт, санкционирование, раздельный учёт, сведения и отчётность", "description": "Независимый аудит контракта под казначейским сопровождением по чек-листу органа финансового контроля и классификатору нарушений: основание сопровождения, открытие счёта и Сводный реестр, распоряжения и сведения, раздельный учёт, отчётность. Результат — отчёт с рисками по приоритету, последствиями и планом исправления. Фиксированная цена 160 000 ₽, NDA до передачи документов.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "160000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "description": "Полный аудит казначейского сопровождения одного контракта с отчётом и планом исправления", "url": "https://kaznaexpert.ru/uslugi/audit-kaznacheyskogo-soprovozhdeniya/", "priceValidUntil": "2026-12-31"}, "url": "https://kaznaexpert.ru/uslugi/audit-kaznacheyskogo-soprovozhdeniya/"}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Аудит казначейского сопровождения"}]}
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Услуги", "item": "https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie/"}, {"@type": "ListItem", "position": 3, "name": "Аудит сопровождения", "item": "https://kaznaexpert.ru/uslugi/audit-kaznacheyskogo-soprovozhdeniya/"}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что такое аудит казначейского сопровождения?", "acceptedAnswer": {"@type": "Answer", "text": "Это независимая проверка того, как ведётся ваш контракт под казначейским сопровождением: корректность открытия счёта, санкционирования платежей, раздельного учёта, сведений и отчётности. Цель — найти ошибки и риски до того, как их найдёт казначейство или орган финансового контроля."}}, {"@type": "Question", "name": "Зачем нужно второе мнение, если контракт ведёт бухгалтер?", "acceptedAnswer": {"@type": "Answer", "text": "Исполнитель не видит собственных ошибок — взгляд замылен, а одна неточность в учёте повторяется во всех периодах. Независимый эксперт с практикой Казначейства проверяет по чек-листу контролёра и находит системные причины отказов."}}, {"@type": "Question", "name": "Сколько стоит аудит?", "acceptedAnswer": {"@type": "Answer", "text": "Полный аудит казначейского сопровождения стоит 160 000 ₽ — цена фиксированная и закрепляется в договоре, без доплат по ходу. Экспресс-диагностика перед договором помогает согласовать объём и сроки работ."}}, {"@type": "Question", "name": "Что я получу на руки?", "acceptedAnswer": {"@type": "Answer", "text": "Отчёт со списком рисков по приоритету, описанием последствий каждого и конкретным планом исправления. По желанию берём устранение нарушений на себя."}}, {"@type": "Question", "name": "Это конфиденциально?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Работаем по NDA, который подписываем до передачи документов. Данные не передаём третьим лицам."}}, {"@type": "Question", "name": "Поможете подготовиться к проверке финконтроля?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Сверяем документы и учёт с требованиями статьи 269.2 БК и классификатором нарушений, показываем слабые места и помогаем закрыть их до прихода проверяющих."}}, {"@type": "Question", "name": "Сколько времени занимает аудит?", "acceptedAnswer": {"@type": "Answer", "text": "Экспресс-диагностика — в день обращения. Полный аудит — по объёму контракта, срок фиксируем в договоре."}}, {"@type": "Question", "name": "Что если найдёте серьёзные нарушения?", "acceptedAnswer": {"@type": "Answer", "text": "Покажем их с оценкой последствий и предложим план исправления. Если нужно — восстановим раздельный учёт и приведём документы в порядок под ключ."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что такое аудит казначейского сопровождения?", "acceptedAnswer": {"@type": "Answer", "text": "Независимая проверка того, как ведётся контракт под казначейским сопровождением: основание и режим, открытие счёта, санкционирование, раздельный учёт, сведения и отчётность. Цель — найти ошибки и риски до того, как их найдёт казначейство, орган финансового контроля или военное представительство."}}, {"@type": "Question", "name": "Сколько стоит аудит?", "acceptedAnswer": {"@type": "Answer", "text": "160 000 ₽ за один контракт — фиксированная цена, закрепляется в договоре до начала работ и не зависит от числа найденных нарушений. Экспресс-оценка объёма до договора — часть услуги."}}, {"@type": "Question", "name": "Что я получу на руки?", "acceptedAnswer": {"@type": "Answer", "text": "Отчёт со списком рисков по приоритету, описанием последствий каждого и конкретным планом исправления — что, кто и в какой срок. По желанию исправление берём на себя."}}, {"@type": "Question", "name": "Сколько времени занимает аудит?", "acceptedAnswer": {"@type": "Answer", "text": "Оценка объёма — в день обращения. Полный аудит — от объёма контракта и состояния документов; срок фиксируем в договоре вместе с ценой."}}, {"@type": "Question", "name": "Зачем второе мнение, если контракт ведёт бухгалтер?", "acceptedAnswer": {"@type": "Answer", "text": "Исполнитель не видит собственных ошибок, а одна неточность в сведениях или базе распределения повторяется во всех периодах. Эксперт с практикой Казначейства проверяет по чек-листу контролёра и находит системные причины, а не симптомы."}}, {"@type": "Question", "name": "Поможете подготовиться к проверке?", "acceptedAnswer": {"@type": "Answer", "text": "Да: сверяем документы и учёт с требованиями статьи 269.2 БК, классификатором нарушений и требованиями военного представительства по ГОЗ, показываем слабые места и закрываем их до прихода проверяющих."}}, {"@type": "Question", "name": "Это конфиденциально?", "acceptedAnswer": {"@type": "Answer", "text": "Да. NDA подписываем до передачи документов, данные третьим лицам не передаём, отчёт получаете только вы."}}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
 <link rel="preload" as="font" type="font/woff2" href="/fonts/playfairdisplay-normal-500-cyrillic.woff2" crossorigin>
 <style id="fonts-crit">/* критические @font-face (кириллица, выше первого экрана): H1 Playfair 500 + body Inter 400. Остальные начертания — из fonts.css (async). */
 @font-face{font-family:'Inter';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/inter-normal-400-cyrillic.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
-@font-face{font-family:'Playfair Display';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/playfairdisplay-normal-500-cyrillic.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}</style>
+@font-face{font-family:'Playfair Display';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/playfairdisplay-normal-500-cyrillic.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+.lp2-answer{background:#FFFDF8;border:1px solid #E4DDD0;border-left:3px solid #A8844A;border-radius:8px;padding:16px 20px;margin:0 0 24px;font-size:17px;line-height:1.6}
+.lp2-answer p{margin:0}
+.lp2-block{max-width:900px;margin:0 auto}
+.lp2-block p{font-size:17px;line-height:1.68;margin:0 0 16px}
+.lp2-table{width:100%;border-collapse:collapse;margin:8px 0 20px;font-size:16px;border-top:2px solid #8B6F47}
+.lp2-table caption{caption-side:top;text-align:left;font-size:14px;color:#7A7263;font-style:italic;padding:0 0 12px}
+.lp2-table th,.lp2-table td{padding:12px 16px;text-align:left;vertical-align:top;border-bottom:1px solid #E4DDD0;line-height:1.5}
+.lp2-table th{font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;font-weight:600}
+.lp2-list{margin:0 0 18px;padding-left:22px}
+.lp2-list li{margin:0 0 10px;line-height:1.6;font-size:17px}
+.lp2-note{font-size:15px;color:#5F5A52;line-height:1.6;border-top:1px solid #E4DDD0;padding-top:14px;margin-top:6px}
+.lp2-note a{color:#8B6F47}
+@media(max-width:680px){.lp2-table{font-size:15px}.lp2-table th,.lp2-table td{padding:10px 10px}.lp2-block p,.lp2-list li{font-size:16px}}
+</style>
 <link rel="preload" href="/css/fonts.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/fonts.css') ?>" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/css/fonts.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/fonts.css') ?>"></noscript>
 <style id="v2-crit">/* critical: v2-шапка (above-the-fold); полный v2.css грузится асинхронно */
@@ -65,30 +80,25 @@
 <link rel="preload" href="/css/v2.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/v2.css') ?>" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/css/v2.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/v2.css') ?>"></noscript>
 
-<meta property="og:type" content="article">
+<meta property="og:type" content="website">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Аудит казначейского сопровождения — второе мнение эксперта">
-<meta property="og:description" content="Независимая проверка казначейского сопровождения: санкционирование, раздельный учёт, отчётность. Найдём ошибки до казначейства. 160 000 ₽ фиксированно.">
+<meta property="og:title" content="Аудит казначейского сопровождения — 160 000 ₽">
+<meta property="og:description" content="Второе мнение по контракту: счёт, санкционирование, раздельный учёт, сведения и отчётность по чек-листу финконтроля. Отчёт с рисками по приоритету и планом исправления.">
 <meta property="og:url" content="https://kaznaexpert.ru/uslugi/audit-kaznacheyskogo-soprovozhdeniya/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og/uslugi__audit-kaznacheyskogo-soprovozhdeniya-16x9.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="675">
-<meta property="og:image:alt" content="Аудит казначейского сопровождения — КазнаЭксперт">
+<meta property="og:image:alt" content="Аудит казначейского сопровождения — 160 000 ₽ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-11T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-09T10:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Аудит казначейского сопровождения — второе мнение">
-<meta name="twitter:description" content="Независимая проверка контракта: санкционирование, раздельный учёт, отчётность. Найдём ошибки до проверки.">
+<meta name="twitter:title" content="Аудит казначейского сопровождения — 160 000 ₽">
+<meta name="twitter:description" content="Второе мнение по контракту: счёт, санкционирование, раздельный учёт, сведения и отчётность по чек-листу финконтроля. Отчёт с рисками по приоритету и планом исправления.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og/uslugi__audit-kaznacheyskogo-soprovozhdeniya-16x9.jpg">
 
-<!-- Schema: Article -->
-<!-- Schema: HowTo -->
-<!-- Schema: FAQPage -->
-<!-- Schema: BreadcrumbList -->
-<!-- Schema: DefinedTermSet (глоссарий — для entity-распознавания AI) -->
 <link rel="stylesheet" href="/css/landing-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/landing-shared.css') ?>">
 </head>
 <body>
@@ -143,43 +153,65 @@
 
 <div class="v2">
 
-<style>@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}</style>
+<style>@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}
+.railform textarea.fld{resize:vertical;min-height:64px;line-height:1.45}
+.v2 .lp2-risk{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin:28px 0 0}
+.v2 .lp2-risk div{padding:16px 18px;border:1px solid #E4DDD0;border-left:3px solid #A8844A;background:#FFFDF8;font-size:15px;line-height:1.5}
+.v2 .lp2-risk b{display:block;font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:#8B6F47;margin-bottom:6px}
+.v2 .lp2-price{display:flex;flex-wrap:wrap;align-items:baseline;gap:10px 22px;margin:22px 0 0;padding:18px 0 0;border-top:1px solid #E4DDD0}
+.v2 .lp2-price b{font-family:var(--font-display);font-weight:500;font-size:34px;letter-spacing:-.02em}
+.v2 .lp2-price span{color:#5F5A52;font-size:15px}
+.v2 .lp2-scen{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
+.v2 .lp2-scen article{padding:22px 24px;background:var(--paper);border:1px solid var(--hair-strong)}
+.v2 .lp2-scen h3{font-family:var(--font-display);font-weight:500;font-size:20px;margin:0 0 10px;letter-spacing:-.01em}
+.v2 .lp2-scen p{margin:0;font-size:16px;line-height:1.6;color:#3A3A3A}
+.v2 .lp2-scen p b{color:#1A1A1A}
+@media(max-width:920px){.v2 .lp2-risk{grid-template-columns:repeat(2,1fr)}.v2 .lp2-scen{grid-template-columns:1fr}}
+@media(max-width:560px){.v2 .lp2-risk{grid-template-columns:1fr}.v2 .lp2-price b{font-size:28px}}
+</style>
 
 <section class="v2-hero">
   <div class="v2-container">
-    <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › Аудит казначейского сопровождения</nav>
+    <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a> › Аудит сопровождения</nav>
     <div class="v2-hero-grid">
       <div class="v2-hero-main">
         <div class="v2-hero-eyebrow-row">
-          <span class="v2-eyebrow">Услуга · Проверка · Второе мнение</span>
+          <span class="v2-eyebrow">Услуга · второе мнение · подготовка к проверке</span>
           <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
         </div>
-        <h1>Аудит казначейского сопровождения <em>— второе мнение</em></h1>
+        <h1>Аудит казначейского сопровождения — <em>найдём ошибки раньше проверяющего</em></h1>
 <a href="/#reviews" class="v2-reviews-link">Отзывы клиентов →</a>
-        <p class="v2-hero-lede"><strong>Независимая проверка того, как ведётся ваш контракт:</strong> применимость сопровождения, открытие счёта, санкционирование, раздельный учёт, сведения и отчётность. Находим ошибки до того, как их найдёт казначейство или орган финконтроля.</p>
-        <div class="v2-hero-trust"><div class="v2-trust-item"><div class="v2-trust-num">7 000<span class="v2-trust-suffix">+</span></div><div class="v2-trust-label">контрактов проверено</div></div><div class="v2-trust-item"><div class="v2-trust-num v2-trust-price">160 000 ₽</div><div class="v2-trust-label">фиксированная цена аудита</div></div><div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div><div class="v2-trust-item"><div class="v2-trust-num">NDA<span class="v2-trust-suffix"></span></div><div class="v2-trust-label">до передачи документов</div></div></div>
+        <p class="v2-hero-lede"><strong>Независимая проверка того, как ведётся ваш контракт:</strong> основание сопровождения, счёт и Сводный реестр, распоряжения и сведения, раздельный учёт, отчётность. Идём по чек-листу органа финансового контроля и классификатору нарушений — и отдаём отчёт с рисками по приоритету и планом исправления. NDA — до передачи документов.</p>
+        <div class="lp2-risk">
+          <div><b>Снимаем риск</b>Системная ошибка в распоряжениях, которая останавливает все платежи</div>
+          <div><b>Снимаем риск</b>Представление или предписание финконтроля по статье 269.2 БК</div>
+          <div><b>Снимаем риск</b>Штраф за раздельный учёт: ст. 15.37.1 КоАП, по ГОЗ — ч. 11 ст. 7.30.3</div>
+          <div><b>Снимаем риск</b>Требование вернуть целевые средства в бюджет</div>
+        </div>
+        <div class="lp2-price"><b>160 000 ₽</b><span>Фиксируется в договоре до начала работ</span><span>Один контракт · вся цепочка сопровождения</span><span>Отчёт с рисками и планом исправления</span></div>
         <div class="v2-hero-expert">
           <div class="v2-expert-name">Михайлов Ярослав</div>
           <div class="v2-expert-role">Эксперт · 15 лет в Казначействе</div>
-          <p class="v2-expert-quote">«Большинство отказов и штрафов — это не злой умысел, а накопленные мелкие ошибки в учёте и распоряжениях. Свежий взгляд эксперта находит их раньше, чем проверяющий».</p>
+          <p class="v2-expert-quote">«Большинство отказов и штрафов — не злой умысел, а накопленные мелкие ошибки в учёте и распоряжениях. Свежий взгляд находит их раньше, чем проверяющий, — и это всегда дешевле предписания».</p>
         </div>
       </div>
       <aside class="v2-hero-action">
-        <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
+        <div class="v2-hero-action-eyebrow">Заявка</div>
         <h2>Закажите проверку</h2>
-        <p class="v2-hero-action-sub">Оставьте контакты — эксперт перезвонит в течение часа в рабочее время (9:00–21:00 МСК), подтвердит объём и срок — 160 000 ₽ фиксированно. NDA — до передачи документов.</p>
+        <p class="v2-hero-action-sub">Оставьте контакты — перезвоним в течение часа в рабочее время (9:00–21:00 МСК), оценим объём контракта и подтвердим срок. 160 000 ₽ фиксируется в договоре, NDA — до передачи документов.</p>
         <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="audit-kaznacheyskogo-soprovozhdeniya">
           <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
           <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
+          <textarea class="fld" name="message" placeholder="Комментарий: контракт, что беспокоит — отказы, проверка, смена бухгалтера (необязательно)" rows="2" maxlength="3000"></textarea>
           <input class="hp" name="kz_note" tabindex="-1" autocomplete="off" aria-hidden="true">
           <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-          <button class="submit" type="submit">Оставить заявку →</button>
+          <button class="submit" type="submit">Отправить заявку →</button>
           <div class="formmsg" id="formMsg" hidden></div>
-          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA по запросу</span></div>
+          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA до документов</span></div>
           <div class="success" id="leadSuccess" role="status" aria-live="polite">
             <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
             <h3>Заявка принята</h3>
-            <p>Эксперт перезвонит <b>в течение часа</b> (9:00–21:00 МСК) и разберёт ваш контракт.</p>
+            <p>Эксперт свяжется <b>в течение часа</b> в рабочее время (пн–пт, 9:00–19:00 МСК) и разберёт ваш контракт.</p>
             <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
           </div>
         </form>
@@ -194,31 +226,20 @@
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Для кого</div>
       <h2 class="v2-section-title">Когда нужна <em>проверка</em></h2>
-      <p class="v2-section-lede">Четыре ситуации, в которых независимый аудит окупается одним предотвращённым отказом или штрафом.</p>
+      <p class="v2-section-lede">Четыре ситуации, в которых аудит окупается одним предотвращённым отказом или штрафом.</p>
     </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Были отказы и возвраты</h3><p class="v2-process-desc">Казначейство возвращает распоряжения или отказывает в санкционировании. Найдём системную причину, а не симптом.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Готовитесь к проверке</h3><p class="v2-process-desc">Ждёте проверку органа финансового контроля по статье 269.2 БК. Проверим документы и учёт заранее, по чек-листу контролёра.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Сменился бухгалтер или подрядчик</h3><p class="v2-process-desc">Контракт вели другие, и вы не уверены в качестве. Сделаем ревизию и зафиксируем фактическое состояние.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Расширенное сопровождение</h3><p class="v2-process-desc">По контракту применяется расширенное казначейское сопровождение с проверкой факта. Подготовим к глубокому контролю.</p></article></div>
+    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Были отказы и возвраты</h3><p class="v2-process-desc">Казначейство возвращает распоряжения или отказывает в санкционировании. Находим системную причину — сведения, коды, документы, — а не симптом.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Готовитесь к проверке</h3><p class="v2-process-desc">Ждёте проверку органа финансового контроля по статье 269.2 БК или военного представительства. Проверяем документы и учёт заранее по чек-листу контролёра.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Сменился бухгалтер или подрядчик</h3><p class="v2-process-desc">Контракт вели другие, и вы не уверены в качестве. Ревизия всей цепочки, фиксация фактического состояния, план исправления.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Расширенное сопровождение</h3><p class="v2-process-desc">По контракту применяется расширенное казначейское сопровождение с проверкой факта. Готовим к глубокому контролю: затраты, первичка, соответствие сведениям.</p></article></div>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="pod-kluch">
+<section class="v2-section v2-screen" id="sostav">
   <div class="v2-container">
     <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Что входит</div>
-      <h2 class="v2-section-title">Что проверяем <em>по контракту</em></h2>
-      <p class="v2-section-lede">Идём по всей цепочке сопровождения — там, где чаще всего возникают отказы и претензии.</p>
+      <div class="v2-section-eyebrow">Что проверяем</div>
+      <h2 class="v2-section-title">Вся цепочка сопровождения — <em>шесть контуров</em></h2>
+      <p class="v2-section-lede">Идём там, где чаще всего возникают отказы и претензии.</p>
     </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Применимость и условия</h3><p class="v2-process-desc">Корректно ли определено основание сопровождения и режим счёта, верны ли условия контракта и реквизиты.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Открытие счёта и реестр</h3><p class="v2-process-desc">Правильность открытия лицевого счёта, включения в сводный реестр и настройки «Электронного бюджета».</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Санкционирование и распоряжения</h3><p class="v2-process-desc">Распоряжения о платеже, сведения об операциях, основания платежей — частый источник возвратов.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Раздельный учёт</h3><p class="v2-process-desc">Ведение раздельного учёта целевых средств, корректность кодов направления и источника, привязка к ИГК.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Отчётность</h3><p class="v2-process-desc">Сведения об операциях и отчёт о расходах целевых средств: полнота, сроки, соответствие первичке.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Готовность к контролю</h3><p class="v2-process-desc">Сверяем документы с чек-листом органа финконтроля и классификатором нарушений — что спросят и где слабые места.</p></article></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="ot-vas">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Что от вас</div>
-      <h2 class="v2-section-title">Что потребуется <em>от вас</em></h2>
-      <p class="v2-section-lede">Доступ к документам и выгрузкам — остальное анализирует эксперт. Всё под NDA.</p>
-    </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Контракт и допсоглашения</h3><p class="v2-process-desc">Текст контракта и изменения к нему.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Выписки и распоряжения</h3><p class="v2-process-desc">Операции по счёту, распоряжения, сведения об операциях.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Данные раздельного учёта</h3><p class="v2-process-desc">Регистры и выгрузки из 1С по контракту.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Контакт для связи</h3><p class="v2-process-desc">Ответственный, с кем уточняем детали.</p></article></div>
+    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Применимость и условия</h3><p class="v2-process-desc">Корректно ли определено основание сопровождения и режим счёта, есть ли условие о сопровождении и идентификатор в контракте и договорах с соисполнителями.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Счёт, реестр, доступы</h3><p class="v2-process-desc">Открытие лицевого счёта, запись в Сводном реестре, доверенности и сертификаты, настройка «Электронного бюджета».</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Сведения и распоряжения</h3><p class="v2-process-desc">Структура сведений об операциях, коды направления, документы-основания, назначения платежей — главный источник возвратов.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Раздельный учёт</h3><p class="v2-process-desc">Учётная политика и методика, база распределения, справки, регистры по контракту, сходимость с лицевым счётом — по Порядку № 210н, для ГОЗ по постановлению № 47.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Отчётность</h3><p class="v2-process-desc">Сведения и отчёты по контракту: полнота, сроки, соответствие первичке; для ГОЗ — отчёт об исполнении контракта и РКМ.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Готовность к контролю</h3><p class="v2-process-desc">Сверяем документы с чек-листом органа финконтроля и классификатором нарушений — что спросят и где слабые места.</p></article></div>
   </div>
 </section>
 
@@ -226,42 +247,33 @@
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Процесс</div>
-      <h2 class="v2-section-title">От заявки до отчёта с рисками — <em>прозрачно</em></h2>
-      <p class="v2-section-lede">Каждый этап завершается понятным результатом, а не общими словами.</p>
+      <h2 class="v2-section-title">От заявки до отчёта <em>с рисками и планом</em></h2>
+      <p class="v2-section-lede">Каждый этап заканчивается понятным результатом, а не общими словами.</p>
     </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">Сегодня · в течение часа</div><h3>Экспресс-диагностика</h3><p class="v2-process-desc">Перезваниваем, оцениваем объём контракта и состояние документов, фиксируем стоимость аудита и NDA.</p><ul class="v2-process-checks"><li>Объём оценён</li><li>NDA подписан</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">По объёму</div><h3>Глубокий разбор</h3><p class="v2-process-desc">Проходим по всей цепочке сопровождения, сверяем с нормами и чек-листом контролёра, фиксируем расхождения.</p><ul class="v2-process-checks"><li>Цепочка проверена</li><li>Риски найдены</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">Финал</div><h3>Отчёт и план</h3><p class="v2-process-desc">Отдаём отчёт: список рисков по приоритету, последствия и конкретный план исправления. При желании — берём исправление на себя.</p><ul class="v2-process-checks"><li>Отчёт готов</li><li>План на руках</li></ul></article></div>
+    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">Сегодня · в течение часа</div><h3>Диагностика и договор</h3><p class="v2-process-desc">Перезваниваем, оцениваем объём контракта и состояние документов, подписываем NDA и договор с фиксированной ценой.</p><ul class="v2-process-checks"><li>Объём оценён</li><li>NDA подписан</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">По объёму контракта</div><h3>Разбор цепочки</h3><p class="v2-process-desc">Проходим шесть контуров, сверяем с нормами и чек-листом контролёра, фиксируем каждое расхождение с последствием.</p><ul class="v2-process-checks"><li>Цепочка проверена</li><li>Риски найдены</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">Финал</div><h3>Отчёт и план</h3><p class="v2-process-desc">Отчёт: риски по приоритету, последствия, конкретный план исправления с ответственными и сроками. По желанию — исправление берём на себя.</p><ul class="v2-process-checks"><li>Отчёт передан</li><li>План на руках</li></ul></article></div>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="riski">
+<section class="v2-section v2-screen" id="nuzhno">
   <div class="v2-container">
     <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Цена ошибки</div>
-      <h2 class="v2-section-title">Чем грозят <em>незамеченные ошибки</em></h2>
-      <p class="v2-section-lede">Цена пропущенной ошибки в сопровождении измеряется не часами, а отказами, штрафами и возвратом средств.</p>
+      <div class="v2-section-eyebrow">Что от вас</div>
+      <h2 class="v2-section-title">Что потребуется <em>от вас</em></h2>
     </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Отказ в санкционировании</h3><p class="v2-process-desc">Системная ошибка в распоряжениях останавливает все платежи по контракту, а не один.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Предписание финконтроля</h3><p class="v2-process-desc">Проверка по статье 269.2 БК выявляет нарушения — следует представление или предписание с требованием устранить.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Штраф по КоАП</h3><p class="v2-process-desc">Нарушение раздельного учёта по гособоронзаказу — ответственность по статье 7.30.3 КоАП; по сопровождению контрактов — по статье 15.37.1.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Возврат средств</h3><p class="v2-process-desc">Нецелевое расходование целевых средств — требование вернуть деньги в бюджет.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Срыв сроков</h3><p class="v2-process-desc">Зависшие платежи тормозят исполнение контракта, а с ним растут пени.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Эффект домино</h3><p class="v2-process-desc">Одна ошибка в учёте повторяется во всех периодах — чем позже найдена, тем дороже исправление.</p></article></div>
-    <div class="related-inline"><b>Смежные услуги и разборы</b> <a href="/uslugi/vosstanovlenie-razdelnogo-ucheta/">→ Восстановление раздельного учёта, если аудит выявил нарушения</a><a href="/uslugi/kaznacheyskoe-soprovozhdenie/">→ Казначейское сопровождение под ключ: услуги и цены</a><a href="/baza-znaniy/finansovyy-kontrol-federalnogo-kaznachejstva/">→ Финансовый контроль Федерального казначейства</a></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="compare">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Сравнение</div>
-      <h2 class="v2-section-title">Без проверки, силами бухгалтерии или <em>с нами</em></h2>
-      <p class="v2-section-lede">Чем независимый аудит отличается от самопроверки и сил штатной бухгалтерии.</p>
+    <div class="lp2-block">
+      <table class="lp2-table">
+        <caption>Доступ к документам — остальное анализирует эксперт</caption>
+        <thead><tr><th>Что нужно</th><th>Зачем</th></tr></thead>
+        <tbody>
+          <tr><td>Контракт, допсоглашения, договоры с соисполнителями</td><td>Основание сопровождения, идентификатор, условия</td></tr>
+          <tr><td>Выписки лицевого счёта, распоряжения, протоколы отказов</td><td>Где и почему возвращали</td></tr>
+          <tr><td>Сведения об операциях и их изменения</td><td>Структура и коды, сходимость с платежами</td></tr>
+          <tr><td>Учётная политика, регистры и выгрузки из 1С по контракту</td><td>Раздельный учёт и база распределения</td></tr>
+          <tr><td>Ответственный на связи</td><td>Уточняем детали по ходу</td></tr>
+        </tbody>
+      </table>
+      <p class="lp2-note">Всё — под NDA, который подписываем до передачи документов.</p>
     </div>
-    <div class="v2-compare" role="table">
-      <div class="v2-compare-head" role="row">
-        <div role="columnheader" class="v2-compare-head-cell">Параметр</div>
-        <div role="columnheader" class="v2-compare-head-cell">Самостоятельно</div>
-        <div role="columnheader" class="v2-compare-head-cell">Штатный спец</div>
-        <div role="columnheader" class="v2-compare-head-cell is-us">С КазнаЭксперт</div>
-      </div>
-      <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Взгляд на ошибки</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Замылен — вели сами</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Тот же исполнитель</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Независимый эксперт</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Глубина</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Поверхностная</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">По загрузке</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Вся цепочка</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Знание практики контроля</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Нет</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Ограничено</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>15 лет в Казначействе</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Результат</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Список сомнений</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Зависит от спеца</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Отчёт + план</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Сроки</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Затягивается</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">По остаточному принципу</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>По графику</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Конфиденциальность</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">—</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Внутри компании</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>NDA</strong></div></div>
-    </div>
-    <div class="v2-compare-cta"><a href="#zayavka">Обсудить ваш контракт <span aria-hidden="true">→</span></a></div>
   </div>
 </section>
 
@@ -269,29 +281,80 @@
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Стоимость</div>
-      <h2 class="v2-section-title">Стоимость — <em>фиксированная: 160 000 ₽</em></h2>
-      <p class="v2-section-lede">Полный аудит сопровождения — фиксированные 160 000 ₽, сумма закрепляется в договоре до начала работ. Экспресс-диагностика проводится до договора и помогает зафиксировать объём и сроки.</p>
+      <h2 class="v2-section-title">160 000 ₽ — <em>фиксированная цена аудита</em></h2>
+      <p class="v2-section-lede">Сумма закрепляется в договоре до начала работ и не зависит от того, сколько нарушений найдём. Оплата — после подписания договора.</p>
     </div>
     <div class="v2-tariffs-grid lp-3col"><article class="v2-tariff is-featured">
         <div class="v2-tariff-no">01</div>
-        <div class="v2-tariff-stage">Старт</div>
-        <h3>Экспресс-диагностика</h3>
-        <p class="v2-tariff-desc">Быстрая оценка состояния контракта и ключевых рисков. Понимаем объём и называем точную стоимость полного аудита.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">по запросу</div><div class="v2-tariff-price-note">После звонка · в рабочее время</div><a href="#zayavka" class="v2-tariff-link">Заказать <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-stage">Аудит</div>
+        <h3>Полный аудит сопровождения</h3>
+        <p class="v2-tariff-desc">Шесть контуров по одному контракту, сверка с чек-листом финконтроля и классификатором, отчёт с рисками по приоритету и планом исправления.</p>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">160 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Один контракт · фиксированно</div><a href="#zayavka" class="v2-tariff-link">Заказать аудит <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">02</div>
-        <div class="v2-tariff-stage">Основное</div>
-        <h3>Полный аудит сопровождения</h3>
-        <p class="v2-tariff-desc">Проверка всей цепочки с отчётом: риски по приоритету, последствия и план исправления.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">160 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Фиксированная цена · в договоре</div><a href="#zayavka" class="v2-tariff-link">Обсудить <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-stage">Если нашли нарушения</div>
+        <h3>Восстановление раздельного учёта</h3>
+        <p class="v2-tariff-desc">Регистры, справки распределения, сходимость с лицевым счётом за весь период контракта — под проверку УФК и военного представительства.</p>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">99 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">За контракт · фиксированно</div><a href="/uslugi/vosstanovlenie-razdelnogo-ucheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">03</div>
-        <div class="v2-tariff-stage">Дальше</div>
-        <h3>Исправление под ключ</h3>
-        <p class="v2-tariff-desc">Берём найденные нарушения на устранение: учёт, распоряжения, отчётность — до чистого результата.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">смета</div><div class="v2-tariff-price-note">По объёму работ</div><a href="/uslugi/kaznacheyskoe-soprovozhdenie/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-stage">Чтобы не повторилось</div>
+        <h3>Сопровождение контракта</h3>
+        <p class="v2-tariff-desc">Берём контракт на сопровождение после аудита: сведения, каждый платёж, учёт, без лимита операций.</p>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">105 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Контракт с авансом · 65 000 ₽ постоплата</div><a href="/uslugi/kaznacheyskoe-soprovozhdenie/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article></div>
-    <p class="v2-tariffs-footnote">Все цены фиксируются в договоре.</p>
+    <p class="v2-tariffs-footnote">Все цены — на странице <a href="/baza-znaniy/stoimost-kaznacheyskogo-soprovozhdeniya/">«Стоимость казначейского сопровождения»</a>.</p>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="scenarii">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Чем грозят незамеченные ошибки</div>
+      <h2 class="v2-section-title">Четыре последствия — <em>и что аудит с ними делает</em></h2>
+    </div>
+    <div class="lp2-scen">
+      <article class="reveal"><h3>Системный возврат распоряжений</h3><p><b>Что находим:</b> код направления или структуру сведений, из-за которых возвращается не один платёж, а все; в плане — переутверждение сведений и чек-лист перед подачей.</p></article>
+      <article class="reveal"><h3>Представление или предписание финконтроля</h3><p><b>Что находим:</b> расхождения по классификатору нарушений до прихода проверяющих по статье 269.2 БК — и закрываем их, пока это ещё не акт.</p></article>
+      <article class="reveal"><h3>Штраф за раздельный учёт</h3><p><b>Что находим:</b> отсутствие обособления по контракту, незакреплённую базу распределения, справки не по каждому контракту — составы ст. 15.37.1 и ч. 11 ст. 7.30.3 КоАП.</p></article>
+      <article class="reveal"><h3>Требование вернуть средства</h3><p><b>Что находим:</b> платежи вне направлений сведений и без документов-оснований — до того, как их квалифицируют как нецелевое использование.</p></article>
+    </div>
+    <p class="lp2-note" style="max-width:900px;margin:22px auto 0">Как проходит проверка казначейства и что запрашивают — в статье <a href="/baza-znaniy/kak-proyti-proverku-kaznachejstva/">как пройти проверку казначейства</a>; по ГОЗ — <a href="/baza-znaniy/proverka-razdelnogo-ucheta-goz/">проверка раздельного учёта ГОЗ</a>.</p>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="sravnenie">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Сравнение</div>
+      <h2 class="v2-section-title">Без проверки, силами бухгалтерии <em>или с нами</em></h2>
+    </div>
+    <div class="lp2-block">
+      <table class="lp2-table">
+        <caption>Чем независимый аудит отличается от самопроверки</caption>
+        <thead><tr><th>Критерий</th><th>Без проверки</th><th>Своя бухгалтерия</th><th>КазнаЭксперт</th></tr></thead>
+        <tbody>
+          <tr><td>Взгляд на ошибки</td><td>Ошибки повторяются во всех периодах</td><td>Замылен — вели сами</td><td>Независимый эксперт</td></tr>
+          <tr><td>Глубина</td><td>—</td><td>По загрузке, поверхностно</td><td>Вся цепочка, шесть контуров</td></tr>
+          <tr><td>Знание практики контроля</td><td>Нет</td><td>Ограничено</td><td>15 лет в Казначействе</td></tr>
+          <tr><td>Результат</td><td>Узнаёте от проверяющего</td><td>Список сомнений</td><td>Отчёт + план исправления</td></tr>
+          <tr><td>Стоимость</td><td>Штраф, предписание, возврат средств</td><td>Время бухгалтера</td><td>160 000 ₽ фиксированно</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="keys">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Из практики</div>
+      <h2 class="v2-section-title">Как это выглядит <em>на реальном контракте</em></h2>
+    </div>
+    <div class="lp2-block">
+      <p>Подрядчик по контракту с расширенным сопровождением получил уведомление о проверке финконтроля и заказал аудит за три недели до неё. Разбор показал три системных расхождения: сведения об операциях утверждены под старую смету, в справках распределения накладных база менялась от квартала к кварталу, а по двум платежам не хватало документов-оснований. В отчёте риски выстроили по приоритету: переутверждение сведений — сразу, единая база распределения с начала года — за неделю, документы к платежам — из первички поставщиков. К проверке подошли с закрытыми расхождениями; акт зафиксировал одно замечание по срокам, предписания не было.</p>
+      <p class="lp2-note">Классификатор нарушений и порядок проверок — в статьях <a href="/baza-znaniy/finansovyy-kontrol-federalnogo-kaznachejstva/">финансовый контроль Федерального казначейства</a> и <a href="/baza-znaniy/rasshirennoe-kaznacheyskoe-soprovozhdenie/">расширенное казначейское сопровождение</a>. Другие кейсы — на странице <a href="/keysy/">«Кейсы»</a>.</p>
+    </div>
   </div>
 </section>
 
@@ -301,13 +364,19 @@
       <div class="v2-section-eyebrow">Вопросы</div>
       <h2 class="v2-section-title">Отвечаем <em>прямо</em></h2>
     </div>
-    <div class="faq"><details open><summary>Что такое аудит казначейского сопровождения?</summary><p>Это независимая проверка того, как ведётся ваш контракт под казначейским сопровождением: корректность открытия счёта, санкционирования платежей, раздельного учёта, сведений и отчётности. Цель — найти ошибки и риски до того, как их найдёт казначейство или орган финансового контроля.</p></details><details><summary>Зачем нужно второе мнение, если контракт ведёт бухгалтер?</summary><p>Исполнитель не видит собственных ошибок — взгляд замылен, а одна неточность в учёте повторяется во всех периодах. Независимый эксперт с практикой Казначейства проверяет по чек-листу контролёра и находит системные причины отказов.</p></details><details><summary>Сколько стоит аудит?</summary><p>Полный аудит казначейского сопровождения стоит 160 000 ₽ — цена фиксированная и закрепляется в договоре, без доплат по ходу. Экспресс-диагностика перед договором помогает согласовать объём и сроки работ.</p></details><details><summary>Что я получу на руки?</summary><p>Отчёт со списком рисков по приоритету, описанием последствий каждого и конкретным планом исправления. По желанию берём устранение нарушений на себя.</p></details><details><summary>Это конфиденциально?</summary><p>Да. Работаем по NDA, который подписываем до передачи документов. Данные не передаём третьим лицам.</p></details><details><summary>Поможете подготовиться к проверке финконтроля?</summary><p>Да. Сверяем документы и учёт с требованиями статьи 269.2 БК и классификатором нарушений, показываем слабые места и помогаем закрыть их до прихода проверяющих.</p></details><details><summary>Сколько времени занимает аудит?</summary><p>Экспресс-диагностика — в день обращения. Полный аудит — по объёму контракта, срок фиксируем в договоре.</p></details><details><summary>Что если найдёте серьёзные нарушения?</summary><p>Покажем их с оценкой последствий и предложим план исправления. Если нужно — восстановим раздельный учёт и приведём документы в порядок под ключ.</p></details></div>
+    <div class="faq"><details open><summary>Что такое аудит казначейского сопровождения?</summary><p>Независимая проверка того, как ведётся контракт под казначейским сопровождением: основание и режим, открытие счёта, санкционирование, раздельный учёт, сведения и отчётность. Цель — найти ошибки и риски до того, как их найдёт казначейство, орган финансового контроля или военное представительство.</p></details>
+      <details><summary>Сколько стоит аудит?</summary><p>160 000 ₽ за один контракт — фиксированная цена, закрепляется в договоре до начала работ и не зависит от числа найденных нарушений. Экспресс-оценка объёма до договора — часть услуги.</p></details>
+      <details><summary>Что я получу на руки?</summary><p>Отчёт со списком рисков по приоритету, описанием последствий каждого и конкретным планом исправления — что, кто и в какой срок. По желанию исправление берём на себя.</p></details>
+      <details><summary>Сколько времени занимает аудит?</summary><p>Оценка объёма — в день обращения. Полный аудит — от объёма контракта и состояния документов; срок фиксируем в договоре вместе с ценой.</p></details>
+      <details><summary>Зачем второе мнение, если контракт ведёт бухгалтер?</summary><p>Исполнитель не видит собственных ошибок, а одна неточность в сведениях или базе распределения повторяется во всех периодах. Эксперт с практикой Казначейства проверяет по чек-листу контролёра и находит системные причины, а не симптомы.</p></details>
+      <details><summary>Поможете подготовиться к проверке?</summary><p>Да: сверяем документы и учёт с требованиями статьи 269.2 БК, классификатором нарушений и требованиями военного представительства по ГОЗ, показываем слабые места и закрываем их до прихода проверяющих.</p></details>
+      <details><summary>Это конфиденциально?</summary><p>Да. NDA подписываем до передачи документов, данные третьим лицам не передаём, отчёт получаете только вы.</p></details></div>
   </div>
 </section>
 
 <section class="v2-section" aria-label="Актуальность страницы">
   <div class="v2-container">
-    <p class="v2-freshness">Страница актуальна на <time datetime="2026-08-11">11 августа 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
+    <p class="v2-freshness">Страница актуальна на <time datetime="2026-09-09">9 сентября 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
   </div>
 </section>
 
@@ -315,24 +384,26 @@
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Заявка</div>
-      <h2 class="v2-section-title">Закажите проверку</h2>
-      <p class="v2-section-lede">Оставьте контакты — эксперт перезвонит в течение часа в рабочее время (9:00–21:00 МСК), подтвердит объём и срок — 160 000 ₽ фиксированно. NDA — до передачи документов.</p>
+      <h2 class="v2-section-title">Закажите проверку — <em>160 000 ₽ фиксированно</em></h2>
+      <p class="v2-section-lede">Оставьте контакты — перезвоним в течение часа в рабочее время (9:00–21:00 МСК), оценим объём и подтвердим срок. NDA — до передачи документов.</p>
     </div>
     <div style="max-width:520px;margin:0 auto">
       <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="audit-kaznacheyskogo-soprovozhdeniya-cta">
         <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
         <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
+        <textarea class="fld" name="message" placeholder="Комментарий: сумма контракта, аванс, ГОЗ или 44-ФЗ (необязательно)" rows="2" maxlength="3000"></textarea>
         <input class="hp" name="kz_note" tabindex="-1" autocomplete="off" aria-hidden="true">
         <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-        <button class="submit" type="submit">Оставить заявку →</button>
+        <button class="submit" type="submit">Отправить заявку →</button>
         <div class="formmsg" id="formMsgBottom" hidden></div>
-        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA по запросу</span></div>
+        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA до документов</span></div>
         <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
           <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
           <h3>Заявка принята</h3>
-          <p>Эксперт перезвонит <b>в течение часа</b> (9:00–21:00 МСК).</p>
+          <p>Эксперт свяжется <b>в течение часа</b> в рабочее время (пн–пт, 9:00–19:00 МСК).</p>
         </div>
       </form>
+      <p style="text-align:center;margin:18px 0 0;font-size:15px;color:#5F5A52">Телефон <a href="tel:+79818331010" style="color:#8B6F47">+7 981 833-10-10</a> · <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener" style="color:#8B6F47">Telegram</a> · <a href="https://wa.me/+79818331010" target="_blank" rel="noopener" style="color:#8B6F47">WhatsApp</a></p>
     </div>
   </div>
 </section>
@@ -351,7 +422,6 @@
 </section>
 
 <script>
-/* обработчик нижней лид-формы (#leadFormBottom); верхнюю #leadForm обслуживает общий скрипт страницы */
 (function(){
   var f=document.getElementById('leadFormBottom'); if(!f) return;
   var msg=document.getElementById('formMsgBottom'), ok=document.getElementById('leadSuccessBottom');
@@ -364,7 +434,7 @@
     if(!/\d[\s\d().-]*\d{3}/.test(phone)||phone.replace(/\D/g,'').length<10){show('Проверьте телефон');return;}
     if(!f.consent.checked){show('Подтвердите согласие');return;}
     var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';
-    fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})})
+    fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,message:(f.message&&f.message.value||'').trim(),consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})})
       .then(function(r){ if(!r.ok) throw 0; return r; })
       .then(function(){
         [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; });
@@ -377,14 +447,13 @@
 </script>
 
 
-
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
 
           <div class="v2-footer-cta">
             <div class="v2-footer-cta-lead">
               <span class="v2-footer-cta-eyebrow">Готовы начать</span>
-              <p class="v2-footer-cta-title">Проверим казначейское сопровождение <em>до казначейства</em></p>
+              <p class="v2-footer-cta-title">Откроем казначейский счёт <em>за два рабочих дня</em></p>
             </div>
             <div class="v2-footer-cta-actions">
               <a href="/#contacts" class="v2-footer-cta-btn">Оставить заявку</a>
@@ -531,7 +600,7 @@
     if(form.name.value.trim().length<2||form.phone.value.replace(/\D/g,'').length<10){show('Проверьте имя и телефон');return;}
     var DEMO=false;
     var btn=form.querySelector('.submit'),orig=btn.textContent;btn.disabled=true;btn.textContent='Отправляем…';
-    var data={phone:form.phone.value.trim(),source:SRC,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+SRC+')',consent_at:new Date().toISOString(),page_url:location.href,name:form.name.value.trim()};
+    var data={phone:form.phone.value.trim(),source:SRC,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+SRC+')',consent_at:new Date().toISOString(),page_url:location.href,name:form.name.value.trim(),message:(form.message&&form.message.value||'').trim()};
     fetch(form.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)})
       .then(function(r){if(!r.ok)throw 0;return r;}).then(succeed).catch(function(){if(DEMO){succeed();}else{fail();}});
     function succeed(){[].forEach.call(form.children,function(el){if(el!==ok)el.style.display='none';});ok.classList.add('on');try{window.ym&&ym(94305898,'reachGoal','lead',{source:SRC});}catch(e){}}
