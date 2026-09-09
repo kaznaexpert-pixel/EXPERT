@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Резервирование счёта к дате тендера — 25 000 ₽</title>
-<meta name="description" content="Зарезервируем казначейский счёт за 1 рабочий день к дате тендера: подтверждение для заказчика, фиксация позиции в УФК, зачёт в открытие счёта. 25 000 ₽.">
+<title>Резервирование казначейского счёта к тендеру — 1 день, 25 000 ₽</title>
+<meta name="description" content="Зарезервируем номер лицевого счёта 71 к дате тендера за один рабочий день: заявление 0531368, правильный ТОФК, контроль срока резерва. 25 000 ₽, зачёт в открытие.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -26,106 +26,13 @@
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": ["https://kaznaexpert.ru/img/og/uslugi__rezervirovanie-scheta-16x9.jpg", "https://kaznaexpert.ru/img/og/uslugi__rezervirovanie-scheta-4x3.webp", "https://kaznaexpert.ru/img/og/uslugi__rezervirovanie-scheta-1x1.webp"], "datePublished": "2026-06-25", "dateModified": "2026-08-31", "name": "Резервирование казначейского счёта", "serviceType": "Резервирование лицевого счёта к дате тендера", "description": "Резервирование казначейского счёта за один рабочий день: анализ тендера, подготовка заявки, подача в УФК и подтверждение готовности для заказчика. Зачёт стоимости в открытие счёта.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "25000", "priceCurrency": "RUB", "description": "Резервирование казначейского счёта под ключ, разово", "url": "https://kaznaexpert.ru/uslugi/rezervirovanie-scheta/", "priceValidUntil": "2026-12-31"}, "url": "https://kaznaexpert.ru/uslugi/rezervirovanie-scheta/"}
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": ["https://kaznaexpert.ru/img/og/uslugi__rezervirovanie-scheta-16x9.jpg", "https://kaznaexpert.ru/img/og/uslugi__rezervirovanie-scheta-4x3.webp", "https://kaznaexpert.ru/img/og/uslugi__rezervirovanie-scheta-1x1.webp"], "datePublished": "2026-06-25", "dateModified": "2026-09-09", "name": "Резервирование казначейского счёта", "serviceType": "Резервирование номера лицевого счёта участника казначейского сопровождения (код 71) в территориальном органе Федерального казначейства к дате тендера", "description": "Резервирование номера лицевого счёта 71 за один рабочий день: определение территориального органа по контракту и заказчику, заявление по форме 0531368, подтверждение резерва для заказчика, контроль шестимесячного срока и переход к открытию счёта после победы. Фиксированная цена 25 000 ₽ с зачётом в открытие.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "25000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "description": "Резервирование номера лицевого счёта 71, разово, засчитывается в открытие счёта", "url": "https://kaznaexpert.ru/uslugi/rezervirovanie-scheta/", "priceValidUntil": "2026-12-31"}, "url": "https://kaznaexpert.ru/uslugi/rezervirovanie-scheta/"}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Резервирование счёта"}]}
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Услуги", "item": "https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie/"}, {"@type": "ListItem", "position": 3, "name": "Резервирование счёта", "item": "https://kaznaexpert.ru/uslugi/rezervirovanie-scheta/"}]}
 </script>
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Чем резервирование отличается от открытия счёта?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Резервирование — предварительная фиксация счёта до подписания контракта: позволяет указать реквизиты счёта в заявке и в тексте контракта. Открытие — следующий шаг после победы, когда счёт становится рабочим инструментом."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Зачем платить за резерв, если можно сразу открыть счёт?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Пока контракт не подписан, открыть счёт нельзя — казначейство не проведёт процедуру без договора. Резерв — юридически корректный способ подтвердить готовность. При открытии счёта через нас стоимость резерва засчитывается."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Что если я не выиграю тендер?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Резерв оказывается вне зависимости от итога. Если тендер не выигран — резервирование аннулируется. В следующей закупке обслужим быстрее, потому что уже знаем вашу ситуацию."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "За сколько зарезервируете счёт?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "За один рабочий день с момента получения данных по тендеру. Срок фиксируем в договоре."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Засчитывается ли резерв в стоимость открытия?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Да. Если после победы открываете счёт через нас, стоимость резервирования идёт в зачёт оплаты открытия."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Работаете по всей России?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Да, дистанционно по всем регионам РФ. Документы — в электронном виде, личное присутствие не требуется."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "На каком основании резервируют номер лицевого счёта?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Резервирование предусмотрено Порядком открытия лицевых счетов участникам казначейского сопровождения, утверждённым приказом Казначейства России от 22.12.2021 № 44н. Подаётся заявление на резервирование лицевого счёта по форме КФД 0531368, для нескольких участников — перечень по форме КФД 0531369."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Сколько действует зарезервированный номер счёта?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Шесть месяцев с даты резервирования. Если за это время документы на открытие счёта не представлены, номер аннулируется и процедуру нужно повторять."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Можно ли проводить платежи по зарезервированному номеру?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Нет. Резерв — это только номер для указания в документах. Операции возможны после открытия счёта на основании контракта, договора или соглашения."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Чем резервирование счёта по гособоронзаказу отличается от казначейского?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Это два разных контура. При банковском сопровождении гособоронзаказа резервируется отдельный счёт в уполномоченном банке, и организация делает это сама через банк. Мы работаем с казначейским контуром — резервируем и открываем лицевой счёт с кодом 71 в территориальном органе Казначейства. Какой режим применяется, определяют условия контракта."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Нужно ли резервировать счёт, если контракт уже подписан?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Обычно нет — при наличии документа-основания счёт открывают сразу. Резервирование имеет смысл, когда реквизиты требуются до подписания."
-      }
-    }
-  ]
-}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Сколько стоит резервирование казначейского счёта?", "acceptedAnswer": {"@type": "Answer", "text": "25 000 ₽ — фиксированная цена за один рабочий день. Если после победы открываете счёт через нас, стоимость резерва засчитывается в открытие (35 000 ₽)."}}, {"@type": "Question", "name": "На каком основании резервируют номер лицевого счёта?", "acceptedAnswer": {"@type": "Answer", "text": "Порядок открытия лицевых счетов участникам казначейского сопровождения, утверждённый приказом Казначейства России от 22.12.2021 № 44н: заявление на резервирование по форме 0531368, для нескольких участников — перечень по форме 0531369."}}, {"@type": "Question", "name": "Сколько действует зарезервированный номер?", "acceptedAnswer": {"@type": "Answer", "text": "Шесть месяцев с даты резервирования. Если за это время документы на открытие не представлены, номер аннулируется. Ведём срок за вас и предупреждаем заранее."}}, {"@type": "Question", "name": "Можно ли проводить платежи по зарезервированному номеру?", "acceptedAnswer": {"@type": "Answer", "text": "Нет. Резерв — только номер для указания в документах. Операции возможны после открытия счёта на основании контракта, договора или соглашения."}}, {"@type": "Question", "name": "Что если я не выиграю тендер?", "acceptedAnswer": {"@type": "Answer", "text": "Резерв аннулируется, платить за открытие не нужно. В следующей закупке обслужим быстрее — данные организации уже проверены."}}, {"@type": "Question", "name": "Чем резервирование счёта по гособоронзаказу отличается от казначейского?", "acceptedAnswer": {"@type": "Answer", "text": "Это два контура. При банковском сопровождении гособоронзаказа отдельный счёт резервируется в уполномоченном банке самой организацией. Мы работаем с казначейским контуром — лицевой счёт 71 в территориальном органе Казначейства. Режим определяют условия контракта."}}, {"@type": "Question", "name": "Нужно ли резервировать, если контракт уже подписан?", "acceptedAnswer": {"@type": "Answer", "text": "Нет — при наличии документа-основания счёт открывают сразу: открытие счёта за два рабочих дня."}}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
@@ -176,20 +83,20 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Резервирование казначейского счёта к дате тендера">
-<meta property="og:description" content="За 1 рабочий день: подтверждение готовности для заказчика, зачёт в открытие счёта. По всей России.">
+<meta property="og:title" content="Резервирование казначейского счёта — 1 день, 25 000 ₽">
+<meta property="og:description" content="Номер лицевого счёта 71 к дате тендера за один рабочий день: заявление 0531368, правильный территориальный орган, контроль 6-месячного срока. Зачёт в открытие.">
 <meta property="og:url" content="https://kaznaexpert.ru/uslugi/rezervirovanie-scheta/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og/uslugi__rezervirovanie-scheta-16x9.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="675">
-<meta property="og:image:alt" content="Резервирование казначейского счёта к дате тендера — КазнаЭксперт">
+<meta property="og:image:alt" content="Резервирование казначейского счёта — 1 день, 25 000 ₽ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-08-31T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-09T10:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Резервирование казначейского счёта к дате тендера">
-<meta name="twitter:description" content="За 1 рабочий день: подтверждение готовности для заказчика, зачёт в открытие счёта. По всей России.">
+<meta name="twitter:title" content="Резервирование казначейского счёта — 1 день, 25 000 ₽">
+<meta name="twitter:description" content="Номер лицевого счёта 71 к дате тендера за один рабочий день: заявление 0531368, правильный территориальный орган, контроль 6-месячного срока. Зачёт в открытие.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og/uslugi__rezervirovanie-scheta-16x9.jpg">
 
 <link rel="stylesheet" href="/css/landing-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/landing-shared.css') ?>">
@@ -246,43 +153,65 @@
 
 <div class="v2">
 
-<style>@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}</style>
+<style>@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}
+.railform textarea.fld{resize:vertical;min-height:64px;line-height:1.45}
+.v2 .lp2-risk{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin:28px 0 0}
+.v2 .lp2-risk div{padding:16px 18px;border:1px solid #E4DDD0;border-left:3px solid #A8844A;background:#FFFDF8;font-size:15px;line-height:1.5}
+.v2 .lp2-risk b{display:block;font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:#8B6F47;margin-bottom:6px}
+.v2 .lp2-price{display:flex;flex-wrap:wrap;align-items:baseline;gap:10px 22px;margin:22px 0 0;padding:18px 0 0;border-top:1px solid #E4DDD0}
+.v2 .lp2-price b{font-family:var(--font-display);font-weight:500;font-size:34px;letter-spacing:-.02em}
+.v2 .lp2-price span{color:#5F5A52;font-size:15px}
+.v2 .lp2-scen{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
+.v2 .lp2-scen article{padding:22px 24px;background:var(--paper);border:1px solid var(--hair-strong)}
+.v2 .lp2-scen h3{font-family:var(--font-display);font-weight:500;font-size:20px;margin:0 0 10px;letter-spacing:-.01em}
+.v2 .lp2-scen p{margin:0;font-size:16px;line-height:1.6;color:#3A3A3A}
+.v2 .lp2-scen p b{color:#1A1A1A}
+@media(max-width:920px){.v2 .lp2-risk{grid-template-columns:repeat(2,1fr)}.v2 .lp2-scen{grid-template-columns:1fr}}
+@media(max-width:560px){.v2 .lp2-risk{grid-template-columns:1fr}.v2 .lp2-price b{font-size:28px}}
+</style>
 
 <section class="v2-hero">
   <div class="v2-container">
-    <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › Резервирование счёта</nav>
+    <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a> › Резервирование счёта</nav>
     <div class="v2-hero-grid">
       <div class="v2-hero-main">
         <div class="v2-hero-eyebrow-row">
-          <span class="v2-eyebrow">Услуга · до тендера · 44-ФЗ · 223-ФЗ</span>
+          <span class="v2-eyebrow">Услуга · тендер · 44-ФЗ · 223-ФЗ</span>
           <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
         </div>
-        <h1>Зарезервируем казначейский счёт <br><em>к дате тендера</em></h1>
+        <h1>Зарезервируем казначейский счёт <em>к дате тендера</em></h1>
 <a href="/#reviews" class="v2-reviews-link">Отзывы клиентов →</a>
-        <p class="v2-hero-lede"><strong>Готовим реквизиты заранее</strong> — к моменту победы счёт уже на старте. Подтверждение готовности для заказчика, фиксация позиции в очереди УФК. Не выиграли тендер — закрываем без расходов.</p>
-        <div class="v2-hero-trust"><div class="v2-trust-item"><div class="v2-trust-num">1<span class="v2-trust-suffix">&nbsp;день</span></div><div class="v2-trust-label">на резервирование</div></div><div class="v2-trust-item"><div class="v2-trust-num v2-trust-price">25 000 ₽</div><div class="v2-trust-label">фиксированная цена, зачёт в открытие</div></div><div class="v2-trust-item"><div class="v2-trust-num">100<span class="v2-trust-suffix">%</span></div><div class="v2-trust-label">дистанционно, вся РФ</div></div><div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div></div>
+        <p class="v2-hero-lede"><strong>Реквизиты лицевого счёта нужны раньше, чем появится контракт:</strong> в заявке, в проекте контракта, в письме заказчику. Резервируем номер в правильном территориальном органе Казначейства за один рабочий день, подтверждаем готовность заказчику и ведём срок резерва — после победы открываем счёт под готовые реквизиты, стоимость резерва засчитывается.</p>
+        <div class="lp2-risk">
+          <div><b>Снимаем риск</b>Заявка без реквизитов счёта — заказчик считает вас неготовым</div>
+          <div><b>Снимаем риск</b>Резерв не в том ТОФК — номер бесполезен, процедура заново</div>
+          <div><b>Снимаем риск</b>Аннулированный через 6 месяцев номер в уже подписанных документах</div>
+          <div><b>Снимаем риск</b>Недели после победы на открытие счёта «с нуля»</div>
+        </div>
+        <div class="lp2-price"><b>25 000 ₽</b><span>Разово · 1 рабочий день</span><span>Засчитывается в открытие счёта (35 000 ₽)</span><span>Срок резерва ведём за вас</span></div>
         <div class="v2-hero-expert">
           <div class="v2-expert-name">Михайлов Ярослав</div>
           <div class="v2-expert-role">Эксперт · 15 лет в Казначействе</div>
-          <p class="v2-expert-quote">«Резерв — это страховка от очередей и сорванных сроков. Пока конкурент после победы только собирает документы, у вас реквизиты уже готовы».</p>
+          <p class="v2-expert-quote">«Резерв — страховка от очередей и сорванных сроков. Пока конкурент после победы только собирает документы, у вас реквизиты уже в контракте и счёт открывается за день».</p>
         </div>
       </div>
       <aside class="v2-hero-action">
-        <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
+        <div class="v2-hero-action-eyebrow">Заявка</div>
         <h2>Зарезервируем счёт за вас</h2>
-        <p class="v2-hero-action-sub">Передайте номер тендера или требования заказчика — эксперт перезвонит в течение часа в рабочее время (9:00–21:00 МСК) и зарезервирует счёт за один рабочий день.</p>
+        <p class="v2-hero-action-sub">Передайте номер тендера или требование заказчика — перезвоним в течение часа в рабочее время (9:00–21:00 МСК) и зарезервируем счёт за один рабочий день. 25 000 ₽ фиксируется в договоре.</p>
         <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="rezervirovanie-scheta">
           <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
           <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
+          <textarea class="fld" name="message" placeholder="Комментарий: номер закупки, заказчик, дата подачи заявки (необязательно)" rows="2" maxlength="3000"></textarea>
           <input class="hp" name="kz_note" tabindex="-1" autocomplete="off" aria-hidden="true">
           <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-          <button class="submit" type="submit">Оставить заявку →</button>
+          <button class="submit" type="submit">Отправить заявку →</button>
           <div class="formmsg" id="formMsg" hidden></div>
-          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA по запросу</span></div>
+          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA до документов</span></div>
           <div class="success" id="leadSuccess" role="status" aria-live="polite">
             <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
             <h3>Заявка принята</h3>
-            <p>Эксперт перезвонит <b>в течение часа</b> (9:00–21:00 МСК) и разберёт ваш контракт.</p>
+            <p>Эксперт свяжется <b>в течение часа</b> в рабочее время (пн–пт, 9:00–19:00 МСК) и разберёт ваш контракт.</p>
             <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
           </div>
         </form>
@@ -297,31 +226,20 @@
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Для кого</div>
       <h2 class="v2-section-title">Когда нужно <em>резервирование</em></h2>
-      <p class="v2-section-lede">Четыре ситуации, в которых резерв счёта снимает риск и экономит время до подписания контракта.</p>
+      <p class="v2-section-lede">Четыре ситуации, в которых номер счёта нужен до контракта.</p>
     </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Заказчик требует подтверждение</h3><p class="v2-process-desc">Нужно подтвердить готовность открыть счёт до заключения контракта. Резервируем и выдаём документ для тендерной комиссии.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Очередь в УФК</h3><p class="v2-process-desc">В отдельных территориальных органах казначейства есть очереди на открытие счетов. Резерв фиксирует вашу позицию заранее.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Сжатые сроки тендера</h3><p class="v2-process-desc">Требование счёта поставили в последний момент, а тендер на финише. Резервируем за один рабочий день.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Несколько тендеров сразу</h3><p class="v2-process-desc">Участвуете параллельно в нескольких закупках — резервируем счёт под каждую, обрабатываем всё одновременно.</p></article></div>
+    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Заказчик требует реквизиты в заявке</h3><p class="v2-process-desc">В документации закупки или в проекте контракта — поле для лицевого счёта участника сопровождения. Без номера заявка выглядит неготовой.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Несколько тендеров подряд</h3><p class="v2-process-desc">Резервируем номер один раз — он действует шесть месяцев и подходит для любой закупки у заказчиков, обслуживаемых тем же территориальным органом.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Контракт подпишут «завтра»</h3><p class="v2-process-desc">Реквизиты нужны в тексте контракта сегодня, а документа-основания для открытия ещё нет. Резерв закрывает разрыв.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Уже резервировали не там</h3><p class="v2-process-desc">Номер получен в органе по месту регистрации, а счёт должен вести орган по заказчику. Резервируем заново в правильном ТОФК.</p></article></div>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="pod-kluch">
+<section class="v2-section v2-screen" id="sostav">
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Что входит</div>
       <h2 class="v2-section-title">Резервирование <em>под ключ</em></h2>
-      <p class="v2-section-lede">Полный процесс на нашей стороне. Вы получаете подтверждение для заказчика.</p>
+      <p class="v2-section-lede">От анализа закупки до подтверждения для заказчика — и дальше до открытия счёта.</p>
     </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Анализ тендера</h3><p class="v2-process-desc">Изучаем документацию и требования заказчика к счёту: тип, параметры, сроки резервирования.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Подготовка заявки</h3><p class="v2-process-desc">Формируем полный пакет: заявление, перечень реквизитов и сопроводительные документы.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Подача в УФК</h3><p class="v2-process-desc">Направляем заявку в казначейство и контролируем статус резервирования без вашего участия.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Устранение замечаний</h3><p class="v2-process-desc">Если возникли замечания — снимаем их сами, не перекладывая на вас.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Подтверждение для заказчика</h3><p class="v2-process-desc">Получаете документальное подтверждение резервирования — готово для тендерной комиссии.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Переход к открытию</h3><p class="v2-process-desc">После победы открываем счёт за два дня. Стоимость резерва засчитываем в открытие.</p></article></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="ot-vas">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Что от вас</div>
-      <h2 class="v2-section-title">Что потребуется <em>от вас</em></h2>
-      <p class="v2-section-lede">Минимум данных — 5 минут на пересылку. Остальное берём на себя.</p>
-    </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Номер тендера</h3><p class="v2-process-desc">Или требования заказчика к счёту — для анализа условий резервирования.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>ИНН и ОГРН</h3><p class="v2-process-desc">Регистрационные данные организации.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>СНИЛС руководителя</h3><p class="v2-process-desc">Для оформления доступа и подписи.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Контакт для связи</h3><p class="v2-process-desc">Телефон ответственного — держим в курсе статуса.</p></article></div>
+    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Анализ закупки</h3><p class="v2-process-desc">Проверяем, нужен ли по этому контракту лицевой счёт вообще и какой территориальный орган будет его вести — орган определяется по контракту и заказчику, не по вашей регистрации.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Заявление 0531368</h3><p class="v2-process-desc">Готовим и подаём заявление на резервирование через «Электронный бюджет» (для группы участников — перечень 0531369).</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Подтверждение для заказчика</h3><p class="v2-process-desc">Формулируем письмо с зарезервированным номером, которое заказчик принимает как подтверждение готовности.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Контроль срока</h3><p class="v2-process-desc">Резерв действует шесть месяцев; ведём дату и предупреждаем заранее, если закупка сдвинулась.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Сводный реестр</h3><p class="v2-process-desc">Сверяем данные организации с ЕГРЮЛ до подачи — на открытии они должны совпасть до символа.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Открытие после победы</h3><p class="v2-process-desc">Карточка контракта, доверенность, документы — открываем счёт под зарезервированный номер за два рабочих дня; 25 000 ₽ засчитываются.</p></article></div>
   </div>
 </section>
 
@@ -330,48 +248,72 @@
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Процесс</div>
       <h2 class="v2-section-title">От заявки до резерва — <em>один рабочий день</em></h2>
-      <p class="v2-section-lede">Каждый шаг — конкретное действие на нашей стороне. Прозрачно и в срок.</p>
+      <p class="v2-section-lede">Дальше — победа, контракт и открытие под готовые реквизиты.</p>
     </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">Сегодня · в течение часа</div><h3>Заявка и старт</h3><p class="v2-process-desc">Перезваниваем в течение часа, уточняем тендер, подписываем договор и NDA.</p><ul class="v2-process-checks"><li>Договор подписан</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">2–4 часа</div><h3>Заявка в УФК</h3><p class="v2-process-desc">Анализируем тендер, формируем пакет и подаём заявку на резервирование.</p><ul class="v2-process-checks"><li>Пакет собран</li><li>Заявка подана</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">1 рабочий день</div><h3>Счёт зарезервирован</h3><p class="v2-process-desc">Получаете подтверждение резервирования и реквизиты для предоставления заказчику.</p><ul class="v2-process-checks"><li>Резерв подтверждён</li><li>Документ передан</li></ul></article></div>
+    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">Сегодня · в течение часа</div><h3>Заявка и анализ</h3><p class="v2-process-desc">Перезваниваем, получаем номер закупки и данные организации, определяем территориальный орган, подписываем договор.</p><ul class="v2-process-checks"><li>Орган определён</li><li>Договор подписан</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">День 1</div><h3>Резерв</h3><p class="v2-process-desc">Подаём заявление 0531368, получаем номер лицевого счёта, передаём вам реквизиты и подтверждение для заказчика.</p><ul class="v2-process-checks"><li>Номер зарезервирован</li><li>Подтверждение передано</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">После победы</div><h3>Открытие</h3><p class="v2-process-desc">Контракт подписан с зарезервированными реквизитами — открываем счёт за два рабочих дня, резерв засчитываем.</p><ul class="v2-process-checks"><li>Счёт открыт</li><li>Резерв зачтён</li></ul></article></div>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="kak-rabotaet">
+<section class="v2-section v2-screen" id="nuzhno">
   <div class="v2-container">
     <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Механика</div>
-      <h2 class="v2-section-title">Резервирование номера лицевого счёта <em>с кодом 71</em></h2>
-      <p class="v2-section-lede">Резервирование — это получение номера будущего лицевого счёта до того, как появится документ-основание. Номер уже можно вписать в контракт, заявку или сведения.</p>
+      <div class="v2-section-eyebrow">Что от вас</div>
+      <h2 class="v2-section-title">Что потребуется <em>от вас</em></h2>
     </div>
     <div class="lp2-block">
-      <div class="lp2-answer"><p><strong>Коротко:</strong> резервирование номера лицевого счёта участника казначейского сопровождения предусмотрено Порядком, утверждённым приказом Казначейства России от 22.12.2021 № 44н. Основание — заявление на резервирование лицевого счёта (форма по КФД 0531368); для группы участников подаётся перечень участников казначейского сопровождения для резервирования лицевых счетов (форма по КФД 0531369).</p></div>
-      <p>Логика такая. Открыть лицевой счёт без документа-основания нельзя — казначейству нужен контракт, договор или соглашение. Но реквизиты счёта часто требуются раньше: заказчик просит указать их в проекте контракта, в заявке на участие или в дополнительном соглашении. Резервирование закрывает этот разрыв: вы получаете номер заранее, вписываете его в документы, а сам счёт открываете после подписания контракта — уже под готовые реквизиты.</p>
       <table class="lp2-table">
-        <caption>Резервирование и открытие: что происходит на каждом шаге</caption>
-        <thead><tr><th>Шаг</th><th>Что нужно</th><th>Что получаете</th></tr></thead>
+        <caption>Три вещи — и один рабочий день</caption>
+        <thead><tr><th>Что нужно</th><th>Зачем</th></tr></thead>
         <tbody>
-          <tr><td>Резервирование</td><td>Заявление на резервирование, данные организации</td><td>Номер лицевого счёта, который можно указывать в документах</td></tr>
-          <tr><td>Подписание контракта</td><td>Зарезервированный номер в реквизитах сторон</td><td>Документ-основание для открытия</td></tr>
-          <tr><td>Открытие</td><td>Полный комплект по приказу № 44н</td><td>Действующий счёт, готовый к операциям</td></tr>
+          <tr><td>Номер закупки или требование заказчика</td><td>Определяем территориальный орган и основание сопровождения</td></tr>
+          <tr><td>ИНН, ОГРН, данные руководителя</td><td>Заявление на резервирование и сверка со Сводным реестром</td></tr>
+          <tr><td>Подпись и доступ в «Электронный бюджет» (или готовность их получить)</td><td>Подача заявления электронно</td></tr>
+          <tr><td>Телефон ответственного</td><td>Реквизиты и подтверждение передаём в тот же день</td></tr>
         </tbody>
       </table>
-      <p>Отдельный вопрос — что писать в поле учётного номера при резервировании. На этапе резерва документа-основания ещё нет, поэтому идентификатор контракта указать неоткуда: заявление подаётся по данным самой организации, а привязка к конкретному контракту появляется позже, при открытии счёта. Если заказчик просит «номер счёта с идентификатором» до подписания, речь идёт именно о зарезервированном номере — идентификатор к нему добавится на следующем шаге.</p>
-      <p>Ещё одна деталь, о которой обычно узнают поздно: резервирование делается в том территориальном органе Казначейства, который будет обслуживать счёт по документу-основанию. Орган определяется не по месту регистрации компании, а по правилам, привязанным к контракту и его заказчику. Ошибка здесь означает, что зарезервированный номер окажется бесполезным и всю процедуру придётся проходить заново в правильном органе.</p>
-      <p class="lp2-note">Если контракт уже подписан и реквизиты в нём есть, резервирование не нужно — переходите сразу к <a href="/uslugi/otkrytie-scheta/">открытию казначейского счёта</a>.</p>
+      <p class="lp2-note">Если контракт уже подписан и реквизиты в нём есть, резервирование не нужно — переходите сразу к <a href="/uslugi/otkrytie-scheta/">открытию счёта</a>.</p>
     </div>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="goz-psb">
+<section class="v2-section v2-screen" id="tarif">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Стоимость</div>
+      <h2 class="v2-section-title">25 000 ₽ — <em>фиксированная цена, зачёт в открытие</em></h2>
+      <p class="v2-section-lede">Цена записывается в договоре. После победы открываете счёт через нас — стоимость резерва идёт в зачёт открытия.</p>
+    </div>
+    <div class="v2-tariffs-grid lp-3col"><article class="v2-tariff is-featured">
+        <div class="v2-tariff-no">01</div>
+        <div class="v2-tariff-stage">До тендера</div>
+        <h3>Резервирование счёта</h3>
+        <p class="v2-tariff-desc">Анализ закупки, правильный территориальный орган, заявление 0531368, подтверждение для заказчика, контроль срока резерва.</p>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">25 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 1 рабочий день · зачёт в открытие</div><a href="#zayavka" class="v2-tariff-link">Зарезервировать <span aria-hidden="true">→</span></a></div>
+      </article><article class="v2-tariff">
+        <div class="v2-tariff-no">02</div>
+        <div class="v2-tariff-stage">После победы</div>
+        <h3>Открытие счёта</h3>
+        <p class="v2-tariff-desc">Карточка контракта, доверенность, Сводный реестр, открытие под зарезервированный номер, настройка «Электронного бюджета».</p>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">35 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+      </article><article class="v2-tariff">
+        <div class="v2-tariff-no">03</div>
+        <div class="v2-tariff-stage">После открытия</div>
+        <h3>Сопровождение контракта</h3>
+        <p class="v2-tariff-desc">Сведения, платежи, санкционирование, соисполнители, закрытие счёта — до закрытия контракта.</p>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">65 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Постоплата · 105 000 ₽/мес с авансом</div><a href="/uslugi/kaznacheyskoe-soprovozhdenie/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+      </article></div>
+    <p class="v2-tariffs-footnote">Все цены — на странице <a href="/baza-znaniy/stoimost-kaznacheyskogo-soprovozhdeniya/">«Стоимость казначейского сопровождения»</a>.</p>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="kontur">
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Разграничение</div>
-      <h2 class="v2-section-title">Если у вас гособоронзаказ — <em>это другой контур</em></h2>
-      <p class="v2-section-lede">Мы резервируем и открываем лицевой счёт в территориальном органе Казначейства. Отдельный счёт по гособоронзаказу открывается в уполномоченном банке — это другая процедура и другой исполнитель.</p>
+      <h2 class="v2-section-title">Казначейский или банковский контур: <em>где резервируется счёт</em></h2>
+      <p class="v2-section-lede">Мы резервируем лицевой счёт 71 в территориальном органе Казначейства. Отдельный счёт по гособоронзаказу открывается в уполномоченном банке — это другая процедура; какой режим у вас, определяют условия контракта.</p>
     </div>
     <div class="lp2-block">
-      <div class="lp2-answer"><p><strong>Коротко:</strong> если по вашему контракту применяется банковское сопровождение гособоронзаказа, счёт резервируется в уполномоченном банке, и делает это сама организация через банк. Наша услуга — казначейский контур: лицевой счёт с кодом 71 в территориальном органе Федерального казначейства.</p></div>
-      <p>Какой режим применяется, определяют условия контракта, а не выбор исполнителя. По одному гособоронзаказному контракту расчёты могут идти через отдельный счёт в уполномоченном банке, по другому — через лицевой счёт в казначействе. Если в вашем контракте прописано казначейское сопровождение, вы по адресу: резервируем номер, открываем счёт и ведём расчёты. Если банковское — резервирование делается в банке, и мы этим не занимаемся.</p>
       <table class="lp2-table">
         <caption>Два контура: где резервируется счёт</caption>
         <thead><tr><th>Параметр</th><th>Казначейский контур (наша услуга)</th><th>Банковский контур</th></tr></thead>
@@ -382,156 +324,35 @@
           <tr><td>Кто контролирует платежи</td><td>Казначейство при санкционировании</td><td>Уполномоченный банк</td></tr>
         </tbody>
       </table>
-      <p class="lp2-note">Разбор банковского контура — в справочном материале <a href="/baza-znaniy/kak-zarezervirovat-schet-po-goz/">«Как зарезервировать счёт по гособоронзаказу»</a>. Не уверены, какой режим у вашего контракта, — пришлите его, посмотрим и скажем прямо.</p>
+      <p class="lp2-note">Не уверены, какой режим у контракта, — пришлите его, скажем прямо. Про резерв номера, срок и формы — в статье <a href="/baza-znaniy/rezervirovanie-kaznacheyskogo-scheta/">резервирование казначейского счёта</a>.</p>
     </div>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="srok-rezerva">
+<section class="v2-section v2-screen" id="scenarii">
   <div class="v2-container">
     <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Срок</div>
-      <h2 class="v2-section-title">Сколько живёт <em>зарезервированный номер</em></h2>
-      <p class="v2-section-lede">Резерв не бессрочный. Если документы на открытие не поданы, номер аннулируется, и всю процедуру придётся повторять.</p>
+      <div class="v2-section-eyebrow">Когда что-то пошло не так</div>
+      <h2 class="v2-section-title">Три типовых сбоя — <em>и что мы делаем в каждом</em></h2>
+    </div>
+    <div class="lp2-scen">
+      <article class="reveal"><h3>Закупка сдвинулась или объявлена заново</h3><p><b>Что делаем:</b> резерв держится шесть месяцев — следим за датой; при новой подаче сверяем данные организации со Сводным реестром, чтобы открытие прошло без возврата.</p></article>
+      <article class="reveal"><h3>Прошло больше полугода</h3><p><b>Что делаем:</b> номер аннулирован — резервируем заново, а реквизиты в подписанных документах меняем дополнительным соглашением. Чтобы до этого не дошло, предупреждаем за месяц.</p></article>
+      <article class="reveal"><h3>Заказчик просит «номер с идентификатором» до контракта</h3><p><b>Что делаем:</b> объясняем заказчику, что до документа-основания идентификатора нет: передаём зарезервированный номер, идентификатор добавится при открытии.</p></article>
+      <article class="reveal"><h3>Резерв сделан не в том органе</h3><p><b>Что делаем:</b> определяем орган по контракту и заказчику и резервируем заново там, где счёт будет обслуживаться.</p></article>
+    </div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="keys">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Из практики</div>
+      <h2 class="v2-section-title">Как это выглядит <em>на реальном тендере</em></h2>
     </div>
     <div class="lp2-block">
-      <p>По правилам работы территориальных органов Казначейства зарезервированный номер лицевого счёта аннулируется, если в течение шести месяцев с даты резервирования участник не представил документы на открытие счёта. Для тендерной практики это обычно с запасом: между резервированием и подписанием контракта проходят недели, а не месяцы. Проблема возникает в другом сценарии — когда закупка сдвигается, отменяется и объявляется заново.</p>
-      <ul class="lp2-list">
-        <li><strong>Тендер сдвинулся на месяц-два.</strong> Резерв держится, ничего делать не нужно — просто следим за датой.</li>
-        <li><strong>Закупка отменена и объявлена заново.</strong> Номер обычно ещё жив, но данные организации к моменту новой подачи могли устареть — сверяем со сводным реестром.</li>
-        <li><strong>Прошло больше полугода.</strong> Номер аннулирован, резервирование повторяется заново, а в уже подписанных документах реквизиты придётся менять дополнительным соглашением.</li>
-      </ul>
-      <p>Мы ведём срок резерва за клиента и предупреждаем заранее, а не постфактум. Это часть услуги, а не отдельная платная опция.</p>
-    </div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="paket">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Несколько контрактов</div>
-      <h2 class="v2-section-title">Резервирование <em>под несколько контрактов сразу</em></h2>
-      <p class="v2-section-lede">Компании, которые регулярно участвуют в закупках, резервируют номера пакетом. Это отдельный режим работы, а не повторение процедуры по кругу.</p>
-    </div>
-    <div class="lp2-block">
-      <p>Под каждый документ-основание открывается свой лицевой счёт: один контракт — один счёт, смешивать средства разных контрактов на одном счёте запрещено. Когда компания ведёт пять-шесть закупок одновременно, резервирование по одному заявлению на каждую превращается в отдельную работу с постоянным риском пропустить срок по одной из них.</p>
-      <p>Порядок открытия лицевых счетов участникам казначейского сопровождения, утверждённый приказом Казначейства России от 22.12.2021 № 44н, предусматривает для таких случаев подачу перечня участников казначейского сопровождения для резервирования лицевых счетов — форма по КФД 0531369. Практический смысл: номера резервируются одним пакетом, а не пятью отдельными обращениями.</p>
-      <ul class="lp2-list">
-        <li><strong>Ведём реестр резервов.</strong> По каждому номеру — дата резервирования, крайний срок подачи документов на открытие и статус закупки.</li>
-        <li><strong>Следим за шестимесячным сроком.</strong> Предупреждаем заранее, если резерв подходит к аннулированию, а контракт ещё не подписан.</li>
-        <li><strong>Открываем счета по мере побед.</strong> Комплект документов готовится заранее и уходит в казначейство в день появления документа-основания.</li>
-      </ul>
-      <p>Для компаний с постоянным потоком закупок это чаще всего дешевле разовых обращений и снимает главный риск — обнаружить в день подписания контракта, что зарезервированный полгода назад номер уже аннулирован.</p>
-      <p class="lp2-note">Если нужен не только счёт, а ведение расчётов по контракту, посмотрите <a href="/uslugi/autsorsing-kaznacheyskogo-soprovozhdeniya/">аутсорсинг казначейского сопровождения</a>.</p>
-    </div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="rezerv-ili-otkrytie">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Выбор</div>
-      <h2 class="v2-section-title">Резервировать или <em>сразу открывать</em></h2>
-      <p class="v2-section-lede">Резервирование нужно не всем. Решение зависит от того, на каком этапе контракта вы находитесь.</p>
-    </div>
-    <div class="lp2-block">
-      <table class="lp2-table">
-        <caption>Когда резервирование оправданно, а когда лишнее</caption>
-        <thead><tr><th>Ситуация</th><th>Что делать</th></tr></thead>
-        <tbody>
-          <tr><td>Готовите заявку, реквизиты счёта требует заказчик</td><td>Резервировать: номер нужен до подписания</td></tr>
-          <tr><td>Победили, контракт на подписании</td><td>Резервировать, если реквизиты входят в текст контракта</td></tr>
-          <tr><td>Контракт подписан, реквизиты уже указаны</td><td>Открывать сразу, резерв не нужен</td></tr>
-          <tr><td>Контракт подписан без реквизитов счёта</td><td>Открывать, затем передать реквизиты заказчику письмом</td></tr>
-          <tr><td>Работаете по нескольким контрактам сразу</td><td>Резервировать номера пакетом — по перечню участников</td></tr>
-        </tbody>
-      </table>
-      <p>Отдельно про сроки в тендере. Резервирование само по себе не ускоряет открытие счёта — оно снимает риск того, что вы не успеете подать корректные реквизиты к дате подписания. Экономия времени возникает потом: подготовленный заранее комплект уходит в казначейство в день появления документа-основания.</p>
-      <p class="lp2-note">Если счёт нужен под конкретный режим расчётов, посмотрите профильные страницы: <a href="/uslugi/soprovozhdenie-avans/">контракт с авансом</a> и <a href="/uslugi/soprovozhdenie-postoplata/">контракт с постоплатой</a>.</p>
-    </div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="riski">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Цена ошибки</div>
-      <h2 class="v2-section-title">Что идёт не так <em>без резерва</em></h2>
-      <p class="v2-section-lede">Промедление до подписания контракта оборачивается потерей тендера или сорванным сроком.</p>
-    </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Заказчик снимает с тендера</h3><p class="v2-process-desc">Нет подтверждения готовности счёта — заявку могут отклонить как несоответствующую требованиям.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Очередь съедает срок</h3><p class="v2-process-desc">После победы счёт открывается не мгновенно — очередь в УФК может растянуть процесс на недели.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Спешка и ошибки</h3><p class="v2-process-desc">Резерв в последний момент без опыта — риск замечаний и повторной подачи, пока срок горит.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Несогласованные реквизиты</h3><p class="v2-process-desc">Неверный тип счёта при спешке — заказчик вернёт документ, позиция в тендере под угрозой.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Параллельные тендеры</h3><p class="v2-process-desc">Без системного резерва легко перепутать пакеты по разным закупкам и потерять одну из них.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Потерянное время</h3><p class="v2-process-desc">Самостоятельное освоение процедуры — часы вместо работы над самим тендером.</p></article></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="compare">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Сравнение</div>
-      <h2 class="v2-section-title">Самостоятельно, штатный спец или <em>с нами</em></h2>
-      <p class="v2-section-lede">Шесть критериев, по которым клиенты выбирают, как резервировать счёт.</p>
-    </div>
-    <div class="v2-compare" role="table">
-      <div class="v2-compare-head" role="row">
-        <div role="columnheader" class="v2-compare-head-cell">Параметр</div>
-        <div role="columnheader" class="v2-compare-head-cell">Самостоятельно</div>
-        <div role="columnheader" class="v2-compare-head-cell">Штатный спец</div>
-        <div role="columnheader" class="v2-compare-head-cell is-us">С КазнаЭксперт</div>
-      </div>
-      <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Срок резерва</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Несколько дней с разбором</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Зависит от загрузки</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>1 рабочий день</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Подтверждение для заказчика</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Готовите сами</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">По компетенциям сотрудника</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>В комплекте</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Риск отклонения заявки</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Высокий без опыта</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Средний</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Минимальный</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Стоимость</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Ваше время + риск</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">120–180 тыс ₽/мес</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>25 000 ₽</strong> разово</div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Зачёт в открытие счёта</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Нет</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Нет</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Засчитываем</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Параллельные тендеры</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Путаница пакетов</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Ограничено ресурсом</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Ведём все сразу</strong></div></div>
-    </div>
-    <div class="v2-compare-cta"><a href="#zayavka">Обсудить ваш контракт <span aria-hidden="true">→</span></a></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="tarif">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Стоимость</div>
-      <h2 class="v2-section-title">Резервирование — <em>фиксированная цена</em></h2>
-      <p class="v2-section-lede">Объём работ и стоимость прописаны в договоре. Без «от» и скрытых доплат.</p>
-    </div>
-    <div class="v2-tariffs-grid lp-3col"><article class="v2-tariff is-featured">
-        <div class="v2-tariff-no">01</div>
-        <div class="v2-tariff-stage">До тендера</div>
-        <h3>Резерв счёта к дате тендера</h3>
-        <p class="v2-tariff-desc">Анализ тендера, подготовка заявки, подача в УФК, контроль статуса и подтверждение резервирования для заказчика.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">25 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 1 рабочий день · зачёт в открытие</div><a href="#zayavka" class="v2-tariff-link">Зарезервировать <span aria-hidden="true">→</span></a></div>
-      </article><article class="v2-tariff">
-        <div class="v2-tariff-no">02</div>
-        <div class="v2-tariff-stage">Победа в тендере</div>
-        <h3>Открытие счёта за два дня</h3>
-        <p class="v2-tariff-desc">Следующий шаг после победы: полный пакет документов и открытие счёта в УФК с первой подачи.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">35 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
-      </article><article class="v2-tariff">
-        <div class="v2-tariff-no">03</div>
-        <div class="v2-tariff-stage">После открытия</div>
-        <h3>Сопровождение контракта</h3>
-        <p class="v2-tariff-desc">Ведём контракт после открытия счёта: платежи, сведения, отчётность — до закрытия.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">65 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">По этапу контракта</div><a href="/uslugi/soprovozhdenie-postoplata/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
-      </article></div>
-    <p class="v2-tariffs-footnote">Все цены фиксируются в договоре.</p>
-  </div>
-</section>
-
-<section class="v2-section" id="vmeste">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Следующий шаг</div>
-      <h2 class="v2-section-title">Что обычно берут <em>вместе</em></h2>
-    </div>
-    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:14px;box-sizing:border-box">
-      <a href="/uslugi/otkrytie-scheta/" style="display:block;padding:20px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e8e2d6);border-radius:14px;text-decoration:none;color:inherit;box-sizing:border-box">
-        <span style="display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#9a7b4f;font-weight:600;margin-bottom:8px">Следующий шаг</span>
-        <b style="display:block;font-size:16px;line-height:1.35;margin-bottom:6px">Открытие лицевого счёта</b>
-        <span style="display:block;font-size:14px;color:var(--mute,#6e6b66);line-height:1.55">Контракт подписан — превращаем резерв в работающий счёт: документы, подача, контроль статуса до открытия.</span>
-        <span style="display:inline-block;margin-top:10px;font-size:14px;color:#9a7b4f;font-weight:600">Подробнее &rarr;</span>
-      </a>
-      <a href="/uslugi/kaznacheyskoe-soprovozhdenie/" style="display:block;padding:20px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e8e2d6);border-radius:14px;text-decoration:none;color:inherit;box-sizing:border-box">
-        <span style="display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#9a7b4f;font-weight:600;margin-bottom:8px">После открытия</span>
-        <b style="display:block;font-size:16px;line-height:1.35;margin-bottom:6px">Казначейское сопровождение контракта</b>
-        <span style="display:block;font-size:14px;color:var(--mute,#6e6b66);line-height:1.55">Полное ведение контракта: сведения об операциях, платежи, санкционирование и отчётность.</span>
-        <span style="display:inline-block;margin-top:10px;font-size:14px;color:#9a7b4f;font-weight:600">Подробнее &rarr;</span>
-      </a>
+      <p>Поставщик участвовал в закупке, где заказчик требовал указать реквизиты лицевого счёта в заявке; до подачи оставалось два дня, счёта не было. В день обращения определили территориальный орган по заказчику — не тот, что по месту регистрации компании, — подали заявление 0531368 и на следующий рабочий день передали номер и письмо-подтверждение. Заявка ушла с реквизитами; после победы счёт открыли под зарезервированный номер за два дня, 25 000 ₽ зачли в открытие. Резерв в «своём» органе, который компания успела сделать сама, оказался бесполезен — именно этой ошибки мы избегаем первым шагом.</p>
+      <p class="lp2-note">Нормативная основа — <a href="/baza-znaniy/normativnaya-baza/prikaz-44n-licevye-scheta/">приказ Казначейства № 44н</a>; какой орган ведёт счёт — в статье <a href="/baza-znaniy/tofk/">территориальные органы Федерального казначейства</a>. Другие кейсы — на странице <a href="/keysy/">«Кейсы»</a>.</p>
     </div>
   </div>
 </section>
@@ -542,18 +363,19 @@
       <div class="v2-section-eyebrow">Вопросы</div>
       <h2 class="v2-section-title">Отвечаем <em>прямо</em></h2>
     </div>
-    <div class="faq">      <details><summary>На каком основании резервируют номер лицевого счёта?</summary><p>Резервирование предусмотрено Порядком открытия лицевых счетов участникам казначейского сопровождения, утверждённым приказом Казначейства России от 22.12.2021 № 44н. Подаётся заявление на резервирование лицевого счёта по форме КФД 0531368, для нескольких участников — перечень по форме КФД 0531369.</p></details>
-      <details><summary>Сколько действует зарезервированный номер счёта?</summary><p>Шесть месяцев с даты резервирования. Если за это время документы на открытие счёта не представлены, номер аннулируется и процедуру нужно повторять.</p></details>
-      <details><summary>Можно ли проводить платежи по зарезервированному номеру?</summary><p>Нет. Резерв — это только номер для указания в документах. Операции возможны после открытия счёта на основании контракта, договора или соглашения.</p></details>
-      <details><summary>Чем резервирование счёта по гособоронзаказу отличается от казначейского?</summary><p>Это два разных контура. При банковском сопровождении гособоронзаказа резервируется отдельный счёт в уполномоченном банке, и организация делает это сама через банк. Мы работаем с казначейским контуром — резервируем и открываем лицевой счёт с кодом 71 в территориальном органе Казначейства. Какой режим применяется, определяют условия контракта.</p></details>
-      <details><summary>Нужно ли резервировать счёт, если контракт уже подписан?</summary><p>Обычно нет — при наличии документа-основания счёт открывают сразу. Резервирование имеет смысл, когда реквизиты требуются до подписания.</p></details>
-<details open><summary>Чем резервирование отличается от открытия счёта?</summary><p>Резервирование — предварительная фиксация счёта до подписания контракта: позволяет указать реквизиты счёта в заявке и в тексте контракта. Открытие — следующий шаг после победы, когда счёт становится рабочим инструментом.</p></details><details><summary>Зачем платить за резерв, если можно сразу открыть счёт?</summary><p>Пока контракт не подписан, открыть счёт нельзя — казначейство не проведёт процедуру без договора. Резерв — юридически корректный способ подтвердить готовность. При открытии счёта через нас стоимость резерва засчитывается.</p></details><details><summary>Что если я не выиграю тендер?</summary><p>Резерв оказывается вне зависимости от итога. Если тендер не выигран — резервирование аннулируется. В следующей закупке обслужим быстрее, потому что уже знаем вашу ситуацию.</p></details><details><summary>За сколько зарезервируете счёт?</summary><p>За один рабочий день с момента получения данных по тендеру. Срок фиксируем в договоре.</p></details><details><summary>Засчитывается ли резерв в стоимость открытия?</summary><p>Да. Если после победы открываете счёт через нас, стоимость резервирования идёт в зачёт оплаты открытия.</p></details><details><summary>Работаете по всей России?</summary><p>Да, дистанционно по всем регионам РФ. Документы — в электронном виде, личное присутствие не требуется.</p></details></div>
+    <div class="faq"><details open><summary>Сколько стоит резервирование казначейского счёта?</summary><p>25 000 ₽ — фиксированная цена за один рабочий день. Если после победы открываете счёт через нас, стоимость резерва засчитывается в открытие (35 000 ₽).</p></details>
+      <details><summary>На каком основании резервируют номер лицевого счёта?</summary><p>Порядок открытия лицевых счетов участникам казначейского сопровождения, утверждённый приказом Казначейства России от 22.12.2021 № 44н: заявление на резервирование по форме 0531368, для нескольких участников — перечень по форме 0531369.</p></details>
+      <details><summary>Сколько действует зарезервированный номер?</summary><p>Шесть месяцев с даты резервирования. Если за это время документы на открытие не представлены, номер аннулируется. Ведём срок за вас и предупреждаем заранее.</p></details>
+      <details><summary>Можно ли проводить платежи по зарезервированному номеру?</summary><p>Нет. Резерв — только номер для указания в документах. Операции возможны после открытия счёта на основании контракта, договора или соглашения.</p></details>
+      <details><summary>Что если я не выиграю тендер?</summary><p>Резерв аннулируется, платить за открытие не нужно. В следующей закупке обслужим быстрее — данные организации уже проверены.</p></details>
+      <details><summary>Чем резервирование счёта по гособоронзаказу отличается от казначейского?</summary><p>Это два контура. При банковском сопровождении гособоронзаказа отдельный счёт резервируется в уполномоченном банке самой организацией. Мы работаем с казначейским контуром — лицевой счёт 71 в территориальном органе Казначейства. Режим определяют условия контракта.</p></details>
+      <details><summary>Нужно ли резервировать, если контракт уже подписан?</summary><p>Нет — при наличии документа-основания счёт открывают сразу: <a href="/uslugi/otkrytie-scheta/">открытие счёта за два рабочих дня</a>.</p></details></div>
   </div>
 </section>
 
 <section class="v2-section" aria-label="Актуальность страницы">
   <div class="v2-container">
-    <p class="v2-freshness">Страница актуальна на <time datetime="2026-08-31">31 августа 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
+    <p class="v2-freshness">Страница актуальна на <time datetime="2026-09-09">9 сентября 2026</time> · проверяем цены, сроки и нормативную базу при каждом обновлении. Автор — <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт КазнаЭксперт.</p>
   </div>
 </section>
 
@@ -561,24 +383,26 @@
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Заявка</div>
-      <h2 class="v2-section-title">Зарезервируем счёт за вас</h2>
-      <p class="v2-section-lede">Оставьте контакты — эксперт перезвонит в течение часа в рабочее время (9:00–21:00 МСК), разберёт ваш контракт и подтвердит срок и договор.</p>
+      <h2 class="v2-section-title">Зарезервируем счёт <em>за один рабочий день</em></h2>
+      <p class="v2-section-lede">Передайте номер закупки или требование заказчика — перезвоним в течение часа в рабочее время (9:00–21:00 МСК). 25 000 ₽ фиксируется в договоре и засчитывается в открытие.</p>
     </div>
     <div style="max-width:520px;margin:0 auto">
       <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="rezervirovanie-scheta-cta">
         <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
         <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
+        <textarea class="fld" name="message" placeholder="Комментарий: сумма контракта, аванс, ГОЗ или 44-ФЗ (необязательно)" rows="2" maxlength="3000"></textarea>
         <input class="hp" name="kz_note" tabindex="-1" autocomplete="off" aria-hidden="true">
         <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-        <button class="submit" type="submit">Оставить заявку →</button>
+        <button class="submit" type="submit">Отправить заявку →</button>
         <div class="formmsg" id="formMsgBottom" hidden></div>
-        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA по запросу</span></div>
+        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA до документов</span></div>
         <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
           <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
           <h3>Заявка принята</h3>
-          <p>Эксперт перезвонит <b>в течение часа</b> (9:00–21:00 МСК).</p>
+          <p>Эксперт свяжется <b>в течение часа</b> в рабочее время (пн–пт, 9:00–19:00 МСК).</p>
         </div>
       </form>
+      <p style="text-align:center;margin:18px 0 0;font-size:15px;color:#5F5A52">Телефон <a href="tel:+79818331010" style="color:#8B6F47">+7 981 833-10-10</a> · <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener" style="color:#8B6F47">Telegram</a> · <a href="https://wa.me/+79818331010" target="_blank" rel="noopener" style="color:#8B6F47">WhatsApp</a></p>
     </div>
   </div>
 </section>
@@ -609,7 +433,7 @@
     if(!/\d[\s\d().-]*\d{3}/.test(phone)||phone.replace(/\D/g,'').length<10){show('Проверьте телефон');return;}
     if(!f.consent.checked){show('Подтвердите согласие');return;}
     var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';
-    fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})})
+    fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,message:(f.message&&f.message.value||'').trim(),consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})})
       .then(function(r){ if(!r.ok) throw 0; return r; })
       .then(function(){
         [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; });
@@ -775,7 +599,7 @@
     if(form.name.value.trim().length<2||form.phone.value.replace(/\D/g,'').length<10){show('Проверьте имя и телефон');return;}
     var DEMO=false;
     var btn=form.querySelector('.submit'),orig=btn.textContent;btn.disabled=true;btn.textContent='Отправляем…';
-    var data={phone:form.phone.value.trim(),source:SRC,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+SRC+')',consent_at:new Date().toISOString(),page_url:location.href,name:form.name.value.trim()};
+    var data={phone:form.phone.value.trim(),source:SRC,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+SRC+')',consent_at:new Date().toISOString(),page_url:location.href,name:form.name.value.trim(),message:(form.message&&form.message.value||'').trim()};
     fetch(form.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)})
       .then(function(r){if(!r.ok)throw 0;return r;}).then(succeed).catch(function(){if(DEMO){succeed();}else{fail();}});
     function succeed(){[].forEach.call(form.children,function(el){if(el!==ok)el.style.display='none';});ok.classList.add('on');try{window.ym&&ym(94305898,'reachGoal','lead',{source:SRC});}catch(e){}}
