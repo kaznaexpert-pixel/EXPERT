@@ -396,3 +396,10 @@ dfn{font-style:normal;border-bottom:1px dashed var(--sepia);cursor:help}
 }
 
 .v2 .v2-trust-num.v2-trust-price{font-size:22px;white-space:nowrap}
+/* kz-fix3 (09.09.2026): на телефоне цена в первом экране — выше блока рисков */
+@media (max-width:768px){
+  .v2 .v2-hero-main{display:flex;flex-direction:column}
+  .v2 .v2-hero-main>.v2-hero-eyebrow-row{order:1}.v2 .v2-hero-main>h1{order:2}.v2 .v2-hero-main>.v2-reviews-link{order:3}.v2 .v2-hero-main>.v2-hero-lede{order:4}
+  .v2 .v2-hero-main>.lp2-price{order:5;margin-top:14px;padding-top:14px}.v2 .v2-hero-main>.v2-hero-call{order:6}.v2 .v2-hero-main>.lp2-risk{order:7}.v2 .v2-hero-main>.v2-hero-trust{order:7}.v2 .v2-hero-main>.v2-hero-expert{order:8}
+  .v2 .lp2-risk{margin-top:18px}
+}
