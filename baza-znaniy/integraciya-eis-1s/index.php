@@ -405,7 +405,7 @@
       <p class="railform__sub">Поможем выстроить документооборот по контракту с казначейским сопровождением: актирование, идентификатор госконтракта в документах, распоряжения и раздельный учёт — без возвратов.</p>
       <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
       <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
-      <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <input class="hp" name="kz_note" tabindex="-1" autocomplete="off" aria-hidden="true">
       <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
       <button class="submit" type="submit">Получить расчёт →</button>
       <div class="formmsg" id="formMsg" hidden></div>
@@ -495,7 +495,7 @@
       <h3>Получить календарь на почту</h3>
       <p>Пришлём PDF после подтверждения подписки. Без спама, отписка в один клик.</p>
       <input class="kz-sub__fld" type="email" name="email" placeholder="Ваш e-mail" required autocomplete="email" inputmode="email">
-      <input class="kz-sub__hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <input class="kz-sub__hp" name="kz_note" tabindex="-1" autocomplete="off" aria-hidden="true">
       <label class="kz-sub__policy"><input type="checkbox" name="consent" required><span>Даю согласие на обработку персональных данных и на получение информационных и рекламных писем на указанный e-mail в соответствии с <a href="/privacy/" target="_blank" rel="noopener">политикой</a>. Отписаться можно в один клик в любом письме.</span></label>
       <button class="kz-sub__btn" type="submit">Получить календарь →</button>
       <div class="kz-sub__msg" id="kzSubMsg" hidden></div>
@@ -513,7 +513,7 @@
     var src=(form.closest('.kz-sub')&&form.closest('.kz-sub').dataset.source)||'article';
     form.addEventListener('submit',function(e){
       e.preventDefault();
-      if(form.company_extra.value) return;
+      if(form.kz_note.value) return;
       var email=form.email.value.trim();
       if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){ show('Проверьте адрес e-mail'); return; }
       if(!form.consent.checked){ show('Подтвердите согласие'); return; }
@@ -681,7 +681,7 @@
   var msg=document.getElementById('formMsg'),ok=document.getElementById('leadSuccess');
   form.addEventListener('submit',function(e){
     e.preventDefault();
-    if(form.company_extra.value)return;
+    if(form.kz_note.value)return;
     if(!form.consent.checked){show('Подтвердите согласие на обработку данных');return;}
     if(form.name.value.trim().length<2||form.phone.value.replace(/\D/g,'').length<10){show('Проверьте имя и телефон');return;}
     var DEMO=false;
@@ -779,6 +779,7 @@
 })();
 </script>
 
+<script defer src="/js/kz-attr.js?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/js/kz-attr.js') ?>"></script>
 <script defer src="/js/cookie-consent.js?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/js/cookie-consent.js') ?>"></script>
 <script>
 /* v2-header: бургер + sticky-shrink (без main.js, чтобы не дублировать цели Метрики) */

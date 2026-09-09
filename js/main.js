@@ -1,3 +1,4 @@
+window.__kzInlineGoals = 1; /* kz-attr.js: цели кликов уже здесь */
 // ── Премиум-тост вместо системного alert() ──────────────────
 function kzToast(title, text, type) {
   var t = document.createElement('div');

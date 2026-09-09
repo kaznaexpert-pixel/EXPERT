@@ -335,7 +335,7 @@
       <p class="railform__sub">Подскажем правильный код направления расходования по вашему контракту и проведём платёж без возвратов.</p>
       <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
       <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
-      <input class="hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <input class="hp" name="kz_note" tabindex="-1" autocomplete="off" aria-hidden="true">
       <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
       <button class="submit" type="submit">Получить разбор →</button>
       <div class="formmsg" id="formMsg" hidden></div>
@@ -612,7 +612,7 @@
   var msg=document.getElementById('formMsg'),ok=document.getElementById('leadSuccess');
   form.addEventListener('submit',function(e){
     e.preventDefault();
-    if(form.company_extra.value)return;
+    if(form.kz_note.value)return;
     if(!form.consent.checked){show('Подтвердите согласие на обработку данных');return;}
     if(form.name.value.trim().length<2||form.phone.value.replace(/\D/g,'').length<10){show('Проверьте имя и телефон');return;}
     var DEMO=false;
@@ -710,6 +710,7 @@
 })();
 </script>
 
+<script defer src="/js/kz-attr.js?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/js/kz-attr.js') ?>"></script>
 <script defer src="/js/cookie-consent.js?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/js/cookie-consent.js') ?>"></script>
 <script>
 /* v2-header: бургер + sticky-shrink (без main.js, чтобы не дублировать цели Метрики) */

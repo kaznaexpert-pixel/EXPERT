@@ -79,6 +79,7 @@ h1{font-family:var(--font-display);font-weight:500;font-size:clamp(28px,4.5vw,40
   </div>
 </main>
 <footer class="ft">КазнаЭксперт · ИП Михайлов Ярослав Алексеевич · ИНН 781428314589</footer>
+<script defer src="/js/kz-attr.js?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/js/kz-attr.js') ?>"></script>
 <script defer src="/js/cookie-consent.js?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/js/cookie-consent.js') ?>"></script>
 </body>
 </html>

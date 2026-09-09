@@ -117,7 +117,7 @@
         '<input class="kg-lead__fld" name="name" placeholder="Имя" autocomplete="name" maxlength="80">' +
         '<input class="kg-lead__fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" autocomplete="tel" inputmode="tel">' +
         '<button class="kg-lead__btn" type="submit">' + cfg.cta + '</button>' +
-        '<input class="kg-lead__hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">' +
+        '<input class="kg-lead__hp" name="kz_note" tabindex="-1" autocomplete="off" aria-hidden="true">' +
         '<label class="kg-lead__policy"><input type="checkbox" name="consent"><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>' +
         '<p class="kg-lead__msg" hidden></p>' +
       '</form>' +
@@ -126,7 +126,7 @@
     var form = box.querySelector('form'), msg = box.querySelector('.kg-lead__msg');
     /* поля берём через elements: form.name — встроенное свойство формы, на него полагаться нельзя */
     var F = { name: form.elements.namedItem('name'), phone: form.elements.namedItem('phone'),
-              consent: form.elements.namedItem('consent'), hp: form.elements.namedItem('company_extra') };
+              consent: form.elements.namedItem('consent'), hp: form.elements.namedItem('kz_note') };
     var SRC = 'article-mid/' + slug;
     var seen = {};
     function once(name) { if (seen[name]) return; seen[name] = 1; goal(name, { source: SRC }); }

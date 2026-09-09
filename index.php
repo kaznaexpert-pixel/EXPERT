@@ -1613,7 +1613,7 @@
       <h3>Получить календарь на почту</h3>
       <p>Пришлём PDF после подтверждения подписки. Без спама, отписка в один клик.</p>
       <input class="kz-sub__fld" type="email" name="email" placeholder="Ваш e-mail" required autocomplete="email" inputmode="email">
-      <input class="kz-sub__hp" name="company_extra" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <input class="kz-sub__hp" name="kz_note" tabindex="-1" autocomplete="off" aria-hidden="true">
       <label class="kz-sub__policy"><input type="checkbox" name="consent" required><span>Даю согласие на обработку персональных данных и на получение информационных и рекламных писем на указанный e-mail в соответствии с <a href="/privacy/" target="_blank" rel="noopener">политикой</a>. Отписаться можно в один клик в любом письме.</span></label>
       <button class="kz-sub__btn" type="submit">Получить календарь →</button>
       <div class="kz-sub__msg" id="kzSubMsg" hidden></div>
@@ -1632,7 +1632,7 @@
     var src=(form.closest('.kz-sub')&&form.closest('.kz-sub').dataset.source)||'article';
     form.addEventListener('submit',function(e){
       e.preventDefault();
-      if(form.company_extra.value) return; // honeypot
+      if(form.kz_note.value) return; // honeypot
       var email=form.email.value.trim();
       if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){ show('Проверьте адрес e-mail'); return; }
       if(!form.consent.checked){ show('Подтвердите согласие'); return; }
@@ -1748,6 +1748,7 @@
     </div>
 
     <script src="js/main.js?v=<?= @filemtime(__DIR__ . '/js/main.js') ?>"></script>
+    <script src="js/kz-attr.js?v=<?= @filemtime(__DIR__ . '/js/kz-attr.js') ?>"></script>
     <script src="js/cookie-consent.js?v=<?= @filemtime(__DIR__ . '/js/cookie-consent.js') ?>"></script>
     <script src="js/reveal.js?v=<?= @filemtime(__DIR__ . '/js/reveal.js') ?>"></script>
     <script>

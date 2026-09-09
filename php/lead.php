@@ -48,7 +48,7 @@ if (!is_array($input)) {
 
 // === HONEYPOT ===
 // hp — формы главной (main.js); company_extra — railform статей базы знаний (127 форм)
-if (!empty($input['hp']) || !empty($input['company_extra'])) {
+if (!empty($input['hp']) || !empty($input['company_extra']) || !empty($input['kz_note'])) {
     echo json_encode(['success' => true]);
     exit;
 }
@@ -93,6 +93,16 @@ foreach (['source', 'medium', 'campaign', 'term', 'content'] as $k) {
     $utm_safe[$k] = mb_substr(trim((string)($utm[$k] ?? '')), 0, 100);
 }
 $yclid = mb_substr(trim((string)($input['yclid'] ?? '')), 0, 100);
+$gclid = mb_substr(trim((string)($input['gclid'] ?? '')), 0, 100);
+$ym_uid = mb_substr(trim((string)($input['ym_uid'] ?? '')), 0, 64);
+$landing = mb_substr(trim((string)($input['landing'] ?? '')), 0, 200);
+$referrer_js = mb_substr(trim((string)($input['referrer'] ?? '')), 0, 200);
+// Слишком быстрая отправка (бот): ts_load/ts_send ставит kz-attr.js; людям на форму нужно больше 3 секунд
+$ts_load = (int)($input['ts_load'] ?? 0); $ts_send = (int)($input['ts_send'] ?? 0);
+if ($ts_load > 0 && $ts_send > 0 && ($ts_send - $ts_load) < 3000) {
+    echo json_encode(['success' => true]);
+    exit;
+}
 
 // === Rate-limit ===
 $rate_file = sys_get_temp_dir() . '/lead_rate_' . md5($ip);
@@ -125,6 +135,11 @@ try {
         'referrer' => $referer,
         'utm' => $utm_safe,
         'yclid' => $yclid,
+        'gclid' => $gclid,
+        'ym_uid' => $ym_uid,
+        'landing' => $landing,
+        'referrer_js' => $referrer_js,
+        'fill_ms' => ($ts_load && $ts_send) ? ($ts_send - $ts_load) : null,
         'consent_pd' => true,
         'consent_pd_text' => $consent_text,
         'consent_at' => $consent_at,
@@ -155,6 +170,10 @@ $body .= "Источник:  $source\n";
 $body .= "Страница:  $page_url\n";
 if ($utm_safe['source'] !== '') $body .= "UTM:       {$utm_safe['source']}/{$utm_safe['medium']}/{$utm_safe['campaign']}\n";
 if ($yclid !== '') $body .= "Yclid:     $yclid\n";
+if ($gclid !== '') $body .= "Gclid:     $gclid\n";
+if ($ym_uid !== '') $body .= "Metrika:   $ym_uid\n";
+if ($landing !== '') $body .= "Вход:      $landing\n";
+if ($referrer_js !== '') $body .= "Реферер:   $referrer_js\n";
 $body .= "Время:     $time_msk МСК\n";
 $body .= "IP:        $ip\n";
 $body .= "Referer:   $referer\n";

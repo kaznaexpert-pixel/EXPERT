@@ -413,7 +413,7 @@
   var msg=document.getElementById('formMsg'),ok=document.getElementById('leadSuccess');
   form.addEventListener('submit',function(e){
     e.preventDefault();
-    if(form.company_extra.value)return;
+    if(form.kz_note.value)return;
     if(!form.consent.checked){show('Подтвердите согласие на обработку данных');return;}
     if(form.name.value.trim().length<2||form.phone.value.replace(/\D/g,'').length<10){show('Проверьте имя и телефон');return;}
     var DEMO=false;
@@ -511,6 +511,7 @@
 })();
 </script>
 
+<script defer src="/js/kz-attr.js?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/js/kz-attr.js') ?>"></script>
 <script defer src="/js/cookie-consent.js?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/js/cookie-consent.js') ?>"></script>
 <script>
 /* v2-header: бургер + sticky-shrink (без main.js, чтобы не дублировать цели Метрики) */
