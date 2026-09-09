@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Казначейское сопровождение для ООО: когда нужно, что входит, цены</title>
-<meta name="description" content="Казначейское сопровождение для ООО: когда общество попадает под режим, открытие счёта, санкционирование, раздельный учёт и отчётность под ключ. Вся Россия.">
+<title>Казначейское сопровождение для ООО под ключ — от 2 дней, 65 000 ₽</title>
+<meta name="description" content="Казначейский контур ООО по контракту, субсидии или ГОЗ: счёт 71, «Электронный бюджет», сведения, санкционирование, учёт. 65 000 ₽ за контракт, 105 000 ₽/мес.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -24,19 +24,36 @@
 <!-- ╚════════════════════════════════════════════════════════════════════════════╝ -->
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
+
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": ["https://kaznaexpert.ru/img/og/uslugi__kaznacheyskoe-soprovozhdenie-dlya-ooo-16x9.jpg", "https://kaznaexpert.ru/img/og/uslugi__kaznacheyskoe-soprovozhdenie-dlya-ooo-4x3.webp", "https://kaznaexpert.ru/img/og/uslugi__kaznacheyskoe-soprovozhdenie-dlya-ooo-1x1.webp"], "datePublished": "2026-06-26", "dateModified": "2026-09-09", "name": "Казначейское сопровождение для ООО под ключ", "serviceType": "Казначейское сопровождение государственных контрактов и субсидий для ООО (44-ФЗ, 223-ФЗ, гособоронзаказ)", "description": "Казначейское сопровождение для ООО под ключ: анализ применимости, открытие казначейского счёта, настройка «Электронного бюджета», санкционирование платежей, раздельный учёт целевых средств, отчётность и закрытие счёта. Фиксированные цены, гарантия в договоре, вся Россия.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie-dlya-ooo/", "hasOfferCatalog": {"@type": "OfferCatalog", "name": "Тарифы казначейского сопровождения", "itemListElement": [{"@type": "Offer", "name": "Резерв казначейского счёта к дате тендера", "price": "25000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/rezervirovanie-scheta/"}, {"@type": "Offer", "name": "Открытие казначейского счёта под ключ", "price": "35000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/otkrytie-scheta/"}, {"@type": "Offer", "name": "Контракт с постоплатой под ключ", "price": "65000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-postoplata/"}, {"@type": "Offer", "name": "Контракт с авансом под ключ", "price": "105000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-avans/"}]}, "offers": {"@type": "AggregateOffer", "lowPrice": "25000", "highPrice": "105000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "priceValidUntil": "2026-12-31", "url": "https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie-dlya-ooo/", "description": "Резерв счёта 25 000 ₽, открытие счёта 35 000 ₽, сопровождение постоплаты 65 000 ₽, сопровождение контракта с авансом и ГОЗ 105 000 ₽/мес"}}
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": ["https://kaznaexpert.ru/img/og/uslugi__kaznacheyskoe-soprovozhdenie-dlya-ooo-16x9.jpg", "https://kaznaexpert.ru/img/og/uslugi__kaznacheyskoe-soprovozhdenie-dlya-ooo-4x3.webp", "https://kaznaexpert.ru/img/og/uslugi__kaznacheyskoe-soprovozhdenie-dlya-ooo-1x1.webp"], "datePublished": "2026-06-26", "dateModified": "2026-09-09", "name": "Казначейское сопровождение для ООО", "serviceType": "Казначейское сопровождение государственных контрактов, субсидий и гособоронзаказа для обществ с ограниченной ответственностью под ключ", "description": "Полный казначейский контур для ООО: определение основания сопровождения, открытие лицевого счёта 71, подпись и доверенность, «Электронный бюджет», сведения об операциях, санкционирование каждого платежа, раздельный учёт целевых средств, отчётность и закрытие счёта. Фиксированные цены по этапу контракта.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "65000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "description": "Сопровождение контракта ООО с постоплатой, разово; с авансом и по ГОЗ — 105 000 ₽ в месяц", "url": "https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie-dlya-ooo/", "priceValidUntil": "2026-12-31"}, "url": "https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie-dlya-ooo/"}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Казначейское сопровождение для ООО"}]}
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Услуги", "item": "https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie/"}, {"@type": "ListItem", "position": 3, "name": "Сопровождение для ООО", "item": "https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie-dlya-ooo/"}]}
 </script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Нужно ли ООО казначейское сопровождение?", "acceptedAnswer": {"@type": "Answer", "text": "Да, если расчёты общества по контракту или субсидии попадают под сопровождение. Это устанавливается законом о федеральном бюджете на текущий год и решениями Правительства: авансируемые госконтракты сверх порога, гособоронзаказ по 275-ФЗ, целевые субсидии и бюджетные инвестиции. Без открытого казначейского счёта такие деньги обществу не перечислят."}}, {"@type": "Question", "name": "Когда ООО попадает под казначейское сопровождение?", "acceptedAnswer": {"@type": "Answer", "text": "Когда общество — исполнитель или соисполнитель по контракту с авансом сверх установленного порога, получатель целевой субсидии, бюджетной инвестиции или гранта, либо участник гособоронзаказа. Конкретные случаи ежегодно закрепляет статья 5 закона о бюджете."}}, {"@type": "Question", "name": "Что входит в казначейское сопровождение для ООО?", "acceptedAnswer": {"@type": "Answer", "text": "Полный цикл: анализ применимости, открытие казначейского счёта, оформление электронной подписи и настройка «Электронного бюджета», подготовка распоряжений и сведений, санкционирование платежей, раздельный учёт целевых средств, отчётность и закрытие счёта с возвратом остатков."}}, {"@type": "Question", "name": "Сколько стоит казначейское сопровождение для ООО?", "acceptedAnswer": {"@type": "Answer", "text": "Цена фиксированная и зависит от этапа: резерв счёта — 25 000 ₽, открытие — 35 000 ₽, контракт с постоплатой под ключ — 65 000 ₽, контракт с авансом — 105 000 ₽/мес. Контракты по гособоронзаказу ведём по тарифу с авансом и ГОЗ — 105 000 ₽/мес. Цена фиксируется в договоре."}}, {"@type": "Question", "name": "Какие документы нужны от ООО?", "acceptedAnswer": {"@type": "Answer", "text": "Минимальный пакет: текст и реквизиты госконтракта, ИНН и ОГРН общества, СНИЛС руководителя для электронной подписи и контакт ответственного. Остальное — карточку контракта, машиночитаемую доверенность, включение в сводный реестр — готовим сами."}}, {"@type": "Question", "name": "Чем казначейский счёт ООО отличается от расчётного?", "acceptedAnswer": {"@type": "Answer", "text": "Расчётным счётом в банке общество распоряжается свободно. По казначейскому счёту (лицевой счёт с кодом 71 в Казначействе) каждый платёж проходит санкционирование: казначейство проверяет целевой характер расхода и документы. Подробнее — в разборе «казначейский счёт и расчётный счёт: в чём разница»."}}, {"@type": "Question", "name": "Работаете с ООО из регионов?", "acceptedAnswer": {"@type": "Answer", "text": "Да, со всеми регионами России удалённо. Весь документооборот ведётся электронно через «Электронный бюджет» — личное присутствие руководителя не требуется."}}, {"@type": "Question", "name": "С чего начать?", "acceptedAnswer": {"@type": "Answer", "text": "Оставьте заявку — эксперт перезвонит в течение часа в рабочее время (9:00–21:00 МСК), проверит, попадает ли контракт ООО под сопровождение, и подтвердит срок и договор. Анализ контракта — до подписания договора, по NDA."}}, {"@type": "Question", "name": "Можно ли выплатить дивиденды или вывести прибыль с казначейского счёта ООО?", "acceptedAnswer": {"@type": "Answer", "text": "Нет. Целевые средства на лицевом счёте нельзя распределять между участниками до исполнения обязательств по контракту. Прибыль перечисляется на расчётный счёт общества только после подтверждения исполнения; при расширенном режиме казначейство дополнительно проверяет экономическую обоснованность затрат."}}, {"@type": "Question", "name": "Можно ли платить зарплату и налоги ООО с казначейского счёта?", "acceptedAnswer": {"@type": "Answer", "text": "Да — в части, которая приходится на исполнение контракта, и после санкционирования. Зарплата, НДФЛ и страховые взносы, связанные с контрактом, оплачиваются с лицевого счёта; расходы, не относящиеся к контракту, провести нельзя."}}, {"@type": "Question", "name": "Чем казначейское сопровождение для ООО отличается от режима для ИП?", "acceptedAnswer": {"@type": "Answer", "text": "Правила санкционирования одинаковы, различаются пакет документов и распоряжение средствами: у ООО счёт открывается на юридическое лицо по уставу и решению участников, дивиденды — только после исполнения обязательств; у ИП — по документам предпринимателя. Для бюджетных и автономных учреждений действует отдельный режим."}}, {"@type": "Question", "name": "Кто в ООО подписывает распоряжения по казначейскому счёту?", "acceptedAnswer": {"@type": "Answer", "text": "Распоряжения от имени общества подписывает директор на основании устава и записи в ЕГРЮЛ усиленной квалифицированной электронной подписью. Другие сотрудники — по машиночитаемой доверенности; состав подписантов фиксируется в карточке образцов подписей."}}, {"@type": "Question", "name": "Какая ошибка бухгалтерии ООО чаще всего приводит к отказу?", "acceptedAnswer": {"@type": "Answer", "text": "Чаще всего — распоряжение без идентификатора государственного контракта (ИГК) и платёж по направлению, которого нет в утверждённых сведениях об операциях. Оба устраняются на этапе подготовки платежа."}}]}</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Нужно ли ООО казначейское сопровождение?", "acceptedAnswer": {"@type": "Answer", "text": "Да, если расчёты общества попадают под основания статьи 5 закона о бюджете: аванс по контракту от 100 млн ₽, контракт с единственным поставщиком или по ГОЗ свыше 3 млн ₽, субсидии и бюджетные инвестиции независимо от суммы, договоры соисполнителей свыше 3 млн ₽. Без открытого счёта 71 такие деньги ООО не перечислят."}}, {"@type": "Question", "name": "Сколько стоит казначейское сопровождение для ООО?", "acceptedAnswer": {"@type": "Answer", "text": "Фиксированно по этапу: резерв счёта — 25 000 ₽, открытие — 35 000 ₽, контракт с постоплатой — 65 000 ₽ до закрытия, контракт с авансом или ГОЗ — 105 000 ₽ в месяц без лимита операций. Цена записывается в договоре."}}, {"@type": "Question", "name": "Какие документы нужны от ООО?", "acceptedAnswer": {"@type": "Answer", "text": "Контракт или соглашение, ИНН и ОГРН, данные и СНИЛС директора, доступ к учётной системе, договоры с поставщиками. Карточку контракта, доверенность и Сводный реестр готовим сами; карточка образцов подписей не требуется."}}, {"@type": "Question", "name": "Чем казначейский счёт ООО отличается от расчётного?", "acceptedAnswer": {"@type": "Answer", "text": "Расчётным счётом общество распоряжается свободно; по лицевому счёту 71 каждый платёж проходит санкционирование — Казначейство проверяет целевой характер расхода и документы, а тратить можно только по направлениям сведений об операциях."}}, {"@type": "Question", "name": "Может ли бухгалтер ООО вести сопровождение сам?", "acceptedAnswer": {"@type": "Answer", "text": "Может — после подготовки: за 9 академических часов на ваших контрактах учим открывать счёт, формировать сведения и проводить платежи без возвратов — обучение казначейскому сопровождению, 150 000 ₽."}}, {"@type": "Question", "name": "Работаете с ООО из регионов?", "acceptedAnswer": {"@type": "Answer", "text": "Да, со всеми регионами дистанционно: документооборот с Казначейством электронный через «Электронный бюджет», присутствие директора не требуется."}}]}
+</script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
 <link rel="preload" as="font" type="font/woff2" href="/fonts/playfairdisplay-normal-500-cyrillic.woff2" crossorigin>
 <style id="fonts-crit">/* критические @font-face (кириллица, выше первого экрана): H1 Playfair 500 + body Inter 400. Остальные начертания — из fonts.css (async). */
 @font-face{font-family:'Inter';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/inter-normal-400-cyrillic.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
-@font-face{font-family:'Playfair Display';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/playfairdisplay-normal-500-cyrillic.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}</style>
+@font-face{font-family:'Playfair Display';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/playfairdisplay-normal-500-cyrillic.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+.lp2-answer{background:#FFFDF8;border:1px solid #E4DDD0;border-left:3px solid #A8844A;border-radius:8px;padding:16px 20px;margin:0 0 24px;font-size:17px;line-height:1.6}
+.lp2-answer p{margin:0}
+.lp2-block{max-width:900px;margin:0 auto}
+.lp2-block p{font-size:17px;line-height:1.68;margin:0 0 16px}
+.lp2-table{width:100%;border-collapse:collapse;margin:8px 0 20px;font-size:16px;border-top:2px solid #8B6F47}
+.lp2-table caption{caption-side:top;text-align:left;font-size:14px;color:#7A7263;font-style:italic;padding:0 0 12px}
+.lp2-table th,.lp2-table td{padding:12px 16px;text-align:left;vertical-align:top;border-bottom:1px solid #E4DDD0;line-height:1.5}
+.lp2-table th{font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;font-weight:600}
+.lp2-list{margin:0 0 18px;padding-left:22px}
+.lp2-list li{margin:0 0 10px;line-height:1.6;font-size:17px}
+.lp2-note{font-size:15px;color:#5F5A52;line-height:1.6;border-top:1px solid #E4DDD0;padding-top:14px;margin-top:6px}
+.lp2-note a{color:#8B6F47}
+@media(max-width:680px){.lp2-table{font-size:15px}.lp2-table th,.lp2-table td{padding:10px 10px}.lp2-block p,.lp2-list li{font-size:16px}}
+</style>
 <link rel="preload" href="/css/fonts.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/fonts.css') ?>" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/css/fonts.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/fonts.css') ?>"></noscript>
 <style id="v2-crit">/* critical: v2-шапка (above-the-fold); полный v2.css грузится асинхронно */
@@ -63,30 +80,25 @@
 <link rel="preload" href="/css/v2.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/v2.css') ?>" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/css/v2.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/v2.css') ?>"></noscript>
 
-<meta property="og:type" content="article">
+<meta property="og:type" content="website">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Казначейское сопровождение для ООО — под ключ, цены 2026">
-<meta property="og:description" content="Когда ООО попадает под сопровождение, что входит и сколько стоит. Открытие счёта, платежи, раздельный учёт, отчётность. Эксперт 15 лет в Казначействе.">
+<meta property="og:title" content="Казначейское сопровождение для ООО — под ключ">
+<meta property="og:description" content="Счёт 71, «Электронный бюджет», сведения, санкционирование, раздельный учёт, отчётность — весь цикл за ООО. 65 000 ₽ за контракт, 105 000 ₽/мес с авансом.">
 <meta property="og:url" content="https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie-dlya-ooo/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og/uslugi__kaznacheyskoe-soprovozhdenie-dlya-ooo-16x9.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="675">
-<meta property="og:image:alt" content="Казначейское сопровождение для ООО — КазнаЭксперт">
-<meta property="article:published_time" content="2026-06-26T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-09-09T09:00:00+03:00">
+<meta property="og:image:alt" content="Казначейское сопровождение для ООО — под ключ — КазнаЭксперт">
+<meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-09T10:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Казначейское сопровождение для ООО — под ключ">
-<meta name="twitter:description" content="Когда нужно, что входит, цены. Открытие счёта, санкционирование, раздельный учёт, отчётность. Вся Россия.">
+<meta name="twitter:description" content="Счёт 71, «Электронный бюджет», сведения, санкционирование, раздельный учёт, отчётность — весь цикл за ООО. 65 000 ₽ за контракт, 105 000 ₽/мес с авансом.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og/uslugi__kaznacheyskoe-soprovozhdenie-dlya-ooo-16x9.jpg">
 
-<!-- Schema: Article -->
-<!-- Schema: HowTo -->
-<!-- Schema: FAQPage -->
-<!-- Schema: BreadcrumbList -->
-<!-- Schema: DefinedTermSet (глоссарий — для entity-распознавания AI) -->
 <link rel="stylesheet" href="/css/landing-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/landing-shared.css') ?>">
 </head>
 <body>
@@ -141,43 +153,65 @@
 
 <div class="v2">
 
-<style>@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}</style>
+<style>@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}
+.railform textarea.fld{resize:vertical;min-height:64px;line-height:1.45}
+.v2 .lp2-risk{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin:28px 0 0}
+.v2 .lp2-risk div{padding:16px 18px;border:1px solid #E4DDD0;border-left:3px solid #A8844A;background:#FFFDF8;font-size:15px;line-height:1.5}
+.v2 .lp2-risk b{display:block;font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:#8B6F47;margin-bottom:6px}
+.v2 .lp2-price{display:flex;flex-wrap:wrap;align-items:baseline;gap:10px 22px;margin:22px 0 0;padding:18px 0 0;border-top:1px solid #E4DDD0}
+.v2 .lp2-price b{font-family:var(--font-display);font-weight:500;font-size:34px;letter-spacing:-.02em}
+.v2 .lp2-price span{color:#5F5A52;font-size:15px}
+.v2 .lp2-scen{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
+.v2 .lp2-scen article{padding:22px 24px;background:var(--paper);border:1px solid var(--hair-strong)}
+.v2 .lp2-scen h3{font-family:var(--font-display);font-weight:500;font-size:20px;margin:0 0 10px;letter-spacing:-.01em}
+.v2 .lp2-scen p{margin:0;font-size:16px;line-height:1.6;color:#3A3A3A}
+.v2 .lp2-scen p b{color:#1A1A1A}
+@media(max-width:920px){.v2 .lp2-risk{grid-template-columns:repeat(2,1fr)}.v2 .lp2-scen{grid-template-columns:1fr}}
+@media(max-width:560px){.v2 .lp2-risk{grid-template-columns:1fr}.v2 .lp2-price b{font-size:28px}}
+</style>
 
 <section class="v2-hero">
   <div class="v2-container">
-    <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › Казначейское сопровождение для ООО</nav>
+    <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a> › Сопровождение для ООО</nav>
     <div class="v2-hero-grid">
       <div class="v2-hero-main">
         <div class="v2-hero-eyebrow-row">
-          <span class="v2-eyebrow">Для ООО · 44-ФЗ · 223-ФЗ · ГОЗ</span>
+          <span class="v2-eyebrow">Услуга · ООО · 44-ФЗ · субсидии · ГОЗ</span>
           <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
         </div>
-        <h1>Казначейское сопровождение <em>для ООО</em></h1>
+        <h1>Казначейское сопровождение для ООО — <em>весь контур за вас</em></h1>
 <a href="/#reviews" class="v2-reviews-link">Отзывы клиентов →</a>
-        <p class="v2-hero-lede"><strong>Казначейское сопровождение для ООО</strong> — это режим расчётов, при котором деньги общества по госконтракту, целевой субсидии или гранту проходят через лицевой счёт в территориальном органе Казначейства, а каждый платёж проходит санкционирование. ООО открывает казначейский счёт, ведёт раздельный учёт целевых средств и сдаёт отчётность. Берём весь цикл на себя — по всей России.</p>
-        <div class="v2-hero-trust"><div class="v2-trust-item"><div class="v2-trust-num v2-trust-price">65 000 ₽</div><div class="v2-trust-label">постоплата · 105 000 ₽/мес с авансом</div></div><div class="v2-trust-item"><div class="v2-trust-num">90<span class="v2-trust-suffix">&nbsp;млрд&nbsp;₽</span></div><div class="v2-trust-label">прошло через счета</div></div><div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div><div class="v2-trust-item"><div class="v2-trust-num">Вся<span class="v2-trust-suffix">&nbsp;РФ</span></div><div class="v2-trust-label">работаем удалённо</div></div></div>
+        <p class="v2-hero-lede"><strong>Для обществ, чьи деньги по госконтракту, субсидии или гособоронзаказу проходят через лицевой счёт в Казначействе.</strong> Открываем счёт 71, оформляем подпись и доверенность директора, настраиваем «Электронный бюджет», утверждаем сведения, проводим каждый платёж через санкционирование, ведём раздельный учёт и отчётность — до закрытия счёта и вывода прибыли на расчётный счёт.</p>
+        <div class="lp2-risk">
+          <div><b>Снимаем риск</b>Деньги по контракту не перечислят без открытого счёта 71</div>
+          <div><b>Снимаем риск</b>Возврат платежа из-за кода или документов — простой и неустойка</div>
+          <div><b>Снимаем риск</b>Штраф за раздельный учёт по ст. 15.37.1 КоАП</div>
+          <div><b>Снимаем риск</b>Остаток на лицевом счёте, который ООО не может вывести</div>
+        </div>
+        <div class="lp2-price"><b>65 000 ₽</b><span>Контракт с постоплатой, разово</span><span>С авансом и ГОЗ — 105 000 ₽/мес</span><span>Фиксируется в договоре, без лимита операций</span></div>
         <div class="v2-hero-expert">
           <div class="v2-expert-name">Михайлов Ярослав</div>
           <div class="v2-expert-role">Эксперт · 15 лет в Казначействе</div>
-          <p class="v2-expert-quote">«Для ООО казначейское сопровождение — это не бухгалтерская формальность, а условие, без которого деньги по контракту просто не пройдут. Ведём весь цикл и отвечаем за результат договором».</p>
+          <p class="v2-expert-quote">«Для ООО казначейское сопровождение — не бухгалтерская формальность, а условие, без которого деньги по контракту просто не пройдут. Ведём весь цикл и отвечаем за результат договором».</p>
         </div>
       </div>
       <aside class="v2-hero-action">
-        <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
+        <div class="v2-hero-action-eyebrow">Заявка</div>
         <h2>Рассчитаем стоимость для вашего ООО</h2>
-        <p class="v2-hero-action-sub">Оставьте контакты — эксперт перезвонит в течение часа в рабочее время (9:00–21:00 МСК), проверит, попадает ли ваш контракт под сопровождение, и назовёт точную цену. NDA — до анализа документов.</p>
+        <p class="v2-hero-action-sub">Опишите контракт или субсидию — перезвоним в течение часа в рабочее время (9:00–21:00 МСК), проверим основание сопровождения и подтвердим тариф. NDA — до передачи документов.</p>
         <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="kaznacheyskoe-soprovozhdenie-dlya-ooo">
           <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
           <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
+          <textarea class="fld" name="message" placeholder="Комментарий: контракт или субсидия, сумма, аванс или постоплата (необязательно)" rows="2" maxlength="3000"></textarea>
           <input class="hp" name="kz_note" tabindex="-1" autocomplete="off" aria-hidden="true">
           <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-          <button class="submit" type="submit">Оставить заявку →</button>
+          <button class="submit" type="submit">Отправить заявку →</button>
           <div class="formmsg" id="formMsg" hidden></div>
-          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA по запросу</span></div>
+          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA до документов</span></div>
           <div class="success" id="leadSuccess" role="status" aria-live="polite">
             <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
             <h3>Заявка принята</h3>
-            <p>Эксперт перезвонит <b>в течение часа</b> (9:00–21:00 МСК) и разберёт ваш контракт.</p>
+            <p>Эксперт свяжется <b>в течение часа</b> в рабочее время (пн–пт, 9:00–19:00 МСК) и разберёт ваш контракт.</p>
             <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
           </div>
         </form>
@@ -187,130 +221,39 @@
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="komu">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Для кого</div>
-      <h2 class="v2-section-title">Когда ООО попадает <em>под казначейское сопровождение</em></h2>
-      <p class="v2-section-lede">Сопровождение применяется к коммерческим организациям-исполнителям, когда это установлено законом о бюджете или решением Правительства. ООО — самый частый случай.</p>
-    </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Госконтракт с авансом</h3><p class="v2-process-desc">ООО выиграло контракт по 44-ФЗ или 223-ФЗ с авансированием сверх установленного порога — аванс проходит через казначейский счёт.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Целевая субсидия или грант</h3><p class="v2-process-desc">Общество получает целевую субсидию, бюджетную инвестицию или грант — средства подпадают под сопровождение по статье 5 закона о бюджете.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Исполнитель по гособоронзаказу</h3><p class="v2-process-desc">ООО — головной исполнитель или соисполнитель по 275-ФЗ: отдельный счёт, раздельный учёт и расширенный режим контроля.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Субподряд под сопровождением</h3><p class="v2-process-desc">ООО привлекли субподрядчиком по контракту, который уже под сопровождением, — расчёты тоже идут через казначейский счёт.</p></article></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="pod-kluch">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Что входит</div>
-      <p><strong>Что изменилось в 2026 году.</strong> Казначейство перевело лицевые счета на <a href="/baza-znaniy/edinaya-byudzhetnaya-platforma-ebp/">Единую бюджетную платформу (ЕБП)</a>: операции по счёту ООО отражаются в режиме реального времени, вместо карточки образцов подписей полномочия подтверждает машиночитаемая доверенность, а распоряжения о платежах собираются в конструкторе с автозаполнением до 80% реквизитов. Для ООО это означает меньше бумаг при открытии счёта и быстрее проходящие платежи — но требования к целевому расходованию и санкционированию остались прежними.</p>
-    <h2 class="v2-section-title">Что входит в казначейское сопровождение <em>для ООО</em></h2>
-      <p class="v2-section-lede">Полный цикл на стороне эксперта. ООО получает работающий счёт, проходящие платежи и сданную отчётность.</p>
-    </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Анализ применимости</h3><p class="v2-process-desc">Определяем, попадает ли контракт ООО под казначейское сопровождение, по какому основанию и какой режим счёта нужен.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Открытие казначейского счёта</h3><p class="v2-process-desc">Готовим документы по приказу № 22н, включаем ООО в сводный реестр и открываем лицевой счёт в территориальном органе Казначейства.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Доступы и «Электронный бюджет»</h3><p class="v2-process-desc">Оформляем электронную подпись руководителя, настраиваем роли и рабочее место общества в ГИИС «Электронный бюджет».</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Санкционирование платежей</h3><p class="v2-process-desc">Готовим распоряжения и сведения об операциях, проводим платежи ООО через казначейский контроль без возвратов.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Раздельный учёт и отчётность</h3><p class="v2-process-desc">Ведём раздельный учёт целевых средств общества, формируем сведения об операциях и отчёт о расходах целевых средств.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Закрытие и возврат остатков</h3><p class="v2-process-desc">Завершаем сопровождение: возврат неиспользованных целевых средств и закрытие лицевого счёта по правилам.</p></article></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="ot-vas">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Что от вас</div>
-      <h2 class="v2-section-title">Что потребуется <em>от ООО</em></h2>
-      <p class="v2-section-lede">Список минимальный — 5 минут на пересылку. Всё остальное берём на себя.</p>
-    </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Госконтракт</h3><p class="v2-process-desc">Текст и реквизиты контракта — для анализа применимости и режима счёта.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>ИНН и ОГРН</h3><p class="v2-process-desc">Регистрационные данные общества с ограниченной ответственностью.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>СНИЛС руководителя</h3><p class="v2-process-desc">Для оформления электронной подписи и доступа в «Электронный бюджет».</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Контакт для связи</h3><p class="v2-process-desc">Телефон ответственного — держим в курсе каждого шага.</p></article></div>
-  </div>
-</section>
-
-<style>
-.ooo-answer{background:#FFFDF8;border:1px solid #E4DDD0;border-left:3px solid #A8844A;border-radius:8px;padding:16px 20px;margin:0 0 24px;font-size:17px;line-height:1.6}
-.ooo-answer p{margin:0}
-.ooo-table{width:100%;border-collapse:collapse;margin:8px 0 20px;font-size:16px;border-top:2px solid #8B6F47}
-.ooo-table caption{caption-side:top;text-align:left;font-size:14px;color:#7A7263;font-style:italic;padding:0 0 12px}
-.ooo-table th,.ooo-table td{padding:12px 16px;text-align:left;vertical-align:top;border-bottom:1px solid #E4DDD0;line-height:1.5}
-.ooo-table th{font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;font-weight:600}
-.ooo-table td:first-child{font-weight:600}
-.ooo-note{font-size:15px;color:#3A3A3A;line-height:1.6}
-.ooo-cols{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin:8px 0 22px}
-.ooo-col{border:1px solid #E4DDD0;border-radius:10px;padding:20px 24px;background:#FFFDF8}
-.ooo-col h3{margin:0 0 12px;font-size:18px}
-.ooo-col ul{margin:0;padding-left:20px}
-.ooo-col li{margin:0 0 8px;line-height:1.5}
-.ooo-can{border-top:3px solid #4a7c59}
-.ooo-cant{border-top:3px solid #b0503f}
-@media (max-width:700px){.ooo-cols{grid-template-columns:1fr}.ooo-table{font-size:14px}.ooo-table th,.ooo-table td{padding:9px 10px}}
-</style>
 <section class="v2-section v2-screen" id="porogi">
   <div class="v2-container">
     <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Пороги 2026</div>
-      <h2 class="v2-section-title">С какой суммы ООО попадает под <em>казначейское сопровождение</em></h2>
-      <p class="v2-section-lede">Режим включается не от статуса общества, а от типа денег и условий контракта. Ниже — основания, по которым ООО обязано открыть казначейский счёт в 2026 году.</p>
+      <div class="v2-section-eyebrow">Основания 2026</div>
+      <h2 class="v2-section-title">Когда ООО попадает под <em>казначейское сопровождение</em></h2>
+      <p class="v2-section-lede">Основания на 2026 год закреплены статьёй 5 закона о федеральном бюджете от 28.11.2025 № 426-ФЗ; проверяем их по тексту контракта или соглашения на первом созвоне.</p>
     </div>
-    <div class="ooo-answer"><p><strong>Коротко:</strong> ООО попадает под казначейское сопровождение, когда получает по контракту аванс сверх установленного порога, целевую субсидию или бюджетную инвестицию, работает в рамках национального проекта либо исполняет гособоронзаказ. В этих случаях деньги идут на лицевой счёт в Казначействе, а не на расчётный счёт общества.</p></div>
-    <table class="ooo-table">
-      <caption>Основания и пороги казначейского сопровождения для ООО в 2026 году</caption>
-      <thead><tr><th>Основание</th><th>Порог 2026</th><th>Что открывается</th></tr></thead>
-      <tbody>
-        <tr><td>Госконтракт с авансом (44-ФЗ / 223-ФЗ)</td><td>контракт от 3 млн&nbsp;₽ при авансе свыше 50%</td><td>Казначейский счёт, санкционирование платежей</td></tr>
-        <tr><td>Крупный контракт</td><td>от 100 млн&nbsp;₽ независимо от аванса</td><td>Казначейский счёт</td></tr>
-        <tr><td>Целевая субсидия, грант, бюджетная инвестиция</td><td>любая сумма</td><td>Казначейский счёт</td></tr>
-        <tr><td>Контракт в рамках национального проекта</td><td>любая сумма</td><td>Казначейский счёт</td></tr>
-        <tr><td>Гособоронзаказ (275-ФЗ)</td><td>независимо от суммы</td><td>Отдельный счёт, расширенный контроль</td></tr>
-      </tbody>
-    </table>
-    <p class="ooo-note">Конкретный перечень средств и пороговые суммы на 2026 год установлены статьёй 5 Федерального закона № 426-ФЗ о федеральном бюджете и постановлением Правительства № 2024. Сверено 9 сентября 2026 года по тексту закона: статья 5 применяется в редакции с изменениями от 26.06.2026, пороги 100 млн, 10 млн и 3 млн ₽ не менялись. Основания периодически уточняются, поэтому применимость по конкретному контракту ООО мы проверяем индивидуально — это первый шаг <a href="/uslugi/otkrytie-scheta/">открытия казначейского счёта</a>. Если аванс уже зашёл на расчётный счёт с ошибкой — потребуется <a href="/uslugi/spasenie-kontrakta/">спасение контракта</a>.</p>
+    <div class="lp2-block">
+      <table class="lp2-table">
+        <caption>Случаи и пороги 2026 года для ООО</caption>
+        <thead><tr><th>Что за деньги</th><th>Порог</th><th>Норма</th></tr></thead>
+        <tbody>
+          <tr><td>Аванс по государственному контракту</td><td>100 млн ₽ и более (цена контракта)</td><td>п. 5 ч. 2 ст. 5</td></tr>
+          <tr><td>Аванс по контракту бюджетного или автономного учреждения</td><td>10 млн ₽ и более</td><td>п. 6 ч. 2 ст. 5</td></tr>
+          <tr><td>Контракт с единственным поставщиком по п. 2 ч. 1 ст. 93 № 44-ФЗ</td><td>более 3 млн ₽ — все расчёты</td><td>п. 7 ч. 2 ст. 5</td></tr>
+          <tr><td>Контракт гособоронзаказа</td><td>более 3 млн ₽ — все расчёты</td><td>п. 8 ч. 2 ст. 5</td></tr>
+          <tr><td>Субсидии, бюджетные инвестиции, гранты юридическим лицам</td><td>Независимо от суммы</td><td>ч. 2 ст. 5</td></tr>
+          <tr><td>Договоры соисполнителей в рамках сопровождаемых контрактов</td><td>более 3 млн ₽</td><td>ч. 3 ст. 5</td></tr>
+        </tbody>
+      </table>
+      <p class="lp2-note">Полный разбор — в статье <a href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/">кто попадает под казначейское сопровождение</a>; отличия ООО от ИП в режиме счёта — <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-dlya-ip/">казначейское сопровождение для ИП</a>.</p>
+    </div>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="mozhno-nelzya">
+<section class="v2-section v2-screen" id="sostav">
   <div class="v2-container">
     <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Режим счёта</div>
-      <h2 class="v2-section-title">Что можно и что нельзя оплачивать <em>с казначейского счёта ООО</em></h2>
-      <p class="v2-section-lede">Целевые средства на лицевом счёте — не свободные деньги общества. Каждый платёж проходит санкционирование и должен быть связан с исполнением контракта.</p>
+      <div class="v2-section-eyebrow">Что входит</div>
+      <h2 class="v2-section-title">Весь казначейский контур ООО — <em>шесть блоков</em></h2>
+      <p class="v2-section-lede">Делаем всё сами: бухгалтерия ООО продолжает вести налоги и зарплату.</p>
     </div>
-    <div class="ooo-cols">
-      <div class="ooo-col ooo-can">
-        <h3>Можно — после санкционирования</h3>
-        <ul>
-          <li>Оплата материалов, работ и услуг по контракту.</li>
-          <li>Расчёты с поставщиками и соисполнителями; соисполнителям, которым режим доводится, — на их лицевые счета.</li>
-          <li>Зарплата и связанные налоги и взносы в части, приходящейся на контракт.</li>
-          <li>Иные затраты, прямо предусмотренные условиями контракта и сведениями об операциях с целевыми средствами.</li>
-        </ul>
-      </div>
-      <div class="ooo-col ooo-cant">
-        <h3>Нельзя до исполнения обязательств</h3>
-        <ul>
-          <li>Выводить прибыль и выплачивать дивиденды участникам ООО.</li>
-          <li>Выдавать займы учредителю или третьим лицам.</li>
-          <li>Размещать средства на депозитах, покупать ценные бумаги или валюту.</li>
-          <li>Оплачивать расходы, не связанные с контрактом, и переводить деньги на обычный расчётный счёт вне контура.</li>
-        </ul>
-      </div>
-    </div>
-    <p>Это ключевое отличие казначейского сопровождения для коммерческой организации: пока контракт не исполнен, распределить прибыль между участниками ООО нельзя. При расширенном режиме казначейство дополнительно проверяет экономическую обоснованность затрат, поэтому прибыль перечисляется на расчётный счёт общества только после подтверждения исполнения обязательств. Правовая основа — статьи 242.23–242.26 Бюджетного кодекса, Правила казначейского сопровождения (постановление Правительства № 2024) и, для гособоронзаказа, статья 8.4 Закона № 275-ФЗ. Чтобы платежи проходили без возвратов на всём сроке контракта, нужен корректно поставленный <a href="/uslugi/vosstanovlenie-razdelnogo-ucheta/">раздельный учёт</a> и грамотное <a href="/uslugi/soprovozhdenie-avans/">сопровождение контракта с авансом</a>.</p>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="ooo-vs">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Отличия</div>
-      <h2 class="v2-section-title">ООО или ИП: чем отличается <em>режим сопровождения</em></h2>
-      <p class="v2-section-lede">Правила санкционирования одинаковы, но пакет документов и порядок распоряжения средствами у общества и предпринимателя различаются.</p>
-    </div>
-    <table class="ooo-table">
-      <caption>Казначейское сопровождение: ООО в сравнении с ИП</caption>
-      <thead><tr><th>Параметр</th><th>ООО</th><th>ИП</th></tr></thead>
-      <tbody>
-        <tr><td>Лицевой счёт</td><td>в территориальном органе Казначейства на юридическое лицо</td><td>в территориальном органе Казначейства на предпринимателя</td></tr>
-        <tr><td>Документы для открытия</td><td>устав, решение или протокол участников, ЭП и СНИЛС руководителя</td><td>паспорт, ЭП и СНИЛС предпринимателя</td></tr>
-        <tr><td>Распоряжение прибылью или доходом</td><td>дивиденды участникам — только после исполнения обязательств</td><td>доход предпринимателя — после исполнения обязательств</td></tr>
-        <tr><td>Раздельный учёт</td><td>обособление на счетах и субсчетах общества, аналитика по контракту</td><td>обособление доходов и расходов по контракту</td></tr>
-      </tbody>
-    </table>
-    <p class="ooo-note">Для бюджетных и автономных учреждений действует свой режим и в 2026 году снижен порог по контрактам. Мы ведём казначейское сопровождение для коммерческих организаций — ООО и ИП; полный перечень услуг и фиксированные цены собраны на странице <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">казначейского сопровождения под ключ</a>.</p>
+    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Основание и счёт</h3><p class="v2-process-desc">Проверяем, попадает ли ООО под сопровождение, и открываем лицевой счёт 71 за два рабочих дня: Сводный реестр, карточка контракта.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Подпись и доверенность директора</h3><p class="v2-process-desc">Сертификат УЦ Казначейства на директора, машиночитаемая доверенность на сотрудников, настройка «Электронного бюджета».</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Сведения об операциях</h3><p class="v2-process-desc">Структура расходов ООО по кодам направления под аванс, постоплату или субсидию; утверждение заказчиком, изменения по правилу «не ниже факта».</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Санкционирование</h3><p class="v2-process-desc">Распоряжение и документы-основания по каждому платежу — поставщикам, на зарплату, налоги, накладные; переподачи без доплат.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Раздельный учёт</h3><p class="v2-process-desc">Методика в учётной политике ООО, аналитика по контракту, регистры под проверку — по Порядку № 210н, для ГОЗ по постановлению № 47.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Отчётность и закрытие</h3><p class="v2-process-desc">Отчёты по контракту или соглашению, сверка с УФК, вывод прибыли на расчётный счёт, закрытие лицевого счёта.</p></article></div>
   </div>
 </section>
 
@@ -318,42 +261,33 @@
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Процесс</div>
-      <h2 class="v2-section-title">От заявки до проходящих платежей — <em>понятный маршрут</em></h2>
-      <p class="v2-section-lede">Каждый шаг — конкретное действие на нашей стороне. Прозрачно и без неожиданностей.</p>
+      <h2 class="v2-section-title">От заявки до проходящих платежей</h2>
+      <p class="v2-section-lede">Понятный маршрут: счёт — сведения — платежи — закрытие.</p>
     </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">Сегодня · в течение часа</div><h3>Заявка и анализ</h3><p class="v2-process-desc">Перезваниваем в течение часа, проверяем контракт ООО, подписываем договор и NDA, фиксируем стоимость.</p><ul class="v2-process-checks"><li>Договор подписан</li><li>Цена зафиксирована</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">2 рабочих дня</div><h3>Счёт и доступы</h3><p class="v2-process-desc">Открываем казначейский счёт общества, включаем в сводный реестр, настраиваем «Электронный бюджет» и подпись.</p><ul class="v2-process-checks"><li>Счёт активен</li><li>ГИИС настроен</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">Весь срок контракта</div><h3>Ведение и отчётность</h3><p class="v2-process-desc">Проводим платежи, ведём раздельный учёт, сдаём сведения и отчёты — до закрытия счёта.</p><ul class="v2-process-checks"><li>Платежи проходят</li><li>Отчётность сдана</li></ul></article></div>
+    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">Дни 1–2</div><h3>Основание и счёт</h3><p class="v2-process-desc">Проверяем контракт, подписываем договор и NDA, открываем счёт 71, оформляем подпись и доверенность.</p><ul class="v2-process-checks"><li>Счёт открыт</li><li>Доступы работают</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">Дни 3–5</div><h3>Сведения</h3><p class="v2-process-desc">Формируем и утверждаем сведения об операциях под структуру расходов ООО — до первого платежа.</p><ul class="v2-process-checks"><li>Сведения утверждены</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">Весь срок</div><h3>Платежи, учёт, закрытие</h3><p class="v2-process-desc">Каждый платёж через санкционирование, раздельный учёт, отчётность; вывод прибыли и закрытие счёта после исполнения.</p><ul class="v2-process-checks"><li>Платежи проходят</li><li>Счёт закрыт</li></ul></article></div>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="riski">
+<section class="v2-section v2-screen" id="nuzhno">
   <div class="v2-container">
     <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Цена ошибки</div>
-      <h2 class="v2-section-title">Что идёт не так <em>без специалиста</em></h2>
-      <p class="v2-section-lede">Ошибки в сопровождении стоят ООО денег и срока контракта — а часть из них образует состав по КоАП.</p>
+      <div class="v2-section-eyebrow">Что от вас</div>
+      <h2 class="v2-section-title">Что потребуется <em>от ООО</em></h2>
     </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Отказ в санкционировании</h3><p class="v2-process-desc">Неверные распоряжения и сведения — казначейство не пропускает платёж, деньги общества стоят.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Зависший аванс</h3><p class="v2-process-desc">Аванс не проходит на счёт с ошибочными реквизитами — средства зависают или возвращаются заказчику.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Штраф по КоАП</h3><p class="v2-process-desc">Нарушение раздельного учёта по гособоронзаказу — ответственность по статье 7.30.3 КоАП; по сопровождению контрактов — по статье 15.37.1.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Срыв срока контракта</h3><p class="v2-process-desc">Пока счёт не открыт и платежи не идут, срок исполнения горит, а с ним — пени и риск реестра недобросовестных поставщиков.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Налоговые риски</h3><p class="v2-process-desc">Некорректный раздельный учёт целевых средств — претензии и доначисления обществу при проверке.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Потерянное время</h3><p class="v2-process-desc">Десятки часов бухгалтерии ООО на освоение матчасти вместо профильной работы по контракту.</p></article></div>
-    <div class="related-inline"><b>Смежные услуги и разборы</b> <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">→ Казначейское сопровождение под ключ: услуги и цены</a><a href="/uslugi/otkrytie-scheta/">→ Открытие казначейского счёта за 2 дня</a><a href="/baza-znaniy/kto-popadaet-pod-kaznacheyskoe-soprovozhdenie/">→ Кто попадает под казначейское сопровождение</a></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="compare">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Сравнение</div>
-      <h2 class="v2-section-title">Своя бухгалтерия, штатный спец или <em>с нами</em></h2>
-      <p class="v2-section-lede">Шесть критериев, по которым ООО выбирают, как закрыть казначейское сопровождение.</p>
+    <div class="lp2-block">
+      <table class="lp2-table">
+        <caption>Минимальный пакет — остальное готовим сами</caption>
+        <thead><tr><th>Что нужно</th><th>Зачем</th></tr></thead>
+        <tbody>
+          <tr><td>Контракт, соглашение о субсидии или договор ГОЗ</td><td>Основание сопровождения, идентификатор, структура сведений</td></tr>
+          <tr><td>ИНН, ОГРН, данные директора, СНИЛС</td><td>Сводный реестр, сертификат подписи, доверенность</td></tr>
+          <tr><td>Доступ к 1С или учётной системе</td><td>Раздельный учёт ставим в вашей базе</td></tr>
+          <tr><td>Договоры с поставщиками и соисполнителями</td><td>Документы-основания и условие о сопровождении в цепочке</td></tr>
+          <tr><td>Ответственный на связи</td><td>Держим в курсе каждого платежа</td></tr>
+        </tbody>
+      </table>
+      <p class="lp2-note">Карточка образцов подписей больше не нужна — полномочия подтверждает машиночитаемая доверенность (Порядок № 44н в редакции приказа № 22н).</p>
     </div>
-    <div class="v2-compare" role="table">
-      <div class="v2-compare-head" role="row">
-        <div role="columnheader" class="v2-compare-head-cell">Параметр</div>
-        <div role="columnheader" class="v2-compare-head-cell">Самостоятельно</div>
-        <div role="columnheader" class="v2-compare-head-cell">Штатный спец</div>
-        <div role="columnheader" class="v2-compare-head-cell is-us">С КазнаЭксперт</div>
-      </div>
-      <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Запуск</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">2–4 недели на освоение</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">1–2 месяца на подбор</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>2 рабочих дня</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Риск отказов и возвратов</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Высокий — без опыта</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Зависит от сотрудника</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Минимальный</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Ведение и отчётность</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Своя бухгалтерия, без поддержки</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">По компетенциям спеца</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт">Полный цикл включён</div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Стоимость</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Время бухгалтера + риск</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">120–180 тыс ₽/мес + взносы</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>25 000 ₽</strong> по этапу</div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Гарантия в договоре</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Нет</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Нет</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Прописана</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Затраты времени ООО</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Десятки часов</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Контроль сотрудника</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>5 минут</strong></div></div>
-    </div>
-    <div class="v2-compare-cta"><a href="#zayavka">Обсудить ваш контракт <span aria-hidden="true">→</span></a></div>
   </div>
 </section>
 
@@ -361,91 +295,102 @@
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Стоимость</div>
-      <h2 class="v2-section-title">Цены — <em>фиксированные, по этапу контракта</em></h2>
-      <p class="v2-section-lede">Стоимость зависит от того, на каком этапе подключается ООО. Цена прописана в договоре, без «от» и скрытых доплат.</p>
+      <h2 class="v2-section-title">Цены — фиксированные, <em>по этапу контракта</em></h2>
+      <p class="v2-section-lede">Платите за этап, а не за оклад: каждая цена записывается в договоре и не зависит от числа операций. Оплата — после подписания договора.</p>
     </div>
-    <div class="v2-tariffs-grid lp-3col"><article class="v2-tariff">
+    <div class="v2-tariffs-grid lp-3col"><article class="v2-tariff is-featured">
         <div class="v2-tariff-no">01</div>
-        <div class="v2-tariff-stage">До тендера</div>
-        <h3>Резерв счёта к дате тендера</h3>
-        <p class="v2-tariff-desc">Резервируем счёт для вашего ООО к дате тендера — директору не нужно лично ездить в УФК, всё дистанционно. Не выиграли — счёт просто не открываем.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">25 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · к дате тендера</div><a href="/uslugi/rezervirovanie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
-      </article><article class="v2-tariff is-featured">
+        <div class="v2-tariff-stage">Аванс · ГОЗ</div>
+        <h3>Контракт с авансом и ГОЗ</h3>
+        <p class="v2-tariff-desc">Сведения, каждый платёж, ИГК, соисполнители, раздельный учёт, отчётность — до закрытия контракта и вывода прибыли.</p>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">105 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Без лимита операций</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+      </article><article class="v2-tariff">
         <div class="v2-tariff-no">02</div>
-        <div class="v2-tariff-stage">Победа в тендере</div>
-        <h3>Открытие счёта за два дня</h3>
-        <p class="v2-tariff-desc">Открываем лицевой счёт ООО за два дня: устав, выписка ЕГРЮЛ, контракт — собираем пакет, заводим общество в сводный реестр, настраиваем «Электронный бюджет».</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">35 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-stage">Постоплата</div>
+        <h3>Контракт без аванса</h3>
+        <p class="v2-tariff-desc">Сведения, распоряжения по актам и УПД, санкционирование, закрытие счёта — разово до закрытия контракта.</p>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">65 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · до закрытия</div><a href="/uslugi/soprovozhdenie-postoplata/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">03</div>
-        <div class="v2-tariff-stage">Постоплата</div>
-        <h3>Контракт с постоплатой под ключ</h3>
-        <p class="v2-tariff-desc">Контракт ООО без аванса: проводим платежи и сведения, выстраиваем раздельный учёт по контракту — штатный бухгалтер работает по готовым регистрам.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">65 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · за контракт</div><a href="/uslugi/soprovozhdenie-postoplata/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
-      </article><article class="v2-tariff">
-        <div class="v2-tariff-no">04</div>
-        <div class="v2-tariff-stage">Аванс</div>
-        <h3>Контракт с авансом под ключ</h3>
-        <p class="v2-tariff-desc">Аванс на счёте ООО под контролем: санкционирование, целевое расходование, отработка предоплаты и отчётность по каждому рублю.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">105 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Под ключ · весь срок</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-stage">Старт</div>
+        <h3>Открытие счёта</h3>
+        <p class="v2-tariff-desc">Лицевой счёт 71 за два рабочих дня: реестр, доверенность, карточка контракта, «Электронный бюджет». Резерв к тендеру — 25 000 ₽.</p>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">35 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article></div>
-    <p class="v2-tariffs-footnote">Все цены фиксируются в договоре.</p>
+    <p class="v2-tariffs-footnote">Все цены — на странице <a href="/baza-znaniy/stoimost-kaznacheyskogo-soprovozhdeniya/">«Стоимость казначейского сопровождения»</a>.</p>
   </div>
 </section>
 
-<style>.ooo-steps{margin:8px 0 0;padding-left:0;list-style:none;counter-reset:st}.ooo-steps li{position:relative;padding:0 0 14px 46px;counter-increment:st;line-height:1.6}.ooo-steps li::before{content:counter(st);position:absolute;left:0;top:0;width:30px;height:30px;border:2px solid #A8844A;border-radius:50%;color:#8B6F47;font-weight:700;text-align:center;line-height:28px}</style>
-<section class="v2-section v2-screen" id="ooo-podpis">
+<section class="v2-section v2-screen" id="mozhno">
   <div class="v2-container">
     <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Специфика ООО</div>
-      <h2 class="v2-section-title">Директор, УКЭП юрлица и карточка образцов подписей</h2>
-      <p class="v2-section-lede">Казначейский контур общества ведут через юридическое лицо и его руководителя — это ключевое отличие от индивидуального предпринимателя.</p>
+      <div class="v2-section-eyebrow">Режим счёта</div>
+      <h2 class="v2-section-title">Что можно и что нельзя оплачивать <em>с казначейского счёта ООО</em></h2>
     </div>
-    <div class="ooo-cols">
-      <div class="ooo-col"><h3>Полномочия директора</h3><p>От имени ООО распоряжения подписывает единоличный исполнительный орган — директор, действующий на основании устава и записи в ЕГРЮЛ. Другим сотрудникам право подписи передаётся доверенностью, а в электронном документообороте — машиночитаемой доверенностью (МЧД).</p></div>
-      <div class="ooo-col"><h3>УКЭП юридического лица</h3><p>Для «Электронного бюджета» и подписания распоряжений нужна усиленная квалифицированная электронная подпись. Сертификат руководителя юрлица выпускает удостоверяющий центр ФНС, а для работы через казначейство — удостоверяющий центр Федерального казначейства; сотрудники подписывают по МЧД.</p></div>
+    <div class="lp2-block">
+      <table class="lp2-table">
+        <caption>Расходы с лицевого счёта 71: типовые случаи</caption>
+        <thead><tr><th>Расход</th><th>Можно ли</th><th>Условие</th></tr></thead>
+        <tbody>
+          <tr><td>Поставщики и субподрядчики по контракту</td><td>Да</td><td>Направление в сведениях, документы-основания; соисполнители свыше 3 млн ₽ — на их лицевой счёт</td></tr>
+          <tr><td>Зарплата работников, занятых в контракте</td><td>Да</td><td>Направление «оплата труда» в сведениях, расчётная ведомость</td></tr>
+          <tr><td>Налоги и страховые взносы</td><td>Да</td><td>Направление в сведениях</td></tr>
+          <tr><td>Накладные расходы</td><td>Да, по коду 0888</td><td>Справка распределения, учётная политика</td></tr>
+          <tr><td>Возврат займов, депозиты, покупка валюты</td><td>Нет</td><td>Прямой запрет режима лицевого счёта</td></tr>
+          <tr><td>Вывод прибыли на расчётный счёт</td><td>Да</td><td>После приёмки, в пределах суммы прибыли по контракту</td></tr>
+        </tbody>
+      </table>
+      <p class="lp2-note">Разбор режима — в статьях <a href="/baza-znaniy/kaznacheyskiy-schet/">казначейский счёт</a> и <a href="/baza-znaniy/kody/">коды направления расходования</a>.</p>
     </div>
-    <p>При открытии лицевого счёта общество представляет карточку образцов подписей и оттиска печати: в неё вносят директора и иных уполномоченных лиц с правом первой (при необходимости — второй) подписи. Расхождение карточки с тем, кто фактически подписал распоряжение, — одна из причин отказа в проведении платежа.</p>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="ooo-oshibki">
+<section class="v2-section v2-screen" id="scenarii">
   <div class="v2-container">
     <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Практика</div>
-      <h2 class="v2-section-title">Типовые ошибки бухгалтерии ООО при работе с лицевым счётом</h2>
-      <p class="v2-section-lede">Большинство отказов казначейства связано не с сутью расхода, а с тем, как бухгалтерия общества оформила платёж.</p>
+      <div class="v2-section-eyebrow">Без специалиста</div>
+      <h2 class="v2-section-title">Четыре типовых сбоя у ООО — <em>и что мы делаем</em></h2>
     </div>
-    <table class="ooo-table">
-      <caption>Частые ошибки ООО и как их не допустить</caption>
-      <thead><tr><th>Ошибка</th><th>Последствие и как избежать</th></tr></thead>
-      <tbody>
-        <tr><td>Распоряжение без ИГК в назначении платежа</td><td>Возврат распоряжения. Указывать идентификатор государственного контракта в каждом платеже</td></tr>
-        <tr><td>Расход по направлению, не заявленному в сведениях</td><td>Отказ в санкционировании. Заранее вносить направление в сведения об операциях и переутверждать у заказчика</td></tr>
-        <tr><td>Попытка вывести прибыль или дивиденды до исполнения</td><td>Блокировка операции. Распределять прибыль между участниками только после исполнения обязательств</td></tr>
-        <tr><td>Общехозяйственные расходы без обоснования (расширенный режим)</td><td>Отказ. Относить затраты на контракт по калькуляции и подтверждать документами</td></tr>
-        <tr><td>Реквизиты контрагента не совпадают с договором</td><td>Возврат платежа. При смене реквизитов оформлять дополнительное соглашение</td></tr>
-        <tr><td>Не ведётся раздельный учёт по контракту</td><td>Риск доначислений и штрафа по статье 15.37.1 КоАП. Вести раздельный учёт с первого дня исполнения</td></tr>
-      </tbody>
-    </table>
+    <div class="lp2-scen">
+      <article class="reveal"><h3>Заказчик не перечисляет аванс</h3><p><b>Что делаем:</b> проверяем, открыт ли счёт и утверждены ли сведения — без них деньги не уйдут; закрываем оба пункта за дни, не недели.</p></article>
+      <article class="reveal"><h3>Бухгалтер провёл платёж «как обычно»</h3><p><b>Что делаем:</b> возврат с кодом причины разбираем по протоколу, ставим чек-лист перед подачей — код, сумма по коду, комплект документов.</p></article>
+      <article class="reveal"><h3>Директор в отпуске — подпись недоступна</h3><p><b>Что делаем:</b> машиночитаемая доверенность на ответственного сотрудника, чтобы платежи не зависели от одного человека.</p></article>
+      <article class="reveal"><h3>Проверка, а раздельного учёта нет</h3><p><b>Что делаем:</b> восстанавливаем учёт по первичке за период контракта — <a href="/uslugi/vosstanovlenie-razdelnogo-ucheta/">99 000 ₽ за контракт</a>.</p></article>
+    </div>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="ooo-6-shagov">
+<section class="v2-section v2-screen" id="sravnenie">
   <div class="v2-container">
     <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Маршрут</div>
-      <h2 class="v2-section-title">ООО выиграло контракт: 6 шагов до первого платежа</h2>
-      <p class="v2-section-lede">Типовой порядок для общества, впервые попавшего под казначейское сопровождение.</p>
+      <div class="v2-section-eyebrow">Сравнение</div>
+      <h2 class="v2-section-title">Своя бухгалтерия, штатный специалист <em>или с нами</em></h2>
     </div>
-    <ol class="ooo-steps">
-      <li><strong>Проверить контракт.</strong> Определить основание и порог казначейского сопровождения, срок открытия лицевого счёта, режим (обычный или расширенный).</li>
-      <li><strong>Оформить УКЭП руководителя</strong> и настроить рабочее место общества в ГИИС «Электронный бюджет».</li>
-      <li><strong>Открыть лицевой счёт</strong> в территориальном органе Казначейства: подать документы, сдать карточку образцов подписей, войти в сводный реестр.</li>
-      <li><strong>Составить сведения об операциях</strong> с целевыми средствами по направлениям расходования и утвердить их у заказчика.</li>
-      <li><strong>Сформировать первое распоряжение</strong> с ИГК и подтверждающими документами и пройти санкционирование.</li>
-      <li><strong>Вести раздельный учёт и отчётность</strong> по контракту до его закрытия и возврата неиспользованного остатка целевых средств.</li>
-    </ol>
+    <div class="lp2-block">
+      <table class="lp2-table">
+        <caption>Три способа закрыть казначейский контур</caption>
+        <thead><tr><th>Критерий</th><th>Своя бухгалтерия</th><th>Штатный специалист</th><th>КазнаЭксперт</th></tr></thead>
+        <tbody>
+          <tr><td>Профиль</td><td>Налоги и зарплата; лицевой счёт — не её работа</td><td>Один человек на все контракты</td><td>Команда с практикой Казначейства</td></tr>
+          <tr><td>Непрерывность</td><td>Отпуск главбуха — платежи стоят</td><td>Отпуск, больничный, увольнение</td><td>Договор, замена внутри команды</td></tr>
+          <tr><td>Отказы казначейства</td><td>Учитесь на своих</td><td>Зависит от опыта</td><td>Проверка до подачи, переподача без доплат</td></tr>
+          <tr><td>Стоимость</td><td>Время и риск штрафов</td><td>Оклад, взносы, рабочее место — круглый год</td><td>65 000 ₽ за контракт или 105 000 ₽/мес с авансом</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="keys">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Из практики</div>
+      <h2 class="v2-section-title">Как это выглядит <em>для ООО</em></h2>
+    </div>
+    <div class="lp2-block">
+      <p>Торговое ООО выиграло первый контракт с авансом свыше порога; бухгалтерия на аутсорсе с казначейством не работала. За два дня открыли счёт 71 и оформили подпись директора с доверенностью на бухгалтера, за три — утвердили сведения под структуру закупки. Первый платёж поставщику ушёл с первой подачи; дальше в месяц проходило 15–20 распоряжений, возвратов не было. После приёмки прибыль вывели на расчётный счёт и закрыли лицевой счёт — бухгалтер ООО получил чек-лист и с следующим контрактом работает сам.</p>
+      <p class="lp2-note">Шаги для ООО после победы — в статье <a href="/baza-znaniy/licevoy-schet-71-kak-otkryt/">лицевой счёт 71: как открыть</a>; другие кейсы — на странице <a href="/keysy/">«Кейсы»</a>.</p>
+    </div>
   </div>
 </section>
 
@@ -455,7 +400,12 @@
       <div class="v2-section-eyebrow">Вопросы</div>
       <h2 class="v2-section-title">Отвечаем <em>прямо</em></h2>
     </div>
-    <div class="faq"><details open><summary>Нужно ли ООО казначейское сопровождение?</summary><p>Да, если расчёты общества по контракту или субсидии попадают под сопровождение. Это устанавливается законом о федеральном бюджете на текущий год и решениями Правительства: авансируемые госконтракты сверх порога, гособоронзаказ по 275-ФЗ, целевые субсидии и бюджетные инвестиции. Без открытого казначейского счёта такие деньги обществу не перечислят.</p></details><details><summary>Когда ООО попадает под казначейское сопровождение?</summary><p>Когда общество — исполнитель или соисполнитель по контракту с авансом сверх установленного порога, получатель целевой субсидии, бюджетной инвестиции или гранта, либо участник гособоронзаказа. Конкретные случаи ежегодно закрепляет статья 5 закона о бюджете.</p></details><details><summary>Что входит в казначейское сопровождение для ООО?</summary><p>Полный цикл: анализ применимости, открытие казначейского счёта, оформление электронной подписи и настройка «Электронного бюджета», подготовка распоряжений и сведений, санкционирование платежей, раздельный учёт целевых средств, отчётность и закрытие счёта с возвратом остатков.</p></details><details><summary>Сколько стоит казначейское сопровождение для ООО?</summary><p>Цена фиксированная и зависит от этапа: резерв счёта — 25 000 ₽, открытие — 35 000 ₽, контракт с постоплатой под ключ — 65 000 ₽, контракт с авансом — 105 000 ₽/мес. Контракты по гособоронзаказу ведём по тарифу с авансом и ГОЗ — 105 000 ₽/мес. Цена фиксируется в договоре.</p></details><details><summary>Какие документы нужны от ООО?</summary><p>Минимальный пакет: текст и реквизиты госконтракта, ИНН и ОГРН общества, СНИЛС руководителя для электронной подписи и контакт ответственного. Остальное — карточку контракта, машиночитаемую доверенность, включение в сводный реестр — готовим сами.</p></details><details><summary>Чем казначейский счёт ООО отличается от расчётного?</summary><p>Расчётным счётом в банке общество распоряжается свободно. По казначейскому счёту (лицевой счёт с кодом 71 в Казначействе) каждый платёж проходит санкционирование: казначейство проверяет целевой характер расхода и документы. Подробнее — в разборе «казначейский счёт и расчётный счёт: в чём разница».</p></details><details><summary>Работаете с ООО из регионов?</summary><p>Да, со всеми регионами России удалённо. Весь документооборот ведётся электронно через «Электронный бюджет» — личное присутствие руководителя не требуется.</p></details><details><summary>Можно ли выплатить дивиденды или вывести прибыль с казначейского счёта ООО?</summary><p>Нет. Целевые средства на лицевом счёте нельзя распределять между участниками до исполнения обязательств по контракту. Прибыль перечисляется на расчётный счёт общества только после подтверждения исполнения; при расширенном режиме казначейство дополнительно проверяет экономическую обоснованность затрат.</p></details><details><summary>Можно ли платить зарплату и налоги ООО с казначейского счёта?</summary><p>Да — в части, которая приходится на исполнение контракта, и после санкционирования. Зарплата, НДФЛ и страховые взносы, связанные с контрактом, оплачиваются с лицевого счёта; расходы, не относящиеся к контракту, провести нельзя.</p></details><details><summary>Чем казначейское сопровождение для ООО отличается от режима для ИП?</summary><p>Правила санкционирования одинаковы, различаются пакет документов и распоряжение средствами: у ООО счёт открывается на юридическое лицо по уставу и решению участников, дивиденды — только после исполнения обязательств; у ИП — по документам предпринимателя. Для бюджетных и автономных учреждений действует отдельный режим.</p></details><details><summary>Кто в ООО подписывает распоряжения по казначейскому счёту?</summary><p>Распоряжения от имени общества подписывает директор на основании устава и записи в ЕГРЮЛ усиленной квалифицированной электронной подписью. Другие сотрудники — по машиночитаемой доверенности; состав подписантов фиксируется в карточке образцов подписей.</p></details><details><summary>Какая ошибка бухгалтерии ООО чаще всего приводит к отказу?</summary><p>Чаще всего — распоряжение без идентификатора государственного контракта (ИГК) и платёж по направлению, которого нет в утверждённых сведениях об операциях. Оба устраняются на этапе подготовки платежа.</p></details><details><summary>С чего начать?</summary><p>Оставьте заявку — эксперт перезвонит в течение часа в рабочее время (9:00–21:00 МСК), проверит, попадает ли контракт ООО под сопровождение, и подтвердит срок и договор. Анализ контракта — до подписания договора, по NDA.</p></details></div>
+    <div class="faq"><details open><summary>Нужно ли ООО казначейское сопровождение?</summary><p>Да, если расчёты общества попадают под основания статьи 5 закона о бюджете: аванс по контракту от 100 млн ₽, контракт с единственным поставщиком или по ГОЗ свыше 3 млн ₽, субсидии и бюджетные инвестиции независимо от суммы, договоры соисполнителей свыше 3 млн ₽. Без открытого счёта 71 такие деньги ООО не перечислят.</p></details>
+      <details><summary>Сколько стоит казначейское сопровождение для ООО?</summary><p>Фиксированно по этапу: резерв счёта — 25 000 ₽, открытие — 35 000 ₽, контракт с постоплатой — 65 000 ₽ до закрытия, контракт с авансом или ГОЗ — 105 000 ₽ в месяц без лимита операций. Цена записывается в договоре.</p></details>
+      <details><summary>Какие документы нужны от ООО?</summary><p>Контракт или соглашение, ИНН и ОГРН, данные и СНИЛС директора, доступ к учётной системе, договоры с поставщиками. Карточку контракта, доверенность и Сводный реестр готовим сами; карточка образцов подписей не требуется.</p></details>
+      <details><summary>Чем казначейский счёт ООО отличается от расчётного?</summary><p>Расчётным счётом общество распоряжается свободно; по лицевому счёту 71 каждый платёж проходит санкционирование — Казначейство проверяет целевой характер расхода и документы, а тратить можно только по направлениям сведений об операциях.</p></details>
+      <details><summary>Может ли бухгалтер ООО вести сопровождение сам?</summary><p>Может — после подготовки: за 9 академических часов на ваших контрактах учим открывать счёт, формировать сведения и проводить платежи без возвратов — <a href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/">обучение казначейскому сопровождению</a>, 150 000 ₽.</p></details>
+      <details><summary>Работаете с ООО из регионов?</summary><p>Да, со всеми регионами дистанционно: документооборот с Казначейством электронный через «Электронный бюджет», присутствие директора не требуется.</p></details></div>
   </div>
 </section>
 
@@ -469,33 +419,32 @@
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Заявка</div>
-      <h2 class="v2-section-title">Рассчитаем стоимость для вашего ООО</h2>
-      <p class="v2-section-lede">Оставьте контакты — эксперт перезвонит в течение часа в рабочее время (9:00–21:00 МСК), проверит, попадает ли ваш контракт под сопровождение, и назовёт точную цену. NDA — до анализа документов.</p>
+      <h2 class="v2-section-title">Рассчитаем стоимость <em>для вашего ООО</em></h2>
+      <p class="v2-section-lede">Опишите контракт или субсидию — перезвоним в течение часа в рабочее время (9:00–21:00 МСК), проверим основание и подтвердим тариф. Цена фиксируется в договоре.</p>
     </div>
     <div style="max-width:520px;margin:0 auto">
       <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="kaznacheyskoe-soprovozhdenie-dlya-ooo-cta">
         <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
         <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
+        <textarea class="fld" name="message" placeholder="Комментарий: сумма контракта, аванс, ГОЗ или 44-ФЗ (необязательно)" rows="2" maxlength="3000"></textarea>
         <input class="hp" name="kz_note" tabindex="-1" autocomplete="off" aria-hidden="true">
         <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-        <button class="submit" type="submit">Оставить заявку →</button>
+        <button class="submit" type="submit">Отправить заявку →</button>
         <div class="formmsg" id="formMsgBottom" hidden></div>
-        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA по запросу</span></div>
+        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA до документов</span></div>
         <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
           <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
           <h3>Заявка принята</h3>
-          <p>Эксперт перезвонит <b>в течение часа</b> (9:00–21:00 МСК).</p>
+          <p>Эксперт свяжется <b>в течение часа</b> в рабочее время (пн–пт, 9:00–19:00 МСК).</p>
         </div>
       </form>
+      <p style="text-align:center;margin:18px 0 0;font-size:15px;color:#5F5A52">Телефон <a href="tel:+79818331010" style="color:#8B6F47">+7 981 833-10-10</a> · <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener" style="color:#8B6F47">Telegram</a> · <a href="https://wa.me/+79818331010" target="_blank" rel="noopener" style="color:#8B6F47">WhatsApp</a></p>
     </div>
   </div>
 </section>
 
 </div>
 
-
-<!-- uniq-kogda-ooo-porogi -->
-<section style="padding:48px 0;background:#FBF9F4"><div style="max-width:820px;margin:0 auto;padding:0 22px"><h2 style="font-size:28px;margin:0 0 6px">Когда ООО попадает под казначейское сопровождение: пороги 2026</h2><table style="width:100%;border-collapse:collapse;margin:8px 0 0"><caption style="text-align:left;font-size:13px;color:#7A7263;font-style:italic;padding:0 0 10px">Случаи и пороги на 2026 год (ст. 5 закона о федеральном бюджете)</caption><tr><th style="text-align:left;padding:12px 14px;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;border-bottom:2px solid #8B6F47">Случай</th><th style="text-align:left;padding:12px 14px;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;border-bottom:2px solid #8B6F47">Порог</th></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-size:15px;vertical-align:top;font-weight:600">Аванс по государственному контракту (общее правило, кроме гособоронзаказа)</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-size:15px;vertical-align:top;">контракт на сумму от 100 млн ₽ (п. 5 ч. 2 ст. 5)</td></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-size:15px;vertical-align:top;font-weight:600">Авансы по контрактам федеральных бюджетных и автономных учреждений за счёт субсидий</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-size:15px;vertical-align:top;">контракт на сумму от 10 млн ₽ (п. 6 ч. 2 ст. 5)</td></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-size:15px;vertical-align:top;font-weight:600">Отдельные случаи: единственный поставщик, гособоронзаказ, субподряд</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-size:15px;vertical-align:top;">свыше 3 млн ₽ — ровно 3 млн ₽ под порог не попадает (пп. 7–9 ч. 2 ст. 5)</td></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-size:15px;vertical-align:top;font-weight:600">Субсидии, гранты, бюджетные инвестиции</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-size:15px;vertical-align:top;">независимо от суммы</td></tr></table><p style="margin:14px 0 0;font-size:16px;color:#3A3A3A">Берём контракты любого масштаба — от небольших договоров до крупных с авансом; опыт в системе Федерального казначейства — с 2009 года. Каждый ведём под ключ, с фиксированной ценой и договором.</p></div></section>
 <section class="trust" aria-label="Проверка в реестрах">
   <div class="trust__box">
     <div class="trust__lead"><b>Проверьте нас в открытых реестрах</b>ИП Михайлов Я.А. · ИНН 781428314589 · ОГРНИП 321784700367672</div>
@@ -508,7 +457,6 @@
 </section>
 
 <script>
-/* обработчик нижней лид-формы (#leadFormBottom); верхнюю #leadForm обслуживает общий скрипт страницы */
 (function(){
   var f=document.getElementById('leadFormBottom'); if(!f) return;
   var msg=document.getElementById('formMsgBottom'), ok=document.getElementById('leadSuccessBottom');
@@ -521,7 +469,7 @@
     if(!/\d[\s\d().-]*\d{3}/.test(phone)||phone.replace(/\D/g,'').length<10){show('Проверьте телефон');return;}
     if(!f.consent.checked){show('Подтвердите согласие');return;}
     var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';
-    fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})})
+    fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,message:(f.message&&f.message.value||'').trim(),consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})})
       .then(function(r){ if(!r.ok) throw 0; return r; })
       .then(function(){
         [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; });
@@ -534,14 +482,13 @@
 </script>
 
 
-
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
 
           <div class="v2-footer-cta">
             <div class="v2-footer-cta-lead">
               <span class="v2-footer-cta-eyebrow">Готовы начать</span>
-              <p class="v2-footer-cta-title">Возьмём казначейское сопровождение вашего ООО <em>под ключ</em></p>
+              <p class="v2-footer-cta-title">Откроем казначейский счёт <em>за два рабочих дня</em></p>
             </div>
             <div class="v2-footer-cta-actions">
               <a href="/#contacts" class="v2-footer-cta-btn">Оставить заявку</a>
@@ -688,7 +635,7 @@
     if(form.name.value.trim().length<2||form.phone.value.replace(/\D/g,'').length<10){show('Проверьте имя и телефон');return;}
     var DEMO=false;
     var btn=form.querySelector('.submit'),orig=btn.textContent;btn.disabled=true;btn.textContent='Отправляем…';
-    var data={phone:form.phone.value.trim(),source:SRC,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+SRC+')',consent_at:new Date().toISOString(),page_url:location.href,name:form.name.value.trim()};
+    var data={phone:form.phone.value.trim(),source:SRC,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+SRC+')',consent_at:new Date().toISOString(),page_url:location.href,name:form.name.value.trim(),message:(form.message&&form.message.value||'').trim()};
     fetch(form.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)})
       .then(function(r){if(!r.ok)throw 0;return r;}).then(succeed).catch(function(){if(DEMO){succeed();}else{fail();}});
     function succeed(){[].forEach.call(form.children,function(el){if(el!==ok)el.style.display='none';});ok.classList.add('on');try{window.ym&&ym(94305898,'reachGoal','lead',{source:SRC});}catch(e){}}

@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Аутсорсинг казначейского сопровождения: что входит, цены</title>
-<meta name="description" content="Аутсорсинг казначейского сопровождения: весь цикл — счёт, санкционирование, раздельный учёт, отчётность. Фиксированная цена, гарантия в договоре. Вся Россия.">
+<title>Аутсорсинг казначейского сопровождения вместо штатного специалиста</title>
+<meta name="description" content="Казначейский контур внешней командой: счёт 71, «Электронный бюджет», сведения, санкционирование, учёт. Платите за этап, а не за оклад: 65 000 ₽ или 105 000 ₽/мес.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
@@ -24,21 +24,36 @@
 <!-- ╚════════════════════════════════════════════════════════════════════════════╝ -->
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"landing", cluster:"uslugi"};</script>
+
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": ["https://kaznaexpert.ru/img/og/uslugi__autsorsing-kaznacheyskogo-soprovozhdeniya-16x9.jpg", "https://kaznaexpert.ru/img/og/uslugi__autsorsing-kaznacheyskogo-soprovozhdeniya-4x3.webp", "https://kaznaexpert.ru/img/og/uslugi__autsorsing-kaznacheyskogo-soprovozhdeniya-1x1.webp"], "datePublished": "2026-06-26", "dateModified": "2026-09-09", "name": "Аутсорсинг казначейского сопровождения", "serviceType": "Аутсорсинг казначейского сопровождения государственных контрактов (44-ФЗ, 223-ФЗ, гособоронзаказ)", "description": "Аутсорсинг казначейского сопровождения под ключ: открытие и ведение казначейского счёта, настройка «Электронного бюджета», санкционирование платежей, раздельный учёт целевых средств, отчётность и сопровождение проверок. Фиксированные цены, гарантия в договоре, вся Россия.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "url": "https://kaznaexpert.ru/uslugi/autsorsing-kaznacheyskogo-soprovozhdeniya/", "hasOfferCatalog": {"@type": "OfferCatalog", "name": "Тарифы казначейского сопровождения", "itemListElement": [{"@type": "Offer", "name": "Резерв казначейского счёта к дате тендера", "price": "25000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/rezervirovanie-scheta/"}, {"@type": "Offer", "name": "Открытие казначейского счёта под ключ", "price": "35000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/otkrytie-scheta/"}, {"@type": "Offer", "name": "Контракт с постоплатой под ключ", "price": "65000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-postoplata/"}, {"@type": "Offer", "name": "Контракт с авансом под ключ", "price": "105000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/soprovozhdenie-avans/"}]}, "offers": {"@type": "AggregateOffer", "lowPrice": "65000", "highPrice": "105000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "url": "https://kaznaexpert.ru/uslugi/autsorsing-kaznacheyskogo-soprovozhdeniya/", "description": "Сопровождение постоплаты 65 000 ₽, сопровождение контракта с авансом и ГОЗ 105 000 ₽/мес", "priceValidUntil": "2026-12-31"}}
+{"@context": "https://schema.org", "@type": ["Service", "Product"], "brand": {"@type": "Brand", "name": "КазнаЭксперт"}, "image": ["https://kaznaexpert.ru/img/og/uslugi__autsorsing-kaznacheyskogo-soprovozhdeniya-16x9.jpg", "https://kaznaexpert.ru/img/og/uslugi__autsorsing-kaznacheyskogo-soprovozhdeniya-4x3.webp", "https://kaznaexpert.ru/img/og/uslugi__autsorsing-kaznacheyskogo-soprovozhdeniya-1x1.webp"], "datePublished": "2026-06-26", "dateModified": "2026-09-09", "name": "Аутсорсинг казначейского сопровождения", "serviceType": "Передача полного цикла казначейского сопровождения контрактов внешней команде: счёт, «Электронный бюджет», сведения, санкционирование, раздельный учёт, отчётность", "description": "Аутсорсинг казначейского сопровождения: команда с практикой Федерального казначейства ведёт лицевые счета, сведения об операциях, санкционирование платежей, раздельный учёт и отчётность по всем контрактам компании. Оплата по этапу контракта, непрерывность ведения и ответственность по договору вместо оклада штатного специалиста.", "provider": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "telephone": "+7-981-833-10-10", "logo": "https://kaznaexpert.ru/img/logogold.png", "@id": "https://kaznaexpert.ru/#organization"}, "areaServed": {"@type": "Country", "name": "Россия"}, "offers": {"@type": "Offer", "price": "65000", "priceCurrency": "RUB", "availability": "https://schema.org/InStock", "description": "Аутсорсинг сопровождения контракта с постоплатой, разово; с авансом и по ГОЗ — 105 000 ₽ в месяц", "url": "https://kaznaexpert.ru/uslugi/autsorsing-kaznacheyskogo-soprovozhdeniya/", "priceValidUntil": "2026-12-31"}, "url": "https://kaznaexpert.ru/uslugi/autsorsing-kaznacheyskogo-soprovozhdeniya/"}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Аутсорсинг казначейского сопровождения"}]}
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "Услуги", "item": "https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie/"}, {"@type": "ListItem", "position": 3, "name": "Аутсорсинг сопровождения", "item": "https://kaznaexpert.ru/uslugi/autsorsing-kaznacheyskogo-soprovozhdeniya/"}]}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что такое аутсорсинг казначейского сопровождения?", "acceptedAnswer": {"@type": "Answer", "text": "Это передача всего цикла казначейского сопровождения внешнему эксперту: открытие и ведение казначейского счёта, настройка «Электронного бюджета», санкционирование платежей, раздельный учёт целевых средств и отчётность. Вы не держите штатного специалиста — за результат отвечает подрядчик по договору."}}, {"@type": "Question", "name": "Что входит в аутсорсинг казначейского сопровождения?", "acceptedAnswer": {"@type": "Answer", "text": "Полный цикл: открытие и ведение счёта, доступы и «Электронный бюджет», подготовка распоряжений и сведений, санкционирование платежей, раздельный учёт целевых средств, формирование и сдача отчётности, контроль сроков и сопровождение проверок казначейства."}}, {"@type": "Question", "name": "Чем аутсорсинг выгоднее штатного специалиста?", "acceptedAnswer": {"@type": "Answer", "text": "Штатный специалист — это оклад и взносы 120–180 тыс ₽ в месяц круглый год, плюс риск простоя при отпуске или увольнении. На аутсорсинге вы платите за результат по этапу контракта, получаете непрерывность ведения и гарантию в договоре."}}, {"@type": "Question", "name": "Сколько стоит аутсорсинг казначейского сопровождения?", "acceptedAnswer": {"@type": "Answer", "text": "Цена фиксированная и зависит от этапа: резерв счёта — 25 000 ₽, открытие — 35 000 ₽, контракт с постоплатой под ключ — 65 000 ₽, контракт с авансом — 105 000 ₽/мес. Контракты по гособоронзаказу ведём по тарифу с авансом и ГОЗ — 105 000 ₽/мес. Цена фиксируется в договоре."}}, {"@type": "Question", "name": "Кто несёт ответственность при аутсорсинге?", "acceptedAnswer": {"@type": "Answer", "text": "Объём работ, сроки и стоимость прописаны в договоре. Замечания казначейства устраняем без доплат — это входит в услугу. Работаем по NDA, документы и доступы не передаём третьим лицам."}}, {"@type": "Question", "name": "Можно передать только часть функций?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Можно отдать весь цикл или отдельный блок — например, только санкционирование платежей или только раздельный учёт и отчётность. Объём фиксируем в договоре."}}, {"@type": "Question", "name": "Подходит ли аутсорсинг для гособоронзаказа?", "acceptedAnswer": {"@type": "Answer", "text": "Да. Ведём гособоронзаказ по 275-ФЗ: отдельный счёт, расширенный режим контроля и раздельный учёт. Для гособоронзаказа применяется отдельная смета."}}, {"@type": "Question", "name": "С чего начать?", "acceptedAnswer": {"@type": "Answer", "text": "Оставьте заявку — эксперт перезвонит в течение часа в рабочее время (9:00–21:00 МСК), разберёт ваши контракты и назовёт точную цену ведения. Анализ — до подписания договора, по NDA."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что такое аутсорсинг казначейского сопровождения?", "acceptedAnswer": {"@type": "Answer", "text": "Передача полного цикла казначейского сопровождения внешней команде: счета, «Электронный бюджет», сведения, санкционирование платежей, раздельный учёт и отчётность. Вы не держите штатного специалиста — за результат отвечает подрядчик по договору."}}, {"@type": "Question", "name": "Чем аутсорсинг выгоднее штатного специалиста?", "acceptedAnswer": {"@type": "Answer", "text": "Штатный специалист — оклад, взносы и рабочее место круглый год, а также отпуска и увольнения, в которые платежи стоят. На аутсорсинге платите за этап контракта, получаете непрерывность ведения командой и ответственность по договору."}}, {"@type": "Question", "name": "Сколько стоит аутсорсинг?", "acceptedAnswer": {"@type": "Answer", "text": "Фиксированно по этапу: резерв счёта — 25 000 ₽, открытие — 35 000 ₽, контракт с постоплатой — 65 000 ₽ до закрытия, контракт с авансом или ГОЗ — 105 000 ₽ в месяц без лимита операций. Цена записывается в договоре."}}, {"@type": "Question", "name": "Кто несёт ответственность?", "acceptedAnswer": {"@type": "Answer", "text": "Объём работ, сроки и стоимость прописаны в договоре; замечания Казначейства устраняем без доплат. Работаем по NDA, доступы и документы третьим лицам не передаём."}}, {"@type": "Question", "name": "Можно передать только часть функций?", "acceptedAnswer": {"@type": "Answer", "text": "Да: весь цикл или отдельный блок — например, только санкционирование или только раздельный учёт и отчётность. Объём фиксируем в договоре."}}, {"@type": "Question", "name": "Подходит ли аутсорсинг для гособоронзаказа?", "acceptedAnswer": {"@type": "Answer", "text": "Да: контракты ГОЗ ведём по тарифу «аванс и ГОЗ» — 105 000 ₽ в месяц: ИГК в документах, раздельный учёт по постановлению № 47, отчётность по контракту. Расчётно-калькуляционные материалы — отдельная услуга."}}, {"@type": "Question", "name": "С чего начать?", "acceptedAnswer": {"@type": "Answer", "text": "Оставьте заявку — перезвоним в течение часа в рабочее время (9:00–21:00 МСК), разберём контракты и подтвердим тариф по каждому. Аудит контрактов — до подписания договора, по NDA."}}]}
 </script>
 
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-normal-400-cyrillic.woff2" crossorigin>
 <link rel="preload" as="font" type="font/woff2" href="/fonts/playfairdisplay-normal-500-cyrillic.woff2" crossorigin>
 <style id="fonts-crit">/* критические @font-face (кириллица, выше первого экрана): H1 Playfair 500 + body Inter 400. Остальные начертания — из fonts.css (async). */
 @font-face{font-family:'Inter';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/inter-normal-400-cyrillic.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
-@font-face{font-family:'Playfair Display';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/playfairdisplay-normal-500-cyrillic.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}</style>
+@font-face{font-family:'Playfair Display';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/playfairdisplay-normal-500-cyrillic.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+.lp2-answer{background:#FFFDF8;border:1px solid #E4DDD0;border-left:3px solid #A8844A;border-radius:8px;padding:16px 20px;margin:0 0 24px;font-size:17px;line-height:1.6}
+.lp2-answer p{margin:0}
+.lp2-block{max-width:900px;margin:0 auto}
+.lp2-block p{font-size:17px;line-height:1.68;margin:0 0 16px}
+.lp2-table{width:100%;border-collapse:collapse;margin:8px 0 20px;font-size:16px;border-top:2px solid #8B6F47}
+.lp2-table caption{caption-side:top;text-align:left;font-size:14px;color:#7A7263;font-style:italic;padding:0 0 12px}
+.lp2-table th,.lp2-table td{padding:12px 16px;text-align:left;vertical-align:top;border-bottom:1px solid #E4DDD0;line-height:1.5}
+.lp2-table th{font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;font-weight:600}
+.lp2-list{margin:0 0 18px;padding-left:22px}
+.lp2-list li{margin:0 0 10px;line-height:1.6;font-size:17px}
+.lp2-note{font-size:15px;color:#5F5A52;line-height:1.6;border-top:1px solid #E4DDD0;padding-top:14px;margin-top:6px}
+.lp2-note a{color:#8B6F47}
+@media(max-width:680px){.lp2-table{font-size:15px}.lp2-table th,.lp2-table td{padding:10px 10px}.lp2-block p,.lp2-list li{font-size:16px}}
+</style>
 <link rel="preload" href="/css/fonts.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/fonts.css') ?>" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/css/fonts.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/fonts.css') ?>"></noscript>
 <style id="v2-crit">/* critical: v2-шапка (above-the-fold); полный v2.css грузится асинхронно */
@@ -65,30 +80,25 @@
 <link rel="preload" href="/css/v2.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/v2.css') ?>" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/css/v2.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/v2.css') ?>"></noscript>
 
-<meta property="og:type" content="article">
+<meta property="og:type" content="website">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Аутсорсинг казначейского сопровождения — под ключ, цены">
-<meta property="og:description" content="Передайте весь блок эксперту вместо штатного специалиста: счёт, платежи, раздельный учёт, отчётность. 15 лет в Казначействе, гарантия в договоре.">
+<meta property="og:title" content="Аутсорсинг казначейского сопровождения">
+<meta property="og:description" content="Весь казначейский контур внешней командой вместо штатного специалиста: платите за этап контракта — 65 000 ₽ за постоплату, 105 000 ₽/мес с авансом. Результат по договору.">
 <meta property="og:url" content="https://kaznaexpert.ru/uslugi/autsorsing-kaznacheyskogo-soprovozhdeniya/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og/uslugi__autsorsing-kaznacheyskogo-soprovozhdeniya-16x9.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Аутсорсинг казначейского сопровождения — КазнаЭксперт">
-<meta property="article:published_time" content="2026-06-26T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-09-09T09:00:00+03:00">
+<meta property="article:published_time" content="2026-06-25T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-09T10:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Аутсорсинг казначейского сопровождения">
-<meta name="twitter:description" content="Весь цикл на эксперте: счёт, санкционирование, раздельный учёт, отчётность. Дешевле штатного специалиста. Вся Россия.">
+<meta name="twitter:description" content="Весь казначейский контур внешней командой вместо штатного специалиста: платите за этап контракта — 65 000 ₽ за постоплату, 105 000 ₽/мес с авансом. Результат по договору.">
 <meta name="twitter:image" content="https://kaznaexpert.ru/img/og/uslugi__autsorsing-kaznacheyskogo-soprovozhdeniya-16x9.jpg">
 
-<!-- Schema: Article -->
-<!-- Schema: HowTo -->
-<!-- Schema: FAQPage -->
-<!-- Schema: BreadcrumbList -->
-<!-- Schema: DefinedTermSet (глоссарий — для entity-распознавания AI) -->
 <link rel="stylesheet" href="/css/landing-shared.css?v=<?= @filemtime($_SERVER['DOCUMENT_ROOT'].'/css/landing-shared.css') ?>">
 </head>
 <body>
@@ -143,43 +153,65 @@
 
 <div class="v2">
 
-<style>@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}</style>
+<style>@media (min-width:901px){.v2 .v2-process-grid.lp-3col,.v2 .v2-tariffs-grid.lp-3col{grid-template-columns:repeat(3,1fr)}}
+.railform textarea.fld{resize:vertical;min-height:64px;line-height:1.45}
+.v2 .lp2-risk{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin:28px 0 0}
+.v2 .lp2-risk div{padding:16px 18px;border:1px solid #E4DDD0;border-left:3px solid #A8844A;background:#FFFDF8;font-size:15px;line-height:1.5}
+.v2 .lp2-risk b{display:block;font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:#8B6F47;margin-bottom:6px}
+.v2 .lp2-price{display:flex;flex-wrap:wrap;align-items:baseline;gap:10px 22px;margin:22px 0 0;padding:18px 0 0;border-top:1px solid #E4DDD0}
+.v2 .lp2-price b{font-family:var(--font-display);font-weight:500;font-size:34px;letter-spacing:-.02em}
+.v2 .lp2-price span{color:#5F5A52;font-size:15px}
+.v2 .lp2-scen{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
+.v2 .lp2-scen article{padding:22px 24px;background:var(--paper);border:1px solid var(--hair-strong)}
+.v2 .lp2-scen h3{font-family:var(--font-display);font-weight:500;font-size:20px;margin:0 0 10px;letter-spacing:-.01em}
+.v2 .lp2-scen p{margin:0;font-size:16px;line-height:1.6;color:#3A3A3A}
+.v2 .lp2-scen p b{color:#1A1A1A}
+@media(max-width:920px){.v2 .lp2-risk{grid-template-columns:repeat(2,1fr)}.v2 .lp2-scen{grid-template-columns:1fr}}
+@media(max-width:560px){.v2 .lp2-risk{grid-template-columns:1fr}.v2 .lp2-price b{font-size:28px}}
+</style>
 
 <section class="v2-hero">
   <div class="v2-container">
-    <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › Аутсорсинг казначейского сопровождения</nav>
+    <nav class="crumbs" aria-label="Хлебные крошки"><a href="/">Главная</a> › <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">Услуги</a> › Аутсорсинг сопровождения</nav>
     <div class="v2-hero-grid">
       <div class="v2-hero-main">
         <div class="v2-hero-eyebrow-row">
-          <span class="v2-eyebrow">Аутсорсинг · полное ведение</span>
+          <span class="v2-eyebrow">Услуга · аутсорсинг · вместо штатного специалиста</span>
           <span class="v2-hero-eyebrow-dash" aria-hidden="true"></span>
         </div>
-        <h1>Аутсорсинг <em>казначейского сопровождения</em></h1>
+        <h1>Аутсорсинг казначейского сопровождения — <em>вместо штатного специалиста</em></h1>
 <a href="/#reviews" class="v2-reviews-link">Отзывы клиентов →</a>
-        <p class="v2-hero-lede"><strong>Аутсорсинг казначейского сопровождения</strong> — это передача всего цикла работ внешнему эксперту: открытие казначейского счёта, настройка «Электронного бюджета», санкционирование платежей, раздельный учёт целевых средств и отчётность. Вы не нанимаете штатного специалиста и не осваиваете матчасть — контракт ведём мы и отвечаем за результат договором. По всей России, удалённо.</p>
-        <div class="v2-hero-trust"><div class="v2-trust-item"><div class="v2-trust-num v2-trust-price">65 000 ₽</div><div class="v2-trust-label">постоплата · 105 000 ₽/мес с авансом</div></div><div class="v2-trust-item"><div class="v2-trust-num">90<span class="v2-trust-suffix">&nbsp;млрд&nbsp;₽</span></div><div class="v2-trust-label">прошло через счета</div></div><div class="v2-trust-item"><div class="v2-trust-num">15<span class="v2-trust-suffix">+ лет</span></div><div class="v2-trust-label">в Казначействе</div></div><div class="v2-trust-item"><div class="v2-trust-num">Вся<span class="v2-trust-suffix">&nbsp;РФ</span></div><div class="v2-trust-label">работаем удалённо</div></div></div>
+        <p class="v2-hero-lede"><strong>Держать сотрудника ради одного-двух контрактов невыгодно: оклад, взносы, рабочее место круглый год, а в отпуске платежи стоят.</strong> Передаёте казначейский контур нам — счета, «Электронный бюджет», сведения, каждый платёж, раздельный учёт, отчётность — и платите за этап контракта. Непрерывность и результат отвечаем договором.</p>
+        <div class="lp2-risk">
+          <div><b>Снимаем риск</b>Один специалист на все контракты: отпуск или увольнение — платежи стоят</div>
+          <div><b>Снимаем риск</b>Возвраты, на которых штатный сотрудник учится за ваш счёт</div>
+          <div><b>Снимаем риск</b>Оклад и взносы круглый год при двух контрактах в году</div>
+          <div><b>Снимаем риск</b>Штраф за раздельный учёт из-за «не успели»</div>
+        </div>
+        <div class="lp2-price"><b>65 000 ₽</b><span>Контракт с постоплатой, разово</span><span>С авансом и ГОЗ — 105 000 ₽/мес</span><span>Без лимита операций, замена внутри команды</span></div>
         <div class="v2-hero-expert">
           <div class="v2-expert-name">Михайлов Ярослав</div>
           <div class="v2-expert-role">Эксперт · 15 лет в Казначействе</div>
-          <p class="v2-expert-quote">«Держать штатного казначейского специалиста ради одного-двух контрактов невыгодно. На аутсорсинге вы платите за результат по этапу, а не за оклад и взносы круглый год».</p>
+          <p class="v2-expert-quote">«На аутсорсинге вы платите за результат по этапу, а не за оклад и взносы круглый год. И у нас нет отпуска, в который встанут ваши платежи, — контракт ведёт команда».</p>
         </div>
       </div>
       <aside class="v2-hero-action">
-        <div class="v2-hero-action-eyebrow">Экспертный анализ контракта</div>
+        <div class="v2-hero-action-eyebrow">Заявка</div>
         <h2>Рассчитаем стоимость аутсорсинга</h2>
-        <p class="v2-hero-action-sub">Оставьте контакты — эксперт перезвонит в течение часа в рабочее время (9:00–21:00 МСК), разберёт ваши контракты и назовёт точную цену ведения. NDA — до анализа документов.</p>
+        <p class="v2-hero-action-sub">Расскажите, сколько контрактов и в каком режиме — перезвоним в течение часа в рабочее время (9:00–21:00 МСК) и подтвердим тариф по каждому. NDA — до передачи документов.</p>
         <form class="railform" id="leadForm" novalidate data-endpoint="/php/lead.php" data-source="autsorsing-kaznacheyskogo-soprovozhdeniya">
           <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
           <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
+          <textarea class="fld" name="message" placeholder="Комментарий: сколько контрактов, аванс или постоплата, есть ли ГОЗ (необязательно)" rows="2" maxlength="3000"></textarea>
           <input class="hp" name="kz_note" tabindex="-1" autocomplete="off" aria-hidden="true">
           <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-          <button class="submit" type="submit">Оставить заявку →</button>
+          <button class="submit" type="submit">Отправить заявку →</button>
           <div class="formmsg" id="formMsg" hidden></div>
-          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA по запросу</span></div>
+          <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA до документов</span></div>
           <div class="success" id="leadSuccess" role="status" aria-live="polite">
             <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
             <h3>Заявка принята</h3>
-            <p>Эксперт перезвонит <b>в течение часа</b> (9:00–21:00 МСК) и разберёт ваш контракт.</p>
+            <p>Эксперт свяжется <b>в течение часа</b> в рабочее время (пн–пт, 9:00–19:00 МСК) и разберёт ваш контракт.</p>
             <p>Срочно — <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener">Telegram</a> или <a href="tel:+79818331010">+7 (981) 833-10-10</a>.</p>
           </div>
         </form>
@@ -193,75 +225,54 @@
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Для кого</div>
-      <h2 class="v2-section-title">Кому подходит <em>аутсорсинг сопровождения</em></h2>
-      <p class="v2-section-lede">Аутсорсинг выгоден, когда казначейское сопровождение нужно регулярно, но держать штатного специалиста ради него нерационально.</p>
+      <h2 class="v2-section-title">Кому подходит <em>аутсорсинг</em></h2>
+      <p class="v2-section-lede">Четыре ситуации, в которых внешняя команда выгоднее штатной ставки.</p>
     </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Нет своего специалиста</h3><p class="v2-process-desc">В штате нет человека, который знает санкционирование, сведения и раздельный учёт. Передайте весь блок эксперту, а не учите бухгалтера.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Несколько контрактов под сопровождением</h3><p class="v2-process-desc">Сразу несколько контрактов с казначейским счётом — ведём их параллельно, без перегрузки вашей бухгалтерии.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Были отказы и возвраты</h3><p class="v2-process-desc">Казначейство возвращало документы и отказывало в санкционировании. Забираем ведение и закрываем причины отказов.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Дорого держать штат</h3><p class="v2-process-desc">Оклад казначейского специалиста и взносы — 120–180 тыс ₽ в месяц. На аутсорсинге платите за результат по этапу контракта.</p></article></div>
+    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Один-два контракта в год</h3><p class="v2-process-desc">Специалист нужен три месяца, а зарплату получает двенадцать. Платите за этап контракта — и только когда он есть.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Нет специалиста по Казначейству</h3><p class="v2-process-desc">Бухгалтерия ведёт налоги и зарплату; сведения, распоряжения и протоколы отказов — не её профиль. Закрываем этот контур целиком.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Специалист уволился или в отпуске</h3><p class="v2-process-desc">Контракт нельзя поставить на паузу. Подхватываем в день обращения, разбираем текущее состояние, ведём дальше.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Несколько контрактов в разных режимах</h3><p class="v2-process-desc">Аванс, постоплата, ГОЗ, субсидия — у каждого свои правила. Ведём портфель командой, а не одним человеком.</p></article></div>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="pod-kluch">
+<section class="v2-section v2-screen" id="sostav">
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Что входит</div>
-      <h2 class="v2-section-title">Что входит в аутсорсинг <em>казначейского сопровождения</em></h2>
-      <p class="v2-section-lede">Передаёте весь цикл — получаете работающий счёт, проходящие платежи и сданную отчётность под ответственность по договору.</p>
+      <h2 class="v2-section-title">Весь цикл — <em>шесть блоков без лимита операций</em></h2>
+      <p class="v2-section-lede">Можно отдать весь контур или отдельный блок — объём фиксируем в договоре.</p>
     </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Открытие и ведение счёта</h3><p class="v2-process-desc">Открываем казначейский счёт, включаем в сводный реестр и ведём его весь срок контракта.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>«Электронный бюджет» и доступы</h3><p class="v2-process-desc">Оформляем электронную подпись, настраиваем роли и рабочее место в ГИИС, поддерживаем доступы в актуальном состоянии.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Санкционирование платежей</h3><p class="v2-process-desc">Готовим распоряжения и сведения, проводим каждый платёж через казначейский контроль без возвратов.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Раздельный учёт целевых средств</h3><p class="v2-process-desc">Ведём раздельный учёт, распределяем затраты, формируем учётную политику и регистры.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Отчётность</h3><p class="v2-process-desc">Формируем и сдаём сведения об операциях и отчёт о расходах целевых средств в срок.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Контроль сроков и сопровождение проверок</h3><p class="v2-process-desc">Следим за сроками утверждения сведений, отвечаем на запросы казначейства, готовим документы к проверке.</p></article></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="ot-vas">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Что от вас</div>
-      <h2 class="v2-section-title">Что потребуется <em>от вас</em></h2>
-      <p class="v2-section-lede">Минимум вашего участия — передаёте документы, остальное ведём сами.</p>
-    </div>
-    <div class="v2-process-grid"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Контракты</h3><p class="v2-process-desc">Тексты и реквизиты контрактов под сопровождением — для анализа и режима счетов.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Реквизиты организации</h3><p class="v2-process-desc">ИНН, ОГРН и регистрационные данные исполнителя.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>СНИЛС руководителя</h3><p class="v2-process-desc">Для оформления электронной подписи и доступа в «Электронный бюджет».</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Контакт ответственного</h3><p class="v2-process-desc">Один человек для связи — согласуем платежи и держим в курсе.</p></article></div>
+    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Счета и доступы</h3><p class="v2-process-desc">Открытие и ведение лицевых счетов 71, Сводный реестр, подписи и доверенности, «Электронный бюджет».</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Сведения об операциях</h3><p class="v2-process-desc">Формирование, утверждение и изменение сведений под каждый контракт по правилу «не ниже факта».</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Санкционирование</h3><p class="v2-process-desc">Распоряжения и документы-основания по каждому платежу, контроль статуса, разбор отказов и переподача без доплат.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Раздельный учёт</h3><p class="v2-process-desc">Методика, аналитика по контрактам, регистры под проверку — по Порядку № 210н, для ГОЗ по постановлению № 47.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Отчётность и проверки</h3><p class="v2-process-desc">Отчёты по контрактам и соглашениям, сопровождение проверок Казначейства и финконтроля, ответы на запросы.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Соисполнители</h3><p class="v2-process-desc">Счета и платежи цепочки в рамках ваших контрактов, условие о сопровождении и идентификатор в их договорах.</p></article></div>
   </div>
 </section>
 
 <section class="v2-section v2-screen" id="process">
   <div class="v2-container">
     <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Процесс</div>
+      <div class="v2-section-eyebrow">Как устроено</div>
       <h2 class="v2-section-title">Как устроен <em>аутсорсинг</em></h2>
-      <p class="v2-section-lede">Передача ведения занимает дни, а не недели. Дальше работаем на потоке.</p>
+      <p class="v2-section-lede">Подключение за дни, дальше — ежемесячное ведение по регламенту.</p>
     </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">Сегодня · в течение часа</div><h3>Заявка и аудит</h3><p class="v2-process-desc">Перезваниваем в течение часа, разбираем контракты, подписываем договор и NDA, фиксируем стоимость ведения.</p><ul class="v2-process-checks"><li>Договор подписан</li><li>Цена зафиксирована</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">2–3 рабочих дня</div><h3>Приём ведения</h3><p class="v2-process-desc">Открываем или принимаем счета, настраиваем доступы, разбираем текущее состояние и закрываем хвосты.</p><ul class="v2-process-checks"><li>Счета под контролем</li><li>Доступы готовы</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">Весь срок контрактов</div><h3>Ведение на потоке</h3><p class="v2-process-desc">Проводим платежи, ведём раздельный учёт, сдаём отчётность и сопровождаем проверки.</p><ul class="v2-process-checks"><li>Платежи проходят</li><li>Отчётность в срок</li></ul></article></div>
+    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><div class="v2-process-day">Сегодня · в течение часа</div><h3>Аудит контрактов</h3><p class="v2-process-desc">Перезваниваем, смотрим контракты и текущее состояние счетов, определяем режим каждого и тариф; подписываем договор и NDA.</p><ul class="v2-process-checks"><li>Режимы определены</li><li>Договор подписан</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><div class="v2-process-day">Дни 1–3</div><h3>Передача контура</h3><p class="v2-process-desc">Доступы, доверенности, сведения; если счетов нет — открываем; если были возвраты — разбираем.</p><ul class="v2-process-checks"><li>Доступы получены</li><li>Сведения актуальны</li></ul></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><div class="v2-process-day">Весь срок</div><h3>Ведение</h3><p class="v2-process-desc">Платежи, учёт, отчётность, ответы на запросы — по регламенту, с отчётом вам по каждому контракту.</p><ul class="v2-process-checks"><li>Платежи проходят</li><li>Отчёт ежемесячно</li></ul></article></div>
   </div>
 </section>
 
-<section class="v2-section v2-screen" id="riski">
+<section class="v2-section v2-screen" id="nuzhno">
   <div class="v2-container">
     <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Цена ошибки</div>
-      <h2 class="v2-section-title">Чем рискует подрядчик <em>без эксперта</em></h2>
-      <p class="v2-section-lede">Самостоятельное ведение и случайный штатный специалист — частые причины отказов, штрафов и потерянного времени.</p>
+      <div class="v2-section-eyebrow">Что от вас</div>
+      <h2 class="v2-section-title">Что потребуется <em>от вас</em></h2>
     </div>
-    <div class="v2-process-grid lp-3col"><article class="v2-process-step reveal"><div class="v2-process-no">01</div><h3>Отказ в санкционировании</h3><p class="v2-process-desc">Ошибки в распоряжениях и сведениях — казначейство не пропускает платёж, деньги стоят.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">02</div><h3>Просрочка отчётности</h3><p class="v2-process-desc">Нарушение срока утверждения сведений об операциях — ответственность по статье 15.49 КоАП с 2026 года.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">03</div><h3>Штраф за раздельный учёт</h3><p class="v2-process-desc">Нарушение раздельного учёта по гособоронзаказу — состав по статье 7.30.3 КоАП.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">04</div><h3>Стоимость штата</h3><p class="v2-process-desc">Оклад и взносы специалиста круглый год — даже когда активных контрактов под сопровождением нет.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">05</div><h3>Зависимость от одного человека</h3><p class="v2-process-desc">Штатный специалист уволился или заболел — ведение встаёт. Аутсорсинг держит непрерывность.</p></article><article class="v2-process-step reveal"><div class="v2-process-no">06</div><h3>Потерянное время</h3><p class="v2-process-desc">Руководитель и бухгалтер тратят часы на матчасть вместо профильной работы по контракту.</p></article></div>
-    <div class="related-inline"><b>Смежные услуги и разборы</b> <a href="/uslugi/kaznacheyskoe-soprovozhdenie/">→ Казначейское сопровождение под ключ: услуги и цены</a><a href="/uslugi/audit-kaznacheyskogo-soprovozhdeniya/">→ Аудит казначейского сопровождения: второе мнение</a><a href="/baza-znaniy/prichiny-otkaza-kaznacheystva-v-sankcionirovanii/">→ 10 причин отказа казначейства в санкционировании</a></div>
-  </div>
-</section>
-
-<section class="v2-section v2-screen" id="compare">
-  <div class="v2-container">
-    <div class="v2-section-head">
-      <div class="v2-section-eyebrow">Сравнение</div>
-      <h2 class="v2-section-title">Самостоятельно, штатный спец или <em>аутсорсинг</em></h2>
-      <p class="v2-section-lede">Шесть критериев, по которым подрядчики выбирают аутсорсинг казначейского сопровождения.</p>
+    <div class="lp2-block">
+      <table class="lp2-table">
+        <caption>Передача контура — один раз</caption>
+        <thead><tr><th>Что нужно</th><th>Зачем</th></tr></thead>
+        <tbody>
+          <tr><td>Контракты и соглашения по всем сопровождаемым деньгам</td><td>Режимы, идентификаторы, структура сведений</td></tr>
+          <tr><td>Доступ в «Электронный бюджет» и доверенность на сотрудников команды</td><td>Работаем в вашем кабинете от имени организации</td></tr>
+          <tr><td>Доступ к учётной системе</td><td>Раздельный учёт в вашей базе</td></tr>
+          <tr><td>Первичные документы по платежам</td><td>Документы-основания</td></tr>
+          <tr><td>Ответственный на связи</td><td>Согласования и отчёт</td></tr>
+        </tbody>
+      </table>
     </div>
-    <div class="v2-compare" role="table">
-      <div class="v2-compare-head" role="row">
-        <div role="columnheader" class="v2-compare-head-cell">Параметр</div>
-        <div role="columnheader" class="v2-compare-head-cell">Самостоятельно</div>
-        <div role="columnheader" class="v2-compare-head-cell">Штатный спец</div>
-        <div role="columnheader" class="v2-compare-head-cell is-us">С КазнаЭксперт</div>
-      </div>
-      <div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Запуск</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">2–4 недели на освоение</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">1–2 месяца на подбор</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>2–3 рабочих дня</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Риск отказов и возвратов</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Высокий — без опыта</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Зависит от сотрудника</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Минимальный</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Непрерывность ведения</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Зависит от загрузки</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Падает при отпуске/болезни</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Без простоев</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Стоимость</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Ваше время + риск</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">120–180 тыс ₽/мес + взносы</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>25 000 ₽</strong> по этапу</div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Гарантия в договоре</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Нет</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Нет</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>Прописана</strong></div></div><div class="v2-compare-row" role="row"><div role="cell" class="v2-compare-cell v2-compare-param" data-label="Параметр">Ваши затраты времени</div><div role="cell" class="v2-compare-cell" data-label="Самостоятельно">Десятки часов</div><div role="cell" class="v2-compare-cell" data-label="Штатный спец">Контроль сотрудника</div><div role="cell" class="v2-compare-cell is-us" data-label="С КазнаЭксперт"><strong>5 минут</strong></div></div>
-    </div>
-    <div class="v2-compare-cta"><a href="#zayavka">Обсудить ваш контракт <span aria-hidden="true">→</span></a></div>
   </div>
 </section>
 
@@ -269,35 +280,78 @@
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Стоимость</div>
-      <h2 class="v2-section-title">Цены — <em>фиксированные, по этапу контракта</em></h2>
-      <p class="v2-section-lede">Платите за результат по этапу, а не за оклад круглый год. Цена прописана в договоре, без «от» и скрытых доплат.</p>
+      <h2 class="v2-section-title">Цены — фиксированные, <em>по этапу контракта</em></h2>
+      <p class="v2-section-lede">Платите за этап, а не за оклад: каждая цена записывается в договоре и не зависит от числа операций. Оплата — после подписания договора.</p>
     </div>
-    <div class="v2-tariffs-grid lp-3col"><article class="v2-tariff">
+    <div class="v2-tariffs-grid lp-3col"><article class="v2-tariff is-featured">
         <div class="v2-tariff-no">01</div>
-        <div class="v2-tariff-stage">До тендера</div>
-        <h3>Резерв счёта к дате тендера</h3>
-        <p class="v2-tariff-desc">Фиксируем за вами лицевой счёт в УФК до итогов тендера: заказчик получает подтверждение реквизитов, вы стартуете без простоя. Не выиграли — обязательств и расходов нет.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">25 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · к дате тендера</div><a href="/uslugi/rezervirovanie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
-      </article><article class="v2-tariff is-featured">
+        <div class="v2-tariff-stage">Аванс · ГОЗ</div>
+        <h3>Контракт с авансом и ГОЗ</h3>
+        <p class="v2-tariff-desc">Сведения, каждый платёж, ИГК, соисполнители, раздельный учёт, отчётность — до закрытия контракта и вывода прибыли.</p>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">105 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Без лимита операций</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+      </article><article class="v2-tariff">
         <div class="v2-tariff-no">02</div>
-        <div class="v2-tariff-stage">Победа в тендере</div>
-        <h3>Открытие счёта за два дня</h3>
-        <p class="v2-tariff-desc">Забираем контракт в работу с нуля: проверка условий, документы, сводный реестр, счёт в УФК и доступы к «Электронному бюджету» — без погружения вашей команды.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">35 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-stage">Постоплата</div>
+        <h3>Контракт без аванса</h3>
+        <p class="v2-tariff-desc">Сведения, распоряжения по актам и УПД, санкционирование, закрытие счёта — разово до закрытия контракта.</p>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">65 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · до закрытия</div><a href="/uslugi/soprovozhdenie-postoplata/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article><article class="v2-tariff">
         <div class="v2-tariff-no">03</div>
-        <div class="v2-tariff-stage">Постоплата</div>
-        <h3>Контракт с постоплатой под ключ</h3>
-        <p class="v2-tariff-desc">Операционку контракта без аванса ведём мы: платёжки, сведения, раздельный учёт и отчётность — ваша бухгалтерия не тратит время на казначейство.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">65 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · за контракт</div><a href="/uslugi/soprovozhdenie-postoplata/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
-      </article><article class="v2-tariff">
-        <div class="v2-tariff-no">04</div>
-        <div class="v2-tariff-stage">Аванс</div>
-        <h3>Контракт с авансом под ключ</h3>
-        <p class="v2-tariff-desc">Аванс на аутсорсе: санкционирование предоплаты, контроль целевого расходования, отработка и отчёты — от первого платежа до закрытия счёта.</p>
-        <div class="v2-tariff-price"><div class="v2-tariff-price-num">105 000<span class="v2-tariff-price-unit">&nbsp;₽/мес</span></div><div class="v2-tariff-price-note">Под ключ · весь срок</div><a href="/uslugi/soprovozhdenie-avans/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
+        <div class="v2-tariff-stage">Старт</div>
+        <h3>Открытие счёта</h3>
+        <p class="v2-tariff-desc">Лицевой счёт 71 за два рабочих дня: реестр, доверенность, карточка контракта, «Электронный бюджет». Резерв к тендеру — 25 000 ₽.</p>
+        <div class="v2-tariff-price"><div class="v2-tariff-price-num">35 000<span class="v2-tariff-price-unit">&nbsp;₽</span></div><div class="v2-tariff-price-note">Разово · 2 рабочих дня</div><a href="/uslugi/otkrytie-scheta/" class="v2-tariff-link">Подробнее <span aria-hidden="true">→</span></a></div>
       </article></div>
-    <p class="v2-tariffs-footnote">Все цены фиксируются в договоре.</p>
+    <p class="v2-tariffs-footnote">Все цены — на странице <a href="/baza-znaniy/stoimost-kaznacheyskogo-soprovozhdeniya/">«Стоимость казначейского сопровождения»</a>.</p>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="sravnenie">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Сравнение</div>
+      <h2 class="v2-section-title">Своя бухгалтерия, штатный специалист <em>или с нами</em></h2>
+    </div>
+    <div class="lp2-block">
+      <table class="lp2-table">
+        <caption>Три способа закрыть казначейский контур</caption>
+        <thead><tr><th>Критерий</th><th>Своя бухгалтерия</th><th>Штатный специалист</th><th>КазнаЭксперт</th></tr></thead>
+        <tbody>
+          <tr><td>Профиль</td><td>Налоги и зарплата; лицевой счёт — не её работа</td><td>Один человек на все контракты</td><td>Команда с практикой Казначейства</td></tr>
+          <tr><td>Непрерывность</td><td>Отпуск главбуха — платежи стоят</td><td>Отпуск, больничный, увольнение</td><td>Договор, замена внутри команды</td></tr>
+          <tr><td>Отказы казначейства</td><td>Учитесь на своих</td><td>Зависит от опыта</td><td>Проверка до подачи, переподача без доплат</td></tr>
+          <tr><td>Стоимость</td><td>Время и риск штрафов</td><td>Оклад, взносы, рабочее место — круглый год</td><td>65 000 ₽ за контракт или 105 000 ₽/мес с авансом</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="scenarii">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Когда что-то пошло не так</div>
+      <h2 class="v2-section-title">Четыре ситуации — <em>и что делает команда</em></h2>
+    </div>
+    <div class="lp2-scen">
+      <article class="reveal"><h3>Специалист ушёл посреди контракта</h3><p><b>Что делаем:</b> принимаем контур в день обращения: доступы, сведения, зависшие распоряжения; первые платежи — в течение недели.</p></article>
+      <article class="reveal"><h3>Возвраты копятся</h3><p><b>Что делаем:</b> разбираем протоколы, приводим сведения и шаблоны распоряжений в порядок, ставим чек-лист перед подачей.</p></article>
+      <article class="reveal"><h3>Проверка, учёта нет</h3><p><b>Что делаем:</b> восстанавливаем раздельный учёт по первичке — <a href="/uslugi/vosstanovlenie-razdelnogo-ucheta/">99 000 ₽ за контракт</a> — и сопровождаем проверку.</p></article>
+      <article class="reveal"><h3>Нужен только один блок</h3><p><b>Что делаем:</b> берём отдельно санкционирование или отдельно учёт и отчётность; объём и цену фиксируем в договоре.</p></article>
+    </div>
+  </div>
+</section>
+
+<section class="v2-section v2-screen" id="keys">
+  <div class="v2-container">
+    <div class="v2-section-head">
+      <div class="v2-section-eyebrow">Из практики</div>
+      <h2 class="v2-section-title">Как это выглядит <em>на портфеле контрактов</em></h2>
+    </div>
+    <div class="lp2-block">
+      <p>Подрядчик с четырьмя контрактами в двух режимах — два с авансом, два с постоплатой — потерял специалиста по Казначейству за неделю до очередных платежей. Команда приняла контур за два дня: доверенности на сотрудников, доступы, ревизия сведений по каждому контракту; по одному из авансовых сведения пришлось переутвердить. Платежи пошли с четвёртого дня, ежемесячный отчёт по четырём контрактам заменил компании штатную ставку; через полгода два контракта закрыли с выводом прибыли, два остались на сопровождении.</p>
+      <p class="lp2-note">Хотите вести сами — <a href="/uslugi/obuchenie-kaznacheyskomu-soprovozhdeniyu/">обучение казначейскому сопровождению</a>, 150 000 ₽ один раз. Другие кейсы — на странице <a href="/keysy/">«Кейсы»</a>.</p>
+    </div>
   </div>
 </section>
 
@@ -307,7 +361,13 @@
       <div class="v2-section-eyebrow">Вопросы</div>
       <h2 class="v2-section-title">Отвечаем <em>прямо</em></h2>
     </div>
-    <div class="faq"><details open><summary>Что такое аутсорсинг казначейского сопровождения?</summary><p>Это передача всего цикла казначейского сопровождения внешнему эксперту: открытие и ведение казначейского счёта, настройка «Электронного бюджета», санкционирование платежей, раздельный учёт целевых средств и отчётность. Вы не держите штатного специалиста — за результат отвечает подрядчик по договору.</p></details><details><summary>Что входит в аутсорсинг казначейского сопровождения?</summary><p>Полный цикл: открытие и ведение счёта, доступы и «Электронный бюджет», подготовка распоряжений и сведений, санкционирование платежей, раздельный учёт целевых средств, формирование и сдача отчётности, контроль сроков и сопровождение проверок казначейства.</p></details><details><summary>Чем аутсорсинг выгоднее штатного специалиста?</summary><p>Штатный специалист — это оклад и взносы 120–180 тыс ₽ в месяц круглый год, плюс риск простоя при отпуске или увольнении. На аутсорсинге вы платите за результат по этапу контракта, получаете непрерывность ведения и гарантию в договоре.</p></details><details><summary>Сколько стоит аутсорсинг казначейского сопровождения?</summary><p>Цена фиксированная и зависит от этапа: резерв счёта — 25 000 ₽, открытие — 35 000 ₽, контракт с постоплатой под ключ — 65 000 ₽, контракт с авансом — 105 000 ₽/мес. Контракты по гособоронзаказу ведём по тарифу с авансом и ГОЗ — 105 000 ₽/мес. Цена фиксируется в договоре.</p></details><details><summary>Кто несёт ответственность при аутсорсинге?</summary><p>Объём работ, сроки и стоимость прописаны в договоре. Замечания казначейства устраняем без доплат — это входит в услугу. Работаем по NDA, документы и доступы не передаём третьим лицам.</p></details><details><summary>Можно передать только часть функций?</summary><p>Да. Можно отдать весь цикл или отдельный блок — например, только санкционирование платежей или только раздельный учёт и отчётность. Объём фиксируем в договоре.</p></details><details><summary>Подходит ли аутсорсинг для гособоронзаказа?</summary><p>Да. Ведём гособоронзаказ по 275-ФЗ: отдельный счёт, расширенный режим контроля и раздельный учёт. Для гособоронзаказа применяется отдельная смета.</p></details><details><summary>С чего начать?</summary><p>Оставьте заявку — эксперт перезвонит в течение часа в рабочее время (9:00–21:00 МСК), разберёт ваши контракты и назовёт точную цену ведения. Анализ — до подписания договора, по NDA.</p></details></div>
+    <div class="faq"><details open><summary>Что такое аутсорсинг казначейского сопровождения?</summary><p>Передача полного цикла казначейского сопровождения внешней команде: счета, «Электронный бюджет», сведения, санкционирование платежей, раздельный учёт и отчётность. Вы не держите штатного специалиста — за результат отвечает подрядчик по договору.</p></details>
+      <details><summary>Чем аутсорсинг выгоднее штатного специалиста?</summary><p>Штатный специалист — оклад, взносы и рабочее место круглый год, а также отпуска и увольнения, в которые платежи стоят. На аутсорсинге платите за этап контракта, получаете непрерывность ведения командой и ответственность по договору.</p></details>
+      <details><summary>Сколько стоит аутсорсинг?</summary><p>Фиксированно по этапу: резерв счёта — 25 000 ₽, открытие — 35 000 ₽, контракт с постоплатой — 65 000 ₽ до закрытия, контракт с авансом или ГОЗ — 105 000 ₽ в месяц без лимита операций. Цена записывается в договоре.</p></details>
+      <details><summary>Кто несёт ответственность?</summary><p>Объём работ, сроки и стоимость прописаны в договоре; замечания Казначейства устраняем без доплат. Работаем по NDA, доступы и документы третьим лицам не передаём.</p></details>
+      <details><summary>Можно передать только часть функций?</summary><p>Да: весь цикл или отдельный блок — например, только санкционирование или только раздельный учёт и отчётность. Объём фиксируем в договоре.</p></details>
+      <details><summary>Подходит ли аутсорсинг для гособоронзаказа?</summary><p>Да: контракты ГОЗ ведём по тарифу «аванс и ГОЗ» — 105 000 ₽ в месяц: ИГК в документах, раздельный учёт по постановлению № 47, отчётность по контракту. Расчётно-калькуляционные материалы — <a href="/uslugi/sostavlenie-rkm/">отдельная услуга</a>.</p></details>
+      <details><summary>С чего начать?</summary><p>Оставьте заявку — перезвоним в течение часа в рабочее время (9:00–21:00 МСК), разберём контракты и подтвердим тариф по каждому. Аудит контрактов — до подписания договора, по NDA.</p></details></div>
   </div>
 </section>
 
@@ -321,33 +381,32 @@
   <div class="v2-container">
     <div class="v2-section-head">
       <div class="v2-section-eyebrow">Заявка</div>
-      <h2 class="v2-section-title">Рассчитаем стоимость аутсорсинга</h2>
-      <p class="v2-section-lede">Оставьте контакты — эксперт перезвонит в течение часа в рабочее время (9:00–21:00 МСК), разберёт ваши контракты и назовёт точную цену ведения. NDA — до анализа документов.</p>
+      <h2 class="v2-section-title">Рассчитаем стоимость <em>аутсорсинга</em></h2>
+      <p class="v2-section-lede">Расскажите, сколько контрактов и в каком режиме — перезвоним в течение часа в рабочее время (9:00–21:00 МСК). Цена по каждому контракту фиксируется в договоре.</p>
     </div>
     <div style="max-width:520px;margin:0 auto">
       <form class="railform" id="leadFormBottom" novalidate data-endpoint="/php/lead.php" data-source="autsorsing-kaznacheyskogo-soprovozhdeniya-cta">
         <input class="fld" name="name" placeholder="Имя" required minlength="2" maxlength="80" autocomplete="name">
         <input class="fld" name="phone" type="tel" placeholder="+7 (___) ___-__-__" required autocomplete="tel" inputmode="tel">
+        <textarea class="fld" name="message" placeholder="Комментарий: сумма контракта, аванс, ГОЗ или 44-ФЗ (необязательно)" rows="2" maxlength="3000"></textarea>
         <input class="hp" name="kz_note" tabindex="-1" autocomplete="off" aria-hidden="true">
         <label class="policy"><input type="checkbox" name="consent" required><span>Согласен с <a href="/privacy/" target="_blank" rel="noopener">политикой обработки данных</a>. Не передаём третьим лицам.</span></label>
-        <button class="submit" type="submit">Оставить заявку →</button>
+        <button class="submit" type="submit">Отправить заявку →</button>
         <div class="formmsg" id="formMsgBottom" hidden></div>
-        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA по запросу</span></div>
+        <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>ИП с 2021 года</b></span><span>Ответ <b>в течение часа</b> · NDA до документов</span></div>
         <div class="success" id="leadSuccessBottom" role="status" aria-live="polite">
           <div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
           <h3>Заявка принята</h3>
-          <p>Эксперт перезвонит <b>в течение часа</b> (9:00–21:00 МСК).</p>
+          <p>Эксперт свяжется <b>в течение часа</b> в рабочее время (пн–пт, 9:00–19:00 МСК).</p>
         </div>
       </form>
+      <p style="text-align:center;margin:18px 0 0;font-size:15px;color:#5F5A52">Телефон <a href="tel:+79818331010" style="color:#8B6F47">+7 981 833-10-10</a> · <a href="https://t.me/Kaznaexpert" target="_blank" rel="noopener" style="color:#8B6F47">Telegram</a> · <a href="https://wa.me/+79818331010" target="_blank" rel="noopener" style="color:#8B6F47">WhatsApp</a></p>
     </div>
   </div>
 </section>
 
 </div>
 
-
-<!-- uniq-etapy-sroki -->
-<section style="padding:48px 0;background:#FBF9F4"><div style="max-width:820px;margin:0 auto;padding:0 22px"><h2 style="font-size:28px;margin:0 0 6px">Этапы аутсорсинга и сроки</h2><table style="width:100%;border-collapse:collapse;margin:8px 0 0"><caption style="text-align:left;font-size:13px;color:#7A7263;font-style:italic;padding:0 0 10px">Что берёт на себя аутсорсер и в какие сроки</caption><tr><th style="text-align:left;padding:12px 14px;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;border-bottom:2px solid #8B6F47">Этап</th><th style="text-align:left;padding:12px 14px;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;border-bottom:2px solid #8B6F47">Что делаем</th><th style="text-align:left;padding:12px 14px;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8B6F47;border-bottom:2px solid #8B6F47">Срок</th></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-size:15px;vertical-align:top;font-weight:600">Анализ контракта</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-size:15px;vertical-align:top;">Проверяем условие о казначейском сопровождении, риски и коды</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-size:15px;vertical-align:top;">1 рабочий день</td></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-size:15px;vertical-align:top;font-weight:600">Открытие лицевого счёта</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-size:15px;vertical-align:top;">Подписываем карточку контракта в «Электронном бюджете» или представляем документ-основание — по ним территориальный орган открывает лицевой счёт; отдельного заявления на открытие Порядок № 44н не предусматривает (сверено по п. 24 Порядка 9 сентября 2026)</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-size:15px;vertical-align:top;">1–2 рабочих дня</td></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-size:15px;vertical-align:top;font-weight:600">Сведения об операциях</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-size:15px;vertical-align:top;">Формируем и утверждаем плановый документ по контракту</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-size:15px;vertical-align:top;">по готовности контракта</td></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-size:15px;vertical-align:top;font-weight:600">Платежи</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-size:15px;vertical-align:top;">Готовим распоряжения и проходим санкционирование</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-size:15px;vertical-align:top;">по мере расходов</td></tr><tr><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-size:15px;vertical-align:top;font-weight:600">Отчётность и закрытие</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-size:15px;vertical-align:top;">Ведём раздельный учёт, возвращаем остаток, закрываем счёт</td><td style="padding:12px 14px;border-bottom:1px solid #E4DDD0;font-size:15px;vertical-align:top;">до завершения контракта</td></tr></table><p style="margin:14px 0 0;font-size:16px;color:#3A3A3A">Берём контракты любого масштаба — от небольших договоров до крупных с авансом; опыт в системе Федерального казначейства — с 2009 года. Каждый ведём под ключ, с фиксированной ценой и договором.</p></div></section>
 <section class="trust" aria-label="Проверка в реестрах">
   <div class="trust__box">
     <div class="trust__lead"><b>Проверьте нас в открытых реестрах</b>ИП Михайлов Я.А. · ИНН 781428314589 · ОГРНИП 321784700367672</div>
@@ -360,7 +419,6 @@
 </section>
 
 <script>
-/* обработчик нижней лид-формы (#leadFormBottom); верхнюю #leadForm обслуживает общий скрипт страницы */
 (function(){
   var f=document.getElementById('leadFormBottom'); if(!f) return;
   var msg=document.getElementById('formMsgBottom'), ok=document.getElementById('leadSuccessBottom');
@@ -373,7 +431,7 @@
     if(!/\d[\s\d().-]*\d{3}/.test(phone)||phone.replace(/\D/g,'').length<10){show('Проверьте телефон');return;}
     if(!f.consent.checked){show('Подтвердите согласие');return;}
     var btn=f.querySelector('.submit'), orig=btn.textContent; btn.disabled=true; btn.textContent='Отправляем…';
-    fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})})
+    fetch(f.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name,phone:phone,message:(f.message&&f.message.value||'').trim(),consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+f.dataset.source+')',consent_at:new Date().toISOString(),source:f.dataset.source,page_url:location.href})})
       .then(function(r){ if(!r.ok) throw 0; return r; })
       .then(function(){
         [].forEach.call(f.children,function(el){ if(el!==ok) el.style.display='none'; });
@@ -386,14 +444,13 @@
 </script>
 
 
-
 <footer class="v2-footer" id="footer">
         <div class="v2-container">
 
           <div class="v2-footer-cta">
             <div class="v2-footer-cta-lead">
               <span class="v2-footer-cta-eyebrow">Готовы начать</span>
-              <p class="v2-footer-cta-title">Передайте казначейское сопровождение <em>на аутсорсинг</em></p>
+              <p class="v2-footer-cta-title">Откроем казначейский счёт <em>за два рабочих дня</em></p>
             </div>
             <div class="v2-footer-cta-actions">
               <a href="/#contacts" class="v2-footer-cta-btn">Оставить заявку</a>
@@ -540,7 +597,7 @@
     if(form.name.value.trim().length<2||form.phone.value.replace(/\D/g,'').length<10){show('Проверьте имя и телефон');return;}
     var DEMO=false;
     var btn=form.querySelector('.submit'),orig=btn.textContent;btn.disabled=true;btn.textContent='Отправляем…';
-    var data={phone:form.phone.value.trim(),source:SRC,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+SRC+')',consent_at:new Date().toISOString(),page_url:location.href,name:form.name.value.trim()};
+    var data={phone:form.phone.value.trim(),source:SRC,consent_pd:true,consent_pd_text:'Согласие на обработку ПДн (источник: '+SRC+')',consent_at:new Date().toISOString(),page_url:location.href,name:form.name.value.trim(),message:(form.message&&form.message.value||'').trim()};
     fetch(form.dataset.endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)})
       .then(function(r){if(!r.ok)throw 0;return r;}).then(succeed).catch(function(){if(DEMO){succeed();}else{fail();}});
     function succeed(){[].forEach.call(form.children,function(el){if(el!==ok)el.style.display='none';});ok.classList.add('on');try{window.ym&&ym(94305898,'reachGoal','lead',{source:SRC});}catch(e){}}
