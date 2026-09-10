@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>СУФД-портал казначейства: что это и как подключиться</title>
+<title>СУФД-портал казначейства: что это, вход в личный кабинет, подключение</title>
 <meta name="description" content="СУФД-портал Федерального казначейства: что это, как подключиться через УФК, требования к рабочему месту, вход по сертификату и типовые ошибки. Разбор эксперта.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"giis"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "СУФД-портал казначейства: что это, как подключиться и работать", "description": "СУФД — система удалённого финансового документооборота Федерального казначейства: возможности портала, пошаговое подключение через УФК, требования к рабочему месту и типовые ошибки.", "inLanguage": "ru-RU", "datePublished": "2026-06-11", "dateModified": "2026-09-03", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__sufd-portal-kaznachejstva-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__sufd-portal-kaznachejstva-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__sufd-portal-kaznachejstva-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/sufd-portal-kaznachejstva/"}, "citation": ["https://kirov.roskazna.gov.ru/gis/sufd-onlajn/poryadok-podklyucheniya/", "https://mo.roskazna.gov.ru/gis/sufd-onlayn/", "https://roskazna.gov.ru/gis/ehlektronnyj-byudzhet/", "https://www.consultant.ru/document/cons_doc_LAW_112701/", "https://cryptopro.ru/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "СУФД-портал казначейства: что это, как подключиться и работать", "description": "СУФД — система удалённого финансового документооборота Федерального казначейства: возможности портала, пошаговое подключение через УФК, требования к рабочему месту и типовые ошибки.", "inLanguage": "ru-RU", "datePublished": "2026-06-11", "dateModified": "2026-09-10", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__sufd-portal-kaznachejstva-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__sufd-portal-kaznachejstva-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__sufd-portal-kaznachejstva-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/sufd-portal-kaznachejstva/"}, "citation": ["https://kirov.roskazna.gov.ru/gis/sufd-onlajn/poryadok-podklyucheniya/", "https://mo.roskazna.gov.ru/gis/sufd-onlayn/", "https://roskazna.gov.ru/gis/ehlektronnyj-byudzhet/", "https://www.consultant.ru/document/cons_doc_LAW_112701/", "https://cryptopro.ru/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/", "url": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/", "url": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "СУФД-портал казначейства", "item": "https://kaznaexpert.ru/baza-znaniy/sufd-portal-kaznachejstva/", "url": "https://kaznaexpert.ru/baza-znaniy/sufd-portal-kaznachejstva/"}]}
@@ -37,7 +37,7 @@
 {"@type": "Question", "name": "Чем СУФД отличается от «Электронного бюджета»?", "acceptedAnswer": {"@type": "Answer", "text": "СУФД — система финансового документооборота с органом казначейства. ГИИС «Электронный бюджет» — более широкая система управления общественными финансами, куда казначейство поэтапно переводит клиентов. Канал для конкретной организации определяет её УФК."}},
 {"@type": "Question", "name": "Как подключиться к СУФД-порталу?", "acceptedAnswer": {"@type": "Answer", "text": "Через своё УФК: договор об обмене электронными документами, сертификаты ЭП в УЦ ФК, установка СКЗИ и TLS-клиента, заявки на регистрацию пользователей и настройка рабочего места по инструкции управления."}},
 {"@type": "Question", "name": "Сколько стоит подключение к СУФД?", "acceptedAnswer": {"@type": "Answer", "text": "Подключение и ПО со стороны казначейства предоставляются клиентам без взимания платы. Расходы организации — лицензия на сертифицированное СКЗИ и время на настройку."}},
-{"@type": "Question", "name": "Какой логин и пароль у СУФД-портала?", "acceptedAnswer": {"@type": "Answer", "text": "С 2021 года вход выполняется по сертификату электронной подписи через защищённый канал — отдельные логин и пароль при такой схеме не используются."}},
+{"@type": "Question", "name": "Какой логин и пароль у СУФД-портала?", "acceptedAnswer": {"@type": "Answer", "text": "Логин и пароль выдаёт ваше УФК при регистрации пользователя (карточка пользователя СУФД); при первом входе пароль меняют. Пользователи с правом подписи дальше входят по сертификату, который управление привязывает к учётной записи по обращению организации. Сотрудник без права подписи продолжает работать по логину и паролю."}},
 {"@type": "Question", "name": "Почему не открывается СУФД-портал?", "acceptedAnswer": {"@type": "Answer", "text": "Чаще всего не запущен или не настроен Континент TLS-клиент либо нет доступа к каналу. Проверьте TLS-клиент, сетевые настройки и актуальную памятку своего УФК."}},
 {"@type": "Question", "name": "Почему СУФД не видит сертификат?", "acceptedAnswer": {"@type": "Answer", "text": "Не установлен личный сертификат или контейнер ключей, либо не собрана цепочка доверия. Переустановите сертификат через КриптоПро, установите корневой Минцифры и сертификат УЦ ФК, обновите CRL."}},
 {"@type": "Question", "name": "Используют ли СУФД участники казначейского сопровождения?", "acceptedAnswer": {"@type": "Answer", "text": "Коммерческим подрядчикам с лицевым счётом 71 операции чаще настраивают через ГИИС «Электронный бюджет»; решение зависит от категории клиента и практики УФК."}},
@@ -108,7 +108,7 @@
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="СУФД-портал казначейства: подключение, вход и работа — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-11T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-09-03T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-10T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -182,7 +182,7 @@
        <li><a href="#pravovaya">Правовая база документооборота</a></li>
        <li><a href="#podklyuchenie">Подключение: пошагово</a></li>
       <li><a href="#trebovaniya">Требования к рабочему месту</a></li>
-      <li><a href="#vhod">Вход в систему</a></li>
+      <li><a href="#vhod">Вход в личный кабинет</a></li>
       <li><a href="#statusy">Статусы документа</a></li>
        <li><a href="#pechat-pp">Печать платёжного поручения с отметкой</a></li><li><a href="#roli">Роли, права и подписи</a></li>
        <li><a href="#oshibki">Типовые ошибки и решения</a></li>
@@ -200,7 +200,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · ГИИС и ЭЦП <span class="fresh">Актуально на 2026</span></div>
     <h1>СУФД-портал казначейства: что это, как подключиться и работать</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 3 сентября 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 10 сентября 2026</span></div>
     </div>
 
     <div class="share">
@@ -214,7 +214,7 @@
       <ol>
         <li><a href="#chto-takoe">Что такое СУФД</a></li><li><a href="#komu">Кому нужен СУФД, а кому ЭБ</a></li><li><a href="#vozmozhnosti">Что можно делать в СУФД</a></li><li><a href="#formy">Формы и коды документов</a></li>
        <li><a href="#pravovaya">Правовая база документооборота</a></li>
-       <li><a href="#podklyuchenie">Подключение: пошагово</a></li><li><a href="#trebovaniya">Требования к рабочему месту</a></li><li><a href="#vhod">Вход в систему</a></li><li><a href="#statusy">Статусы документа</a></li>
+       <li><a href="#podklyuchenie">Подключение: пошагово</a></li><li><a href="#trebovaniya">Требования к рабочему месту</a></li><li><a href="#vhod">Вход в личный кабинет</a></li><li><a href="#statusy">Статусы документа</a></li>
        <li><a href="#roli">Роли, права и подписи</a></li>
        <li><a href="#oshibki">Типовые ошибки и решения</a></li><li><a href="#checklist">Чек-лист первого платежа</a></li><li><a href="#bezopasnost">Подписи и безопасность</a></li><li><a href="#keys">Пример из практики</a></li><li><a href="#glossary">Глоссарий</a></li><li><a href="#faq">Частые вопросы</a></li>
       </ol>
@@ -357,8 +357,8 @@
     <div class="note"><b>Две ошибки, которые повторяются из года в год.</b> Первая — установка Континент-АП вместе с компонентом «Межсетевой экран»: памятки управлений прямо предписывают этот компонент не ставить, иначе рвётся сетевая связность рабочего места. Вторая — установка сертификатов в хранилище текущего пользователя вместо хранилища «Локальный компьютер»: портал открывается, а подпись не проходит, и причину ищут в ключе.</div>
     <div class="note"><b>Совет.</b> Скачивайте инструкции только с сайта своего УФК (домены *.roskazna.gov.ru): требования к версиям ПО периодически обновляются, и устаревшая памятка с форума — частая причина «не работающего» портала.</div>
 
-    <h2 id="vhod">Вход в систему: авторизация по сертификату</h2>
-    <p>С 2021 года авторизация на СУФД-портале строится на сертификате электронной подписи: пользователь выбирает свой сертификат при входе, и система связывает его с учётной записью — отдельные логин и пароль при такой схеме не используются. Подключение проходит через защищённое соединение, которое устанавливает Континент TLS-клиент.<a class="fn" href="#ref-3" aria-label="Источник 3">[3]</a></p>
+    <h2 id="vhod">СУФД: вход в личный кабинет по логину и паролю или по сертификату</h2>
+    <p>Вход на СУФД-портал двухступенчатый: сначала защищённое соединение, которое устанавливает Континент TLS-клиент, затем авторизация в самом портале — по логину и паролю из карточки пользователя, выданной УФК, либо по сертификату электронной подписи, привязанному к учётной записи. Логин и пароль выдаёт управление при регистрации пользователя; при первом входе пароль требуется сменить, а сертификат привязывается к учётной записи по обращению организации в своё УФК.<a class="fn" href="#ref-3" aria-label="Источник 3">[3]</a></p>
     <p>Уточнение, которое снимает половину вопросов о входе: схема авторизации зависит от полномочий пользователя. <b>Первичный вход</b> после регистрации выполняется по логину и паролю из карточки пользователя, и пароль система требует сменить сразу. Сотрудник <b>без права подписи</b> — тот, кто только вводит документы, — так и продолжает работать по логину и паролю. По сертификату входит пользователь <b>с правом подписи</b>: система сопоставляет сертификат с учётной записью и открывает операции подписания.</p>
     <p>Единой федеральной точки входа у портала нет: адрес региональный и строится по шаблону <span class="mono">ufk&lt;код региона&gt;.sufd.budget.gov.ru</span> — своё значение берите из памятки управления, а не из поисковой выдачи. Если рабочих мест несколько, каждое настраивается отдельно, а сертификаты сотрудников не «переносятся» между компьютерами без переустановки ключей. Первая линия поддержки по вопросам портала — единый контактный центр казначейства 8 (800) 30-10-777.<a class="fn" href="#ref-3" aria-label="Источник 3">[3]</a></p>
 
@@ -500,7 +500,7 @@
       <details><summary>Чем СУФД отличается от «Электронного бюджета»?</summary><p>СУФД — система финансового документооборота с органом казначейства (платёжки, выписки). ГИИС «Электронный бюджет» — более широкая система управления общественными финансами, куда казначейство поэтапно переводит клиентов. Какой канал использует ваша организация, определяет ваше УФК.</p></details>
       <details><summary>Как подключиться к СУФД-порталу?</summary><p>Через своё УФК: заключить договор об обмене электронными документами, оформить сертификаты ЭП в УЦ ФК, установить СКЗИ и TLS-клиент, подать заявки на регистрацию пользователей и настроить рабочее место по инструкции управления.</p></details>
       <details><summary>Сколько стоит подключение?</summary><p>Программное обеспечение и подключение со стороны казначейства предоставляются его клиентам без взимания платы. Расходы организации — сертифицированное СКЗИ (лицензия КриптоПро) и рабочее время на настройку.</p></details>
-      <details><summary>Какой логин и пароль у СУФД?</summary><p>С 2021 года вход строится на сертификате электронной подписи через защищённый канал — отдельные логин и пароль при такой схеме не используются. Доступ настраивается при подключении по памятке УФК.</p></details>
+      <details><summary>Какой логин и пароль у СУФД?</summary><p>Логин и пароль выдаёт ваше УФК при регистрации пользователя (карточка пользователя СУФД); при первом входе пароль меняют. Пользователи с правом подписи дальше входят по сертификату, который управление привязывает к учётной записи по обращению организации — например, УФК по г. Москве принимает файлы сертификата письмом на адрес управления. Сотрудник без права подписи продолжает работать по логину и паролю.</p></details>
       <details><summary>Можно ли работать в СУФД с нескольких компьютеров?</summary><p>Да, но каждое рабочее место настраивается отдельно: СКЗИ, TLS-клиент, цепочка доверия и личный сертификат. Ключи подписи переносятся только установленным порядком, передавать их между сотрудниками нельзя.</p></details>
       <details><summary>Почему не открывается СУФД-портал?</summary><p>Чаще всего не запущен или не настроен Континент TLS-клиент либо нет доступа к каналу. Проверьте TLS-клиент, сетевые настройки и актуальную памятку своего УФК.</p></details>
       <details><summary>Почему портал не видит сертификат?</summary><p>Либо не установлен личный сертификат/контейнер ключей (проверьте через КриптоПро), либо не собрана цепочка доверия — установите корневой сертификат Минцифры и сертификат УЦ ФК, обновите список отзыва.</p></details>
@@ -529,13 +529,13 @@
       <ol>
         <li id="ref-1">Разделы «СУФД-онлайн» на сайтах управлений Федерального казначейства: порядок подключения, памятки и инструкции (например, УФК по Кировской области, УФК по Московской области) — <a href="https://kirov.roskazna.gov.ru/gis/sufd-onlajn/poryadok-podklyucheniya/" target="_blank" rel="noopener">kirov.roskazna.gov.ru</a>, <a href="https://mo.roskazna.gov.ru/gis/sufd-onlayn/" target="_blank" rel="noopener">mo.roskazna.gov.ru</a></li>
         <li id="ref-2">Казначейство России. ГИИС «Электронный бюджет»: назначение системы и подключение — <a href="https://roskazna.gov.ru/gis/ehlektronnyj-byudzhet/" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
-        <li id="ref-3">Памятки УФК о порядке доступа к СУФД-порталу и настройке защищённого соединения (Континент TLS) — региональные разделы «СУФД-онлайн» на roskazna.gov.ru</li>
+        <li id="ref-3">Памятки УФК о порядке доступа к СУФД-порталу: первичный вход по логину и паролю из карточки пользователя со сменой пароля, привязка сертификата по обращению в управление, настройка защищённого соединения (Континент TLS) — разделы «СУФД-онлайн» на сайтах управлений, например <a href="https://moscow.roskazna.gov.ru/gis/sufd-onlajn/" target="_blank" rel="noopener">УФК по г. Москве</a>, <a href="https://penza.roskazna.gov.ru/gis/sufd-onlajn/" target="_blank" rel="noopener">УФК по Пензенской области</a></li>
         <li id="ref-5">Приказ Федерального казначейства от 14.05.2020 № 21н «О Порядке казначейского обслуживания» (Минюст 13.07.2020 № 58914; ред. приказа Федерального казначейства от 15.06.2026 № 13н, Минюст 03.08.2026 № 87715, вступил в силу 15.08.2026), пункт 2 приказа — перечень распоряжений и коды форм — <a href="http://publication.pravo.gov.ru/Document/View/0001202007140019" target="_blank" rel="noopener">publication.pravo.gov.ru</a></li>
         <li id="ref-6">Официальные ответы на частые вопросы по работе в СУФД-портале на сайтах управлений Федерального казначейства (колонки статусов, документарный контроль, порядок подписей) — региональные разделы «СУФД-онлайн» на roskazna.gov.ru</li>
         <li id="ref-7">Приказ Федерального казначейства от 15.12.2021 № 40н «Об утверждении Порядка казначейского обслуживания операций со средствами участников казначейского сопровождения» (Минюст 31.01.2022 № 67059; ред. приказа Федерального казначейства от 01.10.2025 № 13н) — <a href="http://publication.pravo.gov.ru/document/0001202511060003" target="_blank" rel="noopener">publication.pravo.gov.ru</a></li>
         <li id="ref-4">Федеральный закон от 06.04.2011 № 63-ФЗ «Об электронной подписи» — <a href="https://www.consultant.ru/document/cons_doc_LAW_112701/" target="_blank" rel="noopener">consultant.ru</a>; документация КриптоПро CSP — <a href="https://cryptopro.ru/" target="_blank" rel="noopener">cryptopro.ru</a></li>
       </ol>
-      <p class="refs__note">Материал носит информационный характер. Состав ПО и порядок подключения зависят от требований вашего УФК; сверяйтесь с актуальными памятками на региональном сайте казначейства. Информация актуальна на 3 сентября 2026 года.</p>
+      <p class="refs__note">Материал носит информационный характер. Состав ПО и порядок подключения зависят от требований вашего УФК; сверяйтесь с актуальными памятками на региональном сайте казначейства. Информация актуальна на 10 сентября 2026 года.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">
