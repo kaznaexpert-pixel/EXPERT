@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "АУР и прочие затраты в гособоронзаказе: состав, распределение и что снимет заказчик", "description": "АУР и прочие затраты по приказу Минпромторга № 334: чем строка 1600 отличается от общехозяйственных затрат, база распределения и что заказчик снимает из цены.", "inLanguage": "ru-RU", "datePublished": "2026-08-31", "dateModified": "2026-09-09", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__aur-i-prochie-zatraty-goz-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__aur-i-prochie-zatraty-goz-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__aur-i-prochie-zatraty-goz-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/aur-i-prochie-zatraty-goz/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "АУР и прочие затраты в гособоронзаказе: состав, распределение и что снимет заказчик", "description": "АУР и прочие затраты по приказу Минпромторга № 334: чем строка 1600 отличается от общехозяйственных затрат, база распределения и что заказчик снимает из цены.", "inLanguage": "ru-RU", "datePublished": "2026-08-31", "dateModified": "2026-09-11", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__aur-i-prochie-zatraty-goz-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__aur-i-prochie-zatraty-goz-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__aur-i-prochie-zatraty-goz-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/aur-i-prochie-zatraty-goz/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/", "url": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/", "url": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "АУР и прочие затраты в ГОЗ", "item": "https://kaznaexpert.ru/baza-znaniy/aur-i-prochie-zatraty-goz/", "url": "https://kaznaexpert.ru/baza-znaniy/aur-i-prochie-zatraty-goz/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="АУР и прочие затраты в ГОЗ: состав и распределение — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-09-09T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-11T10:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -159,7 +159,7 @@
       <li><a href="#opz-vs-ohz">Общепроизводственные и общехозяйственные затраты: в чём разница</a></li>
       <li><a href="#baza-raspredeleniya">База распределения: как АУР делят между контрактами</a></li>
       <li><a href="#tablica-statey">Куда относится статья затрат: прямые, ОПЗ, АУР</a></li>
-      <li><a href="#chto-ne-primet">Что заказчик не примет: закрытый перечень</a></li>
+      <li><a href="#ofisnoe-oborudovanie">Оборудование офисных сотрудников: прямые или АУР</a></li><li><a href="#ofisnoe-oborudovanie">Оборудование офисных сотрудников: прямые или АУР</a></li><li><a href="#chto-ne-primet">Что заказчик не примет: закрытый перечень</a></li>
       <li><a href="#obosnovanie">Как обосновать долю АУР документально</a></li>
       <li><a href="#oshibki">Пять ошибок, из-за которых АУР снимают из цены</a></li>
       <li><a href="#glossary">Глоссарий</a></li>
@@ -173,7 +173,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на 2026</span></div>
     <h1>АУР и прочие затраты в гособоронзаказе: состав, распределение и что снимет заказчик</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 9 сентября 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 11 сентября 2026</span></div>
     </div>
 
     <div class="share">
@@ -263,6 +263,22 @@
     </table>
     <h3 id="kak-skladyvaetsya-cena">Как из строк калькуляции складывается цена</h3>
     <p>Сумма строк 0100–1200 даёт производственную себестоимость (строка 1300). Добавление к ней коммерческих затрат (1400) и административно-управленческих расходов (1600) даёт себестоимость продукции (строка 1700). Цена продукции (1900) — это себестоимость плюс прибыль (1800), рассчитанная по <a href="/baza-znaniy/normy-pribyli-goz/">нормам прибыли гособоронзаказа</a>.</p>
+
+        <h2 id="ofisnoe-oborudovanie">Оборудование и рабочие места офисных сотрудников: прямые или накладные</h2>
+    <div class="answer reveal">
+      <p>Критерий отнесения один — участие в исполнении конкретного контракта: техника и рабочие места сотрудников, занятых на контракте, относятся на него прямо (при документальном закреплении за контрактом), а оборудование подразделений, обслуживающих организацию в целом — бухгалтерии, кадров, руководства, — это административно-управленческие расходы, попадающие в контракт только через базу распределения. Назначение предмета вторично: один и тот же ноутбук может быть и прямой затратой, и АУР — в зависимости от того, чью работу он обеспечивает.</p>
+    </div>
+    <table>
+      <caption>Офисное оборудование в ГОЗ: прямые затраты или АУР</caption>
+      <tr><th>Пример</th><th>Куда относится</th><th>Почему и чем подтверждать</th></tr>
+      <tr><td>Ноутбук инженера-конструктора, ведущего работы по контракту</td><td>Прямые затраты контракта</td><td>Сотрудник занят на контракте; закрепление техники приказом/актом за работами по контракту, доля времени — по табелю</td></tr>
+      <tr><td>Рабочая станция технолога, занятого на трёх контрактах</td><td>Прямые затраты трёх контрактов долями</td><td>Распределение пропорционально времени по табелям или закреплённой базе — единым способом по учётной политике</td></tr>
+      <tr><td>Принтер и компьютеры бухгалтерии</td><td>АУР</td><td>Бухгалтерия обслуживает организацию в целом; в контракт — только через базу распределения со справкой по каждому контракту</td></tr>
+      <tr><td>Лицензия офисного ПО на отдел продаж</td><td>АУР (а в части, не связанной с ГОЗ, — за пределы цены)</td><td>Отдел не участвует в исполнении контракта; коммерческие расходы заказчик в цену не примет</td></tr>
+      <tr><td>Лицензия САПР на конструкторский отдел</td><td>Прямые — в доле контрактных работ, остальное — ОПЗ/АУР по назначению</td><td>Разделение по проектам в системе учёта рабочего времени или по закреплённой базе</td></tr>
+      <tr><td>Мебель и техника кабинета директора</td><td>АУР</td><td>Управление организацией в целом; только через распределение</td></tr>
+    </table>
+    <p>Закрепление в учётной политике делает выбор защищаемым: пропишите критерий отнесения (занятость на конкретном контракте с документальным подтверждением), способ деления техники «двойного подчинения» (табели, доли, иная база — единообразно) и запрет менять подход внутри года. Обоснование доли — те же документы, что и для остальных АУР: приказ о закреплении, табели, справки распределения по каждому контракту. Стоимость самой техники при этом подтверждается как любой покупной ресурс — <a href="/baza-znaniy/obosnovanie-rynochnoy-stoimosti-goz/">обоснованием рыночной стоимости</a>, а закупка техники «с запасом на будущие контракты» за счёт средств контракта недопустима — это <a href="/baza-znaniy/zakupka-oborudovaniya-vprok-goz/">затаривание</a>.</p>
 
     <h2 id="chto-ne-primet">Что заказчик не примет: закрытый перечень</h2>
     <p>Пункт 23 Порядка перечисляет затраты, которые в цену продукции не включаются вообще. Перечень закрытый, и попытка провести такие затраты через косвенные статьи — самый быстрый способ получить замечание.</p>

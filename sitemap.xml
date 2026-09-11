@@ -1541,7 +1541,7 @@
   </url>
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/aur-i-prochie-zatraty-goz/</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2022,6 +2022,18 @@
   <url>
     <loc>https://kaznaexpert.ru/baza-znaniy/uchet-rashodov-na-soprovozhdenie-goz/</loc>
     <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/obosnovanie-rynochnoy-stoimosti-goz/</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://kaznaexpert.ru/baza-znaniy/zakupka-oborudovaniya-vprok-goz/</loc>
+    <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
