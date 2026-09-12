@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"article", cluster:"peni"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Пени и штрафы по 44-ФЗ: как считается неустойка за просрочку", "description": "Как рассчитать пени и штрафы по 44-ФЗ: формула 1/300 ключевой ставки (ч. 7 ст. 34), база начисления, таблица штрафов по ПП № 1042, калькулятор и способы снизить неустойку.", "datePublished": "2026-06-05T09:00:00+03:00", "dateModified": "2026-09-09T09:00:00+03:00", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/peni-i-shtrafy-po-44-fz/"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__peni-i-shtrafy-po-44-fz-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__peni-i-shtrafy-po-44-fz-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__peni-i-shtrafy-po-44-fz-1x1.webp"], "citation": ["https://www.consultant.ru/document/cons_doc_LAW_144624/", "https://www.consultant.ru/document/cons_doc_LAW_227100/", "https://www.cbr.ru/hd_base/keyrate/", "https://www.consultant.ru/document/cons_doc_LAW_5142/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Пени и штрафы по 44-ФЗ: как считается неустойка за просрочку", "description": "Как рассчитать пени и штрафы по 44-ФЗ: формула 1/300 ключевой ставки (ч. 7 ст. 34), база начисления, таблица штрафов по ПП № 1042, калькулятор и способы снизить неустойку.", "datePublished": "2026-06-05T09:00:00+03:00", "dateModified": "2026-09-12T09:00:00+03:00", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/peni-i-shtrafy-po-44-fz/"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__peni-i-shtrafy-po-44-fz-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__peni-i-shtrafy-po-44-fz-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__peni-i-shtrafy-po-44-fz-1x1.webp"], "citation": ["https://www.consultant.ru/document/cons_doc_LAW_144624/", "https://www.consultant.ru/document/cons_doc_LAW_227100/", "https://www.cbr.ru/hd_base/keyrate/", "https://www.consultant.ru/document/cons_doc_LAW_5142/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/", "url": "https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/", "url": "https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Пени и штрафы по 44-ФЗ", "url": "https://kaznaexpert.ru/baza-znaniy/peni-i-shtrafy-po-44-fz/"}]}
@@ -34,7 +34,7 @@
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"HowTo","name":"Как рассчитать пени по 44-ФЗ","description":"Расчёт пеней за просрочку исполнения контракта по ч. 7 ст. 34 № 44-ФЗ.","step":[
 {"@type":"HowToStep","position":1,"name":"Определить базу","text":"Из цены контракта (или этапа) вычтите стоимость фактически исполненных и принятых заказчиком обязательств."},
-{"@type":"HowToStep","position":2,"name":"Взять ключевую ставку","text":"Используйте ключевую ставку ЦБ, действующую на дату уплаты пеней. На 9 сентября 2026 — 14,00% годовых (действует с 27 июля 2026; следующее заседание Банка России — 11 сентября 2026)."},
+{"@type":"HowToStep","position":2,"name":"Взять ключевую ставку","text":"Используйте ключевую ставку ЦБ, действующую на дату уплаты пеней. На 12 сентября 2026 — 14,00% годовых (действует с 27 июля 2026, сохранена решением от 11 сентября 2026; следующее заседание Банка России — 23 октября 2026)."},
 {"@type":"HowToStep","position":3,"name":"Посчитать пеню за день","text":"Умножьте базу на ключевую ставку в долях и разделите на 300."},
 {"@type":"HowToStep","position":4,"name":"Умножить на дни","text":"Умножьте дневную пеню на количество дней просрочки. Итог не может превышать цену контракта."}
 ]}
@@ -99,7 +99,7 @@
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Пени и штрафы по 44-ФЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-09-09T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-12T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -190,7 +190,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Основы <span class="fresh">Актуально на сентябрь 2026</span></div>
     <h1>Пени и штрафы по 44-ФЗ: как считается неустойка за просрочку</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 9 сентября 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>14 мин чтения</span><span class="dot">·</span><span>Обновлено 12 сентября 2026</span></div>
     </div>
 
     <div class="share">
@@ -213,7 +213,7 @@
       </ol>
     </details>
 
-    <div class="tldr">Неустойка по 44-ФЗ состоит из двух частей: <b>пеней</b> за просрочку и <b>штрафов</b> за иные нарушения. Пени считаются за каждый день просрочки как <b>1/300 ключевой ставки ЦБ</b> от цены контракта, уменьшенной на стоимость уже исполненного (ч. 7 ст. 34 № 44-ФЗ)<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a>. Штраф — фиксированный процент от цены контракта по постановлению Правительства № 1042<a class="fn" href="#ref-2" aria-label="Источник 2">[2]</a>. На 9 сентября 2026 ключевая ставка — 14,00% (с 27 июля 2026, решение Банка России от 24.07.2026); следующее заседание по ставке — 11 сентября 2026, после него значение в расчётах нужно перепроверить.</div>
+    <div class="tldr">Неустойка по 44-ФЗ состоит из двух частей: <b>пеней</b> за просрочку и <b>штрафов</b> за иные нарушения. Пени считаются за каждый день просрочки как <b>1/300 ключевой ставки ЦБ</b> от цены контракта, уменьшенной на стоимость уже исполненного (ч. 7 ст. 34 № 44-ФЗ)<a class="fn" href="#ref-1" aria-label="Источник 1">[1]</a>. Штраф — фиксированный процент от цены контракта по постановлению Правительства № 1042<a class="fn" href="#ref-2" aria-label="Источник 2">[2]</a>. На 12 сентября 2026 ключевая ставка — 14,00% (действует с 27 июля 2026; 11 сентября 2026 Совет директоров Банка России сохранил её на этом уровне); следующее заседание по ставке — 23 октября 2026, после него значение в расчётах нужно перепроверить.</div>
 <div class="related-inline"><b>Не путать:</b> здесь — договорная неустойка перед заказчиком по 44-ФЗ. Административные штрафы государства по КоАП за нарушения при казначейском сопровождении (раздельный учёт, сроки сведений) — в <a href="/baza-znaniy/shtrafy-pri-kaznacheyskom-soprovozhdenii-2026/">отдельном разборе штрафов 2026 года</a>.</div>
 
     <section class="keyfacts grain" aria-label="Ключевые факты">
@@ -319,6 +319,7 @@
         <tr><td>27 апреля 2026</td><td>14,50 %</td></tr>
         <tr><td>22 июня 2026</td><td>14,25 %</td></tr>
         <tr><td><b>27 июля 2026</b></td><td><b>14,00 %</b></td></tr>
+        <tr><td>11 сентября 2026</td><td>без изменений — 14,00 % сохранена; следующее заседание 23 октября 2026</td></tr>
       </table>
 
       <p>Таблица нужна не для расчёта пеней, а для проверки чужого расчёта: если заказчик прислал требование, где просрочка разбита на периоды с разными ставками, это ошибка в его пользу — по части 7 статьи 34 ставка одна.</p>
@@ -562,7 +563,7 @@
       <ol>
         <li id="ref-1">Федеральный закон от 05.04.2013 № 44-ФЗ «О контрактной системе…», ст. 34 (ч. 4, 5, 7, 9). <a href="https://www.consultant.ru/document/cons_doc_LAW_144624/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
         <li id="ref-2">Постановление Правительства РФ от 30.08.2017 № 1042 (ред. от 02.08.2019) «Об утверждении Правил определения размера штрафа…». <a href="https://www.consultant.ru/document/cons_doc_LAW_227100/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
-        <li id="ref-3">Ключевая ставка Банка России. <a href="https://www.cbr.ru/hd_base/keyrate/" target="_blank" rel="noopener">cbr.ru</a></li>
+        <li id="ref-3">Ключевая ставка Банка России; пресс-релиз от 11.09.2026 «Банк России принял решение сохранить ключевую ставку на уровне 14,00% годовых». <a href="https://www.cbr.ru/hd_base/keyrate/" target="_blank" rel="noopener">cbr.ru</a> · <a href="https://www.cbr.ru/press/pr/?file=11092026_133000key.htm" target="_blank" rel="noopener">пресс-релиз</a></li>
         <li id="ref-4">Гражданский кодекс РФ, ст. 333 (уменьшение неустойки). <a href="https://www.consultant.ru/document/cons_doc_LAW_5142/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
       </ol>
       <p class="refs__note">Материал носит справочный характер и не является юридической консультацией. Размер неустойки по конкретному контракту определяется его условиями и актуальной редакцией НПА на дату расчёта.</p>
