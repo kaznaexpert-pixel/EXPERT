@@ -376,7 +376,7 @@
 </div>
 
     <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-koncessiy-i-gchp">Для инфраструктурных инвесторов включение концессий в перечень — самое чувствительное новшество года: как капитальный грант и плата концедента проходят через лицевой счёт, разобрано в статье о <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-koncessiy-i-gchp/">казначейском сопровождении концессий и ГЧП</a>.</p>
-    <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-stroitelnyh-kontraktov">Для стройки 2026 год принёс упрощённый порядок: по ряду строительных контрактов расчёты идут на банковский счёт подрядчика, а не через лицевой счёт (ст. 15 ФЗ № 431-ФЗ). Подробный отраслевой разбор — в статье про <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-stroitelnyh-kontraktov/">казначейское сопровождение строительных контрактов</a>.</p>
+    <p data-ctx="auto-ctx:kaznacheyskoe-soprovozhdenie-stroitelnyh-kontraktov">Для стройки 2026 год принёс упрощённый порядок расчётов с кооперацией: по ряду договоров субподряда и поставки, заключённых в рамках сопровождаемых контрактов, деньги идут с лицевого счёта генподрядчика на банковский счёт субподрядчика или поставщика, минуя его лицевой счёт (ст. 15 ФЗ № 431-ФЗ); лицевой счёт самого генподрядчика сохраняется. Подробный отраслевой разбор — в статье про <a href="/baza-znaniy/kaznacheyskoe-soprovozhdenie-stroitelnyh-kontraktov/">казначейское сопровождение строительных контрактов</a>.</p>
     <div class="author">
       <div class="author__av">ЯМ</div>
       <div class="author__body">

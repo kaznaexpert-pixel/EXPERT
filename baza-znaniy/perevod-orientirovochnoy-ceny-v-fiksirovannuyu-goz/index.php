@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"article", cluster:"goz"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Перевод ориентировочной цены в фиксированную по ГОЗ: порядок в 2026 году", "description": "Как перевести ориентировочную цену в фиксированную по ГОЗ: виды цен, сроки (не позднее 2 мес. до поставки), пакет РКМ, 20 рабочих дней, ПП № 1465 и 275-ФЗ.", "datePublished": "2026-06-07T09:08:00+03:00", "dateModified": "2026-09-01", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz/"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz-1x1.webp"], "citation": ["https://www.consultant.ru/document/cons_doc_LAW_140175/", "https://base.garant.ru/71825654/", "https://www.consultant.ru/document/cons_doc_LAW_34661/", "https://www.consultant.ru/document/cons_doc_LAW_462509/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Перевод ориентировочной цены в фиксированную по ГОЗ: порядок в 2026 году", "description": "Как перевести ориентировочную цену в фиксированную по ГОЗ: виды цен, сроки (не позднее 2 мес. до поставки), пакет РКМ, 20 рабочих дней, ПП № 1465 и 275-ФЗ.", "datePublished": "2026-06-07T09:08:00+03:00", "dateModified": "2026-09-13", "inLanguage": "ru-RU", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz/"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz-1x1.webp"], "citation": ["https://www.consultant.ru/document/cons_doc_LAW_140175/", "https://base.garant.ru/71825654/", "https://www.consultant.ru/document/cons_doc_LAW_34661/", "https://www.consultant.ru/document/cons_doc_LAW_462509/"]}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/", "url": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/", "url": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Перевод цены ГОЗ", "url": "https://kaznaexpert.ru/baza-znaniy/perevod-orientirovochnoy-ceny-v-fiksirovannuyu-goz/"}]}
@@ -83,7 +83,7 @@
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-07T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-09-01T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-13T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -159,7 +159,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на август 2026</span></div>
     <h1>Перевод ориентировочной цены в фиксированную по ГОЗ: порядок в 2026 году</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 14 августа 2026 · ответственность переведена на действующую статью 7.30.3 КоАП РФ (ред. от 26.07.2026); постановление № 1465 в ред. от 14.02.2026, закон № 275-ФЗ в ред. от 04.07.2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 13 сентября 2026 · прибыль в фиксированной цене приведена к действующему п. 54 ПП № 1465 («1+25», ред. ПП от 21.05.2022 № 935); ответственность — ст. 7.30.3 КоАП РФ (ред. от 26.07.2026), закон № 275-ФЗ в ред. от 04.07.2026</span></div>
     </div>
 
     <div class="share">
@@ -266,7 +266,7 @@
 
     <h2 id="dokumenty">Документы и расчёты</h2>
     <div class="answer reveal">
-      <p>Основа перевода — расчётно-калькуляционные материалы (РКМ): они подтверждают фактические затраты по статьям и обосновывают прибыль. Прибыль в фиксированной цене считается по нормативам Постановления № 1465 (правило «двадцать плюс один» — до 20% к собственным затратам и до 1% к привнесённым; конкретика зависит от вида продукции). Базой РКМ служит раздельный учёт по контракту — без него подтвердить затраты и пройти проверку не получится.</p>
+      <p>Основа перевода — расчётно-калькуляционные материалы (РКМ): они подтверждают фактические затраты по статьям и обосновывают прибыль. Прибыль в фиксированной цене считается по нормативам Постановления № 1465 (правило «1+25» пункта 54: до 1% к привнесённым затратам и до 25% к собственным, но не менее 10% собственных; для цен, сформированных до 24.05.2022, — прежний потолок 20%). Базой РКМ служит раздельный учёт по контракту — без него подтвердить затраты и пройти проверку не получится.</p>
     </div>
 
     <h2 id="pki">Перевод цены на ПКИ из ориентировочной в фиксированную</h2>
@@ -274,7 +274,7 @@
     <h3 id="pki-kooperaciya">Где формируется фиксированная цена ПКИ в кооперации</h3>
     <p>В кооперации стоимость ПКИ нередко сама приходит «ориентировочной»: если комплектующие закупаются у соисполнителей по их контрактам ГОЗ, фиксированная цена этих ПКИ формируется в их звене, а головной исполнитель отражает у себя уже фактическую цену. Поэтому перевод цены по всей цепочке синхронизируют — задержка с фиксацией цены ПКИ у соисполнителя тормозит перевод цены головного контракта.</p>
     <h3 id="obosnovanie-pki">Чем обосновать рост фактической цены ПКИ</h3>
-    <p>Главная сложность — обоснование. Фактическая цена закупки ПКИ часто отличается от плановой, и рост стоимости приходится подтверждать документально. Здесь же действует правило ценообразования по <a href="/baza-znaniy/vidy-cen-goz/">постановлению № 1465</a>: прибыль на привнесённые (покупные) затраты, включая ПКИ, ограничена 1%, тогда как на собственные затраты норматив рентабельности — до 20%. Поэтому увеличить прибыль через стоимость ПКИ не выйдет, а сами затраты на ПКИ должны быть прозрачны в <a href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/">раздельном учёте</a>.</p>
+    <p>Главная сложность — обоснование. Фактическая цена закупки ПКИ часто отличается от плановой, и рост стоимости приходится подтверждать документально. Здесь же действует правило ценообразования по <a href="/baza-znaniy/vidy-cen-goz/">постановлению № 1465</a>: прибыль на привнесённые (покупные) затраты, включая ПКИ, ограничена 1%, тогда как на собственные затраты норматив рентабельности — до 25% (п. 54 в ред. постановления Правительства РФ от 21.05.2022 № 935; для цен, сформированных до 24.05.2022, — 20%). Поэтому увеличить прибыль через стоимость ПКИ не выйдет, а сами затраты на ПКИ должны быть прозрачны в <a href="/baza-znaniy/razdelnyy-uchet-goz-275-fz/">раздельном учёте</a>.</p>
     <table>
       <caption>Стоимость ПКИ при ориентировочной и фиксированной цене</caption>
       <tr><th>Параметр</th><th>Ориентировочная цена</th><th>Фиксированная цена</th></tr>
@@ -360,7 +360,7 @@
         <li>накладные расходы — общепроизводственные и общехозяйственные, распределённые по принятой методике;</li>
         <li>прочие прямые затраты, связанные с исполнением контракта.</li>
       </ul>
-      <p>Прибыль в фиксированной цене считается по нормативам Постановления № 1465<a class="fn" href="#ref-2" aria-label="Источник 2">[2]</a>. Базовый ориентир — правило «двадцать плюс один»: до 20% к собственным затратам исполнителя и до 1% к привнесённым (стоимости покупных комплектующих и работ соисполнителей). Конкретные предельные значения зависят от вида продукции. Главное требование к РКМ — каждая статья затрат подтверждена первичными документами и данными раздельного учёта; «нарисованные» цифры на проверке не проходят.</p>
+      <p>Прибыль в фиксированной цене считается по нормативам Постановления № 1465<a class="fn" href="#ref-2" aria-label="Источник 2">[2]</a>. Базовый ориентир — правило «1+25» пункта 54 Положения: до 1% к привнесённым затратам (стоимости покупных комплектующих и работ соисполнителей) и до 25% к собственным затратам исполнителя, но не менее 10% собственных; при обосновании направления прибыли на развитие производства — 25–30%. Для цен, сформированных до 24 мая 2022 года, действует прежний потолок 20%. Главное требование к РКМ — каждая статья затрат подтверждена первичными документами и данными раздельного учёта; «нарисованные» цифры на проверке не проходят.</p>
     </div>
 
     <h2 id="otvet">Ответственность за нарушение порядка ценообразования</h2>
