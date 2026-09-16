@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Отдельный счёт по ГОЗ: ст. 8.3 275-ФЗ, запреты, вывод прибыли</title>
-<meta name="description" content="Статья 8.3 275-ФЗ по пунктам: три правила режима отдельного счёта, перечень «а»–«з», ч. 2.1 с 04.08.2026; 16 запретов ст. 8.4, лимит 2026 и вывод прибыли.">
+<title>Отдельный счёт по ГОЗ (ОБС): ст. 8.3 275-ФЗ, запреты, вывод прибыли</title>
+<meta name="description" content="ОБС (отдельный банковский счёт) по ГОЗ: ст. 8.3 275-ФЗ по пунктам — режим счёта, перечень «а»–«з», ч. 2.1 с 04.08.2026; запреты ст. 8.4, лимит 2026, вывод прибыли.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#F4F1EB" media="(prefers-color-scheme: light)">
