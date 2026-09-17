@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"scheta"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Закрытие лицевого счёта в казначействе: основания, сроки и остаток средств", "description": "Когда закрывают лицевой счёт участника казначейского сопровождения: шесть оснований по п. 49 Порядка № 44н, форма 0531368, сроки, судьба остатка средств.", "inLanguage": "ru-RU", "datePublished": "2026-08-17", "dateModified": "2026-09-04", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__zakrytie-licevogo-scheta-v-kaznachejstve-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__zakrytie-licevogo-scheta-v-kaznachejstve-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__zakrytie-licevogo-scheta-v-kaznachejstve-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/zakrytie-licevogo-scheta-v-kaznachejstve/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Закрытие лицевого счёта в казначействе: основания, сроки и остаток средств", "description": "Когда закрывают лицевой счёт участника казначейского сопровождения: шесть оснований по п. 49 Порядка № 44н, форма 0531368, сроки, судьба остатка средств.", "inLanguage": "ru-RU", "datePublished": "2026-08-17", "dateModified": "2026-09-17", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__zakrytie-licevogo-scheta-v-kaznachejstve-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__zakrytie-licevogo-scheta-v-kaznachejstve-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__zakrytie-licevogo-scheta-v-kaznachejstve-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/zakrytie-licevogo-scheta-v-kaznachejstve/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/", "url": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/", "url": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Закрытие лицевого счёта", "item": "https://kaznaexpert.ru/baza-znaniy/zakrytie-licevogo-scheta-v-kaznachejstve/", "url": "https://kaznaexpert.ru/baza-znaniy/zakrytie-licevogo-scheta-v-kaznachejstve/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Закрытие лицевого счёта в казначействе — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-09-04T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-17T10:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -153,7 +153,7 @@
   <aside class="toc" aria-label="Содержание">
     <div class="toc__label">Содержание</div>
     <ul class="toc__list" id="tocList">
-      <li><a href="#osnovaniya">Шесть оснований для закрытия счёта</a></li>
+      <li><a href="#zakrytie-poryadok">Порядок, срок и принудительное закрытие</a></li><li><a href="#osnovaniya">Шесть оснований для закрытия счёта</a></li>
       <li><a href="#uslovie">Главное условие: ноль показателей и ноль остатка</a></li>
       <li><a href="#ostatok">Что делать с остатком целевых средств</a></li>
       <li><a href="#zayavlenie">Заявление 0531368: кто подаёт и подписывает</a></li>
@@ -175,7 +175,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Счета в казначействе <span class="fresh">Актуально на 2026</span></div>
     <h1>Закрытие лицевого счёта в казначействе: основания, сроки и остаток средств</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>6 мин чтения</span><span class="dot">·</span><span>Обновлено 4 сентября 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>6 мин чтения</span><span class="dot">·</span><span>Обновлено 17 сентября 2026 · добавлен раздел «порядок, срок и принудительное закрытие» с шестью шагами по пунктам 49–60 Порядка № 44н</span></div>
     </div>
 
     <div class="share">
@@ -191,8 +191,7 @@
       </ol>
     </details>
 
-    <div class="tldr">Лицевой счёт участника казначейского сопровождения закрывают по <b>Заявлению на резервирование/закрытие лицевого счёта</b> (код формы по КФД 0531368) — при условии, что на счёте и его разделах нет ни учтённых показателей, ни остатка денежных средств. Шесть оснований для закрытия перечислены в пункте 49 Порядка № 44н: ликвидация или реорганизация, исполнение либо расторжение контракта, изменение типа учреждения, изменение структуры номера счёта, преобразование муниципального образования и иные случаи по закону.
-<p>Остаток нельзя «оставить на счёте»: клиент подаёт распоряжение о совершении казначейских платежей и перечисляет средства по назначению (пункт 52). Закрытие раздела по конкретному контракту — отдельная и более быстрая процедура: заявление не подаётся, достаточно информации об исполнении или расторжении.</p></div>
+    <div class="tldr"><span data-ctx="neuro-0917:zakr">Закрытие казначейского счёта (лицевого счёта 71) по Порядку № 44н: обнулить показатели и остаток, подать через «Электронный бюджет» заявление 0531368; казначейство проверяет документы два рабочих дня (пункт 55), закрывает счёт не позднее пяти рабочих дней после передачи показателей (пункт 51) и уведомляет в течение пяти рабочих дней (пункт 60). Основания — закрытый перечень пункта 49. Принудительно — при двух годах без операций и при реорганизации: казначейство само уведомляет о подаче заявления (пункт 50).</span></div>
 
     <section class="keyfacts grain" aria-label="Ключевые факты">
       <h2>Коротко о главном</h2>
@@ -208,6 +207,19 @@
     <!-- /svc-cta:top -->
 
 
+    <h2 id="zakrytie-poryadok">Закрытие казначейского счёта: порядок, срок и принудительное закрытие</h2>
+    <div class="answer reveal">
+      <ol>
+        <li><b>Подготовка.</b> Остаток целевых средств возвращён заказчику или переведён по его указанию, показатели по разделам контракта — нулевые.</li>
+        <li><b>Заявление 0531368.</b> Подаёт клиент (руководитель или лицо по машиночитаемой доверенности) через «Электронный бюджет»; при реорганизации — после изменений в Сводном реестре.</li>
+        <li><b>Проверка — 2 рабочих дня</b> (пункт 55); документы с ошибками возвращают в тот же срок (пункт 57).</li>
+        <li><b>Прекращение операций и сверка</b> — не позднее следующего рабочего дня после проверки (пункт 58).</li>
+        <li><b>Закрытие — не позднее 5 рабочих дней</b> после передачи показателей (пункт 51); при переходящих показателях — после завершения финансового года.</li>
+        <li><b>Уведомление</b> — в течение 5 рабочих дней после записи в Книге регистрации лицевых счетов (пункт 60); сведения уходят в налоговый орган.</li>
+      </ol>
+      <p><b>Принудительное закрытие.</b> Два года без операций по счёту (год — по разделу контракта) и реорганизация, ликвидация или смена типа учреждения — территориальный орган инициирует закрытие сам: уведомляет о необходимости подать заявление не позднее пятого рабочего дня после внесения изменений в Сводный реестр (пункт 50). Отказать в закрытии могут только при ненулевых показателях или остатке.</p>
+    </div>
+    
     <h2 id="osnovaniya">Шесть оснований для закрытия счёта</h2>
     <div class="answer reveal">
       <p>Пункт 49 Порядка № 44н даёт закрытый перечень. Лицевой счёт закрывают при реорганизации или ликвидации юридического лица и прекращении деятельности индивидуального предпринимателя; при исполнении или расторжении контракта, на основании которого открыты разделы, либо при отсутствии операций два года; при изменении типа учреждения; при изменении структуры номера счёта; при преобразовании муниципального образования; в иных случаях, предусмотренных законодательством.</p>

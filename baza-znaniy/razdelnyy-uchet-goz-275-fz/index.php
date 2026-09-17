@@ -25,7 +25,7 @@
 <!-- PER-PAGE: параметры этой страницы для группировок в Метрике (менять под каждую статью) -->
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"goz"};</script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Раздельный учёт по ГОЗ в 2026 году: как вести, методика, проводки и штрафы", "description": "Раздельный учёт по ГОЗ в 2026: кто обязан по 275-ФЗ, методика распределения затрат, счета и проводки, учётная политика, формы и новые штрафы ст. 15.37.1 КоАП.", "inLanguage": "ru-RU", "datePublished": "2026-06-04", "dateModified": "2026-09-09", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__razdelnyy-uchet-goz-275-fz-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__razdelnyy-uchet-goz-275-fz-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__razdelnyy-uchet-goz-275-fz-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/razdelnyy-uchet-goz-275-fz/"}, "citation": ["Федеральный закон от 28.11.2025 № 426-ФЗ «О федеральном бюджете на 2026 год и на плановый период 2027 и 2028 годов», ст. 5 — consultant.ru — https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/", "Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе», ст. 8 — normativ.kontur.ru — https://normativ.kontur.ru/document?moduleId=1&amp;documentId=503399", "Бюджетный кодекс РФ, глава 24.4 «Казначейское сопровождение» (ст. 242.23–242.27, расширенное казначейское сопровождение — ст. 242.24) — base.garant.ru — https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/", "КоАП РФ, ст. 15.37.1 (введена Федеральным законом от 28.12.2025 № 506-ФЗ, действует с 01.01.2026) — ppt.ru — https://ppt.ru/kodeks/koap/st-15.37.1", "Постановление Правительства РФ от 19.01.1998 № 47 «О Правилах ведения организациями... раздельного учёта результатов финансово-хозяйственной деятельности». КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_17542/", "Приказ Минпромторга России № 334 (состав затрат, включаемых в цену продукции по ГОЗ); Постановление Правительства РФ № 1465 (государственное регулирование цен на продукцию по ГОЗ). Гарант — https://base.garant.ru/71825654/"]}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Раздельный учёт по ГОЗ в 2026 году: как вести, методика, проводки и штрафы", "description": "Раздельный учёт по ГОЗ в 2026: кто обязан по 275-ФЗ, методика распределения затрат, счета и проводки, учётная политика, формы и новые штрафы ст. 15.37.1 КоАП.", "inLanguage": "ru-RU", "datePublished": "2026-06-04", "dateModified": "2026-09-17", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "@id": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/#person", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}, "@id": "https://kaznaexpert.ru/#organization"}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__razdelnyy-uchet-goz-275-fz-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__razdelnyy-uchet-goz-275-fz-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__razdelnyy-uchet-goz-275-fz-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/razdelnyy-uchet-goz-275-fz/"}, "citation": ["Федеральный закон от 28.11.2025 № 426-ФЗ «О федеральном бюджете на 2026 год и на плановый период 2027 и 2028 годов», ст. 5 — consultant.ru — https://www.consultant.ru/document/cons_doc_LAW_520057/d6ac9d5890b286aa7d2de73aa8fb56eecf6d610b/", "Федеральный закон от 29.12.2012 № 275-ФЗ «О государственном оборонном заказе», ст. 8 — normativ.kontur.ru — https://normativ.kontur.ru/document?moduleId=1&amp;documentId=503399", "Бюджетный кодекс РФ, глава 24.4 «Казначейское сопровождение» (ст. 242.23–242.27, расширенное казначейское сопровождение — ст. 242.24) — base.garant.ru — https://base.garant.ru/12112604/c4c9af294a556f592c57e5dc5ad9bbed/", "КоАП РФ, ст. 15.37.1 (введена Федеральным законом от 28.12.2025 № 506-ФЗ, действует с 01.01.2026) — ppt.ru — https://ppt.ru/kodeks/koap/st-15.37.1", "Постановление Правительства РФ от 19.01.1998 № 47 «О Правилах ведения организациями... раздельного учёта результатов финансово-хозяйственной деятельности». КонсультантПлюс — https://www.consultant.ru/document/cons_doc_LAW_17542/", "Приказ Минпромторга России № 334 (состав затрат, включаемых в цену продукции по ГОЗ); Постановление Правительства РФ № 1465 (государственное регулирование цен на продукцию по ГОЗ). Гарант — https://base.garant.ru/71825654/"]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://kaznaexpert.ru/", "url": "https://kaznaexpert.ru/"},{"@type":"ListItem","position":2,"name":"База знаний","item":"https://kaznaexpert.ru/baza-znaniy/", "url": "https://kaznaexpert.ru/baza-znaniy/"},{"@type":"ListItem","position":3,"name":"Раздельный учёт по ГОЗ", "url": "https://kaznaexpert.ru/baza-znaniy/razdelnyy-uchet-goz-275-fz/"}]}
@@ -88,7 +88,7 @@
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-04T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-09-09T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-17T10:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -159,7 +159,7 @@
   <aside class="toc" aria-label="Содержание">
     <div class="toc__label">Содержание</div>
     <ul class="toc__list" id="tocList">
-      <li><a href="#chto-takoe">Что такое раздельный учёт</a></li>
+      <li><a href="#chto-takoe">Раздельный учёт ГОЗ: что это</a></li>
       <li><a href="#kto-obyazan">Кто обязан вести</a></li>
       <li><a href="#normativ">Нормативная база</a></li>
       <li><a href="#princip">Принцип обособления</a></li>
@@ -184,7 +184,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Гособоронзаказ <span class="fresh">Актуально на 2026</span></div>
     <h1>Раздельный учёт по ГОЗ в 2026 году: как вести, методика, проводки и штрафы</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>18 мин чтения</span><span class="dot">·</span><span>Обновлено 9 сентября 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>18 мин чтения</span><span class="dot">·</span><span>Обновлено 17 сентября 2026 · прямой ответ — списком обязанностей исполнителя: объекты учёта, регистры, отчёт по постановлению № 47, ответственность</span></div>
     </div>
 
     <div class="share">
@@ -196,7 +196,7 @@
 
     <details class="mtoc"><summary>Содержание статьи</summary>
       <ol>
-        <li><a href="#chto-takoe">Что такое раздельный учёт</a></li><li><a href="#kto-obyazan">Кто обязан вести</a></li>
+        <li><a href="#chto-takoe">Раздельный учёт ГОЗ: что это</a></li><li><a href="#kto-obyazan">Кто обязан вести</a></li>
         <li><a href="#normativ">Нормативная база</a></li><li><a href="#princip">Принцип обособления</a></li>
         <li><a href="#zatraty">Распределение затрат</a></li><li><a href="#provodki">Счета и проводки</a></li>
         <li><a href="#politika">Учётная политика</a></li><li><a href="#otchetnost">Формы и отчётность</a></li>
@@ -225,10 +225,15 @@
     <!-- /svc-cta:top -->
 
 
-    <h2 id="chto-takoe">Что такое раздельный учёт по ГОЗ</h2>
+    <h2 id="chto-takoe">Раздельный учёт ГОЗ: что это и что обязан вести исполнитель</h2>
     <div class="answer reveal">
-      <p class="lead-p">Раздельный учёт по гособоронзаказу — это способ ведения бухгалтерского учёта, при котором организация обособленно отражает финансовые результаты по <b>каждому</b> государственному контракту ГОЗ: доходы, прямые и накладные расходы, активы и обязательства учитываются отдельно от остальной хозяйственной деятельности и отдельно друг от друга по разным контрактам. Цель — показать государству реальную структуру цены и подтвердить, что целевые средства израсходованы строго на исполнение конкретного контракта. Обоснование цены готовят в составе <a href="/baza-znaniy/rkm-po-gosoboronzakazu/">расчётно-калькуляционных материалов (РКМ)</a>.</p>
-      <p>Практически это означает аналитический учёт в разрезе <span class="term" tabindex="0" data-tip="Идентификатор государственного контракта — 25-значный код, который заказчик присваивает контракту ГОЗ."><a href="/baza-znaniy/identifikator-gosudarstvennogo-kontrakta-igk/">ИГК</a></span>: к счетам затрат и расчётов открываются субсчета или аналитические признаки по каждому контракту, а первичные документы маркируются идентификатором контракта. Раздельный учёт — это не отдельная «вторая бухгалтерия», а аналитический срез внутри основного учёта, выстроенный так, чтобы по любому контракту можно было собрать полную картину доходов и затрат.</p>
+      <p class="lead-p" data-ctx="neuro-0917:ru">Раздельный учёт ГОЗ — обособленное отражение в бухгалтерском учёте доходов, расходов, активов и обязательств по каждому контракту гособоронзаказа. Вести его обязан каждый исполнитель контракта по гособоронзаказу — головной исполнитель и вся кооперация (пункт 18 части 1 статьи 8 Федерального закона № 275-ФЗ) — по Правилам, утверждённым постановлением Правительства от 19.01.1998 № 47. Что именно:</p>
+      <ul>
+        <li><b>по каждому контракту отдельно</b> — доходы, прямые и накладные расходы, активы, обязательства и финансовый результат;</li>
+        <li><b>регистры</b> — аналитика в бухгалтерском учёте по контракту (субконто «Договор» или идентификатор государственного контракта на счетах 20, 25, 26, 90), базы распределения накладных расходов и учётная политика с методикой;</li>
+        <li><b>отчёт</b> — отчёт об исполнении государственного контракта по форме постановления № 47 с расшифровкой фактических затрат; порядок и срок его представления устанавливает государственный заказчик (пункт 3 постановления), контроль — военное представительство;</li>
+        <li><b>при казначейском сопровождении</b> — данные раздельного учёта сверяет казначейство, нарушение с 1 января 2026 года наказуемо по статье 15.37.1 КоАП.</li>
+      </ul>
     </div>
 
     <h2 id="kto-obyazan">Кто обязан вести раздельный учёт по ГОЗ</h2>
@@ -440,7 +445,7 @@
         <li id="ref-5">Постановление Правительства РФ от 19.01.1998 № 47 «О Правилах ведения организациями... раздельного учёта результатов финансово-хозяйственной деятельности». <a href="https://www.consultant.ru/document/cons_doc_LAW_17542/" target="_blank" rel="noopener">КонсультантПлюс</a></li>
         <li id="ref-6">Приказ Минпромторга России от 08.02.2019 № 334 в редакции от 26.11.2025 (состав затрат, включаемых в цену продукции по ГОЗ); Постановление Правительства РФ от 02.12.2017 № 1465 в редакции от 14.02.2026 (государственное регулирование цен на продукцию по ГОЗ). <a href="https://base.garant.ru/71825654/" target="_blank" rel="noopener">Гарант</a></li>
       </ol>
-      <p class="refs__note">Материал носит справочный характер и не заменяет индивидуальную консультацию; точные требования к раздельному учёту определяются условиями конкретного контракта и применимыми НПА. Проверено экспертом КазнаЭксперт. Дата актуализации — 9 сентября 2026.</p>
+      <p class="refs__note">Материал носит справочный характер и не заменяет индивидуальную консультацию; точные требования к раздельному учёту определяются условиями конкретного контракта и применимыми НПА. Проверено экспертом КазнаЭксперт. Дата актуализации — 17 сентября 2026.</p>
     </div>
   
     <div class="art-fb" id="artFb" style="margin:34px 0 6px;padding:18px 22px;background:var(--soft,#fbf8f1);border:1px solid var(--line,#e4ddd0);border-radius:14px;display:flex;align-items:center;gap:14px;flex-wrap:wrap">

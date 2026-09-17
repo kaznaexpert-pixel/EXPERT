@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"elektronnyy-byudzhet"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Регистрация в ГИИС «Электронный бюджет»: как подключиться исполнителю госконтракта в 2026 году", "description": "Как исполнителю госконтракта зарегистрироваться в ГИИС «Электронный бюджет» в 2026: регистрация в ПОИБ СОБИ, электронная подпись, СКЗИ, роли и МЧД — пошагово.", "inLanguage": "ru-RU", "datePublished": "2026-08-04", "dateModified": "2026-09-10", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__registraciya-v-giis-elektronnyy-byudzhet-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__registraciya-v-giis-elektronnyy-byudzhet-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__registraciya-v-giis-elektronnyy-byudzhet-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/registraciya-v-giis-elektronnyy-byudzhet/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Регистрация в ГИИС «Электронный бюджет»: как подключиться исполнителю госконтракта в 2026 году", "description": "Как исполнителю госконтракта зарегистрироваться в ГИИС «Электронный бюджет» в 2026: регистрация в ПОИБ СОБИ, электронная подпись, СКЗИ, роли и МЧД — пошагово.", "inLanguage": "ru-RU", "datePublished": "2026-08-04", "dateModified": "2026-09-17", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__registraciya-v-giis-elektronnyy-byudzhet-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__registraciya-v-giis-elektronnyy-byudzhet-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__registraciya-v-giis-elektronnyy-byudzhet-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/registraciya-v-giis-elektronnyy-byudzhet/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/", "url": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/", "url": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Регистрация в ГИИС «Электронный бюджет»", "item": "https://kaznaexpert.ru/baza-znaniy/registraciya-v-giis-elektronnyy-byudzhet/", "url": "https://kaznaexpert.ru/baza-znaniy/registraciya-v-giis-elektronnyy-byudzhet/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Регистрация в ГИИС «Электронный бюджет»: подключение в 2026 — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-09-10T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-17T10:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -157,7 +157,7 @@
       <li><a href="#chto-takoe">Что такое ГИИС «Электронный бюджет» и зачем регистрация исполнителю</a></li>
       <li><a href="#komu-nuzhno">Кому нужна регистрация в системе</a></li>
       <li><a href="#pravovaya">Правовая база системы</a></li>
-      <li><a href="#shagi">Пошаговый порядок регистрации и подключения</a></li>
+      <li><a href="#shagi">Как зарегистрироваться: пошаговый порядок</a></li>
       <li><a href="#bez-bumagi">Бумажную заявку для сопровождения отменили</a></li>
       <li><a href="#podpis-skzi">Электронная подпись, СКЗИ и настройка рабочего места</a></li>
       <li><a href="#roli-mchd">Роли пользователей и машиночитаемая доверенность</a></li>
@@ -175,7 +175,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Электронный бюджет <span class="fresh">Актуально на 2026</span></div>
     <h1>Регистрация в ГИИС «Электронный бюджет»: как подключиться исполнителю госконтракта в 2026 году</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>12 мин чтения</span><span class="dot">·</span><span>Обновлено 10 сентября 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>12 мин чтения</span><span class="dot">·</span><span>Обновлено 17 сентября 2026 · прямой ответ переписан по шагам со сроком подключения; ссылка на состав системы ведёт на страницу входа</span></div>
     </div>
 
     <div class="share">
@@ -187,7 +187,7 @@
 
     <details class="mtoc"><summary>Содержание статьи</summary>
       <ol>
-        <li><a href="#korotkiy-otvet">Короткий ответ: с чего начинается подключение</a></li><li><a href="#chto-takoe">Что такое ГИИС «Электронный бюджет» и зачем регистрация исполнителю</a></li><li><a href="#komu-nuzhno">Кому нужна регистрация в системе</a></li><li><a href="#pravovaya">Правовая база</a></li><li><a href="#shagi">Пошаговый порядок</a></li>
+        <li><a href="#korotkiy-otvet">Короткий ответ: с чего начинается подключение</a></li><li><a href="#chto-takoe">Что такое ГИИС «Электронный бюджет» и зачем регистрация исполнителю</a></li><li><a href="#komu-nuzhno">Кому нужна регистрация в системе</a></li><li><a href="#pravovaya">Правовая база</a></li><li><a href="#shagi">Как зарегистрироваться: пошаговый порядок</a></li>
         <li><a href="#bez-bumagi">Отмена бумажной заявки</a></li><li><a href="#podpis-skzi">Электронная подпись, СКЗИ и настройка рабочего места</a></li><li><a href="#roli-mchd">Роли и МЧД</a></li><li><a href="#kody-mchd">Коды полномочий</a></li>
         <li><a href="#tehnika">Требования к рабочему месту</a></li><li><a href="#sroki-oshibki">Сроки подключения и частые ошибки</a></li><li><a href="#glossary">Глоссарий</a></li><li><a href="#faq">Частые вопросы</a></li>
       </ol>
@@ -211,12 +211,12 @@
 
     <h2 id="korotkiy-otvet">Короткий ответ: с чего начинается подключение</h2>
     <div class="answer reveal">
-      <p class="lead-p">Чтобы работать в ГИИС «Электронный бюджет», исполнитель сначала регистрирует организацию в подсистеме обеспечения информационной безопасности ПОИБ СОБИ: вход выполняет руководитель по квалифицированной электронной подписи либо через ЕСИА. Дальше — заявка на подключение, оформление СКЗИ, настройка рабочего места, регистрация пользователей с распределением ролей и машиночитаемые доверенности на сотрудников.</p>
+      <p class="lead-p" data-ctx="neuro-0917:reg">Чтобы зарегистрироваться в ГИИС «Электронный бюджет», исполнитель проходит четыре шага: руководитель входит в подсистему обеспечения информационной безопасности ПОИБ СОБИ по квалифицированной электронной подписи или через ЕСИА (публичный портал budget.gov.ru не используется); подаёт заявку на подключение в территориальный орган Казначейства; оформляет средства криптозащиты и настраивает рабочее место; регистрирует пользователей с ролями и машиночитаемыми доверенностями. Срок зависит от готовности подписи и рабочего места: при готовых сертификатах подключение и открытие счёта идут параллельно.</p>
     </div>
     <p>Чтобы работать в ГИИС «Электронный бюджет», исполнителю казначейского сопровождения сначала нужно зарегистрировать организацию в подсистеме обеспечения информационной безопасности — ПОИБ СОБИ, и только потом получить доступ к рабочим подсистемам. Вход и регистрацию выполняет руководитель организации по квалифицированной электронной подписи либо через ЕСИА с подтверждённым профилем организации.</p>
     <p>Дальше порядок укладывается в несколько шагов: заявка на подключение, оформление средств криптографической защиты информации (СКЗИ), настройка рабочего места, регистрация пользователей с распределением ролей и оформление машиночитаемых доверенностей на сотрудников. Ниже — каждый шаг по порядку и типичные места, где подключение затягивается.</p>
 
-    <p data-ctx="giis-root">Если нужен не порядок регистрации, а понимание системы в целом — кто её операторы, какие подсистемы в ней есть и кто обязан в ней работать, — см. обзор <a href="/baza-znaniy/giis-elektronnyy-byudzhet/">ГИИС «Электронный бюджет»: что это за система</a>.</p>
+    <p data-ctx="giis-root">Если нужен не порядок регистрации, а понимание системы в целом — кто её операторы, какие подсистемы в ней есть и кто обязан в ней работать, — см. обзор <a href="/baza-znaniy/elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta/#giis-sostav">ГИИС «Электронный бюджет»: что это за система</a>.</p>
 
     <h2 id="chto-takoe">Что такое ГИИС «Электронный бюджет» и зачем регистрация исполнителю</h2>
     <p>ГИИС «Электронный бюджет» — государственная интегрированная информационная система управления общественными финансами; её оператором выступает Федеральное казначейство. Через систему участники казначейского сопровождения взаимодействуют с территориальным органом казначейства в электронном виде.</p>
@@ -247,7 +247,7 @@
       <tr><td>п. 25</td><td>Субъект системы сам определяет уполномоченных лиц и их полномочия, а также лиц, ответственных за техническое обеспечение работы</td><td>Приказ о назначении ответственных — не формальность, а требование Положения</td></tr>
     </table>
 
-    <h2 id="shagi">Пошаговый порядок регистрации и подключения</h2>
+    <h2 id="shagi">Как зарегистрироваться в ГИИС «Электронный бюджет»: пошаговый порядок</h2>
     <p>Порядок подключения участника выстраивается последовательно — каждый следующий шаг опирается на предыдущий.</p>
     <ol>
       <li><b>Квалифицированная электронная подпись руководителя.</b> Организация бюджетной сферы получает её в удостоверяющем центре Федерального казначейства. Коммерческая организация под казначейским сопровождением выбирает: сертификат юридического лица от удостоверяющего центра ФНС России на руководителя либо сертификаты должностных лиц от удостоверяющего центра казначейства по перечню постановления Правительства РФ от 10.07.2020 № 1018 — «Электронный бюджет» принимает оба.</li>
@@ -427,7 +427,7 @@
         <li id="ref-7">Письма Федерального казначейства от 12.02.2025 № 07-04-05/04-3889 и от 31.03.2025 № 07-04-05/04-8762 «О применении электронной машиночитаемой доверенности»; приказ Федерального казначейства от 22.12.2021 № 44н (ред. от 30.09.2025) и приказ Федерального казначейства от 06.12.2024 № 22н; приказ Федерального казначейства от 28.12.2023 № 26н</li>
         <li id="ref-8">Федеральное казначейство. Раздел «Система обеспечения безопасности информации»: требования к рабочему месту, точки входа, памятки по переводу компонента казначейского сопровождения — <a href="https://roskazna.gov.ru/gis/sistema-obespecheniya-bezopasnosti-informacii-fk" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
       </ol>
-      <p class="refs__note">Порядок подключения и комплект документов могут различаться по территориальным органам; актуальные руководства пользователя и требования к форматам обмена публикует Федеральное казначейство. Материал носит справочный характер. Проверено экспертом КазнаЭксперт. Дата актуализации — 10 сентября 2026.</p>
+      <p class="refs__note">Порядок подключения и комплект документов могут различаться по территориальным органам; актуальные руководства пользователя и требования к форматам обмена публикует Федеральное казначейство. Материал носит справочный характер. Проверено экспертом КазнаЭксперт. Дата актуализации — 17 сентября 2026.</p>
     </div>
   </article>
 

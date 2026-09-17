@@ -40,6 +40,8 @@ RewriteRule ^blog/?$ /baza-znaniy/ [R=301,L]
 
 # --- Удалённые страницы экспертов → /komanda/ (301) ---
 RewriteRule ^komanda/(anton|elena|natalya|stella|yuliya|anna)/?$ /komanda/ [R=301,L]
+# neuro-0917:giis-301 — корень «ГИИС ЭБ» отдан странице входа (решение 17.09)
+RewriteRule ^baza-znaniy/giis-elektronnyy-byudzhet/?$ /baza-znaniy/elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta/ [R=301,L]
 # --- Дубль статьи об авансе → каноническая (301, склейка МПК 02.07.2026) ---
 RewriteRule ^baza-znaniy/kaznacheyskoe-soprovozhdenie-avansovyh-platezhey/?$ /baza-znaniy/avans-pri-kaznacheyskom-soprovozhdenii/ [R=301,L]
 
