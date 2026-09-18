@@ -77,7 +77,7 @@
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Нормативная база казначейского сопровождения 2026 | КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-09-03T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-17T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -180,7 +180,7 @@
       .codechip b{color:var(--accent,#8B6F47)}
       .codechip:hover{border-color:rgba(139,111,71,.5);background:var(--paper,#FBF9F4)}
     </style>
-    <div class="hero"><img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy"><img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy"><div class="eyebrow">База знаний · Нормативная база <span class="fresh">Актуально на 2026</span></div><h1>Нормативная база казначейского сопровождения — 2026</h1><div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>Обновлено 3 сентября 2026</span></div></div>
+    <div class="hero"><img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy"><img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy"><div class="eyebrow">База знаний · Нормативная база <span class="fresh">Актуально на 2026</span></div><h1>Нормативная база казначейского сопровождения — 2026</h1><div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>Обновлено 17 сентября 2026</span></div></div>
     <div class="tldr">Полная нормативная база казначейского сопровождения госконтрактов на 2026 год: <b>Бюджетный кодекс, федеральные законы, постановления Правительства, приказы Минфина и Казначейства, письма-разъяснения</b>. По каждому документу — что он регулирует, действующая редакция и ссылка на первоисточник. По ключевым актам — отдельные разборы простым языком.</div>
 
     <h2 id="chto">Зачем нужна эта база</h2>

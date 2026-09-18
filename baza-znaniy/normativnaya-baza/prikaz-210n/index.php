@@ -77,7 +77,7 @@
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Казначейское сопровождение ГОЗ — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-03T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-09-09T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-17T09:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -179,7 +179,7 @@
       .content ol.ol li{margin:8px 0;line-height:1.6;padding-left:4px}
       .content ol.ol li::marker{color:var(--accent,#8B6F47);font-weight:600}
     </style>
-    <div class="hero"><img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy"><img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy"><div class="eyebrow">База знаний · Нормативная база <span class="fresh">Актуально на 2026</span></div><h1>Приказ Минфина № 210н — раздельный учёт при казначейском сопровождении</h1><div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>Обновлено 5 июня 2026</span></div></div>
+    <div class="hero"><img class="hero__crest hero__crest--light" src="/img/logogold-crest.webp" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy"><img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy"><div class="eyebrow">База знаний · Нормативная база <span class="fresh">Актуально на 2026</span></div><h1>Приказ Минфина № 210н — раздельный учёт при казначейском сопровождении</h1><div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>Обновлено 17 сентября 2026</span></div></div>
     <div class="npa-meta"><div><span>Документ</span><b>Приказ Минфина России от 10.12.2021 № 210н «О порядке ведения учёта доходов, затрат, произведённых участниками казначейского сопровождения в целях достижения результатов, установленных при предоставлении целевых средств, по каждому государственному (муниципальному) контракту, договору (соглашению), контракту (договору)»</b></div><div class="npa-meta-row"><span>Дата: 10 декабря 2021</span><span>действует, ред. от 27.06.2025 (приказ № 83н); ранее — приказ от 16.08.2023 № 135н</span><a href="https://www.consultant.ru/document/cons_doc_LAW_405143/" target="_blank" rel="noopener nofollow">Первоисточник →</a></div></div>
     <div class="tldr">Приказ № 210н — единственный акт, который прямо описывает, из чего складывается раздельный учёт участника казначейского сопровождения: обособленный учёт по каждому контракту, четыре обязательных элемента, база распределения накладных и идентификатор контракта в каждой первичке. Именно по его пунктам проверяющий читает вашу учётную политику и регистры. Действует в редакции приказа от 27.06.2025 № 83н.</div>
 
@@ -226,7 +226,9 @@
       <div class="railform__trust"><span><b>15+ лет</b> в Казначействе · <b>7000+</b> контрактов</span><span>Ответ эксперта за <b>1 час</b> · NDA по запросу</span></div>
       <div class="success" id="leadSuccess" role="status" aria-live="polite"><div class="success__ic"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div><h3>Заявка принята</h3><p>Эксперт перезвонит <b>в течение 1 часа</b> (9:00–21:00 МСК).</p></div>
     </form>
-  </aside>
+  <!-- rail-svc -->
+<a class="rail-svc" href="/uslugi/soprovozhdenie-postoplata/"><span class="rail-svc__k">Поможем под ключ</span><span class="rail-svc__n">Сопровождение контракта (постоплата) →</span></a>
+</aside>
 </div>
 
 <section class="trust" aria-label="Проверка в реестрах"><div class="trust__box"><div class="trust__lead"><b>Проверьте нас в открытых реестрах</b>ИП Михайлов Я.А. · ИНН 781428314589 · ОГРНИП 321784700367672</div><div class="trust__badges"><a class="badge" href="https://www.rusprofile.ru/ip/321784700367672" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg><b>Rusprofile</b></a><a class="badge" href="https://zachestnyibiznes.ru/company/ip/321784700367672_781428314589" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg>За честный <b>бизнес</b></a><a class="badge" href="https://www.audit-it.ru/contragent/fl/781428314589_mikhailov-iaroslav-alekseevich" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 8.5-8 10-4.6-1.5-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg><b>Audit-it</b></a></div></div></section>
