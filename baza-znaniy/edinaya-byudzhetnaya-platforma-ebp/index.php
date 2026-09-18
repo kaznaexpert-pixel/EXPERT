@@ -26,7 +26,7 @@
 <script>window.YM_PARAMS = {page_type:"cluster", cluster:"elektronnyy-byudzhet"};</script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Единая бюджетная платформа (ЕБП): что меняется для исполнителя контракта в 2026 году", "description": "ЕБП — новая учётно-платёжная модель казначейства взамен АСФК: конструктор РСКП, МЧД вместо карточек, версия 3.2 с 18.07.2026 и что это значит для исполнителя.", "inLanguage": "ru-RU", "datePublished": "2026-08-10", "dateModified": "2026-09-02", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__edinaya-byudzhetnaya-platforma-ebp-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__edinaya-byudzhetnaya-platforma-ebp-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__edinaya-byudzhetnaya-platforma-ebp-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/edinaya-byudzhetnaya-platforma-ebp/"}}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Единая бюджетная платформа (ЕБП): что меняется для исполнителя контракта в 2026 году", "description": "ЕБП — новая учётно-платёжная модель казначейства взамен АСФК: конструктор РСКП, МЧД вместо карточек, версия 3.2 с 18.07.2026 и что это значит для исполнителя.", "inLanguage": "ru-RU", "datePublished": "2026-08-10", "dateModified": "2026-09-18", "author": {"@type": "Person", "name": "Ярослав Михайлов", "jobTitle": "Главный эксперт по казначейскому сопровождению", "url": "https://kaznaexpert.ru/komanda/mihailov-yaroslav/", "image": "https://kaznaexpert.ru/img/team/mihailov-photo.jpg"}, "publisher": {"@type": "Organization", "name": "КазнаЭксперт", "url": "https://kaznaexpert.ru", "logo": {"@type": "ImageObject", "url": "https://kaznaexpert.ru/img/logogold.png"}}, "image": ["https://kaznaexpert.ru/img/og/baza-znaniy__edinaya-byudzhetnaya-platforma-ebp-16x9.jpg", "https://kaznaexpert.ru/img/og/baza-znaniy__edinaya-byudzhetnaya-platforma-ebp-4x3.webp", "https://kaznaexpert.ru/img/og/baza-znaniy__edinaya-byudzhetnaya-platforma-ebp-1x1.webp"], "mainEntityOfPage": {"@type": "WebPage", "@id": "https://kaznaexpert.ru/baza-znaniy/edinaya-byudzhetnaya-platforma-ebp/"}}
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://kaznaexpert.ru/", "url": "https://kaznaexpert.ru/"}, {"@type": "ListItem", "position": 2, "name": "База знаний", "item": "https://kaznaexpert.ru/baza-znaniy/", "url": "https://kaznaexpert.ru/baza-znaniy/"}, {"@type": "ListItem", "position": 3, "name": "Единая бюджетная платформа (ЕБП)", "item": "https://kaznaexpert.ru/baza-znaniy/edinaya-byudzhetnaya-platforma-ebp/", "url": "https://kaznaexpert.ru/baza-znaniy/edinaya-byudzhetnaya-platforma-ebp/"}]}
@@ -86,7 +86,7 @@
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="Единая бюджетная платформа (ЕБП): что меняется в 2026 — КазнаЭксперт">
 <meta property="article:published_time" content="2026-06-05T09:00:00+03:00">
-<meta property="article:modified_time" content="2026-09-02T09:00:00+03:00">
+<meta property="article:modified_time" content="2026-09-18T10:00:00+03:00">
 <meta property="article:author" content="https://kaznaexpert.ru/komanda/mihailov-yaroslav/">
 <meta property="article:section" content="База знаний">
 <meta name="twitter:card" content="summary_large_image">
@@ -174,7 +174,7 @@
       <img class="hero__crest hero__crest--dark" src="/img/LogoWhite.png" alt="" aria-hidden="true" width="188" height="137" decoding="async" loading="lazy">
       <div class="eyebrow">База знаний · Электронный бюджет <span class="fresh">Актуально на 2026</span></div>
     <h1>Единая бюджетная платформа (ЕБП): что меняется для исполнителя контракта в 2026 году</h1>
-    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 2 сентября 2026</span></div>
+    <div class="byline"><span class="av">ЯМ</span><span>Автор: <a href="/komanda/mihailov-yaroslav/">Ярослав Михайлов</a>, главный эксперт</span><span class="dot">·</span><span>15+ лет в Казначействе</span><span class="dot">·</span><span>13 мин чтения</span><span class="dot">·</span><span>Обновлено 18 сентября 2026 · первый экран переписан под запросы «ЕБП вход в личный кабинет»: что это и где вход; снят неработающий адрес lk.budget.gov.ru</span></div>
     </div>
 
     <div class="share">
@@ -190,7 +190,7 @@
       </ol>
     </details>
 
-    <div class="tldr">Единая бюджетная платформа (ЕБП) — новая учётно-платёжная модель ГИИС «Электронный бюджет», которой Федеральное казначейство заменяет технически устаревшую АСФК. Ключевые отличия для участника казначейского сопровождения: операции отражаются в режиме реального времени одновременно на лицевом и казначейском счетах; вместо 16 форм распоряжений — конструктор с автозаполнением до 80% реквизитов; вместо карточек образцов подписей — машиночитаемые доверенности, которые руководитель оформляет прямо в системе; платежи проходят через три платёжных центра, а выплаты через НСПК санкционируются автоматически. С 18 июля 2026 года действует версия 3.2: массовое санкционирование распоряжений, интеграция с бухгалтерскими системами по 41-м лицевым счетам и коды поступлений в документах по наличным. Полный переход с закрытием старого контура запланирован до 2029 года.</div>
+    <div class="tldr" data-ctx="radar-0918:ebp">Единая бюджетная платформа (ЕБП) — новая учётно-платёжная модель ГИИС «Электронный бюджет», которой Федеральное казначейство заменяет устаревшую АСФК: операции видны в реальном времени, распоряжения собираются в конструкторе, полномочия — по машиночитаемой доверенности. Отдельного сайта «ЕБП финансы» нет: вход — по квалифицированной электронной подписи через ГИИС «Электронный бюджет»; исполнителям контрактов под казначейским сопровождением — через компонент eb.cert.roskazna.ru. Как войти и что нужно для входа — <a href="#vhod">в разделе ниже</a>.</div>
 
     <section class="keyfacts grain" aria-label="Ключевые факты">
       <h2>Коротко о главном</h2>
@@ -212,7 +212,7 @@
 
     <h2 id="vhod">Вход в ЕБП: где личный кабинет</h2>
     <div class="answer reveal">
-      <p>Отдельного сайта «ЕБП финансы» нет: вход в личный кабинет — через ГИИС «Электронный бюджет» на <a href="https://lk.budget.gov.ru/" target="_blank" rel="noopener nofollow">lk.budget.gov.ru</a>. Авторизация — по квалифицированной электронной подписи; новые интерфейсы платформы открываются из того же кабинета по мере миграции.</p>
+      <p>Отдельного сайта «ЕБП финансы» нет: вход в личный кабинет — через ГИИС «Электронный бюджет» по квалифицированной электронной подписи. Исполнители контрактов под казначейским сопровождением входят через компонент казначейского сопровождения eb.cert.roskazna.ru; старая закладка lk.budget.gov.ru для подсистемы учёта и отчётности не работает с 27 ноября 2021 года. Новые интерфейсы платформы открываются из того же кабинета по мере миграции. Пошаговый вход и типовые ошибки — в статье <a href="/baza-znaniy/elektronnyy-byudzhet-dlya-ispolnitelya-kontrakta/#vhod">о входе в «Электронный бюджет» по сертификату</a>.</p>
     </div>
     <div class="answer reveal">
       <p>Для входа нужны три вещи: действующий сертификат подписи, <a href="/baza-znaniy/nastroyka-arm-elektronnyy-byudzhet/">настроенное рабочее место</a> (криптопровайдер, плагин, корневые сертификаты) и полномочия пользователя — для сотрудников это машиночитаемая доверенность. Если кабинет не открывается, начните с <a href="/baza-znaniy/poib-sobi-elektronnyy-byudzhet/">диагностики ПОИБ СОБИ</a>.</p>
@@ -336,7 +336,7 @@
         <li id="ref-2">ГИС-документы (форматы обмена) — Федеральное казначейство — <a href="https://roskazna.gov.ru/gis/dokumenty/" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
         <li id="ref-3">ГИИС «Электронный бюджет» — Федеральное казначейство — <a href="https://roskazna.gov.ru/gis/elektronnyj-byudzhet/" target="_blank" rel="noopener">roskazna.gov.ru</a></li>
       </ol>
-      <p class="refs__note">Материал подготовлен по выступлениям представителей Федерального казначейства на вебинаре о релизе версии 3.2 ЕБП; функциональность и сроки могут уточняться — актуальный перечень изменений публикуется в разделе «Журнал версий» платформы. Проверено экспертом КазнаЭксперт. Дата актуализации — 2 сентября 2026.</p>
+      <p class="refs__note">Материал подготовлен по выступлениям представителей Федерального казначейства на вебинаре о релизе версии 3.2 ЕБП; функциональность и сроки могут уточняться — актуальный перечень изменений публикуется в разделе «Журнал версий» платформы. Проверено экспертом КазнаЭксперт. Дата актуализации — 18 сентября 2026.</p>
     </div>
   </article>
 

@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Казначейское сопровождение по ГОЗ и 275-ФЗ под ключ — КазнаЭксперт</title>
+<title>Услуги казначейского сопровождения госконтрактов и ГОЗ — КазнаЭксперт</title>
 <meta name="description" content="Ведём контракты под казначейским сопровождением по гособоронзаказу, расширенному режиму и сложным случаям: сведения, платежи, ИГК, раздельный учёт, соисполнители, РКМ. Фиксированная цена по этапу контракта, без лимита на число операций.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -68,7 +68,7 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Казначейское сопровождение по ГОЗ и сложным контрактам — под ключ">
+<meta property="og:title" content="Услуги казначейского сопровождения госконтрактов и ГОЗ — КазнаЭксперт">
 <meta property="og:description" content="Сведения, каждый платёж, ИГК, соисполнители, раздельный учёт, РКМ. Цены фиксированные по этапу контракта, без лимита на операции.">
 <meta property="og:url" content="https://kaznaexpert.ru/uslugi/kaznacheyskoe-soprovozhdenie/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og/uslugi__kaznacheyskoe-soprovozhdenie-16x9.jpg">

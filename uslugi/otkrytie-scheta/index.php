@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Открытие казначейского счёта под ключ — 2 рабочих дня, 35 000 ₽</title>
+<title>Открытие казначейского счёта — услуга за 2 рабочих дня, 35 000 ₽</title>
 <meta name="description" content="Откроем лицевой счёт 71 в казначействе за два рабочих дня: карточка контракта, МЧД, Сводный реестр, «Электронный бюджет». Фиксированная цена 35 000 ₽, вся Россия.">
 <meta name="author" content="Ярослав Михайлов">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -83,7 +83,7 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:site_name" content="КазнаЭксперт">
-<meta property="og:title" content="Открытие казначейского счёта под ключ — 2 дня, 35 000 ₽">
+<meta property="og:title" content="Открытие казначейского счёта — услуга за 2 рабочих дня, 35 000 ₽">
 <meta property="og:description" content="Лицевой счёт 71 за два рабочих дня: карточка контракта, МЧД, Сводный реестр, «Электронный бюджет». Фиксированная цена, вся Россия.">
 <meta property="og:url" content="https://kaznaexpert.ru/uslugi/otkrytie-scheta/">
 <meta property="og:image" content="https://kaznaexpert.ru/img/og/uslugi__otkrytie-scheta-16x9.jpg">
