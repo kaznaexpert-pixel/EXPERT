@@ -246,7 +246,7 @@
       .peni-calc .calc__grid b{color:#fff;font-weight:600;font-variant-numeric:tabular-nums}
       @media(max-width:560px){.peni-calc .calc__grid{grid-template-columns:1fr}}
       </style>
-      <h3>Калькулятор пеней по 44-ФЗ</h3>
+      <h3>Калькулятор пени по 44-ФЗ за просроченное исполнение контракта</h3>
       <p class="calc__sub">Оценка пеней за просрочку исполнения контракта поставщиком по ч. 7 ст. 34 № 44-ФЗ. Сдвиньте ползунок дней — расчёт пересчитается мгновенно.</p>
       <div class="calc__row">
         <div>
